@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/10/2017011434/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2017. - Décret modifiant le décret du 15 juillet 1997 contenant le code flamand du Logement, en ce qui concerne l'amélioration de la sécurité incendie par l'introduction générale de détecteurs de fumée optiques pour habitations

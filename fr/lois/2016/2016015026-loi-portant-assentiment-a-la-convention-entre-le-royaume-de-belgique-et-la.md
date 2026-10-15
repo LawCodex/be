@@ -12,7 +12,7 @@ entry_into_force: 2016-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/03/13/2016015026/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2016. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République populaire de Chine sur l'entraide judiciaire en matière pénale, faite à Bruxelles le 31 mars 2014

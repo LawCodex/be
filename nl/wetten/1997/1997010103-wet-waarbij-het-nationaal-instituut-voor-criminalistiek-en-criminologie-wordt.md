@@ -12,7 +12,7 @@ entry_into_force: 1998-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/15/1997010103/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1997. - Wet waarbij het Nationaal Instituut voor Criminalistiek en Criminologie wordt opgericht als staatsdienst met afzonderlijk beheer.

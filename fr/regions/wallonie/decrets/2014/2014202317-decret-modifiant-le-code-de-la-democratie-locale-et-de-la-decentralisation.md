@@ -13,7 +13,7 @@ entry_into_force: 2014-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014202317/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Décret modifiant le Code de la démocratie locale et de la décentralisation visant à étendre le champ d'application des dispositions relatives aux intercommunales à l'ensemble des intercommunales monorégionales et interrégionales relevant de la compétence de la Région wallonne

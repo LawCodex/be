@@ -12,7 +12,7 @@ entry_into_force: 2021-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/10/29/2021033744/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2021. - Loi portant assentiment à l'accord de coopération législatif du 28 octobre 2021 visant à la modification d'accord de coopération du 14 juillet 2021 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement des données liées au certificat COVID numérique de l'UE et au COVID Safe Ticket, le PLF et le traitement des données à caractère personnel des travailleurs salariés et des travailleurs indépendants vivant ou résidant à l'étranger qui effectuent des activités en Belgique

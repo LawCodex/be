@@ -12,7 +12,7 @@ entry_into_force: 2023-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023041403/justel"
 department: "Finances - Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi portant octroi de prêts concessionnels à l'Association internationale de Développement dans le cadre de ses reconstitutions des ressources

@@ -13,7 +13,7 @@ entry_into_force: 2007-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/11/2007036012/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Decreet houdende wijziging van artikelen 31 en 60 van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, wat de radiodiensten en de televisiediensten betreft.

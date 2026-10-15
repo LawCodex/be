@@ -13,7 +13,7 @@ entry_into_force: 1998-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/05/12/1998035608/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 1998. - Decreet tot bekrachting van twee besluiten van de Vlaamse regering die de aanvragen tot afwijking op de ontwikkelingsdoelen en eindtermen van het gewoon basisonderwijs en de eerste graad van het gewoon secundair onderwijs gelijkwaardig hebben verklaard.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/30/2018015401/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2018 en tekstbijwerking tot 24-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2018. - Decreet betreffende het duaal leren in het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4

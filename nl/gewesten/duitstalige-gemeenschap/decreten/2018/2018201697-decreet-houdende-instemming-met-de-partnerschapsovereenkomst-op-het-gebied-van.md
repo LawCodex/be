@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201697/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Decreet houdende instemming met de Partnerschapsovereenkomst op het gebied van betrekkingen en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Nieuw-Zeeland, anderzijds, gedaan te Brussel op 5 oktober 2016

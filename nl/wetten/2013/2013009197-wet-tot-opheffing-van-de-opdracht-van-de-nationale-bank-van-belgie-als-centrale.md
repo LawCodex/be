@@ -11,7 +11,7 @@ published: 2013-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/23/2013009197/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2013. - Wet tot opheffing van de opdracht van de Nationale Bank van België als centrale depositaris van protesten

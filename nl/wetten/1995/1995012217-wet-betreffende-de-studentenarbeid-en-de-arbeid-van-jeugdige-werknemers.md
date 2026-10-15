@@ -12,7 +12,7 @@ entry_into_force: 1995-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/21/1995012217/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 1995. - Wet betreffende de studentenarbeid en de arbeid van jeugdige werknemers.

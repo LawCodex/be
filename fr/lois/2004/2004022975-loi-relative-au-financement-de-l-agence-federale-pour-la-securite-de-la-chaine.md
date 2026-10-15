@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/09/2004022975/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 17-01-2005 et mise à jour au 21-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2004. - Loi relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.

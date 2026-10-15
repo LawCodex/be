@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/26/1999011129/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1999. - Wet tot wijziging van de wet van 5 augustus 1991 tot bescherming van de economische mededinging.

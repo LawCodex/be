@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1997029295/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-08-1997 et mise à jour au 13-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant statut de la Radio-Télévision belge de la Communauté francaise (RTBF)

@@ -13,7 +13,7 @@ entry_into_force: 2009-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/23/2009029122/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2009. - Decreet tot invoeging van een artikel 14, 3° in het decreet van 24 november 2006 betreffende de toekenning van de vergunning van sportschutter

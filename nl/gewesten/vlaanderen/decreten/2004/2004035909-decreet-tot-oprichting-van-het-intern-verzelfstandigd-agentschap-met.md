@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "Hoofdstuk IV/1 en art. 19/2-19/4 ingevoegd met ingang op een onbepaalde datum bij DVR 2016-07-15/17 , art. 95-98, 012; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 11-06-2004 en tekstbijwerking tot 14-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.

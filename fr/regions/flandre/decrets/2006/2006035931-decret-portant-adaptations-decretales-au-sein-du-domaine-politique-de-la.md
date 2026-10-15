@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/21/2006035931/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2006 et mise à jour au 29-01-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2006. - Décret portant adaptations décrétales au sein du domaine politique de la Mobilité et des Travaux publics suite à la politique administrative (TRADUCTION)

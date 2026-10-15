@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/08/2021032302/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 13-08-2021 en tekstbijwerking tot 22-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2021. - Decreet betreffende het vrije vloot fietsdelen en tot wijziging van de artikelen 4 en 12 van het decreet van 1 april 2004 betreffende de plaatselijke mobiliteit en toegankelijkheid

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/17/1999029435/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 06-01-2000 en tekstbijwerking tot 16-07-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 1999. - Decreet houdende diverse maatregelen betreffende de bijdrage van de vastbenoemde personeelsleden van de " Radio-Télévision belge de la Communauté française " (RTBF) in de betaling van de overlevingspensioenen (VERTALING). (Nota : Opgeheven in de toekomst op een onbepaalde datum door BFG 2002-06-20/38, art. 7)

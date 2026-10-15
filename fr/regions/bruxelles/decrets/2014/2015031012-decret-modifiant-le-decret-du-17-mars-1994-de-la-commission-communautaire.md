@@ -13,7 +13,7 @@ entry_into_force: 2015-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/11/2015031012/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2014. - Décret modifiant le décret du 17 mars 1994 de la Commission communautaire française portant création de l'Institut bruxellois francophone pour la Formation professionnelle

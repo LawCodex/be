@@ -13,7 +13,7 @@ entry_into_force: 2024-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/07/2024002696/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2024. - Bijzonder decreet tot wijziging van het bijzonder decreet van 7 februari 2019 tot oprichting van de overheidsinstelling belast met het ambt van inrichtende macht voor het onderwijs georganiseerd door de Franse Gemeenschap

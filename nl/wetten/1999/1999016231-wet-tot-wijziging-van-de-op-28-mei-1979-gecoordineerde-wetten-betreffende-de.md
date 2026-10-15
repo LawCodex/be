@@ -10,7 +10,7 @@ date: 1999-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/27/1999016231/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 1999. - Wet tot wijziging van de op 28 mei 1979 gecoördineerde wetten betreffende de organisatie van de Middenstand.

@@ -13,7 +13,7 @@ entry_into_force: 2021-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/12/2021043225/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2021. - Décret portant assentiment à la Convention de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure (CLNI 2012), faite à Strasbourg le 27 septembre 2012

@@ -13,7 +13,7 @@ entry_into_force: 2016-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/03/2016036028/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2016. - Decreet houdende instemming met het akkoord tussen het Koninkrijk België en het Koninkrijk der Nederlanden ten behoeve van Aruba inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te 's-Gravenhage op 24 april 2014, over vier andere ontwerpen van decreet houdende instemming met verdragen tot voorkoming van dubbele belasting en over twee ontwerpen van decreet tot instemming met verdragen inzake de uitwisseling van inlichtingen in verband met belastingaangelegenheden

@@ -12,7 +12,7 @@ entry_into_force: 2010-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/22/2009024499/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2009. - Wet tot wijziging van de wet van 22 december 2009 betreffende een algemene regeling van rookvrije gesloten plaatsen toegankelijk voor het publiek en ter bescherming voor werknemers tegen tabaksrook

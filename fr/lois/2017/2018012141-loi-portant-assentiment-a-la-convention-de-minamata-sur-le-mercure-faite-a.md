@@ -12,7 +12,7 @@ entry_into_force: 2018-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/30/2018012141/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Loi portant assentiment à la Convention de Minamata sur le mercure, faite à Kumamoto (Japon) le 10 octobre 2013

@@ -10,7 +10,7 @@ date: 1998-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/04/1999015174/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1998. - Wet houdende instemming met het Protocol houdende wijziging van de eenvormige Beneluxwet inzake tekeningen of modellen, gedaan te Brussel op 28 maart 1995.

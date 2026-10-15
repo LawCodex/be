@@ -13,7 +13,7 @@ last_amended: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1919/10/25/1919102550/justel"
 justel_note: "Consultation des versions antérieures à partir du 19-04-1993 et mise à jour au 20-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 1919. - [Loi sur la mise en gage du fonds de commerce, l'escompte et le gage de la facture, ainsi que l'agréation et l'expertise des fournitures faites directement à la consommation.] (AR 30-03-1936, art. 1)

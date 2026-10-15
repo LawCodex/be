@@ -12,7 +12,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/19/2023048423/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2023. - Loi portant portant dispositions diverses en matière civile et judiciaire

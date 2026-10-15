@@ -13,7 +13,7 @@ entry_into_force: 2017-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031904/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Ordonnantie houdende instemming met : de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Staat Israël, gedaan te Jeruzalem op 24 maart 2014

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/15/1998015085/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 1998. - Wet houdende instemming met het Akkoord gesloten door wisseling van brieven gedagtekend te Brussel op 28 en 29 februari 1996 tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot verlenging van het akkoord betreffende het statuut van de Belgische verbindingsambtenaren bij de te Den Haag gevestigde Europol-Drugseenheid.

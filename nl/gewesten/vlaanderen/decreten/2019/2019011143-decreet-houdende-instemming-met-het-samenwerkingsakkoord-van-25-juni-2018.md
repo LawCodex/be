@@ -13,7 +13,7 @@ entry_into_force: 2019-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/01/2019011143/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 25 juni 2018 tussen de Federale Staat, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de culturele bescherming van het boek

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/16/2015003461/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2015 et mise à jour au 01-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2015. - Loi réglant la communication des renseignements relatifs aux comptes financiers, par les institutions financières belges et le SPF Finances, dans le cadre d'un échange automatique de renseignements au niveau international et à des fins fiscales

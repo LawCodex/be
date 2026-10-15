@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/09/2007003027/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2007 et mise à jour au 04-07-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2007. - Loi visant à octroyer une allocation pour l'acquisition du gasoil, du gaz propane en vrac, du pétrole lampant et du gaz naturel destinés au chauffage d'une habitation privée

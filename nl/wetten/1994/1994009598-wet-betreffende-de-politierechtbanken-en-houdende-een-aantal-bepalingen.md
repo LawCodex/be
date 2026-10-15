@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/11/1994009598/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1994. - Wet betreffende de politierechtbanken en houdende een aantal bepalingen betreffende de versnelling en de modernisering van de strafrechtspleging.

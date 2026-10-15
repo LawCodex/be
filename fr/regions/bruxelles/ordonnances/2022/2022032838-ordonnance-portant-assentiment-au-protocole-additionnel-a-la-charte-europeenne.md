@@ -13,7 +13,7 @@ entry_into_force: 2022-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/20/2022032838/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Ordonnance portant assentiment au Protocole additionnel à la Charte européenne de l'autonomie locale sur le droit de participer aux affaires des collectivités locales, fait à Utrecht le 16 novembre 2009

@@ -13,7 +13,7 @@ entry_into_force: 2014-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/09/2014200519/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2014. - Décret destiné à promouvoir une représentation équilibrée des femmes et des hommes dans les organes de gestion des établissements pour aînés en Région wallonne

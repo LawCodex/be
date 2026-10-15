@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/02/2016036644/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2016. - Decreet houdende wijziging van het Woonzorgdecreet van 13 maart 2009, wat de opname door woonzorgcentra van bepaalde personen buiten de erkende capaciteit betreft

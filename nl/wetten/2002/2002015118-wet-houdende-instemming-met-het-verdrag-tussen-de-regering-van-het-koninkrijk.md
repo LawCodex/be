@@ -11,7 +11,7 @@ published: 2002-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/27/2002015118/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2002. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Hongarije inzake politiesamenwerking en samenwerking inzake de bestrijding van de georganiseerde criminaliteit, gedaan te Brussel op 4 november 1998.

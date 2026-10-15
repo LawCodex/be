@@ -13,7 +13,7 @@ entry_into_force: 2013-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203913/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment 1° à la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par les Protocoles des 27 septembre 1999 et 7 juillet 2009; 2° au Protocole modifiant la Convention visée au 1°, tel que modifié, signé à Bruxelles le 7 juillet 2009

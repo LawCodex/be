@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/21/2016029203/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2016. - Decreet houdende instemming met het Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning, en met de Slotakte, gedaan te Stockholm op 27 februari 1995, zoals gewijzigd op 24 januari 2006

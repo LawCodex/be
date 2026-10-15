@@ -12,7 +12,7 @@ entry_into_force: 2009-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/02/2009015061/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2009. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Kroatië inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, ondertekend te Zagreb op 30 mei 2005

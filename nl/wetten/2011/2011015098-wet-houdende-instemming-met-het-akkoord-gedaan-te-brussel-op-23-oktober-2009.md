@@ -12,7 +12,7 @@ entry_into_force: 2015-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015098/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Akkoord, gedaan te Brussel op 23 oktober 2009, tussen de Regering van het Koninkrijk België en de Regering van het Prinsdom Andorra inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden

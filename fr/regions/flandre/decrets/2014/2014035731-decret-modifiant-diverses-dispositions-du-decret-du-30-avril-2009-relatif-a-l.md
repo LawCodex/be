@@ -13,7 +13,7 @@ entry_into_force: 2014-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035731/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant diverses dispositions du décret du 30 avril 2009 relatif à l'organisation et au financement de la politique en matière de sciences et d'innovation et abrogeant diverses autres dispositions

@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/06/29/1964062906/justel"
 justel_note: "Consultation des versions antérieures à partir du 05-02-1991 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 1964. - Loi concernant la suspension, le sursis et la probation.

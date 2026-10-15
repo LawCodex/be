@@ -13,7 +13,7 @@ entry_into_force: 2011-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/11/24/2011031587/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2011. - Ordonnantie tot wijziging van de ordonnantie van 25 maart 1999 betreffende de opsporing, de vaststelling, de vervolging en de bestraffing van misdrijven inzake leefmilieu

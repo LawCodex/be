@@ -13,7 +13,7 @@ entry_into_force: 2007-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031342/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance portant assentiment aux actes internationaux suivants : l'Accord modifiant l'Accord de Partenariat entre les membres du groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, signé à Cotonou le 23 juin 2000, et l'Acte final, faits à Luxembourg le 25 juin 2005, et l'Accord interne entre les représentants des Gouvernements des Etats membres, réunis au sein du Conseil, modifiant l'Accord interne du 18 septembre 2000 relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'Accord de Partenariat ACP-CE, fait à Luxembourg le 10 avril 2006

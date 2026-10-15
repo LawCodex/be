@@ -13,7 +13,7 @@ entry_into_force: 1995-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027257/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret portant assentiment à la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est, à ses annexes I, II, III et IV et à ses appendices 1 et 2, faits à Paris le 22 septembre 1992.

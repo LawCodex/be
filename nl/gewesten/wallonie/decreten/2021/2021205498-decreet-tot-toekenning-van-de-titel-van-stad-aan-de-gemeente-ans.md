@@ -11,7 +11,7 @@ date: 2021-11-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/12/2021205498/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2021. - Decreet tot toekenning van de titel van stad aan de gemeente Ans

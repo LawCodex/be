@@ -12,7 +12,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/20/2004003323/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2004. - Loi modifiant la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise.

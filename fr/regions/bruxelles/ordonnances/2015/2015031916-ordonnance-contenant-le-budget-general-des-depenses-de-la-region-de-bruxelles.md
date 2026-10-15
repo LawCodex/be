@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/18/2015031916/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 21-01-2016 et mise à jour au 03-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Ordonnance contenant le Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2016

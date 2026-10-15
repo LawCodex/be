@@ -13,7 +13,7 @@ entry_into_force: 2013-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/04/18/2013202499/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2013. - Décret modifiant des dispositions du Code wallon de l'Action sociale et de la Santé relatives au Centre régional de soins psychiatriques " Les Marronniers "

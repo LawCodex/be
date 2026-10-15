@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/21/2005029090/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2004. - Décret -programme portant diverses mesures concernant les Fonds budgétaires, le Fonds écureuil de la Communauté française et le désendettement, les institutions universitaires, les Hautes écoles, les internats, les Centres psycho-médico-sociaux, les bâtiments scolaires, l'enseignement et le statut des membres du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement organisé par la Communauté française.

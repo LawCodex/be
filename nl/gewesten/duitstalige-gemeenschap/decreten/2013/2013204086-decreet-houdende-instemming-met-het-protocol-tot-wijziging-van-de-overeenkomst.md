@@ -13,7 +13,7 @@ entry_into_force: 2013-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/24/2013204086/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2013. - Decreet houdende instemming met het Protocol tot wijziging van de Overeenkomst tussen het Koninkrijk België en Japan tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, gedaan te Brussel op 26 januari 2010

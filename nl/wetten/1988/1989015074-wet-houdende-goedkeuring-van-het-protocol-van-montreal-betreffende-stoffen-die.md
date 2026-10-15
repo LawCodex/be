@@ -12,7 +12,7 @@ entry_into_force: 1989-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1988/12/29/1989015074/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 DECEMBER 1988. - Wet houdende goedkeuring van het Protocol van Montreal betreffende stoffen die de ozonlaag afbreken en van de Bijlage A, opgemaakt te Montreal op 16 september 1987.

@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995036166/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Decreet tot bekrachtiging van de overeenkomst van 1 juni 1994 tussen de federale regering, de Vlaamse regering, de Waalse Gewestregering en de regering van het Brussels Hoofdstedelijk Gewest betreffende de regeling van de schulden van het verleden en de ermede verband houdende lasten inzake sociale huisvesting.

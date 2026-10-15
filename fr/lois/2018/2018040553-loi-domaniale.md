@@ -11,7 +11,7 @@ published: 2018-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018040553/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi domaniale

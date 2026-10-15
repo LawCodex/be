@@ -12,7 +12,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/13/2003009296/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2003. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté germanophone, la Communauté française et la Communauté flamande relatif au centre fermé pour le placement provisoire de mineurs ayant commis un fait qualifié infraction.

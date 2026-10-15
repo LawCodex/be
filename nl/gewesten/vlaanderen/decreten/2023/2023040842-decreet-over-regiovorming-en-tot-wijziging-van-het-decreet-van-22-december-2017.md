@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/02/03/2023040842/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 09-03-2023 en tekstbijwerking tot 25-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2023. - Decreet over regiovorming en tot wijziging van het decreet van 22 december 2017 over het lokaal bestuur

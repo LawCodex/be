@@ -12,7 +12,7 @@ entry_into_force: 2004-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/11/2004015069/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2004. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la Géorgie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 14 décembre 2000.

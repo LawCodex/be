@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017040040/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment à la Convention n° 187 de l'Organisation internationale du Travail sur le cadre promotionnel pour la sécurité et la santé au travail, adoptée à Genève le 15 juin 2006

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019012668/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 23 augustus 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie in uitvoering van het Verdrag van 's-Gravenhage en Verordening Brussel IIbis betreffende de ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen

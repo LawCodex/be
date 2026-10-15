@@ -13,7 +13,7 @@ entry_into_force: 2002-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002029388/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Decreet betreffende de regelmatige inschrijving van leerlingen in het gewoon basisonderwijs en tot wijziging van het decreet van 13 juli 1998 tot organisatie van het gewoon kleuter- en lager onderwijs en tot wijziging van de onderwijswetgeving (VERTALING).

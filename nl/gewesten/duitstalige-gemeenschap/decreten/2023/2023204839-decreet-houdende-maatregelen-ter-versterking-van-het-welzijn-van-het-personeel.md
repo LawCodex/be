@@ -12,7 +12,7 @@ published: 2023-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/24/2023204839/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2023. - Decreet houdende maatregelen ter versterking van het welzijn van het personeel in het onderwijs

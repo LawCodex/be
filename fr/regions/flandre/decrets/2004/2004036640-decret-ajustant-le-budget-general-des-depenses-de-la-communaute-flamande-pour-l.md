@@ -13,7 +13,7 @@ entry_into_force: 2004-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036640/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret ajustant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2004 (TRADUCTION).

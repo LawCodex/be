@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/09/2016203145/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2016. - Décret portant assentiment à l'Accord relatif à la participation de la République de Croatie à l'Espace économique européen, à l'Acte final et aux trois accords y afférents, faits à Bruxelles le 11 avril 2014 et le 5 novembre 2014

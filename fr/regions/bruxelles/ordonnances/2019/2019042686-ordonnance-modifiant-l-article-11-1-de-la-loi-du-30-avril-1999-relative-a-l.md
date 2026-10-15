@@ -13,7 +13,7 @@ entry_into_force: 2019-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/11/28/2019042686/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2019. - Ordonnance modifiant l'article 11/1 de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers

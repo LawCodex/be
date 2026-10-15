@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/08/2018011775/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 02-05-2018 et mise à jour au 17-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2018. - Décret relatif à la promotion de la Citoyenneté et de l'Interculturalité

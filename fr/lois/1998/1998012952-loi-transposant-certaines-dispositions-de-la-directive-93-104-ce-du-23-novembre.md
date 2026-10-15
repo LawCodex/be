@@ -12,7 +12,7 @@ entry_into_force: 1998-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/04/1998012952/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 1998. - Loi transposant certaines dispositions de la directive 93/104/CE du 23 novembre 1993 concernant certains aspects de l'aménagement du temps de travail.

@@ -13,7 +13,7 @@ entry_into_force: 2001-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/09/2001035380/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2001. - Décret modifiant le décret du 29 mai 1984 portant création de l'organisme " Kind en Gezin " (Enfance et Famille) (TRADUCTION).

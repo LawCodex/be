@@ -13,7 +13,7 @@ entry_into_force: 2014-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/04/2014202559/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Decreet houdende aanpassing van het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders

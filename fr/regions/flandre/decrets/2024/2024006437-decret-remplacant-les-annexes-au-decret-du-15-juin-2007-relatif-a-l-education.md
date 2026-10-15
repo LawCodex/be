@@ -13,7 +13,7 @@ entry_into_force: 2024-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/03/2024006437/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Décret remplaçant les annexes au décret du 15 juin 2007 relatif à l'éducation des adultes et au Code de l'Enseignement secondaire et modifiant le décret Enseignement XXXIV du 19 avril 2024

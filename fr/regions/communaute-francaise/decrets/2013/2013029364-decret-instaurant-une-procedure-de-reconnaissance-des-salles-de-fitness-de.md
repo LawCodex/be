@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/10/2013029364/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2013 et mise à jour au 07-02-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2013. - Décret instaurant une procédure de reconnaissance des salles de fitness de qualité

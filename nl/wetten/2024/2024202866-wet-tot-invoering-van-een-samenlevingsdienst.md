@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/15/2024202866/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "bij arrest nr. 135/2025 van 23-10-2025 ( 2025-10-23/29 , B.St. 14-11-2025, p. 87860), heeft het Grondwettelijk Hof deze wet vernietigd"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2024. - Wet tot invoering van een Samenlevingsdienst

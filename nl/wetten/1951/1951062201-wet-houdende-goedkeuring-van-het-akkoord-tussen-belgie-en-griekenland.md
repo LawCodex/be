@@ -10,7 +10,7 @@ date: 1951-06-22
 published: 1952-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/06/22/1951062201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 1951. - Wet houdende goedkeuring van het Akkoord tussen België en Griekenland, betreffende het Luchtvervoer tussen hun Respectieve Grondgebieden en Bijlage, ondertekend de 21e Juni 1949, te Athene.

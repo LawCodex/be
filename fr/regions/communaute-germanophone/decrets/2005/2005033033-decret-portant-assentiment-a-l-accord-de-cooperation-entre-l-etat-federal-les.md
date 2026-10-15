@@ -13,7 +13,7 @@ entry_into_force: 2005-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/03/21/2005033033/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2005. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, les Communautés, la Commission communautaire commune et les Régions pour une politique de drogues globale et intégrée, conclu le 2 septembre 2002 (TRADUCTION).

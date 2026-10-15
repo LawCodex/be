@@ -13,7 +13,7 @@ entry_into_force: 2021-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/02/2021021275/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2021. - Decreet tot wijziging van het Bestuursdecreet van 7 december 2018

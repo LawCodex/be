@@ -12,7 +12,7 @@ entry_into_force: 2012-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/13/2012011026/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2012. - Wet tot invoeging van artikel 110/1 in de wet van 25 juni 1992 op de landverzekeringsovereenkomst, wat de aanwijzing betreft van een begunstigde in een levensverzekeringsovereenkomst

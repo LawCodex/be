@@ -12,7 +12,7 @@ entry_into_force: 2004-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République arabe d'Egypte, d'autre part, aux Annexes I, II, III, IV, V, VI, aux Protocoles 1, 2, 3, 4 et 5, et à l'Acte final, faits à Luxembourg le 25 juin 2001.

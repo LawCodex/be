@@ -13,7 +13,7 @@ entry_into_force: 2020-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/04/2020044103/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2020. - Ordonnantie houdende bekrachtiging van de besluiten van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie tot uitvoering van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie in het kader van de gezondheidscrisis COVID-19 en betreffende het toekennen van bijkomende opdrachten aan de bicommunautaire Dienst voor Gezondheid, Bijstand aan Personen en Gezinsbijslag

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/10/2020042293/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2020. - Decreet betreffende instemming met het samenwerkingsakkoord van 19 maart 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de bevoegdheden van de gemeenschappen en van de federale staat inzake het taxshelterstelsel voor audiovisuele werken en podiumwerken en tot informatie-uitwisseling

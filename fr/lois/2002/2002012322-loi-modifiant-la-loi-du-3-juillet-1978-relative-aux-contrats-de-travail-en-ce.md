@@ -12,7 +12,7 @@ entry_into_force: 2001-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/21/2002012322/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2002. - Loi modifiant la loi du 3 juillet 1978 relative aux contrats de travail en ce qui concerne la déclaration immédiate de l'emploi.

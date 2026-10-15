@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2014015009/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 21-01-2014 et mise à jour au 27-01-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi portant le Code consulaire

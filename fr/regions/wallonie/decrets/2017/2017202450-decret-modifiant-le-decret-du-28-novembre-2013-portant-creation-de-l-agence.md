@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/04/2017202450/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2017. - Décret modifiant le décret du 28 novembre 2013 portant création de l'Agence pour l'Entreprise et l'Innovation, en abrégé : A.E.I., portant des dispositions diverses et abrogeant la loi du 3 décembre 2005 instaurant une indemnité compensatoire de pertes de revenus en faveur des travailleurs indépendants victimes de nuisances dues à la réalisation de travaux sur le domaine public

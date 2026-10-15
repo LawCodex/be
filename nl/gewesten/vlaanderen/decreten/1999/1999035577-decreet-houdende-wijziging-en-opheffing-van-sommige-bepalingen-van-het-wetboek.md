@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/13/1999035577/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1999. - Decreet houdende wijziging en opheffing van sommige bepalingen van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen.

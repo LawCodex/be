@@ -12,7 +12,7 @@ entry_into_force: 2012-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/22/2012002028/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2012. - Loi visant à assurer les droits à la pension des membres du personnel de l'enseignement supérieur non universitaire suite à leur intégration au sein des universités

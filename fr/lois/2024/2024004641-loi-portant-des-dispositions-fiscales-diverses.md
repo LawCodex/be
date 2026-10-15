@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/12/2024004641/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 29-05-2024 et mise à jour au 27-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2024. - Loi portant des dispositions fiscales diverses

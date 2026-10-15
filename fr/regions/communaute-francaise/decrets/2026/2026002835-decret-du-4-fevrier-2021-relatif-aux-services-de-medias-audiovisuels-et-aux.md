@@ -13,7 +13,7 @@ entry_into_force: 2026-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/02/2026002835/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2026. - Décret du 4 février 2021 relatif aux services de médias audiovisuels et aux services de partage de vidéos

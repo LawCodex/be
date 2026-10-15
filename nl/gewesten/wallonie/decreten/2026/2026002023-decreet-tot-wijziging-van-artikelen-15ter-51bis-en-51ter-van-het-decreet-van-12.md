@@ -13,7 +13,7 @@ entry_into_force: 2026-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/26/2026002023/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2026. - Decreet tot wijziging van artikelen 15ter, 51bis en 51ter van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en tot invoeging van artikel 46bis

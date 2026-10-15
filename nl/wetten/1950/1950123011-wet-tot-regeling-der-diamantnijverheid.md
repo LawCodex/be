@@ -13,7 +13,7 @@ last_amended: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1950/12/30/1950123011/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 01-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1950. - Wet tot regeling der diamantnijverheid

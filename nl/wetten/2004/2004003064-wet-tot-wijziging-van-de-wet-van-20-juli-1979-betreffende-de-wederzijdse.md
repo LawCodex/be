@@ -12,7 +12,7 @@ entry_into_force: 2004-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/01/29/2004003064/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2004. - Wet tot wijziging van de wet van 20 juli 1979 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen in de Europese Economische Gemeenschap, die voortvloeien uit verrichtingen, die deel uitmaken van het financieringsstelsel van het Europees Oriëntatie- en Garantiefonds voor Landbouw, alsmede van landbouwheffingen en douanerechten, van de belasting op de toegevoegde waarde en van bepaalde accijnzen.

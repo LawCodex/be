@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/26/2023200114/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-02-2023 en tekstbijwerking tot 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2022. - Wet tot wijziging van verscheidene bepalingen ter versterking van de transparantie in het kader van de tweede pensioenpijler

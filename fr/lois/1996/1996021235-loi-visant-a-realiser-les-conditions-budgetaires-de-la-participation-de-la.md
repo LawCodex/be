@@ -12,7 +12,7 @@ entry_into_force: 1996-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/26/1996021235/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1996. - Loi visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne.

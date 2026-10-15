@@ -13,7 +13,7 @@ entry_into_force: 2012-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/22/2012035798/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2012. - Decreet houdende wijziging van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/28/2011003299/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-2011 en tekstbijwerking tot 28-06-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 2011. - Wet tot omzetting van diverse richtlijnen betreffende het toezicht op de financiële sector en houdende diverse bepalingen

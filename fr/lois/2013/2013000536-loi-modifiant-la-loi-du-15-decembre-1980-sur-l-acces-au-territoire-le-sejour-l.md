@@ -12,7 +12,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/08/2013000536/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2013. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers et la loi du 8 juillet 1976 organique des centres publics d'action sociale

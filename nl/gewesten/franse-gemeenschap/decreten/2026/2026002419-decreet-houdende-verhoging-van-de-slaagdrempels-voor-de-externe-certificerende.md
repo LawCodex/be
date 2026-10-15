@@ -13,7 +13,7 @@ entry_into_force: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/03/19/2026002419/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2026. - Decreet houdende verhoging van de slaagdrempels voor de externe certificerende proeven

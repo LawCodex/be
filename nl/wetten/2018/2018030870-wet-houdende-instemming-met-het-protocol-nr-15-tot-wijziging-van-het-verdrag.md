@@ -12,7 +12,7 @@ entry_into_force: 2018-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/04/2018030870/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2018. - Wet houdende instemming met het Protocol nr. 15 tot wijziging van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, gedaan te straatsburg op 24 juni 2013

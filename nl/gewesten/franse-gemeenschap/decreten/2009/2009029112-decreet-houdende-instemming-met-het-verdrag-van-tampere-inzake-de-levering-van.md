@@ -13,7 +13,7 @@ entry_into_force: 2009-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/08/2009029112/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2009. - Decreet houdende instemming met het Verdrag van Tampere inzake de levering van telecommunicatievoorzieningen voor rampenmitigatie en noodhulpoperaties, gedaan te Tampere (Finland) op 18 juni 1998 (VERTALING).

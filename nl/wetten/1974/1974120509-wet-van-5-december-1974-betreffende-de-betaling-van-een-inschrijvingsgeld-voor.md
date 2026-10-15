@@ -11,7 +11,7 @@ published: 1974-12-13
 entry_into_force: 1974-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/12/05/1974120509/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 1974. - Wet van 5 december 1974 betreffende de betaling van een inschrijvingsgeld voor de kandidatenlijst en voor de examens en vergelijkende examens georganiseerd door het Vast Wervingssecretariaat &lt;W 1981-07-02/01, art. 80, Inwerkingtreding : 07-08-1981&gt;.

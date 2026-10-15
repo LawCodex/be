@@ -11,7 +11,7 @@ published: 1998-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/15/1997010129/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1997. - Wet tot wijziging van de wet van 28 oktober 1996 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van bepaalde buitenlandse Staten zijn gebracht.

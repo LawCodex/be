@@ -12,7 +12,7 @@ entry_into_force: 2022-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/11/2022031211/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2022. - Wet tot opheffing van de instandhouding van de epidemische noodsituatie betreffende de coronavirus COVID-19-pandemie

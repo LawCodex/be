@@ -12,7 +12,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/16/2022034556/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2022. - Wet tot wijziging van de wet van 5 augustus 1992 op het politieambt, met het oog op het invoeren van duidelijke waarborgen wat betreft het handboeien van minderjarigen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/29/2002035468/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-03-2002 en tekstbijwerking tot 07-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2002. - Decreet houdende bekrachtiging van de stedenbouwkundige vergunningen verleend door de Vlaamse regering op 18 maart 2002 in toepassing van het decreet van 14 december 2001 voor enkele bouwvergunningen waarvoor dwingende redenen van groot algemeen belang gelden

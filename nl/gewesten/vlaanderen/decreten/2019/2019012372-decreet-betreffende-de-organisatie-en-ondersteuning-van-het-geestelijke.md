@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/05/2019012372/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 17-05-2019 en tekstbijwerking tot 05-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2019. - Decreet betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod

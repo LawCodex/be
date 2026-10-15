@@ -13,7 +13,7 @@ last_amended: 2026-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1921/02/24/1921022450/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 21-10-1994 en tekstbijwerking tot 26-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 1921. - [Wet betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen.] &lt;Opschrift vervangen door W 2003-05-03/46, art. 2&gt;

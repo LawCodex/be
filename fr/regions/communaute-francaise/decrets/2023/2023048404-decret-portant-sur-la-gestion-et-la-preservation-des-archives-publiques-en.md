@@ -13,7 +13,7 @@ entry_into_force: 2024-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/07/2023048404/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2023. - Décret portant sur la gestion et la préservation des archives publiques en Communauté française

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/14/2014035265/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2014. - Decreet houdende wijziging van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap

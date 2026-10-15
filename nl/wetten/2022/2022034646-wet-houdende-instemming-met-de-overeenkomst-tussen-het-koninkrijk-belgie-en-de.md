@@ -10,7 +10,7 @@ date: 2022-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/29/2022034646/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2022. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Armenië inzake het verrichten van betaalde werkzaamheden door gezinsleden van het personeel van de diplomatieke missies en consulaire posten, gedaan te Brussel op 4 december 2018

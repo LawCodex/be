@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/07/2004031188/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2003. - Décret portant assentiment à l'Accord de coopération entre la Commission communautaire française de la Région de Bruxelles-Capitale et le Gouvernement de la République du Sénégal.

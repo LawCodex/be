@@ -12,7 +12,7 @@ entry_into_force: 2019-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/02/10/2019010124/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2018. - Wet houdende instemming met de Overeenkomst van Kaapstad van 2012 inzake de tenuitvoerlegging van de bepalingen van het Protocol van 1993 bij het Internationaal Verdrag van Torremolinos voor de beveiliging van vissersvaartuigen van 1977, gedaan te Kaapstad op 11 oktober 2014

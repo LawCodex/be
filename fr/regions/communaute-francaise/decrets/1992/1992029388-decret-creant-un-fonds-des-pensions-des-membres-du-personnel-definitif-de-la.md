@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/05/18/1992029388/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 08-07-1992 et mise à jour au 16-07-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1992. - Décret créant un Fonds des pensions des membres du personnel définitif de la Radio-Télévision belge de la Communauté francaise (RTBF) et de leurs ayants droit.

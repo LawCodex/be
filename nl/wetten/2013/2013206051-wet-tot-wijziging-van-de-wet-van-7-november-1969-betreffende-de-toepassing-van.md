@@ -10,7 +10,7 @@ date: 2013-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/24/2013206051/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2013. - Wet tot wijziging van de wet van 7 november 1969 betreffende de toepassing van de sociale zekerheidswetgeving op de houders van een vergunning van "beroepsrenner"

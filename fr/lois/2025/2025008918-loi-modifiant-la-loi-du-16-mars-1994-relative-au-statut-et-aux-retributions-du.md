@@ -12,7 +12,7 @@ entry_into_force: 2026-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/20/2025008918/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2025. - Loi modifiant la loi du 16 mars 1994 relative au statut et aux rétributions du personnel enseignant de l'Ecole royale militaire

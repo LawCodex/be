@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/25/2023042704/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 04-08-2023 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2023. - Décret relatif à la conservation et à la valorisation des archives d'intérêt patrimonial

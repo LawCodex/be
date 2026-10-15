@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202360/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2009 et mise à jour au 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine, le décret du 11 mars 1999 relatif au permis d'environnement et le décret du 11 mars 2004 relatif aux infrastructures d'accueil des activités économiques

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/19/1998009527/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1998. - Wet tot wijziging van de bepalingen van het Gerechtelijk Wetboek betreffende de arbitrage.

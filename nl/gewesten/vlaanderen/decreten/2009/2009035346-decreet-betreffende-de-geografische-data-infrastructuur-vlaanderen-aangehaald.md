@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/20/2009035346/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-04-2009 en tekstbijwerking tot 28-04-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2009. - Decreet betreffende de Geografische Data-Infrastructuur Vlaanderen. (Aangehaald als : GDI-decreet)

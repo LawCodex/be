@@ -13,7 +13,7 @@ entry_into_force: 2024-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/19/2023046648/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2023. - Décret portant assentiment à la Convention n° 188 sur le travail dans la pêche, adoptée par la Conférence internationale du Travail au cours de sa 96ème session qui s'est tenue à Genève le 14 juin 2007

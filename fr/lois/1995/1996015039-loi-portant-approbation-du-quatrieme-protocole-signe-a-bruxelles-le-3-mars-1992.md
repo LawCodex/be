@@ -12,7 +12,7 @@ entry_into_force: 1996-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1996015039/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi portant approbation du Quatrième Protocole, signé à Bruxelles le 3 mars 1992, portant modification de la Convention coordonnée instituant l'Union économique belgo-luxembourgeoise, établie conformément à l'article XXIII du Protocole de révision, signé à Bruxelles le 29 janvier 1963.

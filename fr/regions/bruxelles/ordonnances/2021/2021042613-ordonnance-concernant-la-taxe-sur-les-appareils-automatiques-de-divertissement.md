@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/22/2021042613/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2021. - Ordonnance concernant la taxe sur les appareils automatiques de divertissement due pour l'exercice 2021 en raison de la crise sanitaire du COVID-19

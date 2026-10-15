@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/03/30/1983023252/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-06-1983 et mise à jour au 02-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1983. - Décret portant création de l'Office de la Naissance et de l'Enfance (O.N.E.).

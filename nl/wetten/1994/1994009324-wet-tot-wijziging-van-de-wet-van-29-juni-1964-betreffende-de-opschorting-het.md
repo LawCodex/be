@@ -12,7 +12,7 @@ entry_into_force: 1994-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/10/1994009324/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1994. - Wet tot wijziging van de wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie.

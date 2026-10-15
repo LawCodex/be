@@ -12,7 +12,7 @@ entry_into_force: 2004-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/08/2004015009/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2004. - Loi portant assentiment à la modification de l'article 1er de la Convention sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination, adoptée à Genève le 21 décembre 2001.

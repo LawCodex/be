@@ -12,7 +12,7 @@ entry_into_force: 2014-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/28/2014009138/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - [Loi portant modification et coordination de diverses lois en matière de Justice concernant l'arrondissement judiciaire de Bruxelles et l'arrondissement judiciare du Hainaut]

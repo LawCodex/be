@@ -13,7 +13,7 @@ entry_into_force: 2026-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/26/2026005177/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2026. - Decreet tot wijziging van het Groeipakketdecreet van 2018, wat de selectieve participatietoeslag in het secundair onderwijs betreft

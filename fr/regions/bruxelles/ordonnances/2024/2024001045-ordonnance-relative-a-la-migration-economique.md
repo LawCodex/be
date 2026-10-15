@@ -13,7 +13,7 @@ entry_into_force: 2024-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/01/2024001045/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2024. - Ordonnance relative à la migration économique

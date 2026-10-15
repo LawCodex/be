@@ -12,7 +12,7 @@ entry_into_force: 1994-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/06/1994003442/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1994. - Loi modifiant la loi du 17 juin 1991 portant organisation du secteur public du crédit et de la détention des participations du secteur public dans certaines sociétés financières de droit privé, ainsi que la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit.

@@ -12,7 +12,7 @@ entry_into_force: 2023-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/19/2023043695/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2023. - Loi modifiant la loi du 28 mai 2002 relative à l'euthanasie, en ce qui concerne la composition de la Commission fédérale de contrôle et d'évaluation

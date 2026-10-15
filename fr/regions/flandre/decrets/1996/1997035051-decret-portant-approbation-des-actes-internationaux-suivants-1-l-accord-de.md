@@ -13,7 +13,7 @@ entry_into_force: 1997-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/17/1997035051/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1996. - Décret portant approbation des actes internationaux suivants : 1. l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et la Fédération russe, d'autre part, des Annexes 1, 2, 3, 4, 5, 6, 7, 8, 9 et 10, des Protocoles 1 et 2, et de l'Acte final, signés à Corfou le 24 juin 1994. 2. l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Moldavie, d'autre part, des Annexes 1, 2, 3, 4 et 5, du Protocole et de l'Acte final, signés à Bruxelles le 28 novembre 1994. (TRADUCTION).

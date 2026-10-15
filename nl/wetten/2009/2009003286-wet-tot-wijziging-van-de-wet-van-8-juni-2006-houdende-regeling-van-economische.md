@@ -12,7 +12,7 @@ entry_into_force: 2009-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/16/2009003286/justel"
 department: "Financiën - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2009. - Wet tot wijziging van de wet van 8 juni 2006 houdende regeling van economische en individuele activiteiten met wapens met het oog op het verbod op de financiering van de vervaardiging, het gebruik of het bezit van uraniumwapens

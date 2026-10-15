@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/20/1998033100/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 1997. - Décret portant assentiment à l'Accord-cadre de commerce et de coopération entre la Communauté européenne et ses Etats membres, d'une part et la République de Corée, d'autre part, à l'Annexe et aux déclarations communes, signés à Luxembourg le 28 octobre 1996 (TRADUCTION).

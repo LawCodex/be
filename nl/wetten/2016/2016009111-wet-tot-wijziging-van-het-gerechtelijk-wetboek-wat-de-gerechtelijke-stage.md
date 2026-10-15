@@ -12,7 +12,7 @@ entry_into_force: 2016-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/29/2016009111/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2016. - Wet tot wijziging van het Gerechtelijk Wetboek wat de gerechtelijke stage betreft

@@ -11,7 +11,7 @@ date: 2024-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/09/05/2024008665/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2024. - Decreet tot vervanging van de artikelen L1133-1 en L1133-2 van het Wetboek van de plaatselijke democratie en de decentralisatie

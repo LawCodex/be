@@ -13,7 +13,7 @@ entry_into_force: 2018-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/26/2018010909/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2018. - Décret portant diverses dispositions visant à introduire ou à améliorer certaines obligations de rapportage au Parlement flamand en matière de l'application et de l'interprétation de décrets par des instances judiciaires, et en matière de la politique de recherche et de poursuite

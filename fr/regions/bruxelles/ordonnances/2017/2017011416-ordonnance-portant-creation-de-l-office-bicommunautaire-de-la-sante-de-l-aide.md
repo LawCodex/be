@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/03/23/2017011416/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 12-04-2017 et mise à jour au 11-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2017. - [Ordonnance portant création de l'Office bicommunautaire de la santé, de l'aide aux personnes et des prestations familiales]

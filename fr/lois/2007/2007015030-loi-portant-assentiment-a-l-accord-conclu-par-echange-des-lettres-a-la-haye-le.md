@@ -12,7 +12,7 @@ entry_into_force: 2007-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/08/2007015030/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2007. - Loi portant assentiment à l'Accord, conclu par échange des lettres à La Haye le 9 juin 2005, entre les Gouvernements des Etats du Benelux (le Royaume de Belgique, le grand-duché de Luxembourg, le Royaume des Pays-Bas) et le Gouvernement de la République d'Albanie relatif à la suppression de l'obligation du visa concernant les passeports diplomatiques.

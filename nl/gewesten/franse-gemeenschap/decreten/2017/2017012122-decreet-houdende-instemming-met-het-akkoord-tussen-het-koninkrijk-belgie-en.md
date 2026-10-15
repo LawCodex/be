@@ -13,7 +13,7 @@ entry_into_force: 2017-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017012122/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en Jersey inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Londen op 13 maart 2014

@@ -11,7 +11,7 @@ date: 2023-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/13/2023204486/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2023. - Decreet tot wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid wat betreft de controle van de actoren van het beleid inzake sociale actie en gezondheid en de informatie over de inrichtingen voor bejaarde personen

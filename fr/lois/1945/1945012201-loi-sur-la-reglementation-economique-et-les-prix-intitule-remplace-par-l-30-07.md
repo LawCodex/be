@@ -13,7 +13,7 @@ last_amended: 2025-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1945/01/22/1945012201/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2005 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 1945. - Loi sur la réglementation économique et les prix (Intitulé remplacé par L 30-07-1971, art. 3, § 1er)

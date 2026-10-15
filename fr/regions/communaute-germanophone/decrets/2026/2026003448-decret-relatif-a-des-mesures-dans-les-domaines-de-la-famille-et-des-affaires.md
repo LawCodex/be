@@ -13,7 +13,7 @@ entry_into_force: 2026-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/27/2026003448/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2026. - Décret relatif à des mesures dans les domaines de la famille et des affaires sociales

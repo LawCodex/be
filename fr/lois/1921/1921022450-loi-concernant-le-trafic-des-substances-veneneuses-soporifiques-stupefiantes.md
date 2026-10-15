@@ -13,7 +13,7 @@ last_amended: 2026-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1921/02/24/1921022450/justel"
 justel_note: "Consultation des versions antérieures à partir du 21-10-1994 et mise à jour au 26-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 1921. - [Loi concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes.] &lt;intitulé modifié par L 2003-05-03/46 , art. 2, 007; En vigueur : 02-06-2003&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2012-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012204206/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Bijzondere wet houdende wijziging van de wet van 9 augustus 1988 tot wijziging van de gemeentewet, de gemeentekieswet, de organieke wet betreffende de openbare centra voor maatschappelijk welzijn, de provinciewet, het Kieswetboek, de wet tot regeling van de provincieraadsverkiezingen en de wet tot regeling van de gelijktijdige parlements- en provincieraadsverkiezingen (de zogenaamde " pacificatiewet ") en van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, wat de benoeming van de burgemeesters van de randgemeenten betreft

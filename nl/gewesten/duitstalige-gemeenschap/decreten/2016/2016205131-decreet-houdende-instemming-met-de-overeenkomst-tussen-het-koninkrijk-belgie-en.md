@@ -13,7 +13,7 @@ entry_into_force: 2016-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/09/26/2016205131/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 2016. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek ten oosten van de Uruguay tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen en tot het voorkomen van het ontduiken van belasting en met het Protocol, gedaan te Montevideo op 23 augustus 2013

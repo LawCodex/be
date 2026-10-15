@@ -11,7 +11,7 @@ entry_into_force: 2002-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/09/26/2002015070/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 2001. - Wet houdende instemming met het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatsverandering, en met de Bijlagen A en B, gedaan te Kyoto op 11 december 1997.

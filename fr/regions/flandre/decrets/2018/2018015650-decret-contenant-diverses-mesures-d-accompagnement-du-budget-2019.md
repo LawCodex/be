@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2018015650/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2018 et mise à jour au 13-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret contenant diverses mesures d'accompagnement du budget 2019

@@ -13,7 +13,7 @@ entry_into_force: 2013-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/04/18/2013202454/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2013. - Décret relatif au cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport

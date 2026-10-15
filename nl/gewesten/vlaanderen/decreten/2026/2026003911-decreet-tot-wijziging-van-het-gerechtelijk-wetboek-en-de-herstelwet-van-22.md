@@ -12,7 +12,7 @@ published: 2026-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/08/2026003911/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2026. - Decreet tot wijziging van het Gerechtelijk Wetboek en de herstelwet van 22 januari 1985 houdende sociale bepalingen, wat betreft het Vlaams opleidingsverlof

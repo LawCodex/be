@@ -12,7 +12,7 @@ entry_into_force: 1989-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/07/04/1989011263/justel"
 department: "Classes Moyennes"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 1989. - Loi contenant délégation de pouvoirs pour assurer l'exécution de la directive du Conseil des Communautés européennes du 10 juin 1985.

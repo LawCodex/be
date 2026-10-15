@@ -11,7 +11,7 @@ published: 2016-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/10/2016024159/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2016. - Wet tot wijziging van de wet van 4 april 2014 tot regeling van de geestelijke gezondheidszorgberoepen en tot wijziging van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de gezondheidszorgberoepen en tot wijziging van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015 anderzijds

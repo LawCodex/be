@@ -12,7 +12,7 @@ entry_into_force: 1984-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/09/07/1984015060/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 1983. \_ Loi portant approbation de la Convention pour la prévention de la pollution marine d'origine tellurique, et des Annexes, faites à Paris le 4 juin 1974.

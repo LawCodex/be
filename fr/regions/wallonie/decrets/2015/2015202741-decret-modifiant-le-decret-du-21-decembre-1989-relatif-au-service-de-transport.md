@@ -13,7 +13,7 @@ entry_into_force: 2015-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/04/2015202741/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2015. - Décret modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne, en vue d'assurer l'information continue aux usagers sur l'état du trafic

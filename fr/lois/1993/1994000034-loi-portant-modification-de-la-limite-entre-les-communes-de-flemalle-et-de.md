@@ -12,7 +12,7 @@ entry_into_force: 1994-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/30/1994000034/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1993. - Loi portant modification de la limite entre les communes de Flémalle et de Saint-Georges-sur-Meuse.

@@ -12,7 +12,7 @@ entry_into_force: 2008-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/04/06/2008015073/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2008. - Loi visant à empêcher la saisie ou la cession des fonds publics destinés à la coopération internationale, notamment par la technique des fonds vautours.

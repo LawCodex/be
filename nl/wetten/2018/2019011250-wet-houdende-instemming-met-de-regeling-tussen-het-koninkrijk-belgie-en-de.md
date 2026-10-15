@@ -11,7 +11,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/15/2019011250/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2018. - Wet houdende instemming met de Regeling tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de rechtspositie van sommige personeelscategorieën van de agentschappen van de NAVO die op het grondgebied van het Koninkrijk België gevestigd zijn, gedaan te Brussel op 20 mei 2016

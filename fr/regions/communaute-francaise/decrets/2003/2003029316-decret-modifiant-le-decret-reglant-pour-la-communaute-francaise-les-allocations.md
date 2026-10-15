@@ -13,7 +13,7 @@ entry_into_force: 2003-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/08/2003029316/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Décret modifiant le décret réglant, pour la Communauté française, les allocations et prêts d'études, coordonné le 7 novembre 1983.

@@ -12,7 +12,7 @@ entry_into_force: 2021-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/04/18/2021030975/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2021. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap inzake het gebruik van SURE

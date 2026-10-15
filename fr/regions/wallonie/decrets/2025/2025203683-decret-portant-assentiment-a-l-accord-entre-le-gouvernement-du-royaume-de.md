@@ -13,7 +13,7 @@ entry_into_force: 2025-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/27/2025203683/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2025. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Liberia relatif au transport aérien, fait à Monrovia le 17 juillet 2019

@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013035682/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret modifiant l'intitulé du décret du 7 mai 2004 portant transformation de l'ASBL " de Rand " en une agence autonomisée externe de droit privé

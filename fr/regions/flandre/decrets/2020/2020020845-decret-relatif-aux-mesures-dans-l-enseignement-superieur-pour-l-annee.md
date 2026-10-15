@@ -13,7 +13,7 @@ entry_into_force: 2020-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/17/2020020845/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2020. - Décret relatif aux mesures dans l'enseignement supérieur pour l'année académique 2019-2020 suite à la crise du coronavirus

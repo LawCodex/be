@@ -12,7 +12,7 @@ entry_into_force: 1994-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/12/1994009611/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1994. - Loi complétant l'article 792 du Code judiciaire.

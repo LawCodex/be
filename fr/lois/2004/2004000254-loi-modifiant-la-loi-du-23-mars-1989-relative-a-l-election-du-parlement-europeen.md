@@ -12,7 +12,7 @@ entry_into_force: 2004-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/25/2004000254/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2004. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen.

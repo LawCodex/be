@@ -12,7 +12,7 @@ entry_into_force: 2003-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003000525/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi insérant des dispositions particulières en matière de commissionnement, de promotion et d'évaluation des membres détachés d'un service de police dans la loi organique du 18 juillet 1991 de contrôle des services de police et de renseignements.

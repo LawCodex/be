@@ -10,7 +10,7 @@ date: 2016-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/29/2017013114/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2016. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Jersey inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Londen op 13 maart 2014

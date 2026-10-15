@@ -13,7 +13,7 @@ entry_into_force: 2012-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012035954/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret modifiant diverses dispositions du décret du 13 décembre 2002 portant création de la société anonyme de droit public "Beheersmaatschappij Antwerpen Mobiel" (BAM)

@@ -13,7 +13,7 @@ entry_into_force: 2002-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/20/2002029332/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2002. - Décret modifiant le décret du 20 décembre 2001 relatif à la promotion de la santé à l'école.

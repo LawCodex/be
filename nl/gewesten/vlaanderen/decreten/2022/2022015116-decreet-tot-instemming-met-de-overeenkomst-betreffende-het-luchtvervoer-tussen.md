@@ -13,7 +13,7 @@ entry_into_force: 2022-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/17/2022015116/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2022. - Decreet tot instemming met de overeenkomst betreffende het luchtvervoer tussen het Koninkrijk België en Burkina Faso, ondertekend te Brussel op 5 juni 2018

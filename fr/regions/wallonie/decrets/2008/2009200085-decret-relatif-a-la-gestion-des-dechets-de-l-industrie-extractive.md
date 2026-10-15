@@ -13,7 +13,7 @@ entry_into_force: 2009-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/18/2009200085/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2008. - Décret relatif à la gestion des déchets de l'industrie extractive.

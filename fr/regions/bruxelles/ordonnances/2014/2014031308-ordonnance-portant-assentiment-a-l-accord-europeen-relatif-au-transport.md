@@ -13,7 +13,7 @@ entry_into_force: 2014-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031308/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment à l'Accord européen relatif au Transport international des marchandises dangereuses par voies de navigation intérieure, fait à Genève, le 26 mai 2000

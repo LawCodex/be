@@ -12,7 +12,7 @@ entry_into_force: 2021-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/17/2021030003/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2020. - Wet tot goedkeuring van de algemene rekeningen van de administratieve openbare instellingen met ministerieel beheer en van de administratieve diensten met boekhoudkundige autonomie van het jaar 2019 en van voorgaande jaren

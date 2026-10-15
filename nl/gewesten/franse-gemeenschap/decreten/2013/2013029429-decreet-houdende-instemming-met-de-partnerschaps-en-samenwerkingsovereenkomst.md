@@ -13,7 +13,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029429/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet houdende instemming met de Partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Irak, anderzijds, gedaan te Brussel op 11 mei 2012

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/27/2014029238/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Décret portant assentiment à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, adoptée par l'assemblée générale de l'ONU, le 10 décembre 1984, ainsi que son protocole facultatif adopté par l'assemblée générale de l'ONU le 18 décembre 2002

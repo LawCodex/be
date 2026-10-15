@@ -13,7 +13,7 @@ entry_into_force: 1991-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/11/29/1991027042/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 1990. - Décret portant modification de la loi du 10 mars 1925 sur les distributions d'énergie électrique.

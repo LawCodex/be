@@ -12,7 +12,7 @@ entry_into_force: 2019-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/19/2019030001/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2018. - Loi modifiant la loi de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus

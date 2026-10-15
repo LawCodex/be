@@ -12,7 +12,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/24/2013009376/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2013. - Wet tot regeling van aangelegenheden als bedoeld in artikel 77 van de Grondwet inzake de zakelijke zekerheden op roerende goederen

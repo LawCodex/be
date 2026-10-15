@@ -13,7 +13,7 @@ entry_into_force: 2001-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/05/31/2001027313/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2001. - Décret modifiant le décret du 30 avril 1990 instituant une taxe sur le déversement des eaux usées industrielles et domestiques.

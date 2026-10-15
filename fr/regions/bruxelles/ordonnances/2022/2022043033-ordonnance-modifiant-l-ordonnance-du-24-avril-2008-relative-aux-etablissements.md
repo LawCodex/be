@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/15/2022043033/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 30-01-2023 et mise à jour au 11-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2022. - Ordonnance modifiant l'ordonnance du 24 avril 2008 relative aux établissements d'accueil ou d'hébergement pour personnes âgées

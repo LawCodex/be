@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/20/2011204015/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, au Protocole additionnel à la Charte européenne de l'autonomie locale, sur le droit de participer aux affaires des collectivités locales, signé à Utrecht le 16 novembre 2009

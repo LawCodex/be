@@ -13,7 +13,7 @@ entry_into_force: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/25/2019012117/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Ordonnance modifiant l'ordonnance du 18 décembre 2008 relative à l'accès des chiens d'assistance aux lieux ouverts au public

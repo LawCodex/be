@@ -13,7 +13,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/25/2024202257/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2024. - Decreet betreffende de gevolgen van de nieuwe samenstelling van het Parlement voor de ingediende decreetvoorstellen en ontwerpdecreten

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/15/2016024052/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 14-03-2016 en tekstbijwerking tot 28-08-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2016. - Wet tot wijziging van de wet van 5 juli 1994 betreffende bloed en bloedderivaten van menselijke oorsprong wat het erkennen van het altruïstisch karakter van bloeddonatie door personen met hemochromatose betreft

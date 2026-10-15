@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/09/21/2012029442/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-10-2012 en tekstbijwerking tot 14-03-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBER 2012. - Decreet betreffende de deelneming en de vertegenwoordiging van studenten in het hoger onderwijs

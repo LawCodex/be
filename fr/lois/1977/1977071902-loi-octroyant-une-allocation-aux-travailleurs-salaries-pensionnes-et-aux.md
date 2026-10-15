@@ -11,7 +11,7 @@ published: 1977-08-12
 entry_into_force: 1977-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/07/19/1977071902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1977. - Loi octroyant une allocation aux travailleurs salariés pensionnés et aux travailleurs salariés invalides.

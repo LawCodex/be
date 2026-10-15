@@ -13,7 +13,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031333/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Verenigde Staten van Amerika inzake de rechtspositie van een personeelscategorie van de strijdkrachten van de Verenigde Staten, ondertekend te Brussel op 13 juli 2012

@@ -13,7 +13,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/03/2024005012/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Decreet tot wijziging van het decreet van 22 december 2017 over het lokaal bestuur, het Provinciedecreet van 9 december 2005, de wet van 19 juli 1976 tot instelling van een verlof voor de uitoefening van een politiek mandaat en het koninklijk besluit van 31 mei 1977 tot uitvoering van artikel 4 van de wet van 19 juli 1976 tot instelling van een verlof voor de uitoefening van een politiek mandaat

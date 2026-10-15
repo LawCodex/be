@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/01/21/1987025045/justel"
 department: "Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 07-11-1987 et mise à jour au 29-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 1987. - [Loi relative à l'alimentation du fonds pour les risques d'accidents majeurs et du fonds pour la prévention des accidents majeurs.] &lt;L 2002-05-26/43, art. 2, 008; En vigueur : 07-07-2002&gt;

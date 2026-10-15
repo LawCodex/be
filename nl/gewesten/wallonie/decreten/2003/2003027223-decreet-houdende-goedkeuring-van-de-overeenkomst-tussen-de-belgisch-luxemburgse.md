@@ -13,7 +13,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2003027223/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende goedkeuring van de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Biëlorusland betreffende de wederzijdse aanmoediging en bescherming van de investeringen, opgemaakt te Brussel op 9 april 2002 (VERTALING).

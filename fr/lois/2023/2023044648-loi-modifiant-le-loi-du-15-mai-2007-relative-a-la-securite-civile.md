@@ -12,7 +12,7 @@ entry_into_force: 2023-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/16/2023044648/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2023. - Loi modifiant le loi du 15 mai 2007 relative à la Sécurité civile

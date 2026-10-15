@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/21/2010003061/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 03-02-2010 et mise à jour au 30-04-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2010. - Loi modifiant la loi du 25 juin 1992 sur le contrat d'assurance terrestre en ce qui concerne les assurances du solde restant dû pour les personnes présentant un risque de santé accru

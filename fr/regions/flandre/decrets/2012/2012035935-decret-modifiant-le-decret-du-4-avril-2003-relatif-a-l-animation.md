@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012035935/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret modifiant le décret du 4 avril 2003 relatif à l'animation socioculturelle des adultes, pour ce qui concerne les mouvements, les institutions de formation et le service d'appui

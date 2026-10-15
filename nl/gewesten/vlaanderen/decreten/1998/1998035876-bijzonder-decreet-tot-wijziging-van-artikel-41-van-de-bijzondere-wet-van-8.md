@@ -11,7 +11,7 @@ date: 1998-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/14/1998035876/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Bijzonder decreet tot wijziging van artikel 41 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

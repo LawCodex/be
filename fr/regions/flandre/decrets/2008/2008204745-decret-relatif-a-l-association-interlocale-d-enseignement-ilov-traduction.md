@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/28/2008204745/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-01-2009 et mise à jour au 13-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2008. - Décret relatif à l'association interlocale d'enseignement (ILOV) (TRADUCTION). &lt;Intitulé remplacé par DCFL 2018-06-15/09 , art. 2, 002; En vigueur : 23-07-2018&gt;

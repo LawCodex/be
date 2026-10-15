@@ -13,7 +13,7 @@ entry_into_force: 2006-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/02/10/2006035316/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2006. - Décret modifiant la Loi électorale communale, coordonnée le 4 août 1932, la loi du 19 octobre 1921 organique des élections provinciales, et le décret du 18 mai 1994 réglant l'usage des langues lors des élections (TRADUCTION).

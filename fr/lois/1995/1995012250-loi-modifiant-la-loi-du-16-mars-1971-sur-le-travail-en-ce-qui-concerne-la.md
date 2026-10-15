@@ -12,7 +12,7 @@ entry_into_force: 1995-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/03/1995012250/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1995. - Loi modifiant la loi du 16 mars 1971 sur le travail en ce qui concerne la protection de la maternité.

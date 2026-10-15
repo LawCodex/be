@@ -12,7 +12,7 @@ entry_into_force: 1998-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/12/1998000040/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1997. - Wet tot wijziging van de grenzen tussen de gemeenten Grimbergen, Vilvoorde en Zemst.

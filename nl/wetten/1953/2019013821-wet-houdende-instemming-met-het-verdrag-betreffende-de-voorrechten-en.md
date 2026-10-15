@@ -11,7 +11,7 @@ published: 2019-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/04/08/2019013821/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 1953. - Wet houdende instemming met het Verdrag betreffende de Voorrechten en Immuniteiten der gespecialiseerde organisaties, aangenomen op 21 november 1947, te New York door de Algemene Vergadering der Verenigde Naties, tijdens haar tweede zitting (1). - Addendum

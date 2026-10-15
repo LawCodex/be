@@ -12,7 +12,7 @@ entry_into_force: 2012-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/16/2012009317/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2012. - Wet tot wijziging van het Burgerlijk Wetboek en het Gerechtelijk Wetboek, met het oog op een vereenvoudiging van de regels van de burgerlijke rechtspleging

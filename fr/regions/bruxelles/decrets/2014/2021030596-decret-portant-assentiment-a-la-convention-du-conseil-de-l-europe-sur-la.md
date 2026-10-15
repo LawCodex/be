@@ -13,7 +13,7 @@ entry_into_force: 2021-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/08/2021030596/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Décret portant assentiment à la Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, adoptée par le comité des ministres du Conseil de l'Europe le 7 avril 2011

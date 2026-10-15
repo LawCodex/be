@@ -13,7 +13,7 @@ entry_into_force: 2002-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/01/18/2002035183/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2002. - Decreet houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud.

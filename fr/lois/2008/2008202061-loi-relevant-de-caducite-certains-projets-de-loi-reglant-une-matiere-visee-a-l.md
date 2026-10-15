@@ -12,7 +12,7 @@ entry_into_force: 2008-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/08/2008202061/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2008. - Loi relevant de caducité certains projets de loi réglant une matière visée à l'article 78 de la Constitution.

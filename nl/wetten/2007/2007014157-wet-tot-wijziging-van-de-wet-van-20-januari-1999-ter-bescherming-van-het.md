@@ -12,7 +12,7 @@ entry_into_force: 2007-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007014157/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot wijziging van de wet van 20 januari 1999 ter bescherming van het mariene milieu in de zeegebieden onder de rechtsbevoegdheid van België.

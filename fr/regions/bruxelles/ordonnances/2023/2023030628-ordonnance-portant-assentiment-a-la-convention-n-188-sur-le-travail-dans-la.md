@@ -13,7 +13,7 @@ entry_into_force: 2023-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/03/02/2023030628/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2023. - Ordonnance portant assentiment à la Convention n° 188 sur le travail dans la pêche, adoptée par la Conférence internationale du Travail au cours de sa 96e session à Genève le 14 juin 2007

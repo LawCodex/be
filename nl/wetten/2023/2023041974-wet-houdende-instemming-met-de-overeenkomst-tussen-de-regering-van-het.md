@@ -12,7 +12,7 @@ entry_into_force: 2023-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023041974/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet houdende instemming met de Overeenkomst tussen de regering van het Koninkrijk België, de regering van de Vlaamse Gemeenschap, de regering van de Franse Gemeenschap, de regering van de Duitstalige Gemeenschap, de regering van het Vlaamse Gewest, de regering van het Waalse Gewest, de regering van het Brussels Hoofdstedelijk Gewest en de regering van de Franse Republiek inzake het vervoer van lijken over land, gedaan te Parijs op 9 maart 2020

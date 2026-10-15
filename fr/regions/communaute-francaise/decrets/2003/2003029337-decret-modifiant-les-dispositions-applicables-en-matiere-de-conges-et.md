@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/08/2003029337/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2003 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Décret modifiant les dispositions applicables en matière de congés et organisant la protection de la maternité.

@@ -13,7 +13,7 @@ entry_into_force: 2008-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/10/24/2008029592/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2008. - Décret modifiant le décret du 20 juillet 2000 portant diverses mesures urgentes en matière d'enseignement supérieur et de recherche scientifique à propos du Fonds pour la Formation à la Recherche dans l'Industrie et dans l'Agriculture (FRIA).

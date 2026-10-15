@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035709/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-08-2014 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret relatif à la rénovation rurale

@@ -12,7 +12,7 @@ entry_into_force: 2003-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/16/2003015128/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2003. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Hongrie relatif au transport aérien, et l'Annexe, signés à Budapest le 22 mai 2001.

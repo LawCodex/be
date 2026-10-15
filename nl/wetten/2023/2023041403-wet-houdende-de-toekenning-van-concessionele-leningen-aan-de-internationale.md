@@ -12,7 +12,7 @@ entry_into_force: 2023-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023041403/justel"
 department: "Financiën - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet houdende de toekenning van concessionele leningen aan de Internationale Ontwikkelingsassociatie in het kader van wedersamenstellingen van de middelen

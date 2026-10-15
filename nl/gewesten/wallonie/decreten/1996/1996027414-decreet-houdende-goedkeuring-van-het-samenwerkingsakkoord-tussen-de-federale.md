@@ -13,7 +13,7 @@ entry_into_force: 1994-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/20/1996027414/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 1996. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de nadere regelen voor het sluiten van gemengde verdragen, ondertekend te Brussel op 8 maart 1994 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2026-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/16/2026005829/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2026. - Wet inzake een dienst voor gekwalificeerde elektronische handtekeningen

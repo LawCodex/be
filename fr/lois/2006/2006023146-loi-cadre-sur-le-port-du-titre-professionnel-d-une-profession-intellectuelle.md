@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/24/2006023146/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2006 et mise à jour au 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2006. - Loi-cadre sur le port du titre professionnel d'une profession intellectuelle prestataire de services et sur le port du titre professionnel d'une profession artisanale

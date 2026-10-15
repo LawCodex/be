@@ -13,7 +13,7 @@ entry_into_force: 2013-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/17/2013200459/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2013. - Décret portant assentiment au Protocole, fait à Luxembourg le 24 juin 2010, modifiant l'Accord de transport aérien entre les Etats-Unis d'Amérique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, signé les 25 et 30 avril 2007

@@ -13,7 +13,7 @@ entry_into_force: 2018-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/24/2018012303/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Ordonnantie houdende instemming met : het Samenwerkingsakkoord van 14 juli 2017 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met het oog op de omzetting van Richtlijn 2014/61/EU

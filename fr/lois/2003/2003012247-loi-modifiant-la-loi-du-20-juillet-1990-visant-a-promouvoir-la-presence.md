@@ -12,7 +12,7 @@ entry_into_force: 2003-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003012247/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi modifiant la loi du 20 juillet 1990 visant à promouvoir la présence équilibrée d'hommes et de femmes dans les organes possédant une compétence d'avis

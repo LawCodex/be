@@ -12,7 +12,7 @@ entry_into_force: 2007-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/23/2007003285/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2007. - Wet tot opheffing van artikel 8 van de wet van 2 maart 1989 op de openbaarmaking van belangrijke deelnemingen in ter beurze genoteerde vennootschappen en tot reglementering van de openbare overnameaanbiedingen, en tot wijziging van artikel 121 van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten.

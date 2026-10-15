@@ -12,7 +12,7 @@ entry_into_force: 1999-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/25/1999000448/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1999. - Wet tot wijziging van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, van de wet van 5 april 1955 inzake de wedden van de ambtsdragers bij de Raad van State, alsook van het Gerechtelijk Wetboek.

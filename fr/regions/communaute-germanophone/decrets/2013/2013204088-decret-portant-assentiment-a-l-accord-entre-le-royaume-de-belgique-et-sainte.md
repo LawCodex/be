@@ -13,7 +13,7 @@ entry_into_force: 2013-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/24/2013204088/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et Sainte-Lucie en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 7 décembre 2009

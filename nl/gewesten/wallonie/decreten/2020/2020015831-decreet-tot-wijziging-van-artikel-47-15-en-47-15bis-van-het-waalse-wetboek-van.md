@@ -13,7 +13,7 @@ entry_into_force: 2020-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/15/2020015831/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2020. - Decreet tot wijziging van artikel 47/15 en 47/15bis van het Waalse Wetboek van Sociale Actie en Gezondheid en tot invoeging van een artikel 47/15ter om maatregelen betreffende de gezondheidscrisis in verband met COVID-19 te nemen

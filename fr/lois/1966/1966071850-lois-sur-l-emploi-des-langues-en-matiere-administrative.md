@@ -13,7 +13,7 @@ last_amended: 2016-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/07/18/1966071850/justel"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1991 et mise à jour au 09-05-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1966. - Lois sur l'emploi des langues en matière administrative.

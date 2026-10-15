@@ -13,7 +13,7 @@ entry_into_force: 2026-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/12/2026000156/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2025. - Decreet tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en het decreet van 26 april 2024 tot wijziging van diverse decreten, wat betreft de implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023

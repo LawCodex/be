@@ -12,7 +12,7 @@ entry_into_force: 2001-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/24/2000015175/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2000. - Wet houdende instemming met het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake de beheersing van emissies van vluchtige organische stoffen of hun grensoverschrijdende stromen, en met de bijlagen I, II, III en IV, ondertekend te Genève op 18 november 1991.

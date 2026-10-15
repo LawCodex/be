@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/03/06/2008031117/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2008. - Ordonnance portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République du Rwanda, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Kigali le 16 avril 2007.

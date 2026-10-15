@@ -13,7 +13,7 @@ entry_into_force: 2026-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/03/06/2026002032/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2026. - Décret portant assentiment à l'accord de coopération du 28 novembre 2025 entre la Région flamande et la Région wallonne portant sur l'articulation de la politique du marché du travail et de la promotion de la mobilité des chercheurs d'emploi

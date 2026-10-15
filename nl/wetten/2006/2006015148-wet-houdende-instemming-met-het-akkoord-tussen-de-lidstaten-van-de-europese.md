@@ -12,7 +12,7 @@ entry_into_force: 2006-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/09/24/2006015148/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBER 2006. - Wet houdende instemming met het Akkoord tussen de Lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de Lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden (EU-SOFA), gedaan te Brussel op 17 november 2003.

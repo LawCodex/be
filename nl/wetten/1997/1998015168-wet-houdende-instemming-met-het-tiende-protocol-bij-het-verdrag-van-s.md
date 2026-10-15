@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/11/1998015168/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1997. - Wet houdende instemming met het Tiende Protocol bij het Verdrag van 's Gravenhage van 18 februari 1950 tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden tot unificatie van accijnzen en van het waarborgrecht, ondertekend te Brussel op 2 december 1992.

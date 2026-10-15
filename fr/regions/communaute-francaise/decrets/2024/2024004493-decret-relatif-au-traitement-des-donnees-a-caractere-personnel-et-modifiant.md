@@ -13,7 +13,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024004493/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Décret relatif au traitement des données à caractère personnel et modifiant diverses dispositions en matière d'aide à la jeunesse

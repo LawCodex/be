@@ -12,7 +12,7 @@ entry_into_force: 1996-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/02/09/1996014032/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1996. Wet tot bekrachtiging van het koninklijk besluit van 22 december 1994 tot wijziging van titel III van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven.

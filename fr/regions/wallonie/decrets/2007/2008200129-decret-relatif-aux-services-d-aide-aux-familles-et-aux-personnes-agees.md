@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/06/2008200129/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2008 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2007. - Décret relatif aux services d'aide aux familles et aux personnes âgées

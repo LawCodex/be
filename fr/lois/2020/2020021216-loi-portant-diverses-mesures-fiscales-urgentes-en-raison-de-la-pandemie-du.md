@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/29/2020021216/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 11-06-2020 et mise à jour au 23-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2020. - Loi portant diverses mesures fiscales urgentes en raison de la pandémie du COVID-19

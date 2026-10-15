@@ -12,7 +12,7 @@ entry_into_force: 2005-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/22/2005000018/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2004. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

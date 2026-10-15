@@ -12,7 +12,7 @@ published: 2003-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029430/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret modifiant le décret du 14 juillet 1997 portant organisation de la promotion de la santé en Communauté française.

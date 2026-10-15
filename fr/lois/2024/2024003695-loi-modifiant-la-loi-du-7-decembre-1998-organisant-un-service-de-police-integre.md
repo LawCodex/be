@@ -12,7 +12,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/29/2024003695/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux pour réaliser une politique de sécurité intégrée et globale au sein des provinces et de la Région de Bruxelles-Capitale

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/28/2013035608/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-06-2013 et mise à jour au 28-03-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2013. - Décret contenant diverses dispositions en matière d'énergie

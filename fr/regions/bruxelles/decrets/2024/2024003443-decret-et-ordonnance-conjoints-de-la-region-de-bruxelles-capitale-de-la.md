@@ -13,7 +13,7 @@ entry_into_force: 2024-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024003443/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Décret et ordonnance conjoints de la Région de Bruxelles-Capitale, de la Commission communautaire commune et de la Commission communautaire française portant le Code bruxellois de l'égalité, de la non-discrimination et de la promotion de la diversité

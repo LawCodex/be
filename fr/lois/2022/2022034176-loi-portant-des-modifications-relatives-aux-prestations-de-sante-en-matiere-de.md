@@ -12,7 +12,7 @@ entry_into_force: 2022-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/20/2022034176/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2022. - Loi portant des modifications relatives aux prestations de santé en matière de dispositifs médicaux et d'implants

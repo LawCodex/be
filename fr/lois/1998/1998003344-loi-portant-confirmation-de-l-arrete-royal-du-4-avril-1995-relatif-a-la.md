@@ -12,7 +12,7 @@ entry_into_force: 1998-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/02/1998003344/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1998. - Loi portant confirmation de l'arrêté royal du 4 avril 1995 relatif à la Commission des accords fiscaux préalables.

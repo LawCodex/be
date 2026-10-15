@@ -13,7 +13,7 @@ entry_into_force: 2022-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/04/07/2022020708/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2022. - Ordonnance modifiant l'ordonnance du 19 juillet 2007 relative à la politique de prévention en santé

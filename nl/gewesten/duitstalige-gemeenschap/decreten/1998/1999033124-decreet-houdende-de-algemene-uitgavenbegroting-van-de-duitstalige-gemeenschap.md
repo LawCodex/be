@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/17/1999033124/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 08-07-1999 en tekstbijwerking tot 02-12-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1998. - Decreet houdende de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1999 (1).

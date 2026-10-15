@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "art. 57 abrogé dans le futur par DCFL 2017-12-22/55 , art. 579,10°, 002; En vigueur : 01-01-2021"
   - "Consultation des versions antérieures à partir du 19-08-2016 et mise à jour au 15-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2016. - Décret relatif aux règles pour la fusion volontaire de communes et modifiant le décret du 5 juillet 2002 réglant la dotation et la répartition du Fonds flamand des Communes, du Décret communal du 15 juillet 2005, du Décret provincial du 9 décembre 2005 et du Décret sur les Elections locales et provinciales du 8 juillet 2011 (cité comme : Décret Fusion volontaire de Communes du 24 juin 2016)

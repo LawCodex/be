@@ -12,7 +12,7 @@ published: 2018-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/23/2018011594/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2018. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten

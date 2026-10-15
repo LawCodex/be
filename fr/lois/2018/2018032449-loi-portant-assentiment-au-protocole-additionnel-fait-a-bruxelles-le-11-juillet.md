@@ -12,7 +12,7 @@ entry_into_force: 2012-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/25/2018032449/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2018. - Loi portant assentiment au Protocole additionnel, fait à Bruxelles le 11 juillet 2012 et à New York le 11 juillet 2012, à l'Accord complémentaire à la Convention générale sur les privilèges et immunités des Nations unies, entre le Royaume de Belgique et les Nations unies, signé à Bruxelles le 22 janvier 1976

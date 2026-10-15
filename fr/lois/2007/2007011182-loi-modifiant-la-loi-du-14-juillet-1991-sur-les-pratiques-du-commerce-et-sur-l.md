@@ -12,7 +12,7 @@ entry_into_force: 2007-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007011182/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi modifiant la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur.

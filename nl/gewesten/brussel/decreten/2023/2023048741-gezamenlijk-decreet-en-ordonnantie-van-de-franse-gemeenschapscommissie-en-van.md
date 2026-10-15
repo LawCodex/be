@@ -13,7 +13,7 @@ entry_into_force: 2024-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/22/2023048741/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Gezamenlijk decreet en ordonnantie van de Franse Gemeenschapscommissie en van de Gemeenschappelijke Gemeenschapscommissie betreffende de organisatie van de ambulante sector en de eerste lijn voor welzijn en gezondheid in het tweetalige gebied Brussel-Hoofdstad

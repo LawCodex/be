@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/13/1995009398/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 25-04-1995 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1995. - [Loi du 13 avril 1995 contenant des dispositions en vue de la répression de la traite et du trafic des êtres humains]. &lt;L 2005-08-10/61, art. 37, 001; En vigueur : 12-09-2005&gt;

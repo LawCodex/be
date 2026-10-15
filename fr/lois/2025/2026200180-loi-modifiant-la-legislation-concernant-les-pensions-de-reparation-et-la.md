@@ -12,7 +12,7 @@ entry_into_force: 2026-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/11/2026200180/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2025. - Loi modifiant la législation concernant les pensions de réparation et la législation concernant les pensions de dédommagement suite aux actes de terrorisme

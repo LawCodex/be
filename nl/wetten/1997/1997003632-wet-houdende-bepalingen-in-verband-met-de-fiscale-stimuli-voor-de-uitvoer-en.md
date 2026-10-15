@@ -12,7 +12,7 @@ entry_into_force: 1997-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/10/27/1997003632/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 1997. - Wet houdende bepalingen in verband met de fiscale stimuli voor de uitvoer en het onderzoek.

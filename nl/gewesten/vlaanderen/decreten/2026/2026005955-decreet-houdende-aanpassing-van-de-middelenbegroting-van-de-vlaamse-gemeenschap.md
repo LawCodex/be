@@ -13,7 +13,7 @@ entry_into_force: 2026-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/10/2026005955/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2026. - Decreet houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026

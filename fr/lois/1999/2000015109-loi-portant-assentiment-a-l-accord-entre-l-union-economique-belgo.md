@@ -12,7 +12,7 @@ entry_into_force: 2001-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/31/2000015109/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 1999. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République du Kazakhstan, d'autre part, concernant l'encouragement et la protection des investissements, signé à Almaty le 16 avril 1998.

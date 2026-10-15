@@ -13,7 +13,7 @@ entry_into_force: 2021-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/05/06/2021031458/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2021. - Ordonnance portant modification de l'ordonnance du 14 juin 2012 relative aux déchets, du Code du 25 mars 1999 de l'inspection, la prévention, la constatation et la répression des infractions en matière d'environnement et de la responsabilité environnementale, de l'ordonnance du 5 mars 2009 relative à la gestion et à l'assainissement des sols pollués, de l'arrêté royal du 8 novembre 2007 concernant la prévention et la réparation des dommages environnementaux dus au transport par la route, la voie ferrée, par voie navigable ou par les airs : d'espèces végétales non indigènes et d'espèces animales non indigènes, ainsi que les dépouilles de ces derniers suite à leur import, export et transit ; ainsi que de déchets lors de leur transit et de l'ordonnance du 22 avril 1999 fixant la liste des installations de classe IA visée à l'article 4 de l'ordonnance du 5 juin 1997 relative aux permis d'environnement

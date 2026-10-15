@@ -13,7 +13,7 @@ entry_into_force: 2015-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/09/21/2015204525/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBER 2015. - Decreet houdende instemming met het zetelakkoord tussen het Koninkrijk België en het Internationaal instituut voor democratie en electorale bijstand, gedaan te Brussel op 15 mei 2014

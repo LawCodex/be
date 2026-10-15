@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/08/05/1995029481/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-1995 en tekstbijwerking tot 05-12-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 1995. - Decreet houdende diverse maatregelen inzake hoger onderwijs. (VERTALING) -

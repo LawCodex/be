@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/30/2020016178/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 25-11-2020 en tekstbijwerking tot 30-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2020. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009

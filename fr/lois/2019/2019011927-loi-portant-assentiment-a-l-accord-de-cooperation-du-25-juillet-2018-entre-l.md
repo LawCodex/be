@@ -12,7 +12,7 @@ entry_into_force: 2019-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/28/2019011927/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2019. - Loi portant assentiment à l'Accord de coopération du 25 juillet 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service et des citernes de gasoil à des fins de chauffage

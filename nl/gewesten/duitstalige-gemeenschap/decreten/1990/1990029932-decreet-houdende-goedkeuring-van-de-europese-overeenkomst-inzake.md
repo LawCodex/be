@@ -13,7 +13,7 @@ entry_into_force: 1990-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/06/05/1990029932/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 1990. - Decreet houdende goedkeuring van de Europese Overeenkomst inzake gewelddadigheden gepleegd door en wangedrag van toeschouwers rond sportevenementen en in het bijzonder rond voetbalwedstrijden, ondertekend te Straatsburg op 19 augustus 1985.

@@ -13,7 +13,7 @@ entry_into_force: 2014-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029325/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République tchèque tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 6 décembre 1996, telle que modifiée par le Protocole fait à Bruxelles le 15 mars 2010

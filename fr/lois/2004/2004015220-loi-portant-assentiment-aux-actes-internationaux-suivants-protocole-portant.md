@@ -12,7 +12,7 @@ entry_into_force: 2005-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/10/2004015220/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2004. - Loi portant assentiment aux Actes internationaux suivants : - Protocole portant modification de la Convention coordonnée instituant l'Union économique belgo-luxembourgeoise; - Protocole portant abrogation de la Convention établissant entre la Belgique et le grand-duché de Luxembourg une communauté spéciale de recettes en ce qui concerne les droits d'accise perçus sur les alcools, du 23 mai 1935; - Protocole portant abrogation du Protocole spécial entre la Belgique et le grand-duché de Luxembourg relatif à l'agriculture, du 29 janvier 1963; - Protocole portant abrogation du Protocole entre le Royaume de Belgique et le grand-duché de Luxembourg relatif à l'association monétaire et de son Protocole d'exécution, du 9 mars 1981, faits à Bruxelles, le 18 décembre 2002

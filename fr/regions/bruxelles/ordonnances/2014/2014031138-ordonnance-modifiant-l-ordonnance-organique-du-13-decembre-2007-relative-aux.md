@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/01/30/2014031138/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Ordonnance modifiant l'ordonnance organique du 13 décembre 2007 relative aux aides pour la promotion de l'expansion économique et portant création d'une Zone d'Economie urbaine stimulée (ZEUS)

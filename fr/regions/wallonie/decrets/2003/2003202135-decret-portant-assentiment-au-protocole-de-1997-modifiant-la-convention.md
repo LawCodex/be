@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2003202135/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant assentiment au Protocole de 1997 modifiant la Convention internationale pour la prévention de la pollution par les navires, Marpol 1973, telle que modifiée par le Protocole y relatif de 1978.

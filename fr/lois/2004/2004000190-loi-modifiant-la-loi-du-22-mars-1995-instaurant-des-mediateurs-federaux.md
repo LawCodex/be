@@ -12,7 +12,7 @@ entry_into_force: 2004-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/11/2004000190/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2004. - Loi modifiant la loi du 22 mars 1995 instaurant des médiateurs fédéraux.

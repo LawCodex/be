@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/25/2019200847/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2019. - Wet betreffende de tussenkomst van de verplichte verzekering voor geneeskundige verzorging in kosten voor het ambulancevervoer georganiseerd in het kader van de dringende geneeskundige verzorging

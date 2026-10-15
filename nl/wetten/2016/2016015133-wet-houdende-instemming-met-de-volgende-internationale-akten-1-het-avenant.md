@@ -11,7 +11,7 @@ published: 2018-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/09/06/2016015133/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 2016. - Wet houdende instemming met de volgende internationale akten : 1. het Avenant, gedaan te Brussel op 2 december 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Spanje tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan en het ontduiken van belasting inzake belastingen naar het inkomen en naar het vermogen, en van het Protocol, ondertekend te Brussel op 14 juni 1995, zoals gewijzigd door het Avenant gedaan te Madrid op 22 juni 2000; 2. het Avenant, gedaan te Madrid op 15 april 2014, tot wijziging van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Spanje tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan en het ontduiken van belasting inzake belastingen naar het inkomen en naar het vermogen, en van het Protocol, ondertekend te Brussel op 14 juni 1995, zoals gewijzigd door het Avenant gedaan te Madrid op 22 juni 2000 en door het Avenant gedaan te Brussel op 2 december 2009

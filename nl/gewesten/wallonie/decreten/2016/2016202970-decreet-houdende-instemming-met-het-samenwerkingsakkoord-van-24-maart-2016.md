@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/26/2016202970/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2016. - Decreet houdende instemming met het samenwerkingsakkoord van 24 maart 2016 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest houdende oprichting van een bemiddelende instantie in het kader van de elektronische tolheffingssystemen op het grondgebied van de drie gewesten

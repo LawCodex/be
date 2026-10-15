@@ -13,7 +13,7 @@ entry_into_force: 2016-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/30/2016203105/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2016. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et le Comité international de Médecine militaire, signé à Bruxelles le 2 juin 2008

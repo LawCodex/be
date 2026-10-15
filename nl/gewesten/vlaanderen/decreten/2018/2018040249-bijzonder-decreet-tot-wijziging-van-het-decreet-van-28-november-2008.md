@@ -13,7 +13,7 @@ entry_into_force: 2018-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/15/2018040249/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2018. - Bijzonder decreet tot wijziging van het decreet van 28 november 2008 betreffende de intergemeentelijke onderwijsvereniging en het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen

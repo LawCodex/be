@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/19/2013024113/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 29-03-2013 et mise à jour au 28-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2013. - Loi portant des dispositions diverses en matière de santé (I)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/07/28/1992029485/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-09-1992 et mise à jour au 03-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 1992. - Décret relatif aux services d'accompagnement des personnes handicapées adultes.

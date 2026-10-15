@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/17/2004033086/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-12-2004 en tekstbijwerking tot 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2004. - Decreet over maatregelen inzake onderwijs, opleiding en infrastructuur - 2004 (VERTALING)

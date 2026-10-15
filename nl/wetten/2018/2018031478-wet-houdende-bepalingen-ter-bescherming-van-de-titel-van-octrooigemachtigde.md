@@ -11,7 +11,7 @@ published: 2018-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/08/2018031478/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2018. - Wet houdende bepalingen ter bescherming van de titel van octrooigemachtigde

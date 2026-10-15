@@ -12,7 +12,7 @@ entry_into_force: 2014-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/24/2014003226/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Loi modifiant les articles 121 et 122 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers en vue de régler les recours contre certaines décisions prises par la FSMA en vertu de la loi du 25 avril 2014 relative au statut et au contrôle des planificateurs financiers indépendants et à la fourniture de consultations en planification financière par des entreprises réglementées

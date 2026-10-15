@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/26/1999029312/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-08-1999 et mise à jour au 08-05-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 1999. - Décret portant confirmation des socles de compétences et modifiant la terminologie relative à la compétence exercée par le parlement en application des articles 16, 25, 26, 35 et 43 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.

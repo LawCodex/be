@@ -12,7 +12,7 @@ entry_into_force: 2004-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/09/2004009220/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2004. - Loi modifiant le régime transitoire prévu par la loi du 7 mai 1999 contenant le Code des sociétés.

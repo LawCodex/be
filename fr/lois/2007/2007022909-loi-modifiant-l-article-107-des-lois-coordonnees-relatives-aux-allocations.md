@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007022909/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2014 et mise à jour au 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant l'article 107 des lois coordonnées relatives aux allocations familiales pour travailleurs salariés

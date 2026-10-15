@@ -13,7 +13,7 @@ entry_into_force: 1992-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/10/23/1991036614/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1991. - Décret portant organisation et agrément des sociétés de télévision régionales non-publiques .

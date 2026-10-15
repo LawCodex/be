@@ -12,7 +12,7 @@ entry_into_force: 2009-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/18/2009009517/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2009. - Loi complétant la loi sur les baux à loyer en ce qui concerne l'imputation au preneur des frais d'intervention d'un tiers

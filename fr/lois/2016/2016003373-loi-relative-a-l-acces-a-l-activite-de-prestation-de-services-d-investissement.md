@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/10/25/2016003373/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 18-11-2016 et mise à jour au 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2016. - Loi relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement

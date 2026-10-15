@@ -13,7 +13,7 @@ entry_into_force: 2010-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/05/07/2010035405/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2010. - Decreet houdende instemming met de wijzigingen van de overeenkomst inzake de Internationale Organisatie voor Telecommunicatiesatellieten 'INTELSAT', aangenomen in Washington op 17 november 2000, en met de wijziging van artikel XII, onderdeel c, onder ii, van de overeenkomst inzake de Internationale Organisatie voor Telecommunicatiesatellieten, aangenomen door de 31e assemblee van partijen in Parijs op 23 maart 2007

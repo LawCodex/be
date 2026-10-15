@@ -12,7 +12,7 @@ entry_into_force: 2010-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/18/2010000359/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2010. - Wet tot wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten en op het Coördinatieorgaan voor de dreigingsanalyse

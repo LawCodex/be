@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/15/2011203941/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-08-2011 et mise à jour au 20-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2011. - Décret autorisant la création de l'agence autonomisée externe de droit privé " NV Vlaams Energiebedrijf " (SA Entreprise flamande de l'Energie)

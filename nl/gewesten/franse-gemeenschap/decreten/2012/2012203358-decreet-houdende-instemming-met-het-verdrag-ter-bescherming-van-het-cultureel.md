@@ -13,7 +13,7 @@ entry_into_force: 2012-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203358/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende instemming met het Verdrag ter bescherming van het cultureel erfgoed onder water, aangenomen op 2 november 2011 en opgemaakt te Parijs op 6 november 2001

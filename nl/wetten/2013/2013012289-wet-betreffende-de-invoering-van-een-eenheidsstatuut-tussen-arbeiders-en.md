@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2013012289/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2013 en tekstbijwerking tot 23-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Wet betreffende de invoering van een eenheidsstatuut tussen arbeiders en bedienden inzake de opzeggingstermijnen en de carenzdag en begeleidende maatregelen

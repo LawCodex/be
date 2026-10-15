@@ -12,7 +12,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022032823/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet houdende tenuitvoerlegging van Verordening (EU) 2019/1111 van de Raad van 25 juni 2019 betreffende de bevoegdheid, de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en betreffende internationale kinderontvoering (herschikking)

@@ -12,7 +12,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1919/08/30/1919083050/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 1919. - Loi interdisant la fabrication, l'importation, la vente et la détention pour la mise en vente des allumettes contenant du phosphore blanc

@@ -15,7 +15,7 @@ department: "Financiën"
 justel_notes:
   - "art. 6-9 gewijzigd in de toekomst door W 2022-07-05/06 , art. 47-49, 004; Inwerkingtreding : 01-01-2025"
   - "Raadpleging van vroegere versies vanaf 20-07-2018 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Wet op de Deposito- en Consignatiekas

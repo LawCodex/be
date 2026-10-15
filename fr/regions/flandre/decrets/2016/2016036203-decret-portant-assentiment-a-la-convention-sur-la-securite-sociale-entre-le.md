@@ -13,7 +13,7 @@ entry_into_force: 2016-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/08/2016036203/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2016. - Décret portant assentiment à la Convention sur la sécurité sociale entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Turquie, faite à Ankara le 11 avril 2014

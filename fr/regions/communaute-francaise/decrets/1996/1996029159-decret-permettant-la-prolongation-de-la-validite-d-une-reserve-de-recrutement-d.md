@@ -13,7 +13,7 @@ entry_into_force: 1996-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/18/1996029159/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1996. - Décret permettant la prolongation de la validité d'une réserve de recrutement d'assistants médicaux à l'Office de la Naissance et de l'Enfance.

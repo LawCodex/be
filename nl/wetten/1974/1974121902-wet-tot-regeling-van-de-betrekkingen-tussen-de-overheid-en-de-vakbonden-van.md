@@ -13,7 +13,7 @@ last_amended: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/12/19/1974121902/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 04-08-1983 en tekstbijwerking tot 16-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1974. - Wet tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel.

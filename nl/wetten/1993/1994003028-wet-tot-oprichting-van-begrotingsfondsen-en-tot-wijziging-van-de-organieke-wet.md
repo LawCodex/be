@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/24/1994003028/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-1994 en tekstbijwerking tot 14-06-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1993. - Wet tot oprichting van begrotingsfondsen en tot wijziging van de organieke wet van 27 december 1990 houdende oprichting van begrotingsfondsen.

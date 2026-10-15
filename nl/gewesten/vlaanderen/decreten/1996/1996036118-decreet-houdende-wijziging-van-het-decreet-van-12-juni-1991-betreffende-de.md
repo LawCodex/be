@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996036118/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - DECREET houdende wijziging van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap

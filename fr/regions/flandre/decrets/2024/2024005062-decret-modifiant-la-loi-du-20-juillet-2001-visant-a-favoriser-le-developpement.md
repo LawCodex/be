@@ -13,7 +13,7 @@ entry_into_force: 2024-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024005062/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret modifiant la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité et le décret du 30 avril 2004 relatif au contrôle des lois sociales

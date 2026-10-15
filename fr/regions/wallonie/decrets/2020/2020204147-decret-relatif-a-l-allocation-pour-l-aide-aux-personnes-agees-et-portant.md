@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/01/2020204147/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 2020. - Décret relatif à l'allocation pour l'aide aux personnes âgées et portant modification du Code wallon de l'Action sociale et de la Santé

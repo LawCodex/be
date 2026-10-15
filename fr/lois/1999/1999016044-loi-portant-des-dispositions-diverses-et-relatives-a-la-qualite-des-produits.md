@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/05/1999016044/justel"
 department: "Classes Moyennes - Agriculture"
 justel_note: "Consultation des versions antérieures à partir du 19-03-1999 et mise à jour au 08-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1999. - Loi portant des dispositions diverses et relatives à la qualité des produits agricoles

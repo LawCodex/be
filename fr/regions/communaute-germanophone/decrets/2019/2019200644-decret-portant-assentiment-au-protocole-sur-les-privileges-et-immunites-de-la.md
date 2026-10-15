@@ -13,7 +13,7 @@ entry_into_force: 2019-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/28/2019200644/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2019. - Décret portant assentiment au Protocole sur les privilèges et immunités de la juridiction unifiée du brevet, fait à Bruxelles le 29 juin 2016

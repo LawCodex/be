@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/05/09/1994033064/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-04-1996 en tekstbijwerking tot 14-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 1994. - [Decreet betreffende de noodopvangwoningen] &lt;Vertaling&gt; &lt;DDG 2010-03-15/14 , art. 5, 008; Inwerkingtreding : 23-04-2010&gt;

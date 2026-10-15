@@ -11,7 +11,7 @@ published: 1975-11-15
 entry_into_force: 1975-11-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/06/05/1975060509/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 1975. - Loi contenant approbation de la Convention pour la reconnaissance et l'exécution des sentences arbitrales étrangères, faite à New York le 10 juin 1958.

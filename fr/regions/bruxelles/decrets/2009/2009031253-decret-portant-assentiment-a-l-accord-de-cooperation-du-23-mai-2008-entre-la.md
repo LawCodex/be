@@ -13,7 +13,7 @@ entry_into_force: 2009-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/19/2009031253/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2009. - Décret portant assentiment à l'Accord de coopération du 23 mai 2008 entre la Communauté française et la Commission communautaire française en matière d'intégration scolaire pour les jeunes en situation de handicap

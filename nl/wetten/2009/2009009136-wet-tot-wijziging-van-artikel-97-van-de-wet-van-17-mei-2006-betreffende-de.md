@@ -12,7 +12,7 @@ entry_into_force: 2009-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/06/2009009136/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2009. - Wet tot wijziging van artikel 97 van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten.

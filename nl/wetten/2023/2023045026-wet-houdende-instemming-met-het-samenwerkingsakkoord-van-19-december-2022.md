@@ -12,7 +12,7 @@ entry_into_force: 2023-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/09/2023045026/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2023. - Wet houdende instemming met het samenwerkingsakkoord van 19 december 2022 tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het gebruik van de herstel- en veerkrachtfaciliteit, gevoegd bij deze wet

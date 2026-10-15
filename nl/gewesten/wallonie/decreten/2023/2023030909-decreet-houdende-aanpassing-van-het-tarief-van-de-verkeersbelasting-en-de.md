@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/23/2023030909/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2023. - Decreet houdende aanpassing van het tarief van de verkeersbelasting en de belasting op de inverkeersstelling voor de kampeerwagens gelijkgesteld met de categorie van de personenwagens, de wagens voor gemengd gebruik en de minibussen

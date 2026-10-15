@@ -13,7 +13,7 @@ entry_into_force: 2001-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/11/2001021179/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1999. - Décret portant approbation de l'accord de coopération du 28 février 1994, modifié le 7 juillet 1998, entre l'Etat et la Communauté flamande relatif à l'aide sociale dispensée aux détenus en vue de leur intégration sociale (TRADUCTION).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004202818/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 23-09-2004 en tekstbijwerking tot 05-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet betreffende Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt (VERTALING)

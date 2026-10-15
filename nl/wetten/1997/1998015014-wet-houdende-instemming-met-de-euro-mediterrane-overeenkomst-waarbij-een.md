@@ -10,7 +10,7 @@ date: 1997-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/13/1998015014/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1997. - Wet houdende instemming met de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Tunesië, anderzijds, Bijlagen 1 tot 7, Protocollen 1 tot 5, en Slotakte, gedaan te Brussel op 17 juli 1995

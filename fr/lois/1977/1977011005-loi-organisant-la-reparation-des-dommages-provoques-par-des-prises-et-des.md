@@ -13,7 +13,7 @@ last_amended: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/01/10/1977011005/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-02-2008 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 1977. - Loi organisant la réparation des dommages provoqués par des prises et des pompages d'eau souterraine. (NOTE 1: Les chapitres I et III ainsi que l'art. 14 sont abrogés pour la Région wallonne par DRW 1985-10-11/33, art. 20, mis partiellement en exécution par ARW 1985-11-27/32, art. 2, entré en vigueur le 17-01-1986) (NOTE 2 : Sera abrogé pour la Région flamande par DCFL 1984-01-24/32, art. 31, § 2 lorsque son chapitre IV sera entré en vigueur)

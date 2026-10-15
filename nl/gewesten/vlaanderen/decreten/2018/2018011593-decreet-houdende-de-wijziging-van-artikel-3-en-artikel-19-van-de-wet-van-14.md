@@ -13,7 +13,7 @@ entry_into_force: 2018-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/23/2018011593/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2018. - Decreet houdende de wijziging van artikel 3 en artikel 19 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren

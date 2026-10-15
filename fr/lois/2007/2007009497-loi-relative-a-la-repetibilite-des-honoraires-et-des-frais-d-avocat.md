@@ -12,7 +12,7 @@ entry_into_force: 2007-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007009497/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi relative à la répétibilité des honoraires et des frais d'avocat.

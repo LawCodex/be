@@ -12,7 +12,7 @@ entry_into_force: 2023-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/26/2022043218/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2022. - Loi relative à la mention des voies de recours et portant dispositions diverses en matière judiciaire

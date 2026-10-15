@@ -11,7 +11,7 @@ published: 1960-10-29
 entry_into_force: 1960-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/07/26/1960072605/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1960. - Loi portant approbation de l'Accord relatif aux transports aériens entre la Belgique et la Turquie et de l'Annexe, signés à Ankara, le 25 octobre 1956.

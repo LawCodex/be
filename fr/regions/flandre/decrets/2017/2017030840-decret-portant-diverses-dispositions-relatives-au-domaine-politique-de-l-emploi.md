@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030840/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-08-2017 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant diverses dispositions relatives au domaine politique [de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale](Intitulé modifié par DCFL 2026-06-26/19 , art. 47, 002; En vigueur : 07-08-2026)

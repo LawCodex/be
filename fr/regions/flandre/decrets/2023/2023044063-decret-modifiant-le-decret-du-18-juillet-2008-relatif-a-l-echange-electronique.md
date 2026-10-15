@@ -13,7 +13,7 @@ entry_into_force: 2023-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/23/2023044063/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2023. - Décret modifiant le décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, le décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand, le Décret de gouvernance du 7 décembre 2018 et le décret du 2 décembre 2022 autorisant la création de l'agence autonomisée externe de droit privé Service public flamand des données (" Vlaams Datanutsbedrijf ") sous forme de société anonyme, afin de renforcer le cadre des échanges numériques de données

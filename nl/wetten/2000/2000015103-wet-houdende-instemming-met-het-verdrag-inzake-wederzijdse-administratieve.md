@@ -12,7 +12,7 @@ entry_into_force: 2000-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/24/2000015103/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2000. - Wet houdende instemming met het Verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, en met de Bijlagen A, B en C, gedaan te Straatsburg op 25 januari 1988.

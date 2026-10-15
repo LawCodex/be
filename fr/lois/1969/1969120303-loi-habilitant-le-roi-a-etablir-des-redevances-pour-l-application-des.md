@@ -11,7 +11,7 @@ published: 1970-01-06
 entry_into_force: 1970-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/12/03/1969120303/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 1969. - Loi habilitant le Roi à établir des redevances pour l'application des réglementations concernant la protection du travail, les machines dangereuses et les radiations ionisantes.

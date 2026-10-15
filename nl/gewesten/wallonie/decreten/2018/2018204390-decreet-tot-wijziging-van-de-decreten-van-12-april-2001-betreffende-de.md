@@ -11,7 +11,7 @@ date: 2018-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/19/2018204390/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Decreet tot wijziging van de decreten van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en van 19 januari 2017 betreffende de tariefmethodologie die van toepassing is op gas- en elektriciteitsdistributienetbeheerders met het oog op de aanleg van de slimme meters en de flexibiliteit

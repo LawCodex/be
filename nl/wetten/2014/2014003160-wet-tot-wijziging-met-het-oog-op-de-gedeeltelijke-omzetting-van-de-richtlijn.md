@@ -12,7 +12,7 @@ entry_into_force: 2014-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014003160/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot wijziging, met het oog op de gedeeltelijke omzetting van de richtlijn 2011/85/EU, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof

@@ -13,7 +13,7 @@ entry_into_force: 2011-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/29/2013035385/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 15 juli 2011 tussen het Brussels Hoofdstedelijk Gewest, het Vlaams Gewest en de Vlaamse Gemeenschap betreffende de afstemming van het arbeidsmarktbeleid, opleiding, vorming en de bevordering van de mobiliteit van werkzoekenden

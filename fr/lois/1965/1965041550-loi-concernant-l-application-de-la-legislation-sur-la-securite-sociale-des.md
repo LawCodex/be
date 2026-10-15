@@ -11,7 +11,7 @@ published: 1965-05-12
 entry_into_force: 1965-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/15/1965041550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 1965. - LOI concernant l'application de la législation sur la sécurité sociale des travailleurs à certaines catégories de personnes

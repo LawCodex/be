@@ -12,7 +12,7 @@ entry_into_force: 2015-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/12/2015003318/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2015. - Loi relative à la lutte contre les activités des fonds vautours

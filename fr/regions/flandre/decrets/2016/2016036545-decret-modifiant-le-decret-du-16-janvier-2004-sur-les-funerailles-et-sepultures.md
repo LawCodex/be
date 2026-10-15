@@ -13,7 +13,7 @@ entry_into_force: 2016-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/28/2016036545/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2016. - DECRET modifiant le décret du 16 janvier 2004 sur les funérailles et sépultures

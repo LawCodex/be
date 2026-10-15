@@ -11,7 +11,7 @@ date: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203984/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en van het decreet van 28 november 2013 betreffende de energieprestatie van gebouwen

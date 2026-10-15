@@ -12,7 +12,7 @@ last_amended: 2023-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/13/1976071306/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 04-10-2006 en tekstbijwerking tot 28-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1976. - Wet houdende goedkeuring van de Overeenkomst inzake een internationaal energieprogramma, en van de Bijlage, opgemaakt te Parijs op 18 november 1974.

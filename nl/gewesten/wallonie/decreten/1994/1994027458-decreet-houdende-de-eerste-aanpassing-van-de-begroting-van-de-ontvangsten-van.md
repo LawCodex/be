@@ -13,7 +13,7 @@ entry_into_force: 1994-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/07/1994027458/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1994. - Decreet houdende de eerste aanpassing van de begroting van de ontvangsten van het Waalse Gewest voor het begrotingsjaar 1994 .

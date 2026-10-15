@@ -12,7 +12,7 @@ published: 1999-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/09/28/1999036284/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 1999. - Décret portant modification de la date d'entrée en vigueur du décret du 18 mai 1999 portant organisation de l'aménagement du territoire (Traduction).

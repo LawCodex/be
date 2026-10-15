@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019011985/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-04-2019 et mise à jour au 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret modifiant le décret du 22 décembre 1995 contenant diverses mesures d'accompagnement du budget 1996, le décret du 15 juillet 1997 contenant le Code flamand du Logement, et le Code flamand de la Fiscalité du 13 décembre 2013

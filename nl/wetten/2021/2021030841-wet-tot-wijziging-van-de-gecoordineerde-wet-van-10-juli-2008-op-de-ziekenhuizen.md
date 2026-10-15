@@ -12,7 +12,7 @@ entry_into_force: 2019-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/29/2021030841/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2021. - Wet tot wijziging van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgings-inrichtingen, wat de toepassing van de voorafgaande controle op concentraties van de klinische netwerking tussen ziekenhuizen betreft

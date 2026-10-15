@@ -11,7 +11,7 @@ entry_into_force: 2017-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/11/2017013170/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 2015. - Wet houdende instemming met het Protocol, gedaan te Brussel op 16 maart 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Helleense Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Athene op 25 mei 2004

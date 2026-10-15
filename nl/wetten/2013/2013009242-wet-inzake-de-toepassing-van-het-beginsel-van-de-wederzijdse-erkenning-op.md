@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/05/21/2013009242/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 13-06-2013 en tekstbijwerking tot 29-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2013. - Wet inzake de toepassing van het beginsel van de wederzijdse erkenning op vonnissen en probatiebeslissingen met het oog op het toezicht op de probatievoorwaarden en de alternatieve straffen uitgesproken in een lidstaat van de Europese unie

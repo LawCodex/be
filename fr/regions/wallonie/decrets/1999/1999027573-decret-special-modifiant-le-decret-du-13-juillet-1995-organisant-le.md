@@ -13,7 +13,7 @@ entry_into_force: 1999-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/07/12/1999027573/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1999. - Décret spécial modifiant le décret du 13 juillet 1995 organisant le remplacement des Ministres par leur suppléant parlementaire.

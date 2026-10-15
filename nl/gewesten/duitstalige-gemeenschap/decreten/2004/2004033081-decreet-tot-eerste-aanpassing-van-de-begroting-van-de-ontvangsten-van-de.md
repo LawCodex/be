@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/03/2004033081/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2004. - Decreet tot eerste aanpassing van de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 2004 (VERTALING).

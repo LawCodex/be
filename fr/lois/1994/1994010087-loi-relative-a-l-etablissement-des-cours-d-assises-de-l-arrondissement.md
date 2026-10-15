@@ -12,7 +12,7 @@ entry_into_force: 1994-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/27/1994010087/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 1994. - Loi relative à l'établissement des cours d'assises de l'arrondissement administratif de Bruxelles-Capitale, de la province du Brabant wallon et de la province du Brabant flamand.

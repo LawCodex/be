@@ -12,7 +12,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/20/2019013041/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2019. - Wet tot wijziging van diverse bepalingen betreffende het statuut van de militairen

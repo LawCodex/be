@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995011196/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-1995 en tekstbijwerking tot 09-04-1998."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - Wet tot wijziging van de wet van 4 augustus 1992 op het hypothecair krediet. -

@@ -13,7 +13,7 @@ entry_into_force: 2006-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/14/2006000606/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2006. - Décret modifiant le décret du 4 juin 2003 relatif à la politique flamande d'intégration par le travail (TRADUCTION).

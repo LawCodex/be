@@ -12,7 +12,7 @@ entry_into_force: 2012-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/16/2013022059/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2013. - Loi modifiant l'arrêté royal du 18 novembre 1996 instaurant une assurance sociale en faveur des travailleurs indépendants en cas de faillite et des personnes assimilées, en application des articles 29 et 49 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants

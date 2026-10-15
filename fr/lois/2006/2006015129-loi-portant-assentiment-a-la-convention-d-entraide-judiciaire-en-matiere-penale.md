@@ -12,7 +12,7 @@ entry_into_force: 2006-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/05/2006015129/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 2006. - Loi portant assentiment à la Convention d'entraide judiciaire en matière pénale entre le Gouvernement du Royaume de Belgique et le Gouvernement de Hong Kong, Région administrative spéciale de la République populaire de Chine, signée à Bruxelles le 20 septembre 2004.

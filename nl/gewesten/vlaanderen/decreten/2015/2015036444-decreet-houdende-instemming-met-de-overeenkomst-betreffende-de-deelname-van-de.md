@@ -12,7 +12,7 @@ entry_into_force: 2015-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/30/2015036444/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2015. - Decreet houdende instemming met de Overeenkomst betreffende de deelname van de Republiek Kroatië aan de Europese Economische Ruimte, de Slotakte en drie daarmee verband houdende overeenkomsten, ondertekend te Brussel op 11 april 2014 en op 5 november 2014

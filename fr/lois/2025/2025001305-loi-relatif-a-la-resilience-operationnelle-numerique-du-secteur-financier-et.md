@@ -12,7 +12,7 @@ entry_into_force: 2025-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/03/25/2025001305/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2025. - Loi relatif à la résilience opérationnelle numérique du secteur financier et portant dispositions diverses

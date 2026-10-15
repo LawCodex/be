@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/10/2016022279/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2016. - Wet tot toewijzing van nieuwe inningstaken aan en tot integratie van sommige opdrachten en een deel van het personeel van de dienst voor de bijzondere socialezekerheidsstelsels in de Rijksdienst voor Sociale Zekerheid alsmede tot regeling van diverse aangelegenheden met betrekking tot Famifed en de Federale Pensioendienst

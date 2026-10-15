@@ -12,7 +12,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/02/2023041066/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2023. - Loi modifiant la loi du 20 juillet 1990 relative à la détention préventive en vue de créer un droit à l'information pour les victimes

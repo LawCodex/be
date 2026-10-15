@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/28/2013204102/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2013. - Decreet houdende de wijziging van diverse bepalingen van het decreet van 20 maart 2009 betreffende de toegankelijkheid van publieke plaatsen voor personen met een assistentiehond

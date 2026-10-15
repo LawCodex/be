@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/04/24/2008031213/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-05-2008 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2008. - Ordonnantie betreffende de voorzieningen voor [...] [ ouderen] )&lt;Gewijzigd bij ORD 2022-12-15/30 , art. 1, 005; Inwerkingtreding : 01-01-2023&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035630/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet houdende instemming met het verdrag nr. 160 betreffende arbeidsstatistieken, aangenomen door de Internationale Arbeidsconferentie tijdens haar eenenzeventigste zitting in Genève op 25 juni 1985.

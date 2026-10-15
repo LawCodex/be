@@ -12,7 +12,7 @@ entry_into_force: 2022-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/02/2022032388/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2022. - Loi modifiant des dispositions concernant le recrutement des militaires

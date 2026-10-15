@@ -12,7 +12,7 @@ entry_into_force: 2023-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/08/2023047415/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2023. - Wet houdende de uitbreiding van het aantal leden van de Studiecommissie voor de vergrijzing

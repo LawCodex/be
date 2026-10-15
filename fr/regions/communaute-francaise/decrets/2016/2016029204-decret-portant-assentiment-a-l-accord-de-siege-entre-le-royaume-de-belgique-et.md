@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/21/2016029204/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2016. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Institut international pour la Démocratie et l'Assistance électorale, fait à Bruxelles le 15 mai 2014

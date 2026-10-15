@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995029048/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret modifiant le décret organique du 21 décembre 1992 créant des fonds budgétaires et désignant les fonds budgétaires figurant au budget général des Dépenses de la Communauté française.

@@ -11,7 +11,7 @@ published: 2004-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/08/2004015119/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2004. - Wet houdende instemming met het Verdrag nr. 181 betreffende de particuliere bureaus voor arbeidsbemiddeling, aangenomen te Genève op 19 juni 1997.

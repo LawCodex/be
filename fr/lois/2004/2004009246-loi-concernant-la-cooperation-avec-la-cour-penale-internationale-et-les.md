@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/29/2004009246/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-04-2004 et mise à jour au 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2004. - Loi concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux.

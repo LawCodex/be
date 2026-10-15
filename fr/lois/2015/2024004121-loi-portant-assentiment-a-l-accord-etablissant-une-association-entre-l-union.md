@@ -12,7 +12,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/05/2024004121/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2015. - Loi portant assentiment à l'Accord établissant une association entre l'Union européenne et ses Etats membres, d'une part, et l'Amérique centrale, d'autre part, fait à Tegucigalpa le 29 juin 2012

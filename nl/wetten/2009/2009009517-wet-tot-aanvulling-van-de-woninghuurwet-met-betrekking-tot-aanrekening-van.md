@@ -12,7 +12,7 @@ entry_into_force: 2009-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/18/2009009517/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2009. - Wet tot aanvulling van de woninghuurwet met betrekking tot aanrekening van bemiddelingskosten van een derde aan de huurder

@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002029439/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2002. - Décret portant modifications au statut administratif et pécuniaire des membres du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat.

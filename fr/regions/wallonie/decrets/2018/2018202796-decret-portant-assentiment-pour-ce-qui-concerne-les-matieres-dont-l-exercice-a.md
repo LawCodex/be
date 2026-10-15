@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202796/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention sur la sécurité sociale entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Turquie, faite à Ankara, le 11 avril 2014

@@ -13,7 +13,7 @@ entry_into_force: 2011-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/03/17/2011031159/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2011. - Ordonnantie tot wijziging van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen

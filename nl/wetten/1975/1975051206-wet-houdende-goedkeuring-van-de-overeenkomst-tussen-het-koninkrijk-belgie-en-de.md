@@ -11,7 +11,7 @@ published: 1975-07-09
 entry_into_force: 1975-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/05/12/1975051206/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 1975. - Wet houdende goedkeuring van de overeenkomst tussen het Koninkrijk België en de Republiek Indonesië, tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, en van het protocol, ondertekend te Brussel op 13 november 1973.

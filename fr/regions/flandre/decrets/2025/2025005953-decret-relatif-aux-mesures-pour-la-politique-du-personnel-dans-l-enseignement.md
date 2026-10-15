@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/18/2025005953/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Décret relatif aux mesures pour la politique du personnel dans l'enseignement

@@ -12,7 +12,7 @@ entry_into_force: 2008-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/22/2005015140/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBRE 2005. - Loi portant assentiment à la Convention portant création de l'Institut international des ressources phytogénétiques, faite à Rome le 9 octobre 1991

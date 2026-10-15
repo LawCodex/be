@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008202852/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 18-08-2008 et mise à jour au 03-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Décret portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieur, faite à Strasbourg, le 9 septembre 1996

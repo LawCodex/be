@@ -12,7 +12,7 @@ entry_into_force: 2011-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/09/2009015044/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2009. - Wet houdende instemming met het Raamakkoord tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de grensoverschrijdende samenwerking inzake gezondheidszorg, ondertekend te Moeskroen op 30 september 2005

@@ -13,7 +13,7 @@ entry_into_force: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/03/2015205753/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2015. - Décret modifiant le décret du 23 juillet 1998 déterminant le jour de fête et les emblèmes propres à la Région wallonne en vue d'officialiser l'emblème floral de la Wallonie

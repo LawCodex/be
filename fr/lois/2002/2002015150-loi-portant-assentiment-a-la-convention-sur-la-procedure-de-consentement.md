@@ -12,7 +12,7 @@ entry_into_force: 2003-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/10/07/2002015150/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2002. - Loi portant assentiment à la Convention sur la procédure de consentement préalable en connaissance de cause applicable à certains produits chimiques et pesticides dangereux qui font l'objet d'un commerce international et aux Annexes I à V, adoptés à Rotterdam le 10 septembre 1998.

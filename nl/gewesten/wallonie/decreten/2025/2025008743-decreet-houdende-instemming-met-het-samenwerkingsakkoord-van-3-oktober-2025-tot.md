@@ -12,7 +12,7 @@ entry_into_force: 2025-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/13/2025008743/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2025. - Decreet houdende instemming met het samenwerkingsakkoord van 3 oktober 2025 tot wijziging van het samenwerkingsakkoord van 31 december 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Franse Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de financiering van zorg bij gebruik van zorgvoorzieningen over de grenzen van de deelstaat

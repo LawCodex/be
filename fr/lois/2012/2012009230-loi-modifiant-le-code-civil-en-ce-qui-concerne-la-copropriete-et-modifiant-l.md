@@ -12,7 +12,7 @@ entry_into_force: 2012-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/05/15/2012009230/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2012. - Loi modifiant le Code civil en ce qui concerne la copropriété et modifiant l'article 46, § 2, du Code judiciaire

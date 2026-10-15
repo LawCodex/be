@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/03/2005003870/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2005. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 1995.

@@ -13,7 +13,7 @@ entry_into_force: 2025-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/06/20/2025004820/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2025. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 31 januari 2025 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap houdende de creatie van een elektronisch platform inzake de gecombineerde verblijfsaanvraagprocedure met het oog op de tewerkstelling van buitenlandse werknemers, de aanvraagprocedure voor buitenlandse werknemers en zelfstandigen en in het kader van de coördinatie van het beleid inzake de tewerkstelling en het verblijf van buitenlandse werknemers en zelfstandigen

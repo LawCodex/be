@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/11/10/2004203609/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 02-12-2004 en tekstbijwerking tot 02-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2004. - Decreet tot invoering van een regeling voor de handel in broeikasgasemissierechten, tot oprichting van een " Fonds wallon Kyoto " (Waals Kyotofonds) en betreffende de flexibiliteitsmechanismen van het Protocol van Kyoto (VERTALING).

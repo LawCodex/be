@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/28/2022041040/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-06-2022 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Decreet betreffende de module van 60 lestijden opleiding inzake pedagogie van het kunstonderwijs op alle niveaus, bepaald bij het besluit van de Regering van de Franse Gemeenschap van 25 juni 1998 tot vaststelling van de weddeschalen van de leden van het leidend en onderwijspersoneel en van het opvoedend hulppersoneel van het secundair kunstonderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap

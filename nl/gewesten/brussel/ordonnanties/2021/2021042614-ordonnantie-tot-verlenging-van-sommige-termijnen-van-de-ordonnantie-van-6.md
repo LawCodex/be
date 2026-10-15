@@ -13,7 +13,7 @@ entry_into_force: 2021-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/22/2021042614/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2021. - Ordonnantie tot verlenging van sommige termijnen van de ordonnantie van 6 oktober 2016 houdende organisatie van de stedelijke herwaardering

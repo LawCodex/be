@@ -12,7 +12,7 @@ published: 2004-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/11/08/2004033095/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2004. - Decreet tot wijziging van het decreet van 27 juni 1986 betreffende het Belgisch Radio- en Televisiecentrum van de Duitstalige Gemeenschap (VERTALING).

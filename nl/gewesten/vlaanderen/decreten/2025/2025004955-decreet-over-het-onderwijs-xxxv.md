@@ -12,7 +12,7 @@ published: 2025-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/06/2025004955/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2025. - Decreet over het onderwijs XXXV

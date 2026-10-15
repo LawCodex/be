@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/20/1997033066/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 02-07-1997 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1997. - Décret-programme 1997 (TRADUCTION).

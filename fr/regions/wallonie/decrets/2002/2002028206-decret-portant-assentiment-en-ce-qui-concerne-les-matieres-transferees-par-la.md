@@ -13,7 +13,7 @@ entry_into_force: 2002-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2002028206/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'accord de partenariat entre les membres du Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, et à l'acte final, signés à Cotonou le 23 juin 2000.

@@ -13,7 +13,7 @@ entry_into_force: 2021-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/02/16/2021031228/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2021. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 24 april 2020 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van een aantal bepalingen van richtlijn 2016/2284 van het Europees Parlement en de Raad van 14 december 2016 betreffende de vermindering van de nationale emissies van bepaalde luchtverontreinigende stoffen, tot wijziging van richtlijn 2003/35/EG en tot intrekking van richtlijn 2001/81/EG

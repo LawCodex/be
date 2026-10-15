@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/11/19/2005029004/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2004. - Decreet houdende aanpassing van de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2004 (VERTALING).

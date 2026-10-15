@@ -13,7 +13,7 @@ entry_into_force: 2017-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/09/2017014051/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2017. - Décret relatif à la situation particulière des étudiants qui se sont inscrits dans le bachelier en soins infirmiers organisé en 180 crédits avant l'année académique 2016-2017 et qui n'ont pas validé la totalité des crédits de leur cursus à la clôture de l'année académique 2016-2017

@@ -13,7 +13,7 @@ entry_into_force: 2009-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/12/2009200678/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2009. - Décret modifiant le décret du 20 novembre 2008 relatif à l'organisation du transport médico-sanitaire.

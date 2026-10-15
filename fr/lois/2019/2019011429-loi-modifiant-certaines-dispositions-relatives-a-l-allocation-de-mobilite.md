@@ -12,7 +12,7 @@ entry_into_force: 2019-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/17/2019011429/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2019. - Loi modifiant certaines dispositions relatives à l'allocation de mobilité

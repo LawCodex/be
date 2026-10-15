@@ -13,7 +13,7 @@ entry_into_force: 2004-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/05/2004031108/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2004. - Décret modifiant le décret du 4 mars 1999 relatif à l'intégration sociale et professionnelle des personnes handicapées

@@ -13,7 +13,7 @@ entry_into_force: 1999-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029345/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Décret portant assentiment à l'Accord de partenariat économique, de coordination politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis mexicains, d'autre part, à l'Annexe et à l'Acte final, signés à Bruxelles, le 8 décembre 1997.

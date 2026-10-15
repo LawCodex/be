@@ -12,7 +12,7 @@ published: 2019-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203779/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet betreffende de klimaateffecten voor wat betreft de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

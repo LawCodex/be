@@ -11,7 +11,7 @@ published: 1980-06-24
 entry_into_force: 1980-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/07/20/1979072001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1979. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Republiek van de Filippijnen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, en van het Protocol, ondertekend te Manilla op 2 oktober 1976.

@@ -13,7 +13,7 @@ entry_into_force: 2018-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/16/2017206275/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2017. - Décret relatif à la communication en matière de renouvellement et d'abandon de sépultures

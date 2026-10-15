@@ -13,7 +13,7 @@ entry_into_force: 2018-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202793/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret relatif au déploiement des réseaux de communications à haut débit à l'intérieur des immeubles

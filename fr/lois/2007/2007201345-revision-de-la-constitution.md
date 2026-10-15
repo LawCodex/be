@@ -12,7 +12,7 @@ entry_into_force: 2007-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/25/2007201345/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - Révision de la Constitution.

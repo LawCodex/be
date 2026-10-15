@@ -13,7 +13,7 @@ entry_into_force: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/03/2020044210/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2020. - Decreet houdende bekrachtiging van de besluiten van de Waalse Regering van bijzondere machten in het kader van het beheer van de gezondheidscrisis COVID-19 voor de aangelegenheden bedoeld in artikel 138 van de Grondwet

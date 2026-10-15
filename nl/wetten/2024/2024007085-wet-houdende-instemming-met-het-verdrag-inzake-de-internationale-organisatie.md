@@ -10,7 +10,7 @@ date: 2024-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/25/2024007085/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2024. - Wet houdende instemming met het Verdrag inzake de Internationale Organisatie voor maritieme navigatie ondersteunende dienstverlening, en de bijlage, gedaan te Parijs op 27 januari 2021

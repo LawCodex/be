@@ -12,7 +12,7 @@ entry_into_force: 2004-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/13/2004015167/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2004. - Loi portant assentiment à la Convention européenne sur la coproduction cinématographique, et les Annexes Ire et II, faites à Strasbourg le 2 octobre 1992.

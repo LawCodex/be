@@ -12,7 +12,7 @@ published: 2022-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/28/2021205509/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2021. - Decreet houdende maatregelen inzake onderwijs 2021

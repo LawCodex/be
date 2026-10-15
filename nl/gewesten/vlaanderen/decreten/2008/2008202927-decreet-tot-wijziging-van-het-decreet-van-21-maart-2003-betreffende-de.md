@@ -13,7 +13,7 @@ entry_into_force: 2009-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008202927/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet tot wijziging van het decreet van 21 maart 2003 betreffende de armoedebestrijding

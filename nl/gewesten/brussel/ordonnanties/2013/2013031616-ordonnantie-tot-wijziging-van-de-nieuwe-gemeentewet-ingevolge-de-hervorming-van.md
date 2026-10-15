@@ -13,7 +13,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/11/2013031616/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2013. - Ordonnantie tot wijziging van de Nieuwe Gemeentewet ingevolge de hervorming van de wetgeving op de overheidsopdrachten

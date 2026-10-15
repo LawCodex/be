@@ -12,7 +12,7 @@ entry_into_force: 1995-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/03/1995012250/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1995. - Wet tot wijziging van de arbeidswet van 16 maart 1971 aangaande de moederschapsbescherming.

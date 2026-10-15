@@ -12,7 +12,7 @@ entry_into_force: 2005-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/22/2005000039/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2004. - Loi modifiant la loi du 3 mai 1999 organisant la répartition des compétences suite à l'intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la police fédérale.

@@ -12,7 +12,7 @@ entry_into_force: 1970-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/01/24/1970012403/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 1970. - Loi portant approbation du Protocole n° 4 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, reconnaissant certains droits et libertés autres que ceux figurant déjà dans la Convention et dans le premier Protocole additionnel à la Convention, fait à Strasbourg le 16 septembre 1963.

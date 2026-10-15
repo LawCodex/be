@@ -11,7 +11,7 @@ date: 2002-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/07/2002033100/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2002. - Decreet houdende goedkeuring van het aanvullend protocol bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerking tussen territoriale gemeenschappen of autoriteiten gedaan te Straatsburg op 9 november 1995 (VERTALING).

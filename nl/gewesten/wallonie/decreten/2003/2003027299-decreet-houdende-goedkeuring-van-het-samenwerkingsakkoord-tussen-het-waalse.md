@@ -13,7 +13,7 @@ entry_into_force: 2003-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2003027299/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende goedkeuring van het Samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest betreffende de oprichting van de Raad Wallonië-Brussel voor internationale samenwerking. (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2021-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/03/2021042089/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2021. - Decreet betreffende de planning van het medisch aanbod in de Franse Gemeenschap

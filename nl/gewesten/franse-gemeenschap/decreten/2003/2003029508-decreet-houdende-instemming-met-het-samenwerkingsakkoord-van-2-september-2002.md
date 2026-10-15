@@ -11,7 +11,7 @@ date: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029508/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet houdende instemming met het samenwerkingsakkoord van 2 september 2002 tussen de Staat, de Gemeenschappen, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Gewesten voor een globaal en geïntegreerd drugsbeleid (VERTALING).

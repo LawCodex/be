@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/13/2007036532/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-09-2007 et mise à jour au 31-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2007. - Décret relatif à la pratique du sport dans le respect des impératifs de santé [et d'éthique] (TRADUCTION). &lt;Intitulé modifié par DCFL 2008-11-21/43 , art. 3; En vigueur : 08-01-2009&gt;

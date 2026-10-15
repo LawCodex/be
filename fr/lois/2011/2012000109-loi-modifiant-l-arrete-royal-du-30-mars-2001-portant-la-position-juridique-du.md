@@ -12,7 +12,7 @@ entry_into_force: 2012-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/12/02/2012000109/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2011. - Loi modifiant l'arrêté royal du 30 mars 2001 portant la position juridique du personnel des services de police

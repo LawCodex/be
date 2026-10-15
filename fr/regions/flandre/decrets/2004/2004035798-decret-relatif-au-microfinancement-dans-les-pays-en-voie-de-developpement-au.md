@@ -12,7 +12,7 @@ published: 2004-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004035798/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret relatif au microfinancement dans les pays en voie de développement au moyen de l'octroi d'une garantie à des fonds de développement (TRADUCTION).

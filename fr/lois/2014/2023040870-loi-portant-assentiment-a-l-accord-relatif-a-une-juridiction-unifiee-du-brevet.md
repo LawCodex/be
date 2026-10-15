@@ -12,7 +12,7 @@ entry_into_force: 2023-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/27/2023040870/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2014. - Loi portant assentiment à l'Accord relatif à une juridiction unifiée du brevet, fait à Bruxelles le 19 février 2013. - Addendum

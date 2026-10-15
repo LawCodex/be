@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029313/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-08-1999 et mise à jour au 19-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Décret portant confirmation des compétences terminales et savoirs requis en francais, mathématiques et latin-grec à l'issue de la section de transition (1)

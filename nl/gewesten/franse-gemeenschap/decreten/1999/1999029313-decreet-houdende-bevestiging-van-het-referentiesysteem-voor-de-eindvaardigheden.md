@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029313/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-1999 en tekstbijwerking tot 19-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende bevestiging van het referentiesysteem voor de eindvaardigheden en de kennis vereist voor Frans, wiskunde en Latijn-Grieks op het einde van de overgangsafdeling. (VERTALING)

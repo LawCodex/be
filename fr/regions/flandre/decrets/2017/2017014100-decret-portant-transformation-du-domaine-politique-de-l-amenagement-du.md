@@ -13,7 +13,7 @@ entry_into_force: 2017-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/27/2017014100/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2017. - Décret portant transformation du domaine politique de l'Aménagement du Territoire, de la Politique du Logement et du Patrimoine immobilier, et du domaine politique de l'Environnement, de la Nature et de l'Energie en domaine politique de l'Environnement et de l'Aménagement du Territoire et des départements correspondants en Département de l'Environnement et de l'Aménagement du Territoire

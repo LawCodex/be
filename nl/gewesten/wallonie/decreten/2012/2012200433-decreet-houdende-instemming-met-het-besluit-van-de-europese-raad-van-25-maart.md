@@ -13,7 +13,7 @@ entry_into_force: 2012-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/01/12/2012200433/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2012. - Decreet houdende instemming met het besluit van de Europese Raad van 25 maart 2011 tot wijziging van artikel 136 van het Verdrag betreffende de werking van de Europese Unie met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben

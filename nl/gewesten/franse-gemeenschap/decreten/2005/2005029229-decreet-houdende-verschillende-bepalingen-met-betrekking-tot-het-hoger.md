@@ -11,7 +11,7 @@ date: 2005-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005029229/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende verschillende bepalingen met betrekking tot het hoger onderwijs (VERTALING).

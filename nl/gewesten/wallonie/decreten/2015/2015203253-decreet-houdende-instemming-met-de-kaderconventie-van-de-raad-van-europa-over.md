@@ -13,7 +13,7 @@ entry_into_force: 2015-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/02/2015203253/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Decreet houdende instemming met de Kaderconventie van de Raad van Europa over de bijdrage van cultureel erfgoed aan de samenleving, opgemaakt in Faro op 27 oktober 2005

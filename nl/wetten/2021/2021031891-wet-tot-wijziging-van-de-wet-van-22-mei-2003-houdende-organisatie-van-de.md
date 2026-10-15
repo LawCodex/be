@@ -11,7 +11,7 @@ entry_into_force: 2021-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/09/12/2021031891/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBER 2021. - Wet tot wijziging van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de federale Staat

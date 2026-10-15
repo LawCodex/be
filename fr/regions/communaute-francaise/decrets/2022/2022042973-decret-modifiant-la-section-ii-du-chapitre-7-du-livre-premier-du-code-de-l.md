@@ -13,7 +13,7 @@ entry_into_force: 2023-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/01/2022042973/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2022. - Décret modifiant la section II du chapitre 7 du Livre premier du Code de l'Enseignement fondamental et de l'enseignement secondaire relative aux dispositions spécifiques à l'inscription en première année de l'enseignement secondaire ordinaire

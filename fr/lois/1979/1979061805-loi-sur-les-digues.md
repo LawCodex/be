@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1979/06/18/1979061805/justel"
 department: "Travaux publics"
 justel_note: "Consultation des versions antérieur à partir du 01-01-1989 et mis à jour au 01-06-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 1979. - Loi sur les digues.

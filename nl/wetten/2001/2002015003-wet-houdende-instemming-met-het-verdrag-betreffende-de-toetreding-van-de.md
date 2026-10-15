@@ -12,7 +12,7 @@ entry_into_force: 2002-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2002015003/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet houdende instemming met het Verdrag betreffende de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrectie tussen verbonden ondernemingen, en van het proces-verbaal van ondertekening, gedaan te Brussel op 21 december 1995.

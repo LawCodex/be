@@ -13,7 +13,7 @@ entry_into_force: 2024-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/06/20/2024006501/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2024. - Décret portant règlement définitif du budget de la Commission communautaire française pour l'année 2014

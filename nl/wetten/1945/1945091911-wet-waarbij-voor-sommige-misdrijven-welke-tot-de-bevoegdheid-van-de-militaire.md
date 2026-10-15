@@ -11,7 +11,7 @@ published: 1945-10-04
 entry_into_force: 1945-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1945/09/19/1945091911/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 1945. - Wet waarbij voor sommige misdrijven, welke tot de bevoegdheid van de militaire rechtbank behooren, het verval van de publieke vordering, mits betaling van een geldsom, wordt toegelaten.

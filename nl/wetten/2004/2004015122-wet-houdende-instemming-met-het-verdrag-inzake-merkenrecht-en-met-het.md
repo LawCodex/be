@@ -11,7 +11,7 @@ published: 2004-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/08/2004015122/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2004. - Wet houdende instemming met het Verdrag inzake merkenrecht en met het Uitvoeringsreglement, gedaan te Genève op 27 oktober 1994

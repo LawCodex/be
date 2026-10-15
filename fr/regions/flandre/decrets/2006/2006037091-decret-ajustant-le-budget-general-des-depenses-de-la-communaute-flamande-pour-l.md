@@ -13,7 +13,7 @@ entry_into_force: 2007-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/30/2006037091/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2006. - Décret ajustant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2006 (TRADUCTION).

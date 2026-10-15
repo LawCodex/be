@@ -13,7 +13,7 @@ entry_into_force: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203371/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant exécution du Règlement (CE) n° 1082/2006 du Parlement européen et du Conseil du 5 juillet 2006 relatif à un Groupement européen de coopération territoriale

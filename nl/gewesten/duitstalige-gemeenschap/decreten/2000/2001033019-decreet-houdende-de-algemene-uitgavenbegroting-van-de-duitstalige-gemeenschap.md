@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/23/2001033019/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 25-08-2001 en tekstbijwerking tot 28-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2000. - Decreet houdende de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2001 (VERTALING).

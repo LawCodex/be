@@ -13,7 +13,7 @@ entry_into_force: 1994-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/04/21/1994027281/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1994. - Decreet houdende wijziging van het decreet van 9 mei 1985 betreffende de ontsluiting van de steenbergen. (Vertaling).

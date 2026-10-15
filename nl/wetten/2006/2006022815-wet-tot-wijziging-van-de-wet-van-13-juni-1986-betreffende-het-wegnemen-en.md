@@ -11,7 +11,7 @@ published: 2006-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/14/2006022815/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2006. - Wet tot wijziging van de wet van 13 juni 1986 betreffende het wegnemen en transplanteren van organen.

@@ -11,7 +11,7 @@ published: 1946-11-22
 entry_into_force: 1946-11-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1946/11/07/1946110708/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 1946. - ARRETE-LOI relatif à la détention et à la cession à titre onéreux des timbres et titres de ravitaillement

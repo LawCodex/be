@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019013072/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-06-2019 et mise à jour au 05-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires

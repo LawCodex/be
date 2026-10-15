@@ -12,7 +12,7 @@ entry_into_force: 2007-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/12/2007021008/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2007. - Wet tot wijziging van de wet van 16 juni 2006 betreffende de gunning, informatie aan kandidaten en inschrijvers en wachttermijn inzake overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten.

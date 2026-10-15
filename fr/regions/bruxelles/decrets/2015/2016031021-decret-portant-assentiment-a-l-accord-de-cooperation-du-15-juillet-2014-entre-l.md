@@ -13,7 +13,7 @@ entry_into_force: 2016-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/03/2016031021/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2015. - Décret portant assentiment à l'accord de coopération du 15 juillet 2014 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune de Bruxelles-Capitale et la Commission communautaire française, concernant les modalités de fonctionnement de l'Institut interfédéral de Statistique, du Conseil d'administration et des Comités scientifiques de l'Institut des Comptes nationaux

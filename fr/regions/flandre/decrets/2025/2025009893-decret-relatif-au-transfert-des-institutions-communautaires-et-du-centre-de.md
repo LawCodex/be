@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2025009893/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret relatif au transfert des institutions communautaires et du centre de détention flamand à l'Agence de la Justice et du Maintien et modifiant le décret du 15 février 2019 sur le droit en matière de délinquance juvénile

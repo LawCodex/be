@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029189/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-2004 en tekstbijwerking tot 20-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet tot oprichting van een " Fonds d'aide à la mobilité étudiante au sein de l'espace européen de l'enseignement supérieur " (Steunfonds voor [mobiliteit in] het hoger onderwijs). (VERTALING) &lt;DFG 2023-01-12/14 , art. 1, 007; Inwerkingtreding : 14-09-2022&gt;

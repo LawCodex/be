@@ -12,7 +12,7 @@ entry_into_force: 2004-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/15/2003015245/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2002. - Loi portant assentiment à la Charte sociale européenne révisée et à l'Annexe, faites à Strasbourg le 3 mai 1996.

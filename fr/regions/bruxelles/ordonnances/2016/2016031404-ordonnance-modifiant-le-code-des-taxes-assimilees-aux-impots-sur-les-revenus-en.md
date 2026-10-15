@@ -13,7 +13,7 @@ entry_into_force: 2016-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/05/26/2016031404/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Ordonnance modifiant le Code des taxes assimilées aux impôts sur les revenus en ce qui concerne la taxe sur les jeux et paris

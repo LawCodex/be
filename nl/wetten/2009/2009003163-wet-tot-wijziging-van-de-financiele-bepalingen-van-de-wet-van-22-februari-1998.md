@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/03/2009003163/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Wet tot wijziging van de financiële bepalingen van de wet van 22 februari 1998 tot vaststelling van het organiek statuut van de Nationale Bank van België

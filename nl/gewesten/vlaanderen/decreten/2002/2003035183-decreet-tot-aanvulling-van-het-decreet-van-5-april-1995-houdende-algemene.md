@@ -13,7 +13,7 @@ entry_into_force: 2003-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/18/2003035183/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2002. - Decreet tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel betreffende de milieueffect- en veiligheidsrapportage.

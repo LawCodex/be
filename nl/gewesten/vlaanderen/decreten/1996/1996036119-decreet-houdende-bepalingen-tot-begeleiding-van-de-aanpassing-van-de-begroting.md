@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/08/1996036119/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-10-1996 en tekstbijwerking tot 05-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1996. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 1996.

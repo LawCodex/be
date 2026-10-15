@@ -12,7 +12,7 @@ entry_into_force: 2011-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/06/01/2011000424/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2011. - Loi visant à interdire le port de tout vêtement cachant totalement ou de manière principale le visage

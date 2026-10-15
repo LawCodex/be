@@ -12,7 +12,7 @@ entry_into_force: 2016-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/03/2016014245/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2016. - Loi modifiant l'arrêté royal du 30 septembre 2005 désignant les infractions par degré aux règlements généraux pris en exécution de la loi relative à la police de la circulation routière, concernant le non-respect du panneau C21

@@ -12,7 +12,7 @@ published: 2005-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/15/2005036023/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Decreet houdende wijziging van het kaderdecreet bestuurlijk beleid van 18 juli 2003.

@@ -13,7 +13,7 @@ entry_into_force: 1985-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/04/11/1985023297/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1984. - Décret complétant la loi du 12 juillet 1973 sur la conservation de la nature par des dispositions particulières pour la Région Wallonne.

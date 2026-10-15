@@ -11,7 +11,7 @@ published: 1999-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999003334/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming van de instellingen voor de Duitstalige Gemeenschap.

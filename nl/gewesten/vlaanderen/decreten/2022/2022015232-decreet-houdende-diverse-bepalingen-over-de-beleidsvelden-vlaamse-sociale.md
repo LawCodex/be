@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/24/2022015232/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-2022 en tekstbijwerking tot 28-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2022. - Decreet houdende diverse bepalingen over de beleidsvelden Vlaamse sociale bescherming, gezondheidspreventie, algemene ziekenhuizen en gezondheids- en woonzorg

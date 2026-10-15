@@ -13,7 +13,7 @@ entry_into_force: 2012-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204254/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret modifiant, pour la fonction publique en Région wallonne, le décret du 15 mars 2012 élargissant les conditions de nationalité pour l'accès aux emplois de la fonction publique de la Région wallonne

@@ -12,7 +12,7 @@ entry_into_force: 2018-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/11/2018040330/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Wet houdende opheffing van artikel 104 van het Wetboek der successierechten

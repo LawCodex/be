@@ -13,7 +13,7 @@ entry_into_force: 1995-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/10/17/1995033095/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 1994. - Décret portant assentiment aux actes juridiques internationaux suivants : 1. Accord européen établissant une association entre les Communautés européennes et leurs Etats membres d'une part et la Roumanie d'autre part, les Protocoles 1, 2, 3, 4, 5, 6 et 7, les Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII et XIX et l'Acte final, signés à Bruxelles le 1er février 1993

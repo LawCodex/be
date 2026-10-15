@@ -12,7 +12,7 @@ entry_into_force: 2003-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003012141/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet tot wijziging van de artikelen 38bis, 51bis en 59 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.

@@ -12,7 +12,7 @@ entry_into_force: 2014-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/29/2014332150/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2014. - Loi modifiant l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique en vue d'instaurer une limitation de vitesse pour les voies signalées par les signaux F99a, F99b et F99c

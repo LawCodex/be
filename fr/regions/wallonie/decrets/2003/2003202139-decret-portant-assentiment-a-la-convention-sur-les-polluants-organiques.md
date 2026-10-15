@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2003202139/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant assentiment à la Convention sur les polluants organiques persistants, faite à Stockholm, le 22 mai 2001, ainsi qu'à ses Annexes.

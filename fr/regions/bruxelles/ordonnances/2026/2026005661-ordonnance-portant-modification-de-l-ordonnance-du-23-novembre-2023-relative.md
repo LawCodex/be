@@ -13,7 +13,7 @@ entry_into_force: 2026-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/07/23/2026005661/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2026. - Ordonnance portant modification de l'ordonnance du 23 novembre 2023 relative aux maisons de soins psychiatriques concernant l'obligation d'agrément pour les établissements prenant en charge le public cible d'une maison de soins psychiatriques

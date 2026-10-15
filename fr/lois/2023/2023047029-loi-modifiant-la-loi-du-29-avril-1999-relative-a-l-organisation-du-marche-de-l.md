@@ -12,7 +12,7 @@ entry_into_force: 2023-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/05/2023047029/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBRE 2023. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité par rapport au gestionnaire du réseau

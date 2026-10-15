@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/06/1999003330/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 07-07-1999 et mise à jour au 10-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - [Loi du 6 mai 1999 visant à promouvoir la création de sociétés de groupements forestiers.]&lt;L 2019-03-17/14 , art. 105, 003; En vigueur : 01-05-2019&gt;

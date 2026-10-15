@@ -13,7 +13,7 @@ entry_into_force: 2010-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/09/2010204019/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2010. - Décret modifiant le décret du 30 avril 2004 portant uniformisation des dispositions de contrôle, de sanction et pénales reprises dans la réglementation des matières de législation sociale qui relèvent de la compétence de la Communauté flamande et de la Région flamande

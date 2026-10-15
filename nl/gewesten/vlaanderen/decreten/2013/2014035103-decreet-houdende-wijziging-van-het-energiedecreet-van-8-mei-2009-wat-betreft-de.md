@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/20/2014035103/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de aansprakelijkheid van netbeheerders

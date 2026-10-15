@@ -11,7 +11,7 @@ published: 1955-08-12
 entry_into_force: 1955-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/07/20/1955072011/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1955. \_ Loi portant interdiction d'exercices aériens, de cirque ou de music-hall, sans filet protecteur.

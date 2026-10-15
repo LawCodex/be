@@ -13,7 +13,7 @@ entry_into_force: 2012-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/01/2012201548/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2012. - Décret modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne

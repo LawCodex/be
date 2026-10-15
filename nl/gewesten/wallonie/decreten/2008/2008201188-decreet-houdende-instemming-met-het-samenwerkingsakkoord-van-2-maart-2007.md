@@ -13,7 +13,7 @@ entry_into_force: 2008-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/21/2008201188/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2008. - Decreet houdende instemming met het samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (VERTALING).

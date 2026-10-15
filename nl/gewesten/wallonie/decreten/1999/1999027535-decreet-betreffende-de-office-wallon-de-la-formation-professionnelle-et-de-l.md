@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "In dit dicreet dient \" Regering \" te worden gelezen in plaats van \" Waalse Regering \" ; zie DWG 2003-03-13/37 , art. 48"
   - "Raadpleging van vroegere versies vanaf 08-07-1999 en tekstbijwerking tot 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet betreffende de "Office wallon de la formation professionnelle et de l'emploi" (Waalse dienst voor beroepsopleiding en arbeidsbemiddeling) (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/04/2016035331/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2016. - Decreet tot wijziging van artikel 10 en 17 van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten

@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "dans l'article 5, § 2, alinéa trois et § 3, alinéa deux, les mots \"Conseil flamand de la Santé\" sont remplacés par les mots \"Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille\", voir : DCFL 2007-12-07/40 , art. 16; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 09-04-1997 et mise à jour au 17-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1997. - Décret relatif à la gestion totale de la qualité dans les établissements de soins. (TRADUCTION). -

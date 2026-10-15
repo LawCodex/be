@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/08/2003021093/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "articles 90 à 99 abrogés avec effet à une date indéterminée par <L 2008-06-08/30 , art. 80; En vigueur : indéterminée > (NOTE : Consultation des versions antérieures à partir du 17-04-2003 et mise à jour au 20-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 2003. - Loi-programme. (NOTE 1 : les mots " Caisse des soins de santé de la Société nationale des Chemins de fer belges " sont remplacés par les mots " Caisse des soins de santé de la S.N.C.B. Holding " ; voir AR 2004-10-18/32, art. 38 ; En vigueur : 01-01-2005)

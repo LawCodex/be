@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2008036450/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-12-2008 et mise à jour au 29-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret relatif à l'organisation des centres publics d'aide sociale (CPAS)((TRADUCTION)

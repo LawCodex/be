@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/15/2016015072/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2016. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de integratie van de beveiliging van het luchtruim tegen dreigingen die uitgaan van niet-militaire luchtvaartuigen (renegades), gedaan te 's-Gravenhage op 4 maart 2015

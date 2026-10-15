@@ -13,7 +13,7 @@ entry_into_force: 2019-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013218/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet houdende instemming met de multilaterale overeenkomst ter implementatie van aan belastingverdragen gerelateerde maatregelen ter voorkoming van grondslaguitholling en winstverschuiving en met de verklarende Nota, gedaan te Parijs op 24 november 2016

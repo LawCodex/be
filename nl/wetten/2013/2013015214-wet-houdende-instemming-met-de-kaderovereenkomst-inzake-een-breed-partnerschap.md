@@ -10,7 +10,7 @@ date: 2013-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/26/2013015214/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2013. - Wet houdende instemming met de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar Lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, gedaan te Brussel op 27 juni 2012

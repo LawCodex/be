@@ -12,7 +12,7 @@ entry_into_force: 1998-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/29/1998015064/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AUGUSTUS 1997. - Wet houdende instemming met het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken, aangenomen te Madrid op 27 juni 1989.

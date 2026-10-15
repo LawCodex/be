@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/14/1999033020/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 12-09-2002 et mise à jour au 13-01-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 1998. - Décret portant agréation et subventionnement d'organisations de jeunesse, de centres de jeunesse et de services pour jeunes (Traduction).

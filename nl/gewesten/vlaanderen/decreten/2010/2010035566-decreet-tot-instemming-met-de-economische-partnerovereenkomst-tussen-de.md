@@ -13,7 +13,7 @@ entry_into_force: 2010-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/16/2010035566/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2010. - Decreet tot instemming met de Economische Partnerovereenkomst tussen de Cariforum-staten, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, en de slotakte, ondertekend in Bridgetown op 15 oktober 2008

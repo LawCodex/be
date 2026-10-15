@@ -13,7 +13,7 @@ entry_into_force: 1995-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/28/1995033102/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 1994. - Decreet houdende goedkeuring van de Europese Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en de Tsjechische Republiek, anderzijds, de Protocollen 1, 2, 3, 4, 5, 6, 7 en 8, de Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc, XVII en de Slotakte, ondertekend te Luxemburg op 4 oktober 1993 (VERTALING).

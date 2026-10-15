@@ -13,7 +13,7 @@ entry_into_force: 2004-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/07/23/2004029301/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2004. - Bijzonder decreet tot wijziging van artikel 33, § 1, eerste lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen

@@ -12,7 +12,7 @@ entry_into_force: 2006-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/05/2006204034/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2006. - Wet betreffende de taalkaders bij het Nationaal Orkest van België en de Koninklijke Muntschouwburg.

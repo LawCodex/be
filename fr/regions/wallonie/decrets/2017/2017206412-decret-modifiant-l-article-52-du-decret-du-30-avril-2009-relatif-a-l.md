@@ -13,7 +13,7 @@ entry_into_force: 2017-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/30/2017206412/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2017. - Décret modifiant l'article 52 du décret du 30 avril 2009 relatif à l'information, la coordination et l'organisation des chantiers, sous, sur ou au-dessus des voiries ou des cours d'eau

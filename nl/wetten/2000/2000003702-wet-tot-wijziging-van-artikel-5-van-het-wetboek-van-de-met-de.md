@@ -11,7 +11,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/11/07/2000003702/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2000. - Wet tot wijziging van artikel 5 van het Wetboek van de met de inkomstenbelasting gelijkgestelde belastingen.

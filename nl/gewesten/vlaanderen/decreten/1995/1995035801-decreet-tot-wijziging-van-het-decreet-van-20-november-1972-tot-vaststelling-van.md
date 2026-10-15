@@ -13,7 +13,7 @@ entry_into_force: 1995-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995035801/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Decreet tot wijziging van het decreet van 20 november 1972 tot vaststelling van de officiële schrijfwijze van de Nederlandse taal.

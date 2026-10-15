@@ -13,7 +13,7 @@ entry_into_force: 1994-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/07/1994027407/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1994. - Décret portant approbation de la Convention pour la protection du Patrimoine mondial, culturel et naturel, faite à Paris le 16 novembre 1972.

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014202316/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Décret portant assentiment à l'accord de coopération entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif aux intercommunales interrégionales

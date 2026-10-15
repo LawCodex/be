@@ -12,7 +12,7 @@ entry_into_force: 2021-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/03/2019030422/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2017. - Loi portant assentiment au Protocole entre les gouvernements des Etats du Benelux (le Royaume de Belgique, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas) et le gouvernement de la République de Moldova portant sur l'application de l'Accord entre la Communauté européenne et la République de Moldova concernant la réadmission des personnes en séjour irrégulier, fait à Bruxelles le 25 janvier 2013

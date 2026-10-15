@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/23/2022031951/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2022. - Wet houdende instemming met de Overeenkomst tot wijziging van de Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtverkeer door EUROCONTROL in het Luchtverkeersleidingscentrum Maastricht, ondertekend op 25 november 1986 (Overeenkomst van Maastricht), gedaan te Brussel op 17 december 2020

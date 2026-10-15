@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/18/2021020220/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-03-2021 et mise à jour au 27-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Décret contenant le budget des dépenses de la Communauté flamande pour l'année budgétaire 2021

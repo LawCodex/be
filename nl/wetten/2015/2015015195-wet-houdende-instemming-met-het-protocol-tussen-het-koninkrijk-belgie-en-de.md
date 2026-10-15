@@ -12,7 +12,7 @@ entry_into_force: 2016-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/30/2015015195/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2015. - Wet houdende instemming met het Protocol tussen het Koninkrijk België en de Republiek Oostenrijk, en het Aanvullend Protocol, gedaan te Brussel op 10 september 2009, tot wijziging van de Overeenkomst tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, met inbegrip van de ondernemingsbelasting en de grondbelastingen, ondertekend te Wenen op 29 december 1971

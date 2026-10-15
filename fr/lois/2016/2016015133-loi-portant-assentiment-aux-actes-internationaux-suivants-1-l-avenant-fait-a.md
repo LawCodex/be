@@ -12,7 +12,7 @@ entry_into_force: 2018-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/09/06/2016015133/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 2016. - Loi portant assentiment aux actes internationaux suivants : 1. l'Avenant, fait à Bruxelles le 2 décembre 2009, modifiant la Convention entre le Royaume de Belgique et le Royaume d'Espagne tendant à éviter les doubles impositions et à prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Bruxelles le 14 juin 1995, tels que modifiés par l'Avenant fait à Madrid le 22 juin 2000; 2. l'Avenant, fait à Madrid le 15 avril 2014, modifiant la Convention entre le Royaume de Belgique et le Royaume d'Espagne tendant à éviter les doubles impositions et à prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Bruxelles le 14 juin 1995, tels que modifiés par l'Avenant fait à Madrid le 22 juin 2000 et par l'Avenant fait à Bruxelles le 2 décembre 2009

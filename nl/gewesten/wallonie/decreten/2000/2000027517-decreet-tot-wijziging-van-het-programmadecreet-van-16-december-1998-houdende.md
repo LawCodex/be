@@ -11,7 +11,7 @@ date: 2000-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/08/2000027517/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2000. - Decreet tot wijziging van het programmadecreet van 16 december 1998 houdende verschillende maatregelen inzake belastingen, taksen, afvalwaterzuivering, plaatselijke besturen, ruimtelijke ordening en gewestelijke luchthavens (VERTALING).

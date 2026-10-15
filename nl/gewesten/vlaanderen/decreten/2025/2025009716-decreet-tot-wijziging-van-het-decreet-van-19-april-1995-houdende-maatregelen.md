@@ -13,7 +13,7 @@ entry_into_force: 2026-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/12/2025009716/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2025. - DECREET tot wijziging van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten en de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de opheffing van de subsidie voor de sanering van leegstaande of verwaarloosde bedrijfsruimten betreft

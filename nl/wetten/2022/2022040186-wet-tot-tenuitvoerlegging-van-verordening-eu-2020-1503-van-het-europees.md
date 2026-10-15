@@ -12,7 +12,7 @@ entry_into_force: 2022-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/23/2022040186/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2022. - Wet tot tenuitvoerlegging van verordening (EU) 2020/1503 van het europees parlement en de raad van 7 oktober 2020 betreffende europese crowdfundingdienstverleners voor bedrijven en tot wijziging van verordening (EU) 2017/1129 en richtlijn (EU) 2019/1937, en tot omzetting van richtlijn (EU) 2021/338 van het europees parlement en de raad van 16 februari 2021 tot wijziging van richtlijn 2014/65/EU wat betreft informatievereisten, productgovernance en positielimieten, en richtlijnen 2013/36/EU en (EU) 2019/878 wat betreft de toepassing daarvan op beleggingsondernemingen, om bij te dragen aan het herstel van de COVID-19-crisis (II)

@@ -13,7 +13,7 @@ entry_into_force: 2005-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/10/26/2005029256/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2005. - Decreet tot wijziging van het decreet van 27 maart 2002 betreffende de leermeesters en leraars godsdienst (VERTALING).

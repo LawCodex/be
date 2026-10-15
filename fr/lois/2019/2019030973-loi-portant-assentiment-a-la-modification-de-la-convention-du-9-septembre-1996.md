@@ -12,7 +12,7 @@ entry_into_force: 2022-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/23/2019030973/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2019. - Loi portant assentiment à la modification de la Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (CDNI), adoptée le 22 juin 2017

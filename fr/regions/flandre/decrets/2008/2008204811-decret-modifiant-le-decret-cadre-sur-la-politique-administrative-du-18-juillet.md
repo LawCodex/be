@@ -13,7 +13,7 @@ entry_into_force: 2009-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/12/2008204811/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2008. - Décret modifiant le décret cadre sur la Politique administrative du 18 juillet 2003 concernant les contrats des gestion, le contrôle interne et l'audit interne (TRADUCTION).

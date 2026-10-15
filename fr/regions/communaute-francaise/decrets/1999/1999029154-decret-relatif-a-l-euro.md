@@ -13,7 +13,7 @@ entry_into_force: 1999-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/08/1999029154/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 1999. - Décret relatif à l'euro.

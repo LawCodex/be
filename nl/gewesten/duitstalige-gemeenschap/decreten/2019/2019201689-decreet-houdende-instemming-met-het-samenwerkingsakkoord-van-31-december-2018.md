@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/25/2019201689/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2019. - Decreet houdende instemming met het Samenwerkingsakkoord van 31 december 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Franse Gemeenschapscommissie, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de mobiliteitshulpmiddelen

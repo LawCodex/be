@@ -12,7 +12,7 @@ entry_into_force: 2020-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/09/2020202624/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2020. - Wet tot invoering van een recht op uitkeringen bij tijdelijke werkloosheid van gepensioneerden van 65 jaar omwille van het COVID-19-virus

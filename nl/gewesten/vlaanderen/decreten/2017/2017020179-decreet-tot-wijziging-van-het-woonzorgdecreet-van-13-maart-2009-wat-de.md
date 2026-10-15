@@ -13,7 +13,7 @@ entry_into_force: 2017-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/20/2017020179/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2017. - Decreet tot wijziging van het Woonzorgdecreet van 13 maart 2009, wat de subsidiëring van de infrastructuur van de woonzorgcentra en de centra voor kortverblijf betreft

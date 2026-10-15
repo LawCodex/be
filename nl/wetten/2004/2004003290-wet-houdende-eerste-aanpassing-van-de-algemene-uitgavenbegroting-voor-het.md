@@ -10,7 +10,7 @@ date: 2004-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/13/2004003290/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2004. - Wet houdende eerste aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2004.

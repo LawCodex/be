@@ -13,7 +13,7 @@ entry_into_force: 2016-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/20/2016203972/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Decreet tot wijziging van de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst

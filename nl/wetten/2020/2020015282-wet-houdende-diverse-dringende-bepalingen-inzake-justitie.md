@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/31/2020015282/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2020 en tekstbijwerking tot 30-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2020. - Wet houdende diverse dringende bepalingen inzake justitie

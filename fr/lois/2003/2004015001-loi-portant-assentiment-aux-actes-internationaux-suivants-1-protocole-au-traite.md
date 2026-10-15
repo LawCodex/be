@@ -12,7 +12,7 @@ entry_into_force: 2004-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/12/17/2004015001/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2003. - Loi portant assentiment aux Actes internationaux suivants : 1° Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Bulgarie, 2° Protocole au Traité de l'Atlantique Nord sur l'accession de la République d'Estonie, 3° Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Lettonie, 4° Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Lituanie, 5° Protocole au Traité de l'Atlantique Nord sur l'accession de la Roumanie, 6° Protocole au Traité de l'Atlantique Nord sur l'accession de la République slovaque, 7° Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Slovénie, signés à Bruxelles le 26 mars 2003.

@@ -12,7 +12,7 @@ entry_into_force: 2009-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/16/2009015043/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2009. - Loi portant assentiment à la Convention internationale de 2001 sur le contrôle des systèmes antisalissure nuisibles sur les navires, et aux Annexes, faites à Londres le 5 octobre 2001

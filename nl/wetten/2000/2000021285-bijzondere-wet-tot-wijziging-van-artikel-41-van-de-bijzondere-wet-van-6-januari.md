@@ -12,7 +12,7 @@ entry_into_force: 2000-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/24/2000021285/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2000. - Bijzondere wet tot wijziging van artikel 41 van de bijzondere wet van 6 januari 1989 op het Arbitragehof.

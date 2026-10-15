@@ -12,7 +12,7 @@ entry_into_force: 2016-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/22/2016015151/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2016. - Loi portant assentiment aux actes internationaux suivants : - l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement des Etats-Unis d'Amérique en vue d'améliorer le respect des obligations fiscales internationales et de mettre en oeuvre la loi « FATCA », fait à Bruxelles le 23 avril 2014 ; - l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement des Etats-Unis d'Amérique, fait à Bruxelles les 29 et 30 septembre 2015, complémentaire à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement des Etats-Unis d'Amérique en vue d'améliorer le respect des obligations fiscales internationales et de mettre en oeuvre la loi « FATCA », signé à Bruxelles le 23 avril 2014

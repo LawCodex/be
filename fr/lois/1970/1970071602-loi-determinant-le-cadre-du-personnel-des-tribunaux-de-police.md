@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/16/1970071602/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2005 et mise à jour au 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1970. - Loi déterminant le cadre du personnel des tribunaux de police.

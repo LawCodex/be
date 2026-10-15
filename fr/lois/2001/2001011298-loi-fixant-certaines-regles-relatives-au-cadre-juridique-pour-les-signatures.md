@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/09/2001011298/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 07-03-2012 et mise à jour au 28-09-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2001. - Loi fixant certaines règles relatives au cadre juridique pour les signatures électroniques et les services de certification. (NOTE 1 : intitulé et art. 2 ; 3 ; 4 ; 11 ; 14/1 ; 15 ; 17 ; 20 ; N5 modifiés par L 2011-05-31/02 , art. 24, 002; En vigueur : 21-06-2011&gt;

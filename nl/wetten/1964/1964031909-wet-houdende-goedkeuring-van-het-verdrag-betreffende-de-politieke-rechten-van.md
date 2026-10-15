@@ -9,7 +9,7 @@ language: nl
 date: 1964-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/03/19/1964031909/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 1964. - Wet houdende goedkeuring van het Verdrag betreffende de politieke rechten van de vrouw, afgesloten op 31 maart 1953, te New York.

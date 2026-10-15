@@ -11,7 +11,7 @@ published: 1993-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/06/08/1993015201/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1992. - Wet houdende goedkeuring van het Verdrag van Wenen inzake het verdragenrecht tussen Staten en internationale organisaties of tussen internationale organisaties en van de Bijlage, opgemaakt te Wenen op 21 maart 1986.

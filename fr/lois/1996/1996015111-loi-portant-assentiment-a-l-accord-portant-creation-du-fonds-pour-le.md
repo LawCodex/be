@@ -12,7 +12,7 @@ entry_into_force: 1996-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/10/1996015111/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1996. - Loi portant assentiment à l'Accord portant création du Fonds pour le Développement des peuples autochtones d'Amérique latine et des Caraïbes, fait à Madrid le 24 juillet 1992.

@@ -12,7 +12,7 @@ entry_into_force: 1999-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/11/30/1998003675/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1998. - Loi contenant le onzième ajustement du budget générale des dépenses de l'année budgétaire 1998, Section 12, Ministère de la Justice.

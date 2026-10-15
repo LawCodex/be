@@ -13,7 +13,7 @@ entry_into_force: 2001-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/14/2000031496/justel"
 department: "Région de Bruxelles-Capitale - Commission communautaire commune - Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2000. - Décret portant approbation de l'accord de coopération entre l'Etat fédéral et la Commission communautaire commune et la Commission communautaire française concernant la guidance et le traitement d'auteurs d'infractions à caractère sexuel.

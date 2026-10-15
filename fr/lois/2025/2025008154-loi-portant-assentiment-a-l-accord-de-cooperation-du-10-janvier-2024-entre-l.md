@@ -12,7 +12,7 @@ entry_into_force: 2025-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/10/16/2025008154/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2025. - Loi portant assentiment à l'Accord de coopération du 10 janvier 2024 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'attribution et répartition du montant fixé à l'article 2 de la décision du Comité des Ministres de l'Union économique belgo-luxembourgeoise (UEBL) du 14 décembre 2001, telle que modifiée par la décision du Comité des Ministres de l'UEBL du 31 août 2021

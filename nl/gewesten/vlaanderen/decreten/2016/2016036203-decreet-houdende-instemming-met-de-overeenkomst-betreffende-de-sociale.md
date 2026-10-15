@@ -12,7 +12,7 @@ published: 2016-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/08/2016036203/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2016. - Decreet houdende instemming met de overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, ondertekend te Ankara op 11 april 2014

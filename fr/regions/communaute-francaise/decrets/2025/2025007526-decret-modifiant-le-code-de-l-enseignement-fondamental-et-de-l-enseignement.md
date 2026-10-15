@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/10/02/2025007526/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 OCTOBRE 2025. - Décret modifiant le Code de l'enseignement fondamental et de l'enseignement secondaire concernant des dispositions relatives aux inscriptions en première année de l'enseignement secondaire

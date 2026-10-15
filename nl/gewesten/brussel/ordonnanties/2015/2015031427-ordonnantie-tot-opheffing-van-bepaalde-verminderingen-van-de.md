@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/02/2015031427/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Ordonnantie tot opheffing van bepaalde verminderingen van de werkgeversbijdragen voor de sociale zekerheid

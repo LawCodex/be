@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/11/2026001858/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 18-03-2026 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2026. - Loi relatif à la mise en concordance de la loi contenant le titre préliminaire du Code de procédure pénale, du Code d'instruction criminelle et de la loi du 20 juillet 1990 relative à la détention préventive avec le Code pénal du 29 février 2024

@@ -13,7 +13,7 @@ entry_into_force: 2023-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/06/01/2023042713/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2023. - Ordonnance portant modification de diverses dispositions visant à lutter contre les discriminations en matière d'emploi

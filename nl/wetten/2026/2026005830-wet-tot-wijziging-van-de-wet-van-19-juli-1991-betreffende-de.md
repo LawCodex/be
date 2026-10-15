@@ -11,7 +11,7 @@ published: 2026-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/19/2026005830/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2026. - Wet tot wijziging van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten, met het oog op de creatie van een centraal register voor de afgifte van de attesten van immatriculatie

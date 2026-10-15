@@ -12,7 +12,7 @@ entry_into_force: 1994-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/04/11/1994000156/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1994. - Wet betreffende de verplichte vermeldingen op bepaalde verkiezingsdocumenten.

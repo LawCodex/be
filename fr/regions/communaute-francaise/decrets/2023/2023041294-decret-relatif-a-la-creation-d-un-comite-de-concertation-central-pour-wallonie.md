@@ -13,7 +13,7 @@ entry_into_force: 2023-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/16/2023041294/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2023. - Décret relatif à la création d'un Comité de concertation central pour Wallonie-Bruxelles Enseignement

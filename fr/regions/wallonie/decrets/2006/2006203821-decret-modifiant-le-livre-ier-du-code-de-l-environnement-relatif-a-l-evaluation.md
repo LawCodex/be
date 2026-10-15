@@ -13,7 +13,7 @@ entry_into_force: 2005-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203821/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret modifiant le Livre Ier du Code de l'Environnement relatif à l'évaluation des incidences des projets sur l'environnement.

@@ -11,7 +11,7 @@ date: 2021-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/14/2021033652/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2021. - Decreet houdende bekrachtiging van het besluit van de regering van de Franse Gemeenschap van bijzondere machten nr. 59 van 11 februari 2021 betreffende de steun aan de ontmoetings- en verblijfscentra in het kader van de tweede golf van de gezondheidscrisis COVID-19

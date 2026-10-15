@@ -13,7 +13,7 @@ entry_into_force: 2015-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/13/2015035392/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 17 december 2014 tot wijziging van het samenwerkingsakkoord van 9 december 2011 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport

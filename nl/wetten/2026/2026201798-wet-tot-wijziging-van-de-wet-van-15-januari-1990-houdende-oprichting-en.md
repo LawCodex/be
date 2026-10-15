@@ -12,7 +12,7 @@ entry_into_force: 2026-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/28/2026201798/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2026. - Wet tot wijziging van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid en de wet van 17 juli 2001 betreffende de machtiging voor de federale overheidsdiensten om zich te verenigen met het oog op de uitvoering van werkzaamheden inzake informatiebeheer en informatieveiligheid

@@ -13,7 +13,7 @@ entry_into_force: 2020-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/10/2020010414/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2020. - Décret modifiant les articles 47 et 81 du décret du 21 novembre 2003 relatif à la politique de santé préventive

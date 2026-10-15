@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/11/2017020412/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-06-2017 et mise à jour au 13-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2017. - Décret relatif au quatrième degré de l'enseignement professionnel secondaire complémentaire, section soins infirmiers

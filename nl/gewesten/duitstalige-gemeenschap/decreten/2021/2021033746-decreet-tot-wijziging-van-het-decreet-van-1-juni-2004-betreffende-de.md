@@ -13,7 +13,7 @@ entry_into_force: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/29/2021033746/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2021. - Decreet tot wijziging van het decreet van 1 juni 2004 betreffende de gezondheidspromotie en inzake medische preventie

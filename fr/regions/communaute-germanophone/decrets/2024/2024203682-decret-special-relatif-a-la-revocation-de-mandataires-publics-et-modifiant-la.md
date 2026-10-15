@@ -13,7 +13,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/06/2024203682/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2024. - Décret spécial relatif à la révocation de mandataires publics et modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone

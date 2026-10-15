@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204579/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-09-2016 et mise à jour au 06-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - DECRET relatif à la protection sociale flamande

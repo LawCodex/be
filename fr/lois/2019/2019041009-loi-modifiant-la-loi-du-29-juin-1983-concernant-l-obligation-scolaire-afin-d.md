@@ -12,7 +12,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019041009/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi modifiant la loi du 29 juin 1983 concernant l'obligation scolaire afin d'instaurer l'obligation scolaire à partir de l'âge de cinq ans

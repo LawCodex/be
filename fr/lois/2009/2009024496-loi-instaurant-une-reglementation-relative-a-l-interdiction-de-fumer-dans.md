@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009024496/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2009 et mise à jour au 04-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2009. - [Loi instaurant une réglementation relative à l'interdiction de fumer dans certains lieux et à la protection de la population contre la fumée du tabac] &lt;Intitulé remplacé L 2019-07-08/09 , art. 2, 006; En vigueur : 18-08-2019&gt;

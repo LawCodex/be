@@ -12,7 +12,7 @@ entry_into_force: 1994-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/11/1994003431/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1994. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 1994.

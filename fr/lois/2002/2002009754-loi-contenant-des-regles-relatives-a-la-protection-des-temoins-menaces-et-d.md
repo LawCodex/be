@@ -12,7 +12,7 @@ entry_into_force: 2002-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/07/2002009754/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2002. - Loi contenant des règles relatives à la protection des témoins menacés et d'autres dispositions

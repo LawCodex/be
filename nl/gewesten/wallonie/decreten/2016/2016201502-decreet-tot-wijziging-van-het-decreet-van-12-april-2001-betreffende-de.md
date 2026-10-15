@@ -13,7 +13,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/11/2016201502/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2016. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt

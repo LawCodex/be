@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/16/2001007141/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 29-06-2001 en tekstbijwerking tot 08-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2001. - Wet houdende statuut van de militairen van het reservekader van de krijgsmacht.

@@ -12,7 +12,7 @@ entry_into_force: 2026-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/01/07/2026000329/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2026. - Loi modifiant la loi du 1er août 1985 portant des mesures fiscales et autres afin de préciser la nature des recours contre les décisions rendues par la Commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels

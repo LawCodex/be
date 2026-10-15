@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/03/15/1991003248/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2009 et mise à jour au 26-06-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 1991. - LOI portant réforme de la comptabilité générale de l'Etat et de la comptabilité provinciale

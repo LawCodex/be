@@ -13,7 +13,7 @@ entry_into_force: 1998-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/06/1998029296/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1998. - Décret portant assentiment à l'Accord-cadre de commerce et de coopération entre la Communauté européenne et ses Etats-membres, d'une part, et la République de Corée, d'autre part, à l'Annexe et aux déclarations communes, faits à Luxembourg le 28 octobre 1996.

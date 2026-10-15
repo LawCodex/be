@@ -13,7 +13,7 @@ entry_into_force: 2016-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/06/23/2016031588/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2016. - Ordonnance portant assentiment à : l'Accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et la République de Moldavie, d'autre part, fait à Bruxelles le 26 juin 2012

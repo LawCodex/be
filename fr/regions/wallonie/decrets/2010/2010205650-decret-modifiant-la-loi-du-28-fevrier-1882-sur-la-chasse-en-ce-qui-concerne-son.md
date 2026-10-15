@@ -13,7 +13,7 @@ entry_into_force: 2010-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/10/21/2010205650/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2010. - Décret modifiant la loi du 28 février 1882 sur la chasse, en ce qui concerne son article 1erquater relatif au plan de tir

@@ -13,7 +13,7 @@ entry_into_force: 2025-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/02/27/2025001963/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2025. - Décret portant assentiment à la Convention n° 188 sur le travail dans la pêche, adoptée par la Conférence internationale du Travail au cours de sa 96e session qui s'est tenue à Genève le 14 juin 2007

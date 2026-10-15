@@ -12,7 +12,7 @@ entry_into_force: 2004-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/02/2004015059/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2004. - Wet houdende instemming met het Akkoord tussen de Staten die partij zijn bij het Verdrag tot oprichting van een Europees Ruimte-agentschap en het Europees Ruimte-agentschap betreffende de bescherming en de uitwisseling van geclassificeerde informatie, gedaan te Parijs op 19 augustus 2002.

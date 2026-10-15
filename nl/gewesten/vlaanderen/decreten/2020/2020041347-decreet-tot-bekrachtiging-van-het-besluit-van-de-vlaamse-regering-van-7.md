@@ -13,7 +13,7 @@ entry_into_force: 2020-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/15/2020041347/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2020. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 7 februari 2020 tot erkenning van Thor Park in Genk als regelluwe zone voor energie

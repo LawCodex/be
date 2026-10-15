@@ -13,7 +13,7 @@ entry_into_force: 2021-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021021475/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2021. - Decreet tot wijziging van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid en het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, wat de studiefinanciering van pleegkinderen en pleeggasten betreft

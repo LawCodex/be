@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/27/1999031261/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-1999 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 1999. - Decreet betreffende de toekenning van de erkenning en van subsidies aan de opvangtehuizen (Vertaling).

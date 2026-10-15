@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029190/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-09-2006 et mise à jour au 04-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret relatif aux centres d'archives privées en Communauté française de Belgique.

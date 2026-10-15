@@ -12,7 +12,7 @@ entry_into_force: 1997-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1997015137/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi portant assentiment aux Protocoles n° 1 et 2 à la Convention européenne pour la prévention de la torture et des peines ou traitements inhumains ou dégradants, faits à Strasbourg le 4 novembre 1993.

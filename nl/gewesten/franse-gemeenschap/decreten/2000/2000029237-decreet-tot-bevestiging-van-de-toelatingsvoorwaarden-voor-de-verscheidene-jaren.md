@@ -13,7 +13,7 @@ entry_into_force: 2000-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/05/31/2000029237/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2000. - Decreet tot bevestiging van de toelatingsvoorwaarden voor de verscheidene jaren, vormen en opties in het secundair onderwijs (VERTALING).

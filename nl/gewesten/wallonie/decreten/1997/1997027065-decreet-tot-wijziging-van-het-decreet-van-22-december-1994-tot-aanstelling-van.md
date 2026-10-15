@@ -13,7 +13,7 @@ entry_into_force: 1997-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/02/06/1997027065/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 1997. - Decreet tot wijziging van het decreet van 22 december 1994 tot aanstelling van een ombudsman van het Waalse Gewest (VERTALING).

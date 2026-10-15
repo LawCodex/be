@@ -13,7 +13,7 @@ entry_into_force: 2007-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/10/30/2006033111/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2006. - Décret portant assentiment à la Convention sur la protection et la promotion de la diversité des expressions culturelles, faite à Paris le 20 octobre 2005 (TRADUCTION).

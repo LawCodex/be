@@ -11,7 +11,7 @@ published: 1975-10-04
 entry_into_force: 1975-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/06/03/1975060304/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1975. \_ Loi relative à la réglementation temporaire d'implantations d'établissements de commerce de détail dont la surface bâtie brute dépasse 3 000 m2 et dont la surface commerciale nette est supérieure à 1 500 m2.

@@ -11,7 +11,7 @@ date: 2013-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/11/07/2013031876/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2013. - Ordonnantie houdende instemming met het Akkoord, gedaan te Brussel op 15 maart 2010 en op 18 maart 2010, tussen het Koninkrijk België en Grenada inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden

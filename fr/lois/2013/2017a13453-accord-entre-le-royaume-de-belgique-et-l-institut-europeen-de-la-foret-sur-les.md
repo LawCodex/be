@@ -12,7 +12,7 @@ entry_into_force: 2017-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/10/09/2017A13453/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 OCTOBRE 2013. - Accord entre le Royaume de Belgique et l'Institut européen de la Forêt sur les privilèges et immunités du bureau de liaison de l'Institut européen de la Forêt, fait à Bruxelles le 9 octobre 2013

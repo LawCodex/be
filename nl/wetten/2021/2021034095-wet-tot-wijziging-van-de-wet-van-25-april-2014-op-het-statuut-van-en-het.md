@@ -12,7 +12,7 @@ entry_into_force: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/26/2021034095/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Wet tot wijziging van de wet van 25 april 2014 op het statuut van en het toezicht op kredietinstellingen en beursvennootschappen met het oog op de omzetting van Richtlijn (EU) 2019/2162 van het Europees Parlement en de Raad van 27 november 2019 betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties, en tot wijziging van de wet van 11 maart 2018 betreffende het statuut van en het toezicht op de betalingsinstellingen en de instellingen voor elektronisch geld, de toegang tot het bedrijf van betalingsdienstaanbieder en tot de activiteit van uitgifte van elektronisch geld, en de toegang tot betalingssystemen

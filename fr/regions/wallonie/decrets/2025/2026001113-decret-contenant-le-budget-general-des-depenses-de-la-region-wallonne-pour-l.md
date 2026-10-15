@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2026001113/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 12-02-2026 et mise à jour au 30-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 2026

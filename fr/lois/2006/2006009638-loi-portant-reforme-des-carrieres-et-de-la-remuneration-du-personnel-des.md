@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/10/2006009638/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-11-2006 et mise à jour au 01-06-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2006. - Loi portant réforme des carrières et de la rémunération du personnel des greffes et des secrétariats des parquets.

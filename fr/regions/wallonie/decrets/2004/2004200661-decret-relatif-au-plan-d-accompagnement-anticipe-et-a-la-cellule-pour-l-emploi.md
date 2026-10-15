@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/29/2004200661/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2004 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2004. - Décret relatif au plan d'accompagnement [anticipé et à la cellule pour l'emploi] &lt;DRW 2026-03-26/05 , art. 29, 004; En vigueur : 01-07-2026&gt;

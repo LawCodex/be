@@ -12,7 +12,7 @@ entry_into_force: 2015-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/16/2015024305/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2015. - Loi portant dispositions diverses en matière d'agriculture et d'environnement

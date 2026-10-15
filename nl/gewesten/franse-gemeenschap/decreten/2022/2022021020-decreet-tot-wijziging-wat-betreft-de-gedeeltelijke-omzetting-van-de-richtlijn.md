@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/23/2022021020/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2022. - Decreet tot wijziging, wat betreft de gedeeltelijke omzetting van de Richtlijn 2011/85/EU van de Europese Raad van 8 november 2011 tot vaststelling van voorschriften voor de begrotingskaders van de lidstaten, van het decreet van 20 december 2011 houdende regeling van de begroting en de boekhouding van de Diensten van de Regering van de Franse Gemeenschap

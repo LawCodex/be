@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/23/2009201243/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2009 en tekstbijwerking tot 28-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2009. - Decreet houdende oprichting van onderhandelingscomités voor de basiseducatie en voor [ 1 Vocvo vzw] 1 ( 1 )&lt;DVR 2024-04-19/55 , art. , 003; Inwerkingtreding : 01-09-2024&gt;

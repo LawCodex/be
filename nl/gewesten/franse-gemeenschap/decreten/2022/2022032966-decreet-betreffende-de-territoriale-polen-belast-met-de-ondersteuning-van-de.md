@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/20/2022032966/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Decreet betreffende de territoriale polen belast met de ondersteuning van de scholen van het gewoon onderwijs in de uitvoering van de redelijke aanpassingen en volledige permanente integratie

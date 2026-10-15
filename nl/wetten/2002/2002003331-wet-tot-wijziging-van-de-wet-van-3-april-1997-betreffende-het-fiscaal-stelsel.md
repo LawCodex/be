@@ -12,7 +12,7 @@ entry_into_force: 2000-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/26/2002003331/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2002. - Wet tot wijziging van de wet van 3 april 1997 betreffende het fiscaal stelsel van gefabriceerde tabak.

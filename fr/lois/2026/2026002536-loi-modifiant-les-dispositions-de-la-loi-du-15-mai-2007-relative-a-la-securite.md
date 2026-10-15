@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/16/2026002536/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2026. - Loi modifiant les dispositions de la loi du 15 mai 2007 relative à la sécurité civile concernant les dotations et subsides fédéraux et les arrêtés royaux y relatifs

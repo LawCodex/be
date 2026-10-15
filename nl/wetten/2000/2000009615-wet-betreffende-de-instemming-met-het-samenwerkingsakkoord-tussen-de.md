@@ -12,7 +12,7 @@ entry_into_force: 2000-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/12/2000009615/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2000. - Wet betreffende de instemming met het samenwerkingsakkoord tussen de Gemeenschappelijke Gemeenschapscommissie, de Franstalige Gemeenschapscommissie en de Federale Staat inzake de begeleiding en behandeling van daders van seksueel misbruik.

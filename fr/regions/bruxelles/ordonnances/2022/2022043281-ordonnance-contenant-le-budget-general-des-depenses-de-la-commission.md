@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/23/2022043281/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Ordonnance contenant le Budget général des Dépenses de la Commission communautaire commune pour l'année budgétaire 2023

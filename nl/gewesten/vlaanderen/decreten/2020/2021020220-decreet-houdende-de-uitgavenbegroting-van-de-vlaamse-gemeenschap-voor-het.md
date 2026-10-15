@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/18/2021020220/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 05-03-2021 en tekstbijwerking tot 27-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2020. - Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021

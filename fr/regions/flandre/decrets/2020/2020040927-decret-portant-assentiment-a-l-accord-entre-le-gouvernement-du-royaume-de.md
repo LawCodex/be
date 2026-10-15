@@ -13,7 +13,7 @@ entry_into_force: 2020-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/03/20/2020040927/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2020. - Décret portant assentiment à l'accord entre le gouvernement du Royaume de Belgique et le gouvernement de la République fédérative du Brésil relatif aux services aériens, fait à Bruxelles le 4 octobre 2009

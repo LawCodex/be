@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/25/2016202755/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2016. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Wereldorganisatie voor Diergezondheid, gedaan te Brussel op 14 maart 2013

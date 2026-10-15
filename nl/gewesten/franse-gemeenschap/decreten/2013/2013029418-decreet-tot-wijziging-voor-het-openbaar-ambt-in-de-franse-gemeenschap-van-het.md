@@ -13,7 +13,7 @@ entry_into_force: 2012-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029418/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet tot wijziging, voor het openbaar ambt in de Franse Gemeenschap, van het decreet van 19 april 2012 houdende uitbreiding van de voorwaarden inzake nationaliteit voor de toegang tot de betrekkingen van het Openbaar Ambt van de Franse Gemeenschap

@@ -12,7 +12,7 @@ entry_into_force: 2022-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/23/2022032644/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Loi portant dispositions diverses urgentes relatives à la lutte contre le blanchiment de capitaux et portant dispositions relatives aux exceptions à l'obligation du secret des réviseurs d'entreprises et des experts-comptables certifiés

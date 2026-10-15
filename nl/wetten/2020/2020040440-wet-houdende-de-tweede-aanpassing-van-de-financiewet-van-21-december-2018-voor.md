@@ -12,7 +12,7 @@ entry_into_force: 2020-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/09/2020040440/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2020. - Wet houdende de tweede aanpassing van de financiewet van 21 december 2018 voor het begrotingsjaar 2019

@@ -12,7 +12,7 @@ entry_into_force: 2003-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/06/2003022543/justel"
 department: "Sociale Zekerheid - Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2003. - Wet houdende instemming met de avenant van 15 augustus 2002 aan het samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de sociale economie van 4 juli 2000, bekrachtigd door de wet van 26 juni 2001.

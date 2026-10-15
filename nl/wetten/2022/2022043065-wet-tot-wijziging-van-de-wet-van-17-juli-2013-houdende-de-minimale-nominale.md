@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/16/2022043065/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2022. - Wet tot wijziging van de wet van 17 juli 2013 houdende de minimale nominale volumes duurzame biobrandstoffen die de volumes fossiele motorbrandstoffen, die jaarlijks tot verbruik worden uitgeslagen, moeten bevatten

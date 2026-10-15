@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/20/2006022888/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 08-09-2006 en tekstbijwerking tot 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2006. - Wet betreffende de oprichting en de werking van het Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten.

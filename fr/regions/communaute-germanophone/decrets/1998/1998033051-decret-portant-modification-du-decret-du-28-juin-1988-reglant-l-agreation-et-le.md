@@ -13,7 +13,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/16/1998033051/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1998. - Décret portant modification du décret du 28 juin 1988 réglant l'agréation et le subventionnement des sociétés d'art amateur.

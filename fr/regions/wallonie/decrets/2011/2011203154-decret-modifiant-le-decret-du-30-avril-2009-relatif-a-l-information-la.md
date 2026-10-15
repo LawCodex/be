@@ -13,7 +13,7 @@ entry_into_force: 2011-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/16/2011203154/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2011. - Décret modifiant le décret du 30 avril 2009 relatif à l'information, la coordination et l'organisation des chantiers sous, sur ou au-dessus des voiries et des cours d'eau

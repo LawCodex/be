@@ -13,7 +13,7 @@ entry_into_force: 2006-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203875/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret portant assentiment au Traité international sur les ressources phytogénétiques pour l'alimentation et l'agriculture, adopté à Rome le 3 novembre 2001 et signé par la Belgique le 6 juin 2002.

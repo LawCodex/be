@@ -12,7 +12,7 @@ entry_into_force: 1981-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/06/30/1981001205/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1981. - Loi visant à adapter le régime d'allocations familiales pour travailleurs salariés à la réduction de la durée du travail et à l'exercice du travail à temps partiel.

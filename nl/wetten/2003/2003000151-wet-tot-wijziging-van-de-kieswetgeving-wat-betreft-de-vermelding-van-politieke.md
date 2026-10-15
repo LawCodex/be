@@ -12,7 +12,7 @@ entry_into_force: 2003-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/19/2003000151/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2003. - Wet tot wijziging van de kieswetgeving, wat betreft de vermelding van politieke partijen boven de kandidatenlijsten op de stembiljetten bij de verkiezingen van de federale Wetgevende Kamers, de Vlaamse Raad, de Waalse Gewestraad, de Brusselse Hoofdstedelijke Raad en de Raad van de Duitstalige Gemeenschap.

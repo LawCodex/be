@@ -13,7 +13,7 @@ entry_into_force: 2009-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029371/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 26 maart 2009 houdende coördinatie van het decreet betreffende de audiovisuele mediadiensten

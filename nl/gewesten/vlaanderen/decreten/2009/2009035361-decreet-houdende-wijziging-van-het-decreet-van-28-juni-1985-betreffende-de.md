@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/27/2009035361/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-2009 en tekstbijwerking tot 15-04-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2009. - Decreet houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, wat betreft de aanvulling met een regeling inzake erkenningen, en houdende wijziging van diverse andere wetten en decreten

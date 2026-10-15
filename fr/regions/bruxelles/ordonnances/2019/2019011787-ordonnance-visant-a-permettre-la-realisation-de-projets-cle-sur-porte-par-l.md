@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011787/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Ordonnance visant à permettre la réalisation de projets " clé sur porte " par l'Alliance foncière régionale (Community Land Trust)

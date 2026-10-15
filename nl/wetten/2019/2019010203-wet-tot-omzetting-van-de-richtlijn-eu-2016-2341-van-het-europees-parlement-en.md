@@ -12,7 +12,7 @@ entry_into_force: 2019-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/11/2019010203/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANUARI 2019. - Wet tot omzetting van de richtlijn (EU) 2016/2341 van het Europees Parlement en de Raad van 14 december 2016 betreffende de werkzaamheden van en het het toezicht op instellingen voor bedrijfspensioenvoorziening (IBPV) en tot wijziging van de wet van 27 oktober 2006 betreffende het toezicht op de instellingen voor bedrijfspensioenvoorziening

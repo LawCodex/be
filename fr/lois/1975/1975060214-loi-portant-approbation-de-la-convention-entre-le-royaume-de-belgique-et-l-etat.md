@@ -11,7 +11,7 @@ published: 1975-11-01
 entry_into_force: 1975-11-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/06/02/1975060214/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1975. - Loi portant approbation de la Convention entre le Royaume de Belgique et l'Etat d'lsraël, tendant à éviter les doubles impositions en matière d'impôts sur 1e revenu et sur la fortune, signée à Bruxelles le 13 juillet 1972.

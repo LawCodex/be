@@ -10,7 +10,7 @@ date: 2016-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/10/08/2019041949/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 OKTOBER 2016. - Wet houdende instemming met:- de Wijziging aan artikel 8, lid 6 van het Internationaal Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie;- de Wijziging aan artikel 20, lid 1 van het Verdrag van 18 december 1979 inzake de uitbanning van alle vormen van discriminatie tegen vrouwen; en - de Wijzigingen aan artikel 17, lid 7 en artikel 18, lid 5 van het Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of onterende behandeling

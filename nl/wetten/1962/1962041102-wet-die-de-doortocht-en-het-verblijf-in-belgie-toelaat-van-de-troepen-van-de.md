@@ -12,7 +12,7 @@ entry_into_force: 1962-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/04/11/1962041102/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1962. - Wet die de doortocht en het verblijf in België toelaat van de troepen van de met België door het Noord-Atlantisch Verdrag verbonden landen.

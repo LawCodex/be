@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/13/2008029090/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2007. - Programmadecreet houdende diverse maatregelen betreffende de internaten, de psycho-medisch-sociale centra, de schoolgebouwen, het technisch en beroepsonderwijs, de financiering van de universiteiten, de begrotingsfondsen, de waarborg verleend door de Franse Gemeenschap voor de financiële opbrengsten van de RTBF en de sportinfrastructuren (VERTALING).

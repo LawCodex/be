@@ -11,7 +11,7 @@ published: 1963-08-13
 entry_into_force: 1963-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/08/09/1963080901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AOUT 1963. - Loi modifiant le ressort territorial de certaines juridictions et modifiant la loi du 21 ventôse an VII relative à l'organisation de la conservation des hypothèques, la loi du 25 ventôse an XI contenant organisation du notariat et la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire.

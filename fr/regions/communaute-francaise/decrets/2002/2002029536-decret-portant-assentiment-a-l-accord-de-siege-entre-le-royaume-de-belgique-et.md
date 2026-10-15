@@ -13,7 +13,7 @@ entry_into_force: 2002-11-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/24/2002029536/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2002. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Comité international de la Croix-Rouge, fait à Bruxelles le 19 avril 1999.

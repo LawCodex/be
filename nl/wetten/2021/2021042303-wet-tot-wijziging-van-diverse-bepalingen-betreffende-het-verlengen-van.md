@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/04/2021042303/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2021. - Wet tot wijziging van diverse bepalingen betreffende het verlengen van energiecontracten van huishoudelijke afnemers en kmo's

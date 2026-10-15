@@ -13,7 +13,7 @@ entry_into_force: 2010-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/06/03/2010203215/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2010. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap is overgedragen, met het Internationaal Verdrag voor de bescherming van alle personen tegen gedwongen verdwijning, aangenomen te New-York op 20 december 2006

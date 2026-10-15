@@ -11,7 +11,7 @@ published: 1947-03-06
 entry_into_force: 1947-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1946/12/18/1946121801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1946. - ARRETE-LOI instituant un recensement des réserves aquifères souterraines et établissant une réglementation de leur usage

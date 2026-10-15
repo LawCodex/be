@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/10/24/2008029570/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-11-2008 en tekstbijwerking tot 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2008. - Decreet tot bepaling van de voorwaarden voor de subsidiëring van de tewerkstelling in de socioculturele sectoren van de Franse Gemeenschap (VERTALING)

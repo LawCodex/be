@@ -12,7 +12,7 @@ entry_into_force: 2001-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/01/23/2001009096/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2001. - Loi modifiant la loi du 7 mai 1999 contenant le Code des sociétés et la loi du 17 juillet 1975 relative à la comptabilité des entreprises.

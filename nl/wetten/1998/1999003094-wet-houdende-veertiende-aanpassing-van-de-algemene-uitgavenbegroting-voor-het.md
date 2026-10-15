@@ -12,7 +12,7 @@ entry_into_force: 1999-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/16/1999003094/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1998. - Wet houdende veertiende aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 1997, Departement 52, Ministerie van Financiën, voor de financiering van de Europese Unie.

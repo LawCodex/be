@@ -12,7 +12,7 @@ entry_into_force: 2006-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/22/2006011086/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2006. - Loi modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.

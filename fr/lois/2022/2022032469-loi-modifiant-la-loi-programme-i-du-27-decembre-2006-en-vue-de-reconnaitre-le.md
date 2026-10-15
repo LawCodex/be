@@ -12,7 +12,7 @@ entry_into_force: 2022-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/14/2022032469/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2022. - Loi modifiant la loi-programme (I) du 27 décembre 2006 en vue de reconnaître le cancer de l'ovaire comme maladie indemnisable par le Fonds d'indemnisation des victimes de l'amiante

@@ -13,7 +13,7 @@ entry_into_force: 2008-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/01/31/2008200723/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2008. - Décret visant à modifier l'article 120 du CWATUPE (Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie)

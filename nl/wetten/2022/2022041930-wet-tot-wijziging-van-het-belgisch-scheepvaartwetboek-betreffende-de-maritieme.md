@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/13/2022041930/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2022. - Wet tot wijziging van het Belgisch Scheepvaartwetboek betreffende de maritieme beveiliging

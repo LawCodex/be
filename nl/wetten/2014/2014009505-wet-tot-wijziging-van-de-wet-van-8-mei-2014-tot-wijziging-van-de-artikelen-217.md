@@ -10,7 +10,7 @@ date: 2014-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/11/26/2014009505/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2014. - Wet tot wijziging van de wet van 8 mei 2014 tot wijziging van de artikelen 217, 223, 224 en 231 van het Gerechtelijk Wetboek wat de inwerkingtreding betreft

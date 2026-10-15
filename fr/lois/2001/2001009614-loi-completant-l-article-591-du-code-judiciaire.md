@@ -12,7 +12,7 @@ entry_into_force: 2001-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/10/2001009614/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2001. - Loi complétant l'article 591 du Code judiciaire.

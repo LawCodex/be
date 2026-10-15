@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/20/2016031591/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Decreet tot wijziging van het decreet van 5 maart 2009 houdende het aanbod van ambulante diensten in de domeinen van Maatschappelijk Welzijn, het Gezin en de Gezondheid en tot invoeging van bepalingen met betrekking tot instellingen die voor de Franse Gemeenschapscommissie hebben gekozen na de zesde Staatshervorming

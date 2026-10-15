@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/01/21/2022040046/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-01-2022 et mise à jour au 16-01-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2022. - Loi portant des dispositions fiscales diverses

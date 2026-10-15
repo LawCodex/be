@@ -13,7 +13,7 @@ entry_into_force: 2020-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2020044348/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 9 du 7 mai 2020 portant diverses dispositions en matière d'enseignement de promotion sociale dans le cadre de la crise sanitaire du COVID-19

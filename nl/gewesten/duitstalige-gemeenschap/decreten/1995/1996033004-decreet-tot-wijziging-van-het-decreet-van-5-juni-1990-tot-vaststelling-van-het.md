@@ -13,7 +13,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/07/17/1996033004/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1995. - Decreet tot wijziging van het decreet van 5 juni 1990 tot vaststelling van het aantal lestijden/leerkracht voor het secundair onderwijs met volledig leerplan van het type I (VERTALING).

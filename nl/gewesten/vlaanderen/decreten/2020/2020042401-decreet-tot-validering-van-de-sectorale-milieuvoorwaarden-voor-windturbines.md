@@ -13,7 +13,7 @@ entry_into_force: 2020-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/17/2020042401/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Decreet tot validering van de sectorale milieuvoorwaarden voor windturbines

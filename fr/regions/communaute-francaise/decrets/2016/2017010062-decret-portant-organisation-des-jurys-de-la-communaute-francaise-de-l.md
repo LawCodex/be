@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/27/2017010062/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-01-2017 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2016. - Décret portant organisation des jurys de la Communauté française de l'enseignement secondaire ordinaire

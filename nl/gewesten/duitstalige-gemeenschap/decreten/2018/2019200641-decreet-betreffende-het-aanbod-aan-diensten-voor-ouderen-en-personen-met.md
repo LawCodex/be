@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/13/2019200641/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2019 en tekstbijwerking tot 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2018. - Decreet betreffende het aanbod aan diensten voor ouderen en personen met ondersteuningsbehoefte, alsook betreffende palliatieve zorg

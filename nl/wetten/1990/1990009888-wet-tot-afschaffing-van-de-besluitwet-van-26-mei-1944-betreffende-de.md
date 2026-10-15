@@ -12,7 +12,7 @@ entry_into_force: 1990-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/26/1990009888/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 1990. - Wet tot afschaffing van de besluitwet van 26 mei 1944 betreffende de bevoegdheid en de rechtspleging inzake misdaden en wanbedrijen tegen de veiligheid van de Staat.

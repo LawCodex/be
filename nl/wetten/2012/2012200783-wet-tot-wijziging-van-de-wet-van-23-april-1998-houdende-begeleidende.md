@@ -12,7 +12,7 @@ entry_into_force: 2011-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/26/2012200783/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2012. - Wet tot wijziging van de wet van 23 april 1998 houdende begeleidende maatregelen met betrekking tot de instelling van een Europese ondernemingsraad of van een procedure in ondernemingen met een communautaire dimensie of in concerns met een communautaire dimensie ter informatie en raadpleging van de werknemers

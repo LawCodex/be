@@ -11,7 +11,7 @@ published: 2016-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/21/2016011330/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2016. - Wet houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie

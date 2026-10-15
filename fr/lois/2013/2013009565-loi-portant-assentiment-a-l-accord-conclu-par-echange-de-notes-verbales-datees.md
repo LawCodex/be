@@ -12,7 +12,7 @@ entry_into_force: 2013-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013009565/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi portant assentiment à l'Accord, conclu par échange de notes verbales datées du 16 octobre 2013 et du 7 novembre 2013, portant prolongation de la convention entre le Royaume de Belgique et le Royaume des Pays-Bas sur la mise à disposition d'un établissement pénitentiaire aux Pays-Bas en vue de l'exécution de peines privatives de liberté infligées en vertu de condamnations belges, faite à Tilburg (Pays-Bas) le 31 octobre 2009

@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/24/2003012051/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2003. - Loi portant des dispositions diverses relatives à la généralisation de la déclaration immédiate de l'emploi.

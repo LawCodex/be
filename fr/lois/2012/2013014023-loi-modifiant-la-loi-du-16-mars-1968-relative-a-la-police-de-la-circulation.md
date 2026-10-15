@@ -12,7 +12,7 @@ entry_into_force: 2013-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/18/2013014023/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2012. - Loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière en ce qui concerne la restitution du permis de conduire en cas de déchéance du droit de conduire

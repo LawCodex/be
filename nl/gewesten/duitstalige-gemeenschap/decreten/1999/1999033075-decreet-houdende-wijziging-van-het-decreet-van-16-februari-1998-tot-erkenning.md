@@ -13,7 +13,7 @@ entry_into_force: 2000-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/26/1999033075/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1999. - Decreet houdende wijziging van het decreet van 16 februari 1998 tot erkenning en subsidiëring van verenigingen en federaties die werkzaam zijn op het gebied van de folklore (VERTALING).

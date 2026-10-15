@@ -13,7 +13,7 @@ entry_into_force: 2012-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/06/2012204505/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2012. - DECREET houdende instemming met het besluit van de Europese Raad van 25 maart 2011 tot wijziging van artikel 136 van het verdrag betreffende de werking van de Europese Unie met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben

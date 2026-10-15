@@ -12,7 +12,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/22/2023040639/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2022. - Wet tot wijziging van de wet van 11 juni 2004 betreffende de informatieverstrekking bij de verkoop van tweedehandsvoertuigen

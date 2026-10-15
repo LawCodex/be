@@ -12,7 +12,7 @@ entry_into_force: 1997-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/17/1997009263/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1997. - Loi modifiant la loi du 2 août 1974 relative aux traitements des titulaires de certaines fonctions publiques et des ministres des cultes.

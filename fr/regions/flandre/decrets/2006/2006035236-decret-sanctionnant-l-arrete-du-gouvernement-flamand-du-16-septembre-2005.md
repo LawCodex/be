@@ -13,7 +13,7 @@ entry_into_force: 2006-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/01/27/2006035236/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2006. - Décret sanctionnant l'arrêté du Gouvernement flamand du 16 septembre 2005 jugeant recevable et équivalente la demande de dérogation aux objectifs finaux spécifiques décrétaux pour l'enseignement secondaire général (TRADUCTION).

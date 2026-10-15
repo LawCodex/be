@@ -12,7 +12,7 @@ entry_into_force: 2016-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/04/2016009223/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2016. - Wet tot wijziging van de wet van 28 oktober 1996 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grongebied van bepaalde buitenlandse Staten zijn gebracht

@@ -13,7 +13,7 @@ entry_into_force: 1998-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/17/1998035369/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1998. - Decreet tot wijziging van het decreet van 28 april 1993 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de gemeenten.

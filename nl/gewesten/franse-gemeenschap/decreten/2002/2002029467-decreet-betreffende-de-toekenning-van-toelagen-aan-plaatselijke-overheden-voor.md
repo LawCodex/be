@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002029467/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-09-2002 en tekstbijwerking tot 12-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Decreet betreffende de toekenning van toelagen aan plaatselijke overheden voor culturele infrastructuurprojecten (VERTALING)

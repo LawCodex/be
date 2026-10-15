@@ -11,7 +11,7 @@ published: 1976-05-21
 entry_into_force: 1976-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1968/02/19/1968021901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 1968. - Loi portant approbation de la Convention Benelux relative à l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs, dispositions communes annexées à cette Convention et Protocole de signature, signés à Luxembourg le 24 mai 1966.

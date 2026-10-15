@@ -11,7 +11,7 @@ published: 1969-05-03
 entry_into_force: 1969-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/02/27/1969022703/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 1969. - Wet houdende goedkeuring van het Protocol betreffende de status van vluchtelingen, opgemaakt te New York op 31 januari 1967.

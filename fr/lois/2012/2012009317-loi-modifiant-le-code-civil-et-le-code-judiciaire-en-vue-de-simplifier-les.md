@@ -12,7 +12,7 @@ entry_into_force: 2012-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/16/2012009317/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2012. - Loi modifiant le Code civil et le Code judiciaire en vue de simplifier les règles qui gouvernent le procès civil

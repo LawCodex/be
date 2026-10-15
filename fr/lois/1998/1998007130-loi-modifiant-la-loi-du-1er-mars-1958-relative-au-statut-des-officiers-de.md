@@ -12,7 +12,7 @@ entry_into_force: 1998-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/11/1998007130/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1998. - Loi modifiant la loi du 1er mars 1958 relative au statut des officiers de carrière des forces terrestre, aérienne et navale et du service médical, ainsi que des officiers de réserve de toutes les forces armées et du service médical.

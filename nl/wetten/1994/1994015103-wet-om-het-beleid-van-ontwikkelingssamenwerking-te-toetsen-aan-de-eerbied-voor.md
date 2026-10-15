@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/07/1994015103/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 13-09-1994 en tekstbijwerking tot 16-12-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 1994. - Wet om het beleid van ontwikkelingssamenwerking te toetsen aan de eerbied voor de rechten van de mens. -

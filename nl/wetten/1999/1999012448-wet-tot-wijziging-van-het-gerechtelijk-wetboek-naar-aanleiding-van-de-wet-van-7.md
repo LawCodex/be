@@ -12,7 +12,7 @@ entry_into_force: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999012448/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet tot wijziging van het Gerechtelijk Wetboek naar aanleiding van de wet van 7 mei 1999 op de gelijke behandeling van mannen en vrouwen ten aanzien van de arbeidsvoorwaarden, de toegang tot het arbeidsproces en de promotiekansen, de toegang tot een zelfstandig beroep en de aanvullende regelingen voor sociale zekerheid.

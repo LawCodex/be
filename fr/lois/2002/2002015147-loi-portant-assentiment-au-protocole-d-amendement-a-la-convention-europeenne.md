@@ -12,7 +12,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/10/07/2002015147/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2002. - Loi portant assentiment au Protocole d'amendement à la Convention européenne sur la protection des animaux vertébrés utilisés à des fins expérimentales ou à d'autres fins scientifiques, fait à Strasbourg le 22 juin 1998.

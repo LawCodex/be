@@ -13,7 +13,7 @@ entry_into_force: 2023-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/15/2023048513/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2023. - Décret modifiant le Décret Travail de proximité du 7 juillet 2017, en ce qui concerne l'émission des chèques-travail de proximité

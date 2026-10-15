@@ -11,7 +11,7 @@ published: 1956-09-01
 entry_into_force: 1956-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1956/07/04/1956070412/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 1956. \_ Loi portant approbation de la Convention entre la Belgique et la Yougoslavie sur la sécurité sociale, signée à Belgrade, le 1er novembre 1954.

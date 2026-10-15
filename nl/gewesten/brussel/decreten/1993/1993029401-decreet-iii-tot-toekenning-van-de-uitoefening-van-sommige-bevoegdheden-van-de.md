@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/07/22/1993029401/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-07-2000 en tekstbijwerking tot 25-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1993. - Decreet III tot toekenning van de uitoefening van sommige bevoegdheden van de Franse Gemeenschap aan het Waalse Gewest en de Franse Gemeenschapscommissie. (Vertaling)

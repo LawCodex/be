@@ -13,7 +13,7 @@ entry_into_force: 2009-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/05/2009031118/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2009. - Ordonnantie houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds, en met de Slotakte, gedaan de Luxemburg op 15 oktober 2007.

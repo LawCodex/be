@@ -12,7 +12,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/27/2013009545/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2013. - Wet tot aanvulling van de artikelen 43bis, 382ter en 433novies van het Strafwetboek, en van artikel 77sexies van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, met betrekking tot de bijzondere verbeurdverklaring

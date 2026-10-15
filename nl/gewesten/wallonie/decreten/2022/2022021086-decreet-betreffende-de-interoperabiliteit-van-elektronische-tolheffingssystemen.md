@@ -11,7 +11,7 @@ date: 2022-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/16/2022021086/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2022. - Decreet betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer

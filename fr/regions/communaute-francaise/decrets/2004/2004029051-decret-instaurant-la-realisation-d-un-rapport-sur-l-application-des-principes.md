@@ -13,7 +13,7 @@ entry_into_force: 2004-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/28/2004029051/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2004. - Décret instaurant la réalisation d'un rapport sur l'application des principes de la Convention internationale des droits de l'enfant.

@@ -12,7 +12,7 @@ entry_into_force: 2010-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/12/13/2010011512/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2010. - Wet tot wijziging van de artikelen 2, 2/1, 4 en 5 van de wet houdende wijziging van de wet van 17 januari 2003 betreffende de rechtsmiddelen en geschillenbehandeling naar aanleiding van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector

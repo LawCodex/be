@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/11/2021031906/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-2021 en tekstbijwerking tot 19-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2021. - Wet tot omzetting van richtlijn 2019/878 van het Europees Parlement en de Raad van 20 mei 2019, van richtlijn 2019/879 van het Europees Parlement en de Raad van 20 mei 2019, van richtlijn 2019/2034 van het Europees Parlement en de Raad van 27 november 2019, van richtlijn 2019/2177 van het Europees Parlement en de Raad van 19 december 2019, van richtlijn 2021/338 van het Europees Parlement en de Raad van 16 februari 2021 en houdende diverse bepalingen

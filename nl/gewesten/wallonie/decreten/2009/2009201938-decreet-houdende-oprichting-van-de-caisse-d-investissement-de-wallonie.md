@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009201938/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-2009 en tekstbijwerking tot 24-11-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende oprichting van de "Caisse d'Investissement de Wallonie" (Investeringskas voor Wallonië) en tot invoering van een vermindering van de personenbelasting bij inschrijving op aandelen of obligaties van de kas

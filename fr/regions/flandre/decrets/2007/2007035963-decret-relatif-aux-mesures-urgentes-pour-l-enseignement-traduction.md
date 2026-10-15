@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/16/2007035963/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2007 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2007. - Décret relatif aux mesures urgentes pour l'enseignement (TRADUCTION)

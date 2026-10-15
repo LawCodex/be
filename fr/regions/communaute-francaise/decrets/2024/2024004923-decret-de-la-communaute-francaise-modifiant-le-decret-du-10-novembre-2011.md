@@ -13,7 +13,7 @@ entry_into_force: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/18/2024004923/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Décret de la Communauté française modifiant le décret du 10 novembre 2011 relatif au soutien au cinéma et à la création audiovisuelle

@@ -10,7 +10,7 @@ date: 2003-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/08/12/2003011422/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2003. - Wet tot wijziging van artikel 15/5 van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen.

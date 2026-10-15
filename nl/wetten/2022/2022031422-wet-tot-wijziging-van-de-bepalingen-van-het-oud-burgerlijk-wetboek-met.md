@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/20/2022031422/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-03-2022 en tekstbijwerking tot 20-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2022. - Wet tot wijziging van de bepalingen van het oud Burgerlijk Wetboek met betrekking tot de verkopen aan consumenten, tot invoeging van een nieuwe titel VIbis in boek III van het oud Burgerlijk Wetboek en tot wijziging van het Wetboek van economisch recht

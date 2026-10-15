@@ -10,7 +10,7 @@ date: 1994-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/10/1999015008/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 1994. - Wet houdende goedkeuring van volgende Internationale Akten: Protocol tot wijziging van de Overeenkomst van 1971 inzake watergebieden die van internationale betekenis zijn in het bijzonder als verblijfplaats voor watervogels, opgemaakt te Parijs op 3 december 1982. - Wijzigingen van de Overeenkomst inzake watergebieden die van internationale betekenis zijn in het bijzonder als woongebied voor watervogels, aangenomen te Regina op 28 mei 1987.

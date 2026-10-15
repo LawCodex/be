@@ -12,7 +12,7 @@ entry_into_force: 2022-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/09/2022030933/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2021. - Wet houdende instemming met de wijziging van artikel VI en van paragraaf A van artikel XIV van het Statuut van het Internationaal Atoomenergieagentschap, aangenomen op 1 oktober 1999 door de Algemene Conferentie van de Organisatie

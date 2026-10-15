@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/13/2014204102/justel"
 department: "Mobilité et Transports - Justice - Sécurité sociale - Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 11-07-2014 et mise à jour au 16-01-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2014. - Loi d'exécution et de contrôle de l'application de la Convention du travail maritime 2006

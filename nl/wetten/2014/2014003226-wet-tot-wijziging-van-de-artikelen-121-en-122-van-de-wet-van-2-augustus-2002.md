@@ -11,7 +11,7 @@ published: 2014-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014003226/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet tot wijziging van de artikelen 121 en 122 van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten teneinde het beroep te regelen dat kan worden ingesteld tegen bepaalde beslissingen van de FSMA, genomen krachtens de wet van 25 april 2014 inzake het statuut van en het toezicht op de onafhankelijk financieel planners en inzake het verstrekken van raad over financiële planning door gereglementeerde ondernemingen

@@ -13,7 +13,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/03/01/2018011168/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2018. - Ordonnance portant assentiment au : Protocole relatif à la Convention sur le travail forcé de 1930, adopté à Genève le 11 juin 2014 par la Conférence internationale du Travail à sa cent troisième session

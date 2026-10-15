@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024007493/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 09-08-2024 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet tot wijziging van de regelgeving betreffende de omgevingsvergunning wat betreft de invoering van een modulaire omgevingsvergunningsprocedure en het omgevingsbesluit

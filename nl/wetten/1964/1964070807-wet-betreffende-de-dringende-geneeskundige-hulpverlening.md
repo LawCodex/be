@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1964/07/08/1964070807/justel"
 justel_notes:
   - "art. 5 gewijzigd met uitwerking op een onbepaalde datum. <W 2009-12-10/35 , art. 11, 012; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 28-05-1994 en tekstbijwerking tot 30-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1964. - Wet betreffende de dringende geneeskundige hulpverlening.

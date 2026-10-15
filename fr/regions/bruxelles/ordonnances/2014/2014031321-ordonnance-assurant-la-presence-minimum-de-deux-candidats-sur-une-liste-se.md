@@ -13,7 +13,7 @@ entry_into_force: 2014-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/04/03/2014031321/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Ordonnance assurant la présence minimum de deux candidats sur une liste se présentant aux élections communales

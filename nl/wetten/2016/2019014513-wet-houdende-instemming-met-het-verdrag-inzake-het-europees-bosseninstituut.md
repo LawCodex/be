@@ -10,7 +10,7 @@ date: 2016-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/18/2019014513/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2016. - Wet houdende instemming met het Verdrag inzake het Europees Bosseninstituut, gedaan te Joensuu (Finland) op 28 augustus 2003

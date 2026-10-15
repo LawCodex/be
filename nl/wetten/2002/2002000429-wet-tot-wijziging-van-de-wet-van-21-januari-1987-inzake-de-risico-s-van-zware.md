@@ -12,7 +12,7 @@ entry_into_force: 2002-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/26/2002000429/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2002. - Wet tot wijziging van de wet van 21 januari 1987 inzake de risico's van zware ongevallen bij bepaalde industriële activiteiten.

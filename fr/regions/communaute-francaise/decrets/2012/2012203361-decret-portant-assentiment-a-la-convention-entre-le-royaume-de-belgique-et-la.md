@@ -13,7 +13,7 @@ entry_into_force: 2012-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203361/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République de Saint-Marin tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, signée à Saint-Marin le 21 décembre 2005, telle que modifiée par le Protocole fait à Bruxelles le 14 juillet 2009

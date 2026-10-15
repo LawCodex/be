@@ -12,7 +12,7 @@ entry_into_force: 2018-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/01/15/2018200516/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2018. - Wet houdende diverse bepalingen inzake werk

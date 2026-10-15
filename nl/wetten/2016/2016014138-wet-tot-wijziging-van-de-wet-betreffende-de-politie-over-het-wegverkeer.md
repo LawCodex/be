@@ -11,7 +11,7 @@ published: 2016-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/28/2016014138/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2016. - Wet tot wijziging van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968, en van de wet van 19 mei 2010 houdende oprichting van de Kruispuntbank van de voertuigen

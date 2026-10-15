@@ -13,7 +13,7 @@ entry_into_force: 2020-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/08/2020041275/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2020. - Décret spécial portant dérogation temporaire urgente au décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire suite à la crise du coronavirus, pour ce qui est de l'évaluation des élèves

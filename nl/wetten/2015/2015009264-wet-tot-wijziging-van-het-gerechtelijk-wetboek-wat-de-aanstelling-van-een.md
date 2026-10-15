@@ -12,7 +12,7 @@ entry_into_force: 2015-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/05/21/2015009264/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2015. - Wet tot wijziging van het Gerechtelijk Wetboek wat de aanstelling van een sekwester betreft

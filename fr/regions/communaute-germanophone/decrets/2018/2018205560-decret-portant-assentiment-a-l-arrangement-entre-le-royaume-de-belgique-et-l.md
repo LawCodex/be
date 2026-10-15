@@ -13,7 +13,7 @@ entry_into_force: 2018-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/15/2018205560/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2018. - Décret portant assentiment à l'Arrangement entre le Royaume de Belgique et l'Organisation du Traité de l'Atlantique Nord concernant le statut de certaines catégories de personnel des agences de l'OTAN installées sur le territoire du Royaume de Belgique, fait à Bruxelles le 20 mai 2016

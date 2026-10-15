@@ -13,7 +13,7 @@ entry_into_force: 1997-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/02/1997029053/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1996. - Décret portant assentiment à l'accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs états membres, d'une part, et la Fédération de Russie, d'autre part, aux annexes 1 à 10, aux protocoles 1 et 2 et à l'acte final, faits à Corfou le 24 juin 1994.

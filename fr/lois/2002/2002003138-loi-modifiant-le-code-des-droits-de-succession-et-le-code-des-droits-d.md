@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/07/2002003138/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2002. - Loi modifiant le Code des droits de succession et le Code des droits d'enregistrement, d'hypothèque et de greffe, suite aux nouveaux critères de localisation des impôts régionaux établis par la loi spéciale du 13 juillet 2001 portant refinancement des communautés et extension des compétences fiscales des régions.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/01/31/2008031051/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 10-02-2011 et mise à jour au 21-05-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2008. - Ordonnance établissant un système d'échange de quotas d'émission de gaz à effet de serre et relatif aux mécanismes de flexibilité du protocole de Kyoto

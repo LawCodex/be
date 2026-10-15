@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/27/2012018484/justel"
 department: "Agence Fédérale pour la Sécurité de la Chaine Alimentaire - Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2012 et mise à jour au 31-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2012. - Loi portant des dispositions diverses urgentes

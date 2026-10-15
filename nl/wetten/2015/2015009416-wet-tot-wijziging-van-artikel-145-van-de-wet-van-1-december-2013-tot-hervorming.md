@@ -12,7 +12,7 @@ entry_into_force: 2015-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015009416/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van artikel 145 van de wet van 1 december 2013 tot hervorming van de gerechtelijke arrondissementen en tot wijziging van het Gerechtelijk Wetboek met het oog op een grotere mobiliteit van de leden van de rechterlijke orde (I)

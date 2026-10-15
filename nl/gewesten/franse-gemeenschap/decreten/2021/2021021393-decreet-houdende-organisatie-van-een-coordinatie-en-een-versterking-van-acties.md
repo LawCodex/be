@@ -13,7 +13,7 @@ entry_into_force: 2021-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/01/2021021393/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2021. - Decreet houdende organisatie van een coördinatie en een versterking van acties van de Franse Gemeenschap ten gunste van een ecologische transitie

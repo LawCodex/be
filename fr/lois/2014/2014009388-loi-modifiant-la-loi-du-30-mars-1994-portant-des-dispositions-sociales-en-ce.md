@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014009388/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi modifiant la loi du 30 mars 1994 portant des dispositions sociales en ce qui concerne le subventionnement des maisons de justice

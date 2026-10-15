@@ -12,7 +12,7 @@ entry_into_force: 2017-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/30/2017010916/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2015. - Wet houdende instemming met de Overeenkomst betreffende de deelname van de Republiek Kroatië aan de Europese Economische Ruimte en drie daarmee verband houdende overeenkomsten, en met de Slotakte, gedaan te Brussel op 11 april 2014 en op 5 november 2014

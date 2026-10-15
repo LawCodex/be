@@ -12,7 +12,7 @@ entry_into_force: 2008-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/15/2008015114/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Loi relatif à l'adhésion de la Belgique : - à la Convention sur la prescription en matière de vente internationale de marchandises, faite à New York le 14 juin 1974, et - au Protocole modifiant la Convention sur la prescription en matière de vente internationale de marchandises, fait à Vienne le 11 avril 1980.

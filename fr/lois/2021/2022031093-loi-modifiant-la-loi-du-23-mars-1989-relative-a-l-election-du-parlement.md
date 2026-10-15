@@ -12,7 +12,7 @@ entry_into_force: 2022-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/12/2022031093/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2021. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen en vue de fixer l'âge d'éligibilité à dix-huit ans

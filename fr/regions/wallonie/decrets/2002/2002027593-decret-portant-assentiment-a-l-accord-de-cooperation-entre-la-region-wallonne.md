@@ -13,7 +13,7 @@ entry_into_force: 2002-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/13/2002027593/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2002. - Décret portant assentiment à l'accord de coopération entre la Région wallonne et la Communauté française de Belgique d'une part, et le Royaume du Maroc d'autre part, fait à Rabat le 26 octobre 1999.

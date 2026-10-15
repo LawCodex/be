@@ -11,7 +11,7 @@ date: 2022-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022015519/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Decreet tot wijziging van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018

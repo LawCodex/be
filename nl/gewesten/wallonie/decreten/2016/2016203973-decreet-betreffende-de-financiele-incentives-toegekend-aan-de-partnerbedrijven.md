@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/20/2016203973/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2016 en tekstbijwerking tot 01-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Decreet betreffende de financiële incentives toegekend aan de partnerbedrijven in het kader van de alternerende opleiding, aan de alternerende leerlingen en voor de sectorale coaches

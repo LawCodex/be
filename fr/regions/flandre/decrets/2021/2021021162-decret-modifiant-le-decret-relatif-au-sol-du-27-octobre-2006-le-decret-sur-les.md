@@ -12,7 +12,7 @@ published: 2021-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021021162/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2021. - Décret modifiant le Décret relatif au sol du 27 octobre 2006, le Décret sur les engrais du 22 décembre 2006 et le décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets, en ce qui concerne l'abrogation de voies de recours administratifs

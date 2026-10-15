@@ -13,7 +13,7 @@ entry_into_force: 2025-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/14/2025005554/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2025. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2025

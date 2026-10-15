@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035839/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-11-2006 en tekstbijwerking tot 06-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid " Instituut voor Innovatie door Wetenschap en Technologie ". .

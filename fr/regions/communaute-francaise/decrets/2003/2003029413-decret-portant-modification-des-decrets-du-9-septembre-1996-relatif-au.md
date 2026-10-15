@@ -13,7 +13,7 @@ entry_into_force: 1996-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029413/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret portant modification des décrets du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française et du 17 mars 1997 fixant le statut des commissaires auprès des Hautes Ecoles.

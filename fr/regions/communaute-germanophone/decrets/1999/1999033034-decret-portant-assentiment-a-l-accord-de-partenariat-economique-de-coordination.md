@@ -13,7 +13,7 @@ entry_into_force: 1999-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/22/1999033034/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1999. - Décret portant assentiment à l'accord de partenariat économique de coordination politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis mexicains, d'autre part, l'annexe, l'acte final et les déclarations communs, signés à Bruxelles le 8 décembre 1997 (TRADUCTION).

@@ -11,7 +11,7 @@ published: 2022-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/17/2019041382/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2019. - Wet houdende instemming met de strategische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Japan, anderzijds, gedaan te Tokio op 17 juli 2018

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/18/1998033054/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1997. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1996 (VERTALING).

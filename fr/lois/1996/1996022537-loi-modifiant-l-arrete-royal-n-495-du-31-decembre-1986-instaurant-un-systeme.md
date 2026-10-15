@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996022537/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi modifiant l'arrêté royal n° 495 du 31 décembre 1986 instaurant un système associant le travail et la formation pour les jeunes de 18 à 25 ans et portant réduction temporaire des cotisations patronales de sécurité sociale dues dans le chef de ces jeunes.

@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/08/1998009522/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1998. - Loi modifiant, en ce qui concerne la publication des informations relatives aux protêts, la loi du 17 juillet 1997 relative au concordat judiciaire, la loi du 10 juin 1997 portant des dispositions diverses relatives aux protêts et la loi du 1er mars 1961 concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et sa mise en vigueur.

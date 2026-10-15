@@ -12,7 +12,7 @@ entry_into_force: 1999-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/22/1999015064/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 1999. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République d'Estonie concernant l'encouragement et la protection réciproques des investissements, et Protocole, signés à Bruxelles le 24 janvier 1996.

@@ -12,7 +12,7 @@ entry_into_force: 2014-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/26/2014022122/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2014. - Wet houdende wijziging van de programmawet (I) van 27 december 2006 met het oog op de uitbreiding van de tegemoetkomingen uit het Asbestfonds

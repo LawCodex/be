@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/04/2022040496/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-03-2022 et mise à jour au 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2022. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, le Code de l'enseignement secondaire du 17 décembre 2010 et la codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016, en ce qui concerne le droit d'inscription dans l'enseignement ordinaire en dehors de la région bilingue de Bruxelles-Capitale et la réglementation sur la LOP et la CLR

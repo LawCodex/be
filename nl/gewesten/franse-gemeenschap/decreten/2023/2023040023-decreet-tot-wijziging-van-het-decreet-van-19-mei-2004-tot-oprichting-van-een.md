@@ -12,7 +12,7 @@ published: 2023-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/01/12/2023040023/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2023. - Decreet tot wijziging van het decreet van 19 mei 2004 tot oprichting van een "Fonds d'aide à la mobilité étudiante au sein de l'espace européen de l'enseignement supérieur " (Steunfonds voor studentenmobiliteit binnen de Europese ruimte van het hoger onderwijs) en andere bepalingen inzake studentenmobiliteit

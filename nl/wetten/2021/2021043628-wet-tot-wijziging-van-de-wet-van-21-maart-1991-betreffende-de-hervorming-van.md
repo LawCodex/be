@@ -12,7 +12,7 @@ entry_into_force: 2022-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/27/2021043628/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2021. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven

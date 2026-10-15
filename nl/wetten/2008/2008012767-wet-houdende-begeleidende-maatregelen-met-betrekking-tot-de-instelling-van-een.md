@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/05/09/2008012767/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-2008 en tekstbijwerking tot 21-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Wet houdende begeleidende maatregelen met betrekking tot de instelling van een bijzondere onderhandelingsgroep, een vertegenwoordigingsorgaan en procedures betreffende de rol van de werknemers in de Europese coöperatieve vennootschap.

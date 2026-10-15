@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/12/20/1985015264/justel"
 department: "Affaires étrangères - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 22-10-1985 et mise à jour au 29-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1984. - Loi portant approbation de la Convention sur la prévention de la pollution des mers résultant de l'immersion de déchets, des Annexes, de l'Additif et de l'Appendice, faits à Londres, Mexico, Moscou et Washington le 29 décembre 1972 et modifiés à Londres le 12 octobre 1978, le 1er décembre 1978 et le 1er décembre 1980.

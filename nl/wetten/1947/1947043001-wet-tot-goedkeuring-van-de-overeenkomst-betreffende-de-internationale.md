@@ -11,7 +11,7 @@ published: 1948-12-02
 entry_into_force: 1948-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1947/04/30/1947043001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 1947. - Wet tot goedkeuring van de Overeenkomst betreffende de Internationale Burgerlijke Luchtvaart, ondertekend op 7 December 1944, te Chicago.

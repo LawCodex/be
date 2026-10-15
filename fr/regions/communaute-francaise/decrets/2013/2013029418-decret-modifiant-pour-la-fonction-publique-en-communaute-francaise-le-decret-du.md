@@ -13,7 +13,7 @@ entry_into_force: 2012-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/04/2013029418/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2013. - Décret modifiant, pour la fonction publique en Communauté française, le décret du 19 avril 2012 élargissant les conditions de nationalité pour l'accès aux emplois de la fonction publique de la Communauté française

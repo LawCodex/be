@@ -13,7 +13,7 @@ entry_into_force: 2014-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/17/2014035179/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2014. - Decreet houdende wijziging van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd

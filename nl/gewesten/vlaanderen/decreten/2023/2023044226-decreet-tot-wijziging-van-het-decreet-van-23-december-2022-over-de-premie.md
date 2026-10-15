@@ -12,7 +12,7 @@ published: 2023-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/14/2023044226/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2023. - Decreet tot wijziging van het decreet van 23 december 2022 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding

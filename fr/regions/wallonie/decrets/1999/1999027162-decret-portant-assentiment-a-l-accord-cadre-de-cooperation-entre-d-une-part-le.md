@@ -13,7 +13,7 @@ entry_into_force: 1999-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027162/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1999. - Décret portant assentiment à l'Accord-cadre de coopération entre, d'une part, le Gouvernement de la Région wallonne et le Gouvernement de la Communauté francaise de Belgique et, d'autre part, le Gouvernement de la République d'Haïti, fait à Bruxelles le 30 septembre 1997.

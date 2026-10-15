@@ -13,7 +13,7 @@ entry_into_force: 2017-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017012135/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende instemming met 1) het Aanhangsel, ondertekend te Brussel op 2 december 2009 tot wijziging van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Spanje tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Brussel op 14 juni 1995, zoals gewijzigd door het Aanhangsel, ondertekend te Madrid op 22 juni 2000 en met 2) het Aanhangsel, ondertekend te Madrid op 15 april 2014, tot wijziging van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Spanje tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Brussel op 14 juni 1995, zoals gewijzigd door het Aanhangsel, ondertekend te Madrid op 22 juni 2000 en door het Aanhangsel ondertekend te Brussel op 2 december 2009

@@ -13,7 +13,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/01/27/1993036276/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 1993. - Décret modifiant le décret du 12 juin 1991 relatif aux universités dans la Communauté flamande, la loi du 3 août 1960 accordant des avantages sociaux aux universités et établissements assimilés, la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977, la loi du 7 avril 1971 portant création et fonctionnement de l'"Universitaire Instelling Antwerpen" et la loi du 28 mai 1971 portant création et fonctionnement du "Limburgs Universitair Centrum". (TRADUCTION)

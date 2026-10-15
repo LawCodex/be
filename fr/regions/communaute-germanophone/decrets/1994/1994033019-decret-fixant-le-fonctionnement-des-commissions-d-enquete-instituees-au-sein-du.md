@@ -13,7 +13,7 @@ entry_into_force: 1993-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/01/17/1994033019/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 1994. - Décret fixant le fonctionnement des commissions d'enquête instituées au sein du Conseil de la Communauté germanophone.

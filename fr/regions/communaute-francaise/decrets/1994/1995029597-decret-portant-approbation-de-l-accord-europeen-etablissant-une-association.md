@@ -13,7 +13,7 @@ entry_into_force: 1995-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/30/1995029597/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1994. - DECRET portant approbation de l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République slovaque, d'autre part, aux annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc et XVII, aux protocoles 1, 2, 3, 4, 5, 6, 7 et 8, et à l'Acte final, faits à Luxembourg le 4 octobre 1993

@@ -13,7 +13,7 @@ entry_into_force: 2020-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/02/17/2020201287/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2020. - Decreet houdende instemming met het Samenwerkingsakkoord van 23 augustus 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de implementatie van het Verdrag van 's Gravenhage van 19 oktober 1996 inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen en van Verordening (EG) nr. 2201/2003 van de Raad van 27 november 2003 betreffende de bevoegdheid en de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van Verordening (EG) nr. 1347/2000

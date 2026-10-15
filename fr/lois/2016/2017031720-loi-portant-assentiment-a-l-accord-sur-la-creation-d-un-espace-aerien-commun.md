@@ -12,7 +12,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/24/2017031720/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2016. - Loi portant assentiment à l'Accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et la Géorgie, d'autre part, fait à Bruxelles, le 2 décembre 2010

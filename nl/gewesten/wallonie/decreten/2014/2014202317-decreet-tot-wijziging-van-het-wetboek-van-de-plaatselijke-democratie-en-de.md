@@ -13,7 +13,7 @@ entry_into_force: 2014-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202317/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie dat ertoe strekt het toepassingsgebied van de bepalingen betreffende de intercommunales uit te breiden naar de monoregionale en interregionale intercommunales waarvoor het Waalse Gewest bevoegd is

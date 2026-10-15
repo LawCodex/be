@@ -12,7 +12,7 @@ entry_into_force: 2008-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006015077/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet houdende instemming met de Partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Tadzjikistan, anderzijds, gedaan te Luxemburg op 11 oktober 2004.

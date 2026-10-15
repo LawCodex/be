@@ -13,7 +13,7 @@ entry_into_force: 2024-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/19/2023047097/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2023. - Décret modifiant le décret du 30 avril 2009 relatif au développement des pratiques de lecture organisé par le réseau public de la lecture et les bibliothèques publiques

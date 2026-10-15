@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/12/28/1983004517/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 10-08-1984 en tekstbijwerking tot 23-05-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1983. - Wet houdende fiscale en begrotingsbepalingen.

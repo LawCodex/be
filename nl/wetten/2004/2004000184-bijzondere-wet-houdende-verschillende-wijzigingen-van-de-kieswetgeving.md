@@ -12,7 +12,7 @@ entry_into_force: 2004-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/02/2004000184/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2004. - Bijzondere wet houdende verschillende wijzigingen van de kieswetgeving.

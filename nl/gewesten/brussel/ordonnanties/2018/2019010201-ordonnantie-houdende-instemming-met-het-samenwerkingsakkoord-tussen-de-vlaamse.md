@@ -13,7 +13,7 @@ entry_into_force: 2019-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/21/2019010201/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap houdende omzetting in de gezinsbijslagwetgeving van de richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, van de richtlijn 2014/66/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen in het kader van een overplaatsing binnen een onderneming en van de richtlijn (EU) 2016/801 van het Europees Parlement en van de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten

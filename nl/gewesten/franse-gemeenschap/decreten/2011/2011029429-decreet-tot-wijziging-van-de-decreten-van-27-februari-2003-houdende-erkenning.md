@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/19/2011029429/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2011. - Decreet tot wijziging van de decreten van 27 februari 2003 houdende erkenning en subsidiëring van de plaatselijke sportcentra en de geïntegreerde plaatselijke sportcentra en van 23 mei 2008 betreffende de erkenning en de subsidiëring van het Belgisch Olympisch en Interfederaal Comité

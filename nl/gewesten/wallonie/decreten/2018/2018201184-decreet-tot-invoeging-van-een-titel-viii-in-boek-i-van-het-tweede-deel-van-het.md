@@ -13,7 +13,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/01/2018201184/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2018. - Decreet tot invoeging van een Titel VIII in boek I van het tweede deel van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende de erkenning van de diensten en de voorzieningen voor de begeleiding van partnergeweld en gendergerelateerd geweld

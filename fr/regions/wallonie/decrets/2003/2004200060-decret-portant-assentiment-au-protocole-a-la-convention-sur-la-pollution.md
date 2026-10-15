@@ -13,7 +13,7 @@ entry_into_force: 2004-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2004200060/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux polluants organiques persistants, fait à Aarhus le 24 juin 1998.

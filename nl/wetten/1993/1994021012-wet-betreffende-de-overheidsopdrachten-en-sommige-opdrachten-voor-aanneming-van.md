@@ -16,7 +16,7 @@ department: "Eerste Minister"
 justel_notes:
   - "wet opgeheven op 01-07-2013, voor de overheidsopdrachten, de opdrachten en de concessies voor openbare werken die vanaf die datum worden bekendgemaakt of hadden moeten worden bekendgemaakt in het Publicatieblad van de Europese Unie of in het Bulletin der Aanbestedingen, alsook voor de overheidsopdrachten, de opdrachten en de concessies voor openbare werken waarvoor, bij ontstentenis van een verplichting tot voorafgaande bekendmaking, vanaf die datum wordt uitgenodigd tot het indienen van een aanvraag tot deelneming of van een offerte uitwerking op een onbepaalde datum. <W 2006-06-15/57, art. 78, 015 en 016; Inwerkingtreding : 01-07-2013>"
   - "Raadpleging van vroegere versies vanaf 26-01-1996 en tekstbijwerking tot 28-12-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1993. - Wet betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten.

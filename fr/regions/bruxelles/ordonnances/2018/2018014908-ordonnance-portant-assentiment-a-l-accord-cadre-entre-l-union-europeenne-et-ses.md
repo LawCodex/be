@@ -13,7 +13,7 @@ entry_into_force: 2018-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/11/15/2018014908/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2018. - Ordonnance portant assentiment à : l'Accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et l'Australie, d'autre part, fait à Manille le 7 août 2017

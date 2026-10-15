@@ -13,7 +13,7 @@ entry_into_force: 2011-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/07/20/2011031387/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Ordonnantie houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat en de Gewesten betreffende de uitvoering van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, ondertekend te Straatsburg op 9 september 1996

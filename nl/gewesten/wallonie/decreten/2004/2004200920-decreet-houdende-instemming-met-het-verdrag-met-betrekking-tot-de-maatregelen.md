@@ -13,7 +13,7 @@ entry_into_force: 2004-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/25/2004200920/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2004. - Decreet houdende instemming met het Verdrag met betrekking tot de maatregelen die moeten worden genomen om de ongeoorloofde invoer, uitvoer en overdracht van eigendom van cultuurgoederen te voorkomen, aangenomen te Parijs op 14 november 1970 (VERTALING).

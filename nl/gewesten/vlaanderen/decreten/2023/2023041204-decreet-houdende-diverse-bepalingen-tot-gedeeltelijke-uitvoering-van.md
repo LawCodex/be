@@ -13,7 +13,7 @@ entry_into_force: 2023-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/10/2023041204/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2023. - Decreet houdende diverse bepalingen tot gedeeltelijke uitvoering van verordening (EU) 2020/1055 van het Europees Parlement en de Raad van 15 juli 2020 houdende wijziging van Verordeningen (EG) nr. 1071/2009, (EG) nr. 1072/2009 en (EU) nr. 1024/2012 teneinde ze aan te passen aan ontwikkelingen in de wegvervoersector

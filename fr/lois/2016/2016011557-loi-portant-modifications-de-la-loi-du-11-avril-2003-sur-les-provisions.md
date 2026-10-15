@@ -12,7 +12,7 @@ entry_into_force: 2016-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016011557/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi portant modifications de la loi du 11 avril 2003 sur les provisions constituées pour le démantèlement des centrales nucléaires et pour la gestion des matières fissiles irradiées dans ces centrales et de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité

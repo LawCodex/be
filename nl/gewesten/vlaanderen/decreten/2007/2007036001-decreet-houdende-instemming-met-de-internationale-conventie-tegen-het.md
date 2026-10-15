@@ -13,7 +13,7 @@ entry_into_force: 2008-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/20/2007036001/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2007. - Decreet houdende instemming met de Internationale Conventie tegen het dopinggebruik in de sport, opgemaakt in Parijs op 19 oktober 2005, en de Bijlagen I en II.

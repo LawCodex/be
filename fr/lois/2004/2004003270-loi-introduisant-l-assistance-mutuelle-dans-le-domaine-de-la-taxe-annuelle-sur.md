@@ -12,7 +12,7 @@ entry_into_force: 2004-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/17/2004003270/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2004. - Loi introduisant l'assistance mutuelle dans le domaine de la taxe annuelle sur les contrats d'assurances dans le Code des taxes assimilées au timbre.

@@ -13,7 +13,7 @@ entry_into_force: 2005-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/10/2005036517/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2005. - Bijzonder decreet houdende wijziging van het bijzonder decreet van 26 juni 1995 houdende invoering van onverenigbaarheden met het mandaat van lid van de Vlaamse Raad, en van het bijzonder decreet van 26 juni 1995 houdende instelling van een regime van politiek verlof voor de personeelsleden van de diensten van de Vlaamse Regering die een mandaat als lid van de Vlaamse Raad of de Vlaamse Regering uitoefenen.

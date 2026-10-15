@@ -12,7 +12,7 @@ entry_into_force: 2003-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/03/2003007131/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2003. - Wet tot wijziging van de wet van 30 november 1998 houdende regeling van de inlichtingen- en veiligheidsdienst en van artikel 259bis van het Strafwetboek.

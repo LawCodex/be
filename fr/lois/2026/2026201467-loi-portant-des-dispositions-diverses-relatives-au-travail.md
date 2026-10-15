@@ -12,7 +12,7 @@ entry_into_force: 2026-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/18/2026201467/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2026. - Loi portant des dispositions diverses relatives au travail

@@ -13,7 +13,7 @@ entry_into_force: 2024-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024003407/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Décret portant assentiment à l'accord relatif au transport aérien entre le Royaume de Belgique et les Etats-Unis mexicains, signé à Bruxelles le 22 février 2023

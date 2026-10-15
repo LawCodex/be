@@ -13,7 +13,7 @@ entry_into_force: 2011-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/06/2011035366/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2011. - Decreet houdende wijziging van het Mestdecreet van 22 december 2006

@@ -12,7 +12,7 @@ entry_into_force: 2014-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014015142/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi portant assentiment à l'Arrangement entre le Royaume de Belgique et la République de l'Inde sur l'exercice d'activités à but lucratif par les conjoints du personnel de missions diplomatiques et de postes consulaires, conclu par échange des notes datées à New Delhi le 8 août 2012

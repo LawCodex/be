@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/27/2026001888/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 11-03-2026 en tekstbijwerking tot 30-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2026. - Decreet houdende diverse bepalingen inzake energie en klimaat

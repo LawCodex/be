@@ -13,7 +13,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/30/2023206796/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2023. - Décret portant assentiment à l'accord de coopération du 29 août 2022 entre la Région wallonne, la Commission communautaire commune et la Communauté germanophone relatif à l'organe interrégional pour les prestations familiales

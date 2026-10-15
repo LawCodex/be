@@ -13,7 +13,7 @@ entry_into_force: 2006-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/31/2006035727/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2006. - Décret portant reprise des membres du personnel de l'ASBL " Info-Toerisme " par l'Agence autonomisée interne "Toerisme Vlaanderen" (Tourisme Belgique Flandre & Bruxelles) (TRADUCTION).

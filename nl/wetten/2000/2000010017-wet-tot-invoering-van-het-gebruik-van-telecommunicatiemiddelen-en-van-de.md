@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/10/20/2000010017/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-12-2000 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2000. - Wet tot invoering van het gebruik van telecommunicatiemiddelen en van de elektronische handtekening in de gerechtelijke en de buitengerechtelijke procedure.

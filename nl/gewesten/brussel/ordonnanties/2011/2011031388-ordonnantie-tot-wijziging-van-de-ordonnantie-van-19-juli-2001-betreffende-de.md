@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/07/20/2011031388/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Inwerkingtreding van art. 55 vastgesteld op 01-05-2016 bij BESL 2016-04-21/29 , art. 2"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Ordonnantie tot wijziging van de ordonnantie van 19 juli 2001 betreffende de organisatie van de elektriciteitsmarkt in het Brussels Hoofdstedelijk Gewest en van de ordonnantie van 12 december 1991 houdende oprichting van begrotingsfondsen.

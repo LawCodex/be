@@ -13,7 +13,7 @@ entry_into_force: 2007-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2008201135/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Décret portant création du "Vlaams Onderhandelingscomité voor de basiseducatie" (Comité flamand de négociation de l'éducation de base) (TRADUCTION).

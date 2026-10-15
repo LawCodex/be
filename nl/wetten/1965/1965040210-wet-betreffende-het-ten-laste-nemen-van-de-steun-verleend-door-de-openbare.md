@@ -13,7 +13,7 @@ last_amended: 2024-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/02/1965040210/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 25-01-1984 en tekstbijwerking tot 09-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1965. - [Wet betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn.] &lt;W 1993-01-12/34, art. 11, 009; Inwerkingtreding : 01-03-1993&gt;

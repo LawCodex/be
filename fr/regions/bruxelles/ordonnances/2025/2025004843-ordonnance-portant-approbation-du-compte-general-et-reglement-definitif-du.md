@@ -13,7 +13,7 @@ entry_into_force: 2025-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/06/20/2025004843/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2025. - Ordonnance portant approbation du compte général et règlement définitif du budget de Bruxelles Environnement pour l'année 2023

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1986/07/03/1986027616/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 11-09-1986 en tekstbijwerking tot 16-07-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 1986. \_ Decreet betreffende de overlevingspensioenen toegekend aan de rechthebbenden van de vast benoemde ambtenaren van de "Radio-Télévision belge de la Communauté francaise (R.T.B.F.)" (Vertaling).

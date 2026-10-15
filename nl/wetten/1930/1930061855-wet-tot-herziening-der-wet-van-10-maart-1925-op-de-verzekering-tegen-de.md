@@ -11,7 +11,7 @@ published: 1930-07-02
 entry_into_force: 1930-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1930/06/18/1930061855/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1930. - Wet tot herziening der wet van 10 maart 1925 op de verzekering tegen de geldelijke gevolgen van ouderdom en vroegen dood der bedienden.

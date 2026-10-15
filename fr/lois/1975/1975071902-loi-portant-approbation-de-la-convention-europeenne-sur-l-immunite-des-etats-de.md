@@ -11,7 +11,7 @@ published: 1976-06-10
 entry_into_force: 1976-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/07/19/1975071902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1975. - Loi portant approbation de la Convention européenne sur l'immunité des Etats, de l'Annexe et du Protocole additionnel à la Convention, faits à Bâle le 16 mai 1912.

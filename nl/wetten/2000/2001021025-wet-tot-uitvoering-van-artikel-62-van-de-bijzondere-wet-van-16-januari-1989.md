@@ -12,7 +12,7 @@ entry_into_force: 2001-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/26/2001021025/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2000. - Wet tot uitvoering van artikel 62 van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten.

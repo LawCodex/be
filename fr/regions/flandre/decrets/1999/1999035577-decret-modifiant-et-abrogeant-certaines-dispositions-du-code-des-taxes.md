@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/13/1999035577/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1999. - Décret modifiant et abrogeant certaines dispositions du Code des taxes assimilées aux impôts sur les revenus (TRADUCTION).

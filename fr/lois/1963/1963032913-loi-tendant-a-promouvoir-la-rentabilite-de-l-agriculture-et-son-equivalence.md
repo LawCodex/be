@@ -13,7 +13,7 @@ last_amended: 2007-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/03/29/1963032913/justel"
 justel_note: "Consultation des versions antérieures à partir du 17-09-1999 et mise à jour au 20-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 1963. - Loi tendant à promouvoir la rentabilité de l'agriculture et son équivalence avec les autres secteurs de l'économie. (NOTE 1 : Abrogé pour l'Autorité flamande par DCFL 2007-07-06/37 , art. 13, 003; En vigueur : 12-10-2008&gt;

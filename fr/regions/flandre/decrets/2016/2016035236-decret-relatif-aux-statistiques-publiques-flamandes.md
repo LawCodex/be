@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/02/19/2016035236/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-01-2017 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2016. - Décret relatif aux statistiques publiques flamandes

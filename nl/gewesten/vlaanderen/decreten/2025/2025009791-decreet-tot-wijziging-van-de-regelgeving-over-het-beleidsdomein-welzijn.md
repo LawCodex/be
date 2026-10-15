@@ -13,7 +13,7 @@ entry_into_force: 2026-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/19/2025009791/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Decreet tot wijziging van de regelgeving over het beleidsdomein Welzijn, Volksgezondheid en Gezin

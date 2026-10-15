@@ -12,7 +12,7 @@ published: 2001-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/19/2001029325/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2001. - Decreet betreffende het alternerend secundair onderwijs (VERTALING).

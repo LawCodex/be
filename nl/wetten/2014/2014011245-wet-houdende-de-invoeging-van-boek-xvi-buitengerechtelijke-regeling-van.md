@@ -12,7 +12,7 @@ entry_into_force: 2014-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/04/2014011245/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Wet houdende de invoeging van Boek XVI, "Buitengerechtelijke regeling van consumentengeschillen" in het Wetboek van economisch recht

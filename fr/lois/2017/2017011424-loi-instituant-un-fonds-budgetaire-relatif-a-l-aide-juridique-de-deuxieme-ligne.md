@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/19/2017011424/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 31-03-2017 et mise à jour au 19-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2017. - Loi instituant un fonds budgétaire relatif à l'aide juridique de deuxième ligne

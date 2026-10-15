@@ -13,7 +13,7 @@ entry_into_force: 2020-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/10/22/2020015845/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2020. - Ordonnance modifiant l'article 79 et le chapitre XIIbis de la loi du 8 juillet 1976 organique des centres publics d'action sociale

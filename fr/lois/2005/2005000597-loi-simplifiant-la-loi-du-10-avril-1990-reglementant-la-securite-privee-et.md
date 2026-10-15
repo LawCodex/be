@@ -12,7 +12,7 @@ entry_into_force: 2005-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/02/2005000597/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 2005. - Loi simplifiant la loi du 10 avril 1990 réglementant la sécurité privée et particulière.

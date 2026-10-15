@@ -12,7 +12,7 @@ published: 2018-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/24/2017032022/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2017. - Decreet houdende diverse bepalingen onderwijs

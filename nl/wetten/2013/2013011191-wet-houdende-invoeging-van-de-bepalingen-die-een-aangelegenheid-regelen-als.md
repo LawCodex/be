@@ -11,7 +11,7 @@ published: 2013-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/03/2013011191/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2013. - Wet houdende invoeging van de bepalingen die een aangelegenheid regelen als bedoeld in artikel 77 van de Grondwet, in boek IV " Bescherming van de mededinging " en boek V " De mededinging en de prijsevoluties " van het Wetboek van economisch recht

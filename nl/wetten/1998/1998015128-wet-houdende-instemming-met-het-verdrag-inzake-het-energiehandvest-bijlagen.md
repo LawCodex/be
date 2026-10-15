@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/04/16/1998015128/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1998. - Wet houdende instemming met het Verdrag inzake het Energiehandvest, Bijlagen, Besluiten en Protocol betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten, gedaan te Lissabon op 17 december 1994

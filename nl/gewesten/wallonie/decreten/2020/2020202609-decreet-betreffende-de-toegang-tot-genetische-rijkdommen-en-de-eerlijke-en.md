@@ -13,7 +13,7 @@ entry_into_force: 2020-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/20/2020202609/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2020. - Decreet betreffende de toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik

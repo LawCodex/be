@@ -13,7 +13,7 @@ entry_into_force: 1996-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/11/26/1996036470/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 1996. - Decreet houdende goedkeuring van het Protocol tot wijziging van het Europees Sociaal Handvest, opgemaakt in Turijn op 21 oktober 1991.

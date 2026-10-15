@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/10/2006035816/justel"
 department: "Communauté flamande"
 justel_note: "3 modifiés avec effet à une date indéterminée par DCFL 2006-12-22/38 , art. 20; En vigueur : indéterminée >(NOTE : Consultation des versions antérieures à partir du 07-06-2006 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2006. - Décret portant création d'un "strategische adviesraad Ruimtelijke Ordening. - Onroerend Erfgoed" (Conseil d'avis stratégique de l'Aménagement du Territoire. - Patrimoine immobilier) (TRADUCTION).

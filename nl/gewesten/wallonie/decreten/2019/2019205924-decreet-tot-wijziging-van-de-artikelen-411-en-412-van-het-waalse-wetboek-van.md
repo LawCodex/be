@@ -13,7 +13,7 @@ entry_into_force: 2019-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/12/2019205924/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2019. - Decreet tot wijziging van de artikelen 411 en 412 van het Waalse Wetboek van Sociale Actie en Gezondheid, en tot invoeging van een artikel 413bis

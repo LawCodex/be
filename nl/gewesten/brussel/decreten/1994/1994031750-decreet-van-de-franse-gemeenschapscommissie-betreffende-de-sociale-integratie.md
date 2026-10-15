@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/17/1994031750/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "het woord \"Fonds\" wordt vervangen door \"Franse Gemeenschapscommissie\" krachtens DEC 1996-07-18/47, art. 4> - (NOTA : Raadpleging van vroegere versies vanaf 10-05-1994 en tekstbijwerking tot 03-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1994. - Decreet van de Franse Gemeenschapscommissie betreffende de sociale integratie van de gehandicapten en hun inschakeling in het arbeidsproces. (Deze tekst vervangt Decreet 1994-03-17/32 verschenen in het Staatsblad van 6-04-1996, p. 9162) -

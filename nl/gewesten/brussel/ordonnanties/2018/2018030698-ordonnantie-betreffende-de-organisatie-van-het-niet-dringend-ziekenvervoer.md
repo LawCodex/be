@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/03/21/2018030698/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2018 en tekstbijwerking tot 27-03-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2018. - Ordonnantie betreffende de organisatie van het niet-dringend ziekenvervoer

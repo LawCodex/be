@@ -13,7 +13,7 @@ entry_into_force: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026005786/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2026. - Décret portant diverses dispositions relatives aux Chambres de recours des membres du personnel de l'enseignement organisé par la Communauté française et de mise en conformité en application du décret spécial du 7 février 2019 portant création de l'organisme public chargé de la fonction de Pouvoir organisateur de l'Enseignement organisé par la Communauté française

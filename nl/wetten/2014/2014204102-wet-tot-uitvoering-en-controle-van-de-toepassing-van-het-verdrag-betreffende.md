@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/13/2014204102/justel"
 department: "Mobiliteit en Vervoer - Justitie - Sociale Zekerheid - Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 11-07-2014 en tekstbijwerking tot 16-01-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2014. - Wet tot uitvoering en controle van de toepassing van het Verdrag betreffende maritieme arbeid 2006 (I)

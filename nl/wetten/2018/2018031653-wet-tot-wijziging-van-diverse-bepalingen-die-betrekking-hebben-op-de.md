@@ -12,7 +12,7 @@ entry_into_force: 2018-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/19/2018031653/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Wet tot wijziging van diverse bepalingen die betrekking hebben op de politiediensten en betreffende de Romeinse instellingen

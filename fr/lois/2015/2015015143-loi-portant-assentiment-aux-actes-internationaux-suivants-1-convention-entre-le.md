@@ -12,7 +12,7 @@ entry_into_force: 2017-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/06/30/2015015143/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2015. - Loi portant assentiment aux actes internationaux suivants : 1° Convention entre le Royaume de Belgique et la République des Seychelles tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, faite à Bruxelles le 27 avril 2006; 2° Protocole, fait à Bruxelles le 14 juillet 2009, modifiant la Convention entre le Royaume de Belgique et la République des Seychelles tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, faite à Bruxelles le 27 avril 2006; et adaptant la législation fiscale belge à certaines dispositions desdits actes internationaux,

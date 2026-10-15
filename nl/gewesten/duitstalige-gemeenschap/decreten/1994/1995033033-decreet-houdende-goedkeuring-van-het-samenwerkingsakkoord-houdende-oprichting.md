@@ -13,7 +13,7 @@ entry_into_force: 1995-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/15/1995033033/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 1994. - Decreet houdende goedkeuring van het samenwerkingsakkoord houdende oprichting van een Raadgevend Comité voor Bio-ethiek. (VERTALING).

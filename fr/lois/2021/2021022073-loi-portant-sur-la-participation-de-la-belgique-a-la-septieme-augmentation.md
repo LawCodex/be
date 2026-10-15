@@ -12,7 +12,7 @@ entry_into_force: 2021-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/09/29/2021022073/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBRE 2021. - Loi portant sur la participation de la Belgique à la septième augmentation générale du capital de la Banque africaine de Développement

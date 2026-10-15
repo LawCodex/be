@@ -13,7 +13,7 @@ entry_into_force: 2012-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/16/2012029166/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2012. - Decreet houdende wijziging van het decreet van 14 juli 1997 houdende organisatie van de gezondheidspromotie in de Franse Gemeenschap

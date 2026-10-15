@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/04/2007011381/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2007. - Loi modifiant la loi du 26 janvier 2006 relatif à la détention des stocks obligatoires de pétrole et des produits pétroliers et à la création d'une agence pour la gestion d'une partie de ces stocks et modifiant la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises.

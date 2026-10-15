@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/23/2026002295/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 27-03-2026 et mise à jour au 02-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2026. - Loi contenant le budget des Voies et Moyens de l'année budgétaire 2026

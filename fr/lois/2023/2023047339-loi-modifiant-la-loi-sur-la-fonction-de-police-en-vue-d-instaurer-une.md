@@ -12,7 +12,7 @@ entry_into_force: 2023-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/08/2023047339/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2023. - Loi modifiant la loi sur la fonction de police en vue d'instaurer une obligation d'enregistrement et de motivation des fouilles à nu

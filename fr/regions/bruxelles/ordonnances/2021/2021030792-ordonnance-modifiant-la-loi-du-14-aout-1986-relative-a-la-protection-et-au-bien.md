@@ -13,7 +13,7 @@ entry_into_force: 2021-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/03/18/2021030792/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2021. - Ordonnance modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux concernant la protection des équidés utilisés pour le divertissement du public

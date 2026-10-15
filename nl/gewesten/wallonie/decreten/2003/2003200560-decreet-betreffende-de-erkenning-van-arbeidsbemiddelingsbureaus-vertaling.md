@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/13/2003200560/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 31-03-2003 en tekstbijwerking tot 05-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2003. - Decreet betreffende de erkenning van arbeidsbemiddelingsbureaus (VERTALING)

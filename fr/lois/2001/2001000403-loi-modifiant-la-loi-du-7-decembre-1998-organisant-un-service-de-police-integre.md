@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/04/02/2001000403/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2001. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux et modifiant les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.

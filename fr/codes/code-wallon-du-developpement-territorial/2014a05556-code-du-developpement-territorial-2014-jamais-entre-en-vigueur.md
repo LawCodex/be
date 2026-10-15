@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/24/2014A05556/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-11-2016 et mise à jour au 14-11-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Code du développement territorial (2014) (JAMAIS ENTRE EN VIGUEUR)

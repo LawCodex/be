@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031835/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie houdende instemming met : de Overeenkomst tussen het Koninkrijk België en het Algemeen Hoofdkwartier van de Geallieerde Strijdkrachten in Europa inzake de bijzondere voorwaarden voor de vestiging en het functioneren van dit Hoofdkwartier op het grondgebied van het Koninkrijk België, ondertekend te Brussel op 12 mei 1967, zoals gewijzigd en aangevuld door de Overeenkomst, ondertekend te Brussel op 10 september 2013 ; en de Overeenkomst tot wijziging en aanvulling van de Overeenkomst, ondertekend te Brussel op 12 mei 1967, tussen het Koninkrijk België en het Algemeen Hoofdkwartier van de Geallieerde Strijdkrachten in Europa inzake de bijzondere voorwaarden voor de vestiging en het functioneren van dit Hoofdkwartier op het grondgebied van het Koninkrijk België, ondertekend te Brussel op 10 september 2013

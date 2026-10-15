@@ -12,7 +12,7 @@ entry_into_force: 2009-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/12/2009203283/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2009. - Bijzondere wet tot wijziging van artikel 26 van de bijzondere wet van 6 januari 1989 op het Arbitragehof

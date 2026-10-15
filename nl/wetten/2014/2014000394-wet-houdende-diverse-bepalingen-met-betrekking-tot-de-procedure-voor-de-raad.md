@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014000394/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet houdende diverse bepalingen met betrekking tot de procedure voor de Raad voor Vreemdelingenbetwistingen en voor de Raad van State

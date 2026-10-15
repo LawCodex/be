@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202906/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Sultanat d'Oman, d'autre part, concernant l'encouragement et la protection réciproque des investissements, fait à Muscat le 16 décembre 2008

@@ -12,7 +12,7 @@ entry_into_force: 2006-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/04/01/2006000322/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2006. - Loi relative aux agents de police, à leurs compétences et aux conditions d'exercice de leurs missions.

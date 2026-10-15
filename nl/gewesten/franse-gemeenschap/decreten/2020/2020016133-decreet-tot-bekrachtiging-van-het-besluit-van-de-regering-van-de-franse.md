@@ -12,7 +12,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020016133/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet tot bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 4 van 23 april 2020 betreffende de steun aan de cultuur- en filmsectoren in het kader van de gezondheidscrisis van COVID-19

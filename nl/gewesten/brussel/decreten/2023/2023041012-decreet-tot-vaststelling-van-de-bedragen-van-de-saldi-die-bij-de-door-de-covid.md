@@ -13,7 +13,7 @@ entry_into_force: 2023-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/01/28/2023041012/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2023. - Decreet tot vaststelling van de bedragen van de saldi die bij de door de COVID-19-pandemie financieel getroffen erkende maatwerkbedrijven teruggevorderd dienen te worden op basis van de saldi betreffende de voor het eerste en het tweede kwartaal van 2020 toegekende voorschotten en de berekening van de voorschotten voor het eerste en het tweede kwartaal van 2021

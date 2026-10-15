@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/19/2010009424/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 21-04-2010 et mise à jour au 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2010. - Loi visant à promouvoir une objectivation du calcul des contributions alimentaires des père et mère au profit de leurs enfants

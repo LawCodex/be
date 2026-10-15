@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/10/2022042895/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2022. - Decreet tot instemming met de overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Armenië, anderzijds, inzake een gemeenschappelijke luchtvaartruimte, gedaan te Brussel op 15 november 2021

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/06/25/1993018062/justel"
 department: "Middenstand"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-2005 en tekstbijwerking tot 10-03-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1993. - [Wet betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten]. &lt;Opschrift vervangen door W 2005-07-04/36, art. 2 ; Inwerkingtreding : 01-10-2006&gt;

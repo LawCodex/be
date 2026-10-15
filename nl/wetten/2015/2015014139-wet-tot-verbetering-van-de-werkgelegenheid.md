@@ -12,7 +12,7 @@ entry_into_force: 2015-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/04/23/2015014139/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2015. - Wet tot verbetering van de werkgelegenheid

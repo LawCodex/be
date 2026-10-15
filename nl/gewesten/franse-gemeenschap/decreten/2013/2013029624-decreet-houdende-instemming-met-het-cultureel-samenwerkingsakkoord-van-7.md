@@ -13,7 +13,7 @@ entry_into_force: 2013-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/17/2013029624/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2013. - Decreet houdende instemming met het cultureel samenwerkingsakkoord van 7 december 2012 tussen de Vlaamse Gemeenschap en de Franse Gemeenschap

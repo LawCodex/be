@@ -12,7 +12,7 @@ published: 2020-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/11/2020010407/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2020. - Décret modifiant le décret coordonné du 27 décembre 1993 instituant un prix du Parlement de la Communauté française en vue de couronner un ouvrage à l'usage de l'enseignement et de l'éducation permanente, mettant en valeur le patrimoine de la Communauté française

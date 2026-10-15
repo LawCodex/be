@@ -13,7 +13,7 @@ entry_into_force: 2019-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011781/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Ordonnance modifiant l'ordonnance du 14 juin 2012 relative aux déchets

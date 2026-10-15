@@ -11,7 +11,7 @@ date: 2009-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029498/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming met de Overeenkomst houdende stichting van de Europese Conferentie voor Moleculaire Biologie en bijlage, opgemaakt te Geneve op 13 februari 1963, en met de Overeenkomst houdende oprichting van het Europees Laboratorium voor Moleculaire Biologie en bijlage, opgemaakt te Geneve, op 10 mei 1973

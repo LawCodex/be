@@ -12,7 +12,7 @@ entry_into_force: 2023-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/26/2023042328/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2023. - Wet tot wijziging van de besluitwet van 14 november 1939 betreffende de beteugeling van de dronkenschap teneinde van de aanhouding in geval van openbare dronkenschap een bestuurlijke aanhouding te maken

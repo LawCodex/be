@@ -12,7 +12,7 @@ published: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/20/2021032945/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2021. - Décret portant délibération n° 1 résultant de circonstance exceptionnelles et imprévisibles autorisant l'engagement et la liquidation au-delà des crédits prévus au budget initial 2021 de la Commission communautaire française

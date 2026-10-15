@@ -12,7 +12,7 @@ entry_into_force: 2025-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/01/2019030314/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van Australië betreffende de luchtdiensten, en zijn bijlage, gedaan te Canberra op 23 november 2012

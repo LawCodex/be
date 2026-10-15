@@ -13,7 +13,7 @@ entry_into_force: 2020-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/26/2020031060/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2020. - Décret portant modification du Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne le droit de vente pour la prolongation du délai de domiciliation lors de l'achat d'une habitation et pour l'extension du tarif lors de l'achat d'une habitation dans le cas d'une rénovation énergétique majeure

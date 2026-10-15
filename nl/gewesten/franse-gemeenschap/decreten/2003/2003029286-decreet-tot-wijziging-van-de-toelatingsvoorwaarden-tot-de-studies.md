@@ -13,7 +13,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/08/2003029286/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Decreet tot wijziging van de toelatingsvoorwaarden tot de studies diergeneeskunde in het decreet van 5 september 1994 betreffende het stelsel van universitaire studies en academische graden en de wet van 27 juli 1971 op de financiering en de controle van de universitaire instellingen (VERTALING).

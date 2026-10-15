@@ -13,7 +13,7 @@ entry_into_force: 2018-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/17/2018205053/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2018. - Décret portant assentiment au Protocole, fait à Luxembourg le 14 avril 2014, modifiant la convention entre la Belgique et l'Irlande en vue d'éviter la double imposition et l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 24 juin 1970

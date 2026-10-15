@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/21/2014202324/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2014. - Décret portant modification de diverses dispositions du décret du 18 janvier 2008 portant des mesures d'encadrement et d'encouragement visant à promouvoir la participation à la culture, à l'animation des jeunes et aux sports

@@ -13,7 +13,7 @@ entry_into_force: 2007-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/18/2007200293/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2007. - Décret portant assentiment à la Convention sur le marquage des explosifs plastiques et en feuilles aux fins de détection, faite à Montréal le 1er mars 1991.

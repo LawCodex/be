@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/23/2009202013/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2009 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2009. - Décret portant organisation de l'enseignement artistique à horaire réduit

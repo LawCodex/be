@@ -13,7 +13,7 @@ entry_into_force: 2018-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/07/12/2018040416/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2018. - Ordonnance portant assentiment à l'accord de coopération du 26 février 2018 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création de la Fondation Forêt de Soignes

@@ -12,7 +12,7 @@ entry_into_force: 2000-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/13/2000015156/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1999. - Loi portant assentiment à la Convention entre le Royaume de Belgique et l'Etat du Koweït tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune et à favoriser les relations économiques et le Protocole, signés à Koweït le 10 mars 1990.

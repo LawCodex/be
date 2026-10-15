@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2001035835/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet houdende opheffing van het decreet van 27 juni 1985 houdende de subsidieregeling van het Nederlandstalig sociaal-cultureel vormingswerk met volwassenen in politieke vormingsinstellingen.

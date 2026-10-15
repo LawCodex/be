@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/01/2019030334/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 01-04-2019 et mise à jour au 11-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2019. - Loi portant des dispositions en matière de remboursement des spécialités pharmaceutiques ainsi que de frais d'administration, d'efficacité et de transparence des organismes assureurs

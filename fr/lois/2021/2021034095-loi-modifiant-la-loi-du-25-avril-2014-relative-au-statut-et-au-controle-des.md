@@ -12,7 +12,7 @@ entry_into_force: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/26/2021034095/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Loi modifiant la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse en vue d'assurer la transposition de la Directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l'émission d'obligations garanties et la surveillance publique des obligations garanties, et modifiant par ailleurs la loi du 11 mars 2018 relative au statut et au contrôle des établissements de paiement et des établissements de monnaie électronique, à l'accès à l'activité de prestataire de services de paiement, et à l'activité d'émission de monnaie électronique, et à l'accès aux systèmes de paiement

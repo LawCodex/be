@@ -12,7 +12,7 @@ entry_into_force: 2015-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/23/2015009571/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2015. - Loi adaptant les dispositions du Code judiciaire relatives à l'élection et à la désignation des membres du Conseil supérieur de la justice

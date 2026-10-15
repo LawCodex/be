@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/05/2006033005/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2005. - Décret contenant le deuxième ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 2005

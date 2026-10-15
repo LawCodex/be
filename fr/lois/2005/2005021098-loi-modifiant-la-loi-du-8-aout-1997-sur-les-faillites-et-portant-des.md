@@ -12,7 +12,7 @@ entry_into_force: 2005-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/20/2005021098/justel"
 department: "Chancellerie du Premier Ministre - Justice - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Loi modifiant la loi du 8 août 1997 sur les faillites, et portant des dispositions fiscales diverses.

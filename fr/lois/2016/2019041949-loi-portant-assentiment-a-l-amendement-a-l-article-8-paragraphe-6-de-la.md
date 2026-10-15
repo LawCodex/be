@@ -12,7 +12,7 @@ entry_into_force: 2019-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/10/08/2019041949/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 OCTOBRE 2016. - Loi portant assentiment :- à l'Amendement à l'article 8, paragraphe 6, de la Convention internationale du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale ;- à l'Amendement de l'article 20, paragraphe 1 de la Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes ; et - aux Amendements à l'article 17, paragraphe 7 et article 18, paragraphe 5 de la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants

@@ -12,7 +12,7 @@ entry_into_force: 2026-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/03/2026201577/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2026. - Loi modifiant l'article 37/2 de la loi du 3 juillet 1978 relative aux contrats de travail, concernant les délais de préavis lorsque le travailleur compte moins de six mois d'ancienneté

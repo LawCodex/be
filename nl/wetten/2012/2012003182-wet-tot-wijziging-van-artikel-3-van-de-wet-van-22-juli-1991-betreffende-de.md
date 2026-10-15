@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/05/17/2012003182/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2012. - Wet tot wijziging van artikel 3 van de wet van 22 juli 1991 betreffende de thesauriebewijzen en de depositobewijzen, om het uit te breiden met de verenigingen van provincies of gemeenten

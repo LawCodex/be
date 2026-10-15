@@ -12,7 +12,7 @@ entry_into_force: 2002-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/03/2000015143/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2000. - Wet houdende instemming met het Protocol tussen de Regering van het Koninkrijk België en de Regering van de Democratische Republiek Congo tot wijziging van de Scheepvaartovereenkomst tussen het Koninkrijk België en de Republiek Zaïre van 5 maart 1981, ondertekend te Kinshasa op 8 juni 1999.

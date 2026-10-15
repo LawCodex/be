@@ -13,7 +13,7 @@ entry_into_force: 1995-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/22/1995035485/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1995. - Decreet tot wijziging van het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten.

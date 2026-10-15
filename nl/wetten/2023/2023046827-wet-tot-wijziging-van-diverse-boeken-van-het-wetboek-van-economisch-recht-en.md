@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/05/2023046827/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-11-2023 en tekstbijwerking tot 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBER 2023. - Wet tot wijziging van diverse boeken van het Wetboek van economisch recht en van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten met het oog op de gedeeltelijke omzetting van Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten, wat bepaalde diensten betreft

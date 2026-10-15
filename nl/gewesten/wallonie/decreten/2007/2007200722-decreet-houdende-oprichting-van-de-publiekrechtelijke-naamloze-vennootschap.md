@@ -13,7 +13,7 @@ entry_into_force: 2007-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/15/2007200722/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2007. - Decreet houdende oprichting van de publiekrechtelijke naamloze vennootschap "Société de rénovation et d'assainissement des sites industriels (SORASI)" (VERTALING).

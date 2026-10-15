@@ -11,7 +11,7 @@ published: 1961-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/08/10/1960081003/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1960. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Republiek Oostenrijk betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen, scheidsrechterlijke uitspraken en authentieke akten in burgerlijke zaken en in handelszaken, ondertekend op 16 juni 1959, te Wenen.

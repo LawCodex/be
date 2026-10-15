@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/02/21/2010009184/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 11-03-2010 et mise à jour au 02-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2010. - [Loi modifiant les articles 1022 du Code judiciaire et 162bis du Code d'Instruction criminelle] &lt;Intitulé modifié par L 2013-11-22/12 , art. 13, 002; En vigueur : 16-03-2013&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/15/2001029518/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2001. - Décret modifiant le décret du 24 juillet 1997 relatif au Conseil supérieur de l'audiovisuel.

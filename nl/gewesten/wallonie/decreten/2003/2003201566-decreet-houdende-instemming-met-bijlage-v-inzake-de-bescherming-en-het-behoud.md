@@ -12,7 +12,7 @@ published: 2003-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/16/2003201566/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2003. - Decreet houdende instemming met bijlage V inzake de bescherming en het behoud van de ecosystemen en de biologische diversiteit van het zeegebied bij het Verdrag inzake de bescherming van het mariene milieu in het noordoostelijke deel van de Atlantische Oceaan (OSPAR 1992), en met het desbetreffende aanhangsel 3 (VERTALING).

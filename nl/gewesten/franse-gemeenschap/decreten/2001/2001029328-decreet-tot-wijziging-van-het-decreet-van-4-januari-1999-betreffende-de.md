@@ -13,7 +13,7 @@ entry_into_force: 1999-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/19/2001029328/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2001. - Decreet tot wijziging van het decreet van 4 januari 1999 betreffende de bevorderingsambten en de selectieambten (VERTALING).

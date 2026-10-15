@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/18/1991009963/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 09-03-1994 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1991. - [Loi organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace]. &lt;Intitulé remplacé par L 2006-07-10/31, art. 2, 014; En vigueur : 01-12-2006&gt;

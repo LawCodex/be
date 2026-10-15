@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2003202138/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet houdende instemming met het Protocol bij het Verdrag van 1992 inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, betreffende het water en de gezondheid, gesloten te Londen op 17 juni 1999. (Vertaling).

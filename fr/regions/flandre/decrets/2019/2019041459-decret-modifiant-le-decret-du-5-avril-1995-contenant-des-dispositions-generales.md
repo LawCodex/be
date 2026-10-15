@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/24/2019041459/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2019. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret relatif aux engrais du 22 décembre 2006, en ce qui concerne l'application du sixième programme lisier

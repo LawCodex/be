@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/12/2016206367/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2016. - Décret portant assentiment à l'accord entre le Royaume de Belgique, représenté par son Gouvernement, et l'Etat d'Israël, représenté par son Gouvernement, sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Jérusalem le 11 novembre 2013

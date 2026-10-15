@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/31/2018012502/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2018. - Ordonnantie met betrekking tot de toekenning van subsidies voor investeringen in gemeentelijke sportinfrastructuur

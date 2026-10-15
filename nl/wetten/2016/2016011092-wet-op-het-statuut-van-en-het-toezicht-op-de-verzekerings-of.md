@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/13/2016011092/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-03-2016 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2016. - Wet op het statuut van en het toezicht op de verzekerings- of herverzekeringsondernemingen.

@@ -12,7 +12,7 @@ entry_into_force: 2023-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/27/2023047416/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2023. - Wet houdende het verlenen van een staatswaarborg voor operaties van multilaterale ontwikkelings- en investeringsbanken

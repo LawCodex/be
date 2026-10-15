@@ -12,7 +12,7 @@ entry_into_force: 2005-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/24/2005015044/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2005. - Wet houdende instemming met de volgende Verdragen : Aanvullende Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de gezamenlijke uitvoering van een programma voor de observatie van de aarde, en Bijlage, ondertekend te Parijs op 13 november 1984; Aanvullende Overeenkomst nr. 2 tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de gezamenlijke uitvoering van een programma voor de observatie van de aarde, en Bijlage, ondertekend te Parijs op 23 oktober 1991; Aanvullende Overeenkomst nr. 3 tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de gezamenlijke uitvoering van een programma voor de observatie van de aarde, en Bijlage, ondertekend te Parijs op 20 december 1994; Aanvullende Overeenkomst nr. 4 tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de gezamenlijke uitvoering van een programma voor de observatie van de aarde, en Bijlage, ondertekend te Parijs op 9 januari 1996.

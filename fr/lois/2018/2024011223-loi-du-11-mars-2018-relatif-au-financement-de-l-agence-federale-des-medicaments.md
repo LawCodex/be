@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/11/2024011223/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2018. - Loi du 11 mars 2018 relatif au financement de l'Agence fédérale des médicaments et produits de santé. Publication conformément à l'article 53 des montants indexés des contributions et rétributions.

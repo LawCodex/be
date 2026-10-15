@@ -13,7 +13,7 @@ entry_into_force: 2021-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021021320/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2021. - Décret portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République togolaise relatif au transport aérien, signé à Lomé le 13 juin 2019

@@ -12,7 +12,7 @@ entry_into_force: 1992-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/06/10/1993015205/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1992. - Loi portant approbation de la Convention de Vienne sur le droit des traités, et de l'Annexe, faites à Vienne le 23 mai 1969.

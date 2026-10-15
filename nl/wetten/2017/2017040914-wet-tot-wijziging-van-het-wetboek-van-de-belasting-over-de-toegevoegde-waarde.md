@@ -12,7 +12,7 @@ entry_into_force: 2017-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/29/2017040914/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2017. - Wet tot wijziging van het Wetboek van de Belasting over de Toegevoegde Waarde, met betrekking tot de opeisbaarheid van de belasting, de met diensten gelijkgestelde handelingen, de regeling van actieve veredeling bij invoer en de vrijstelling van de belasting voor de levering van schepen voor de vaart op volle zee

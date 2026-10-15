@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003009448/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2003 et mise à jour au 31-12-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi modifiant la législation relative à la protection des biens des personnes totalement ou partiellement incapables d'en assumer la gestion en raison de leur état physique ou mental.

@@ -13,7 +13,7 @@ entry_into_force: 2002-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/12/2002029612/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2002. - Decreet tot instemming met de partnerschapsovereenkomst tussen de leden van de groep van Staten in Afrika, het Caraïbisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar Lid-Staten, anderzijds, en de Slokakte, ondertekend te Cotonou op 23 juni 2000 (Overeenkomst van Cotonou) (VERTALING).

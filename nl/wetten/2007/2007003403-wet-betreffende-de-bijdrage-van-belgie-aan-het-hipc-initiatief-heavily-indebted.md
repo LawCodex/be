@@ -10,7 +10,7 @@ date: 2007-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/07/2007003403/justel"
 department: "Financiën - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2007. - Wet betreffende de bijdrage van België aan het HIPC Initiatief (" Heavily Indebted Poor Countries' Initiative ") in het kader van de veertiende wedersamenstelling van de werkmiddelen van de Internationale Ontwikkelingsassociatie (IOA).

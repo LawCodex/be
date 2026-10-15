@@ -12,7 +12,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/29/2022015277/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2022. - Loi relatif à la pêche et diverses modifications du Code belge de la Navigation

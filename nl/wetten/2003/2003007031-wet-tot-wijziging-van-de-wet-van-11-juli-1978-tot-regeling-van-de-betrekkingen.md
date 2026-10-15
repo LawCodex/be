@@ -12,7 +12,7 @@ entry_into_force: 2003-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/16/2003007031/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2003. - Wet tot wijziging van de wet van 11 juli 1978 tot regeling van de betrekkingen tussen de overheid en de vakbonden van het militair personeel van de land-, de lucht- en de zeemacht en de medische dienst.

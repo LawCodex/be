@@ -12,7 +12,7 @@ entry_into_force: 1995-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/05/1995014272/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1994. - Wet houdende zevende aanpassing van de Algemene Uitgavenbegroting van het begrotingsjaar 1993, Sectie 33, " Verkeer en Infrastructuur ".

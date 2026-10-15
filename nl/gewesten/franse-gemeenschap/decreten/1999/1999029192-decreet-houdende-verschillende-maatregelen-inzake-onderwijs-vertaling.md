@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/08/1999029192/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-04-1999 en tekstbijwerking tot 03-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1999. - Decreet houdende verschillende maatregelen inzake onderwijs (VERTALING).

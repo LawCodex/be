@@ -12,7 +12,7 @@ entry_into_force: 2026-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/23/2026002506/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2026. - Wet tot wijziging van het Gerechtelijk Wetboek en de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen teneinde aan de verenigde advies- en onderzoekscommissie van de Hoge Raad voor de Justitie toegang te verlenen tot het Rijksregister

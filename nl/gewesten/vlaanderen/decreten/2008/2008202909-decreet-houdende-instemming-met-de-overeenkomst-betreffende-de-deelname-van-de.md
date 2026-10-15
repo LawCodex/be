@@ -12,7 +12,7 @@ published: 2008-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202909/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Decreet houdende instemming met de Overeenkomst betreffende de deelname van de republiek Bulgarije en Roemenië aan de Europese Economische Ruimte, en de Slotakte, ondertekend in Brussel, op 25 juli 2007.

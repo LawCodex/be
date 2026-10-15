@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203750/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République de Finlande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 18 mai 1976, telle que modifiée par l'accord additionnel du 13 mars 1991 et le protocole du 15 septembre 2009; 2° à l'accord additionnel modifiant la Convention, visé au 1°, signé à Bruxelles le 13 mars 1991; 3° au protocole, signé à Bruxelles le 15 septembre 2009 modifiant la Convention, visée au 1°, telle que modifiée par l'accord additionnel, visé au 2°

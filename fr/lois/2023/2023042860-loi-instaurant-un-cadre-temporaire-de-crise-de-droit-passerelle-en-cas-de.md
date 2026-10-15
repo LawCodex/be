@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/31/2023042860/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2023 et mise à jour au 29-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2023. - Loi instaurant un cadre temporaire de crise de droit passerelle en cas de situations d'urgence et modifiant la loi-programme du 26 décembre 2022

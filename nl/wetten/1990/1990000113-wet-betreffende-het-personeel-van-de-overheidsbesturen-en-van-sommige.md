@@ -12,7 +12,7 @@ entry_into_force: 1990-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/02/20/1990000113/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1990. - Wet betreffende het personeel van de overheidsbesturen en van sommige instellingen van openbaar nut. -

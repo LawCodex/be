@@ -13,7 +13,7 @@ entry_into_force: 2026-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/16/2026003464/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 2026. - Décret modifiant les conditions d'obtention du diplôme de bachelier infirmier responsable de soins généraux, mettant fin progressivement à la formation du brevet d'infirmier hospitalier et créant la formation du brevet de l'enseignement supérieur d'assistant en soins infirmiers

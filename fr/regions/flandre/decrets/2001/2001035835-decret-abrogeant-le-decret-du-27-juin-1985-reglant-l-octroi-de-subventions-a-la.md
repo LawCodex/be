@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035835/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret abrogeant le décret du 27 juin 1985 réglant l'octroi de subventions à la formation socio-culturelle pour adultes de langue néerlandaise dans des institutions de formation à caractère politique (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2008-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008029325/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret renforçant la cohérence de l'enseignement supérieur et oeuvrant à la simplification administrative dans l'enseignement supérieur universitaire et hors universités

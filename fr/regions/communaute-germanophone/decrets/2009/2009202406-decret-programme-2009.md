@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/27/2009202406/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 15-06-2009 et mise à jour au 13-01-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2009. - Décret Programme 2009

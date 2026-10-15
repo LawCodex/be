@@ -12,7 +12,7 @@ entry_into_force: 1995-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/30/1994009545/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1994. - Wet tot wijziging en aanvulling van de bepalingen van het Burgerlijk Wetboek betreffende de medeëigendom.

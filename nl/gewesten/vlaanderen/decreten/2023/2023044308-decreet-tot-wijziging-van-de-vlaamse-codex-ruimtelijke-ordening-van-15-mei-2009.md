@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/14/2023044308/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2023 en tekstbijwerking tot 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2023. - Decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges en het decreet van 25 april 2014 betreffende complexe projecten, wat betreft de uitbreiding van de rechtsmacht van de Raad voor Vergunningsbetwistingen

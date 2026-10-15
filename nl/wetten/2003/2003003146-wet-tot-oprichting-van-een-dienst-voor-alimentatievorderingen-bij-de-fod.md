@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/21/2003003146/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 28-03-2003 en tekstbijwerking tot 28-01-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2003. - Wet tot oprichting van een Dienst voor alimentatievorderingen bij de FOD Financiën

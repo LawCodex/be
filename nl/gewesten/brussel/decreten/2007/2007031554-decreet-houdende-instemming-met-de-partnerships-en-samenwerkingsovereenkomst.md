@@ -13,7 +13,7 @@ entry_into_force: 2007-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/22/2007031554/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2007. - Decreet houdende instemming met de partnerships- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Tadzjikistan, anderzijds, gedaan te Luxemburg op 11 oktober 2004 (VERTALING).

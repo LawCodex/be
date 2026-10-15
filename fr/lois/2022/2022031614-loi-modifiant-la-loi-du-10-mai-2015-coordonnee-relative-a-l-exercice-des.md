@@ -12,7 +12,7 @@ entry_into_force: 2022-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/10/2022031614/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2022. - Loi modifiant la loi du 10 mai 2015 coordonnée relative à l'exercice des professions des soins de santé

@@ -13,7 +13,7 @@ entry_into_force: 2006-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/19/2006202500/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2006. - Decreet houdende instemming met het Verdrag tussen het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie) en de Republiek Bulgarije en Roemenië betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie, met het Protocol, de Akte en de Slotakte, gedaan te Luxemburg op 25 april 2005 (VERTALING).

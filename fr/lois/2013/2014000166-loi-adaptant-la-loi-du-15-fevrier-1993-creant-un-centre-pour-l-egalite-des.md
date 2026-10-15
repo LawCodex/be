@@ -12,7 +12,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/17/2014000166/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AOUT 2013. - Loi adaptant la loi du 15 février 1993 créant un Centre pour l'égalité des chances et la lutte contre le racisme en vue de le transformer en un Centre fédéral pour l'analyse des flux migratoires, la protection des droits fondamentaux des étrangers et la lutte contre la traite des êtres humains

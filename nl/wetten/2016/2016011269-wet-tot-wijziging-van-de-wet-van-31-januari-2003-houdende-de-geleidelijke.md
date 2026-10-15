@@ -12,7 +12,7 @@ entry_into_force: 2016-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/12/2016011269/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2016. - Wet tot wijziging van de wet van 31 januari 2003 houdende de geleidelijke uitstap uit kernenergie voor industriële elektriciteitsproductie, met het oog op de vaststelling van de jaarlijkse vergoeding verschuldigd voor de verlenging van de kerncentrales Doel 1 en Doel 2

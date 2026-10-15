@@ -11,7 +11,7 @@ date: 1995-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/11/29/1995036658/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 1995. - Decreet houdende bekrachtiging van het besluit van de Vlaamse regering van 4 oktober 1995 betreffende de definitieve aanwijzing van de beschermde duingebieden en van de voor het duingebied belangrijke landbouwgebieden die aangeduid werden door het besluit van de Vlaamse regering van 16 november 1994 betreffende de aanwijzing van de beschermde duingebieden en van de voor het duingebied belangrijke landbouwgebieden, maar niet door het besluit van de Vlaamse regering van 15 september 1993 betreffende de aanduiding van beschermde duingebieden en voor het duingebied belangrijke landbouwgebieden, en houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/17/2019203027/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2019 et mise à jour au 09-03-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2019. - Loi établissant une reconnaissance des aidants proches

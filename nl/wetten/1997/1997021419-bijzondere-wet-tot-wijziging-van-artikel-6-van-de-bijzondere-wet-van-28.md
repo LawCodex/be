@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/19/1997021419/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Bijzondere wet tot wijziging van artikel 6 van de bijzondere wet van 28 februari 1997 houdende tijdelijke en gedeeltelijke uitvoering van artikel 125 van de Grondwet.

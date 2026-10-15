@@ -12,7 +12,7 @@ entry_into_force: 1999-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/25/1999016306/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 1999. - Loi modifiant la loi du 29 mars 1963 tendant à promouvoir la rentabilité de l'agriculture et son équivalence avec les autres secteurs de l'économie

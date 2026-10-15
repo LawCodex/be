@@ -13,7 +13,7 @@ entry_into_force: 2015-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/26/2015035911/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2015. - Decreet houdende instemming met het zetelakkoord tussen het Koninkrijk België en de Organisatie van de Islamitische Conferentie, ondertekend in Brussel op 4 februari 2011

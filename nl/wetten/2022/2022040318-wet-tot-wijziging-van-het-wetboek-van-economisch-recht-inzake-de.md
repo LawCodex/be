@@ -12,7 +12,7 @@ entry_into_force: 2022-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/16/2022040318/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2022. - Wet tot wijziging van het Wetboek van economisch recht inzake de handelsagentuurovereenkomsten houdende de bescherming van handelsagenten tegen de eenzijdige verhoging of oplegging van de kosten door de principaal

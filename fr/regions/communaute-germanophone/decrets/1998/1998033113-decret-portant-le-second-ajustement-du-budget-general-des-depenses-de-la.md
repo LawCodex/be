@@ -13,7 +13,7 @@ entry_into_force: 1999-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/17/1998033113/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 1998. - Décret portant le second ajustement du budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1998.

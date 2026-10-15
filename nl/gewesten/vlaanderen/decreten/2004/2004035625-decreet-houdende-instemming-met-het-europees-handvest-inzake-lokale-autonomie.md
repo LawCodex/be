@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035625/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet houdende instemming met het Europees Handvest inzake lokale autonomie, ondertekend in Straatsburg op 15 oktober 1985.

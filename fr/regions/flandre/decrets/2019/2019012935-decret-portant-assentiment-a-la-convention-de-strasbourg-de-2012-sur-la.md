@@ -13,7 +13,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012935/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant assentiment à la Convention de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure (CLNI 2012), signée à Strasbourg le 27 septembre 2012

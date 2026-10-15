@@ -13,7 +13,7 @@ entry_into_force: 2012-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/12/2012200438/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2012. - Décret portant assentiment aux statuts de l'Agence internationale pour les énergies renouvelables (IRENA), faits à Bonn le 26 janvier 2009

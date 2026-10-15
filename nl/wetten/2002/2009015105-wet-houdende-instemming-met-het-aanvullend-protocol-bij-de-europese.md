@@ -10,7 +10,7 @@ date: 2002-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/06/2009015105/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2002. - Wet houdende instemming met het Aanvullend Protocol bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten, gedaan te Straatsburg op 9 november 1995

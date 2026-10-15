@@ -13,7 +13,7 @@ entry_into_force: 2004-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/29/2004201656/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2004. - Decreet tot wijziging van artikel 1bis van de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder (VERTALING).

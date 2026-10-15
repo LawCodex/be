@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996035480/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-06-1996 en tekstbijwerking tot 18-12-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1996.

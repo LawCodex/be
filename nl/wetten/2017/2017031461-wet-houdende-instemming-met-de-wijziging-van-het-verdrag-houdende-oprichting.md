@@ -10,7 +10,7 @@ date: 2017-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/08/30/2017031461/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2017. - Wet houdende instemming met de Wijziging van het Verdrag houdende oprichting van een Internationale Douaneraad, aangenomen door de Internationale Douaneraad te Brussel op 30 juni 2007

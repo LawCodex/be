@@ -13,7 +13,7 @@ entry_into_force: 2014-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014203110/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 21 november 2013 tussen het Waalse Gewest en de Franse Gemeenschap betreffende de artikelen 42 en 44 van de Internationale Conventie inzake de rechten van het kind

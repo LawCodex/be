@@ -13,7 +13,7 @@ last_amended: 2026-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1808/12/10/1808121050/justel"
 justel_note: "Consultation des versions antérieures à partir du 25-06-1997 et mise à jour au 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. - LIVRE II, TITRE III. (art. 407 à 447bis) &lt;Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre III du deuxième Livre est la cinquième partie.&gt;

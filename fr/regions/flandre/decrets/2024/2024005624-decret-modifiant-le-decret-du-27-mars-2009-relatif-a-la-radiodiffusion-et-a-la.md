@@ -13,7 +13,7 @@ entry_into_force: 2024-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024005624/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, portant des adaptations sur le plan du contenu et sur le plan technique et des adaptations en vue de la protection des données à caractère personnel et du Code des sociétés et des associations

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/14/2023041214/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-03-2023 et mise à jour au 27-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2023. - Loi mettant en oeuvre et complétant le règlement (UE) 2020/1783 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile ou commerciale, et le règlement (UE) 2020/1784 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la signification et à la notification dans les Etats membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale

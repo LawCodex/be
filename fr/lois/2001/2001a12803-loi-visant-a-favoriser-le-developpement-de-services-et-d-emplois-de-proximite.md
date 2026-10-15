@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/20/2001A12803/justel"
 department: "Affaires sociales - Emploi et Travail - Finances - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2001 et mise à jour au 28-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2001. - Loi visant à favoriser le développement de services et d'emplois de proximité (REGION FLAMANDE)

@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/18/2025005896/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Décret modifiant l'article 2 du décret du 23 décembre 2022 relatif à la prime pour l'apprentissage qualifiant sur le lieu de travail destinée aux entreprises et à la prime pour les élèves en formation en alternance, en ce qui concerne l'adaptation à la transformation de la septième année d'études en qualification professionnelle

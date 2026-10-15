@@ -13,7 +13,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/22/2016035139/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2016. - Décret portant assentiment à l'accord entre le Royaume de Belgique et le Monténégro sur l'exercice d'activités à but lucratif des personnes à charge des agents diplomatiques et consulaires, signé à Bruxelles le 9 juin 2010

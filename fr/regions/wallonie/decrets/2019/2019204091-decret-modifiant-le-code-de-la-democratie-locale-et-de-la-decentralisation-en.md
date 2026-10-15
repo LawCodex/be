@@ -13,7 +13,7 @@ entry_into_force: 2019-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204091/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant le Code de la démocratie locale et de la décentralisation en vue d'établir le cadre de la fusion volontaire de communes

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021021157/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2021 et mise à jour au 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi portant des dispositions fiscales diverses et modifiant la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces

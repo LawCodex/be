@@ -12,7 +12,7 @@ entry_into_force: 2004-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/10/2000015044/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2000. - Loi portant assentiment à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et le Royaume hachémite de Jordanie, d'autre part, aux Annexes Ire à VII, aux Protocoles 1er à 4, et à l'Acte final, faits à Bruxelles le 24 novembre 1997.

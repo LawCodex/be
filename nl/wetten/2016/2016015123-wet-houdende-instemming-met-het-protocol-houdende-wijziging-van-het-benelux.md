@@ -12,7 +12,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/08/16/2016015123/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AUGUSTUS 2016. - Wet houdende instemming met het Protocol houdende wijziging van het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), wat betreft de oppositie en de invoering van een administratieve procedure tot nietigverklaring of vervallenverklaring van merken, gedaan te Brussel op 16 december 2014

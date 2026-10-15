@@ -12,7 +12,7 @@ entry_into_force: 1999-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/16/1999003407/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1996. - Loi contenant le quatrième ajustement du budget général des dépenses de l'année budgétaire 1995. Section " Dette publique".

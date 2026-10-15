@@ -13,7 +13,7 @@ entry_into_force: 2026-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004172/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2026. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne la prolongation des agréments des organismes de radiodiffusion sonore en réseau et des organismes de radiodiffusion sonore locaux

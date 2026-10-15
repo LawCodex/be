@@ -13,7 +13,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/02/10/2022030851/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2022. - Ordonnance modifiant l'ordonnance du 1er mars 2012 relative à la conservation de la nature et visant à abroger le système de dérogations permettant l'usage de plusieurs moyens de capture et de mise à mort de pigeons

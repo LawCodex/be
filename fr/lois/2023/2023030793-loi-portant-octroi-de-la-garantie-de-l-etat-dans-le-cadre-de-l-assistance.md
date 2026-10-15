@@ -12,7 +12,7 @@ entry_into_force: 2023-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023030793/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi portant octroi de la garantie de l'Etat dans le cadre de l'assistance macrofinancière exceptionnelle à l'Ukraine accordée par l'union européenne

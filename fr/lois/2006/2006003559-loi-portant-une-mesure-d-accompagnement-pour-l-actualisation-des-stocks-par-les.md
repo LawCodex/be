@@ -12,7 +12,7 @@ entry_into_force: 2006-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/11/26/2006003559/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2006. - Loi portant une mesure d'accompagnement pour l'actualisation des stocks par les diamantaires agréés.

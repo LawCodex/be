@@ -13,7 +13,7 @@ entry_into_force: 2026-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/03/06/2026002345/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2026. - Decreet tot wijziging van verschillende decreten van het beleidsdomein Omgeving, in het kader van de implementatie van Europese regelgeving over hernieuwbare energie, kritieke grondstoffen en nettonultechnologie

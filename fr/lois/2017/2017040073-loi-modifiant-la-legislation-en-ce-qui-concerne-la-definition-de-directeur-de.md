@@ -12,7 +12,7 @@ entry_into_force: 2017-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/20/2017040073/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2017. - Loi modifiant la législation en ce qui concerne la définition de directeur de prison

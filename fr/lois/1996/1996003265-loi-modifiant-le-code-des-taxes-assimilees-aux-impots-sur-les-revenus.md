@@ -12,7 +12,7 @@ entry_into_force: 1996-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/04/02/1996003265/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1996. - Loi modifiant le Code des taxes assimilées aux impôts sur les revenus.

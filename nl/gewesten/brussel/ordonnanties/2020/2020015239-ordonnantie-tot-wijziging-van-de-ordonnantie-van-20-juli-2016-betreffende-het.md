@@ -13,7 +13,7 @@ entry_into_force: 2020-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/17/2020015239/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Ordonnantie tot wijziging van de ordonnantie van 20 juli 2016 betreffende het recht gehoord te worden in het kader van een aan het Parlement gerichte petitie

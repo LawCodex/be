@@ -13,7 +13,7 @@ entry_into_force: 2001-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/04/17/2001033039/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2001. - Decreet houdende instemming met de overeenkomst houdende het statuut van de Europese scholen en met de Bijlagen I en II, gedaan te Luxemburg op 21 juni 1994 (VERTALING).

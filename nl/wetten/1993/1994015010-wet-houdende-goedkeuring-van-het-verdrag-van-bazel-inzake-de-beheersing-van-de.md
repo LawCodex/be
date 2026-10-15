@@ -12,7 +12,7 @@ entry_into_force: 1994-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1994015010/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet houdende goedkeuring van het Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan, en van de Bijlagen I, II, III, IV, V-A, V-B en VI, opgemaakt te Bazel, op 22 maart 1989.

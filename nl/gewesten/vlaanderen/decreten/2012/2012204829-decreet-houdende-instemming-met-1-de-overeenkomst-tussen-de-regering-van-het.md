@@ -11,7 +11,7 @@ date: 2012-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204829/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Decreet houdende instemming met 1° de overeenkomst tussen de regering van het Koninkrijk België en de regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting naar het inkomen en naar vermogenswinsten, ondertekend te Brussel op 1 juni 1987, gewijzigd door het protocol van 24 juni 2009, 2° het protocol tot wijziging van de overeenkomst vermeld onder 1°, ondertekend te Parijs op 24 juni 2009

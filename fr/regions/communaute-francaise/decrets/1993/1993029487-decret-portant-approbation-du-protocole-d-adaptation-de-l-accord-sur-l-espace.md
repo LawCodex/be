@@ -13,7 +13,7 @@ entry_into_force: 1993-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/09/30/1993029487/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 1993. - DECRET portant approbation du Protocole d'adaptation de l'Accord sur l'Espace économique européen, et de l'Acte final, faits à Bruxelles le 17 mars 1993

@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/28/2011204276/justel"
 department: "Sécurité sociale - Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 2011. - Loi portant des mesures en vue de l'instauration d'une cotisation de solidarité pour l'occupation d'étudiants non assujettis au régime de la sécurité sociale des travailleurs salariés

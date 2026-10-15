@@ -11,7 +11,7 @@ date: 2017-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/15/2018031785/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2017. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijke Gewest betreffende de uitvoering van de verordening (EG) nr. 1221/2009 van het Europees Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieuaudit systeem (EMAS), en tot intrekking van verordening (EG) nr. 761/2001 en van de beschikkingen 2001/681/EG en 2006/193/EG van de Commissie

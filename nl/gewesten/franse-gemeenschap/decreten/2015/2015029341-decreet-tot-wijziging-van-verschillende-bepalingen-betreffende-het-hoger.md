@@ -12,7 +12,7 @@ published: 2015-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029341/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet tot wijziging van verschillende bepalingen betreffende het hoger onderwijs

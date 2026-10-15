@@ -13,7 +13,7 @@ entry_into_force: 2019-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203777/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschapscommissie en het Waals Gewest van 24 januari 2019 inzake het vrije verkeer van personen met een handicap

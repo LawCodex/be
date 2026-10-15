@@ -11,7 +11,7 @@ published: 2002-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/22/2002000121/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2002. - Wet tot wijziging van de wet van 12 januari 1989 tot regeling van de wijze waarop de Brusselse Hoofdstedelijke Raad wordt verkozen en de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur.

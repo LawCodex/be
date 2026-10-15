@@ -13,7 +13,7 @@ entry_into_force: 1996-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/30/1996027234/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1995. - Décret portant règlement définitif du budget de la Région wallonne pour l'année 1991.

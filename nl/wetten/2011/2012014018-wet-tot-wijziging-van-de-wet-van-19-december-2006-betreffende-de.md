@@ -12,7 +12,7 @@ entry_into_force: 2012-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/12/28/2012014018/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 2011. - Wet tot wijziging van de wet van 19 december 2006 betreffende de exploitatieveiligheid van de spoorwegen, met het oog op de invoering van bestuurlijke boetes (geciteerd als : Wet bestuurlijke boetes DVIS)

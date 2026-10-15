@@ -13,7 +13,7 @@ entry_into_force: 2025-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/02/24/2025201531/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2025. - Décret-programme 2025

@@ -12,7 +12,7 @@ entry_into_force: 2022-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/01/2022040908/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2022. - Wet tot omzetting van Richtlijn (EU) 2019/789 van het Europees Parlement en de Raad van 17 april 2019 tot vaststelling van voorschriften inzake de uitoefening van auteursrechten en naburige rechten die van toepassing zijn op bepaalde onlineuitzendingen van omroeporganisaties en doorgifte van televisie- en radioprogramma's en tot wijziging van Richtlijn 93/83/EEG van de Raad

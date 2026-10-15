@@ -12,7 +12,7 @@ published: 2018-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/19/2018204344/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Decreet tot opname van het overkoepelend strategisch programma in de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

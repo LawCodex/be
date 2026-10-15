@@ -13,7 +13,7 @@ entry_into_force: 2002-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036018/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de republiek Armenië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 7 juni 2001.

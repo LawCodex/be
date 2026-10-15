@@ -11,7 +11,7 @@ date: 2001-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/10/08/2001033081/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OKTOBER 2001. - Decreet houdende instemming met de overeenkomst 182 van de Internationale Arbeidsorganisatie betreffende het verbod van de ergste vormen van kinderarbeid en de onmiddellijke maatregelen voor de afschaffing ervan, gedaan te Genève op 17 juni 1999 (VERTALING).

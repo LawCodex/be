@@ -12,7 +12,7 @@ entry_into_force: 2006-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/07/2006022296/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2006. - Loi modifiant la loi du 3 juillet 2005 relative aux droits des volontaires et la loi du 27 décembre 2005 portant des dispositions diverses.

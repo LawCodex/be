@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/04/2014029807/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 20-01-2015 et mise à jour au 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2014. - Décret portant confirmation des compétences terminales et savoirs requis à l'issue de la section de transition des humanités générales et technologiques en mathématiques, en sciences de base et en sciences générales et des compétences terminales et savoirs communs à l'issue de la section de qualification des humanités techniques et professionnelles en formation scientifique, en français, en [formation sociale et économique] ainsi qu'en formation historique et géographique (DCFR 2016-02-04/02 , art. 106, 002; En vigueur : 03-03-2016)

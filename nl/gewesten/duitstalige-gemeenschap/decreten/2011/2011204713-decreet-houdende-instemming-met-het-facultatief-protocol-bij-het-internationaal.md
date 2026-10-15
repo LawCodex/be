@@ -12,7 +12,7 @@ entry_into_force: 2011-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/23/2011204713/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2011. - Decreet houdende instemming met het facultatief protocol bij het internationaal verdrag inzake economische, sociale en culturele rechten, opgemaakt in New York op 10 december 2008

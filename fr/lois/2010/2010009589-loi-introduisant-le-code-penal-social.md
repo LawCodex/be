@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/06/2010009589/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2010 et mise à jour au 01-08-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2010. - Loi introduisant le Code pénal social

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/06/21/1983013264/justel"
 department: "Volksgezondheid en Gezin - Landbouw"
 justel_note: "Raadpleging van vroegere versies vanaf 08-06-1995 en tekstbijwerking tot 16-05-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 1983. - Wet betreffende gemedicineerde diervoeders.

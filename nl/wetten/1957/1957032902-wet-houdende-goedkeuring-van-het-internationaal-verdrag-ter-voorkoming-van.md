@@ -11,7 +11,7 @@ published: 1957-06-21
 entry_into_force: 1957-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1957/03/29/1957032902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 1957. - Wet houdende goedkeuring van het internationaal verdrag ter voorkoming van verontreiniging va de zee door olie, van de bijlagen, van de slotakte en van de resoluties, ondertekend op 12 Mei 1954, te Londen.

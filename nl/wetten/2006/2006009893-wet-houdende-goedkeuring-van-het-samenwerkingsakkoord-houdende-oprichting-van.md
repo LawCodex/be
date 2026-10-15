@@ -10,7 +10,7 @@ date: 2006-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006009893/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet houdende goedkeuring van het samenwerkingsakkoord houdende oprichting van een Nationale Commissie voor de rechten van het kind, gesloten te Brussel, op 19 september 2005, tussen de Staat, de Vlaamse Gemeenschap, het Vlaams Gewest, de Franse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap, het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie.

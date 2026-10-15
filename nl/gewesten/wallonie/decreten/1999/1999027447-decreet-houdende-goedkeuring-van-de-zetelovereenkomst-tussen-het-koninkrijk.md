@@ -13,7 +13,7 @@ entry_into_force: 1993-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027447/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet houdende goedkeuring van de Zetelovereenkomst tussen het Koninkrijk België en het Europees Ruimte-Agentschap, opgemaakt te Parijs op 26 januari 1993 (VERTALING).

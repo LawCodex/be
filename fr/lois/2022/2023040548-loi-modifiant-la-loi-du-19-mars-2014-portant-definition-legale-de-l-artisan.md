@@ -12,7 +12,7 @@ entry_into_force: 2023-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/16/2023040548/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2022. - Loi modifiant la loi du 19 mars 2014 portant définition légale de l'artisan

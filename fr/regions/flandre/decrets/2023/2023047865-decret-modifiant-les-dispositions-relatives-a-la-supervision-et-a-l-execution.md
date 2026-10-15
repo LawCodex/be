@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/27/2023047865/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2023. - Décret modifiant les dispositions relatives à la supervision et à l'exécution dans le domaine politique de l'Emploi et de l'Economie sociale

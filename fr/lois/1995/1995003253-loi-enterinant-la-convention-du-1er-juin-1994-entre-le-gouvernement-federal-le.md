@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/22/1995003253/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1995. - Loi entérinant la convention du 1er juin 1994 entre le Gouvernement fédéral, le Gouvernement flamand, le Gouvernement régional wallon et le Gouvernement de la Région de Bruxelles-Capitale relative au règlement des dettes du passé et charges s'y rapportant en matière de logement social, et contenant certaines dispositions fiscales et financières en vue de l'application de ladite convention.

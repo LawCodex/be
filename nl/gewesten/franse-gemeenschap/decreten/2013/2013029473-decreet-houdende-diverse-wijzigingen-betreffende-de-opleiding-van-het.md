@@ -12,7 +12,7 @@ published: 2013-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/17/2013029473/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Decreet houdende diverse wijzigingen betreffende de opleiding van het gezondheidspersoneel

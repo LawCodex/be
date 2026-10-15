@@ -12,7 +12,7 @@ published: 2009-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029352/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming met het Samenwerkingsakkoord gesloten te Brussel, op 27 maart 2009, tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de oprichting van de "Service francophone des Métiers et des Qualifications", afgekort " S.F.M.Q. "

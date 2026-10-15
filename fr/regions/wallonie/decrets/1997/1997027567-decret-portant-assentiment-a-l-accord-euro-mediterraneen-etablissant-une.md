@@ -13,7 +13,7 @@ entry_into_force: 1997-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/23/1997027567/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1997. - Décret portant assentiment à l'Accord euro-méditerranéen établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République de Tunisie, d'autre part, aux Annexes 1, 2, 3, 4, 5, 6 et 7, aux Protocoles 1, 2, 3, 4 et 5, et à l'Acte final, faits à Bruxelles le 17 juillet 1995.

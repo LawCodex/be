@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/09/2017012934/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2017. - Décret portant assentiment au protocole relatif à la convention sur le travail forcé de 1930, adopté à Genève le 11 juin 2014 par la Conférence internationale du travail lors de sa 103e session

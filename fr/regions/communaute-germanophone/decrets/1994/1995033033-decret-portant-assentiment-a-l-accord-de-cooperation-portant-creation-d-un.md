@@ -13,7 +13,7 @@ entry_into_force: 1995-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/15/1995033033/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 1994. - Décret portant assentiment à l'accord de coopération portant création d'un Comité consultatif de bioéthique. (TRADUCTION)

@@ -12,7 +12,7 @@ entry_into_force: 2018-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/01/20/2018010192/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2017. - Wet houdende instemming met de Overeenkomst inzake een gemeenschappelijke luchtvaartruimte tussen de Europese unie en haar lidstaten en de Republiek Moldavië, gedaan te Brussel op 26 juni 2012

@@ -13,7 +13,7 @@ entry_into_force: 2008-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/29/2008201041/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2008. - Decreet houdende bekrachtiging van het besluit van de Vlaamse Regering van 7 september 2007 houdende de aanvulling van de Code voor reclame en sponsoring op radio en televisie met specifieke bepalingen over reclame en sponsoring, gericht op kinderen en jongeren.

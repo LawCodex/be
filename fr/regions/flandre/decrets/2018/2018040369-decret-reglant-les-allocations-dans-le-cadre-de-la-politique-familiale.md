@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/27/2018040369/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-07-2018 et mise à jour au 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2018. - Décret réglant les allocations dans le cadre de la politique familiale

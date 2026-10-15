@@ -13,7 +13,7 @@ entry_into_force: 2020-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/12/2020041717/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2020. - Décret modifiant le décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse

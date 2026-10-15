@@ -13,7 +13,7 @@ entry_into_force: 1994-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/16/1994031351/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1994. - Décret ajustant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 1994.

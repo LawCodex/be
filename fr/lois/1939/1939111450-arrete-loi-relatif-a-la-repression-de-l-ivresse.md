@@ -13,7 +13,7 @@ last_amended: 2023-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1939/11/14/1939111450/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2009 et mise à jour au 06-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 1939. - Arrêté-Loi relatif à la répression de l'ivresse.

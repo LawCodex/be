@@ -11,7 +11,7 @@ published: 2000-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000009742/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi modifiant l'article 26 de la loi du 25 mars 1999 relative à la réforme des cantons judiciaires.

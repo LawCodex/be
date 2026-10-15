@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/08/2001027333/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 16-06-2001 et mise à jour au 26-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2001. - Décret instituant une autorité indépendante chargée du contrôle et du suivi en matière de nuisances sonores aéroportuaires en Région wallonne

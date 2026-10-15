@@ -12,7 +12,7 @@ entry_into_force: 2014-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/06/2019040780/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Loi portant assentiment à l'Accord de siège avec échange de lettres entre le Royaume de Belgique et l'Organisation Internationale de Police Criminelle - INTERPOL (O.I.P.C - INTERPOL), fait à Lyon le 14 octobre 2014 et à Bruxelles le 24 octobre 2014

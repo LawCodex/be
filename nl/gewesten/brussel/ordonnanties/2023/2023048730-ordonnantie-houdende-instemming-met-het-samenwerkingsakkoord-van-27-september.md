@@ -13,7 +13,7 @@ entry_into_force: 2024-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/22/2023048730/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 27 september 2023 tussen het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende de sociale steun aan de huishoudens in het kader van de uitvoering van sociale maatregelen in de watersector

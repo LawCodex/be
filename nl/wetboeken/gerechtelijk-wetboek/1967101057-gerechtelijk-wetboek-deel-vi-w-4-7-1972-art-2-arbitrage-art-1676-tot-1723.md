@@ -12,7 +12,7 @@ last_amended: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101057/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 13-04-1985 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - GERECHTELIJK WETBOEK - Deel VI : &lt;W 4-7-1972, art. 2&gt; ARBITRAGE. (art. 1676 tot 1723) -

@@ -12,7 +12,7 @@ entry_into_force: 1998-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/13/1999015115/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1999. - Loi portant assentiment à l'Accord intergouvernemental et Protocole d'exécution sur une interprétation commune des Protocoles régissant l'association [monétaire] entre la Belgique et le Luxembourg à partir du passage à la troisième phase de l'Union économique et monétaire, signés à Bruxelles le 23 novembre 1998.

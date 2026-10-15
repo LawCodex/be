@@ -13,7 +13,7 @@ entry_into_force: 2014-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/03/2014029396/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Décret relatif à la prévention des risques pour la santé dans le sport

@@ -13,7 +13,7 @@ last_amended: 2026-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1878/04/17/1878041750/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1993 et mise à jour au 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 1878. - LOI CONTENANT LE TITRE PRELIMINAIRE DU CODE DE PROCEDURE PENALE. (Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties dont le titre préliminaire est la première partie)

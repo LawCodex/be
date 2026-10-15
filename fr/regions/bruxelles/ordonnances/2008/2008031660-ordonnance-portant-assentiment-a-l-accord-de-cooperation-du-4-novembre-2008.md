@@ -13,7 +13,7 @@ entry_into_force: 2008-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/12/19/2008031660/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Ordonnance portant assentiment à l'accord de coopération du 4 novembre 2008 conclu entre la Région flamande, la Région de Bruxelles-Capitale et la Région wallonne concernant la prévention et la gestion des déchets d'emballages.

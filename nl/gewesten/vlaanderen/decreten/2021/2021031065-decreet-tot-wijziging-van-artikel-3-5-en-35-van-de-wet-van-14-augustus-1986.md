@@ -13,7 +13,7 @@ entry_into_force: 2021-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/04/02/2021031065/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2021. - Decreet tot wijziging van artikel 3, 5 en 35 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat betreft onder andere de invoering van opleidingscentra voor interventiehonden

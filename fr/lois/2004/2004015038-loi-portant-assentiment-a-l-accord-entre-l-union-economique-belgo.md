@@ -12,7 +12,7 @@ entry_into_force: 2004-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/13/2004015038/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2004. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement du Royaume de Thaïlande concernant l'encouragement et la protection réciproques des investissements, et à l'Annexe, signé à Bruxelles le 12 juin 2002.

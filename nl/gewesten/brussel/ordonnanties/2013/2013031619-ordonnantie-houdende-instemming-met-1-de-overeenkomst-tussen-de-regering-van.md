@@ -13,7 +13,7 @@ entry_into_force: 2013-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/11/2013031619/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2013. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen en het Protocol, gedaan te Brussel op 7 oktober 2009; 2° de briefwisseling van 30 mei en 11 juli 2011

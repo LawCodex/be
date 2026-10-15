@@ -13,7 +13,7 @@ entry_into_force: 2019-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/28/2019200642/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2019. - Decreet houdende instemming met het Samenwerkingsakkoord van 20 juli 2017 tussen de Duitstalige Gemeenschap en het Waals Gewest, waarbij de Waalse aankoopcomités ertoe gemachtigd worden om handelingen met een onroerend karakter te stellen namens en voor rekening van de Duitstalige Gemeenschap en de entiteiten die onder de Duitstalige Gemeenschap ressorteren

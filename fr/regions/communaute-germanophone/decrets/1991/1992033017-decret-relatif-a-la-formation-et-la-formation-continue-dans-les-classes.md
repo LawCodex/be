@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/12/16/1992033017/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 02-07-1997 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1991. - Décret relatif à la formation et la formation continue dans les Classes moyennes et les PME. (Traduction)

@@ -12,7 +12,7 @@ entry_into_force: 1995-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/11/1999015188/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1998. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en de Conferentie van het Energiehandvest, ondertekend te Brussel op 26 oktober 1995

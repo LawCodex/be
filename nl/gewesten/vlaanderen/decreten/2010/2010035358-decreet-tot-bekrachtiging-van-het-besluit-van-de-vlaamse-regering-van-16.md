@@ -13,7 +13,7 @@ entry_into_force: 2010-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/04/23/2010035358/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2010. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 16 oktober 2009 tot vaststelling van de ontwikkelingsdoelen Nederlands voor nieuwkomers in de onthaalklas voor anderstalige nieuwkomers in het secundair onderwijs en tot wijziging van sommige eindtermen en ontwikkelingsdoelen in het secundair onderwijs

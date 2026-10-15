@@ -12,7 +12,7 @@ entry_into_force: 2014-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015106/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Protocol, gedaan te Berlijn op 23 juni 2009, tot wijziging van het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocol I en II, ondertekend te Luxemburg op 5 juni 2001, en houdende aanpassing van de Belgische belastingwetgeving aan sommige bepalingen van eerstgenoemd Protocol

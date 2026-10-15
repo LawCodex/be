@@ -13,7 +13,7 @@ entry_into_force: 1999-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035802/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'aide sociale (TRADUCTION).

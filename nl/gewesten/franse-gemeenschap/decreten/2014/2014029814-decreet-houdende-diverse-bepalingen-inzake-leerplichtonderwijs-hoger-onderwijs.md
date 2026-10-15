@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/18/2014029814/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2014 en tekstbijwerking tot 23-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2014. - Decreet houdende diverse bepalingen inzake leerplichtonderwijs, hoger onderwijs en jeugdbescherming

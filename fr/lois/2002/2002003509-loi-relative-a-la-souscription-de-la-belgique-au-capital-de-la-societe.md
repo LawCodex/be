@@ -12,7 +12,7 @@ entry_into_force: 2002-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/11/11/2002003509/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 NOVEMBRE 2002. - Loi relative à la souscription de la Belgique au capital de la Société interaméricaine d'Investissement.

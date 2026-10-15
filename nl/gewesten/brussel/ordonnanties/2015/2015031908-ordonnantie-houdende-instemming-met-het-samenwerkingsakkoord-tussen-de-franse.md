@@ -13,7 +13,7 @@ entry_into_force: 2016-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/18/2015031908/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Ordonnantie houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschap (ONE), de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aankoop van vaccins om de kinderen, de zwangere vrouwen en de adolescenten te beschermen

@@ -13,7 +13,7 @@ entry_into_force: 2002-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/08/2002027664/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2002. - Décret portant assentiment à l'Accord de coopération du 25 avril 2002 conclu entre la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale relatif à l'introduction d'une réduction de la taxe de mise en circulation sur la base de la norme d'émission du moteur (comme visé dans la Directive 98/69/C.E. du 13 octobre 1998) ou de la nature du combustible de propulsion, compte tenu de la neutralité fiscale et en vue de prévenir la concurrence entre les Régions au niveau de l'immatriculation des véhicules.HI:??2,Session 2001-2002. Documents du Conseil 355 (2001-2002) nos 1 et 2. Compte rendu intégral, séance publique du 8 juillet 2002. Discussion. - Vote.

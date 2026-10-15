@@ -11,7 +11,7 @@ published: 1972-06-30
 entry_into_force: 1972-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1972/06/26/1972062601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1972. - Wet houdende vermindering van het vereiste aantal dienstjaren in de ondergrondse steenkolenmijnen voor het toekennen van een volledig rustpensioen.

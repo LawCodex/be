@@ -13,7 +13,7 @@ entry_into_force: 2020-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/19/2020041884/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2020. - Decreet houdende instemming met het samenwerkingsakkoord van 28 december 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de samenwerking tussen inspectiediensten in het kader van de bevoegdheden inzake gezinsbijslagen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/07/2017014290/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 14-12-2017 et mise à jour au 10-12-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Ordonnance contenant des dispositions diverses en vue de la reprise du service du précompte immobilier et modifiant l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale

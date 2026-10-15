@@ -13,7 +13,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/21/2023200400/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2022. - Decreet tot wijziging van het decretale deel van het Wetboek van Ruimtelijke Ontwikkeling en tot wijziging van het decreet van 18 maart 2002 betreffende de infrastructuur

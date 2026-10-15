@@ -12,7 +12,7 @@ entry_into_force: 2014-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/28/2014004017/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Loi portant assentiment à l'Accord de coopération du 13 décembre 2013 entre l'Etat fédéral, les Communautés, les Régions et les Commissions communautaires, relatif à la mise en oeuvre de l'article 3, § 1er du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire

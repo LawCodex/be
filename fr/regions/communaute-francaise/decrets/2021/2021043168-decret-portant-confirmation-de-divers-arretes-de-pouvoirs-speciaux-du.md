@@ -13,7 +13,7 @@ entry_into_force: 2021-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/28/2021043168/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2021. - Décret portant confirmation de divers arrêtés de pouvoirs spéciaux du Gouvernement de la Communauté française en matière d'enseignement obligatoire conformément à l'article 3, alinéa 1er, du décret du 14 novembre 2020 octroyant des pouvoirs spéciaux au Gouvernement en vue de réagir à la deuxième vague de la crise sanitaire du COVID-19 et portant diverses mesures relatives à l'organisation de la fin d'année scolaire 2020-2021

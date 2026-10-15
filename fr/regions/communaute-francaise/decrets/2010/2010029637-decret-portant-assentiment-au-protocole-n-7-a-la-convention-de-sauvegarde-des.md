@@ -13,7 +13,7 @@ entry_into_force: 2010-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/10/13/2010029637/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2010. - Décret portant assentiment au Protocole n° 7 à la Convention de Sauvegarde des Droits de l'Homme et des Libertés fondamentales, fait à Strasbourg le 22 novembre 1984

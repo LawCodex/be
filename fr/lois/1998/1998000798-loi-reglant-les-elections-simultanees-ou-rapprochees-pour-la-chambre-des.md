@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/18/1998000798/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1998 et mise à jour au 24-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1998. - Loi réglant les élections simultanées ou rapprochées pour [la Chambre des représentants], le Parlement européen et les [Parlements de communauté et de région]. &lt;Intitulé modifié par L 2006-03-27/34 , art. 188, 003; En vigueur : 21-04-2006&gt; &lt;Intitulé modifié par L 2014-01-06/62 , art. 151, 006; En vigueur : 25-05-2014&gt;

@@ -11,7 +11,7 @@ published: 1978-12-20
 entry_into_force: 1978-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/03/02/1978030206/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1978. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Republiek Finland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 18 mei 1976.

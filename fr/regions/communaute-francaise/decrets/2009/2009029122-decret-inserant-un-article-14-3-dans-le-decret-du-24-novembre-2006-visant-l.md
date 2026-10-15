@@ -13,7 +13,7 @@ entry_into_force: 2009-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/23/2009029122/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2009. - Décret insérant un article 14, 3°, dans le décret du 24 novembre 2006 visant l'octroi d'une licence de tireur sportif

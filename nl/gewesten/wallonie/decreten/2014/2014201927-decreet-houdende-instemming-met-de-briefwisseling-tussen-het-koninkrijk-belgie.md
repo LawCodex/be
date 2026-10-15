@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014201927/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet houdende instemming met de Briefwisseling tussen het Koninkrijk België en de OHQ EU van de operatie ALTHEA gevestigd bij de SHAPE, vertegenwoordigd door zijn Commandant, ter aanvulling van de Briefwisseling tussen het Koninkrijk België en de OHQ EU van de operatie ALTHEA van 10 juli 2006 en 14 juli 2006, betreffende de toekenning van een vrijstelling van de verkeersbelasting en van de belasting op de inverkeerstelling aan de leden van het Hoofdkwartier ALTHEA van 30 januari 2008 en 22 mei 2008

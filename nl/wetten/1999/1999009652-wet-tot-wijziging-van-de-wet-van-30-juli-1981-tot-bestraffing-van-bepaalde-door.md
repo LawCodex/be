@@ -12,7 +12,7 @@ entry_into_force: 1999-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999009652/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet tot wijziging van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden alsook de wet van 23 maart 1995 tot bestraffing van het ontkennen, minimaliseren, rechtvaardigen of goedkeuren van de genocide die tijdens de tweede wereldoorlog door het Duitse nationaal-socialistische regime is gepleegd.

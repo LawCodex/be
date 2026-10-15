@@ -13,7 +13,7 @@ entry_into_force: 2023-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/07/2023043722/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2023. - Decreet tot wijziging van artikel 14/1 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat de regeling bij onbeschikbaarheid van interne digitale dossierbehandelingssystemen betreft

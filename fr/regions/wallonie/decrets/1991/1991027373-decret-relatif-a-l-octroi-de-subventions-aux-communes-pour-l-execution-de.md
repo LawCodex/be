@@ -13,7 +13,7 @@ entry_into_force: 1991-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/06/27/1991027373/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1991. - Décret relatif à l'octroi de subventions aux communes pour l'exécution de travaux d'éclairage public destinés à réaliser des économies d'énergie.

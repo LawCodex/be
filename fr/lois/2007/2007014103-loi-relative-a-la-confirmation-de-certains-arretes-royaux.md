@@ -12,7 +12,7 @@ entry_into_force: 2007-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/08/2007014103/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2007. - Loi relative à la confirmation de certains arrêtés royaux.

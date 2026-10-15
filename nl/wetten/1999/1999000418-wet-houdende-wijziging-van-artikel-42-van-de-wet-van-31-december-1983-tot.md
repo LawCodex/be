@@ -12,7 +12,7 @@ entry_into_force: 1999-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/06/1999000418/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Wet houdende wijziging van artikel 42 van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap.

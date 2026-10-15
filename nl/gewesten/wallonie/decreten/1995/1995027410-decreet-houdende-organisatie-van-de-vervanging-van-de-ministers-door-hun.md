@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/07/13/1995027410/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-07-1995 en tekstbijwerking tot 30-12-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1995. - Decreet houdende organisatie van de vervanging van de Ministers door hun parlementaire plaatsvervangers. (VERTALING)

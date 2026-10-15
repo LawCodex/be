@@ -15,7 +15,7 @@ justel_notes:
   - "Voor het Brussels Hoofdstedelijk Gewest, zie apart versie van deze wet, W 1973-07-12/36 "
   - "Voor het Waalse Gewest, zie apart versie van deze wet, W 1973-07-12/34 "
   - "Raadpleging van vroegere versies vanaf 17-04-1985 en tekstbijwerking tot 21-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1973. - Wet op het natuurbehoud. - Federale Staat

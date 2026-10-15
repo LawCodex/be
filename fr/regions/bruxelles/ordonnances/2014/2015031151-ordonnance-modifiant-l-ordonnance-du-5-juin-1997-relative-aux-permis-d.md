@@ -13,7 +13,7 @@ entry_into_force: 2015-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2015031151/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance modifiant l'ordonnance du 5 juin 1997 relative aux permis d'environnement

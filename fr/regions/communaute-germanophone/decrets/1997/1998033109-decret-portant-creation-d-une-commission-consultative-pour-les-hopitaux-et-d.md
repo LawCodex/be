@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/20/1998033109/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 13-04-2010 et mise à jour au 07-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 1997. - [Décret portant création d'une Commission consultative pour les hôpitaux et d'une Commission consultative pour les structures d'hébergement, d'accompagnement et de soins pour personnes âgées ainsi que pour l'aide à domicile](TRADUCTION). &lt;DCG 2010-03-15/14 , art. 12, 002; En vigueur : 14-10-2010&gt;

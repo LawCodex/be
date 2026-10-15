@@ -13,7 +13,7 @@ entry_into_force: 2007-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/22/2007203559/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2007. - Decreet tot wijziging van Boek I van het Milieuwetboek met betrekking tot het voorkomen en herstellen van milieuschade (VERTALING).

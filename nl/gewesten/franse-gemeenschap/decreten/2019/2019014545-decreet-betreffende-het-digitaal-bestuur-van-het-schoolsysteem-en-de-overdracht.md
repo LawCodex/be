@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019014545/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-09-2019 en tekstbijwerking tot 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet betreffende het digitaal bestuur van het schoolsysteem en de overdracht van digitale gegevens in het leerplichtonderwijs

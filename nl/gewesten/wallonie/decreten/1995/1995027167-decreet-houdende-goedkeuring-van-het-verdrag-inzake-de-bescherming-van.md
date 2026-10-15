@@ -13,7 +13,7 @@ entry_into_force: 1995-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/16/1995027167/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1995. - Decreet houdende goedkeuring van het Verdrag inzake de bescherming van vleermuizen in Europa, ondertekend in Londen op 4 december 1991. (VERTALING)

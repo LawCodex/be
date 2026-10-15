@@ -13,7 +13,7 @@ entry_into_force: 2021-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/19/2021042669/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2021. - Décret modifiant le décret du 21 novembre 2003 relatif à la politique de santé préventive et le décret du 29 mai 2020 portant organisation du suivi des contacts centralisé par une structure de coopération de partenaires externes, du suivi des contacts local par les administrations locales ou les conseils des soins et portant organisation des équipes COVID-19 dans le cadre du COVID-19

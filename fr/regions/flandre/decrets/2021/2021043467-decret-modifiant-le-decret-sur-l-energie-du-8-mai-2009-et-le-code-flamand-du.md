@@ -13,7 +13,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/19/2021043467/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2021. - Décret modifiant le Décret sur l'Energie du 8 mai 2009 et le Code flamand du Logement de 2021

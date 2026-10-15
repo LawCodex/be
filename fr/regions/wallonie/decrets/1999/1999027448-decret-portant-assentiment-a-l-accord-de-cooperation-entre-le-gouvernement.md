@@ -13,7 +13,7 @@ entry_into_force: 1999-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027448/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement wallon et le Gouvernement de la Communauté francaise de Belgique, d'une part, et le Gouvernement de la Roumanie, d'autre part, fait à Bucarest le 21 mai 1998 ainsi qu'à l'Accord de coopération scientifique et technologique entre le Ministre des Relations internationales de la Région wallonne, le Ministre des Relations internationales de la Communauté francaise de Belgique, d'une part, et le Ministre de la Recherche et de la Technologie de Roumanie, d'autre part, et à l'annexe, faits à Bruxelles le 25 juin 1997.

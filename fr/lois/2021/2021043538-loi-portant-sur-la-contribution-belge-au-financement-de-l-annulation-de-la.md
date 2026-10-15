@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/20/2021043538/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2021. - Loi portant sur la contribution belge au financement de l'annulation de la dette consentie par le Fonds Monétaire International au profit de la Somalie

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/07/19/1983A12631/justel"
 department: "Communauté germanophone - Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 18-07-2016 et mise à jour au 24-08-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1983. - [Loi relative à l'apprentissage industriel ] - (COMMUNAUTE GERMANOPHONE) &lt;Intitulé modifié par DCG 2016-06-20/05 , art. 1 , 002; En vigueur : 2016-09-01&gt;

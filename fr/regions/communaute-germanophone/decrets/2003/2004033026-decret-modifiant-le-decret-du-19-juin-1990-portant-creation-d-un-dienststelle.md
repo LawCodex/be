@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/16/2004033026/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2003. - Décret modifiant le décret du 19 juin 1990 portant création d'un "Dienststelle der Deutschsprachigen Gemeinschaft für Personen mit einer Behinderung" (Office de la Communauté germanophone pour les Personnes handicapées) (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2025-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/10/23/2025A08218/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2025. - Accord de coopération du 19 avril 2024 entre l'Etat fédéral et la Communauté germanophone en matière d'assistance aux victimes

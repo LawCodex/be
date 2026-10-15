@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/06/02/2010009584/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-06-2010 en tekstbijwerking tot 22-08-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2010. - Wet tot wijziging van het Burgerlijk Wetboek teneinde de werking van de mede-eigendom te moderniseren en transparanter te maken

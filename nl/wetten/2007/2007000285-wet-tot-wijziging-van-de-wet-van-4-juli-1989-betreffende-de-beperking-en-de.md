@@ -12,7 +12,7 @@ entry_into_force: 2007-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/23/2007000285/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2007. - Wet tot wijziging van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezingen van de federale Kamers, de financiering en de open boekhouding van de politieke partijen en van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.

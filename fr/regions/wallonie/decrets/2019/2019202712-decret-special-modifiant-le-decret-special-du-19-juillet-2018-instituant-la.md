@@ -13,7 +13,7 @@ entry_into_force: 2019-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019202712/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret spécial modifiant le décret spécial du 19 juillet 2018 instituant la consultation populaire

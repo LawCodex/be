@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/07/2011029403/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2011. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Communauté germanophone relatif à l'achat de vaccins destinés à protéger les enfants et les adolescents

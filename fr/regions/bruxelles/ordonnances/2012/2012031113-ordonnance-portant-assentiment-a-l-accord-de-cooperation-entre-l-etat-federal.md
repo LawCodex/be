@@ -13,7 +13,7 @@ entry_into_force: 2012-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/01/2012031113/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2012. - Ordonnance portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi qu'aux restrictions applicables à ces substances (REACH)

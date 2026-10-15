@@ -13,7 +13,7 @@ entry_into_force: 2003-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/04/2003031103/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2002. - Décret relatif au contrôle des communications gouvernementales.

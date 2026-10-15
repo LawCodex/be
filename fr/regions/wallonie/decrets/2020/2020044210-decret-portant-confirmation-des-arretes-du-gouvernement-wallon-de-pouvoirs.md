@@ -13,7 +13,7 @@ entry_into_force: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/03/2020044210/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2020. - Décret portant confirmation des arrêtés du Gouvernement wallon de pouvoirs spéciaux pris dans le cadre de la gestion de la crise sanitaire liée au COVID-19 pour les matières visées à l'article 138 de la Constitution

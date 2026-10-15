@@ -12,7 +12,7 @@ entry_into_force: 2005-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/11/2005022405/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2005. - Loi adaptant la version française et établissant la version néerlandaise de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques.

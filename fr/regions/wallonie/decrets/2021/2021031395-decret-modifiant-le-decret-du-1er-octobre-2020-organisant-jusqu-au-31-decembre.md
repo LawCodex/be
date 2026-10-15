@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/01/2021031395/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2021. - Décret modifiant le décret du 1er octobre 2020 organisant jusqu'au 31 décembre 2020 la tenue des réunions des organes des intercommunales, des sociétés à participation publique locale significative, des associations de pouvoirs publics visées à l'article 118 de la loi du 8 juillet 1976 organique des centres publics d'action sociale, des sociétés de logement de service public, des ASBL communales ou provinciales, des régies communales ou provinciales autonomes, d'associations de projet ou de tout autre organisme supra-local ayant pris la forme d'une société ou d'une association

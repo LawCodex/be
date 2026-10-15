@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008029389/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 04-09-2008 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - [Décret relatif aux membres du personnel administratif des Hautes Ecoles, des Ecoles supérieures des Arts et des Instituts supérieurs d'Architecture organisés ou subventionnés par la Communauté française.] &lt;Intitulé remplacé par DCFR 2009-02-19/51 , art. 1, 002; En vigueur : 15-09-2009&gt;

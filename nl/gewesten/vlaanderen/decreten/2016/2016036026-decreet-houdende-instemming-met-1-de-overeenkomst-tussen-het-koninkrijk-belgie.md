@@ -13,7 +13,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/03/2016036026/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2016. - Decreet houdende instemming met: 1° de overeenkomst tussen het Koninkrijk België en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Mexico op 24 november 1992, zoals gewijzigd door het protocol van 26 augustus 2013; 2° het protocol, ondertekend te Mexico op 26 augustus 2013, tot wijziging van de onder 1° vermelde overeenkomst

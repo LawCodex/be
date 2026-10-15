@@ -13,7 +13,7 @@ entry_into_force: 2009-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/26/2009029379/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Decreet houdende wijziging van het decreet van 17 juli 2002 houdende hervorming van de " Office de la Naissance et de l'Enfance ", afgekort " O.N.E. " en van het decreet van 3 juli 2003 betreffende de coördinatie van de opvang van de kinderen tijdens hun vrije tijd en betreffende de ondersteuning van de buitenschoolse opvang

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/15/2008029169/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-04-2008 en tekstbijwerking tot 02-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2008. - [Decreet tot instelling van een hoge raad en zoneraden van de psycho-medisch-sociale centra] &lt;DFG 2013-10-17/03 , art. 76, 002; Inwerkingtreding : 01-09-2013&gt; (VERTALING)

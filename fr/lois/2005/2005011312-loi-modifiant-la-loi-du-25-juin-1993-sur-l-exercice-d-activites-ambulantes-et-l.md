@@ -12,7 +12,7 @@ entry_into_force: 2005-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/04/2005011312/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2005. - Loi modifiant la loi du 25 juin 1993 sur l'exercice d'activités ambulantes et l'organisation des marchés publics.

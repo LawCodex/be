@@ -12,7 +12,7 @@ entry_into_force: 1986-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/09/02/1986015018/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 1985. - Loi portant approbation de la Convention européenne pour la répression du terrorisme, faite à Strasbourg le 27 janvier 1977 et de l'Accord entre les Etats membres des Communautés européennes concernant l'application de la Convention européenne pour la répression du terrorisme, fait à Dublin le 4 décembre 1979.

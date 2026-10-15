@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/28/2004029053/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2004. - Décret portant organisation au sein de l'Université de Liège d'un département en sciences et gestion de l'environnement en Province de Luxembourg et autorisant le transfert du personnel et du patrimoine de l'a.s.b.l. Fondation universitaire luxembourgeoise au patrimoine de l'Université de Liège.

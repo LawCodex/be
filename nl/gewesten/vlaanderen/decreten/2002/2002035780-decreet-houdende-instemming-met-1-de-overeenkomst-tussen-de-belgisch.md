@@ -13,7 +13,7 @@ entry_into_force: 2002-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/17/2002035780/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2002. - Decreet houdende instemming met :1° de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van de republiek Cuba inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 19 mei 1998; 2° de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Verenigde Mexicaanse Staten inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Mexico op 27 augustus 1998; 3° de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van de republiek El Salvador inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 12 oktober 1999

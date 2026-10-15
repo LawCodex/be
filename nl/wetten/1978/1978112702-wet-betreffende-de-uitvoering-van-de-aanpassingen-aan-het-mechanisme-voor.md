@@ -11,7 +11,7 @@ published: 1978-12-12
 entry_into_force: 1978-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/11/27/1978112702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1978. - Wet betreffende de uitvoering van de aanpassingen aan het mechanisme voor financiële bijstand op middellange termijn ingesteld in het raam van de Europese gemeenschappen.

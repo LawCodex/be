@@ -13,7 +13,7 @@ entry_into_force: 2023-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/30/2023043604/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2023. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2023

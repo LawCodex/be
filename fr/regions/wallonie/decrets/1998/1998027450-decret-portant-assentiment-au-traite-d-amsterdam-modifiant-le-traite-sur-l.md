@@ -13,7 +13,7 @@ entry_into_force: 1998-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/23/1998027450/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1998. - Décret portant assentiment au Traité d'Amsterdam modifiant le Traité sur l'Union européenne, les Traités instituant les Communautés européennes et certains actes connexes, à l'Annexe, aux Protocoles additionnels et à l'Acte final, faits à Amsterdam le 2 octobre 1997.

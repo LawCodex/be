@@ -12,7 +12,7 @@ entry_into_force: 2019-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/04/23/2020040971/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2020. - Loi portant des modifications du Code de la taxe sur la valeur ajoutée, du Code des impôts sur les revenus 1992, du Code du recouvrement amiable et forcé des créances fiscales et non fiscales, et de la loi-programme (I) du 29 mars 2012, en ce qui concerne le traitement des données à caractère personnel transmises via l'e-notariat

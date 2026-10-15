@@ -12,7 +12,7 @@ entry_into_force: 2025-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/10/16/2025007975/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2025. - Loi modifiant la loi du 19 mars 2023 modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, en ce qui concerne le système d'entrée/sortie

@@ -13,7 +13,7 @@ entry_into_force: 2010-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/16/2010035569/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2010. - Décret portant assentiment à la convention de protection du patrimoine culturel sous-marin, adoptée à Paris le 2 novembre 2001

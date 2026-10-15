@@ -13,7 +13,7 @@ entry_into_force: 2015-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/04/2014029805/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2014. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et Antigua et Barbuda en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 7 décembre 2009

@@ -12,7 +12,7 @@ entry_into_force: 2006-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/24/2006015148/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2006. - Loi portant assentiment à l'Accord entre les Etats membres de l'Union européenne relatif au statut du personnel militaire et civil détaché auprès des institutions de l'Union européenne, des quartiers généraux et des forces pouvant être mis à la disposition de l'Union européenne dans le cadre de la préparation et de l'exécution des missions visées à l'article 17, paragraphe 2, du Traité sur l'Union européenne, y compris lors d'exercices, et du personnel militaire et civil des Etats membres mis à la disposition de l'Union européenne pour agir dans ce cadre (SOFA-UE), fait à Bruxelles le 17 novembre 2003.

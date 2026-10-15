@@ -13,7 +13,7 @@ entry_into_force: 2015-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/06/2015035414/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2015. - Decreet houdende instemming met het Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit, gedaan te Nagoya op 29 oktober 2010, alsmede met zijn bijlage

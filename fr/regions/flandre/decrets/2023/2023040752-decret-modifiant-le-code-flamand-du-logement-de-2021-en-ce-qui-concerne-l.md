@@ -13,7 +13,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/10/2023040752/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2023. - Décret modifiant le Code flamand du Logement de 2021, en ce qui concerne l'introduction d'un cadre de normes pour le logement temporaire de main-d'oeuvre

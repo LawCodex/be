@@ -12,7 +12,7 @@ entry_into_force: 2003-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/26/2003022885/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AOUT 2003. - Loi modifiant la loi du 10 décembre 1997 interdisant la publicité pour les produits tabac et créant un Fonds de lutte contre le tabagisme.

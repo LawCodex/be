@@ -12,7 +12,7 @@ entry_into_force: 1993-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/12/11/1993003122/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1992. - Loi relative aux coupons échus après le 30 juin 1992 et afférents à des titres de l'Etat frappés d'opposition avant le 1er juillet 1992.

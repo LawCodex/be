@@ -12,7 +12,7 @@ entry_into_force: 2007-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/04/2007003232/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2007. - Wet tot wijziging van artikel 249, § 1, tweede lid, van het Wetboek van registratie-, hypotheek- en griffierechten wat betreft de rechten verbonden aan een voornaamswijziging.

@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/20/1999003059/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 1999. - Loi supprimant les règles d'arrondissement de la base imposable en matière de taxes assimilées au timbre, de droits d'enregistrement et de droits de succession.

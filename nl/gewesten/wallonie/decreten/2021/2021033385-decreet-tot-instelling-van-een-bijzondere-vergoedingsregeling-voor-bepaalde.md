@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/23/2021033385/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 01-10-2021 en tekstbijwerking tot 20-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2021. - Decreet tot instelling van een bijzondere vergoedingsregeling voor bepaalde schade ten gevolge van de overstromingen en de zware regenval die zich van 14 tot en met 16 juli 2021 en op 24 juli 2021 hebben voorgedaan en die als openbare natuurramp zijn erkend

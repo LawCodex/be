@@ -13,7 +13,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/22/2024001668/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2024. - Ordonnance portant assentiment à l'accord de coopération du 22 novembre 2023 entre l'Etat fédéral, la Communauté française, la Communauté flamande, la Commission communautaire française et la Commission communautaire commune en matière d'assistance aux victimes pour la région bilingue de Bruxelles-Capitale

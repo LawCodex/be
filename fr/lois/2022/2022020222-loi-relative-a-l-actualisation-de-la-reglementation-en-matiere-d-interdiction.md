@@ -12,7 +12,7 @@ entry_into_force: 2022-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/01/24/2022020222/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2022. - Loi relative à l'actualisation de la règlementation en matière d'interdiction des appareils de communication électronique au volant

@@ -13,7 +13,7 @@ entry_into_force: 2003-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/27/2003029192/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Decreet houdende overgangsmaatregelen met het oog op de benoeming van personeelsleden van het onderwijs voor sociale promotie die houder zijn van een wervingsambt (VERTALING).

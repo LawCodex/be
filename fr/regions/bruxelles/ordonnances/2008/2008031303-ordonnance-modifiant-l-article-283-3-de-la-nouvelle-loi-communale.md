@@ -13,7 +13,7 @@ entry_into_force: 2008-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/06/12/2008031303/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2008. - Ordonnance modifiant l'article 283, 3° de la nouvelle loi communale.

@@ -12,7 +12,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024004526/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet tot wijziging van de gecoördineerde wet van 14 juli 1994 betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen voor wat de inwerkingtreding van het Nationaal Akkoord tandheelkundigen-ziekenfondsen 2024-2025 betreft

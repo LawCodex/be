@@ -13,7 +13,7 @@ entry_into_force: 2025-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/23/2025006389/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2025. - Décret portant assentiment aux actes internationaux suivants : 1° la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Moldavie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, faite à Bruxelles le 4 décembre 2008; 2° le Protocole, fait à Bruxelles le 30 mars 2017, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Moldavie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, faite à Bruxelles le 4 décembre 2008

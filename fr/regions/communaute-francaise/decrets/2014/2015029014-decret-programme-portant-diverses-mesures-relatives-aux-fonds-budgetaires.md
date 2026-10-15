@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/18/2015029014/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2014. - Décret-programme portant diverses mesures relatives aux fonds budgétaires figurant au budget général des dépenses de la Communauté française, aux dotations et subventions à certains organismes sous contrat de gestion, à l'enseignement obligatoire et de promotion sociale, aux Infrastructures, à l'Enfance, à la Culture, à la Jeunesse, aux conditions d'octroi de l'équivalence des diplômes et certificats d'études étrangers, à l'Académie de Recherche et d'Enseignement supérieur, au financement de l'enseignement supérieur universitaire et non universitaire et à la Recherche

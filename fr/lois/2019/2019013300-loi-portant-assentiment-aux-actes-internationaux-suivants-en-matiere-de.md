@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019013300/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi portant assentiment aux actes internationaux suivants en matière de propriété intellectuelle : 1° La Convention internationale pour la protection des obtentions végétales du 2 décembre 1961, révisée à Genève le 10 novembre 1972, le 23 octobre 1978 et le 19 mars 1991; 2° L'Accord sur l'application de l'article 65 de la Convention sur la délivrance de brevets européens, fait à Londres le 17 octobre 2000

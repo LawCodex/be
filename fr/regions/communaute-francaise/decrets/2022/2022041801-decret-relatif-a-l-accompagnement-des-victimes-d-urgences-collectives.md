@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/20/2022041801/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2024 et mise à jour au 23-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Décret relatif à l'accompagnement des victimes d'urgences collectives

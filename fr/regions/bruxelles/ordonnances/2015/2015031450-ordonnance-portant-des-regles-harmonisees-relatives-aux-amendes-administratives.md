@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/09/2015031450/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 17-07-2015 et mise à jour au 20-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2015. - Ordonnance portant des règles harmonisées relatives aux amendes administratives prévues par les législations en matière d'emploi et d'économie

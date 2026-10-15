@@ -12,7 +12,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/19/2025203783/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Wet tot wijziging van de programmawet van 18 juli 2025 betreffende de toepassingsmodaliteiten van de tijdelijke beperking van de indexering van de wettelijke pensioenen

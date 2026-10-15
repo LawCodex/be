@@ -13,7 +13,7 @@ entry_into_force: 2009-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/10/2009206000/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2009. - Decreet bedoeld voor het algemeen omzetten van de Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende de diensten op de interne markt wat betreft de aangelegenheden beoogd in artikel 138 van de Grondwet

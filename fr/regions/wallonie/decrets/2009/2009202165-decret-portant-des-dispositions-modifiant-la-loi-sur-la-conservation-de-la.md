@@ -13,7 +13,7 @@ entry_into_force: 2009-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202165/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant des dispositions modifiant la loi sur la conservation de la nature du 12 juillet 1973, le Livre Ier du Code de l'Environnement, le Code des droits d'enregistrement, d'hypothèque et de greffe et le décret du 27 juin 1996 relatif aux déchets

@@ -13,7 +13,7 @@ entry_into_force: 2017-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017205110/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2017. - Décret remplaçant l'article 124 de la loi du 8 juillet 1976 organique des centres publics d'action sociale

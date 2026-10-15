@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/03/18/2016022135/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 30-03-2016 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2016. - [Loi portant modification de la dénomination de l'Office national des Pensions en Service fédéral des Pensions, portant intégration des attributions et du personnel du Service des Pensions du Secteur Public, d'une partie des attributions et du personnel de la Direction générale Victimes de la Guerre, des missions "'Pensions"' des secteurs locaux et provinciaux de l'Office des régimes particuliers de sécurité sociale, de HR Rail et portant reprise du Service social collectif de l'Office des régimes particuliers de sécurité sociale](cité comme : Loi relative au Service fédéral des Pensions) &lt;L 2017-12-22/33 , art. 2, 002; En vigueur : 01-01-2018&gt;

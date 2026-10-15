@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/30/2014029210/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 09-04-2014 et mise à jour au 12-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Décret relatif à l'enseignement supérieur inclusif [pour les étudiants en situation de handicap] (Intitulé modifié par DCFR 2019-02-07/11 , art. 58, 003; En vigueur : 14-09-2019)

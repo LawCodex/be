@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995021182/justel"
 department: "Eerste Minister - Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 29-04-1995 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet houdende inrichting van de parlementaire overlegcommissie bedoeld in artikel 82 van de Grondwet en tot wijziging van de gecoördineerde wetten op de Raad van State. -

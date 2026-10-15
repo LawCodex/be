@@ -13,7 +13,7 @@ entry_into_force: 2016-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/17/2016201615/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2016. - Decreet houdende wijziging van het decreet van 6 mei 1999 betreffende de "Office wallon de la formation professionnelle et de l'emploi" (Waalse dienst voor beroepsopleiding en arbeidsbemiddeling)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/08/2014031464/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-2014 en tekstbijwerking tot 20-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Ordonnantie tot wijziging van het Brussels Wetboek van Ruimtelijke Ordening

@@ -13,7 +13,7 @@ entry_into_force: 2009-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202264/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende diverse wijzigingen van de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen, de Gemeentekieswet gecoördineerd op 4 augustus 1932, het Gemeentedecreet van 15 juli 2005 en het Provinciedecreet van 9 december 2005 wat de regeling van de procedure inzake verkiezingsbezwaren betreft

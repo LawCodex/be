@@ -12,7 +12,7 @@ entry_into_force: 2013-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/19/2013024114/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2013. - Loi portant des dispositions diverses en matière de santé (II)

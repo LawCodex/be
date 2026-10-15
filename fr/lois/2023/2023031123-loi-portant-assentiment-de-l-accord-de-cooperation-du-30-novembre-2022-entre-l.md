@@ -12,7 +12,7 @@ entry_into_force: 2023-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/14/2023031123/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2023. - Loi portant assentiment de l'accord de coopération du 30 novembre 2022 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de BruxellesCapitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire française et la Commission communautaire commune visant à instaurer un mécanisme de filtrage des investissements directs étrangers

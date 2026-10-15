@@ -12,7 +12,7 @@ entry_into_force: 2002-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/24/2002015131/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AUGUSTUS 2001. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Saoedi-Arabië inzake wederkerige vrijstellingen met betrekking tot belastingen naar het inkomen en naar winst, invoerrechten en sociale zekerheid, in het kader van het verrichten van luchtvervoer in internationaal verkeer en bijlage A, ondertekend te Riyadh op 22 februari 1997.

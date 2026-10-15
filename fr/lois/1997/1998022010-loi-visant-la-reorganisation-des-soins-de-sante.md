@@ -12,7 +12,7 @@ entry_into_force: 1998-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/10/1998022010/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 1997. - Loi visant la réorganisation des soins de santé.

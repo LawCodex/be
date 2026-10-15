@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/15/2023048515/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2023. - Decreet tot wijziging van artikel 6 van het decreet van 16 juli 2021 over zero-emissievoertuigen en voertuigen aangedreven door alternatieve brandstoffen, wat de verwerking van persoonsgegevens betreft

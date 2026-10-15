@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/03/2005009427/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-05-2005 et mise à jour au 30-12-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2005. - Loi modifiant la loi du 11 décembre 1998 relative à la classification et aux habilitations de sécurité.

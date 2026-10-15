@@ -13,7 +13,7 @@ entry_into_force: 2021-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/13/2018031587/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2018. - Decreet houdende de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik

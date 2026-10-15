@@ -13,7 +13,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/26/2026005639/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2026. - Decreet tot wijziging van diverse decreten naar aanleiding van de samenvoeging van het beleidsdomein Economie, Wetenschap en Innovatie, het beleidsdomein Werk en Sociale Economie en het beleidsdomein Landbouw en Visserij en de samenvoeging van het Departement Economie, Wetenschap en Innovatie en het Departement Werk en Sociale Economie

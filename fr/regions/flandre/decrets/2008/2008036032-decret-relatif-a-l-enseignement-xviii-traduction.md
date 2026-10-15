@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/04/2008036032/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2008 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2008. - Décret relatif à l'enseignement XVIII (TRADUCTION)

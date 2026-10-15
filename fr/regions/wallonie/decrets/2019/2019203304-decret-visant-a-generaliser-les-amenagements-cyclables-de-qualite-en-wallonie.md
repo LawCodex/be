@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/04/2019203304/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 15-07-2019 et mise à jour au 20-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Décret visant à généraliser les aménagements cyclables de qualité en Wallonie et à renforcer la sécurité des cyclistes

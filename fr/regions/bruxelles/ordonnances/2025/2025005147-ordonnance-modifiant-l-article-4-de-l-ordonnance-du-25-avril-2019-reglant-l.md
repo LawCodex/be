@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/03/2025005147/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2025. - Ordonnance modifiant l'article 4 de l'ordonnance du 25 avril 2019 réglant l'octroi des prestations familiales

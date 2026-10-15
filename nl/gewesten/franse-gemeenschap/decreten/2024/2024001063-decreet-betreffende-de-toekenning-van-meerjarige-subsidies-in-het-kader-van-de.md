@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/25/2024001063/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2024. - Decreet betreffende de toekenning van meerjarige subsidies in het kader van de uitvoering van het Brussels Geïntegreerd Welzijns- en Gezondheidsplan voor projecten in de sector van de bijstand aan personen en de gezondheidssector, met inbegrip van de gezondheidsbevordering

@@ -12,7 +12,7 @@ entry_into_force: 2013-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/05/23/2013009287/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2013. - Wet tot wijziging van artikel 2244 van het Burgerlijk Wetboek teneinde aan de ingebrekestellingsbrief van de advocaat, van de gerechtsdeurwaarder of van de persoon die krachtens artikel 728, § 3, van het Gerechtelijk Wetboek in rechte mag verschijnen, een verjaringsstuitende werking te verlenen

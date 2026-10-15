@@ -12,7 +12,7 @@ entry_into_force: 2011-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/05/12/2011024122/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2011. - Wet tot wijziging van de wet van 9 juli 1984 betreffende de invoer, de uitvoer en de doorvoer van afvalstoffen

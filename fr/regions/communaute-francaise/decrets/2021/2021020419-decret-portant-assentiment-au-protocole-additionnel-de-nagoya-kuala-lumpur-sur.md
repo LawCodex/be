@@ -13,7 +13,7 @@ entry_into_force: 2021-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/04/2021020419/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2021. - Décret portant assentiment au Protocole additionnel de Nagoya-Kuala Lumpur sur la responsabilité et la réparation relatif au protocole de Cartagena sur la prévention des risques biotechnologiques, fait à Nagoya le 15 octobre 2010

@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/06/1996027209/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 1996. - Décret portant application de la Convention du 1er juin 1994 entre le Gouvernement fédéral, le Gouvernement flamand, le Gouvernement wallon et le Gouvernement de la Région de Bruxelles-Capitale relative au règlement des dettes du passé et charges s'y rapportant en matière de logement social.

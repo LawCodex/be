@@ -12,7 +12,7 @@ entry_into_force: 2014-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/17/2013011345/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Wet houdende invoeging van Boek III " Vrijheid van vestiging, dienstverlening en algemene verplichtingen van de ondernemingen ", in het Wetboek van economisch recht en houdende invoeging van de definities eigen aan boek III en van de rechtshandhavingsbepalingen eigen aan boek III, in boeken I en XV van het Wetboek van economisch recht

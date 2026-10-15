@@ -13,7 +13,7 @@ entry_into_force: 2022-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/26/2022030484/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2022. - Décret modifiant le décret du 29 octobre 2021 relatif au COVID Safe Ticket, en ce qui concerne le relèvement de la limite d'âge inférieure pour l'utilisation du COVID Safe Ticket et l'association de la fin de vigueur du décret du 29 octobre 2021 à l'urgence épidémique

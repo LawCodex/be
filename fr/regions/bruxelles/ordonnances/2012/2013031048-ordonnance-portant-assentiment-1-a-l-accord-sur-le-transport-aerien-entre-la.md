@@ -13,7 +13,7 @@ entry_into_force: 2013-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/12/21/2013031048/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Ordonnance portant assentiment : 1° à l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Washington le 30 avril 2007, et 2° au Protocole modifiant l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Bruxelles le 24 juin 2010

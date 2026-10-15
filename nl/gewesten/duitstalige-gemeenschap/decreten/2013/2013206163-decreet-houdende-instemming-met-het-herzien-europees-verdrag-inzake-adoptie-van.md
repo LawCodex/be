@@ -13,7 +13,7 @@ entry_into_force: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/14/2013206163/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2013. - Decreet houdende instemming met het (herzien) Europees Verdrag inzake adoptie van kinderen, gedaan te Straatsburg op 27 november 2008

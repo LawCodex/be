@@ -12,7 +12,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/06/2022043183/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2022. - Wet tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer wat het instellen van een beroepsmogelijkheid tegen de immobilisering van een voertuig betreft

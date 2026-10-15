@@ -12,7 +12,7 @@ entry_into_force: 2020-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/11/30/2020043762/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2020. - Wet tot wijziging van de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur en de wet van 21 december 2009 betreffende het accijnsstelsel van alcoholvrije dranken en koffie

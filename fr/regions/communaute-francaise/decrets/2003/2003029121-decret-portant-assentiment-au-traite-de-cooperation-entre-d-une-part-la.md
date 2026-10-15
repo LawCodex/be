@@ -13,7 +13,7 @@ entry_into_force: 2003-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/20/2003029121/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2003. - Décret portant assentiment au Traité de coopération entre, d'une part, la Communauté française de Belgique, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale et, d'autre part, le Royaume des Pays-Bas, fait à Charleroi le 28 mars 2002.

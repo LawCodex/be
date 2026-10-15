@@ -12,7 +12,7 @@ entry_into_force: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/30/2018040109/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2018. - Loi relative à la non prise en considération de services en tant que personnel non nommé à titre définitif dans une pension du secteur public, modifiant la responsabilisation individuelle des administrations provinciales et locales au sein du Fonds de pension solidarisé, adaptant la règlementation des pensions complémentaires, modifiant les modalités de financement du Fonds de pension solidarisé des administrations provinciales et locales et portant un financement supplémentaire du Fonds de pension solidarisé des administrations provinciales et locales

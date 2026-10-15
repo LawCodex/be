@@ -13,7 +13,7 @@ entry_into_force: 2016-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/22/2016035782/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2016. - Decreet houdende instemming met de Euromediterrane luchtvaartovereenkomst tussen de Europese Unie, enerzijds, en de Regering van de Staat Israël, anderzijds, ondertekend in Luxemburg op 10 juni 2013

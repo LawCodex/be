@@ -12,7 +12,7 @@ entry_into_force: 2004-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/19/2004015044/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2004. - Loi portant assentiment à la Convention pénale sur la corruption, faite à Strasbourg le 27 janvier 1999.

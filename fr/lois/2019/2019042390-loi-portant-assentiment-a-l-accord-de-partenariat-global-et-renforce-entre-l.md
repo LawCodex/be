@@ -12,7 +12,7 @@ entry_into_force: 2021-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/17/2019042390/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2019. - Loi portant assentiment à l'Accord de partenariat global et renforcé entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d'une part, et la République d'Arménie, d'autre part, fait à Bruxelles le 24 novembre 2017

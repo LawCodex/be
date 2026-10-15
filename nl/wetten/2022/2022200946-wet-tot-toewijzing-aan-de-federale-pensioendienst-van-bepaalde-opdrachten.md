@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/01/2022200946/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2022. - Wet tot toewijzing aan de Federale Pensioendienst van bepaalde opdrachten inzake de aanvullende pensioenen van de contractuele personeelsleden van de provinciale en plaatselijke besturen

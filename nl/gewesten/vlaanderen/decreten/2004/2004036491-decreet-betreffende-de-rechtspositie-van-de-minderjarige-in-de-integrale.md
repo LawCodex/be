@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036491/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-10-2004 en tekstbijwerking tot 07-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp [en binnen het kader van het decreet betreffende het jeugddelinquentierecht]. &lt;DVR 2019-03-15/10 , art. 3, 009; Inwerkingtreding : 01-09-2019&gt;

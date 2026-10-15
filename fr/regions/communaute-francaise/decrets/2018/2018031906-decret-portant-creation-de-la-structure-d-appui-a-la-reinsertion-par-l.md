@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/06/2018031906/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 2018. - Décret portant création de la structure d'appui à la réinsertion par l'enseignement de promotion sociale en milieu carcéral

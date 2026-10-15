@@ -13,7 +13,7 @@ entry_into_force: 2014-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/21/2014035259/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2014. - Décret portant modification de diverses dispositions sur l'organisme de radiodiffusion télévisuelle régional du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision

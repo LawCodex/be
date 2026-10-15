@@ -12,7 +12,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/14/2023041749/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2023. - Loi modifiant la loi du 1er mars 2000 créant un Institut des juristes d'entreprises

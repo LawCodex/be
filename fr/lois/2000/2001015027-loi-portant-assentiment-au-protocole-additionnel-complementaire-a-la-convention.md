@@ -12,7 +12,7 @@ entry_into_force: 2001-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/29/2001015027/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBRE 2000. - Loi portant assentiment au Protocole additionnel complémentaire à la Convention entre les Etats, Parties au Traité de l'Atlantique Nord, et les autres Etats participant au Partenariat pour la paix sur le statut de leurs forces, fait à Bruxelles le 19 décembre 1997.

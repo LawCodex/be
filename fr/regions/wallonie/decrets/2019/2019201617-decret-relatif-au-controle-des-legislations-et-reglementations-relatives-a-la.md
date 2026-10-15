@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/28/2019201617/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 09-04-2019 et mise à jour au 03-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2019. - Décret relatif au contrôle des législations et réglementations relatives à la reconversion et au recyclage professionnels ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations

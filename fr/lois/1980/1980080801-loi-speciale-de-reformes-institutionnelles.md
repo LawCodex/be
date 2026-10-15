@@ -13,7 +13,7 @@ last_amended: 2024-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/08/08/1980080801/justel"
 justel_note: "Consultation des versions antérieures à partir du 13-08-1988 et mise à jour au 01-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1980. - Loi spéciale de réformes institutionnelles.

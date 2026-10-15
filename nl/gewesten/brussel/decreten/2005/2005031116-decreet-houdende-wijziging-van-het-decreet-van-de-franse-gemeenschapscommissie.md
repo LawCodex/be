@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/02/17/2005031116/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2005. - Decreet houdende wijziging van het decreet van de Franse Gemeenschapscommissie van 16 juli 1994 betreffende de erkenning en de subsidiëring van de centra voor gezinsplanning (VERTALING).

@@ -10,7 +10,7 @@ date: 2016-11-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/11/21/2016009565/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2016. - Wet betreffende bepaalde rechten van personen die worden verhoord

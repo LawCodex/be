@@ -11,7 +11,7 @@ entry_into_force: 2014-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/25/2014A15174/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2013. - Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de behandeling van Belgische verbruikte brandstoffen te La Hague, gedaan te Parijs op 25 april 2013

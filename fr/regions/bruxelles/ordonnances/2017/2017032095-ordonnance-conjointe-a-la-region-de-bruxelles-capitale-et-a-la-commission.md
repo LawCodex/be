@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/14/2017032095/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 24-01-2018 et mise à jour au 06-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2017. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune portant création d'une Commission bruxelloise de déontologie

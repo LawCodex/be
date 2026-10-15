@@ -12,7 +12,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003009462/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet ertoe strekkende het Belgische recht in overeenstemming te brengen met het Internationaal Verdrag tegen aanwerving, het inzetten, de financiering en de opleiding van huurlingen, aangenomen te New York op 4 december 1989.

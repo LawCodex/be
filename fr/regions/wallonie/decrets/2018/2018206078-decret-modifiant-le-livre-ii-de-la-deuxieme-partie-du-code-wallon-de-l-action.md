@@ -13,7 +13,7 @@ entry_into_force: 2018-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/08/2018206078/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2018. - Décret modifiant le livre II de la deuxième partie du Code wallon de l'Action sociale et de la Santé relatif à l'intégration des personnes étrangères ou d'origine étrangère

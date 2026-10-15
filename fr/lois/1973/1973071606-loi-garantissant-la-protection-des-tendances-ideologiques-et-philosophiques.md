@@ -13,7 +13,7 @@ last_amended: 2009-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/07/16/1973071606/justel"
 justel_note: "Consultation des versions antérieures à partir du 26-05-2009 et mise à jour au 26-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1973. - Loi garantissant la protection des tendances idéologiques et philosophiques .

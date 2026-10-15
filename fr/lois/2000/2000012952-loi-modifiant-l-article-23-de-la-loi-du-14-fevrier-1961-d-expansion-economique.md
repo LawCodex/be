@@ -12,7 +12,7 @@ entry_into_force: 2000-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/06/2000012952/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2000. - Loi modifiant l'article 23 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier.

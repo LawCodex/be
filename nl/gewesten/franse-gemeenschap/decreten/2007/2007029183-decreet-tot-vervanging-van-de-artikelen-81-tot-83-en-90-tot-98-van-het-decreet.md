@@ -13,7 +13,7 @@ entry_into_force: 2007-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/02/2007029183/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2007. - Decreet tot vervanging van de artikelen 81 tot 83 en 90 tot 98 van het decreet van 27 februari 2003 betreffende de radio-omroep, vernietigd door het Arbitragehof op 8 november 2006

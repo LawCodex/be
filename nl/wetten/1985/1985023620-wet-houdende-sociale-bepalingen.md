@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/08/01/1985023620/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 30-08-1986 en tekstbijwerking tot 10-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AUGUSTUS 1985. - Wet houdende sociale bepalingen.

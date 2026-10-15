@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/14/2023044829/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2023 et mise à jour au 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2023. - Décret-cadre relatif au maintien de la réglementation flamande

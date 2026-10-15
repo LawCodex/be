@@ -13,7 +13,7 @@ entry_into_force: 2011-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/06/2011202761/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2011. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République du Togo, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Lomé le 6 juin 2009

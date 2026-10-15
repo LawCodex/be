@@ -13,7 +13,7 @@ entry_into_force: 2025-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/27/2025002766/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2025. - Décret portant assentiment à l'Accord de protection des investissements entre l'Union européenne et ses Etats membres, d'une part, et la République socialiste du Viêt Nam, d'autre part, fait à Hanoï le 30 juin 2019

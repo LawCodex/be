@@ -13,7 +13,7 @@ entry_into_force: 2019-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/31/2019202554/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2019. - Decreet houdende instemming met de Kaderovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en Australië, anderzijds, gedaan te Manilla op 7 augustus 2017

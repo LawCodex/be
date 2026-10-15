@@ -13,7 +13,7 @@ entry_into_force: 2018-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/13/2018014217/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2018. - Décret confirmant l'arrêté du Gouvernement de la Communauté française du 6 juin 2018 déterminant les compétences et savoirs requis à l'issue du deuxième degré de la section de transition et les compétences terminales et savoirs requis à l'issue de la section de transition en " Arts du cirque " et " Arts circassiens "

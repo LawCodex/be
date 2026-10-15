@@ -13,7 +13,7 @@ entry_into_force: 1997-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/04/29/1997035834/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1997. - Decreet houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 1991.

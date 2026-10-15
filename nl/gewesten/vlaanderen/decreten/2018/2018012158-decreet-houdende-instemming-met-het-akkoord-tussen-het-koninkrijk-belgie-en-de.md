@@ -13,7 +13,7 @@ entry_into_force: 2013-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/04/2018012158/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2018. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur inzake de vestiging in België door deze organisatie van een verbindingsbureau bij de instellingen van de Europese Unie, met Bijlage, gedaan te Parijs op 3 juli 2013

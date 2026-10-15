@@ -13,7 +13,7 @@ entry_into_force: 2026-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/21/2026004162/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2026. - Decreet houdende oprichting van een eenmalige aanwervingsincentive

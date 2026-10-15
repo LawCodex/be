@@ -12,7 +12,7 @@ entry_into_force: 2017-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/09/2017012058/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2017. - Wet betreffende het Europees beschermingsbevel

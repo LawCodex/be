@@ -13,7 +13,7 @@ entry_into_force: 1996-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/01/1996033080/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1996. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 1994. (TRADUCTION).

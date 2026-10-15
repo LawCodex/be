@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/14/2000022478/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2000. - Loi modifiant la loi du 21 juin 1985 concernant l'enseignement et la loi du 4 août 1986 réglant la mise à la retraite des membres du personnel enseignant de l'enseignement universitaire et modifiant d'autres dispositions de la législation de l'enseignement.

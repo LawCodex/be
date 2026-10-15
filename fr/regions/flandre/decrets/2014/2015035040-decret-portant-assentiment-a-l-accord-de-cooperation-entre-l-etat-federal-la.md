@@ -13,7 +13,7 @@ entry_into_force: 2015-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/19/2015035040/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2014. - Decret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la Structure de Coordination de l'information patrimoniale

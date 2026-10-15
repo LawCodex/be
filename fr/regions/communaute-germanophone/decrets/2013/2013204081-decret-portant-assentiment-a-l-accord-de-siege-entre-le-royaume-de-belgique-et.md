@@ -13,7 +13,7 @@ entry_into_force: 2013-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/24/2013204081/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et le secrétariat du Conseil de coopération régionale, signé à Bruxelles le 29 août 2008

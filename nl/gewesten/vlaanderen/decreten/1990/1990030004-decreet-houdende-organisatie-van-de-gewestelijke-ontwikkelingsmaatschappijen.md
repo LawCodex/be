@@ -11,7 +11,7 @@ date: 1990-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/07/12/1990030004/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1990. - Decreet houdende organisatie van de Gewestelijke Ontwikkelingsmaatschappijen.

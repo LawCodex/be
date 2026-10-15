@@ -13,7 +13,7 @@ entry_into_force: 2014-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/12/20/2014031049/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - Ordonnantie betreffende de goedkeuring van het Samenwerkingsakkoord van 29 november 2013 tussen de Federale Overheid, de Gemeenschappen, de Gewesten en de Gemeenschapscommissies betreffende de uitvoering van artikel 3, § 1, van het Verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie en houdende goedkeuring van gewestelijke op begrotingsgebied geldende bepalingen, die aangepast zijn aan sommige bepalingen van voornoemd Akkoord

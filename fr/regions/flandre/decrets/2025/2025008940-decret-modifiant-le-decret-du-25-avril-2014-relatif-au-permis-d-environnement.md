@@ -13,7 +13,7 @@ entry_into_force: 2025-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/21/2025008940/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2025. - Décret modifiant le décret du 25 avril 2014 relatif au permis d'environnement, en ce qui concerne la prévention d'un conflit d'intérêts dans le cas des permis d'environnement demandés par une commune ou une province

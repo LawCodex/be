@@ -13,7 +13,7 @@ entry_into_force: 2021-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/23/2021204620/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2021. - Decreet houdende instemming met de Overeenkomst inzake strategisch partnerschap tussen de Europese Unie en haar Lidstaten, enerzijds, en Canada, anderzijds, gedaan te Brussel op 30 oktober 2016

@@ -12,7 +12,7 @@ entry_into_force: 2000-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/01/2000015035/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2000. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République slovaque tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 15 janvier 1997.

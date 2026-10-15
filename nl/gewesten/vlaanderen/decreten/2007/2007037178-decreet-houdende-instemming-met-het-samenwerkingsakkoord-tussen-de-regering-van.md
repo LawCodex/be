@@ -13,7 +13,7 @@ entry_into_force: 2007-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/23/2007037178/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2007. - Decreet houdende instemming met het samenwerkingsakkoord tussen de regering van de Republiek Kroatië en de Vlaamse Regering, ondertekend in Zagreb op 13 november 2006.

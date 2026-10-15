@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1865/05/05/1865050550/justel"
 justel_notes:
   - "Consultation des versions antérieures à partir du 23-10-2000 et mise à jour au 16-06-2008"
   - "Raadpleging van vroegere versies vanaf 28-12-2006 en tekstbijwerking tot 27-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1865. - Wet betreffende de lening tegen intrest.

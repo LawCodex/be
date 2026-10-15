@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/09/2021021712/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-09-2021 en tekstbijwerking tot 20-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2021. - Decreet houdende houdende wijziging van diverse decreten met betrekking tot wonen

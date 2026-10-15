@@ -13,7 +13,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/12/2020016132/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 13 du 20 mai 2020 relatif au soutien du secteur des médias dans le cadre de la crise sanitaire du COVID-19

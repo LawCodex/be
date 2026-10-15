@@ -13,7 +13,7 @@ entry_into_force: 2023-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/06/01/2023031165/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2023. - Ordonnance portant approbation du compte général et règlement définitif du budget de l'Agence régionale pour la propreté pour l'année 2021

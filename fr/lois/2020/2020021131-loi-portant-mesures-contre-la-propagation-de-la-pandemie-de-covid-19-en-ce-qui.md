@@ -12,7 +12,7 @@ entry_into_force: 2020-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/20/2020021131/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2020. - Loi portant mesures contre la propagation de la pandémie de COVID-19 en ce qui concerne les amendes administratives au niveau du transport aérien et de la navigation aérienne et le système tarifaire de l'aéroport de Brussels Airport

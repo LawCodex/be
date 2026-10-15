@@ -12,7 +12,7 @@ published: 2018-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/11/2018031664/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Decreet tot instelling van een statuut voor de coördinatoren van de centra voor gevorderde technologieën

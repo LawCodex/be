@@ -13,7 +13,7 @@ entry_into_force: 2017-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/01/2016036276/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2016. - Décret modifiant la réglementation relative aux plans d'exécution spatiaux afin d'intégrer le rapport d'incidence sur l'environnement du plan (plan-MER) et d'autres évaluations d'incidences dans le processus de planification de plans d'exécution spatiaux par modification de divers décrets

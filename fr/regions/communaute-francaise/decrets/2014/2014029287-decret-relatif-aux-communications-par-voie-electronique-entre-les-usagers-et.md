@@ -13,7 +13,7 @@ entry_into_force: 2014-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/03/2014029287/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Décret relatif aux communications par voie électronique entre les usagers et les autorités publiques de la Communauté française

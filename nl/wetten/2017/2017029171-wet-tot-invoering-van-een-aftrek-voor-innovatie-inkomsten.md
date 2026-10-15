@@ -12,7 +12,7 @@ entry_into_force: 2016-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/09/2017029171/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2017. - Wet tot invoering van een aftrek voor innovatie-inkomsten

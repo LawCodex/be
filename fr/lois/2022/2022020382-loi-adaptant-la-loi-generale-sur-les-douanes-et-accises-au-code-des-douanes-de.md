@@ -12,7 +12,7 @@ entry_into_force: 2022-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/23/2022020382/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2022. - Loi adaptant la loi générale sur les douanes et accises au Code des douanes de l'Union et portant dispositions diverses

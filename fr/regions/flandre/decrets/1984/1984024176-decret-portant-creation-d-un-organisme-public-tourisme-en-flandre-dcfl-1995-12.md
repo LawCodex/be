@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/05/29/1984024176/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieur à partir du 01-01-1987 et mis à jour au 30-12-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 1984. - Décret portant création d'un [organisme public "Tourisme en Flandre"]. &lt;DCFL 1995-12-22/41, art. 4, 1°, 003; En vigueur : 01-01-1996&gt;

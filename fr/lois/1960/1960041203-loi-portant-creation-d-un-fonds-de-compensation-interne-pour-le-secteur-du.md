@@ -13,7 +13,7 @@ last_amended: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/04/12/1960041203/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 28-12-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 AVRIL 1960. - [Loi portant création d'un Fonds de compensation interne pour le secteur du diamant.] &lt;L 1999-03-26/30, art. 81, 005; En vigueur : 01-01-1999&gt;

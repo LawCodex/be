@@ -13,7 +13,7 @@ entry_into_force: 2002-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036141/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret sanctionnant les objectifs de développement " formation générale et sociale " de la forme d'enseignement 3 dans l'enseignement secondaire spécial. (Traduction).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/21/2004009510/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2004 et mise à jour au 24-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2004. - Loi transposant la décision du Conseil de l'Union européenne du 28 février 2002 instituant Eurojust afin de renforcer la lutte contre les formes graves de criminalité

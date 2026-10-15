@@ -11,7 +11,7 @@ published: 2000-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2000000701/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet tot wijziging van artikel 1ter van de wet van 6 augustus 1931 houdende vaststelling van de onverenigbaarheden en ontzeggingen betreffende de ministers, gewezen ministers en ministers van Staat, alsmede de leden en de gewezen leden van de Wetgevende Kamers.

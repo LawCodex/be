@@ -13,7 +13,7 @@ entry_into_force: 2017-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/21/2017011792/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2017. - Decreet houdende wijziging van het Onroerenderfgoeddecreet van 12 juli 2013 en de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de vermindering van het verkooprecht en de schenkbelasting voor beschermde monumenten

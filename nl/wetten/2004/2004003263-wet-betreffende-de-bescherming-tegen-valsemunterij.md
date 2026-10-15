@@ -12,7 +12,7 @@ entry_into_force: 2004-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/12/2004003263/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Wet betreffende de bescherming tegen valsemunterij

@@ -13,7 +13,7 @@ entry_into_force: 2013-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/03/2013035442/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2013. - Decreet houdende instemming met de multilaterale overeenkomst tussen de Europese Gemeenschap en haar lidstaten, de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Republiek IJsland, de Republiek Montenegro, de voormalige Joegoslavische Republiek Macedonië, het Koninkrijk Noorwegen, de Republiek Servië, Roemenië en de Missie van de Verenigde Naties voor interimbestuur in Kosovo (UNMIK) betreffende de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte, ondertekend te Luxemburg op 9 juni 2006

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/10/2010007051/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 12-02-2010 et mise à jour au 20-06-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2010. - Loi instituant l'engagement volontaire militaire et modifiant diverses lois applicables au personnel militaire

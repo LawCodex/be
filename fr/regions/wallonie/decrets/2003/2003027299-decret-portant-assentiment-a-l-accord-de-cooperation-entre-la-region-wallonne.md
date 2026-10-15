@@ -13,7 +13,7 @@ entry_into_force: 2003-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027299/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment à l'Accord de coopération entre la Région wallonne, la Communauté française, la Communauté germanophone et la Commission communautaire française de la Région de Bruxelles-Capitale relatif à la création du Conseil Wallonie-Bruxelles de la coopération internationale.

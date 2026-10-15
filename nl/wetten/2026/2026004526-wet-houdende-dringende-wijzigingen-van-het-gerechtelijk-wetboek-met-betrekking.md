@@ -12,7 +12,7 @@ entry_into_force: 2026-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/17/2026004526/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2026. - Wet houdende dringende wijzigingen van het Gerechtelijk Wetboek met betrekking tot het Solidariteitsfonds van de Nationale Kamer van Gerechtsdeurwaarders

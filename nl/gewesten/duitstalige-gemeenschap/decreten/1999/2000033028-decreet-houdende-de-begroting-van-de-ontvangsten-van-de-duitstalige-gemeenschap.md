@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/20/2000033028/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 19-05-2000 en tekstbijwerking tot 30-01-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1999. - Decreet houdende de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 2000 (VERTALING). -

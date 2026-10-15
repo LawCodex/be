@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204331/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret portant assentiment à l'Accord, fait à Bruxelles le 7 décembre 2009, entre le Royaume de Belgique et le Commonwealth des Bahamas en vue de l'échange de renseignements en matière fiscale

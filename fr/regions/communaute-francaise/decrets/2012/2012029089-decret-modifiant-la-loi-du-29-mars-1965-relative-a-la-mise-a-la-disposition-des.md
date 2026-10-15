@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/01/2012029089/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2012. - Décret modifiant la loi du 29 mars 1965 relative à la mise à la disposition des organisations de jeunesse, de membres du personnel enseignant et l'arrêté royal du 27 octobre 1967 fixant les modalités d'application de la loi du 29 mars 1965 relative à la mise à la disposition des organisations de jeunesse de membres du personnel enseignant

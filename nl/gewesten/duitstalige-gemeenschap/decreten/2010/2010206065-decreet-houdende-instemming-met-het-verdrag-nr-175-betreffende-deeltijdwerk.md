@@ -13,7 +13,7 @@ entry_into_force: 2010-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/11/22/2010206065/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2010. - Decreet houdende instemming met het Verdrag nr. 175 betreffende deeltijdwerk aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie in Genève op 24 juni 1994

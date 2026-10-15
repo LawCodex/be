@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/02/13/2015014130/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2015. - Loi modifiant l'arrêté royal du 21 juin 2004 octroyant la licence d'exploitation de l'aéroport de Bruxelles-National

@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/06/2003027456/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2003. - Décret portant assentiment à l'Accord portant création de l'Organisation internationale de la vigne et du vin, et à l'Acte final, faits à Paris, le 3 avril 2001.

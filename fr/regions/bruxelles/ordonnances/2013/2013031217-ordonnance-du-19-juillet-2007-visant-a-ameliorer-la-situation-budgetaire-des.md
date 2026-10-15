@@ -13,7 +13,7 @@ entry_into_force: 2013-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/02/19/2013031217/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2013. - Ordonnance du 19 juillet 2007 visant à améliorer la situation budgétaire des communes de la Région de Bruxelles-Capitale. - Subside pour la période 2013-2015 (CIRC 2013/4)

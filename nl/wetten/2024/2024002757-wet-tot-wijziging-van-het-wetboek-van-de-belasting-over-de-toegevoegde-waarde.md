@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/21/2024002757/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde betreffende de bijzondere vrijstellingsregeling van belasting voor kleine ondernemingen

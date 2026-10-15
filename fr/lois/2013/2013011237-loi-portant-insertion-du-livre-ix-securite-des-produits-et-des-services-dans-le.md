@@ -12,7 +12,7 @@ entry_into_force: 2013-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/25/2013011237/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2013. - Loi portant insertion du livre IX " Sécurité des produits et des services " dans le Code de droit économique et portant insertion des définitions propres au livre IX dans le livre Ier du Code de droit économique

@@ -13,7 +13,7 @@ entry_into_force: 2018-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032168/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance portant modification de diverses ordonnances dans le cadre de l'instauration d'un organe indépendant de contrôle du prix de l'eau

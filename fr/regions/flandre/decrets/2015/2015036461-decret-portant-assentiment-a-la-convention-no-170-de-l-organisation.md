@@ -13,7 +13,7 @@ entry_into_force: 2015-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/13/2015036461/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2015. - Décret portant assentiment à la Convention no. 170 de l'Organisation internationale du travail concernant la sécurité dans l'utilisation des produits chimiques au travail, adoptée à Genève le 25 juin 1990

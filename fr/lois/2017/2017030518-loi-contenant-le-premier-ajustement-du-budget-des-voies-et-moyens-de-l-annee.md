@@ -12,7 +12,7 @@ entry_into_force: 2017-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/10/2017030518/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2017. - Loi contenant le premier ajustement du budget des Voies et Moyens de l'année budgétaire 2017

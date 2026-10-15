@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/11/2013A09377/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2013 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2013. - [ANCIEN] CODE CIVIL. - LIVRE III - TITRE XVII : Des sûretés réelles mobilières - (Intitulé modifié par L 2019-04-13/28 , art. 2, 005; En vigueur : 01-11-2020)(Anciens articles 2071 à 2091 du Code civil formant le Titre XVII : Du Nantissement)

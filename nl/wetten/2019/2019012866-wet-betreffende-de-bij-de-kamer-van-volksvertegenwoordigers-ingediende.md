@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019012866/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 05-06-2019 en tekstbijwerking tot 15-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet betreffende de bij de Kamer van volksvertegenwoordigers ingediende verzoekschriften

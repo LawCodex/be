@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/03/2018015256/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2018. - Wet houdende diverse bepalingen betreffende het directoraat-generaal Rekrutering en Ontwikkeling van de Federale overheidsdienst Beleid en Ondersteuning

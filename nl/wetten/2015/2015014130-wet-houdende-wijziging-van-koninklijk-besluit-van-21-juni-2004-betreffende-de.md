@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/02/13/2015014130/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2015. - Wet houdende wijziging van koninklijk besluit van 21 juni 2004 betreffende de toekenning van de exploitatielicentie van de luchthaven Brussel-Nationaal

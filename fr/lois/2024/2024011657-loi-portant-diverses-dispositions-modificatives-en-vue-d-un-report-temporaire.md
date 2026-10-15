@@ -12,7 +12,7 @@ entry_into_force: 2024-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/08/2024011657/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2024. - Loi portant diverses dispositions modificatives en vue d'un report temporaire de l'obligation d'enregistrement dans le Federal Learning Account

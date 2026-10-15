@@ -12,7 +12,7 @@ entry_into_force: 1994-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/03/18/1994015210/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1993. - Loi portant approbation de l'Accord sur l'Espace Economique Européen, des protocoles, de l'acte final et des annexes, signés à Porto le 2 mai 1992.

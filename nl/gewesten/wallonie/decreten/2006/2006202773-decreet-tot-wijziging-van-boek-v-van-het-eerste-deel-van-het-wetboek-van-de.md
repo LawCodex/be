@@ -12,7 +12,7 @@ published: 2006-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/19/2006202773/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2006. - Decreet tot wijziging van Boek V van het eerste deel van het Wetboek van de plaatselijke democratie en de decentralisatie en [betreffende de wijzen van samenwerking tussen gemeeeenten] &lt;DWG 2007-03-09/34 , Inwerkingtreding : 21-03-2007&gt; (VERTALING).

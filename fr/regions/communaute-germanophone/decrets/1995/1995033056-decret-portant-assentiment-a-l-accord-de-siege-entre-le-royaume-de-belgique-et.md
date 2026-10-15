@@ -13,7 +13,7 @@ entry_into_force: 1995-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/18/1995033056/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 1995. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et le Conseil de Coopération des Etats arabes du Golfe, signé à Bruxelles le 11 mai 1993 (TRADUCTION).

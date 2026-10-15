@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/31/1999029445/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 04-11-1999 et mise à jour au 08-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 1999. - [Décret portant confirmation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.] &lt;DCFR 2007-01-25/45 , art. 1, 002; En vigueur : 21-03-2007&gt;

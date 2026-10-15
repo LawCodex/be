@@ -13,7 +13,7 @@ entry_into_force: 2004-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/29/2004033032/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2004. - Decreet houdende goedkeuring van de Overeenkomst inzake deelname van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek aan de Europese Economische Ruimte, gedaan te Luxemburg op 14 oktober 2003 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203299/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant le Code wallon du Logement et de l'Habitat durable et le décret du 15 mars 2018 relatif au bail d'habitation en vue d'y insérer la notion d'habitation légère

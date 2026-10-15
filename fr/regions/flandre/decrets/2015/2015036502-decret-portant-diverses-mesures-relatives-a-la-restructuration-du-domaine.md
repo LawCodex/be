@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/20/2015036502/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-12-2015 et mise à jour au 08-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2015. - Décret portant diverses mesures relatives à la restructuration du domaine politique de l'Economie, des Sciences et de l'Innovation

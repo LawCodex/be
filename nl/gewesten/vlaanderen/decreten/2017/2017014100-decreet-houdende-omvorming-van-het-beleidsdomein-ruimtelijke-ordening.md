@@ -12,7 +12,7 @@ entry_into_force: 2017-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/27/2017014100/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2017. - Decreet houdende omvorming van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed en het beleidsdomein Leefmilieu, Natuur en Energie naar het beleidsdomein Omgeving en van de betrokken departementen naar het Departement Omgeving

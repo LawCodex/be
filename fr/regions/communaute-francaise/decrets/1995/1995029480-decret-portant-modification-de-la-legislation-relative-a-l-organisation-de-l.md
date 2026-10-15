@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/08/05/1995029480/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-08-1995 et mise à jour au 25-02-1999."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1995. - Décret portant modification de la législation relative à l'organisation de l'enseignement secondaire de plein exercice. -

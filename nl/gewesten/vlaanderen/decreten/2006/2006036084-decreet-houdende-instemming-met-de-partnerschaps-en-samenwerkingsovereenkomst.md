@@ -13,7 +13,7 @@ entry_into_force: 2006-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/16/2006036084/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet houdende instemming met de partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Tadzjikistan, anderzijds, en de slotakte, ondertekend in Luxemburg op 1 oktober 2004.

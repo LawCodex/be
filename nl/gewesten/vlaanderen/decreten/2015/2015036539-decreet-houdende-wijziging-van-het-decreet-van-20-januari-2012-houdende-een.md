@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/04/2015036539/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2015. - Decreet houdende wijziging van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid, wat de subsidiëring van politieke jongerenbewegingen betreft

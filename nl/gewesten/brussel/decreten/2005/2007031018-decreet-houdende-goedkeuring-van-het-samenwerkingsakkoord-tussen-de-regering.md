@@ -13,7 +13,7 @@ entry_into_force: 2007-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/08/2007031018/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2005. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Regering van de Poolse Republiek en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, ondertekend te Brussel op 29 november 2004 (VERTALING).

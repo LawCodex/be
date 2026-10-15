@@ -11,7 +11,7 @@ entry_into_force: 2018-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/02/2017031528/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBER 2017. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid, voor wat betreft het elektronisch vergaderen

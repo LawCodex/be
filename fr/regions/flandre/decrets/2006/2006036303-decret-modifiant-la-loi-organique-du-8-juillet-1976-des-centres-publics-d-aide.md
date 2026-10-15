@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 51 modifié avec effet à une date indéterminée par <DCFL 2008-12-19/33 , art. 277, 2°, b); En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 30-08-2006 et mise à jour au 24-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret modifiant la loi organique du 8 juillet 1976 des centres publics d'aide sociale (TRADUCTION).

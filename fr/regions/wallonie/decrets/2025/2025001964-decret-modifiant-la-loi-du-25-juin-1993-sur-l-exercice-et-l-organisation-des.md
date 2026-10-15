@@ -13,7 +13,7 @@ entry_into_force: 2024-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/02/27/2025001964/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2025. - Décret modifiant la loi du 25 juin 1993 sur l'exercice et l'organisation des activités ambulantes et foraines

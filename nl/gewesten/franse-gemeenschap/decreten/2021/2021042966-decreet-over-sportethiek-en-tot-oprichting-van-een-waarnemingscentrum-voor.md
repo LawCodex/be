@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/14/2021042966/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2021. - Decreet over sportethiek en tot oprichting van een waarnemingscentrum voor ethiek bij lichamelijke en sportactiviteiten, alsmede van een ethisch netwerk

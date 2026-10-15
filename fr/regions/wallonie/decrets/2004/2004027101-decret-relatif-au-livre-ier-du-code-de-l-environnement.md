@@ -12,7 +12,7 @@ published: 2004-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004027101/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret relatif au Livre Ier du Code de l'Environnement.

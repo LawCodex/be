@@ -13,7 +13,7 @@ entry_into_force: 2004-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/16/2006036591/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2006. - Décret portant certaines mesures relatives à la restructuration et à la flexibilisation de l'enseignement supérieur en Flandre (TRADUCTION).

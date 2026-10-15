@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/15/2020015194/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-2020 en tekstbijwerking tot 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2020. - Wet houdende diverse dringende fiscale bepalingen ten gevolge van de COVID-19 pandemie (CORONA III)

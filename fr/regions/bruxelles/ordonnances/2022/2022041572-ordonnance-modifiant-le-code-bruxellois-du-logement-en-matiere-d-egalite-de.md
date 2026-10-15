@@ -13,7 +13,7 @@ entry_into_force: 2022-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/06/09/2022041572/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2022. - Ordonnance modifiant le Code bruxellois du Logement en matière d'égalité de traitement entre les femmes et les hommes et de lutte contre la discrimination

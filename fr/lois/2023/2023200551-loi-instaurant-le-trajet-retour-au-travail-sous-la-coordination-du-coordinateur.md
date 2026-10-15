@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/01/12/2023200551/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2023. - Loi instaurant le " Trajet Retour Au Travail " sous la coordination du " Coordinateur Retour Au Travail " dans l'assurance indemnités des travailleurs indépendants et des conjoints aidants

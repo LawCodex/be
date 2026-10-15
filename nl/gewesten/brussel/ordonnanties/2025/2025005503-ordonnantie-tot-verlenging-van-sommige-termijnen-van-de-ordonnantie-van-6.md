@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/07/17/2025005503/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2025. - Ordonnantie tot verlenging van sommige termijnen van de ordonnantie van 6 oktober 2016 houdende organisatie van de stedelijke herwaardering (OSH) en van de ordonnantie van 31 mei 2018 met betrekking tot de toekenning van subsidies voor investeringen in gemeentelijke sportinfrastructuur en tot toekenning van de mogelijkheid om een allerlaatste programmawijziging door te voeren

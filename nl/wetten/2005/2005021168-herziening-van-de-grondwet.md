@@ -12,7 +12,7 @@ entry_into_force: 2005-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/06/2005021168/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2005. - Herziening van de Grondwet.

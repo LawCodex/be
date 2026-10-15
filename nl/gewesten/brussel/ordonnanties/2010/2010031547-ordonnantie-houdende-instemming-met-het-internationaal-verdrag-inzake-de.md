@@ -13,7 +13,7 @@ entry_into_force: 2010-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/11/25/2010031547/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2010. - Ordonnantie houdende instemming met het Internationaal Verdrag inzake de bescherming van alle personen tegen gedwongen verdwijning, aangenomen te New York op 20 december 2006

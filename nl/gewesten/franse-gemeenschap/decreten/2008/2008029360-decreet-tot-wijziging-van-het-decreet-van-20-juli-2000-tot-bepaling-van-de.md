@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/09/2008029360/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Decreet tot wijziging van het decreet van 20 juli 2000 tot bepaling van de voorwaarden voor de erkenning en de subsidiëring van jeugdhuizen, van ontmoetings- en huisvestingscentra, van informatiecentra voor jongeren en van hun federaties (VERTALING)

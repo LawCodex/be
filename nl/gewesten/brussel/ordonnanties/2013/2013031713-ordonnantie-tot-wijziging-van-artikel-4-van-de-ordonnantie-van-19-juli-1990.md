@@ -11,7 +11,7 @@ date: 2013-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031713/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie tot wijziging van artikel 4 van de ordonnantie van 19 juli 1990 houdende oprichting van het Gewestelijk Agentschap voor Netheid

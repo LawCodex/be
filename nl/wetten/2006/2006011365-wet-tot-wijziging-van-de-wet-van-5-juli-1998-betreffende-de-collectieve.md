@@ -12,7 +12,7 @@ entry_into_force: 2006-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/05/2006011365/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 2006. - Wet tot wijziging van de wet van 5 juli 1998 betreffende de collectieve schuldenregeling en de mogelijkheid van verkoop uit de hand van de in beslag genomen onroerende goederen.

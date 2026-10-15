@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/11/2025006768/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-09-2025 et mise à jour au 25-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2024. - Décret contenant le budget des dépenses de la Communauté française pour l'année budgétaire 2025

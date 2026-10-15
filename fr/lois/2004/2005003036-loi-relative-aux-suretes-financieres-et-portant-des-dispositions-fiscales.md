@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/15/2005003036/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 01-02-2005 et mise à jour au 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2004. - Loi relative aux sûretés financières et portant des dispositions fiscales diverses en matière de conventions constitutives de sûreté réelle et de prêts portant sur des instruments financiers.

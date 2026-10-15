@@ -12,7 +12,7 @@ published: 2010-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/10/06/2010205461/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2010. - Decreet houdende wijziging van sommige bepalingen van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn om het bestuur op plaatselijk niveau te versterken

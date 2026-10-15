@@ -13,7 +13,7 @@ entry_into_force: 2004-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/03/2004029093/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2004. - Decreet tot wijziging van het decreet van 24 juni 1996 houdende toekenning van de rechtspersoonlijkheid aan de inrichtende macht van de Hogeschool Lucia de Brouckère (VERTALING).

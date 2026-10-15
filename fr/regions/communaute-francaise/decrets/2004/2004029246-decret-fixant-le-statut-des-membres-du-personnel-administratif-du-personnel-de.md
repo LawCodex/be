@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029246/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2004 et mise à jour au 22-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret fixant le statut des membres du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement organisé par la Communauté française.

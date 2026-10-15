@@ -12,7 +12,7 @@ published: 1994-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/09/1994027602/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1993. - Decreet waarbij de Waalse Regering ertoe gemachtigd wordt de garantie van het Waalse Gewest te verlenen voor leningen die aangegaan worden door de vijf Waalse publiekrechtelijke maatschappijen voor het beheer van de schoolgebouwen van het door de overheid gesubsidieerd onderwijs. (Vertaling).

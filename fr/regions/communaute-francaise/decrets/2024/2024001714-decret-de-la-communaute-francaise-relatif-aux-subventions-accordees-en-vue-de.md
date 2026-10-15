@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/15/2024001714/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2024. - Décret de la Communauté française relatif aux subventions accordées en vue de renforcer la dimension internationale des opérateurs culturels de la Communauté française

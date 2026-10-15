@@ -13,7 +13,7 @@ entry_into_force: 2018-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/04/2018012319/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2018. - Decreet houdende de wijziging van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft het recht van voorkoop en het sociaal beheersrecht, en houdende de wijziging van diverse bepalingen van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/03/06/2019040687/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2019. - Ordonnance relative au classement des établissements d'hébergement touristique par niveaux de confort

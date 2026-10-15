@@ -12,7 +12,7 @@ entry_into_force: 2016-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/06/2016009356/justel"
 department: "Chambres Fédérales"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2016. - Loi modifiant le Code judiciaire en ce qui concerne l'aide juridique

@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2003202133/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant assentiment à la Convention internationale sur le contrôle des systèmes antisalissure nuisibles sur les navires, faites à Londres, le 5 octobre 2001, ainsi qu'à ses Annexes.

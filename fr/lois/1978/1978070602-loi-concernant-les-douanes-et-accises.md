@@ -11,7 +11,7 @@ published: 1978-08-12
 entry_into_force: 1978-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/07/06/1978070602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1978. - Loi concernant les douanes et accises.

@@ -12,7 +12,7 @@ published: 2020-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/10/22/2020015845/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2020. - Ordonnantie tot wijziging van artikel 79 en hoofdstuk XIIbis van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

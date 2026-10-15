@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/20/2024011930/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Décret modifiant le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle), en ce qui concerne le conseil d'administration

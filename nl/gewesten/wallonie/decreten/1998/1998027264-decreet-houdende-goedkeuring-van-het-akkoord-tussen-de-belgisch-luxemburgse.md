@@ -13,7 +13,7 @@ entry_into_force: 1998-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/09/1998027264/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 1998. - Decreet houdende goedkeuring van het Akkoord tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Moldavië inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te Kisjinev op 21 mei 1996.

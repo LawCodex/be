@@ -12,7 +12,7 @@ entry_into_force: 2016-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/18/2017020286/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2017. - Loi modifiant l'article 122 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers en vue de régler les recours contre certaines décisions prises par la FSMA en vertu de la loi du 18 décembre 2016 organisant la reconnaissance et l'encadrement du crowdfunding et portant des dispositions diverses en matière de finances

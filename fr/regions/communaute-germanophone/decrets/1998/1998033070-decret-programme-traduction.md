@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/29/1998033070/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 18-07-1998 et mise à jour au 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 1998. - Décret-programme (TRADUCTION).

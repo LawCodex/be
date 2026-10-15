@@ -13,7 +13,7 @@ entry_into_force: 2014-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/31/2014201131/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2014. - Décret portant assentiment à la Convention n° 189 concernant le travail décent pour les travailleuses et travailleurs domestiques, adoptée à Genève, le 16 juin 2011 par la Conférence internationale du Travail, en sa centième session

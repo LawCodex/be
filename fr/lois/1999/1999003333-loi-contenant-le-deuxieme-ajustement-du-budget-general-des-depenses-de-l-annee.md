@@ -12,7 +12,7 @@ entry_into_force: 1999-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999003333/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi contenant le deuxième ajustement du budget général des dépenses de l'année budgétaire 1999 - Section 23 "Ministère de l'Emploi et du Travail" et Section 26 - "Ministère des Affaires sociales, de la Santé publique et de l'Environnement".

@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/17/2025005507/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2025. - Ordonnance modifiant l'article 35 de l'ordonnance du 25 avril 2019 réglant l'octroi des prestations familiales en vue de maintenir la diminution de 10 euros des montants des allocations familiales de base pour les enfants nés avant le 1er décembre 2019

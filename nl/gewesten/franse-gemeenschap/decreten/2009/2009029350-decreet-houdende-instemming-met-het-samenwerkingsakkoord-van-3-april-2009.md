@@ -13,7 +13,7 @@ entry_into_force: 2009-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029350/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming met het Samenwerkingsakkoord van 3 april 2009 tussen de Franse Gemeenschap en het Brussels Hoofdstedelijk Gewest betreffende het programma " Jeunes, Ecole, Emploi, tout un Programme ", genaamd JEEP-programma

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/10/1997011260/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 19-05-1999 en tekstbijwerking tot 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1997. - Wet betreffende de valutadatum van bankverrichtingen. -

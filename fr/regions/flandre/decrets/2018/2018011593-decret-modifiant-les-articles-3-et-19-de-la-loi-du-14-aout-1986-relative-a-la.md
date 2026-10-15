@@ -13,7 +13,7 @@ entry_into_force: 2018-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/23/2018011593/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2018. - Décret modifiant les articles 3 et 19 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux

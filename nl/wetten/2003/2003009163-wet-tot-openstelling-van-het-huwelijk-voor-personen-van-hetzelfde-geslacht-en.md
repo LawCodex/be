@@ -12,7 +12,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/13/2003009163/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2003. - Wet tot openstelling van het huwelijk voor personen van hetzelfde geslacht en tot wijziging van een aantal bepalingen van het Burgerlijk Wetboek.

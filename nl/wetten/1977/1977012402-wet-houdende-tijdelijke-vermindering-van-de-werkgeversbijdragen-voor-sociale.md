@@ -11,7 +11,7 @@ published: 1977-02-04
 entry_into_force: 1977-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/01/24/1977012402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 1977. - Wet houdende tijdelijke vermindering van de werkgeversbijdragen voor sociale zekerheid ter bevordering van de tewerkstelling.

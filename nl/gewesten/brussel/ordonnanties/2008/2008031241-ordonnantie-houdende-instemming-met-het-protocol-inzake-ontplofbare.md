@@ -13,7 +13,7 @@ entry_into_force: 2008-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/05/08/2008031241/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2008. - Ordonnantie houdende instemming met het Protocol inzake ontplofbare oorlogsresten bij het Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben, gedaan te Genève op 28 november 2003.

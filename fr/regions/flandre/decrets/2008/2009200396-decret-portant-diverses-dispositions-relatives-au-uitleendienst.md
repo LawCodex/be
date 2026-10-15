@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2009200396/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret portant diverses dispositions relatives au "Uitleendienst Kampeermateriaal voor de Jeugd" (Service de Prêt de Matériel de Campement pour la Jeunesse) (TRADUCTION).

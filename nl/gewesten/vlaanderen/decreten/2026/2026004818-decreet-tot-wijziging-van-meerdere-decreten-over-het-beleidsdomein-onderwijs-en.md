@@ -13,7 +13,7 @@ entry_into_force: 2026-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/19/2026004818/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2026. - Decreet tot wijziging van meerdere decreten over het beleidsdomein Onderwijs en Vorming, wat betreft de studietoelagen in het hoger onderwijs en de kinderdagverblijven en voor- en nabewaking in het tweetalige gebied Brussel-Hoofdstad

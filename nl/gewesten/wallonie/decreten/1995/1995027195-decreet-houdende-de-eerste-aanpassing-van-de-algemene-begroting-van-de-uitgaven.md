@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027195/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 06-05-1995 en tekstbijwerking tot 31-01-1996."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet houdende de eerste aanpassing van de algemene begroting van de uitgaven van het Waalse Gewest voor het begrotingsjaar 1995. (VERTALING)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/26/2023204888/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-11-2023 en tekstbijwerking tot 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2023. - Decreet tot oprichting van een fonds voor renteloze leningen aan op te leiden personen, studenten en leerlingen in knelpuntberoepen

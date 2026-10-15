@@ -13,7 +13,7 @@ entry_into_force: 2018-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/31/2018012504/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2018. - Ordonnantie houdende instemming met de wijziging aan het Protocol bij het Verdrag van 13 november 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake zware metalen, gedaan op 13 december 2012 te Genève

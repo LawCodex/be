@@ -13,7 +13,7 @@ entry_into_force: 1994-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1994027671/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1994. - DECRET portant approbation de l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Bulgarie, d'autre part, signé à Bruxelles le 8 mars 1993

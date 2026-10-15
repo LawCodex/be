@@ -13,7 +13,7 @@ entry_into_force: 2014-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/16/2014031460/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2014. - Ordonnance portant sur la prise de participations en capital de la Commission communautaire commune dans la société de droit privé créée en partenariat public pur et organisant un data centre régional

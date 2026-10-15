@@ -11,7 +11,7 @@ date: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019204063/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van de decreten van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt, van 19 december 2002 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en van 19 januari 2017 betreffende de tariefmethodologie die van toepassing is op gas- en elektriciteitsdistributienetbeheerders met het oog op de bevordering van de ontwikkeling van de hernieuwbare-energiegemeenschappen

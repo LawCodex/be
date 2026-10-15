@@ -13,7 +13,7 @@ entry_into_force: 2024-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/07/2024002905/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Décret transposant certains aspects de la directive (UE) 2019/1937 du Parlement européen et du Conseil du 23 octobre 2019 sur la protection des personnes qui signalent des violations du droit de l'Union en Communauté française

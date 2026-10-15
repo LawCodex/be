@@ -13,7 +13,7 @@ entry_into_force: 2005-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036111/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990, wat betreft de gerechtelijke jeugdbijstand ter bescherming tegen mishandeling en verwaarlozing in urgente gevallen

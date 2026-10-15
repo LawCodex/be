@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/08/21/2008022534/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-10-2008 en tekstbijwerking tot 06-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AUGUSTUS 2008. - [wet houdende oprichting en organisatie van het eHealth-platform en diverse bepalingen] &lt;Opschrift vervangen door W 2013-03-19/03 , art. 56, 002; Inwerkingtreding : 08-04-2013&gt;

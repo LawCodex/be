@@ -12,7 +12,7 @@ entry_into_force: 2012-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/16/2012024109/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2012. - Loi modifiant la loi du 5 août 2006 relative à l'accès du public à l'information en matière d'environnement

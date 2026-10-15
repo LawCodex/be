@@ -12,7 +12,7 @@ entry_into_force: 2024-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/18/2024003757/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Loi optimisant le fonctionnement de l'Organe central pour la Saisie et la Confiscation et de l'Organe de concertation pour la coordination du recouvrement des créances non fiscales en matière pénale et modifiant la loi sur les armes

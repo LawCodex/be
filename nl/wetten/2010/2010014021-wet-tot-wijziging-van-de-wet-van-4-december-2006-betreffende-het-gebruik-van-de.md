@@ -12,7 +12,7 @@ entry_into_force: 2010-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/26/2010014021/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2010. - Wet tot wijziging van de wet van 4 december 2006 betreffende het gebruik van de spoorweginfrastructuur en van de wet van 19 december 2006 betreffende de exploitatieveiligheid van de spoorwegen, voornamelijk wat de certificering van het veiligheidspersoneel en het onderhoud van de voertuigen betreft

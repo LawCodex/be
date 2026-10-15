@@ -12,7 +12,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/14/2024003588/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2024. - Loi portant diverses modifications du Code d'instruction criminelle II

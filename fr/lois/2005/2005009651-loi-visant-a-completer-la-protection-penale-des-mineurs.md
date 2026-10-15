@@ -12,7 +12,7 @@ entry_into_force: 2005-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005009651/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi visant à compléter la protection pénale des mineurs.

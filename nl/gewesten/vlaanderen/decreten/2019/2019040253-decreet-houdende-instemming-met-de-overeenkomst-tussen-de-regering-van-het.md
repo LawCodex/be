@@ -13,7 +13,7 @@ entry_into_force: 2019-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/01/2019040253/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2019. - Decreet houdende instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Staat Qatar betreffende luchtvervoer, opgesteld te Brussel op 6 maart 2018

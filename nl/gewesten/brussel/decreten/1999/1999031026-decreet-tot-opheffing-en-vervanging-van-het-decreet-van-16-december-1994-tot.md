@@ -13,7 +13,7 @@ entry_into_force: 1999-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/01/14/1999031026/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 1999. - Decreet tot opheffing en vervanging van het decreet van 16 december 1994 tot vaststelling van de onderzoeksprocedure (VERTALING).

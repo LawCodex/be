@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009003493/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2009 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2009. - Loi relative au régime général d'accise

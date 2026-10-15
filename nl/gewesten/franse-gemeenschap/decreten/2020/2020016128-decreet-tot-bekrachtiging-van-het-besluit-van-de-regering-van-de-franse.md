@@ -12,7 +12,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020016128/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet tot bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 20 van 11 juni 2020 genomen ter uitvoering van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis van COVID-19 om de aanpassing van de aangepaste begroting van Etnic (Franse Gemeenschap) voor het begrotingsjaar 2020 goed te keuren

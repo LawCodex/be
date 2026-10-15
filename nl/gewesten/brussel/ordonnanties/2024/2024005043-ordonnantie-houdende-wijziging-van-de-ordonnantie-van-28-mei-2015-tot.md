@@ -13,7 +13,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005043/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie houdende wijziging van de ordonnantie van 28 mei 2015 tot oprichting van een instelling van openbaar nut waarin het beheer van het preventie- en veiligheidsbeleid in het Brussels Hoofdstedelijk Gewest is samengebracht en tot oprichting van de gewestelijke school voor de veiligheids-, preventie- en hulpdienstberoepen - Brusafe

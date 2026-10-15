@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/25/2007200830/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2007. - Decreet tot instelling van een prijs van het Parlement van de Franse Gemeenschap van België voor de bekroning van een jong kunstenaar van de Franse Gemeenschap op het gebied van de beeldende kunsten (VERTALING).

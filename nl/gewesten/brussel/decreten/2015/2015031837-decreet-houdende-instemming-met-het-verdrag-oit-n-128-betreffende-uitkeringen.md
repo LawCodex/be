@@ -13,7 +13,7 @@ entry_into_force: 2015-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/02/2015031837/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2015. - Decreet houdende instemming met het Verdrag OIT n° 128 betreffende uitkeringen wegens invaliditeit, ouderdom en aan de langstlevende, aangenomen te Genève op 29 juni 1967

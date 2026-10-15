@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/25/1997033114/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-01-1997 en tekstbijwerking tot 11-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1996. - Decreet betreffende het voeren van pedagogische vergaderingen (VERTALING)

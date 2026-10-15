@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024006226/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-07-2024 et mise à jour au 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Décret portant sur les exclusions définitives et instituant des chambres inter-réseaux compétentes pour connaitre des recours à l'égard des décisions d'exclusion définitive

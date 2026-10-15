@@ -13,7 +13,7 @@ entry_into_force: 2011-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/17/2011203449/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2011. - Décret sanctionnant l'arrêté du Gouvernement flamand du 18 mars 2011 jugeant recevable et équivalente la demande de dérogation aux objectifs finaux et aux objectifs de développement pour l'enseignement fondamental et secondaire

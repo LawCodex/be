@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/11/1998015168/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1997. - Loi portant assentiment au dixième Protocole à la Convention de La Haye du 18 février 1950 portant unification des droits d'accise et de la rétribution pour la garantie des ouvrages en métaux précieux entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas, signé à Bruxelles le 2 décembre 1992.

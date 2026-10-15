@@ -13,7 +13,7 @@ entry_into_force: 2010-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/02/2010035516/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2010. - Decreet houdende instemming met het Protocol van wijzigingen bij het Verdrag betreffende de Internationale Hydrografische Organisatie, aangenomen in Monaco op 14 april 2005

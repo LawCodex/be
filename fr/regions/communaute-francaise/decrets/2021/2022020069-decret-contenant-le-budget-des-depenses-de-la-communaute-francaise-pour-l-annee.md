@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/15/2022020069/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 15-02-2022 et mise à jour au 04-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2021. - Décret contenant le budget des dépenses de la Communauté française pour l'année budgétaire 2022

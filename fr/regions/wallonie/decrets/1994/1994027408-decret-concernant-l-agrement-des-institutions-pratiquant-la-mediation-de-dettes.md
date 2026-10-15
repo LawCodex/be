@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/07/1994027408/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 09-02-2004 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1994. - Décret concernant l'agrément des institutions pratiquant la médiation de dettes. -

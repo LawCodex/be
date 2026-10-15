@@ -12,7 +12,7 @@ entry_into_force: 2022-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/09/06/2022042050/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 2022. - Loi modifiant l'article 69 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973

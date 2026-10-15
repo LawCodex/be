@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/08/2021032302/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 13-08-2021 et mise à jour au 22-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2021. - Décret relatif au cyclopartage en flotte libre et modifiant les articles 4 et 12 du décret du 1er avril 2004 relatif à la mobilité et à l'accessibilité locales

@@ -12,7 +12,7 @@ published: 2010-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/09/21/2010205365/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBER 2010. - Decreet houdende instemming met de avenant aan het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie

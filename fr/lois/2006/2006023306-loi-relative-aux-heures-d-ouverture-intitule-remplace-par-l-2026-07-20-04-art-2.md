@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/11/10/2006023306/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2006 et mise à jour au 03-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - [Loi relative aux heures d'ouverture] (Intitulé remplacé par &lt;L 2026-07-20/04 , art. 2; En vigueur : 13-08-2026&gt;)

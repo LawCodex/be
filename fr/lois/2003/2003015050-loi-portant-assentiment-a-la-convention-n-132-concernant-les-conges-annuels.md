@@ -12,7 +12,7 @@ entry_into_force: 2003-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/09/2003015050/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2003. - Loi portant assentiment à la Convention n° 132 concernant les congés annuels payés (révisée en 1970), adoptée à Genève le 24 juin 1970.

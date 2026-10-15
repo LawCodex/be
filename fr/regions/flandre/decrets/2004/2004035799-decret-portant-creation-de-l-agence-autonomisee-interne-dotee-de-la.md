@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 5 modifié avec effet à une date indéterminée par DCFL 2022-07-01/17 , art. 2; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 07-06-2004 et mise à jour au 13-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret portant création de l'agence autonomisée interne dotée de la personnalité juridique " Grandir régie (" Opgroeien regie ") (TRADUCTION). (Intitulé modifié par DCFL 2019-03-01/38 , art. 5, 016; En vigueur : 18-04-2019)

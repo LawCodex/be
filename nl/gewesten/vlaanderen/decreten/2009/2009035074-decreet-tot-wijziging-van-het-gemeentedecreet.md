@@ -12,7 +12,7 @@ published: 2009-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/23/2009035074/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2009. - Decreet tot wijziging van het Gemeentedecreet

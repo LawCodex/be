@@ -12,7 +12,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/16/2026005128/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2026. - Wet tot wijziging van de wet van 4 april 2014 betreffende de verzekeringen, teneinde de uitsluiting van de poging tot zelfdoding of van de zelfdoding in reisverzekeringen te verbieden

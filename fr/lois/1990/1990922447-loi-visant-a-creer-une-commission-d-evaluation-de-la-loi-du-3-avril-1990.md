@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/08/13/1990922447/justel"
 department: "Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 11-04-2006 et mise à jour au 06-09-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 1990. - LOI visant à créer une commission d'évaluation de la loi du 3 avril 1990 relative à l'interruption de grossesse, modifiant les articles 348, 350, 351 et 352 du Code pénal et abrogeant l'article 353 du même Code

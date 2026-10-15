@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1993021262/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-03-1994 en tekstbijwerking tot 17-02-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet houdende sociale en diverse bepalingen.

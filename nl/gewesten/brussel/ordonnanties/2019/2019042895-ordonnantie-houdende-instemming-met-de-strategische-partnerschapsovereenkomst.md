@@ -13,7 +13,7 @@ entry_into_force: 2020-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/12/17/2019042895/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2019. - Ordonnantie houdende instemming met de Strategische Partnerschapsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en Japan, anderzijds, gedaan te Tokio op 17 juli 2018

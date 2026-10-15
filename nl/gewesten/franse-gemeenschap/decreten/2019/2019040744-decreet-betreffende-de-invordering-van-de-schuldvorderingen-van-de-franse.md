@@ -13,7 +13,7 @@ entry_into_force: 2019-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/21/2019040744/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2019. - Decreet betreffende de invordering van de schuldvorderingen van de Franse Gemeenschap

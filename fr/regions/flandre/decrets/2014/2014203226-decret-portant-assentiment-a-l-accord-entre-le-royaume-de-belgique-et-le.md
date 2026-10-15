@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203226/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume du Maroc concernant les transports routiers internationaux de voyageurs et de marchandises et au Protocole établi en vertu de l'article 22 dudit Accord, signés à Rabat le 14 juillet 1997

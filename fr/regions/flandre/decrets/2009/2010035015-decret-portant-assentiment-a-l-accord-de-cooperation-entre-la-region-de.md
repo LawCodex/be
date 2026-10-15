@@ -13,7 +13,7 @@ entry_into_force: 2010-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/11/2010035015/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2009. - Décret portant assentiment à l'accord de coopération entre la Région de Bruxelles-Capitale, la Région flamande et la Région wallonne concernant la mise en oeuvre du régime de paiement unique

@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/09/2016203150/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2016. - Decreet houdende instemming met de Aanpassings- en aanvullingsovereenkomst met betrekking tot de Overeenkomst ondertekend te Brussel op 12 mei 1967 tussen het Koninkrijk België en het Algemeen Hoofdkwartier van de Geallieerde Strijdkrachten in Europa inzake de bijzondere voorwaarden voor de vestiging en het functioneren van dit Hoofdkwartier op het grondgebied van het Koninkrijk België, ondertekend te Brussel op 10 september 2013

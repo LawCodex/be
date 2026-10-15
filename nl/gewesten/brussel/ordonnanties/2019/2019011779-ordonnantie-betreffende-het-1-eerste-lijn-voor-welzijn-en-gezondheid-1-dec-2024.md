@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019011779/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 15-04-2019 en tekstbijwerking tot 15-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie betreffende het [ 1 eerste lijn voor welzijn en gezondheid] 1 &lt;DEC 2024-01-25/07 , art. 30, 003; Inwerkingtreding : 15-02-2024&gt; &lt;DEC 2023-12-22/34 , art. 30 , 002; Inwerkingtreding : 25-01-2024&gt; ( 1 )&lt;DEC 2024-01-25/07 , art. , 003; Inwerkingtreding : 25-02-2024&gt;

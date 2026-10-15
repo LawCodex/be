@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/04/2018012030/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2018. - Wet tot wijziging van het Wetboek van de Inkomstenbelastingen 1992 wat de giften aan als bij stichting opgerichte entiteiten, die afhangen van de erkende universitaire ziekenhuizen, betreft

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999009646/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 06-08-1999 en tekstbijwerking tot 19-03-2004."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet houdende het wetboek van vennootschappen. -

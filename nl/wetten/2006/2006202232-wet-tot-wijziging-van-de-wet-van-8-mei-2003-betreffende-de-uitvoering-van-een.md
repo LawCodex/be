@@ -12,7 +12,7 @@ entry_into_force: 2006-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/17/2006202232/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2006. - Wet tot wijziging van de wet van 8 mei 2003 betreffende de uitvoering van een wetenschappelijk onderzoek naar de vervolging en de deportatie van de joden in België tijdens de Tweede Wereldoorlog.

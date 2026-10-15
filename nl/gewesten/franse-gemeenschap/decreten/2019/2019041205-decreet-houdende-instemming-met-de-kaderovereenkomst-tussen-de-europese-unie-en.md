@@ -13,7 +13,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019041205/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet houdende instemming met de Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Australië, anderzijds, ondertekend te Manila op 7 augustus 2017

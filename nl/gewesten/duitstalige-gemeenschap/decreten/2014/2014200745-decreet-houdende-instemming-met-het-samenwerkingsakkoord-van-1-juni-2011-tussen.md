@@ -13,7 +13,7 @@ entry_into_force: 2014-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/20/2014200745/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 1 juni 2011 tussen de Federale Staat en de Gewesten en de Gemeenschappen betreffende de coördinatie van de controles inzake illegale arbeid en sociale fraude

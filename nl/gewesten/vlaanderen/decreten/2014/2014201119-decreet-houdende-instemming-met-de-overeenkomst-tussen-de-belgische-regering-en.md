@@ -13,7 +13,7 @@ entry_into_force: 2014-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/31/2014201119/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2014. - Decreet houdende instemming met de overeenkomst tussen de Belgische regering en de Macedonische regering tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen en tot het voorkomen van het ontduiken van belasting, ondertekend te Brussel op 6 juli 2010

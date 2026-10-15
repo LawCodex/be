@@ -11,7 +11,7 @@ date: 2013-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031702/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie tot wijziging van de wet van 20 juli 1971 op de begraafplaatsen en de lijkbezorging om de plaatsing van het stoffelijk overschot in een ander lijkomhulsel dan een doodskist toe te staan

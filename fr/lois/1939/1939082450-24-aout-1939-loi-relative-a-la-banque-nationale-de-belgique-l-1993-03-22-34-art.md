@@ -13,7 +13,7 @@ last_amended: 1998-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1939/08/24/1939082450/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 28-03-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AOUT 1939. [Loi relative à la Banque Nationale de Belgique] &lt;L 1993-03-22/34, art. 122, 006; En vigueur : 1993-04-19&gt;

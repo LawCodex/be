@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1847/04/06/1847040650/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-02-2014 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1847. - Wet tot bestraffing van de beleedigingen aan den Koning

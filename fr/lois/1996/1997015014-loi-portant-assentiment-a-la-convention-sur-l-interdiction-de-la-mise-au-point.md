@@ -12,7 +12,7 @@ entry_into_force: 1997-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/20/1997015014/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Loi portant assentiment à la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, et des trois Annexes, faites à Paris le 13 janvier 1993.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035687/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2014 et mise à jour au 01-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret relatif aux pensions de retraite allouées aux membres du personnel statutaires de la " Vlaamse Radio- en Televisieomroeporganisatie " (Organisation de Radiodiffusion et télévision flamande) et aux pensions de survie allouées aux ayants droit de ces membres du personnel

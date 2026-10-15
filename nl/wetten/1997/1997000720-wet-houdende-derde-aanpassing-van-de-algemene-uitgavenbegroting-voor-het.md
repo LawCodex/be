@@ -12,7 +12,7 @@ entry_into_force: 1997-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/11/24/1997000720/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1997. - Wet houdende derde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1997 - Sectie 13 - " Binnenlandse Zaken ".

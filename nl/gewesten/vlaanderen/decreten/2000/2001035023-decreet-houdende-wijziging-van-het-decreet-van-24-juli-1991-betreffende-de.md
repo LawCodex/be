@@ -13,7 +13,7 @@ entry_into_force: 2001-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/22/2001035023/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2000. - Decreet houdende wijziging van het decreet van 24 juli 1991 betreffende de erkenning en subsidiëring van de Nederlandstalige culturele centra die het culturele leven in de Vlaamse Gemeenschap bevorderen.

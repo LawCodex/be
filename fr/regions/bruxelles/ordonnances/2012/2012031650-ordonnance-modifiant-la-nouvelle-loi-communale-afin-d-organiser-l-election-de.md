@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/07/23/2012031650/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2012. - Ordonnance modifiant la Nouvelle loi communale afin d'organiser l'élection de la présidence du conseil communal

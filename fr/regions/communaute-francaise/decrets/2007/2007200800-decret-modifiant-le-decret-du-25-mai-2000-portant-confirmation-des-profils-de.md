@@ -13,7 +13,7 @@ entry_into_force: 2007-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200800/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2007. - Décret modifiant le décret du 25 mai 2000 portant confirmation des profils de formation de conducteur/conductrice poids lourds, d'électricien installateur-monteur/électricienne installatrice-monteuse, d'ouvrier qualifié/ouvrière qualifiée en construction gros oeuvre, de conducteur/conductrice de machines de fabrication de produits textiles, de technicien/technicienne de la photographie, de bijoutier-joaillier/bijoutière-joaillière, de technicien/technicienne en comptabilité, d'auxiliaire familial/auxiliaire familiale et sanitaire, d'esthéticien/d'esthéticienne et du profil de formation spécifique de technicien/technicienne de cuisine de collectivité et définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.

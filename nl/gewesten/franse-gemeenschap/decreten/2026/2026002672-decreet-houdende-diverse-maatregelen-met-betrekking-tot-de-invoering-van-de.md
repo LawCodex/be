@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/03/19/2026002672/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2026. - Decreet houdende diverse maatregelen met betrekking tot de invoering van de gemeenschappelijke kern in het zesde leerjaar van het lager onderwijs en het leerplichtonderwijs

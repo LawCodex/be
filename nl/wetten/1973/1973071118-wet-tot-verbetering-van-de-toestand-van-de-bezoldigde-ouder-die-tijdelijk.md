@@ -10,7 +10,7 @@ date: 1973-07-11
 entry_into_force: 1973-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/07/11/1973071118/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1973. - Wet tot verbetering van de toestand van de bezoldigde [ouder] die tijdelijk ophoudt onderworpen te zijn aan de maatschappelijke zekerheid in sommige regelingen van de maatschappelijke zekerheid. (KBN410 1986-04-18/36, art. 1, 003)

@@ -11,7 +11,7 @@ date: 2006-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/14/2006029120/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2006. - Decreet houdende aanpassing van de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2006 (VERTALING).

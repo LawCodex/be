@@ -13,7 +13,7 @@ entry_into_force: 2007-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/31/2007201850/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2007. - Décret en vue de reconnaître en qualité de zone franche l'ensemble du périmètre des zones d'activités économiques qui font l'objet d'un arrêté ministériel de reconnaissance au sens du décret du 11 mars 2004 relatif aux infrastructures d'accueil des activités économiques, modifié par le décret-programme du 23 février 2006, et qui sont situées sur le territoire de plusieurs communes dont l'une au moins est reconnue comme zone franche.

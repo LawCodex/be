@@ -12,7 +12,7 @@ entry_into_force: 2004-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/10/2004021082/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2004. - Modification à la Constitution.

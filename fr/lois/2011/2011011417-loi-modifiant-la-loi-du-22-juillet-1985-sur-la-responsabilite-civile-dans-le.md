@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/13/2011011417/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2011. - Loi modifiant la loi du 22 juillet 1985 sur la responsabilité civile dans le domaine de l'énergie nucléaire

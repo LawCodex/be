@@ -12,7 +12,7 @@ entry_into_force: 2024-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/07/2024000164/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2024. - Loi modifiant la loi-programme (I) du 27 décembre 2006 en ce qui concerne la subvention à l'ASBL "Patienten Rat & Treff"

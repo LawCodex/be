@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/10/2009205876/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2009 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2009. - Décret d'équité fiscale et d'efficacité environnementale pour le parc automobile et les maisons passives

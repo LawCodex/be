@@ -13,7 +13,7 @@ entry_into_force: 2022-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/03/2022030783/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2022. - Decreet betreffende de gas- en elektriciteitsmarkten ten gevolge van de overstromingen van juli 2021

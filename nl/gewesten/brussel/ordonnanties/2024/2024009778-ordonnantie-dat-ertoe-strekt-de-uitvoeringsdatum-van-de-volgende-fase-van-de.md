@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/10/17/2024009778/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2024. - Ordonnantie dat ertoe strekt de uitvoeringsdatum van de volgende fase van de lage-emissiezone (LEZ) vast te stellen op 1 januari 2027

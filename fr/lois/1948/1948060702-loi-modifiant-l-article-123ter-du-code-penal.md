@@ -11,7 +11,7 @@ published: 1948-06-13
 entry_into_force: 1948-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1948/06/07/1948060702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 1948. - LOI modifiant l'article 123ter du Code pénal.

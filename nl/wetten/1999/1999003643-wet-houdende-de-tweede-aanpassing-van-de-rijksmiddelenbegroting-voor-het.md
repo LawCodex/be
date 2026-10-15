@@ -12,7 +12,7 @@ entry_into_force: 1999-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/07/1999003643/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 1999. - Wet houdende de tweede aanpassing van de Rijksmiddelenbegroting voor het begrotingsjaar 1999.

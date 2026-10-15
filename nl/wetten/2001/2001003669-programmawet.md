@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/30/2001003669/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2001 en tekstbijwerking tot 22-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 2001. - Programmawet. -

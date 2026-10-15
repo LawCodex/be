@@ -13,7 +13,7 @@ last_amended: 2020-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/06/13/1966061301/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-12-1997 et mise à jour au 15-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1966. - Loi relative à la pension de retraite et de survie des ouvriers, des employés, des marins naviguant sous pavillon belge, des ouvriers mineurs et des assurés libres. &lt;abrogé à l'exception des articles 21, 24 et 30, par ARN50, 24-10-1967, art. 75, § 3, 10 °, mais continue à régir les pensions prenant cours effectivement et pour la première fois avant le 1er janvier 1968&gt;

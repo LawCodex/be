@@ -12,7 +12,7 @@ entry_into_force: 2015-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/06/2015003426/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2015. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 op het stuk van de maaltijdcheques en de niet-recurrente resultaatsgebonden voordelen

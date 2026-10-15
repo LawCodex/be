@@ -11,7 +11,7 @@ published: 1807-09-03
 entry_into_force: 1807-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032156/justel"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1804. - [ANCIEN] CODE CIVIL. - LIVRE III - TITRE V. Du régime en Communauté (Intitulé modifié par L 2019-04-13/28 , art. 2, En vigueur : 01-11-2020) (DROIT TRANSITOIRE applicable aux situations prévues à l'article 3 de la Loi du 14 juillet 1976. - cfr. 1804-03-21/33 pour les situations ne relevant pas du droit transitoire)

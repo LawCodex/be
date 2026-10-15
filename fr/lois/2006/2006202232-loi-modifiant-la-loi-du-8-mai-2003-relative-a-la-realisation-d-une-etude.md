@@ -12,7 +12,7 @@ entry_into_force: 2006-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/17/2006202232/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2006. - Loi modifiant la loi du 8 mai 2003 relative à la réalisation d'une étude scientifique sur les persécutions et la déportation des juifs en Belgique pendant la Seconde Guerre mondiale.

@@ -13,7 +13,7 @@ entry_into_force: 2010-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/12/09/2010031573/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2010. - Ordonnance modifiant l'ordonnance du 19 mars 2009 portant modification du titre VII et du titre X du Code bruxellois de l'Aménagement du Territoire relative au droit de préemption

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/28/2013035651/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2013. - Decreet tot wijziging van het wetboek van 23 november 1965 van de met de inkomstenbelastingen gelijkgestelde belastingen en de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend in Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, wat betreft de aanhaling en de inbeslagname van voertuigen en het opstellen van processen-verbaal

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/01/2003012163/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "raadpleging van vroegere versies vanaf 16-05-2003 en tekstbijwerking tot 17-04-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2003. - Wet houdende uitvoering van het interprofessioneel akkoord voor de periode 2003-2004.

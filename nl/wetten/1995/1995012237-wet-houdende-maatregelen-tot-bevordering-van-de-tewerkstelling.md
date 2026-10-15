@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/03/1995012237/justel"
 department: "Tewerkstelling en Arbeid - Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 22-04-1995 en tekstbijwerking tot 01-07-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1995. - Wet houdende maatregelen tot bevordering van de tewerkstelling.

@@ -13,7 +13,7 @@ entry_into_force: 2011-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/04/07/2011202044/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2011. - Decreet houdende wijziging van de wet van 12 juli 1956 tot vaststelling van het statuut der autosnelwegen wat betreft de administratieve geldboetes en de onmiddellijke inning

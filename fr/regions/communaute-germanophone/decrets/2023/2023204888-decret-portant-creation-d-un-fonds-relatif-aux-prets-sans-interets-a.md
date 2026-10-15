@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/26/2023204888/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 09-11-2023 et mise à jour au 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2023. - Décret portant création d'un Fonds relatif aux prêts sans intérêts à destination des apprentis, étudiants et élèves désirant se former à un métier en pénurie

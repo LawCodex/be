@@ -11,7 +11,7 @@ published: 1958-05-22
 entry_into_force: 1958-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/05/05/1958050503/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1958. - Loi favorisant le financement des stocks des charbonnages.

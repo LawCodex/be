@@ -12,7 +12,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007022987/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi modifiant les lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970, en ce qui concerne la détermination du taux d'incapacité permanente des invalides après l'âge de 65 ans.

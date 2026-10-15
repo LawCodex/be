@@ -12,7 +12,7 @@ entry_into_force: 2014-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014000027/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2014. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales ainsi qu'au financement et à la comptabilité ouverte des partis politiques, le Code électoral, la loi du 19 mai 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection du Parlement européen et la loi du 19 mai 1994 réglementant la campagne électorale, concernant la limitation et la déclaration des dépenses électorales engagées pour les élections du Parlement wallon, du Parlement flamand, du Parlement de la Région de Bruxelles-Capitale et du Parlement de la Communauté germanophone, et fixant le critère de contrôle des communications officielles des autorités publiques

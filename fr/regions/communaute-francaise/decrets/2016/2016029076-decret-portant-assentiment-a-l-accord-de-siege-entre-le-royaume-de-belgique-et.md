@@ -13,7 +13,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/21/2016029076/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2016. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et la Communauté économique des Etats de l'Afrique de l'Ouest, fait à Bruxelles le 12 juillet 2006

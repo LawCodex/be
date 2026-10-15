@@ -13,7 +13,7 @@ entry_into_force: 2026-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/02/12/2026001204/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2026. - Ordonnantie houdende diverse bepalingen betreffende Gezondheid, Bijstand aan Personen en Gezinsbijslag

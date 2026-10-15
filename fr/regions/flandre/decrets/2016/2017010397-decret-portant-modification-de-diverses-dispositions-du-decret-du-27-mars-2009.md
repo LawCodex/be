@@ -13,7 +13,7 @@ entry_into_force: 2017-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017010397/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret portant modification de diverses dispositions du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne les organismes de radiodiffusion sonore

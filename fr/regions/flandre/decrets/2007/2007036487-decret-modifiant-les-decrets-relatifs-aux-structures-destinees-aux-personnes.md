@@ -13,7 +13,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/13/2007036487/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2007. - Décret modifiant les décrets relatifs aux structures destinées aux personnes âgées, coordonnés le 18 décembre 1991, et modifiant le décret du 14 juillet 1998 portant agrément et subventionnement des associations et des structures d'aide sociale dans le cadre des soins à domicile (TRADUCTION)

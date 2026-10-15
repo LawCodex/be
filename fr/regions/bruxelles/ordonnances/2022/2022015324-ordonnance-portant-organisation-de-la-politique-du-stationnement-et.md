@@ -13,7 +13,7 @@ entry_into_force: 2022-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/06/2022015324/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2022. - Ordonnance portant organisation de la politique du stationnement et redéfinissant les missions et modalités de gestion de l'Agence du Stationnement de la Région de Bruxelles-Capitale

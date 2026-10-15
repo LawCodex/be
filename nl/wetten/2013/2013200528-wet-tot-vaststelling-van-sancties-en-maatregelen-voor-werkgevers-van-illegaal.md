@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/02/11/2013200528/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 22-02-2013 en tekstbijwerking tot 18-12-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2013. - Wet tot vaststelling van sancties en maatregelen voor werkgevers van illegaal verblijvende onderdanen van derde landen

@@ -13,7 +13,7 @@ entry_into_force: 2007-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/22/2007203484/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2007. - Decreet houdende wijziging van het decreet van 23 juni 1994 betreffende de oprichting en de uitbating van de onder het Waalse Gewest ressorterende luchthavens (VERTALING).

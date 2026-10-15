@@ -11,7 +11,7 @@ published: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/04/2007002143/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2007. - Wet tot wijziging van de wet van 10 april 1995 betreffende de herverdeling van de arbeid in de openbare sector.

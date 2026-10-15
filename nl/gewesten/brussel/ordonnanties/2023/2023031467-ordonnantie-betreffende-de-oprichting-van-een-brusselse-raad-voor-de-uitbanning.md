@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/07/06/2023031467/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-2024 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2023. - Ordonnantie betreffende de oprichting van een Brusselse Raad voor de uitbanning van racisme in het Brussels Hoofdstedelijk Gewest

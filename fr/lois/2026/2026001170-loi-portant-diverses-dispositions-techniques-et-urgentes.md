@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/08/2026001170/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 16-02-2026 et mise à jour au 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2026. - Loi portant diverses dispositions techniques et urgentes

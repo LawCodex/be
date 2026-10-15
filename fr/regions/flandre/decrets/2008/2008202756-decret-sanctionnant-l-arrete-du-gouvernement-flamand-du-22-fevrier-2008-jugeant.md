@@ -13,7 +13,7 @@ entry_into_force: 2007-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/04/25/2008202756/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2008. - Décret sanctionnant l'arrêté du Gouvernement flamand du 22 février 2008 jugeant recevable et équivalente la demande de dérogation aux objectifs finaux et objectifs de développement décrétaux "technologie d'information et de communication" dans l'enseignement fondamental et secondaire (TRADUCTION).

@@ -11,7 +11,7 @@ date: 1994-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/10/27/1994029479/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 1994. - Decreet van de Franse Gemeenschap houdende de algemene organisatie van het hoger onderwijs in hogescholen.

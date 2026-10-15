@@ -12,7 +12,7 @@ entry_into_force: 2010-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/07/2010009513/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2010. - Loi modifiant le Code judiciaire en ce qui concerne la désignation de magistrats admis à la retraite en tant que magistrats suppléants

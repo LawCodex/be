@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/26/2024001071/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 22-02-2024 en tekstbijwerking tot 09-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2024. - Decreet over de programmatische aanpak stikstof (Citeertitel: Stikstofdecreet)

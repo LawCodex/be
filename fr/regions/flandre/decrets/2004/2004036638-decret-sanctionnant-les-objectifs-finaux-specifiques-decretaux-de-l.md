@@ -13,7 +13,7 @@ entry_into_force: 2004-11-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036638/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret sanctionnant les objectifs finaux spécifiques décrétaux de l'enseignement secondaire général (TRADUCTION).

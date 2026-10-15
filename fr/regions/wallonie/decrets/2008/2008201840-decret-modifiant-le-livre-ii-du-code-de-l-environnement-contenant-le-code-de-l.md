@@ -13,7 +13,7 @@ entry_into_force: 2008-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/08/2008201840/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2008. - Décret modifiant le Livre II du Code de l'Environnement contenant le Code de l'Eau en ce qui concerne le Fonds de solidarité internationale pour l'eau.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/23/2016203537/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 08-07-2016 et mise à jour au 31-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2016. - Décret modifiant le Code de l'Environnement, le Code de l'Eau et divers décrets en matière de déchets et de permis d'environnement

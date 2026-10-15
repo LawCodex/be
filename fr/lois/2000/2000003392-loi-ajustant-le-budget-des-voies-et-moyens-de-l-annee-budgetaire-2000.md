@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/10/2000003392/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 05-08-2000 et mise à jour au 21-12-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2000. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 2000. -

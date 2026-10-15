@@ -13,7 +13,7 @@ last_amended: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/12/30/1963123003/justel"
 justel_note: "Consultation des versions antérieures à partir du 13-07-2026 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1963. - Loi relative à la reconnaissance et à la protection du titre de journaliste professionnel

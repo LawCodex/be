@@ -13,7 +13,7 @@ entry_into_force: 2013-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/11/21/2013031976/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2013. - Ordonnance portant assentiment à : l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'intégration des activités aériennes dans le système communautaire d'échange de quotas d'émission de gaz à effet de serre conformément à la Directive 2008/101/CE du Parlement européen et du Conseil du 19 novembre 2008 modifiant la Directive 2003/87/CE afin d'intégrer les activités aériennes dans le système communautaire d'échange de quotas d'émission de gaz à effet de serre

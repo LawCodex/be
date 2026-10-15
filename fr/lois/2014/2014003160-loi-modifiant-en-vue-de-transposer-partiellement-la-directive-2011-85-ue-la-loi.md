@@ -12,7 +12,7 @@ entry_into_force: 2014-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014003160/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant, en vue de transposer partiellement la directive 2011/85/UE, la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation de la Cour des comptes

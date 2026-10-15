@@ -11,7 +11,7 @@ date: 2017-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/27/2017040703/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2017. - Ordonnantie houdende instemming met: het Verdrag nr. 130 betreffende de geneeskundige verzorging en de uitkeringen bij ziekte, en de Bijlage, aangenomen te Genève op 25 juni 1969

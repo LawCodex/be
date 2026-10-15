@@ -13,7 +13,7 @@ entry_into_force: 2007-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/30/2006037091/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2006. - Decreet houdende de aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006.

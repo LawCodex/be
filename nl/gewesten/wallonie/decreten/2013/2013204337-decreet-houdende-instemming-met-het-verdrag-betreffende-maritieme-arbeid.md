@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/10/2013204337/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Decreet houdende instemming met het Verdrag betreffende maritieme arbeid, aangenomen in Genève op 23 februari 2006 door de Algemene Conferentie van de Internationale Arbeidsorganisatie

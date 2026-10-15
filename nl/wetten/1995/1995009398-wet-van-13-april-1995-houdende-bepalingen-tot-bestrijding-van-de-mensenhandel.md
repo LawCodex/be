@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995009398/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-1995 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - [Wet van 13 april 1995 houdende bepalingen tot bestrijding van de mensenhandel en van de mensensmokkel]. &lt;W 2005-08-10/61, art. 37, 001; Inwerkingtreding : 12-09-2005&gt;

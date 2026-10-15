@@ -12,7 +12,7 @@ published: 2001-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/05/28/2001033059/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2001. - Decreet houdende de eerste aanpassing van de algemene uitgaven van de Duitstalige Gemeenschap voor het begrotingsjaar 2001 (VERTALING).

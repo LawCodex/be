@@ -12,7 +12,7 @@ entry_into_force: 2011-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/13/2011009605/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2011. - Loi modifiant l'article 19, § 2, de la loi du 2 juin 2010 modifiant le Code civil afin de moderniser le fonctionnement des copropriétés et d'accroître la transparence de leur gestion

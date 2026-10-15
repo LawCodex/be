@@ -13,7 +13,7 @@ entry_into_force: 2002-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/30/2002027528/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2002. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'aide sociale.

@@ -13,7 +13,7 @@ entry_into_force: 2004-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/26/2004035678/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2004. - Décret portant assentiment à la convention de Stockholm sur les polluants organiques persistants et aux annexes, signées à Stockholm le 22 mai 2001 (TRADUCTION).

@@ -13,7 +13,7 @@ last_amended: 2023-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/02/24/1978022402/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-08-2007 en tekstbijwerking tot 05-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 1978. - Wet betreffende de arbeidsovereenkomst voor betaalde sportbeoefenaars.

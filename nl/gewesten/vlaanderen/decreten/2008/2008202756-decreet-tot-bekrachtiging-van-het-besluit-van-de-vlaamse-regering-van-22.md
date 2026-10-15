@@ -12,7 +12,7 @@ published: 2008-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/04/25/2008202756/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2008. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 22 februari 2008 tot ontvankelijkheid en gelijkwaardigheid van aanvragen tot afwijking van de decretaal bekrachtigde eindtermen en ontwikkelingsdoelen "informatie- en communicatietechnologie" in het basis- en secundair onderwijs.

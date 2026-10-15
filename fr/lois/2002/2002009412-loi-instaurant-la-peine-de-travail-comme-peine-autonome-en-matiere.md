@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/17/2002009412/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-05-2002 et mise à jour au 31-12-2003."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2002. - Loi instaurant la peine de travail comme peine autonome en matière correctionnelle et de police. -

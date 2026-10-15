@@ -12,7 +12,7 @@ entry_into_force: 2011-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/03/23/2011015044/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2011. - Loi portant assentiment au Protocole, fait à Bruxelles le 23 juin 2010, modifiant le Protocole sur les dispositions transitoires, annexé au Traité sur l'Union européenne, au Traité sur le fonctionnement de l'Union européenne et au Traité instituant la Communauté européenne de l'Energie atomique

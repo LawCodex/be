@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/04/19/2018011722/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2018. - Bijzondere ordonnantie tot wijziging van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen en ertoe strekkende de directe democratie te versterken door afschaffing van de lijst van de opvolgers voor de gewestverkiezingen

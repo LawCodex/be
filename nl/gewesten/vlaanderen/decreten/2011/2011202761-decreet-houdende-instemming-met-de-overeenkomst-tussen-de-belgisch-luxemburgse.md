@@ -13,7 +13,7 @@ entry_into_force: 2011-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/06/2011202761/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2011. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Republiek Togo, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Lomé op 6 juni 2009

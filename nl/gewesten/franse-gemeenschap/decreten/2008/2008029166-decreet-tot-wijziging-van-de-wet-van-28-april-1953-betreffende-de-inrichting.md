@@ -13,7 +13,7 @@ entry_into_force: 2008-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/15/2008029166/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2008. - Decreet tot wijziging van de wet van 28 april 1953 betreffende de inrichting van het universitair onderwijs door de Staat (VERTALING).

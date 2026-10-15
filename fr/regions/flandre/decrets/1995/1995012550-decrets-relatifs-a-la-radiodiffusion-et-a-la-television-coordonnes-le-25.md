@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/01/25/1995012550/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-05-1995 et mise à jour au 05-08-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 1995. - Décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995.

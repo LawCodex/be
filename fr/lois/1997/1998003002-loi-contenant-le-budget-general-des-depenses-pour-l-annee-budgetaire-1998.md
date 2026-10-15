@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1998003002/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 12-03-1998 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Loi contenant le budget général des dépenses pour l'année budgétaire 1998.

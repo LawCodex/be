@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/02/11/2010029169/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2010. - Décret modifiant le décret du 24 novembre 2006 visant l'octroi d'une licence de tireur sportif

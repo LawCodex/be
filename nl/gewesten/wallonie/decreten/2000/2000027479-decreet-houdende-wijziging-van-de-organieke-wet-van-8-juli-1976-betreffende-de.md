@@ -12,7 +12,7 @@ published: 2000-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/10/19/2000027479/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2000. - Decreet houdende wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn (VERTALING).

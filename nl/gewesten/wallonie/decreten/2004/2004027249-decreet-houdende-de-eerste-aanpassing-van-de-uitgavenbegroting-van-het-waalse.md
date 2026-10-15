@@ -13,7 +13,7 @@ entry_into_force: 2004-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/11/10/2004027249/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2004. - Decreet houdende de eerste aanpassing van de uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2004 (VERTALING).

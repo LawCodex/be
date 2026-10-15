@@ -13,7 +13,7 @@ entry_into_force: 2015-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/30/2015036444/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2015. - Décret portant assentiment à l'Accord relatif à la participation de la République de Croatie à l'Espace économique européen, à l'Acte final et aux trois conventions y afférentes, signés à Bruxelles les 11 avril 2014 et 5 novembre 2014

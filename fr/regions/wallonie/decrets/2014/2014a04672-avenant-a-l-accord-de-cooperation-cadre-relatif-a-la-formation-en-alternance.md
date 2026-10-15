@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014A04672/justel"
 department: "Commission communautaire française - Communauté française - Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 30-07-2014 et mise à jour au 24-03-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Avenant à l'accord de coopération-cadre relatif à la formation en alternance, conclu à Bruxelles, le 24 octobre 2008, entre la Communauté française, la Région wallonne et la Commission communautaire française

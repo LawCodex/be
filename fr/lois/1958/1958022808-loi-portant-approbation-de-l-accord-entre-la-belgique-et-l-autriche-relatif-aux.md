@@ -11,7 +11,7 @@ published: 1958-06-01
 entry_into_force: 1958-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/02/28/1958022808/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1958. - Loi portant approbation de l'accord entre la Belgique et l'Autriche relatif aux transports aériens et de l'annexe, signés à Vienne, le 7 janvier 1955, et de l'accord de modification, conclu par échange de lettres, datées à Bruxelles, le 29 décembre 1955.

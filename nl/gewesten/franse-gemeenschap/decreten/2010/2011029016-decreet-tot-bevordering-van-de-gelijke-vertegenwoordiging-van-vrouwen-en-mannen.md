@@ -13,7 +13,7 @@ entry_into_force: 2011-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/15/2011029016/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2010. - Decreet tot bevordering van de gelijke vertegenwoordiging van vrouwen en mannen in de organen van de rechtspersonen aangesteld door de Franse Gemeenschap

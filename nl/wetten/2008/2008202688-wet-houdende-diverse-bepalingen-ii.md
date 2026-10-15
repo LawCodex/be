@@ -12,7 +12,7 @@ entry_into_force: 2008-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/24/2008202688/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2008. - Wet houdende diverse bepalingen (II).

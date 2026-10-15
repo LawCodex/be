@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/20/2005009998/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2005 et mise à jour au 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2005. - Loi portant des dispositions diverses en matière de justice.

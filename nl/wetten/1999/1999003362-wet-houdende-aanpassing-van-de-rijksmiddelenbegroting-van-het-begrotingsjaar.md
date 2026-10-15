@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999003362/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-09-1999 en tekstbijwerking tot 23-12-1999."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet houdende aanpassing van de Rijksmiddelenbegroting van het begrotingsjaar 1999. -

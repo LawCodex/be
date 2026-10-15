@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/19/1997121952/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1997 en tekstbijwerking tot 30-08-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Bijlage 2. - Betreffende de methodologie voor de berekening van de kosten van de universele dienstverlening en de nadere regels voor de bijdrage in het Fonds voor de universele dienstverlening inzake Telecommunicatie en voor de tegemoetkoming vanwege het Fonds. -

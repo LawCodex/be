@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/30/2011009810/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 20-01-2012 et mise à jour au 30-12-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2011. - Loi modifiant la législation en ce qui concerne l'amélioration de l'approche des abus sexuels et des faits de pédophilie dans une relation d'autorité

@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/25/1996029293/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1996. - Decreet houdende de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1997 (VERTALING).

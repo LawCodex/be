@@ -13,7 +13,7 @@ entry_into_force: 2014-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/24/2014203129/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Décret portant assentiment à l'accord de coopération conclu le 20 mars 2014 entre la Communauté française, la Région wallonne, la Région de Bruxelles-Capitale, la Commission communautaire française et la Communauté germanophone organisant la mise en oeuvre d'un cadastre des parcours éducatifs et post-éducatifs

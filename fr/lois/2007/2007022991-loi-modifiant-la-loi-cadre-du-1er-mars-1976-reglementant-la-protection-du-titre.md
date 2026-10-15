@@ -12,7 +12,7 @@ entry_into_force: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007022991/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi modifiant la loi-cadre du 1er mars 1976 réglementant la protection du titre professionnel et l'exercice des professions intellectuelles prestataires de services.

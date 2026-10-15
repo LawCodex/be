@@ -12,7 +12,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/29/2023031141/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2023. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, en ce qui concerne la composition du Conseil disciplinaire de la commission de régulation de l'électricité et du gaz

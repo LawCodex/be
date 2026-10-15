@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/27/2019040693/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2019. - Wet tot wijziging van het Wetboek van de Inkomstenbelastingen 1992 wat de notie wettelijke pensioenleeftijd betreft

@@ -12,7 +12,7 @@ entry_into_force: 2005-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/13/2005009983/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2005. - Wet houdende bepalingen betreffende de termijnen, het verzoekschrift op tegenspraak en de procedure van collectieve schuldregeling.

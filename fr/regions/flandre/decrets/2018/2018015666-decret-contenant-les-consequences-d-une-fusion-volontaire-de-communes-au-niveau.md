@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2018015666/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2018 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret contenant les conséquences d'une fusion volontaire de communes au niveau de la réglementation sectorielle en matière d'environnement

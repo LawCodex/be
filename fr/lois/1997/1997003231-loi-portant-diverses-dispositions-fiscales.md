@@ -12,7 +12,7 @@ entry_into_force: 1997-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/16/1997003231/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1997. - Loi portant diverses dispositions fiscales.

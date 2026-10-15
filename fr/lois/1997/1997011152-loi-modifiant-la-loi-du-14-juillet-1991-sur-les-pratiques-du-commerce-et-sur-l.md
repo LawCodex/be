@@ -12,7 +12,7 @@ entry_into_force: 1997-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/03/1997011152/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1997. - Loi modifiant la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur.

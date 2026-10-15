@@ -13,7 +13,7 @@ entry_into_force: 1997-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/02/04/1997035199/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1997. - Décret modifiant le décret du 28 janvier 1977 relatif à la protection de la dénomination des voies et places publiques (TRADUCTION).

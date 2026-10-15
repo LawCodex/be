@@ -10,7 +10,7 @@ date: 2003-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015110/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met het Protocol nr. 13 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, inzake de afschaffing van de doodstraf onder alle omstandigheden, gedaan te Vilnius op 3 mei 2002.

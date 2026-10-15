@@ -12,7 +12,7 @@ entry_into_force: 1981-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/02/10/1981000210/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1981. \_ Herstelwet inzake overheidspensioenen.

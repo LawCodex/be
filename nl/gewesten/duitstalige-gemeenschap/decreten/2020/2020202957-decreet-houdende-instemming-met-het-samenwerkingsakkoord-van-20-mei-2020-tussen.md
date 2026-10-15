@@ -13,7 +13,7 @@ entry_into_force: 2020-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/22/2020202957/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2020. - Decreet houdende instemming met het Samenwerkingsakkoord van 20 mei 2020 tussen de Duitstalige Gemeenschap en het Waalse Gewest betreffende het bereiken van de Europese energie- en klimaatdoelstellingen

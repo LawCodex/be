@@ -13,7 +13,7 @@ entry_into_force: 2005-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036021/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Décret modifiant le décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I (TRADUCTION).

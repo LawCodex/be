@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015022279/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-08-2015 en tekstbijwerking tot 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - [Wet tot verhoging van de wettelijke leeftijd voor het rustpension en tot wijziging van de voorwaarden voor de toegang tot het vervroegd pensioen en de minimumleeftijd voor het overlevingspensioen]

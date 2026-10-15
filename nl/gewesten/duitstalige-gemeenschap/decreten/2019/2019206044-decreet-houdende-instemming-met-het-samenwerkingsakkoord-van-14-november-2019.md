@@ -13,7 +13,7 @@ entry_into_force: 2020-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/12/2019206044/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2019. - Decreet houdende instemming met het Samenwerkingsakkoord van 14 november 2019 tussen het Waals Gewest en de Duitstalige Gemeenschap over de uitoefening van de bevoegdheden inzake ruimtelijke ordening en bepaalde aanverwante materies

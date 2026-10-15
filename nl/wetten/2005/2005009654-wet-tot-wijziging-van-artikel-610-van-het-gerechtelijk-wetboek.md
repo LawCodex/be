@@ -10,7 +10,7 @@ date: 2005-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/08/10/2005009654/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2005. - Wet tot wijziging van artikel 610 van het Gerechtelijk Wetboek.

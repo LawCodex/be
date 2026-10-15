@@ -12,7 +12,7 @@ entry_into_force: 1995-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/12/01/1995009927/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 1995. - Loi relatif à la prorogation de certains baux à loyer.

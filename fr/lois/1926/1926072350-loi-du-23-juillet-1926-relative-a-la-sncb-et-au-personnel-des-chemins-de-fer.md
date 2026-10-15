@@ -13,7 +13,7 @@ last_amended: 2026-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1926/07/23/1926072350/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 02-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1926. - Loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges (Intitulé remplacé par AR 2013-12-11/02 , art. 4, 007; En vigueur : 01-01-2014)

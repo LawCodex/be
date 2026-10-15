@@ -12,7 +12,7 @@ entry_into_force: 2026-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/08/2025009809/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2025. - Loi modifiant diverses dispositions relatives au statut des militaires

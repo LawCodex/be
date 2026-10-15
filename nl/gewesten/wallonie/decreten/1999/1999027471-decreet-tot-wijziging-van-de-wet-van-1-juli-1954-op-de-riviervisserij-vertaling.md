@@ -13,7 +13,7 @@ entry_into_force: 1999-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027471/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet tot wijziging van de wet van 1 juli 1954 op de riviervisserij (VERTALING).

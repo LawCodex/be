@@ -12,7 +12,7 @@ entry_into_force: 2020-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/22/2020042756/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2020. - Loi modifiant l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, en ce qui concerne la réglementation relative aux piétons et aux cyclistes

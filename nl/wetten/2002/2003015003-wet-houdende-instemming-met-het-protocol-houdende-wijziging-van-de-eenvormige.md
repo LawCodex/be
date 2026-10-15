@@ -12,7 +12,7 @@ entry_into_force: 2003-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/24/2003015003/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2002. - Wet houdende instemming met het Protocol houdende wijziging van de eenvormige Beneluxwet op de merken, gedaan te Brussel op 11 december 2001.

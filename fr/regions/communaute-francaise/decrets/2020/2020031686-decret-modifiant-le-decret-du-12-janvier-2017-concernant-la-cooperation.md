@@ -13,7 +13,7 @@ entry_into_force: 2020-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/12/2020031686/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2020. - Décret modifiant le décret du 12 janvier 2017 concernant la coopération administrative dans le domaine fiscal, en vue de la transposition de la Directive européenne 2018/822/UE sur la coopération administrative

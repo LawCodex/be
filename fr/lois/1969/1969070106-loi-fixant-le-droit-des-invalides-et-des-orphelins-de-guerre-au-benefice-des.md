@@ -11,7 +11,7 @@ published: 1969-07-15
 entry_into_force: 1969-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/07/01/1969070106/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 1969. - Loi fixant le droit des invalides et des orphelins de guerre au bénéfice des soins de santé aux frais de l'Etat.

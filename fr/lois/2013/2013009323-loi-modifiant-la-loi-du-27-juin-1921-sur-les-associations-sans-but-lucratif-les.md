@@ -12,7 +12,7 @@ entry_into_force: 2013-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/24/2013009323/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Loi modifiant la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales sans but lucratif et les fondations en ce qui concerne la convocation de l'assemblée générale

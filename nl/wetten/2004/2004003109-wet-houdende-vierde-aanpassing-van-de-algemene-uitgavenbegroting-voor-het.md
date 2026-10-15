@@ -12,7 +12,7 @@ entry_into_force: 2004-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/10/2004003109/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2004. - Wet houdende vierde aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 2003.

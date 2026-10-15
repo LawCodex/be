@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035672/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant diverses dispositions du décret du 13 avril 1999 portant autorisation du Gouvernement flamand à accéder et à participer à la création de l'association sans but lucratif " Vlaams Audiovisueel Fonds " (Fonds audiovisuel flamand)

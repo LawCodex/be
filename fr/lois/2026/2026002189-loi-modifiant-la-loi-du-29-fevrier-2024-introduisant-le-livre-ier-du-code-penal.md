@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/16/2026002189/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 25-03-2026 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2026. - Loi modifiant la loi du 29 février 2024 introduisant le livre Ier du Code pénal et la loi du 29 février 2024 introduisant le livre II du Code pénal

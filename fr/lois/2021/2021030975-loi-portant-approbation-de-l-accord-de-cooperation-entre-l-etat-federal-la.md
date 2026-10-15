@@ -12,7 +12,7 @@ entry_into_force: 2021-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/04/18/2021030975/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2021. - Loi portant approbation de l'accord de coopération entre l'Etat fédéral, la Communauté flamande, la Région Flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté française et la Communauté germanophone sur l'utilisation de SURE

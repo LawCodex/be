@@ -13,7 +13,7 @@ entry_into_force: 2002-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/07/2002033100/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2002. - Décret portant assentiment au protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, fait à Strasbourg le 9 novembre 1995 (TRADUCTION).

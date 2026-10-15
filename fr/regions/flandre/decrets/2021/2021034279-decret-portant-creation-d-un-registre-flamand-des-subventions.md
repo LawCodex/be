@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/19/2021034279/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-12-2021 et mise à jour au 30-05-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2021. - Décret portant création d'un registre flamand des subventions

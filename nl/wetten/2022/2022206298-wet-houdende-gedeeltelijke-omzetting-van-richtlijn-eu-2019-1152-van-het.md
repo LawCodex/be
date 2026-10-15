@@ -11,7 +11,7 @@ published: 2022-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/07/2022206298/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2022. - Wet houdende gedeeltelijke omzetting van Richtlijn (EU) 2019/1152 van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie

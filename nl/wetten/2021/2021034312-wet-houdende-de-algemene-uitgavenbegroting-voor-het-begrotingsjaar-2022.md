@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/23/2021034312/justel"
 department: "Beleid en Ondersteuning"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2021 en tekstbijwerking tot 12-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Wet houdende de algemene uitgavenbegroting voor het begrotingsjaar 2022

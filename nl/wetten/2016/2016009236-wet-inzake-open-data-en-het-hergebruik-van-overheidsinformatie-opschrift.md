@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/04/2016009236/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 03-06-2016 en tekstbijwerking tot 23-01-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2016. - [Wet inzake open data en het hergebruik van overheidsinformatie] (Opschrift vervangen door L 2023-12-25/22 , art. 2, 003; Inwerkingtreding : 23-01-2024)

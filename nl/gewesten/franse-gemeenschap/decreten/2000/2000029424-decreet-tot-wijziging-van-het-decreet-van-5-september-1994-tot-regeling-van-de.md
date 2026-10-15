@@ -12,7 +12,7 @@ published: 2000-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/30/2000029424/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2000. - Decreet tot wijziging van het decreet van 5 september 1994 tot regeling van de universitaire studies en de academische graden (VERTALING).

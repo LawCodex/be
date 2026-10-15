@@ -12,7 +12,7 @@ entry_into_force: 2025-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/10/24/2025008101/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2025. - Loi portant confirmation de l'arrêté royal du 18 octobre 2024 fixant pour l'année 2024 le montant de la contribution de répartition visée à l'article 14, § 8, de la loi du 11 avril 2003 sur la contribution de répartition

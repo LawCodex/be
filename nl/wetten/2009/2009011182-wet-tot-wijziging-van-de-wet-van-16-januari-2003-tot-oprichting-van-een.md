@@ -12,7 +12,7 @@ entry_into_force: 2009-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/20/2009011182/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2009. - Wet tot wijziging van de wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen

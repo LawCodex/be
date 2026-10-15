@@ -12,7 +12,7 @@ entry_into_force: 2016-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/10/2014015243/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2014. - Wet houdende instemming met volgende internationale akten: 1° de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Bahrein tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Manama op 4 november 2007, en 2° het Protocol, gedaan te Manama op 23 november 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Bahrein tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en houdende aanpassing van de Belgische belastingswetgeving aan sommige bepalingen van voornoemde internationale akten

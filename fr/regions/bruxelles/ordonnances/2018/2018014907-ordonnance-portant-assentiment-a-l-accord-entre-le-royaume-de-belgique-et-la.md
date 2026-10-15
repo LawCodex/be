@@ -13,7 +13,7 @@ entry_into_force: 2018-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/11/15/2018014907/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2018. - Ordonnance portant assentiment à : l'Accord entre le Royaume de Belgique et la République argentine concernant l'autorisation pour les membres de la famille à charge du personnel des missions diplomatiques et des postes consulaires d'effectuer des activités rémunérées, signé à Bruxelles le 20 avril 2017

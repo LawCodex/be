@@ -12,7 +12,7 @@ entry_into_force: 1997-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/26/1997015036/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 1996. - Loi portant assentiment à la Convention sur la sûreté nucléaire, faite à Vienne le 20 septembre 1994.

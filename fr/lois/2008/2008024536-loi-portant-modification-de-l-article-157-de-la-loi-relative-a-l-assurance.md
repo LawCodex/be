@@ -12,7 +12,7 @@ entry_into_force: 2009-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/19/2008024536/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Loi portant modification de l'article 157 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

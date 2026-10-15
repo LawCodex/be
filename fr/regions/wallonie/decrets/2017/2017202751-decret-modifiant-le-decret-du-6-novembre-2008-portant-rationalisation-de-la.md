@@ -12,7 +12,7 @@ published: 2017-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017202751/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret modifiant le décret du 6 novembre 2008 portant rationalisation de la fonction consultative et diverses dispositions relatives à la fonction consultative. - Erratum

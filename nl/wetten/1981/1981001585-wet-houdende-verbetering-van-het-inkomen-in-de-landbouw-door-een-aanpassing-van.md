@@ -11,7 +11,7 @@ entry_into_force: 1981-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/08/03/1981001585/justel"
 department: "Landbouw - Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 1981. - Wet houdende verbetering van het inkomen in de landbouw door een aanpassing van de financiële tegemoetkoming.

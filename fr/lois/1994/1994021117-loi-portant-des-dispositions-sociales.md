@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/30/1994021117/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 07-09-1994 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1994. - Loi portant des dispositions sociales.

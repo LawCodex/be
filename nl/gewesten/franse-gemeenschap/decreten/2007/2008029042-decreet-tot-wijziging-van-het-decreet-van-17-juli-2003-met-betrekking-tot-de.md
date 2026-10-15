@@ -13,7 +13,7 @@ entry_into_force: 2008-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2008029042/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet tot wijziging van het decreet van 17 juli 2003 met betrekking tot de steun aan het verenigingsleven op het gebied van de permanente opvoeding (VERTALING).

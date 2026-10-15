@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "De artikelen 19, 24, 25, 30, 35 en 46 zijn gewijzigd en art. 65bis en 65ter zijn ingevoegd met ingang op een onbepaalde datum door DWG 2005-07-20/66 , art. 28 à 35, 002; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 06-09-2005 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet betreffende de organisatie van het toerisme (VERTALING).

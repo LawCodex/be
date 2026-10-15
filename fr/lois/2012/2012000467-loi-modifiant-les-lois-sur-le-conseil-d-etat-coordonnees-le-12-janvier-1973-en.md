@@ -12,7 +12,7 @@ entry_into_force: 2012-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012000467/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi modifiant les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, en ce qui concerne l'examen des litiges par l'assemblée générale de la section du contentieux administratif, à la demande de personnes établies dans les communes périphériques

@@ -13,7 +13,7 @@ entry_into_force: 2024-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024003377/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Décret modifiant le décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, en ce qui concerne les tâches de la Commission de contrôle flamande

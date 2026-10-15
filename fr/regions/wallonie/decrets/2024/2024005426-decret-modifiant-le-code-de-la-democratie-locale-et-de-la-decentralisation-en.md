@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/14/2024005426/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2024 et mise à jour au 25-11-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2024. - Décret modifiant le Code de la démocratie locale et de la décentralisation en ce qui concerne la fonction publique locale

@@ -12,7 +12,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/04/19/2018202303/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Loi portant modification de la loi du 15 avril 1994 relative à la protection de la population et de l'enveronnement contre les dangers resultant des rayonnements ionisants et relative à l'Agence fédérale de contrôle nucléaire

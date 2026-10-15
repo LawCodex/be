@@ -13,7 +13,7 @@ entry_into_force: 2018-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/11/15/2018014905/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2018. - Ordonnance portant assentiment à : l'Arrangement entre le Royaume de Belgique et l'Organisation du Traité de l'Atlantique Nord concernant le statut de certaines catégories de personnel des agences de l'OTAN installées sur le territoire du Royaume de Belgique, fait à Bruxelles, le 20 mai 2016

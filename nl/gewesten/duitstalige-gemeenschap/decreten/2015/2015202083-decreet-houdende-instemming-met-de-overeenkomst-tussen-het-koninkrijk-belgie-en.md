@@ -13,7 +13,7 @@ entry_into_force: 2015-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/20/2015202083/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2015. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Eiland Man tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen en met het Protocol, gedaan te Brussel op 16 juli 2009

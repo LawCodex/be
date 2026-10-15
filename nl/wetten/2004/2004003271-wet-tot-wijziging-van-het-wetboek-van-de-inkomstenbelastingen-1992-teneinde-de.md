@@ -10,7 +10,7 @@ date: 2004-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/04/2004003271/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2004. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 teneinde de omzetting van de richtlijn van de Raad van de Europese Unie van 3 juni 2003 (2003/49/EG) betreffende een gemeenschappelijke belastingregeling inzake uitkeringen van interest en royalty's tussen verbonden ondernemingen van verschillende lid-Staten te verwezenlijken.

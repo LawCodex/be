@@ -16,7 +16,7 @@ department: "Autorité flamande"
 justel_notes:
   - "publié en format image PDF non récupérable"
   - "Consultation des versions antérieures à partir du 27-02-2014 et mise à jour au 18-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 OCTOBRE 2013. - Codification des dispositions décrétales relatives à l'enseignement supérieur (cité comme : Code de l'Enseignement supérieur)

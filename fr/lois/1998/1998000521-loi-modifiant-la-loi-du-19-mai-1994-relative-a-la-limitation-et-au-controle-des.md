@@ -12,7 +12,7 @@ entry_into_force: 1998-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/25/1998000521/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1998. - Loi modifiant la loi du 19 mai 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection du Parlement européen.

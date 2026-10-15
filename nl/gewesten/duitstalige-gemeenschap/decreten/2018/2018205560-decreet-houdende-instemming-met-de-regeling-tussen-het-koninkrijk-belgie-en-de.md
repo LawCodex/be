@@ -11,7 +11,7 @@ date: 2018-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/15/2018205560/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2018. - Decreet houdende instemming met de regeling tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de rechtspositie van sommige personeelscategorieën van de agentschappen van de NAVO die op het grondgebied van het Koninkrijk België gevestigd zijn, gedaan te Brussel op 20 mei 2016

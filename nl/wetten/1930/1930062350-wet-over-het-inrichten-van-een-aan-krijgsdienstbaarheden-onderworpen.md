@@ -13,7 +13,7 @@ last_amended: 2018-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1930/06/23/1930062350/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-08-2018 en tekstbijwerking tot 10-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1930. - Wet over het inrichten van een aan krijgsdienstbaarheden onderworpen veiligheidsgordel, rondom de vliegvelden door één of meer eskadrils van 't leger gebruikt

@@ -12,7 +12,7 @@ entry_into_force: 2006-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/08/2006011553/justel"
 department: "Justice - Finances - Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2006. - Loi organisant une voie de recours contre l'amende administrative infligée dans le cadre de l'application de la loi du 8 décembre 2006 établissant un prélèvement visant à lutter contre la non-utilisation d'un site de production d'électricité par un producteur.

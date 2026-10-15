@@ -12,7 +12,7 @@ entry_into_force: 2021-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/16/2021040955/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2021. - Wet tot uitstel van de inwerkingtreding van de bepalingen inzake de externe rechtspositie van veroordeelden tot een vrijheidsstraf voor de vrijheidsstraffen van drie jaar of minder

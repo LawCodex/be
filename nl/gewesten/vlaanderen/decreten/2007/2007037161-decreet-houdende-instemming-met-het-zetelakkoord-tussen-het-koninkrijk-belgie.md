@@ -13,7 +13,7 @@ entry_into_force: 2008-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/23/2007037161/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2007. - Decreet houdende instemming met het zetelakkoord tussen het Koninkrijk België en het " International Plant Genetic Resources Institute ", ondertekend te Brussel op 15 oktober 2003.

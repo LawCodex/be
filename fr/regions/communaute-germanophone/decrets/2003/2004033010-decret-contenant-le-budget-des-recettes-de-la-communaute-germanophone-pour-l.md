@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/01/2004033010/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er DECEMBRE 2003. - Décret contenant le budget des recettes de la Communauté germanophone pour l'année budgétaire 2004 (TRADUCTION).

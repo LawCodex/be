@@ -12,7 +12,7 @@ entry_into_force: 1995-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995011195/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - Wet houdende de verplichting voor banken en kredietinstellingen om bepaalde informatie aan hun cliënten mede te delen.

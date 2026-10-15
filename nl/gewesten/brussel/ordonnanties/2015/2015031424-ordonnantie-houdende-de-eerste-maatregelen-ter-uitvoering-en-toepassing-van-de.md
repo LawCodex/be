@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/02/2015031424/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Ordonnantie houdende de eerste maatregelen ter uitvoering en toepassing van de Zesde Staatshervorming met betrekking tot de advies- en bemiddelingsorganen inzake het betaald educatief verlof en het Ervaringsfonds

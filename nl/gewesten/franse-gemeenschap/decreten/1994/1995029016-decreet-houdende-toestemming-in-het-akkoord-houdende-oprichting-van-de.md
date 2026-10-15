@@ -13,7 +13,7 @@ entry_into_force: 1995-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995029016/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - Decreet houdende toestemming in het Akkoord houdende oprichting van de Wereldhandelsorganisatie, in de Slotakte, in de Bijlagen 1A, 1B, 1c, 2, 3 en 4, in de Verklaringen en Ministeriële Beslissingen en in het Memorandum van akkoord inzake de verbintenissen betreffende financiële diensten, opgemaakt te Marrakech, op 15 april 1994. (VERTALING)

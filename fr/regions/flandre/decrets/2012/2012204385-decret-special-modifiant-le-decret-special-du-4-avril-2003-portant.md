@@ -13,7 +13,7 @@ entry_into_force: 2013-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204385/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret spécial modifiant le décret spécial du 4 avril 2003 portant participation d'institutions communautaires aux associations dans l'enseignement supérieur

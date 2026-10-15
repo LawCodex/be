@@ -13,7 +13,7 @@ entry_into_force: 2026-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/03/2026003185/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2026. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales en matière de politique environnementale, en ce qui concerne la mise en place d'un système d'échange de quotas d'émission pour le secteur du bâtiment, le secteur du transport routier et d'autres secteurs

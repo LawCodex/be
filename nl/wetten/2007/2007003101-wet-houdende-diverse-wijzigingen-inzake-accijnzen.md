@@ -12,7 +12,7 @@ entry_into_force: 2007-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/25/2007003101/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2007. - Wet houdende diverse wijzigingen inzake accijnzen.

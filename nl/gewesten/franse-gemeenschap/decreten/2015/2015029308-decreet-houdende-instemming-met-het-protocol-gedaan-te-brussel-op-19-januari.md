@@ -13,7 +13,7 @@ entry_into_force: 2015-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029308/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 19 januari 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en van het Protocol, ondertekend te Brussel op 28 juni 1974, zoals gewijzigd bij de Aanvullende Overeenkomst ondertekend te Brussel op 23 juni 1993

@@ -11,7 +11,7 @@ entry_into_force: 1997-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/26/2000062651/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2000. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake het vervoer van aardgas door middel van een pijpleiding tussen het Koninkrijk België en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, ondertekend te Brussel op 10 december 1997.

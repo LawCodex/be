@@ -13,7 +13,7 @@ entry_into_force: 2004-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/29/2004200365/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2004. - Décret habilitant le Gouvernement à codifier la législation relative aux pouvoirs locaux.

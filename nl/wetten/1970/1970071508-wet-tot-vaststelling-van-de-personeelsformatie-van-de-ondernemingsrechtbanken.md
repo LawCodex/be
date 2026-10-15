@@ -13,7 +13,7 @@ last_amended: 2019-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/15/1970071508/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-2005 en tekstbijwerking tot 19-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1970. - Wet tot vaststelling van de personeelsformatie van de [ondernemingsrechtbanken] en tot wijziging van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek. &lt;W 2019-05-05/19 , art. 103, 007; Inwerkingtreding : 29-06-2019&gt;

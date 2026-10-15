@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019012255/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, le décret du 8 juin 2007 relatif à l'aide financière aux études de la Communauté flamande, le Code de l'Enseignement secondaire du 17 décembre 2010, la codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016 et le décret du 27 avril 2018 réglant les allocations dans le cadre de la politique familiale, pour ce qui est de l'alignement sur le décret du 27 avril 2018 réglant les allocations dans le cadre de la politique familiale

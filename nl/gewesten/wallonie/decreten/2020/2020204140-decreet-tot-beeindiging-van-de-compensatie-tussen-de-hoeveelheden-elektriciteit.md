@@ -13,7 +13,7 @@ entry_into_force: 2020-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/01/2020204140/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OKTOBER 2020. - Decreet tot beëindiging van de compensatie tussen de hoeveelheden elektriciteit opgenomen en geïnjecteerd op het net en tot toekenning van premies ter bevordering van het rationeel energiegebruik en de elektriciteitsproductie uit hernieuwbare energiebronnen

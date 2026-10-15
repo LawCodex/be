@@ -13,7 +13,7 @@ entry_into_force: 2014-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/07/2013029634/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2013. - Décret relatif à la preuve des connaissances linguistiques requises par les lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966

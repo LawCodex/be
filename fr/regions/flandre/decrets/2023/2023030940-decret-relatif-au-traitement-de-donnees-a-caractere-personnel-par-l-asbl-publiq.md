@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/24/2023030940/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-08-2023 et mise à jour au 08-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2023. - Décret relatif au traitement de données à caractère personnel par l'asbl publiq dans le cadre de la mise en oeuvre d'un pass temps libre flamand

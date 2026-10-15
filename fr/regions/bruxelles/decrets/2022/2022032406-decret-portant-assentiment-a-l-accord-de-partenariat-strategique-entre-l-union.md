@@ -13,7 +13,7 @@ entry_into_force: 2022-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/12/2022032406/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2022. - Décret portant assentiment à l'Accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Japon, d'autre part, fait à Tokyo le 17 juillet 2018

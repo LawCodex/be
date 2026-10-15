@@ -12,7 +12,7 @@ entry_into_force: 2004-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/25/2004000265/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2004. - Loi insérant un article 17bis dans la loi du 10 avril 1990 sur les entreprises de gardiennage, les entreprises de sécurité et les services internes de gardiennage.

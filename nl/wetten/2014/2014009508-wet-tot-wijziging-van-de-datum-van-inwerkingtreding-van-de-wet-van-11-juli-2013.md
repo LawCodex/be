@@ -12,7 +12,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/11/26/2014009508/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2014. - Wet tot wijziging van de datum van inwerkingtreding van de wet van 11 juli 2013 tot wijziging van het Burgerlijk Wetboek wat de zakelijke zekerheden op roerende goederen betreft en tot opheffing van diverse bepalingen ter zake

@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/24/2002035848/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2002. - Décret portant modification des articles 98 et 100 du Code des taxes assimilées aux impôts sur les revenus (TRADUCTION).

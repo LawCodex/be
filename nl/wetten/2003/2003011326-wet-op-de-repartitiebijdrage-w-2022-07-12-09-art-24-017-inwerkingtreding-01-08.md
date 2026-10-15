@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/11/2003011326/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-2003 en tekstbijwerking tot 22-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2003. - [Wet op de repartitiebijdrage.] &lt;W 2022-07-12/09 , art. 24, 017; Inwerkingtreding : 01-08-2022&gt;

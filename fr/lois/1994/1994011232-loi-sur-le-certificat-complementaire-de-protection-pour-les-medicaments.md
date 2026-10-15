@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/29/1994011232/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 12-04-2007 et mise à jour au 11-09-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 1994. - Loi sur le certificat complémentaire de protection pour les médicaments.

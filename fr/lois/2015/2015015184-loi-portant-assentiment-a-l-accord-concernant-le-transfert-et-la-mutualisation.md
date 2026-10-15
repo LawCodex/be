@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/27/2015015184/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2015 et mise à jour au 11-07-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2015. - Loi portant assentiment à l'Accord concernant le transfert et la mutualisation des contributions au fonds de résolution unique, signé à Bruxelles le 21 mai 2014

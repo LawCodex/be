@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/10/2007009651/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2007. - Loi portant assentiment à l'accord de coopération du 13 décembre 2006 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Région wallonne, la Communauté germanophone et la Commission communautaire commune portant sur l'entrée en vigueur de l'article 7, 7° de la loi du 13 juin 2006 modifiant la législation relative à la protection de la jeunesse et à la prise en charge des mineurs ayant commis un fait qualifié infraction.

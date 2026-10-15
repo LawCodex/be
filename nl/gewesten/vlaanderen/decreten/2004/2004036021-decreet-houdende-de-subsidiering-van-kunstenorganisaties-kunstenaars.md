@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/02/2004036021/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 06-07-2004 en tekstbijwerking tot 26-05-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet houdende de subsidiëring van kunstenorganisaties, kunstenaars, organisaties voor kunsteducatie en organisaties voor sociaal-artistieke werking, internationale initiatieven, publicaties en steunpunten. (aangehaald als : Kunstendecreet)

@@ -12,7 +12,7 @@ entry_into_force: 2015-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/04/28/2015012133/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2015. - Wet tot instelling van de maximale marge voor loonkostenontwikkeling voor de jaren 2015 en 2016

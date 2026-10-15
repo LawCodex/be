@@ -11,7 +11,7 @@ date: 2023-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/28/2023205749/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2023. - Decreet houdende instemming, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Europees Verdrag inzake een geïntegreerde veiligheid, beveiliging en dienstenbenadering bij voetbalwedstrijden en andere sportevenementen, opgemaakt te Saint-Denis op 3 juli 2016

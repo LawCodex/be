@@ -13,7 +13,7 @@ entry_into_force: 2018-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/11/2018031662/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Décret-programme portant diverses mesures relatives aux infrastructures hospitalières universitaires, à l'enseignement supérieur, aux infrastructures scolaires, aux Fonds budgétaires, aux Affaires générale, à la Culture, aux Ecoles de devoir, au subventionnement de l'emploi dans les secteurs socioculturels

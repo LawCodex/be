@@ -13,7 +13,7 @@ entry_into_force: 2021-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/10/2021034329/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2021. - Ordonnance insérant un régime dérogatoire transitoire dans l'ordonnance du 27 avril 1995 relative aux services de taxis et aux services de location de voitures avec chauffeur

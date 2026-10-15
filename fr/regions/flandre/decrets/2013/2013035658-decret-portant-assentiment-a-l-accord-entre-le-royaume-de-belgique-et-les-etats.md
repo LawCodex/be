@@ -13,7 +13,7 @@ entry_into_force: 2013-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/05/2013035658/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2013. - Décret portant assentiment à l'accord entre le Royaume de Belgique et les Etats-Unis d'Amérique en matière de statut d'une catégorie de personnel des Forces armées des Etats-Unis, signé à Bruxelles le 13 juillet 2012

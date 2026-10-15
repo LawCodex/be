@@ -12,7 +12,7 @@ entry_into_force: 2004-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/24/2004015166/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2004. - Loi portant assentiment aux actes internationaux suivants : 1° la Convention des Nations unies contre la criminalité transnationale organisée; 2° le Protocole contre le trafic illicite de migrants par terre, air et mer, additionnel à la Convention des Nations unies contre la criminalité transnationale organisée; 3° le Protocole additionnel la Convention des Nations unies contre la criminalité transnationale organisée visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, faits à New York le 15 novembre 2000; 4° le Protocole contre la fabrication et le trafic illicites d'armes à feu, de leurs pièces, éléments et munitions, additionnel à la Convention des Nations unies contre la criminalité transnationale organisée, fait à New York le 31 mai 2001.

@@ -13,7 +13,7 @@ entry_into_force: 2008-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/12/2008031432/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2008. - Décret portant assentiment à l'Accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, et à l'Acte final, faits à Luxembourg le 26 octobre 2004.

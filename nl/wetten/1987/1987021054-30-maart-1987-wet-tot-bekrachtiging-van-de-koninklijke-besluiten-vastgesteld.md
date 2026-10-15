@@ -12,7 +12,7 @@ entry_into_force: 1987-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/03/30/1987021054/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1987. \_ Wet tot bekrachtiging van de koninklijke besluiten vastgesteld ter uitvoering van artikel 1 van de wet van 27 maart 1986 tot toekenning van bepaalde bijzondere machten aan de Koning. (NOTA 1 : Bij arrest van 08-06-1988 (B.St. 06-07-1988, p. 9828), heeft het Arbitragehof artikel 4, 3° van de wet van 30 maart 1987 vernietigd, voor zover die bepaling artikel 3, vierde lid, bekrachtigt van het koninklijk besluit nr. 474 1986-10-28/30) (NOTA 2 : Bij arrest van 21-12-1988 (B.St. 31-12-1988, p. 18216), heeft het Arbitragehof artikel 4, 1° van de wet van 30 maart 1987 vernietigd, voor zover die bepaling artikel 3 van het koninklijk besluit nr. 472 van 28 oktober 1986 tot wijziging van de wet van 22 december 1977 betreffende de budgetaire voorstellen 1977-1978 bekrachtigt, alsmede voormeld artikel 3 van bedoeld koninklijk besluit, voor zover die bepalingen voor het Vlaamse Gewest en het Waalse Gewest gelden.) (NOTA 3 : Bij arrest van 02-02-1989 (B.St. 03-03-1989, p. 3896), heeft het Arbitragehof artikel 4, 2° van de wet van 30 maart 1987 vernietigd, voor zover die bepalingen voor het Vlaamse en het Waalse Gewest gelden; het Hof handhaaft definitief de gevolgen van de aldus vernietigde bepalingen ten aanzien van alle overeenkomsten die vóór (03-03-1989) op grond van de aangevochten normen zijn tot stand gekomen.)

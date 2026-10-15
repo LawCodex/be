@@ -13,7 +13,7 @@ entry_into_force: 2011-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/04/2011035278/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2011. - Decreet houdende instemming met het Facultatief Protocol bij het Internationaal Verdrag inzake economische, sociale en culturele rechten, opgemaakt in New York op 10 december 2008

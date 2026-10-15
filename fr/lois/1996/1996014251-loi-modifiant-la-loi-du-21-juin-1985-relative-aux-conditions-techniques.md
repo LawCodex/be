@@ -12,7 +12,7 @@ entry_into_force: 1996-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/27/1996014251/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1996. - Loi modifiant la loi du 21 juin 1985 relative aux conditions techniques auxquelles doivent répondre tout véhicule de transport par terre, ses éléments ainsi que les accessoires de sécurité.

@@ -10,7 +10,7 @@ date: 2011-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/07/2011003370/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2011. - Wet houdende fiscale en diverse bepalingen

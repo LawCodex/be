@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/17/2020040460/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2020. - Wet tot regeling van de financiering van de eindeloopbaanmaatregelen voor de personeelsleden van de lokale politie voor het jaar 2020

@@ -13,7 +13,7 @@ entry_into_force: 1999-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/22/1999031233/justel"
 department: "Brussels Hoofdstedelijk Gewest - Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende de coördinatie en het beheer van de hulp vanwege de Europese Commissie op het vlak van de human resources en de oprichting van het " Agentschap Europees sociaal Fonds ", gesloten te Brussel op 2 september 1998 tussen de Waalse Regering, de Franse Gemeenschapsregering en het College van de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest (VERTALING).

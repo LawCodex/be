@@ -13,7 +13,7 @@ last_amended: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1879/08/21/1879082150/justel"
 justel_note: "Consultation des versions antérieures à partir du 16-04-1987 et mise à jour au 10-10-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AOUT 1879. - CODE DE COMMERCE LIVRE II - [Code des privilèges maritimes déterminés et des dispositions diverses] &lt;L 2018-04-15/14 , art. 259, 016; En vigueur : 01-11-2018&gt;

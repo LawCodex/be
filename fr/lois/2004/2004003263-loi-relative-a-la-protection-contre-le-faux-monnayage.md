@@ -12,7 +12,7 @@ entry_into_force: 2004-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/12/2004003263/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Loi relative à la protection contre le faux monnayage

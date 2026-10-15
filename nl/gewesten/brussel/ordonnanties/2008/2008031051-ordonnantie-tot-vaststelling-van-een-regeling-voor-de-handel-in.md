@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/01/31/2008031051/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-02-2011 en tekstbijwerking tot 21-05-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2008. - Ordonnantie tot vaststelling van een regeling voor de handel in broeikasgasemissierechten en met betrekking tot de flexibiliteitsmechanismen van het protocol van Kyoto

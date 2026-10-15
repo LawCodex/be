@@ -13,7 +13,7 @@ entry_into_force: 2019-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/01/2019030259/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Décret portant assentiment à l'accord de coopération du 25 juillet 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service et des citernes de gasoil à des fins de chauffage et modifiant le décret du 27 octobre 2006 relatif à l'assainissement du sol et à la protection du sol

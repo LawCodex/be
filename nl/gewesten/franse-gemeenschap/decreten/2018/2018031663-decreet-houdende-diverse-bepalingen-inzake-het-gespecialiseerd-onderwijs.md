@@ -12,7 +12,7 @@ published: 2018-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/11/2018031663/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Decreet houdende diverse bepalingen inzake het gespecialiseerd onderwijs

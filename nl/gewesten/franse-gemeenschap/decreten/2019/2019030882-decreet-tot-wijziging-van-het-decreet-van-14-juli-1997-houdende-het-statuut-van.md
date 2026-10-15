@@ -12,7 +12,7 @@ published: 2019-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/09/18/2019030882/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2019. - Decreet tot wijziging van het decreet van 14 juli 1997 houdende het statuut van de " Radio-Télévision belge de la Communauté française (RTBF) "

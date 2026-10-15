@@ -12,7 +12,7 @@ entry_into_force: 2015-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/30/2015022340/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2015. - Loi modifiant l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, visant la non prise en compte de la prime "Impulseo 1" dans le calcul des cotisations sociales

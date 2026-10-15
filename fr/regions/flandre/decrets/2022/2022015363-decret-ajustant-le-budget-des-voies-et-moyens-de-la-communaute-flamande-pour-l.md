@@ -13,7 +13,7 @@ entry_into_force: 2022-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/08/2022015363/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2022. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2022

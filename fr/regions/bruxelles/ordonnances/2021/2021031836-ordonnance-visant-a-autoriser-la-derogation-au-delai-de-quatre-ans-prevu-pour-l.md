@@ -13,7 +13,7 @@ entry_into_force: 2021-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/15/2021031836/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2021. - Ordonnance visant à autoriser la dérogation au délai de quatre ans prévu pour l'organisation des élections des membres des Conseils consultatifs des locataires au sein des sociétés immobilières de service public

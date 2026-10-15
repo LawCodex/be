@@ -13,7 +13,7 @@ entry_into_force: 2013-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/12/21/2013031049/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2012. - Ordonnantie houdende instemming met :1° de Overeenkomst tussen het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting naar het inkomen en naar vermogenswinsten, ondertekend te Brussel op 1 juni 1987 en gewijzigd door het Protocol gedaan te Parijs op 24 juni 2009;2° het Protocol, gedaan te Parijs op 24 juni 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting naar het inkomen en naar vermogenswinsten, ondertekend te Brussel op 1 juni 1987

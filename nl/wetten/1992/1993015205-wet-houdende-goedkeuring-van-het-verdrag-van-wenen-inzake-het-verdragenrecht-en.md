@@ -12,7 +12,7 @@ entry_into_force: 1992-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/06/10/1993015205/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1992. - Wet houdende goedkeuring van het Verdrag van Wenen inzake het verdragenrecht, en van de Bijlage, opgemaakt te Wenen op 23 mei 1969.

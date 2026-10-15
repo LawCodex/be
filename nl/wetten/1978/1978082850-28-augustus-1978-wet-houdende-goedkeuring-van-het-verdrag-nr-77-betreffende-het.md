@@ -10,7 +10,7 @@ date: 1978-08-28
 published: 1979-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/08/28/1978082850/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AUGUSTUS 1978. \_ Wet houdende goedkeuring van het Verdrag nr. 77 betreffende het geneeskundig onderzoek naar de geschiktheid van kinderen en jeugdige personen voor arbeid in de industrie, aangenomen te Montréal op 9 oktober 1946 door de Algemene Conferentie van de Internationale Arbeidsorganisatie tijdens haar negenentwintigste zitting.

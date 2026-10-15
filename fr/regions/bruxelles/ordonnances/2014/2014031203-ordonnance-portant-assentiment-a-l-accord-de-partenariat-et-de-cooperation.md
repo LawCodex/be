@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031203/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Ordonnance portant assentiment à : l'Accord de Partenariat et de Coopération entre l'Union européenne et ses Etats membres, d'une part, et la République d'Iraq, d'autre part, fait à Bruxelles le 11 mai 2012

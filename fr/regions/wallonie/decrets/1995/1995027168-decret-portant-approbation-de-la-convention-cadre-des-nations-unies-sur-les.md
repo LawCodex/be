@@ -13,7 +13,7 @@ entry_into_force: 1995-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/16/1995027168/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1995. - Décret portant approbation de la Convention-cadre des Nations-Unies sur les changements climatiques, faite à New York le 9 mai 1992.

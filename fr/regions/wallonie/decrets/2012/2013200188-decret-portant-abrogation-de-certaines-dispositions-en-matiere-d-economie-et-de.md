@@ -13,7 +13,7 @@ entry_into_force: 2013-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/19/2013200188/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2012. - Décret portant abrogation de certaines dispositions en matière d'économie et de P.M.E.

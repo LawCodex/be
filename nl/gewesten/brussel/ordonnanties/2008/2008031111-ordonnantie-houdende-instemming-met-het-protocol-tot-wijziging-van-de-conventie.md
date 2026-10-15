@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/03/06/2008031111/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2008. - Ordonnantie houdende instemming met het Protocol tot wijziging van de Conventie voor het Europees Centrum voor Weersvoorspellingen op middellange termijn, alsook van het Protocol over de voorrechten en immuniteiten van het Europees Centrum voor weersvoorspellingen op middellange termijn, ondertekend te Brussel op 11 oktober 1973, aangenomen op 22 april 2005.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/10/02/2017013687/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 24-10-2017 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 OKTOBER 2017. - Wet betreffende de harmonisering van het in aanmerking nemen van studieperioden voor de berekening van het pensioen

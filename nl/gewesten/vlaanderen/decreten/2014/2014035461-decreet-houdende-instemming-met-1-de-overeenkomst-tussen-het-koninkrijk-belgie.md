@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/28/2014035461/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Decreet houdende instemming met 1° de overeenkomst tussen het Koninkrijk België en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Canberra op 13 oktober 1977, zoals gewijzigd door het protocol, ondertekend te Canberra op 20 maart 1984, en door het Tweede protocol, gedaan te Parijs op 24 juni 2009; 2° het Tweede protocol tot wijziging van onder 1° vermelde overeenkomst, gedaan te Parijs op 24 juni 2009

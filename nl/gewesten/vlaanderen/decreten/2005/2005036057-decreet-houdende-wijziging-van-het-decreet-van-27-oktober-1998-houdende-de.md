@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/15/2005036057/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Decreet houdende wijziging van het decreet van 27 oktober 1998 houdende de erkenning en subsidiëring van de organisaties voor volkscultuur en de oprichting van het Vlaams Centrum voor Volkscultuur.

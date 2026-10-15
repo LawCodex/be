@@ -12,7 +12,7 @@ entry_into_force: 1998-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/26/1998003256/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1998. - Wet houdende machtiging om in naam van België toe te treden tot de beslissing nr. 11428-(97/6) van de Raad van bestuur van het Internationaal Monetair Fonds de data 27 januari 1997 betreffende de Nieuwe Leningsovereenkomsten.

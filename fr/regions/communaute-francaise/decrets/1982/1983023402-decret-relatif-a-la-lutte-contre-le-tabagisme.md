@@ -13,7 +13,7 @@ entry_into_force: 1983-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1982/12/02/1983023402/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1982. - Décret relatif à la lutte contre le tabagisme.

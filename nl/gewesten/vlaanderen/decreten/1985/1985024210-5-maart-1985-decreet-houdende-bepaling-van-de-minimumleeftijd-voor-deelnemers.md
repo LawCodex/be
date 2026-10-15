@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/03/05/1985024210/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-03-1985 en tekstbijwerking tot 08-07-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1985. \_ Decreet houdende bepaling van de minimumleeftijd voor deelnemers aan wielerwedstrijden.

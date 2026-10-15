@@ -12,7 +12,7 @@ entry_into_force: 2017-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/30/2017011752/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2017. - Loi modifiant la loi du 30 novembre 1998 organique des services de renseignement et de sécurité et l'article 259bis du Code pénal

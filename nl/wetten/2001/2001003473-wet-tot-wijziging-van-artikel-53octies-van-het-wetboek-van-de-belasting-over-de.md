@@ -12,7 +12,7 @@ entry_into_force: 2001-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/09/05/2001003473/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2001. - Wet tot wijziging van artikel 53octies van het Wetboek van de belasting over de toegevoegde waarde.

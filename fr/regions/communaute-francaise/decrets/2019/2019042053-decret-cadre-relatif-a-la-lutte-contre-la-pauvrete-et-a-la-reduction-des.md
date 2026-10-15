@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019042053/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 04-10-2019 et mise à jour au 23-06-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - [Décret cadre relatif à la lutte contre la pauvreté et à la réduction des inégalités sociales] &lt;DCFR 2021-06-17/06 , art. 1, 002; En vigueur : 03-07-2021&gt;

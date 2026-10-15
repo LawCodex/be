@@ -12,7 +12,7 @@ entry_into_force: 2021-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/27/2021042507/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2021. - Wet tot bekrachtiging van drie koninklijke besluiten met betrekking tot de sociale energietarieven

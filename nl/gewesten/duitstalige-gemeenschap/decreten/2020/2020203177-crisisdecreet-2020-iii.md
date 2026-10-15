@@ -13,7 +13,7 @@ entry_into_force: 2020-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/20/2020203177/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2020. - Crisisdecreet 2020 (III)

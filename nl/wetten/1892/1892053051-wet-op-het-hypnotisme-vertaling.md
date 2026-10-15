@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1892/05/30/1892053051/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 13-03-2003 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 1892. - Wet op het hypnotisme. (Vertaling)

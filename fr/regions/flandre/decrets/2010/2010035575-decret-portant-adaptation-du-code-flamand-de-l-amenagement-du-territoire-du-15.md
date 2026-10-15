@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/16/2010035575/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-08-2010 et mise à jour au 17-02-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2010. - Décret portant adaptation du Code flamand de l'Aménagement du Territoire du 15 mai 2009 et du décret du 10 mars 2006 portant adaptations décrétales en matière d'aménagement du territoire et du patrimoine immobilier suite à la politique administrative

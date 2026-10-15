@@ -19,7 +19,7 @@ justel_notes:
   - "art. 7ter modifié avec effet à une date indéterminée par <DCFL 2013-06-21/17 , art. 75; En vigueur : indéterminée >"
   - "art. 6 modifié avec effet à une date indéterminée par DCFL 2016-07-15/17 , art. 100; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 31-12-1996 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 1994. - Décret relatif à l'infrastructure affectée aux matières personnalisables. &lt;Traduction&gt; -

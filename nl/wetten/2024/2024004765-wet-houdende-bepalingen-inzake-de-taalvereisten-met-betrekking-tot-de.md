@@ -12,7 +12,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/15/2024004765/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2024. - Wet houdende bepalingen inzake de taalvereisten met betrekking tot de korpschefs, hoofdgriffiers en hoofdsecretarissen te Brussel en de aanwijzing van de procureur des Konings te Brussel, de arbeidsauditeur te Brussel, de adjunct-procureurs des Konings te Brussel en de adjunct-arbeidsauditeurs te Brussel

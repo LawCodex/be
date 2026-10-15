@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/05/1999021237/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 07-05-1999 et mise à jour au 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Loi relative aux effets de la dissolution [de la Chambre des représentants à l'égard des projets et propositions de loi dont les Chambres législatives sont saisies].&lt;L 2014-01-06/62 , art. 15, 002; En vigueur : 25-05-2014&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/03/17/2023041246/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2023. - Ordonnantie tot mobilisatie van het burgerspaargeld ten behoeve van het herstel en de economische transitie

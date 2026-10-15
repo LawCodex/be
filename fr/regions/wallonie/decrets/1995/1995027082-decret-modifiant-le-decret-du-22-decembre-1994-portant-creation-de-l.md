@@ -13,7 +13,7 @@ entry_into_force: 1995-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/16/1995027082/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1995. - Décret modifiant le décret du 22 décembre 1994 portant création de l'institution de Médiateur de la Région wallonne.

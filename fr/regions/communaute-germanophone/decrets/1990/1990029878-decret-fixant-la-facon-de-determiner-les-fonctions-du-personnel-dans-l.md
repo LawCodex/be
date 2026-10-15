@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/06/27/1990029878/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 11-11-1994 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1990. - Décret fixant la façon de déterminer les fonctions du personnel dans l'[enseignement spécialisé]. (TRADUCTION) &lt;Intitulé modifié par DCG 2009-05-11/15 , art. 85, 009; En vigueur : 01-09-2009&gt;

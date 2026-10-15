@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/10/21/2005102150/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2005. - Decreet tot wijziging van het decreet van de Franse Gemeenschapscommissie van 18 juli 1996 houdende de erkenning van instellingen die bemiddelen bij schulden (VERTALING).

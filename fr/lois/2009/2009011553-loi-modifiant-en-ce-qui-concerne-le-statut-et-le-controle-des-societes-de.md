@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/10/2009011553/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2009 et mise à jour au 31-12-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2009. - Loi modifiant, en ce qui concerne le statut et le contrôle des sociétés de gestion des droits, la loi du 30 juin 1994 relative au droit d'auteur et aux droits voisins

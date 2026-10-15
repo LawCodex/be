@@ -11,7 +11,7 @@ published: 1971-04-30
 entry_into_force: 1970-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/04/09/1971040904/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 1971. - Wet tot regeling van der wedden en pensioenen van de afgeschafte ambten in de rechterlijke orde.

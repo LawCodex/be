@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024004641/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-05-2024 en tekstbijwerking tot 27-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet houdende diverse fiscale bepalingen

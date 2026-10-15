@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/06/17/1991003382/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 09-08-1991 et mise à jour au 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 1991. - Loi portant organisation du secteur public du crédit et de la détention des participations du secteur public dans certaines sociétés financières de droit privé. (AR 1993-09-29/30, art. 1, 007; En vigueur : 01-10-1993)

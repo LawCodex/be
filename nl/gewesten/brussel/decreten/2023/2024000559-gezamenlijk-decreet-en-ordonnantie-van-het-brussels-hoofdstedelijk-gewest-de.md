@@ -13,7 +13,7 @@ entry_into_force: 2024-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/25/2024000559/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2023. - Gezamenlijk decreet en ordonnantie van het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie tot wijziging van het gezamenlijk decreet en ordonnantie van 26 april en 16 mei 2019 met betrekking tot de Brusselse ombudsman

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031821/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance modifiant l'ordonnance du 18 janvier 2001 portant organisation et fonctionnement de l'Office régional bruxellois de l'Emploi en vue de mettre en oeuvre la Sixième Réforme de l'Etat et de modifier la dénomination de cet office

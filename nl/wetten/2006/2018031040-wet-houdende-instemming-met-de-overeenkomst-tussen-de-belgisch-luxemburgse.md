@@ -12,7 +12,7 @@ entry_into_force: 2019-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/16/2018031040/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Guatemala inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 14 april 2005

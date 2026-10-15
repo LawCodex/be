@@ -12,7 +12,7 @@ entry_into_force: 2003-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015110/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment au Protocole n° 13 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, relatif à l'abolition de la peine de mort en toutes circonstances, fait à Vilnius le 3 mai 2002.

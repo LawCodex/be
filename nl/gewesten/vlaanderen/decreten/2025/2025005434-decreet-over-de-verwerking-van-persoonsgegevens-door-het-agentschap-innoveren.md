@@ -13,7 +13,7 @@ entry_into_force: 2025-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/27/2025005434/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2025. - Decreet over de verwerking van persoonsgegevens door het Agentschap Innoveren en Ondernemen en zijn partnerorganisaties, wat de uitvoering van de taken van het Agentschap Innoveren en Ondernemen betreft

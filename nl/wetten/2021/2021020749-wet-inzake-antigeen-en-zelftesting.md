@@ -12,7 +12,7 @@ entry_into_force: 2021-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/04/02/2021020749/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2021. - Wet inzake antigeen- en zelftesting

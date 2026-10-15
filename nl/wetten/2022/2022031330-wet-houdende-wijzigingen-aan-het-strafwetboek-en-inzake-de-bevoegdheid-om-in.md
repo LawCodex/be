@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/21/2022031330/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-03-2022 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2022. - Wet houdende wijzigingen aan het Strafwetboek [en inzake de bevoegdheid om in rechte op te treden] met betrekking tot het seksueel strafrecht &lt;W 2024-01-18/06 , art. 82, 002; Inwerkingtreding : 05-02-2024&gt;

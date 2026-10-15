@@ -12,7 +12,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/18/1998121851/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1998. - Bijzondere wet houdende wijziging van de bijzondere wet van 16 juli 1993 tot vervollediging van de federale Staatsstructuur en tot aanvulling van de kieswetgeving met betrekking tot de Gewesten en de Gemeenschappen.

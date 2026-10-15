@@ -11,7 +11,7 @@ entry_into_force: 2015-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/04/20/2015015105/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2015. - Wet houdende instemming met het Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949 betreffende de aanvaarding van een aanvullend onderscheidend embleem (Protocol III), aangenomen te Genève op 8 december 2005

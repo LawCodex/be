@@ -13,7 +13,7 @@ entry_into_force: 2014-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/20/2014200947/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2014. - Décret portant assentiment au Protocole n° 3 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif aux Groupements eurorégionaux de coopération (GEC), signé à Utrecht le 16 novembre 2009

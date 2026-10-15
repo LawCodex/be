@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/16/2008201887/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-2008 en tekstbijwerking tot 27-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2008. - Decreet betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens

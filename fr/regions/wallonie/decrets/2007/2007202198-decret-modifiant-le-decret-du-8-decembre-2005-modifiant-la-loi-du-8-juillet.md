@@ -13,7 +13,7 @@ entry_into_force: 2007-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/27/2007202198/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2007. - Décret modifiant le décret du 8 décembre 2005 modifiant la loi du 8 juillet 1976 organique des centres publics d'action sociale.

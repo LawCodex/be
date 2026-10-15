@@ -13,7 +13,7 @@ entry_into_force: 1995-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/08/1995035528/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 1995. - Décret portant approbation de la Convention sur les substances psychotropes et des Annexes, faites à Vienne le 21 février 1971. (TRADUCTION)

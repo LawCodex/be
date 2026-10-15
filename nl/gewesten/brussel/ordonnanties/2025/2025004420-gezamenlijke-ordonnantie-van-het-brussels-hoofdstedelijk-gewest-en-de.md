@@ -13,7 +13,7 @@ entry_into_force: 2025-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/06/12/2025004420/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2025. - Gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van artikel 6 van de gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie van 14 december 2017 houdende de oprichting van een Brusselse Deontologische Commissie

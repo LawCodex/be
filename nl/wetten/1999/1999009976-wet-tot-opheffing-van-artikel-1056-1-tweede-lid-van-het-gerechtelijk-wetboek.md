@@ -12,7 +12,7 @@ entry_into_force: 1999-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/22/1999009976/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1999. - Wet tot opheffing van artikel 1056, 1°, tweede lid, van het gerechtelijk Wetboek.

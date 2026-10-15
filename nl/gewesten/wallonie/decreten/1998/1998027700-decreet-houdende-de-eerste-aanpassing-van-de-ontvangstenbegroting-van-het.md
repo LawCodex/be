@@ -13,7 +13,7 @@ entry_into_force: 1998-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/16/1998027700/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1998. - Decreet houdende de eerste aanpassing van de ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 1998 (VERTALING).

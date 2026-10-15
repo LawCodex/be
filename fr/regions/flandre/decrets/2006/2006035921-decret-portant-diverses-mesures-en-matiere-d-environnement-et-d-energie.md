@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/19/2006035921/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-06-2006 et mise à jour au 30-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2006. - Décret portant diverses mesures en matière d'environnement et d'énergie (TRADUCTION).

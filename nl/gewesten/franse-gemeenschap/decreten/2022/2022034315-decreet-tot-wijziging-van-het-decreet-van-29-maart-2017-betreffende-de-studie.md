@@ -13,7 +13,7 @@ entry_into_force: 2023-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/17/2022034315/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2022. - Decreet tot wijziging van het decreet van 29 maart 2017 betreffende de studie geneeskunde en de studie tandheelkunde

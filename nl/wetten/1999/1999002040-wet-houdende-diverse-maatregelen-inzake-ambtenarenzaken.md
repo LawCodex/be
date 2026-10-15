@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/22/1999002040/justel"
 department: "Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-1999 en tekstbijwerking tot 26-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1999. - Wet houdende diverse maatregelen inzake ambtenarenzaken. -

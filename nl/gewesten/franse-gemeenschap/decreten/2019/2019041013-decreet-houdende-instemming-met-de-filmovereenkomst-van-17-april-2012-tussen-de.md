@@ -13,7 +13,7 @@ entry_into_force: 2019-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019041013/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet houdende instemming met de Filmovereenkomst van 17 april 2012 tussen de Regering van de Franse Gemeenschap van België en Volksrepubliek China

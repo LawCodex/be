@@ -12,7 +12,7 @@ entry_into_force: 2005-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/14/2005015098/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2005. - Wet betreffende de follow-up van het optreden van de regering op het stuk van de Millenniumdoelstellingen inzake ontwikkeling.

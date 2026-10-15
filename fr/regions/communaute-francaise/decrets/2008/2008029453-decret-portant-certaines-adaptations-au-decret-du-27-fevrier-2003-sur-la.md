@@ -13,7 +13,7 @@ entry_into_force: 2008-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008029453/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret portant certaines adaptations au décret du 27 février 2003 sur la radiodiffusion.

@@ -13,7 +13,7 @@ entry_into_force: 2013-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/03/15/2013031162/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2013. - Ordonnance portant assentiment à l'accord de coopération conclu le 9 février 2012 entre la Région de Bruxelles-Capitale et la Commission communautaire française concernant les politiques croisées " emploi-formation "

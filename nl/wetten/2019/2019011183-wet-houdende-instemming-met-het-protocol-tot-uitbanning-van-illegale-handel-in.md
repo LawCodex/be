@@ -12,7 +12,7 @@ entry_into_force: 2019-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/20/2019011183/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2019. - Wet houdende instemming met het Protocol tot uitbanning van illegale handel in tabaksproducten, aangenomen te Seoul op 12 november 2012

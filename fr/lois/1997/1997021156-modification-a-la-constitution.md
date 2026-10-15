@@ -12,7 +12,7 @@ entry_into_force: 1997-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/05/20/1997021156/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1997. - Modification à la Constitution.

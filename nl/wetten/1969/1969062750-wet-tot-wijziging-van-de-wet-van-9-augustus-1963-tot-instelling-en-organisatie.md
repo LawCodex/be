@@ -10,7 +10,7 @@ date: 1969-06-27
 published: 1969-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/06/27/1969062750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1969. - WET tot wijziging van de wet van 9 augustus 1963 tot instelling en organisatie van een regeling voor verplichte ziekte- en invaliditeitsverzekering

@@ -12,7 +12,7 @@ entry_into_force: 2003-01-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002015152/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet houdende instemming met het Gezamenlijk Verdrag inzake de veiligheid van het beheer van bestraalde splijtstof en inzake de veiligheid van het beheer van radioactief afval, gedaan te Wenen op 5 september 1997.

@@ -13,7 +13,7 @@ entry_into_force: 2022-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/29/2022032051/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2022. - Decreet tot wijziging van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen, wat het moratorium op de verkoop van verhuurbare sociale huurwoningen en de vrijstelling van een oriënterend bodemonderzoek bij de verplichte overdracht van risicogronden door sociale woonactoren betreft

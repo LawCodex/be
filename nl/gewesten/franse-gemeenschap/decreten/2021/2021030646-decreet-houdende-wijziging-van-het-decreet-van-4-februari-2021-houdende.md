@@ -13,7 +13,7 @@ entry_into_force: 2021-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/11/2021030646/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2021. - Decreet houdende wijziging van het decreet van 4 februari 2021 houdende organisatie van de begroting, de boekhouding en de verslaggeving van de openbare bestuursinstellingen van de Franse Gemeenschap

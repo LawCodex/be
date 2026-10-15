@@ -12,7 +12,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/15/2019011250/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2018. - Loi portant assentiment à l'Arrangement entre le Royaume de Belgique et l'Organisation du Traité de l'Atlantique Nord concernant le statut de certaines catégories de personnel des agences de l'OTAN installées sur le territoire du Royaume de Belgique, fait à Bruxelles le 20 mai 2016

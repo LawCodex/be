@@ -11,7 +11,7 @@ published: 2022-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/24/2022033162/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2022. - Wet houdende instemming met volgende internationale akten: 1) Tiende Protocol ter aanvulling van de Stichtingsakte van de Wereldpostvereniging, gedaan te Addis Abeba op 7 september 2018; 2) Tweede Protocol ter aanvulling van het Algemeen Reglement van de Wereldpostvereniging, gedaan te Addis Abeba op 7 september 2018; 3) Protocol ter aanvulling van de Wereldpostconventie gedaan te Addis Abeba op 7 september 2018; 4) Slotprotocol van het Protocol ter aanvulling van de Wereldpostconventie, gedaan te Addis Abeba op 7 september 2018

@@ -13,7 +13,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/05/2014029094/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2013. - Decreet houdende wijziging van het decreet van 12 december 2008 betreffende de bestrijding van sommige vormen van discriminatie

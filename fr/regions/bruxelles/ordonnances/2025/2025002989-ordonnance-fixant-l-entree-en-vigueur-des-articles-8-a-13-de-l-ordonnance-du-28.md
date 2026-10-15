@@ -13,7 +13,7 @@ entry_into_force: 2025-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/04/10/2025002989/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2025. - Ordonnance fixant l'entrée en vigueur des articles 8 à 13 de l'ordonnance du 28 octobre 2021 visant à instaurer une commission paritaire locative et à lutter contre les loyers abusifs

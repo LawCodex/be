@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/18/1997033059/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-1997 en tekstbijwerking tot 26-02-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1996. - Decreet houdende de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 1997. (VERTALING).

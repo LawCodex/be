@@ -13,7 +13,7 @@ entry_into_force: 2024-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/21/2024003293/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Decreet houdende instemming met het samenwerkingsakkoord van 22 december 2023 tussen de federale staat, de Vlaamse gemeenschap, de Franse gemeenschap, de Duitstalige gemeenschap, de gemeenschappelijke gemeenschapscommissie, het Waalse gewest en de Franse gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot COBRHA+

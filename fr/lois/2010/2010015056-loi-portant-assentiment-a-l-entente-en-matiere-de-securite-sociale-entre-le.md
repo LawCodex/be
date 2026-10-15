@@ -12,7 +12,7 @@ entry_into_force: 2010-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/11/2010015056/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2010. - Loi portant assentiment à l'Entente en matière de sécurité sociale entre le Royaume de Belgique et le Québec, signée à Québec, le 28 mars 2006

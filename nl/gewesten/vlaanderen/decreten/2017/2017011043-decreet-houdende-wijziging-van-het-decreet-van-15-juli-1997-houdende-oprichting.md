@@ -13,7 +13,7 @@ entry_into_force: 2017-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/03/2017011043/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2017. - Decreet houdende wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris, van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, met het oog op de organisatie van het externe toezicht en de externe klachtenregeling bij voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/14/2018015207/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2018. - Décret portant modification du décret du 17 juillet 2003 relatif au soutien de l'action associative dans le champ de l'Education permanente

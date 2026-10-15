@@ -12,7 +12,7 @@ published: 2012-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/20/2012035523/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2012. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 20 januari 2012 tot aanpassing van de eindtermen voor de opleiding Aanvullende Algemene Vorming van het studiegebied algemene vorming van het secundair volwassenenonderwijs

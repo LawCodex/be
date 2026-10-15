@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/21/2003031021/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2002. - Decreet houdende instemming door de Vergadering van de Franse Gemeenschapscommissie met de Interregionale Kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Mercado Comùn del Sur (Mercosur) en zijn deelnemende Staten, anderzijds, en met het proces-verbaal van ondertekening (VERTALING).

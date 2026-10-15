@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/23/2020030349/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-03-2020 en tekstbijwerking tot 17-10-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2020. - Wet tot wijziging van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen en tot invoering van tijdelijke maatregelen in het kader van COVID-19 ten gunste van zelfstandigen

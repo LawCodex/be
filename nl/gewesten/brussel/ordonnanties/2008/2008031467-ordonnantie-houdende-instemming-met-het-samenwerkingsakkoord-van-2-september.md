@@ -12,7 +12,7 @@ entry_into_force: 2008-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/09/04/2008031467/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2008. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 2 september 2002 tussen de Federale Staat, de Gemeenschappen, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Gewesten inzake een globaal en geïntegreerd drugsbeleid.

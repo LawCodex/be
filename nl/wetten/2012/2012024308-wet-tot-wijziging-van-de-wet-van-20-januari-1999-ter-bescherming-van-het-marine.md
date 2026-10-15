@@ -10,7 +10,7 @@ date: 2012-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/20/2012024308/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2012. - Wet tot wijziging van de wet van 20 januari 1999 ter bescherming van het marine milieu in de zeegebieden onder de rechtsbevoegdheid van België, wat de organisatie van de mariene ruimtelijke planning betreft

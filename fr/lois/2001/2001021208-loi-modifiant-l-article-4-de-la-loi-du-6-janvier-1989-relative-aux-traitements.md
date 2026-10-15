@@ -12,7 +12,7 @@ entry_into_force: 2001-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/04/02/2001021208/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2001. - Loi modifiant l'article 4 de la loi du 6 janvier 1989 relative aux traitements et pensions des juges, des référendaires et des greffiers de la Cour d'Arbitrage.

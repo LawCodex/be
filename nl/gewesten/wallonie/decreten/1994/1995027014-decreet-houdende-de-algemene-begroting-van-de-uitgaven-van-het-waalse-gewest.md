@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/16/1995027014/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 02-02-1995 en tekstbijwerking tot 31-01-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1994. - Decreet houdende de algemene begroting van de uitgaven van het Waalse Gewest voor het begrotingsjaar 1995. (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/05/2019030444/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2019. - Wet tot invoeging van een artikel 55bis in het Strafwetboek, wat de herhaling betreft

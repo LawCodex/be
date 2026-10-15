@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/12/2017020259/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-02-2017 et mise à jour au 07-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2017. - Décret concernant la coopération administrative dans le domaine fiscal

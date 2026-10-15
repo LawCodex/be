@@ -13,7 +13,7 @@ entry_into_force: 2014-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031307/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met het Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, gedaan te Londen, op 13 februari 2004

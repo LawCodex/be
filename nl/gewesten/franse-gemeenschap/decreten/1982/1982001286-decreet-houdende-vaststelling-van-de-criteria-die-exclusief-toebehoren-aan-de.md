@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/07/01/1982001286/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 1982. - Decreet houdende vaststelling van de criteria die exclusief toebehoren aan de Franse Gemeenschap van de instellingen die persoonsgebonden materies behandelen, in het tweetalig gewest van Brussel-Hoofdstad. (Vertaling).

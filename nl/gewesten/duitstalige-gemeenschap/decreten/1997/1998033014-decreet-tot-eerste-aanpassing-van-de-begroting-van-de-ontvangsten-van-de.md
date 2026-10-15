@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/11/17/1998033014/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1997. - Decreet tot eerste aanpassing van de begroting van de ontvangsten van de Duitstalige gemeenschap voor het begrotingsjaar 1997. (Vertaling)

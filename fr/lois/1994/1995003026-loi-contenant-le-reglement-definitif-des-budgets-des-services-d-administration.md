@@ -12,7 +12,7 @@ entry_into_force: 1995-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/01/1995003026/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 1994. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat et d'organismes d'intérêt public pour l'année 1986 ou pour des années antérieures.

@@ -12,7 +12,7 @@ entry_into_force: 2012-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/22/2012007119/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2012. - Loi modifiant la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées

@@ -12,7 +12,7 @@ entry_into_force: 2018-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/19/2017031999/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2017. - Loi modifiant diverses dispositions en matière de brevets en relation avec la mise en oeuvre du brevet unitaire et de la juridiction unifiée du brevet

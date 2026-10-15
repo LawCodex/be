@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/06/20/2013031469/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-06-2013 en tekstbijwerking tot 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2013. - Ordonnantie betreffende een pesticidegebruik dat verenigbaar is met de duurzame ontwikkeling van het Brussels Hoofdstedelijk Gewest

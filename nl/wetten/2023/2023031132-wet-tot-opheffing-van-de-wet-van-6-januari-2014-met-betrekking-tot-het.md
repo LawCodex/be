@@ -12,7 +12,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/11/2023031132/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2023. - Wet tot opheffing van de wet van 6 januari 2014 met betrekking tot het klimaatresponsabiliseringsmechanisme (II)

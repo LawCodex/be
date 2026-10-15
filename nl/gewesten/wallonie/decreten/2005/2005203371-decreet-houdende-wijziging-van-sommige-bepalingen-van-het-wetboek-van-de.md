@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/08/2005203371/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 02-01-2006 en tekstbijwerking tot 03-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2005. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031308/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met het Europees Verdrag inzake het internationaal vervoer van gevaarlijke goederen over de binnenwateren, gedaan te Genève, op 26 mei 2000

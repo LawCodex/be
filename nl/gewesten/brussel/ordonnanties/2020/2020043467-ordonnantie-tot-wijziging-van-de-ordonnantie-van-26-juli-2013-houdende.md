@@ -12,7 +12,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/10/29/2020043467/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2020. - Ordonnantie tot wijziging van de ordonnantie van 26 juli 2013 houdende omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van belastingen en tot intrekking van richtlijn 77/799/EEG en tot wijziging van de Brusselse Codex Fiscale Procedure

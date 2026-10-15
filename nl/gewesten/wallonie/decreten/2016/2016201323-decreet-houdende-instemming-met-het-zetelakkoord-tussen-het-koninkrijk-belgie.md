@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/03/2016201323/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2016. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend te Brussel op 12 juli 2006

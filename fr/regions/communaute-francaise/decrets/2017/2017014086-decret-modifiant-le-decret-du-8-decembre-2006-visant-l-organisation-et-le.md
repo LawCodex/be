@@ -13,7 +13,7 @@ entry_into_force: 2017-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/09/2017014086/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2017. - Décret modifiant le décret du 8 décembre 2006 visant l'organisation et le subventionnement du sport en Communauté française

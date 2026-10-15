@@ -12,7 +12,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/30/2017030679/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Overheid, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot het beheer van de dienst voor de regularisatie van gewestelijke belastingen en niet uitsplitsbare fiscaal verjaarde kapitalen en de oprichting van een regularisatiesysteem van niet uitsplitsbare fiscaal verjaarde kapitalen en het samenwerkingsakkoord tussen de Federale Overheid en het Vlaamse Gewest met betrekking tot de regularisatie van niet uitsplitsbare bedragen

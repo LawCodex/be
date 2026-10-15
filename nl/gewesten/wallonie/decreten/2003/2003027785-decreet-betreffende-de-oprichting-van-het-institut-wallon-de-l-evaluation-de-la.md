@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2003027785/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2003 en tekstbijwerking tot 26-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet betreffende de oprichting van het " Institut wallon de l'évaluation, de la prospective et de la statistique " (Waals Instituut voor evaluatie, toekomstverwachting en statistiek). (Vertaling).

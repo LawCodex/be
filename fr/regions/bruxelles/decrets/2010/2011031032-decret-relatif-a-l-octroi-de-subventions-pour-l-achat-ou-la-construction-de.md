@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/10/29/2011031032/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 15-02-2011 et mise à jour au 01-03-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2010. - Décret relatif à l'octroi de subventions pour l'achat ou la construction de bâtiments en vue de l'installation de centres de jour et centres d'hébergement, de logements accompagnés et de l'organisation de loisirs pour personnes handicapées pris en charge par les services d'accompagnement, ainsi que pour l'agrandissement, la transformation, les grosses réparations, l'amélioration de l'accessibilité aux personnes à mobilité réduite, l'équipement et le premier ameublement de ces bâtiments

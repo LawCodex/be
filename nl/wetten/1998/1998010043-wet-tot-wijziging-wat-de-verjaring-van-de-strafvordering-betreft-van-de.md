@@ -12,7 +12,7 @@ entry_into_force: 1998-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/11/1998010043/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1998. - Wet tot wijziging, wat de verjaring van de strafvordering betreft, van de Voorafgaande Titel van het Wetboek van Strafvordering.

@@ -12,7 +12,7 @@ entry_into_force: 2014-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/15/2017040173/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2017. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal instituut voor democratie en electorale bijstand, gedaan te Brussel op 15 mei 2014

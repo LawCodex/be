@@ -12,7 +12,7 @@ entry_into_force: 2026-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/25/2026000661/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2025. - Loi portant des dispositions diverses en matière de santé. - Avis rectificatif

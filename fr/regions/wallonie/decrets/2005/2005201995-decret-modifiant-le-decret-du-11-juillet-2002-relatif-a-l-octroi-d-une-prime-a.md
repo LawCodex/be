@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005201995/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret modifiant le décret du 11 juillet 2002 relatif à l'octroi d'une prime à l'intégration de l'e-business dans les petites et moyennes entreprises.

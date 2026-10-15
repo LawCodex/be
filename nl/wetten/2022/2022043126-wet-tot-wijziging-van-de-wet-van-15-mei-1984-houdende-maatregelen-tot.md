@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/27/2022043126/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2022. - Wet tot wijziging van de wet van 15 mei 1984 houdende maatregelen tot harmonisering in de pensioenregelingen voor wat betreft het minimumpensioen voor meewerkende echtgenoten

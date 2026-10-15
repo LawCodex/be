@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/20/2025009119/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-12-2025 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2025. - Decreet houdende diverse bepalingen inzake onderwijs en tot gedeeltelijke omzetting van richtlijn (EU) 2022/2041 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende toereikende minimumlonen in de Europese Unie

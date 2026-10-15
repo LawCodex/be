@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002029232/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret contenant le deuxième ajustement du budget général des dépenses de la Communauté française pour l'année budgétaire 2001.

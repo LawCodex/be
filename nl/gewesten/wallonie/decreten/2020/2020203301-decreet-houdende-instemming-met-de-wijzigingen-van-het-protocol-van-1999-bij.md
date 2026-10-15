@@ -13,7 +13,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/16/2020203301/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2020. - Decreet houdende instemming met de wijzigingen van het protocol van 1999 bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake vermindering van verzuring, eutrofiëring en ozon op leefniveau, ondertekend te Genève, op 4 mei 2012

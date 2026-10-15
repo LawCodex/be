@@ -12,7 +12,7 @@ entry_into_force: 2002-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/16/2002009751/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2002. - Loi modifiant l'article 86bis du Code judiciaire et la loi du 3 avril 1953 d'organisation judiciaire.

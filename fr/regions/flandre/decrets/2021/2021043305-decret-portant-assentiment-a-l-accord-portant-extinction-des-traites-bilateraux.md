@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/26/2021043305/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Décret portant assentiment à l'accord portant extinction des traités bilatéraux d'investissement entre Etats membres de l'Union européenne, signé à Bruxelles le 5 mai 2020

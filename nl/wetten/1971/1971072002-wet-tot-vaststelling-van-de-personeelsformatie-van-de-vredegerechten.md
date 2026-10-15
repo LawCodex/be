@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/20/1971072002/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-1999 en tekstbijwerking tot 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1971. - Wet tot vaststelling van de personeelsformatie van de vredegerechten

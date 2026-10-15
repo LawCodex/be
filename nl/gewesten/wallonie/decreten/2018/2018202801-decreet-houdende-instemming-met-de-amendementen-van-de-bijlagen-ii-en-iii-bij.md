@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202801/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet houdende instemming met de amendementen van de bijlagen II en III bij het OSPAR-Verdrag inzake de bescherming van het marien milieu van de Noordoostelijke Atlantische Oceaan, aangenomen te Oostende, op 29 juni 2007

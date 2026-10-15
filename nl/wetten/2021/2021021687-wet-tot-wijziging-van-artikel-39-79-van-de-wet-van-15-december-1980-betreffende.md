@@ -11,7 +11,7 @@ published: 2021-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/30/2021021687/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2021. - Wet tot wijziging van artikel 39/79 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, wat betreft de studenten

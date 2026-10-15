@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/05/2008200924/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 25-03-2008 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2008. - Décret portant constitution de l'Agence wallonne de l'air et du climat [...] &lt;DRW 2024-12-18/05 , art. 16, 013; En vigueur : 01-01-2025&gt; &lt;DRW 2023-12-13/13 , art. 134, 012; En vigueur : 01-01-2024&gt; &lt;DRW 2022-12-21/67 , art. 146, 011; En vigueur : 01-01-2023&gt;

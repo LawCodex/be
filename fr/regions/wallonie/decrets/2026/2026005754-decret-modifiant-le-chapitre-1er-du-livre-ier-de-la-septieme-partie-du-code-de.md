@@ -12,7 +12,7 @@ published: 2026-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/16/2026005754/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2026. - Décret modifiant le chapitre 1er du Livre Ier de la Septième Partie du Code de la démocratie locale et de la décentralisation visant à organiser la participation des services, organisations et structures relevant des compétences ou de la tutelle de la Région wallonne aux cellules de sécurité intégrale locales en matière de radicalisme, d'extrémisme et de terrorisme, pour les matières relevant de l'article 138 de la Constitution

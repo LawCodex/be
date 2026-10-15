@@ -12,7 +12,7 @@ entry_into_force: 2007-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/20/2007003169/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2007. - Wet inzake het verbod op de financiering van de productie, gebruik en bezit van antipersoonsmijnen en submunitie.

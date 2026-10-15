@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/20/2003035548/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 09-07-2003 en tekstbijwerking tot 27-05-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2002. - Decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2003.

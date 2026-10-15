@@ -13,7 +13,7 @@ entry_into_force: 2011-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/29/2013035385/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2013. - Décret portant assentiment à l'accord de coopération du 15 juillet 2011 entre la Région de Bruxelles-Capitale, la Région flamande et la Communauté flamande concernant la collaboration en matière de politique du marché de l'emploi, de formation et la promotion de la mobilité des demandeurs d'emploi

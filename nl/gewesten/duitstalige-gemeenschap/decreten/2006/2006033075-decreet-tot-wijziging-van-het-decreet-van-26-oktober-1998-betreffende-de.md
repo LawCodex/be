@@ -11,7 +11,7 @@ date: 2006-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/26/2006033075/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2006. - Decreet tot wijziging van het decreet van 26 oktober 1998 betreffende de invoering van de nieuwe Duitse spelling (VERTALING).

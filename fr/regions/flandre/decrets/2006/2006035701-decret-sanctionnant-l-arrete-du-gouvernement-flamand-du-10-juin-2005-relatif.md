@@ -13,7 +13,7 @@ entry_into_force: 2006-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/17/2006035701/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2006. - Décret sanctionnant l'arrêté du Gouvernement flamand du 10 juin 2005 relatif aux services de conseil décrétaux rendus par les Conseils socio-économiques de la Région et des Comités de Concertation socio-économiques régionaux (TRADUCTION).

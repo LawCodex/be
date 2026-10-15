@@ -13,7 +13,7 @@ entry_into_force: 2015-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/05/28/2015031344/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2015. - Ordonnance modifiant l'ordonnance du 8 mai 2014 relative à l'hébergement touristique

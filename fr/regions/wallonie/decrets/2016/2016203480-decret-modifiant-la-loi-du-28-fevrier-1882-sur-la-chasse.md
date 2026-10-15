@@ -13,7 +13,7 @@ entry_into_force: 2016-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/23/2016203480/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2016. - Décret modifiant la loi du 28 février 1882 sur la chasse

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/30/2013007199/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 04-10-2013 et mise à jour au 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2013. - Loi instituant la carrière militaire à durée limitée

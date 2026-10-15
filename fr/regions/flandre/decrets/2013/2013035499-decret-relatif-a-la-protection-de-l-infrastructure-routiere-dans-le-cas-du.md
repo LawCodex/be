@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/03/2013035499/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-06-2013 et mise à jour au 26-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2013. - Décret relatif à la protection de l'infrastructure routière dans le cas du transport routier exceptionnel

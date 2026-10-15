@@ -12,7 +12,7 @@ entry_into_force: 2023-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/09/2023043350/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2023. - Loi contenant le premier ajustement du budget général des dépenses pour l'année budgétaire 2023

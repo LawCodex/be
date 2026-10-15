@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/22/2023048731/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Ordonnantie houdende de Middelenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2024

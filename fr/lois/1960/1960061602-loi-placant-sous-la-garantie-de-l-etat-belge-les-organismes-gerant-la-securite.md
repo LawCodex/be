@@ -13,7 +13,7 @@ last_amended: 2012-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/06/16/1960061602/justel"
 justel_note: "Consultation des versions antérieures à partir du 08-06-1983 et mise à jour au 28-06-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1960. - Loi plaçant sous la garantie de l'Etat belge les organismes gérant la sécurité sociale des employés du Congo belge et du Ruanda-Urundi, et portant garantie par l'Etat belge des prestations sociales assurées en faveur de ceux-ci.

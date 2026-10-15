@@ -12,7 +12,7 @@ entry_into_force: 2001-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999000422/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi spéciale visant à limiter le cumul du mandat de membre du Conseil de la Communauté francaise, du Conseil régional wallon, du Conseil flamand et du Conseil de la Région de Bruxelles-Capitale avec d'autres fonctions.

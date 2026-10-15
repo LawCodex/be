@@ -12,7 +12,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/11/26/2014009508/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2014. - Loi modifiant la date d'entrée en vigueur de la loi du 11 juillet 2013 modifiant le Code civil en ce qui concerne les sûretés réelles mobilières et abrogeant diverses dispositions en cette matière

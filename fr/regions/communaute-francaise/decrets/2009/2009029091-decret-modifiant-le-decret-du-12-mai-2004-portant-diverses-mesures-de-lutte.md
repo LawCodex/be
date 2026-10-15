@@ -13,7 +13,7 @@ entry_into_force: 2009-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/08/2009029091/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2009. - Décret modifiant le décret du 12 mai 2004 portant diverses mesures de lutte contre le décrochage scolaire, l'exclusion et la violence à l'école.

@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/11/2012202802/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2012. - Décret sanctionnant l'arrêté du Gouvernement flamand du 2 mars 2012 modifiant certains objectifs finaux de l'arrêté du Gouvernement flamand du 23 juin 2000 définissant les objectifs finaux spécifiques aux différentes branches des deuxième et troisième degrés de l'enseignement secondaire ordinaire, pour ce qui est des sciences naturelles ou de la physique et/ou la chimie et/ou la biologie

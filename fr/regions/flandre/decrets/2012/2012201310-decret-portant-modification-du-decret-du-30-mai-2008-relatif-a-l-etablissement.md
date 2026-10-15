@@ -13,7 +13,7 @@ entry_into_force: 2012-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/17/2012201310/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2012. - Décret portant modification du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales, en ce qui concerne le calcul du délai visé aux articles 7 et 9

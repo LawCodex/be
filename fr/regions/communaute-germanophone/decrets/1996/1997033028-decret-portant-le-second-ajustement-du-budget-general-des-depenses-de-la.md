@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/25/1997033028/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 1996. - Décret portant le second ajustement du budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1996.HI:??2,Session 1996-1997. Documents du Conseil. - N° 5-162 (1996-1997), n° 1. Projet de décret. - N° 5-162 (1996-1997), n° 2. Rapport. - N° 5-162 (1996-1997), n° 3. Annexe. N° 5-162 (1996-1997), n° 4. Proposition d'amendement. Compte rendu intégral. - Discussion et vote. Séance du 25 novembre 1996.

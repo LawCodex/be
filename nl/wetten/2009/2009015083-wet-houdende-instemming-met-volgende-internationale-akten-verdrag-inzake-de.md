@@ -12,7 +12,7 @@ entry_into_force: 2009-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/13/2009015083/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2009. - Wet houdende instemming met volgende Internationale Akten : -Verdrag inzake de rechten van personen met een handicap, -Facultatief Protocol bij het Verdrag inzake de rechten van personen met een handicap, aangenomen te New York op 13 december 2006

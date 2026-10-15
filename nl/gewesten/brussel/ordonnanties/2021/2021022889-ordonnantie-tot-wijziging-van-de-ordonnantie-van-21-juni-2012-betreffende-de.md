@@ -13,7 +13,7 @@ entry_into_force: 2022-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/24/2021022889/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2021. - Ordonnantie tot wijziging van de ordonnantie van 21 juni 2012 betreffende de promotie van de gezondheid bij de sportbeoefening, het dopingverbod en de preventie ervan

@@ -12,7 +12,7 @@ entry_into_force: 2021-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/28/2021030882/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2021. - Loi portant assentiment au Protocole portant amendement du Traité sur un Système d'Information Européen concernant les Véhicules et les Permis de conduire (EUCARIS) et à la Déclaration conjointe des parties, faits à Luxembourg le 8 juin 2017

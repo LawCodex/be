@@ -13,7 +13,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/09/2022043026/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2022. - Décret sur l'octroi de diverses subventions aux administrations locales telles que visées à l'accord VIA 6

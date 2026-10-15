@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/29/2015029081/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2015. - Decreet tot wijziging van het decreet van 14 juli 1997 houdende het statuut van de " Radio-Télévision belge de la Communauté française (RTBF) ", het decreet van 9 januari 2003 betreffende de doorzichtigheid, de autonomie en de controle in verband met de overheidsinstellingen, de maatschappijen voor schoolgebouwen en de maatschappijen voor vermogensbeheer die onder de Franse Gemeenschap ressorteren en het gecoördineerde decreet van 26 maart 2009 betreffende de audiovisuele mediadiensten

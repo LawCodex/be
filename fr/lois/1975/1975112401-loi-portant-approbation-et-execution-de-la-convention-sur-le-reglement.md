@@ -13,7 +13,7 @@ last_amended: 2022-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/11/24/1975112401/justel"
 justel_note: "Consultation des versions antérieures à partir du 19-01-2017 et mise à jour au 06-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1975. - Loi portant approbation et exécution de la Convention sur le règlement international de 1972 pour prévenir les abordages en mer, Règlement y annexé et ses Annexes, faits à Londres le 20 octobre 1972

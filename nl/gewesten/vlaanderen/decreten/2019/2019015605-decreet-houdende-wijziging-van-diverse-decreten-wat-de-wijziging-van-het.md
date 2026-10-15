@@ -12,7 +12,7 @@ published: 2019-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/11/22/2019015605/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2019. - Decreet houdende wijziging van diverse decreten, wat de wijziging van het inschrijvingsrecht betreft

@@ -12,7 +12,7 @@ entry_into_force: 2015-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015000483/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi portant modification de la loi du 16 janvier 2013 portant diverses mesures relatives à la lutte contre la piraterie maritime

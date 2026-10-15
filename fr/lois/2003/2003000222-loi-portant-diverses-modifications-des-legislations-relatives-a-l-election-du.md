@@ -12,7 +12,7 @@ entry_into_force: 2003-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/11/2003000222/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2003. - Loi portant diverses modifications des législations relatives à l'élection du Parlement européen ainsi que son annexe.

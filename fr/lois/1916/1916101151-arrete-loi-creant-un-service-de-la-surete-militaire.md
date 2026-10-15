@@ -11,7 +11,7 @@ published: 1916-10-15
 entry_into_force: 1916-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1916/10/11/1916101151/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 OCTOBRE 1916. - Arrêté-loi créant un service de la sûreté militaire.

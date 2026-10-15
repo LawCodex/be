@@ -13,7 +13,7 @@ last_amended: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1870/03/04/1870030450/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2002 en tekstbijwerking tot 01-09-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1870. - Wet op het tijdelijke der eerediensten. (NOTA 1 : voor het Vlaams Gewest, zie 1870-03-04/34 ) (NOTA 2 : voor het Brusselse Hoofdstedelijke gewest, zie 1870-03-04/31 ) (NOTA 3 : voor de Duitstalige gemeenschap, zie 1870-03-04/32 ) (NOTA 4 : voor het Waals Gewest, zie 1870-03-04/33 )

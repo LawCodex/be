@@ -11,7 +11,7 @@ published: 2015-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015000440/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen om beter rekening te houden met de bedreigingen voor de samenleving en de nationale veiligheid in de aanvragen tot internationale bescherming

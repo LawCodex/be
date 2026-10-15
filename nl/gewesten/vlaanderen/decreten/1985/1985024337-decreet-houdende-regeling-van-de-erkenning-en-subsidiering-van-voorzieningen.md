@@ -12,7 +12,7 @@ published: 1985-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/03/05/1985024337/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1985. - Decreet houdende regeling van de erkenning en subsidiëring van voorzieningen voor bejaarden.

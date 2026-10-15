@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/20/2021034484/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2021. - Loi portant introduction de dispositions diverses en matière de recouvrement et ajustement de dispositions suite à l'introduction du code du recouvrement amiable et forcé des créances fiscales et non fiscales

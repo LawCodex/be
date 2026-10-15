@@ -13,7 +13,7 @@ entry_into_force: 2021-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/21/2021042066/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2021. - Décret modifiant le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, en ce qui concerne l'optimisation des procédures

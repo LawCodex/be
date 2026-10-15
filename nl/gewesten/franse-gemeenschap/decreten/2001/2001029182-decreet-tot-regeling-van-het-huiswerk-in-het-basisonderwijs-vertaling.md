@@ -12,7 +12,7 @@ published: 2001-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/29/2001029182/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2001. - Decreet tot regeling van het huiswerk in het basisonderwijs. (Vertaling).

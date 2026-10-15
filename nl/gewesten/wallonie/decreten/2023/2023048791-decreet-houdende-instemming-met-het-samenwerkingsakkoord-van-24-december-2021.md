@@ -13,7 +13,7 @@ entry_into_force: 2024-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/12/2023048791/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2023. - Decreet houdende instemming met het samenwerkingsakkoord van 24 december 2021 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de samenwerking tussen de deelentiteiten met betrekking tot de gezinsbijslagen

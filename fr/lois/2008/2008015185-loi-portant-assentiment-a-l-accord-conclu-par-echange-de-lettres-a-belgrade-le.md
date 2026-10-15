@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/10/31/2008015185/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OCTOBRE 2008. - Loi portant assentiment à l'Accord, conclu par échange de lettres à Belgrade le 21 décembre 2006, entre les Gouvernements des Etats du Benelux et le Gouvernement de la République de Serbie relatif à la suppression de l'obligation du visa de voyage pour les titulaires d'un passeport diplomatique ou de service.

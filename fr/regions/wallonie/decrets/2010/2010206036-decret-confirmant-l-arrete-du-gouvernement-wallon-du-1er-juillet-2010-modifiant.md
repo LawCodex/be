@@ -13,7 +13,7 @@ entry_into_force: 2010-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/11/10/2010206036/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2010. - Décret confirmant l'arrêté du Gouvernement wallon du 1er juillet 2010 modifiant l'article 97ter, 2°, du Code des taxes assimilées aux impôts sur les revenus

@@ -13,7 +13,7 @@ entry_into_force: 2021-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/02/2021031065/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Décret modifiant les articles 3, 5 et 35 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux, entre autres en ce qui concerne la création de centres de formation pour les chiens d'intervention

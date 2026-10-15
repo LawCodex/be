@@ -13,7 +13,7 @@ entry_into_force: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203363/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, faite à Oslo le 14 avril 1988, telle que modifiée par le Protocole fait à Bruxelles le 10 septembre 2009

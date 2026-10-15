@@ -12,7 +12,7 @@ entry_into_force: 1997-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/04/1997003371/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 1997. - Wet tot wijziging van artikel 104, 8°, van het Wetboek van de inkomstenbelastingen 1992, met het oog op de bescherming van het onroerend cultureel erfgoed.

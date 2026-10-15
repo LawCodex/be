@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/18/2014200749/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-02-2014 en tekstbijwerking tot 07-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2013. - Decreet tot invoering van een kwalificatieraamwerk voor de Duitstalige Gemeenschap

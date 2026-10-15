@@ -13,7 +13,7 @@ entry_into_force: 2019-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013219/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschap en het Waalse Gewest betreffende de erkenning van de Waalse gewestelijke maatschappijen van onderlinge bijstand, van de Hulpkas voor Ziekte- en Invaliditeitsverzekering en van de Kas der geneeskundige verzorging van HR Rail als Waalse verzekeringsinstellingen voor de rekening van de Franse Gemeenschap

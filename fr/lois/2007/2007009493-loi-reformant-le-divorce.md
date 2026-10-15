@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/27/2007009493/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2007 et mise à jour au 24-12-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Loi réformant le divorce.

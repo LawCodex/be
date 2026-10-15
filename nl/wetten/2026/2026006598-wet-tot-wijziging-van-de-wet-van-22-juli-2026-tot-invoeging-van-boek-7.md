@@ -10,7 +10,7 @@ date: 2026-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/08/27/2026006598/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AUGUSTUS 2026. - Wet tot wijziging van de wet van 22 juli 2026 tot invoeging van boek 7 "Bijzondere contracten" in het Burgerlijk Wetboek en tot wijziging van de boeken 1, 5, 8 en 9 van hetzelfde Wetboek en diverse andere wetten, wat de Raad van State en de administratieve rechtscolleges betreft

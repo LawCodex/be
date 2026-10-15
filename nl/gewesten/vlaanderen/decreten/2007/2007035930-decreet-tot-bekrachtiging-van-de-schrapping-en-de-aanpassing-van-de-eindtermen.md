@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/27/2007035930/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2007 en tekstbijwerking tot 24-05-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - [decreet tot bekrachtiging van de schrapping en de aanpassing van de eindtermen voor het studiegebied algemene vorming, met uitzondering van de opleiding Aanvullende Algemene Vorming, van het secundair volwassenenonderwijs] &lt;Opschrift vervangen door DVR 2012-04-20/20 , art. 3, 002; Inwerkingtreding : 01-09-2012&gt;

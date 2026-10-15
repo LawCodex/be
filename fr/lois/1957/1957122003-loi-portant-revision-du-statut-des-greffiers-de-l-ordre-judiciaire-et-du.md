@@ -11,7 +11,7 @@ published: 1957-12-30
 entry_into_force: 1958-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1957/12/20/1957122003/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1957. - Loi portant révision du statut des greffiers de l'Ordre judiciaire et du personnel des greffes des cours et tribunaux.

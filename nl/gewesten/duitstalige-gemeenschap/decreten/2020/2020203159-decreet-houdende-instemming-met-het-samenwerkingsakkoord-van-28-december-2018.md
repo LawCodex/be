@@ -12,7 +12,7 @@ published: 2020-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/22/2020203159/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2020. - Decreet houdende instemming met het Samenwerkingsakkoord van 28 december 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de samenwerking tussen inspectiediensten in het kader van de bevoegdheden inzake gezinsbijslagen

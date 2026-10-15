@@ -13,7 +13,7 @@ entry_into_force: 2018-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/15/2018201407/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2018. - Decreet tot wijziging van artikel D.VII.26 van het Wetboek van Ruimtelijke Ontwikkeling

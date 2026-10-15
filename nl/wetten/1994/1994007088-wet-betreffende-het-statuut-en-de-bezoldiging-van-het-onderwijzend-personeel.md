@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/16/1994007088/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2006 en tekstbijwerking tot 03-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1994. - Wet betreffende het statuut en de bezoldiging van het onderwijzend [...]personeel van de Koninklijke Militaire School. &lt;W 2003-03-27/49, art. 113, Inwerkingtreding : 14-07-2003&gt;

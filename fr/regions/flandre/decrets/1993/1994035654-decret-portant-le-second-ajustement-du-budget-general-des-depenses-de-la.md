@@ -13,7 +13,7 @@ entry_into_force: 1994-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/22/1994035654/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1993. - Décret portant le second ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 1993.

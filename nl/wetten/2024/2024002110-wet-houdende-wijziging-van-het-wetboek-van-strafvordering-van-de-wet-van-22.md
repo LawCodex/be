@@ -12,7 +12,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/07/2024002110/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2024. - Wet houdende wijziging van het wetboek van strafvordering, van de wet van 22 maart 1999 betreffende de identificatieprocedure via DNA-onderzoek in strafzaken en van de wet van 5 augustus 1992 op het politieambt

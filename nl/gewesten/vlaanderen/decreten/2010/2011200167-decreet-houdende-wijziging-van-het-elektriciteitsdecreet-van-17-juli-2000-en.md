@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2011200167/justel"
 department: "Vlaamse Overheid"
 justel_note: "bij arrest nr. 89/2012 van 12-07-2012 (B.St. 18-10-2012, p. 63480-63482), heeft het Grondwettelijk hof dit decreet vernietigd"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet houdende wijziging van het Elektriciteitsdecreet van 17 juli 2000 en het Energiedecreet van 8 mei 2009, wat betreft het vermijden van injectietarieven voor elektriciteit geproduceerd door middel van hernieuwbare energiebronnen en kwalitatieve warmte-krachtkoppeling

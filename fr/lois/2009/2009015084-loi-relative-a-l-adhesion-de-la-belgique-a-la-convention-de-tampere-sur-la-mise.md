@@ -12,7 +12,7 @@ entry_into_force: 2010-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/13/2009015084/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2009. - Loi relative à l'adhésion de la Belgique à la Convention de Tampere sur la mise à disposition de ressources de télécommunication pour l'atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe, faite à Tampere (Finlande) le 18 juin 1998

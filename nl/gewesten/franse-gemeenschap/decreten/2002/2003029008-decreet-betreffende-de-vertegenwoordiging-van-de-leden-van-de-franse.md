@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2003029008/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-2019 en tekstbijwerking tot 30-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet betreffende de vertegenwoordiging van de leden van de Franse Gemeenschap bij de raden van bestuur van de door de Franse Gemeenschap gesubsidieerde verenigingen zonder winstoogmerk die voornamelijk actief zijn binnen de culturele sector (VERTALING)

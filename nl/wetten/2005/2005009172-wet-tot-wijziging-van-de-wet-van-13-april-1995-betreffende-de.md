@@ -12,7 +12,7 @@ entry_into_force: 2005-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/21/2005009172/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2005. - Wet tot wijziging van de wet van 13 april 1995 betreffende de handelsagentuurovereenkomst met het oog op de bescherming van de kandidaten en de leden van de paritaire overlegorganen.

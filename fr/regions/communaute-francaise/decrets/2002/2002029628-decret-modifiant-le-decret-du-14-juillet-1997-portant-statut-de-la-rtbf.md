@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2002029628/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2002 et mise à jour au 15-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret modifiant le décret du 14 juillet 1997 portant statut de la RTBF.

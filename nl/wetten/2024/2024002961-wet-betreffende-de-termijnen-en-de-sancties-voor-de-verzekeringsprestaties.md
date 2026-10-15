@@ -12,7 +12,7 @@ entry_into_force: 2024-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/17/2024002961/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2024. - Wet betreffende de termijnen en de sancties voor de verzekeringsprestaties

@@ -12,7 +12,7 @@ published: 2010-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/09/2010206369/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2010. - Décret spécial limitant le cumul de mandats dans le chef des députés du Parlement wallon

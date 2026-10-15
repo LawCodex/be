@@ -13,7 +13,7 @@ entry_into_force: 2011-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/02/25/2011201214/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2011. - Décret portant assentiment à la modification de la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontalier, adoptée par arrêté III/7 à Cavtat le 4 juin 2004

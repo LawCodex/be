@@ -13,7 +13,7 @@ entry_into_force: 2004-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/29/2004032950/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2004. - Décret modifiant le décret visant le contrôle des communications du Gouvernement de la Communauté germanophone en vue de réglementer le contrôle des dépenses électorales engagées pour l'élection du Conseil (TRADUCTION).

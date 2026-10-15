@@ -12,7 +12,7 @@ entry_into_force: 2010-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/03/2010000078/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2010. - Wet tot wijziging van deel XII van het koninklijk besluit van 30 maart 2001 tot regeling van de rechtspositie van het personeel van de politiediensten, bekrachtigd door de programmawet van 30 december 2001

@@ -13,7 +13,7 @@ entry_into_force: 2022-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/03/31/2022031528/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2022. - Ordonnantie betreffende het verlenen van toegangsrechten aan de ondernemingen die elektronische-communicatienetwerken aanbieden

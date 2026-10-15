@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996035055/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-02-1996 en tekstbijwerking tot 18-08-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen.

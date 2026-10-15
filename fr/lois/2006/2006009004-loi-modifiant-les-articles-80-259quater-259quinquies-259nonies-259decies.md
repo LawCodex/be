@@ -12,7 +12,7 @@ entry_into_force: 2007-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/18/2006009004/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2006. - Loi modifiant les articles 80, 259quater, 259quinquies, 259nonies, 259decies, 259undecies, 323bis, 340, 341, 346 et 359 du Code judiciaire, rétablissant dans celui-ci l'article 324 et modifiant les articles 43 et 43quater de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire.

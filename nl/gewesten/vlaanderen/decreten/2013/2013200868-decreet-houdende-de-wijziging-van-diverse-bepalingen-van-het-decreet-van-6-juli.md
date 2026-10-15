@@ -13,7 +13,7 @@ entry_into_force: 2013-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/18/2013200868/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2013. - Decreet houdende de wijziging van diverse bepalingen van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking

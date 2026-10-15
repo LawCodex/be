@@ -12,7 +12,7 @@ entry_into_force: 2017-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/09/2017011740/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2017. - Wet houdende ruimere mobiliteit van de vóór 1 april 2014 benoemde rechters in handelszaken

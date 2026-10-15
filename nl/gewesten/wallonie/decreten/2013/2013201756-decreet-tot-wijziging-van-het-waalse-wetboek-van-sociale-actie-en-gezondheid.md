@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/07/2013201756/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2013. - Decreet tot wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid, wat betreft de "Espaces-Rencontres" (Ontmoetingsruimten)

@@ -13,7 +13,7 @@ entry_into_force: 2023-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/24/2023041429/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2023. - Decreet over het hybride onderwijs in het secundair onderwijs

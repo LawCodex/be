@@ -12,7 +12,7 @@ entry_into_force: 1993-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/12/29/1993000007/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 DECEMBRE 1992. - Loi modifiant les lois portant le statut des objecteurs de conscience, coordonnées le 20 février 1980.

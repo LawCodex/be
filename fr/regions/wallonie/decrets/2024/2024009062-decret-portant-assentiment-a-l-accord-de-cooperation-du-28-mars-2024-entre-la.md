@@ -13,7 +13,7 @@ entry_into_force: 2024-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024009062/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret portant assentiment à l'accord de coopération du 28 mars 2024 entre la Communauté germanophone et la Région wallonne portant sur l'administration électronique

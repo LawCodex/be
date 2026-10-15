@@ -13,7 +13,7 @@ entry_into_force: 2003-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/20/2003033010/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2003. - Décret portant assentiment au Protocole facultatif à la Convention sur l'élimination de toutes formes de discrimination à l'égard des femmes adopté à New York le 6 octobre 1999 (TRADUCTION).

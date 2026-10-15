@@ -13,7 +13,7 @@ entry_into_force: 2012-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/01/2012031110/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2012. - Ordonnantie tot wijziging van de Brusselse Huisvestingscode met het oog op de erkenning van de woning van woonwagenbewoners

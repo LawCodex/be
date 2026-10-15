@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/28/2013029281/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2013. - Décret modifiant diverses modalités d'épreuves externes prévues par le décret du 2 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire et au certificat d'études de base au terme de l'enseignement primaire

@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/11/2020041744/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2020. - Wet tot aanpassing van verscheidene belastingwetboeken aan de wet van 5 mei 2019 houdende diverse bepalingen in strafzaken en inzake erediensten, en tot wijziging van de wet van 28 mei 2002 betreffende de euthanasie en van het Sociaal Strafwetboek

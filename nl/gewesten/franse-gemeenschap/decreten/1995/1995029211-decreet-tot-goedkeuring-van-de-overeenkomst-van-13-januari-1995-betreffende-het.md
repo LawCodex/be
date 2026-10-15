@@ -13,7 +13,7 @@ entry_into_force: 1995-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029211/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet tot goedkeuring van de overeenkomst van 13 januari 1995 betreffende het afstaan door de Franse Gemeenschap aan het Waalse Gewest van haar rechten in het Domein Solvay in Terhulpen. (VERTALING)

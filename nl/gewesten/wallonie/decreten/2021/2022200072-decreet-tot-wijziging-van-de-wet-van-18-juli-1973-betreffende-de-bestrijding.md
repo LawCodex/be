@@ -13,7 +13,7 @@ entry_into_force: 2022-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/22/2022200072/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2021. - Decreet tot wijziging van de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder

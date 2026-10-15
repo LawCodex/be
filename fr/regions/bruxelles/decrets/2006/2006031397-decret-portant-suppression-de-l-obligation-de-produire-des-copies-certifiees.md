@@ -13,7 +13,7 @@ entry_into_force: 2006-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/01/2006031397/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUIN 2006. - Décret portant suppression de l'obligation de produire des copies certifiées conformes de documents.

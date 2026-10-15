@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/24/2022015166/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2022. - Décret relatif aux mesures de relance dans l'enseignement

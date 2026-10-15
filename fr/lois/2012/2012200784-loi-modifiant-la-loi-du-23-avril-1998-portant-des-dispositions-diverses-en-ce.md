@@ -12,7 +12,7 @@ entry_into_force: 2011-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/26/2012200784/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2012. - Loi modifiant la loi du 23 avril 1998 portant des dispositions diverses en ce qui concerne l'institution d'un comité d'entreprise européen ou d'une procédure dans les entreprises de dimension communautaire et les groupes d'entreprises de dimension communautaire en vue d'informer et de consulter les travailleurs

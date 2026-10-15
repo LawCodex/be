@@ -13,7 +13,7 @@ entry_into_force: 2016-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/03/2016201313/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2016. - Décret portant assentiment à l'accord de coopération du 3 décembre 2015 entre la Communauté française et la Région wallonne habilitant les Comités d'acquisition wallons à réaliser des opérations patrimoniales pour le compte de la Communauté française et des entités qui en dépendent

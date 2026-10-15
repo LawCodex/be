@@ -13,7 +13,7 @@ entry_into_force: 2017-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/12/2017204510/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2017. - Décret modifiant la loi du 12 février 2008 instaurant un nouveau cadre général pour la reconnaissance des qualifications professionnelles CE

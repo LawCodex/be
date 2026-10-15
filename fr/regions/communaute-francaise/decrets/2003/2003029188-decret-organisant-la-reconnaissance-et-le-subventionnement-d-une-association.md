@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/27/2003029188/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-04-2003 et mise à jour au 27-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Décret organisant la reconnaissance et le subventionnement d'une association des centres sportifs

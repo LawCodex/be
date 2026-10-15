@@ -13,7 +13,7 @@ last_amended: 2025-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/13/1976071304/justel"
 justel_note: "Consultation des versions antérieures à partir du 08-08-1990 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1976. - Loi relative aux effectifs en officiers et aux statuts du personnel des forces armées.

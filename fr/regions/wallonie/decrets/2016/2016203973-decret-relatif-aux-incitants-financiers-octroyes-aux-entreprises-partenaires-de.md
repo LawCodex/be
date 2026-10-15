@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016203973/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2016 et mise à jour au 01-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Décret relatif aux incitants financiers octroyés aux entreprises partenaires de la formation en alternance, aux apprenants en alternance et pour les coaches sectoriels

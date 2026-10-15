@@ -12,7 +12,7 @@ entry_into_force: 1998-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/27/1998009553/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 1998. - Loi modifiant l'article 631 du Code judiciaire et les articles 5, 6 et 7 de la loi du 17 juillet 1997 relative au concordat judiciaire.

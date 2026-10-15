@@ -11,7 +11,7 @@ published: 1948-07-29
 entry_into_force: 1948-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1948/07/28/1948072802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 1948. - Wet betreffende de sanering van der balans van de Nationale Bank van België.

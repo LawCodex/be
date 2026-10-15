@@ -12,7 +12,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/01/08/2017012274/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2017. - Wet houdende instemming met het Internationaal Verdrag van Nairobi inzake de verwijdering van wrakken, gedaan te Nairobi op 18 mei 2007

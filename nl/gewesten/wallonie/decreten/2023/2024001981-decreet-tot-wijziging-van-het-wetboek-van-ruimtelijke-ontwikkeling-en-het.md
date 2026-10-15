@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/13/2024001981/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2023. - Decreet tot wijziging van het Wetboek van Ruimtelijke Ontwikkeling en het decreet van 6 november 2008 houdende rationalisatie van de adviesverlenende functie en tot opheffing van het decreet van 5 februari 2015 betreffende de handelsvestigingen

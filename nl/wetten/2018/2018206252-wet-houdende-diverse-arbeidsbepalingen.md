@@ -12,7 +12,7 @@ entry_into_force: 2018-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/14/2018206252/justel"
 department: "Financiën - Justitie - Sociale Zekerheid - Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2018. - Wet houdende diverse arbeidsbepalingen

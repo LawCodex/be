@@ -12,7 +12,7 @@ entry_into_force: 2005-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/03/16/2005000274/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2005. - Wet tot wijziging van artikel 57/12 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

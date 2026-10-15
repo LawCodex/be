@@ -13,7 +13,7 @@ entry_into_force: 2016-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/04/14/2016031301/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2016. - Ordonnantie tot wijziging van de Nieuwe Gemeentewet om de verplichting van de borgstelling voor de gemeenteontvangers af te schaffen

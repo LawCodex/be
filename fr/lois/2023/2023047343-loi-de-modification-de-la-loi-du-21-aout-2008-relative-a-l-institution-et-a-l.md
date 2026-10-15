@@ -12,7 +12,7 @@ entry_into_force: 2023-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/23/2023047343/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Loi de modification de la loi du 21 aout 2008 relative a l'institution et a l'organisation de la plate-forme ehealth et portant diverses dispositions et de modification de la loi du 29 janvier 2014 portant des dispositions relatives a la carte d'identite sociale et la carte isi+

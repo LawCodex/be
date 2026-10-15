@@ -13,7 +13,7 @@ entry_into_force: 2025-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/02/20/2025001805/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2025. - Décret relatif à la levée du secret professionnel en cas de signalement d'informations sur une irrégularité suspectée au sein de Wallonie-Bruxelles International

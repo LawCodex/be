@@ -13,7 +13,7 @@ entry_into_force: 2002-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/27/2002029187/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2002. - Décret modifiant le décret du 30 juin 1998 visant à assurer à tous les élèves des chances égales d'émancipation sociale, notamment par la mise en oeuvre de discriminations positives et portant diverses mesures modificatives.

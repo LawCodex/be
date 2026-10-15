@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999009706/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi modifiant certaines dispositions du Code pénal, du Code d'instruction criminelle, de la loi du 17 avril 1878 contenant le Titre préliminaire du Code de procédure pénale, de la loi du 9 avril 1930 de défense sociale à l'égard des anormaux et des délinquants d'habitude, remplacée par la loi du 1er juillet 1964, de la loi du 29 juin 1964 concernant la suspension, le sursis et la probation, de la loi du 20 juillet 1990 relative à la détention préventive, de la loi du 5 mars 1998 relative à la libération conditionnelle et modifiant la loi du 9 avril 1930 de défense sociale à l'égard des anormaux et des délinquants d'habitude, remplacée par la loi du 1er juillet 1964.

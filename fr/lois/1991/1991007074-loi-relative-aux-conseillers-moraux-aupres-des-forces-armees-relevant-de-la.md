@@ -12,7 +12,7 @@ entry_into_force: 1991-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/02/18/1991007074/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 1991. - Loi relative aux conseillers moraux auprès des Forces armées, relevant de la Communauté non confessionnelle de Belgique.

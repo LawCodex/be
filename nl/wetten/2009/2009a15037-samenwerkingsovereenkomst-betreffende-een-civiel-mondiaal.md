@@ -11,7 +11,7 @@ published: 2009-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/12/2009A15037/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2009. - Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, gedaan te Helsinki op 9 september 2006

@@ -10,7 +10,7 @@ date: 2012-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/25/2012021115/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AUGUSTUS 2012. - Wet tot wijziging van Titel XIII van de programmawet (I) van 27 december 2006, wat de aard van de arbeidsrelaties betreft

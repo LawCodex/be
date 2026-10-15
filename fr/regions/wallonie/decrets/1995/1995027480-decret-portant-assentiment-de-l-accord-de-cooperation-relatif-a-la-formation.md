@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/05/04/1995027480/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1995. - Décret portant assentiment de l'Accord de coopération relatif à la Formation permanente pour les Classes moyennes et les petites et moyennes entreprises, conclu le 20 février 1995, par la Commission communautaire française, la Communauté française et la Région wallonne.

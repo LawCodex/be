@@ -12,7 +12,7 @@ entry_into_force: 2011-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/06/11/2011203671/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2011. - Wet tot wijziging van de wetgeving wat de bescherming van het vaderschapsverlof betreft

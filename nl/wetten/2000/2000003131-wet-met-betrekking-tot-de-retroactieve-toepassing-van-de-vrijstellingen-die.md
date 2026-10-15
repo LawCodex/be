@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/17/2000003131/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2000. - Wet met betrekking tot de retroactieve toepassing van de vrijstellingen die zijn bepaald in de zetelakkoorden met de internationale intergouvernementele organisaties inzake inkomstenbelastingen en met de inkomstenbelastingen gelijkgestelde belastingen.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202689/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-07-2012 et mise à jour au 13-07-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret portant protection d'habitations au moyen de détecteurs de fumée optiques

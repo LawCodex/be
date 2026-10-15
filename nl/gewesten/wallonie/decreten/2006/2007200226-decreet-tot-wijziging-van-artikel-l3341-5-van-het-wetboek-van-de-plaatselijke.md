@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/22/2007200226/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2006. - Decreet tot wijziging van artikel L3341-5 van het Wetboek van de plaatselijke democratie en de decentralisatie, betreffende een aangelegenheid waarvan de uitoefening van de bevoegdheid door de Franse Gemeenschap naar het Waalse Gewest is overgeheveld (VERTALING).

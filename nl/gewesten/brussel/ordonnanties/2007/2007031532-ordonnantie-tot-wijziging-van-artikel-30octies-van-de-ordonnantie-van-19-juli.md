@@ -12,7 +12,7 @@ published: 2007-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/11/29/2007031532/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2007. - Ordonnantie tot wijziging van artikel 30octies van de ordonnantie van 19 juli 2001 betreffende de organisatie van de elektriciteitsmarkt in het Brussels Hoofdstedelijk Gewest.

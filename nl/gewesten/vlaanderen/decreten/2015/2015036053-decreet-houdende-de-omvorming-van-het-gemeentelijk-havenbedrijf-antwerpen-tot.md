@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/17/2015036053/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-08-2015 en tekstbijwerking tot 01-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Decreet houdende de omvorming van het Gemeentelijk Havenbedrijf Antwerpen tot een naamloze vennootschap van publiek recht

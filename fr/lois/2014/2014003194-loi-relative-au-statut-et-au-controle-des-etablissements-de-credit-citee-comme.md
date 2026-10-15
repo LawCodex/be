@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/25/2014003194/justel"
 department: "Finances - Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-05-2014 et mise à jour au 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Loi relative au statut et au contrôle des établissements de crédit [...] (Citée comme : loi bancaire) (Intitulé modifié par L 2016-10-25/05 , art. 2, 009; En vigueur : 01-12-2016) &lt;Intitulé modifié par L 2022-07-20/40 , art. 292, 031; En vigueur : 06-10-2022&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2004-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/05/2003012206/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2003. - Loi spéciale garantissant la présence de personnes de sexe différent dans le Gouvernement flamand, le Gouvernement de la Communauté française, le Gouvernement wallon, le Gouvernement de la Région de Bruxelles-Capitale et parmi les secrétaires d'Etat régionaux de la Région de Bruxelles-Capitale.

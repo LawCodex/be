@@ -12,7 +12,7 @@ published: 2009-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/12/2009029108/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2008. - Decreet tot bevordering van de organisatie van de eerste graad en houdende diverse maatregelen inzake onderwijs (VERTALING).

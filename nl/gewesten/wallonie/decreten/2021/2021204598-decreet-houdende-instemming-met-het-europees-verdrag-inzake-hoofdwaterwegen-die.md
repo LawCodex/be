@@ -13,7 +13,7 @@ entry_into_force: 2021-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/23/2021204598/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2021. - Decreet houdende instemming met het Europees Verdrag inzake hoofdwaterwegen die van internationaal belang zijn (AGN), opgemaakt in Genève op 19 januari 1996

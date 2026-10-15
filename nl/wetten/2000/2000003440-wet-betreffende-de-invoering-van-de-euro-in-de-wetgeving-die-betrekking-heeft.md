@@ -12,7 +12,7 @@ entry_into_force: 2000-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/26/2000003440/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2000. - Wet betreffende de invoering van de euro in de wetgeving die betrekking heeft op aangelegenheden als bedoeld in artikel 78 van de Grondwet.

@@ -13,7 +13,7 @@ entry_into_force: 2021-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/01/29/2021040435/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2021. - Decreet tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat betreft de invoering van een verbod op het gebruik van paardachtigen op kermissen en aanverwante evenementen

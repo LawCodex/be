@@ -12,7 +12,7 @@ entry_into_force: 1989-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/01/04/1989000061/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANVIER 1989. - Loi relative aux traitements des titulaires de certaines fonctions publiques et des ministres des cultes.

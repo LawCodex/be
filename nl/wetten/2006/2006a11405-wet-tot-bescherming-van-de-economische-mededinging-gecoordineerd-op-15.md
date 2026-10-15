@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/09/15/2006A11405/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-09-2006 en tekstbijwerking tot 29-11-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBER 2006. - Wet tot bescherming van de economische mededinging, gecoördineerd op 15 september 2006.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013204597/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-08-2013 en tekstbijwerking tot 05-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet houdende toekenning van subsidies voor gebouwen van de [ 1 eredienst en gebouwen] 1 voor de openbare uitoefening van de niet-confessionele morele dienstverlening [ 1 ...] 1 ( 1 )&lt;DVR 2024-02-09/18 , art.12 , 003; Inwerkingtreding : 15-03-2024&gt;

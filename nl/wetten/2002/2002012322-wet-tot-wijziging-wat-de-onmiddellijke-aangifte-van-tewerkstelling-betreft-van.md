@@ -12,7 +12,7 @@ entry_into_force: 2001-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/21/2002012322/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2002. - Wet tot wijziging, wat de onmiddellijke aangifte van tewerkstelling betreft, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.

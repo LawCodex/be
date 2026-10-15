@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/24/2007200483/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-02-2007 en tekstbijwerking tot 20-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2006. - Decreet betreffende de toekenning van de vergunning van sportschutter (VERTALING).

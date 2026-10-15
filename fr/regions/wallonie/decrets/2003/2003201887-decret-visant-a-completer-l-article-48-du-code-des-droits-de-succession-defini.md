@@ -13,7 +13,7 @@ entry_into_force: 2003-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003201887/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret visant à compléter l'article 48 du Code des droits de succession défini par l'arrêté royal n° 308 du 31 mars 1936, dans le but de réduire les inégalités en ce qui concerne les droits de succession à acquitter existant entre les enfants majeurs ou mineurs élevés au sein d'une famille recomposée.

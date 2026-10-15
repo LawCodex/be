@@ -11,7 +11,7 @@ published: 2004-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/25/2004009322/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2004. - Loi relative à l'agrément de certaines associations sans but lucratif d'accompagnement des victimes d'actes intentionnels de violence.

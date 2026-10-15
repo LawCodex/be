@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/16/2015027115/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 28-07-2015 et mise à jour au 28-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2015. - Décret instaurant un prélèvement kilométrique à charge des poids lourds pour l'utilisation des routes

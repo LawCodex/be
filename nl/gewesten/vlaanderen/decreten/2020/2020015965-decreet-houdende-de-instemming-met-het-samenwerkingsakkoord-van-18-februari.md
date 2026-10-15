@@ -11,7 +11,7 @@ date: 2020-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/30/2020015965/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2020. - Decreet houdende de instemming met het samenwerkingsakkoord van 18 februari 2020 tot wijziging van het samenwerkingsakkoord van 12 december 2005 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie

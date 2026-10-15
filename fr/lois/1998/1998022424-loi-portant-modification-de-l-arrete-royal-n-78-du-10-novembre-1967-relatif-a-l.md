@@ -12,7 +12,7 @@ entry_into_force: 1998-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/16/1998022424/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1998. - Loi portant modification de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales.

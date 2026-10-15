@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/21/2014035613/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2014 en tekstbijwerking tot 02-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2014. - Decreet betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften

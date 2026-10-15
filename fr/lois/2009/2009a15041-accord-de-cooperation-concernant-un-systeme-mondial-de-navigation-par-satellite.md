@@ -11,7 +11,7 @@ published: 2009-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/12/2009A15041/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2009. - Accord de coopération concernant un système mondial de navigation par satellite (GNSS) à usage civil entre la Communauté européenne ainsi que ses Etats membres et le Royaume du Maroc, fait à Bruxelles le 12 décembre 2006

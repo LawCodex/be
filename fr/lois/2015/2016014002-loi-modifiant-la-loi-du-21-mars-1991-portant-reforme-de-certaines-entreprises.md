@@ -12,7 +12,7 @@ entry_into_force: 2016-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/16/2016014002/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2015. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques

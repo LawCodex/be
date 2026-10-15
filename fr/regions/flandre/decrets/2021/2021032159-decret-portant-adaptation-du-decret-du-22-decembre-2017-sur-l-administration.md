@@ -13,7 +13,7 @@ entry_into_force: 2021-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/16/2021032159/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2021. - Décret portant adaptation du décret du 22 décembre 2017 sur l'administration locale, en ce qui concerne la délégation de la compétence de signature d'actes authentiques relatifs à des opérations immobilières

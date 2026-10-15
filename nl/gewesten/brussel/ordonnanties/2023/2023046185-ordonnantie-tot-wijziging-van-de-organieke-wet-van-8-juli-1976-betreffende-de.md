@@ -12,7 +12,7 @@ published: 2023-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/10/05/2023046185/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OKTOBER 2023. - Ordonnantie tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn met betrekking tot de opdrachten en de financiering van de koepelvereniging alsook de ordonnantie van 4 april 2019 betreffende de oprichting, de erkenning, de programmatie en de erkenningsprocedures van de ziekenhuizen, vormen van samenwerkingsverbanden tussen ziekenhuizen of ziekenhuisactiviteiten

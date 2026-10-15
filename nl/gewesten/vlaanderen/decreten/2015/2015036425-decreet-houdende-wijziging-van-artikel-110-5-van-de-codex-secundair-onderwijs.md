@@ -11,7 +11,7 @@ date: 2015-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/13/2015036425/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2015. - Decreet houdende wijziging van artikel 110/5 van de Codex Secundair Onderwijs, wat het recht op inschrijving betreft

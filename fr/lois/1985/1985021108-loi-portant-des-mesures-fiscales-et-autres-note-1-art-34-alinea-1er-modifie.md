@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/08/01/1985021108/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 03-02-1987 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AOUT 1985. - Loi portant des mesures fiscales et autres. (NOTE 1 : art. 34, alinéa 1er, modifié avec effet à une date indéterminée par L 2016-05-31/09 , art. 6, 030; En vigueur : indéterminée )

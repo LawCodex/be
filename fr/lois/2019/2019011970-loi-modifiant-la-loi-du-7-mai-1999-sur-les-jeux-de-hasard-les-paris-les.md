@@ -12,7 +12,7 @@ entry_into_force: 2019-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/07/2019011970/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2019. - Loi modifiant la loi du 7 mai 1999 sur les jeux de hasard, les paris, les établissements de jeux de hasard et la protection des joueurs, et insérant l'article 37/1 dans la loi du 19 avril 2002 relative à la rationalisation du fonctionnement et de la gestion de la Loterie Nationale

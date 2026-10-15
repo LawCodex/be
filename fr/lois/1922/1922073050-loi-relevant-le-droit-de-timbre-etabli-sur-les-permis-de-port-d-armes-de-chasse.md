@@ -11,7 +11,7 @@ published: 1922-07-31
 entry_into_force: 1922-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1922/07/30/1922073050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1922. - Loi relevant le droit de timbre établi sur les permis de port d'armes de chasse et de chasse au lévrier et instituant un permis de tenderie aux oiseaux ainsi qu'une taxe sur les établissements de canardières.

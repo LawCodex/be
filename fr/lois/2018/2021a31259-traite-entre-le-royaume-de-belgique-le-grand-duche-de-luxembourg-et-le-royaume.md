@@ -12,7 +12,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/23/2021A31259/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2018. - Traité entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas en matière de coopération policière.

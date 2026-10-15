@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/20/2012035198/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2012 et mise à jour au 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2012. - Décret relatif à une politique rénovée des droits de l'enfant et de la jeunesse

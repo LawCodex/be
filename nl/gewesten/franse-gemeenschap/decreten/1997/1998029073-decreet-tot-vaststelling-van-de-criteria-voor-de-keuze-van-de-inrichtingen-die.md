@@ -13,7 +13,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/22/1998029073/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1997. - Decreet tot vaststelling van de criteria voor de keuze van de inrichtingen die het voordeel kunnen genieten van de solidariteit tussen scholen van het gewoon basisonderwijs (VERTALING).

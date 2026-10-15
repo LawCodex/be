@@ -13,7 +13,7 @@ entry_into_force: 2017-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017040439/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende instemming met de wijzigingen aan het Protocol inzake persistente organische verontreinigende stoffen, met bijlagen, bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, gedaan op 18 december 2009 te Genève

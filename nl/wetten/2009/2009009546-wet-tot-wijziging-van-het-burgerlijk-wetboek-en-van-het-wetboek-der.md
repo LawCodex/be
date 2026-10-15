@@ -12,7 +12,7 @@ entry_into_force: 2009-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/28/2009009546/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2009. - Wet tot wijziging van het Burgerlijk Wetboek en van het Wetboek der successierechten wat betreft de bevrijdende betaling bij een erfenis en de terbeschikkingstelling van een bepaald bedrag aan de langstlevende echtgenoot of wettelijk samenwonende

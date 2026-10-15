@@ -12,7 +12,7 @@ entry_into_force: 2024-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/15/2024011176/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2024. - Loi prolongeant certaines mesures prévues par la loi du 20 novembre 2022 concernant la pénurie de personnel dans le secteur des soins

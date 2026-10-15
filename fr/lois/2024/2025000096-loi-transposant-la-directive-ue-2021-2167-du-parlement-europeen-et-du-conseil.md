@@ -12,7 +12,7 @@ entry_into_force: 2025-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/20/2025000096/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Loi transposant la directive (UE) 2021/2167 du Parlement européen et du Conseil du 24 novembre 2021 sur les gestionnaires de crédits et les acheteurs de crédits, et modifiant les directives 2008/48/CE et 2014/17/UE

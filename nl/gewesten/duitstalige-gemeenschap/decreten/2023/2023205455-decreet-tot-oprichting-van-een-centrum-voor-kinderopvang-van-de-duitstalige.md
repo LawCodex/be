@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/22/2023205455/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-11-2023 en tekstbijwerking tot 12-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2023. - Decreet tot oprichting van een centrum voor kinderopvang van de Duitstalige Gemeenschap

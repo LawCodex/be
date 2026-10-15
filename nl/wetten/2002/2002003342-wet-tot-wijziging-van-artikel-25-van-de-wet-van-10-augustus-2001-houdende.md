@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/21/2002003342/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2002. - Wet tot wijziging van artikel 25 van de wet van 10 augustus 2001 houdende hervorming van de personenbelasting en van de artikelen 136, 140, 141 en 178, § 3, van het Wetboek van de inkomstenbelastingen 1992.

@@ -13,7 +13,7 @@ entry_into_force: 2012-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/12/2012200441/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2012. - Décret portant assentiment à l'Accord international de 2006 sur les bois tropicaux, fait à Genève le 27 janvier 2006

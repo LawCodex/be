@@ -12,7 +12,7 @@ published: 2016-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/13/2016029340/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2016. - Decreet betreffende de invoering van een cursus filosofie en burgerzin in het basisonderwijs en betreffende het behoud van de alternatieve pedagogische begeleiding in het secundair onderwijs

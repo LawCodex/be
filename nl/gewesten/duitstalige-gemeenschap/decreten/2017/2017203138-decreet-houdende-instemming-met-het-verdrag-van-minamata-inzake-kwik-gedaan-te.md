@@ -13,7 +13,7 @@ entry_into_force: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/29/2017203138/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2017. - Decreet houdende instemming met het Verdrag van Minamata inzake kwik, gedaan te Kumamoto op 10 oktober 2013

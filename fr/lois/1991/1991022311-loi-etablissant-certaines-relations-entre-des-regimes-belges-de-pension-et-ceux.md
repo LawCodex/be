@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/05/21/1991022311/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement - Finances - Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 20-06-1991 et mise à jour au 28-07-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 1991. - Loi établissant certaines relations entre des régimes belges de pension et ceux d'institutions de droit international public.

@@ -13,7 +13,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/02/2023030633/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Decreet tot oprichting van een Adviesraad voor personen met een handicap in de Franse Gemeenschap

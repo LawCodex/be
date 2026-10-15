@@ -12,7 +12,7 @@ entry_into_force: 2014-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/03/2014015120/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République de Serbie sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Belgrade le 17 février 2010

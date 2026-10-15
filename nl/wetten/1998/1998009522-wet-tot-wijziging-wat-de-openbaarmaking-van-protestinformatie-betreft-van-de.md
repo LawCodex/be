@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/08/1998009522/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1998. - Wet tot wijziging, wat de openbaarmaking van protestinformatie betreft, van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord, de wet van 10 juni 1997 houdende diverse bepalingen met betrekking tot de protesten en de wet van 1 maart 1961 betreffende de invoering in de nationale wetgeving van de eenvormige wet op de cheque en de inwerkingtreding van deze wet.

@@ -12,7 +12,7 @@ entry_into_force: 2019-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/11/29/2019042776/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2019. - Loi modifiant la loi du 20 juillet 1990 relative à la détention préventive en ce qui concerne l'arrestation immédiate

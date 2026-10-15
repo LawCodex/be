@@ -12,7 +12,7 @@ entry_into_force: 1989-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/01/04/1989000061/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANUARI 1989. - Wet betreffende de wedde van de titularissen van sommige openbare ambten en van de bedienaars van de erediensten.

@@ -12,7 +12,7 @@ entry_into_force: 2004-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003051350/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds, met de Bijlagen I, II, III, IVa, IVb, IVc, Va, Vb, VI en VII, met de Protocollen 1, 2, 3 en 4 en met de Slotakte, gedaan te Luxemburg op 9 april 2001.

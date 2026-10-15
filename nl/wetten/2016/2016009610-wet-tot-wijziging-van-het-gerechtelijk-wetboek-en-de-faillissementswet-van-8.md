@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/01/2016009610/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-01-2017 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2016. - Wet tot wijziging van het Gerechtelijk Wetboek en de faillissementswet van 8 augustus 1997 met het oog op de invoering van het Centraal Register Solvabiliteit

@@ -13,7 +13,7 @@ entry_into_force: 2017-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017204930/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2017. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et la République de Colombie sur l'exercice d'activités à but lucratif par des membres de la famille du personnel diplomatique et consulaire, fait à Bogota le 25 août 2015

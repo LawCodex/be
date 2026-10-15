@@ -13,7 +13,7 @@ entry_into_force: 2009-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035578/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, en ce qui concerne l'obligation d'établissement d'une évaluation des incidences sur l'environnement

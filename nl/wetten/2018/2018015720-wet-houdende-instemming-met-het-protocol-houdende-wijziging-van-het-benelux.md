@@ -12,7 +12,7 @@ entry_into_force: 2019-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/16/2018015720/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2018. - Wet houdende instemming met het Protocol houdende wijziging van het Benelux-Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) in verband met de implementatie van Richtlijn (EU) 2015/2436, gedaan te Brussel op 11 december 2017

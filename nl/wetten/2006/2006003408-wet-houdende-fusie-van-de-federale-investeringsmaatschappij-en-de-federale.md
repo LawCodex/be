@@ -12,7 +12,7 @@ entry_into_force: 2006-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/26/2006003408/justel"
 department: "Begroting en Beheerscontrole - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AUGUSTUS 2006. - Wet houdende fusie van de Federale Investeringsmaatschappij en de Federale Participatiemaatschappij.

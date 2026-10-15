@@ -11,7 +11,7 @@ entry_into_force: 1987-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/11/12/1987018103/justel"
 department: "Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 1987. - Wet houdende bepalingen inzake de solidariteits-, matigings- en bijzondere bijdragen ten laste van de zelfstandigen.

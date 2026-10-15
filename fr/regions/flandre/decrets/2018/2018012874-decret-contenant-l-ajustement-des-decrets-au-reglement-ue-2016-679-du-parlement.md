@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/08/2018012874/justel"
 department: "Autorité flamande"
 justel_note: "confirmé avec effet à la date de son entrée en vigueur par DCFL 2020-07-03/16 , art. 2"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2018. - Décret contenant l'ajustement des décrets au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données)

@@ -12,7 +12,7 @@ entry_into_force: 2006-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/10/2006203876/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2006. - Decreet houdende instemming met de Zetelovereenkomst tussen het Koninkrijk België en het " International Plan Genetic Ressources Institute (I.P.G.R.I.) ", opgemaakt te Brussel op 15 oktober 2003 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2024-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/08/2024203040/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2024. - Decreet houdende instemming met het Samenwerkingsakkoord van 28 maart 2024 tussen de Duitstalige Gemeenschap en het Waalse Gewest inzake elektronische administratie

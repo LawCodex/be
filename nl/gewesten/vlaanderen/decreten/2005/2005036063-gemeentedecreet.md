@@ -18,7 +18,7 @@ justel_notes:
   - "artikelen 169,170,172,173,175,178,240, 265,266 gewijzigd met onbepaalde inwerkingtredingdatum bij DVR 2009-01-23/32 "
   - "art. 103 gewijzigd met ingang op een onbepaalde datum bij DVR 2016-06-03/04 , art. 12, 016; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 31-08-2005 en tekstbijwerking tot 15-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Gemeentedecreet

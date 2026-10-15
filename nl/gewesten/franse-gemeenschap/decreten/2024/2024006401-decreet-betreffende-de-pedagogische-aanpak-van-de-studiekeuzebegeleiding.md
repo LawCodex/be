@@ -13,7 +13,7 @@ entry_into_force: 2024-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/16/2024006401/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Decreet betreffende de pedagogische aanpak van de studiekeuzebegeleiding

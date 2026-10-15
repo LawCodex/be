@@ -11,7 +11,7 @@ published: 1970-03-28
 entry_into_force: 1970-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/03/26/1970032601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1970. \_ Loi intégrant le double pécule afférent à la troisième semaine de vacances dans le régime des vacances annuelles des travailleurs salariés

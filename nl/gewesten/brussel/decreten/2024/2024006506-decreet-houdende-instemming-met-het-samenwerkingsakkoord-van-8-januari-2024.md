@@ -13,7 +13,7 @@ entry_into_force: 2024-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/06/20/2024006506/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2024. - Decreet houdende instemming met het samenwerkingsakkoord van 8 januari 2024 tussen het Brussels Hoofdstedelijk Gewest en de Franse Gemeenschapscommissie betreffende de aanstelling van een gemeenschappelijke dienstenintegrator voor de elektronische uitwisseling van gegevens

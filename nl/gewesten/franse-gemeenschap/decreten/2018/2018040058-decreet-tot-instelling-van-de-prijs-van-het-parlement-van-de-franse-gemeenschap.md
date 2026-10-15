@@ -13,7 +13,7 @@ entry_into_force: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/22/2018040058/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2018. - Decreet tot instelling van de prijs van het Parlement van de Franse Gemeenschap voor de promotie van Vrouwensport

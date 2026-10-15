@@ -13,7 +13,7 @@ entry_into_force: 2008-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/15/2008029170/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2008. - Décret portant assentiment à l'Accord de coopération du 11 mai 2007 entre la Communauté française, la Communauté flamande et la Commission communautaire commune, relatif à l'aide à la jeunesse.

@@ -13,7 +13,7 @@ last_amended: 1997-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1894/06/23/1895062350/justel"
 justel_note: "Consultation des versions antérieures à partir du (date de publication de la loi du 12-05-1971) et mise à jour au 28-10-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1894. - Loi portant revision de la loi du 3 avril 1851 sur les sociétés mutualistes. &lt;Abrogé à partir du 01-01-1991 par L 1990-08-06/35, art. 76, 002; cette loi reste toutefois d'application aux sociétés visées à l'article 1, II, de cette loi&gt;

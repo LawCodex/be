@@ -11,7 +11,7 @@ published: 1946-07-08
 entry_into_force: 1946-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1946/07/01/1946070105/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 1946. - BESLUITWET betreffende den vorm van de bekendmakingen, gedaan in uitvoering van de artikelen 123octies van het Wetboek van strafrecht, 1 van de besluitwet van 6 Mei 1944, 9 van de besluitwet van 26 Mei 1944 en 8, par. 2, van de besluitwet van 19 September 1945

@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/05/02/2013031348/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2013. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Canberra op 13 oktober 1977, zoals gewijzigd door het Protocol, ondertekend te Canberra op 20 maart 1984 en het tweede Protocol, gedaan te Parijs op 24 juni 2009; 2° het tweede Protocol, gedaan te Parijs op 24 juni 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Canberra op 13 oktober 1977, zoals gewijzigd door het Protocol, ondertekend te Canberra op 20 maart 1984

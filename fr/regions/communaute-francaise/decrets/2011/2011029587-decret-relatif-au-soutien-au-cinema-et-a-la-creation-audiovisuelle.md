@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/10/2011029587/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 09-12-2011 et mise à jour au 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2011. - Décret relatif au soutien au cinéma et à la création audiovisuelle

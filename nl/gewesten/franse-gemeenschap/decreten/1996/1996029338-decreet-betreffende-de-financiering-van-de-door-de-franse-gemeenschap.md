@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/09/09/1996029338/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-10-1996 en tekstbijwerking tot 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBER 1996. - Decreet betreffende de financiering van de door de Franse Gemeenschap ingerichte of gesubsidieerde Hogescholen (VERTALING).

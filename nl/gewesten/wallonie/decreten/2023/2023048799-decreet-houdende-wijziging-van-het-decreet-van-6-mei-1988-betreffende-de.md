@@ -13,7 +13,7 @@ entry_into_force: 2024-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/30/2023048799/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2023. - Decreet houdende wijziging van het decreet van 6 mei 1988 betreffende de onteigeningen ten algemenen nutte vervolgd of gemachtigd door de Waalse Gewestexecutieve, het decreet van 22 november 2018 betreffende de onteigeningsprocedure en het decreet van 19 maart 2009 betreffende de instandhouding van het gewestelijke openbaar wegen- en waterwegendomein

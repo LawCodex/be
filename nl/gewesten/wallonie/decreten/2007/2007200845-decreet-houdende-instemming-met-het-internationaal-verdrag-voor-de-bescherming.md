@@ -13,7 +13,7 @@ entry_into_force: 2007-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/09/2007200845/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2007. - Decreet houdende instemming met het Internationaal Verdrag voor de bescherming van planten, en de Bijlage, aangenomen te Rome op 17 november 1997 (VERTALING).

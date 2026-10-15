@@ -13,7 +13,7 @@ entry_into_force: 2000-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/23/2000027273/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2000. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République tunisienne concernant l'encouragement et la protection réciproques des investissements, fait à Tunis le 8 janvier 1997, et au procès-verbal de rectification, fait à Bruxelles le 8 juillet 1998.

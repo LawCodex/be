@@ -9,7 +9,7 @@ language: nl
 date: 1944-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1944/05/27/1944052750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 1944. - BESLUIT-WET tot uitbreiding van de bevoegdheid van de krijgsraden en tot verkorting van de rechtspleging voor bepaalde overtredingen.

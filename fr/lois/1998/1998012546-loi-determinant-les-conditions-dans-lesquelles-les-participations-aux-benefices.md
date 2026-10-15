@@ -12,7 +12,7 @@ entry_into_force: 1998-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/10/1998012546/justel"
 department: "Affaires économiques - Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1998. - Loi déterminant les conditions dans lesquelles les participations aux bénéfices ne sont pas prises en compte pour le calcul de l'évolution du coût salarial.

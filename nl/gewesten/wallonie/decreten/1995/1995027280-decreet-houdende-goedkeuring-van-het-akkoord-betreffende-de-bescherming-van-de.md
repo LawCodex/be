@@ -13,7 +13,7 @@ entry_into_force: 1995-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027280/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet houdende goedkeuring van het akkoord betreffende de bescherming van de Schelde en van het akkoord betreffende de bescherming van de Maas, gedaan te Charleville-Méziéres op 26 april 1994. (VERTALING)

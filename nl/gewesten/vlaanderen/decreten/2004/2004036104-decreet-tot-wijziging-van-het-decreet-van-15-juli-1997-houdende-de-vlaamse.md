@@ -13,7 +13,7 @@ entry_into_force: 2004-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004036104/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet tot wijziging van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers.

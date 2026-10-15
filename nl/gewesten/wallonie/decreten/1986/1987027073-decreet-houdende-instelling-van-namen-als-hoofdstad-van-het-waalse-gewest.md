@@ -13,7 +13,7 @@ entry_into_force: 1987-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1986/12/11/1987027073/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1986. - Decreet houdende instelling van Namen als hoofdstad van het Waalse Gewest. (Vertaling)

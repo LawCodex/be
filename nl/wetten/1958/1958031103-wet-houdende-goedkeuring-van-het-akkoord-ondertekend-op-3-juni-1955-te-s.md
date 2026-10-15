@@ -11,7 +11,7 @@ published: 1958-04-13
 entry_into_force: 1958-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/03/11/1958031103/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 1958. - Wet houdende goedkeuring van het akkoord ondertekend op 3 juni 1955, te 's-Gravenhage, betreffende de Internationale overeenkomst tot regeling van de politie der visserij in de Noordzee, ondertekend op 6 mei 1882, te 's-Gravenhage.

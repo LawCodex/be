@@ -12,7 +12,7 @@ entry_into_force: 2023-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/05/2023031454/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2023. - Loi contenant le premier ajustement du budget des Voies et Moyens de l'année budgétaire 2023

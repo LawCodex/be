@@ -12,7 +12,7 @@ entry_into_force: 2024-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/29/2022034646/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2022. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République d'Arménie sur l'exercice d'activités à but lucratif par des membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 4 décembre 2018

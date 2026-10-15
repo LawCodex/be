@@ -11,7 +11,7 @@ published: 1972-06-08
 entry_into_force: 1972-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1972/03/24/1972032405/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1972. - Wet houdende goedkeuring van volgende internationale akten : a) overeenkomst tussen de Staten die partij zijn bij het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart "Eurocontrol" betreffende de inning van de "en route"-heffingen, opgemaakt te Brussel op 8 september 1970; b) overeenkomst tussen het Koninkrijk België en de organisatie "Eurocontrol" betreffende de inning van de "en route"-heffingen, ondertekend te Brussel op 8 september 1970.

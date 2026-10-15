@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/02/2003033017/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 21-05-2003 en tekstbijwerking tot 04-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2002. - Decreet houdende de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2003 (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/10/2010007051/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 12-02-2010 en tekstbijwerking tot 20-06-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2010. - Wet tot instelling van de vrijwillige militaire inzet en tot wijziging van verschillende wetten van toepassing op het militair personeel

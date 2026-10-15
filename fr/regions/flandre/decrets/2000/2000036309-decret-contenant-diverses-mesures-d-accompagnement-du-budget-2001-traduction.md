@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/22/2000036309/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2000 et mise à jour au 22-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2000. - Décret contenant diverses mesures d'accompagnement du budget 2001 (TRADUCTION)

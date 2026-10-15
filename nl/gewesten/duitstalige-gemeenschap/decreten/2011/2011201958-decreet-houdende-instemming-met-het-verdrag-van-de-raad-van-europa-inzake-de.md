@@ -13,7 +13,7 @@ entry_into_force: 2011-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/28/2011201958/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2011. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik, gedaan te Lanzarote op 25 oktober 2007

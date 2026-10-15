@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004029120/justel"
 department: "Communauté française"
 justel_note: "consultation des versions antérieures à partir du 19-04-2004 et mise à jour au 14-08-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2004. - Décret portant diverses mesures urgentes en matière d'enseignement non obligatoire.

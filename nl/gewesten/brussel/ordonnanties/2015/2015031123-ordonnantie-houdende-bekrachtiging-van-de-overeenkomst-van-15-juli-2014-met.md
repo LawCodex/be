@@ -13,7 +13,7 @@ entry_into_force: 2015-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/02/26/2015031123/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2015. - Ordonnantie houdende bekrachtiging van de overeenkomst van 15 juli 2014 met betrekking tot de doorbetalingsverbintenis, afgesloten tussen het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Single Service Provider en de financier

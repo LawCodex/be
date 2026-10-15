@@ -11,7 +11,7 @@ published: 2012-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012003256/justel"
 department: "Financiën - Economie, KMO, Middenstand en Energie - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot invoering van een wettelijke regeling voor Belgische covered bonds

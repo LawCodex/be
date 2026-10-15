@@ -12,7 +12,7 @@ published: 2007-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/18/2007033011/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2006. - Decreet betreffende de erkenning van de privé-arbeidsbemiddelingsbureaus (VERTALING).

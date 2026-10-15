@@ -13,7 +13,7 @@ end_of_validity: 2028-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/27/2021034489/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2021. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde

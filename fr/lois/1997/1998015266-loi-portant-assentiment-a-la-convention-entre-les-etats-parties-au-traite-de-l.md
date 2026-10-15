@@ -12,7 +12,7 @@ entry_into_force: 1995-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/08/1998015266/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1997. - Loi portant assentiment à la Convention entre les Etats Parties au Traité de l'Atlantique Nord et les autres Etats participant au Partenariat pour la Paix sur le Statut de leurs Forces et au Protocole, faits à Bruxelles le 19 juin 1995.

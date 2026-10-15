@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/24/1996000647/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1996 et mise à jour au 04-07-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1996. - Loi relative à l'établissement et au recouvrement des taxes provinciales et communales. (NOTE 1 : Abrogé pour la Région flamande par DCFL 2008-05-30/34 , art. 12; En vigueur : 01-01-2009) (NOTE 2 : Abrogé pour la Région de Bruxelles-Capitale par ORD 2014-04-03/20 , art. 12; En vigueur : 01-03-2014)

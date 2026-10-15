@@ -13,7 +13,7 @@ entry_into_force: 2002-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/06/2002027035/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2001. - Décret relatif à la conservation des sites [Natura] 2000 ainsi que de la faune et de la flore sauvages. (Erratum, M.B. 14-02-2002, p. 5623)

@@ -12,7 +12,7 @@ entry_into_force: 2015-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/11/20/2015031812/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2015. - Ordonnantie houdende instemming met : het Akkoord over het wegvervoer tussen de Regering van het Koninkrijk België en de Regering van de Republiek Kosovo, ondertekend te Brussel op 18 juni 2010

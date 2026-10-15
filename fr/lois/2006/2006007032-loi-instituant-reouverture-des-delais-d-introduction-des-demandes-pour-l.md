@@ -12,7 +12,7 @@ entry_into_force: 2006-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/16/2006007032/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2006. - Loi instituant réouverture des délais d'introduction des demandes pour l'obtention d'un statut de reconnaissance nationale de la guerre 1940-1945 et de la campagne de Corée.

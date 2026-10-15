@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/constitution/1994/02/17/1994021048/justel"
 department: "Intérieur - Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 19-04-1996 et mise à jour au 24-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1994. - La Constitution coordonnée.

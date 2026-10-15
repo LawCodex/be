@@ -13,7 +13,7 @@ entry_into_force: 2008-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/08/2008201694/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2008. - Decreet houdende instemming met het Verdrag betreffende het Eurokorps en de rechtspositie van zijn Hoofdkwartier tussen de Franse Republiek, de Bondsrepubliek Duitsland, het Koninkrijk Spanje en het Groothertogdom Luxemburg, en de Slotakte, gedaan te Brussel op 22 november 2004 (VERTALING).

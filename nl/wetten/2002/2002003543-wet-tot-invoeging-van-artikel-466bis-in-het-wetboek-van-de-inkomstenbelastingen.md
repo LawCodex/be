@@ -12,7 +12,7 @@ entry_into_force: 2003-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/13/2002003543/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2002. - Wet tot invoeging van artikel 466bis in het Wetboek van de inkomstenbelastingen 1992 en tot regeling van de toepassing van artikel 244bis van hetzelfde wetboek op de inwoners van Nederland.

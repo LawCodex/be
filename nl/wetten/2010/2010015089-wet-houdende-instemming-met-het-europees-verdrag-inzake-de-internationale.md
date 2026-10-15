@@ -11,7 +11,7 @@ entry_into_force: 2010-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/06/2010015089/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2010. - Wet houdende instemming met het Europees Verdrag inzake de internationale geldigheid van strafvonnissen, gedaan te 's-Gravenhage op 28 mei 1970

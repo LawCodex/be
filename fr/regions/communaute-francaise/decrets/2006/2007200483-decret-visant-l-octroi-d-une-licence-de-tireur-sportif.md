@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/24/2007200483/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 15-02-2007 et mise à jour au 20-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2006. - Décret visant l'octroi d'une licence de tireur sportif.

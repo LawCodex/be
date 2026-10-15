@@ -11,7 +11,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1915/11/13/1915111350/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 13-03-2003 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 1915. - Besluitwet met betrekking tot de vrijwillige verminkingen in oorlogstijd.

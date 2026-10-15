@@ -12,7 +12,7 @@ entry_into_force: 2011-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/06/23/2011011333/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2011. - Loi modifiant la loi du 6 avril 2010 relative aux pratiques du marché et à la protection du consommateur en vue de lutter contre les démarcheurs publicitaires

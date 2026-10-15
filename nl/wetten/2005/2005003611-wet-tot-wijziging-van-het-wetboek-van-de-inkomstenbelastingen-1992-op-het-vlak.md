@@ -12,7 +12,7 @@ entry_into_force: 2005-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/20/2005003611/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 op het vlak van de bedrijfsvoorheffing ingevolge de Communautaire richtsnoeren 2004/43 van 17 januari 2004 van de Commissie van de Europese Unie betreffende staatssteun voor het zeevervoer.

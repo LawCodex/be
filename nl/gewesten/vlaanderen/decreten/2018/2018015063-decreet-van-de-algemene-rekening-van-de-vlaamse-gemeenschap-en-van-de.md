@@ -13,7 +13,7 @@ entry_into_force: 2018-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/09/2018015063/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2018. - Decreet van de algemene rekening van de Vlaamse Gemeenschap en van de uitvoering van de begroting van de Vlaamse rechtspersonen zonder raad van bestuur voor het begrotingsjaar 2017

@@ -11,7 +11,7 @@ published: 2024-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/02/2024007000/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2024. - Wet houdende instemming met het Verdrag van de Raad van Europa inzake een integrale benadering van veiligheid, beveiliging en gastvrijheid bij voetbalwedstrijden en andere sportevenementen, gedaan te Saint-Denis op 3 juli 2016

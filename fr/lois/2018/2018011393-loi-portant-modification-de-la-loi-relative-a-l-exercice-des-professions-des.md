@@ -12,7 +12,7 @@ entry_into_force: 2018-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/22/2018011393/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2018. - Loi portant modification de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015

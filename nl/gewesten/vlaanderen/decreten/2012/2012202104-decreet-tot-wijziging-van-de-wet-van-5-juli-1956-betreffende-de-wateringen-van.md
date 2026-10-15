@@ -13,7 +13,7 @@ entry_into_force: 2012-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/23/2012202104/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2012. - Decreet tot wijziging van de wet van 5 juli 1956 betreffende de wateringen, van de wet van 3 juni 1957 betreffende de polders, van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen, wat betreft de integratie van toestemmingen en machtigingen in de stedenbouwkundige vergunningverlening en tot wijziging van het decreet van 8 mei 2009 houdende vaststelling en realisatie van de rooilijnen, wat betreft de regeling betreffende de achteruitbouwstrook en de nog niet gerealiseerde rooilijn

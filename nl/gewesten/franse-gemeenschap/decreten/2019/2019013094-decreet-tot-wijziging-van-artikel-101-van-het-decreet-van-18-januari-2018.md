@@ -13,7 +13,7 @@ entry_into_force: 2019-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013094/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet tot wijziging van artikel 101 van het decreet van 18 januari 2018 houdende het wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming

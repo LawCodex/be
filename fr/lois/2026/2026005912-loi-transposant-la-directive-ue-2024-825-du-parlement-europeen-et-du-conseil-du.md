@@ -12,7 +12,7 @@ entry_into_force: 2026-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/22/2026005912/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2026. - Loi transposant la directive (UE) 2024/825 du Parlement européen et du Conseil du 28 février 2024 modifiant les directives 2005/29/CE et 2011/83/UE pour donner aux consommateurs les moyens d'agir en faveur de la transition verte grâce à une meilleure protection contre les pratiques déloyales et grâce à une meilleure information

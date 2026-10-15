@@ -13,7 +13,7 @@ entry_into_force: 1984-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/03/27/1985023462/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1985. - Décret relatif au régime de pension applicable au personnel des organismes d'intérêt public relevant de la Région wallonne.

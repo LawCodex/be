@@ -13,7 +13,7 @@ entry_into_force: 2024-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/04/2024003443/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2024. - Gezamenlijk decreet en ordonnantie van het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeen-schapscommissie houdende het Brussels Wetboek inzake de gelijkheid, de non-discriminatie en de bevordering van diversiteit

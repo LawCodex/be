@@ -12,7 +12,7 @@ published: 1996-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/20/1996027395/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 1996. - Decreet tot wijziging van het decreet van 22 december 1994 tot oprichting van de "Office régional de Promotion de l'Agriculture et de l'Horticulture" (Gewestelijke Dienst voor de Promotie van de Land- en Tuinbouw) (VERTALING).

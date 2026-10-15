@@ -12,7 +12,7 @@ published: 2018-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/15/2018013216/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2018. - Decreet betreffende het onderwijs XXVIII

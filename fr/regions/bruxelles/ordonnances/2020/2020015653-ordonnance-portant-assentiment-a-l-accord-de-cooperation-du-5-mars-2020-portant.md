@@ -13,7 +13,7 @@ entry_into_force: 2020-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020015653/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Ordonnance portant assentiment à l'accord de coopération du 5 mars 2020 portant modification de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages

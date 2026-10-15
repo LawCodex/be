@@ -13,7 +13,7 @@ entry_into_force: 1994-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/27/1994033076/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1994. - Décret modifiant la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/03/16/1971031602/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1971. - Loi sur le travail.

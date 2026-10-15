@@ -12,7 +12,7 @@ entry_into_force: 2024-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024006654/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen en van de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen inzake het aanklampend terugkeerbeleid

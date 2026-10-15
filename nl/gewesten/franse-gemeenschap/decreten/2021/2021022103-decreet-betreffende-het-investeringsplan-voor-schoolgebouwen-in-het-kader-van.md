@@ -18,7 +18,7 @@ justel_notes:
   - "bij arrest nr.32/2022 van 24-02-2022 ( 2022-02-24/01 , B.St. 28-02-2022, p. 16881), heeft het Grondwettelijk Hof artikelen 5 en 19 geschorst"
   - "bij arrest nr. 70/2022 van 19-05-2022 ( 2022-05-19/08 , B.St. van 06-07-2022, p. 54648) heeft het Grondwettelijk Hof artikelen 5 en 19 vernietigd"
   - "Raadpleging van vroegere versies vanaf 21-10-2021 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 2021. - Decreet betreffende het investeringsplan voor schoolgebouwen in het kader van het Europees plan voor herstel en veerkracht

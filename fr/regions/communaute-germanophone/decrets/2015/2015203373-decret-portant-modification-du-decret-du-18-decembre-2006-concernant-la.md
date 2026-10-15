@@ -13,7 +13,7 @@ entry_into_force: 2015-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/29/2015203373/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2015. - Décret portant modification du décret du 18 décembre 2006 concernant la réutilisation de documents du secteur public

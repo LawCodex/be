@@ -12,7 +12,7 @@ entry_into_force: 1999-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/29/1999015000/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AOUT 1997. - Loi portant approbation des actes internationaux suivants : 1. Accord entre le Gouvernement du Royaume de Belgique, le Gouvernement de la République francaise et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant la circulation des trains entre la Belgique et le Royaume-Uni empruntant la liaison fixe transmanche; 2. Protocole concernant la circulation des trains sans arrêt entre la Belgique et le Royaume-Uni empruntant la liaison fixe transmanche; 3. Accord particulier entre le Gouvernement du Royaume de Belgique, le Gouvernement de la République francaise et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif aux questions de sûreté concernant les trains empruntant la liaison fixe transmanche et circulant entre la Belgique et le Royaume-Uni; 4. Protocole concernant la mise en place d'un Comité intergouvernemental tripartite, signés à Bruxelles le 15 décembre 1993.

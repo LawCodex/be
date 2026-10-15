@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/03/2020020684/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-04-2020 et mise à jour au 29-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2020. - Décret portant dérogation à diverses dispositions du décret sur l'Energie du 8 mai 2009, du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018, et de leurs arrêtés d'exécution, et portant couverture des frais de la consommation d'électricité, de chauffage ou de la consommation d'eau pour le premier mois de chômage temporaire suite à la crise du coronavirus

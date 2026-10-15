@@ -13,7 +13,7 @@ last_amended: 2016-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/04/03/1953040380/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 31-05-2001 en tekstbijwerking tot 06-05-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1953. - WETSBEPALINGEN inzake de slijterijen van gegiste dranken, samengeordend op 3 april 1953. (NOTA 1 : de aanslagvoet wordt van de belastingen bedoeld in hoofdstuk III, bestaande uit de artikelen 8 tot en met 25ter, hoofdstuk IV, bestaande uit artikel 26, en hoofdstuk V, bestaande uit artikel 27, vastgesteld op nul euro in wat betreft de Brusselse Hoofdstedelijke Regering ; zie ORD 2002-01-10/45, art. 2 ; Inwerkingtreding : 01-01-2002) (NOTA 2 : de aanslagvoet wordt van de belastingen bedoeld in hoofdstuk III, bestaande uit de artikelen 8 tot en met 25ter, hoofdstuk IV, bestaande uit artikel 26, en hoofdstuk V, bestaande uit artikel 27, vastgesteld op nul euro in wat betreft het Waalse Gewest ; zie DWG 2006-11-23/31 , art. 1, Inwerkingtreding : 29-11-2006) (NOTA 3 : wet gewijzigd met uitwerking op een onbepaalde datum &lt;W 2007-04-25/38 , art. 5-8, 010; Inwerkingtreding : onbepaald &gt;) (NOTA 4 : in wat betreft de wijzigingen aangebracht bij DWG 2009-12-10/27 ; zie overgangsbepalingen : art. 103, lid 2 tot 5)

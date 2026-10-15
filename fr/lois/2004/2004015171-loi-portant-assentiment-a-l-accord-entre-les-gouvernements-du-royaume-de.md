@@ -12,7 +12,7 @@ entry_into_force: 2004-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/14/2004015171/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2004. - Loi portant assentiment à l'Accord entre les Gouvernements du Royaume de Belgique, du grand-duché de Luxembourg et du Royaume des Pays-Bas et le Gouvernement de la République de Croatie, relatif à la réadmission des personnes en situation irrégulière, et aux Annexes Ire et II, faits à Zagreb le 11 juin 1999.

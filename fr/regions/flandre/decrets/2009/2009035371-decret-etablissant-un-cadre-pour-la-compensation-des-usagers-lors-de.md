@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/27/2009035371/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-05-2009 et mise à jour au 03-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2009. - Décret établissant un cadre pour la compensation des usagers lors de modifications d'affectation, surimpressions et servitudes d'intérêt public

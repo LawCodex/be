@@ -13,7 +13,7 @@ entry_into_force: 2001-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/06/2001027736/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2001. - Decreet betreffende de openbare archieven. (Vertaling).

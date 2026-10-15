@@ -12,7 +12,7 @@ entry_into_force: 1984-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/09/07/1984015060/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 1983. \_ Wet houdende goedkeuring van het Verdrag ter voorkoming van verontreiniging van de zee vanaf het land, en van de Bijlagen, opgemaakt te Parijs op 4 juni 1974.

@@ -13,7 +13,7 @@ entry_into_force: 2022-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022032920/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Decreet tot toevoeging van een paragraaf 9 en 10 aan artikel 47 van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021

@@ -12,7 +12,7 @@ entry_into_force: 2019-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/03/2019010576/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2019. - Loi modifiant la loi du 1er août 1985 portant des mesures fiscales et autres, en ce qui concerne les compétences de la commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels en ce qui concerne l'aide aux victimes dans des affaires non élucidées et précisant son pouvoir d'enquête

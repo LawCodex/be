@@ -13,7 +13,7 @@ last_amended: 2001-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/15/1965041527/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 28-02-2001."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 1965. \_ Wet betreffende de keuring van en de handel in vis, gevogelte, konijnen en wild, en tot wijziging van de wet van 5 september 1952 betreffende de vleeskeuring en de vleeshandel

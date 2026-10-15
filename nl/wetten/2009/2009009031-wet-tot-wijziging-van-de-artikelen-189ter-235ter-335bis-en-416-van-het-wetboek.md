@@ -12,7 +12,7 @@ entry_into_force: 2009-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/01/16/2009009031/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2009. - Wet tot wijziging van de artikelen 189ter, 235ter, 335bis en 416 van het Wetboek van strafvordering.

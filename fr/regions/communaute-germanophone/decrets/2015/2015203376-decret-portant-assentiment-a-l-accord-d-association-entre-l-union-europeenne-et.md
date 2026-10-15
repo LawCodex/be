@@ -13,7 +13,7 @@ entry_into_force: 2015-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/22/2015203376/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2015. - Décret portant assentiment à l'Accord d'association entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d'une part, et l'Ukraine, d'autre part, fait à Bruxelles les 21 mars 2014 et 27 juin 2014

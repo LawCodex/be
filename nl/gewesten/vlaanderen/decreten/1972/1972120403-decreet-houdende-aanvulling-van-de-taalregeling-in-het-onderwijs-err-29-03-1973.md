@@ -12,7 +12,7 @@ published: 1973-02-13
 entry_into_force: 1973-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1972/12/04/1972120403/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 1972. - DECREET houdende aanvulling van de taalregeling in het onderwijs (ERR. 29-03-1973, p. 3829)

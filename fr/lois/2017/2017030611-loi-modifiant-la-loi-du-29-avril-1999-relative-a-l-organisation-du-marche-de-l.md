@@ -12,7 +12,7 @@ entry_into_force: 2017-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/13/2017030611/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2017. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, en vue d'établir un cadre légal pour le Modular Offshore Grid

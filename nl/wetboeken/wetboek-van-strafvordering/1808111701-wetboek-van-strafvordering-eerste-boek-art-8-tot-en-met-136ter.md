@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1808/11/17/1808111701/justel"
 justel_notes:
   - "Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan het tweede deel het Eerste Boek omvat."
   - "Raadpleging van vroegere versies vanaf 14-08-1990 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1808. - WETBOEK VAN STRAFVORDERING - EERSTE BOEK. (Art. 8 tot en met 136ter)

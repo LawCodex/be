@@ -13,7 +13,7 @@ last_amended: 2010-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/21/1965042111/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-01-1989 en tekstbijwerking tot 05-05-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1965. - Wet houdende het statuut van de reisbureaus. (NOTA 1 : Opgeheven voor wat de Vlaamse Gemeenschap betreft door het DVR 1985-03-21/33 , art. 14; dit decreet werd ingetrokken door DVR 1988-06-01/30 met ingang van 26 mei 1985) (NOTA 2 : Opgeheven voor de Vlaamse Overheid bij DVR 2007-03-02/48 , art. 12, Inwerkingtreding : 01-09-2007) (NOTA 3: Opgeheven voor het Brussels Hoofdstedelijk Gewest bij ORD 2010-04-22/09 , art. 15, 006; Inwerkingtreding : 18-10-2012 (zie BESL 2012-09-27/04 , art. 30))(NOTA 4 : Opgeheven voor het Waalse gewest door DWG 2010-04-22/13 , art. 16, 007; Inwerkingtreding : 05-05-2010)

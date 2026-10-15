@@ -13,7 +13,7 @@ entry_into_force: 2014-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/09/22/2014206166/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBRE 2014. - Décret portant assentiment à la Convention concernant l'assistance administrative mutuelle en matière fiscale et aux annexes A, B et C, faites à Strasbourg le 25 janvier 1988, ainsi qu'au Protocole d'amendement à la Convention concernant l'assistance administrative mutuelle en matière fiscale, fait à Paris le 27 mai 2010

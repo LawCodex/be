@@ -13,7 +13,7 @@ entry_into_force: 2011-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/02/10/2011029084/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2011. - Décret portant des dispositions diverses en matière d'enseignement obligatoire et de promotion sociale

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/05/2014204327/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 31-07-2014 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Décret portant agréation et soutien de points de contact social

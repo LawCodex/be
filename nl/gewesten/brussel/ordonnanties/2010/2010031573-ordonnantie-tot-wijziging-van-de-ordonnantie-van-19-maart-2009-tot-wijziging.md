@@ -13,7 +13,7 @@ entry_into_force: 2010-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/12/09/2010031573/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2010. - Ordonnantie tot wijziging van de ordonnantie van 19 maart 2009 tot wijziging van titel VII en titel X van het Brussels Wetboek van Ruimtelijke Ordening betreffende het voorkooprecht

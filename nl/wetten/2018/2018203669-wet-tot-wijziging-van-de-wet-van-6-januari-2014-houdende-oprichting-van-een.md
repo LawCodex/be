@@ -12,7 +12,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/15/2018203669/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2018. - Wet tot wijziging van de wet van 6 januari 2014 houdende oprichting van een Federale Deontologische Commissie om er de Deontologische Code voor de openbare mandatarissen in te voegen

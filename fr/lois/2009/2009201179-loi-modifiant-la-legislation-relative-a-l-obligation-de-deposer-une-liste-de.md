@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/12/2009201179/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2009. - Loi modifiant la législation relative à l'obligation de déposer une liste de mandats, fonctions, et professions et une déclaration de patrimoine, en ce qui concerne le dépôt de la déclaration de patrimoine

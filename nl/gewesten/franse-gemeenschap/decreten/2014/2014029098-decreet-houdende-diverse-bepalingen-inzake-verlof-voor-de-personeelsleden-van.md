@@ -13,7 +13,7 @@ entry_into_force: 2014-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/16/2014029098/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2014. - Decreet houdende diverse bepalingen inzake verlof voor de personeelsleden van het door de Franse Gemeenschap ingericht of gesubsidieerd onderwijs

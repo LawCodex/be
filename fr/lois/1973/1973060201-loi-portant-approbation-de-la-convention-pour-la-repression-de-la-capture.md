@@ -11,7 +11,7 @@ published: 1973-09-25
 entry_into_force: 1973-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/06/02/1973060201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1973. - Loi portant approbation de la Convention pour la répression de la capture illicite d'aéronefs, faite à La Haye le 16 décembre 1970.

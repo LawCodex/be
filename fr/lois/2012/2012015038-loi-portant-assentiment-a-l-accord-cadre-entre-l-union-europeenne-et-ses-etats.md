@@ -12,7 +12,7 @@ entry_into_force: 2013-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/06/2012015038/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2012. - Loi portant assentiment à l'accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, fait à Bruxelles le 10 mai 2010

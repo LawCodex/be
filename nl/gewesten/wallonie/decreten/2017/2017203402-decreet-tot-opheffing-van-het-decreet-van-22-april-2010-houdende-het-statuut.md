@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/15/2017203402/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2017. - Decreet tot opheffing van het decreet van 22 april 2010 houdende het statuut van de reisbureaus en van het besluit van de Waalse Regering van 27 mei 2010 houdende het statuut van de reisbureaus

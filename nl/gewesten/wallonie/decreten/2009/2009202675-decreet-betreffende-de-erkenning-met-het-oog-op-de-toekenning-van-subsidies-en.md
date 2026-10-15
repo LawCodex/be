@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202675/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2011 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet betreffende de erkenning met het oog op de toekenning van subsidies en de toekenning van subsidies aan de zorg- en hulpverleningsnetwerken en -diensten gespecialiseerd in verslavingen, alsook de erkenning met het oog op de toekenning van subsidies en de toekenning van subsidies aan hun federaties

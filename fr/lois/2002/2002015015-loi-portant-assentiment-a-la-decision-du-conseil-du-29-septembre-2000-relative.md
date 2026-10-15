@@ -12,7 +12,7 @@ entry_into_force: 2002-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/04/2002015015/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2002. - Loi portant assentiment à la Décision du Conseil du 29 septembre 2000 relative au système des ressources propres des Communautés européennes.

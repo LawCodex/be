@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/11/2023043752/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 25-07-2023 et mise à jour au 10-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2023. - Loi relative au transport d'hydrogène par canalisations [et relative à la production d'hydrogène dans les espaces marins sous la juridiction de la Belgique] &lt;L 2024-04-26/50 , art. 6, 002; En vigueur : 20-06-2024&gt;

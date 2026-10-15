@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/17/2020042413/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Ordonnantie betreffende de eenmalige toekenning van een verhoging van de bedragen van de sociale toeslagen die worden toegekend op grond van de ordonnantie van 25 april 2019 tot regeling van de toekenning van gezinsbijslag in het kader van de COVID-19-crisis

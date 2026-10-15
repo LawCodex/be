@@ -13,7 +13,7 @@ entry_into_force: 2021-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/15/2021203701/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie om de vergaderingen van de organen op afstand mogelijk te maken

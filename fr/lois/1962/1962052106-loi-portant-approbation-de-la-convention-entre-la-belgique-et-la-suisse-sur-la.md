@@ -12,7 +12,7 @@ entry_into_force: 1962-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/05/21/1962052106/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 1962. - Loi portant approbation de la Convention entre la Belgique et la Suisse, sur la reconnaissance et l'exécution de décisions judiciaires et de sentences arbitrales, signée à Berne, le 29 avril 1959.

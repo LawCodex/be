@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202796/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet houdende instemming, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de Overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Republiek Turkije, ondertekend te Ankara op 11 maart 2014

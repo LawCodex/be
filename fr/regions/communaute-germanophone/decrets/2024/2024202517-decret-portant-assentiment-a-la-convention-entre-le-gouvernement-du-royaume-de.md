@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/22/2024202517/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2024. - Décret portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Etat du Qatar tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Doha le 6 novembre 2007, et au Protocole, fait à Doha le 22 mars 2015, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Etat du Qatar tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Doha le 6 novembre 2007

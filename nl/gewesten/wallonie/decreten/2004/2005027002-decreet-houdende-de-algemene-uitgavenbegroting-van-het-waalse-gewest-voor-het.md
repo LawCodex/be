@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/22/2005027002/justel"
 department: "Waalse Gewest"
 justel_note: "eerste aanpassing bij DWG 2005-07-14/52"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2004. - Decreet houdende de Algemene Uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2005 (VERTALING).

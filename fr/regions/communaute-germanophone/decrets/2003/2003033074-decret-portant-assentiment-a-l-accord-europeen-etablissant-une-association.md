@@ -13,7 +13,7 @@ entry_into_force: 2003-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/30/2003033074/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2003. - Décret portant assentiment à l'Accord européen établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part, les annexes Ire à XVII ainsi que l'Acte final, faits à Bruxelles le 18 novembre 2002 (TRADUCTION).

@@ -12,7 +12,7 @@ published: 2009-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/08/2009029103/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2009. - Decreet houdende instemming met het kadersamenwerkingsakkoord betreffende de alternerende vorming, gesloten te Brussel op 24 oktober 2008 tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie (VERTALING).

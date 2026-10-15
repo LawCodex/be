@@ -12,7 +12,7 @@ entry_into_force: 1990-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/06/19/1990015180/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 1990. - Wet houdende goedkeuring van volgende Internationale Akten : a) Verdrag inzake de overbrenging van gevonniste personen, opgemaakt te Straatsburg op 21 maart 1983; b) Overeenkomst betreffende de toepassing tussen de lid-Staten van de Europese Gemeenschappen van het Verdrag van de Raad van Europa inzake de overbrenging van gevonniste personen, opgemaakt te Brussel op 25 mei 1987.

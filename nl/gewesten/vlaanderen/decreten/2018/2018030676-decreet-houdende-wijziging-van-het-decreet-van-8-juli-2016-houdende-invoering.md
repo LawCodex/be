@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/23/2018030676/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2018. - Decreet houdende wijziging van het decreet van 8 juli 2016 houdende invoering van een regelluw kader in functie van de proefprojecten basisbereikbaarheid

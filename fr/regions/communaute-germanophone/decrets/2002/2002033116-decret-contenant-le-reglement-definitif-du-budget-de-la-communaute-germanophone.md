@@ -13,7 +13,7 @@ entry_into_force: 2003-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/18/2002033116/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2002. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 2001 (TRADUCTION).

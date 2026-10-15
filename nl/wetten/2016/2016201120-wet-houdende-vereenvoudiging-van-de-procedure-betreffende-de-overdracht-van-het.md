@@ -12,7 +12,7 @@ entry_into_force: 2016-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/07/2016201120/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2016. - Wet houdende vereenvoudiging van de procedure betreffende de overdracht van het loon

@@ -13,7 +13,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/29/1999033103/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 1999. - Décret contenant le deuxième ajustement du budget des dépenses de la Communauté germanophone pour l'année budgétaire 1999. (TRADUCTION).

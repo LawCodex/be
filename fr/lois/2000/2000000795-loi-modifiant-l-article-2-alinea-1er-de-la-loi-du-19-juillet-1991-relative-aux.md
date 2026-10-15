@@ -12,7 +12,7 @@ entry_into_force: 2000-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000000795/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi modifiant l'article 2, alinéa 1er, de la loi du 19 juillet 1991 relative aux registres de la population et aux cartes d'identité et modifiant la loi du 8 août 1983 organisant un registre national des personnes physiques.

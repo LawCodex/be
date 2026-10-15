@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031318/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment : 1° à la Convention concernant l'assistance administrative mutuelle en matière fiscale, et les annexes A, B et C, faites à Strasbourg le 25 janvier 1988, et 2° au Protocole d'amendement de la Convention sur l'assistance administrative mutuelle en matière fiscale, fait à Paris le 27 mai 2010

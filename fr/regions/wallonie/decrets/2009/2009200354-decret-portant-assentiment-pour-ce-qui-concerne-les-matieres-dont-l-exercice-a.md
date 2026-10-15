@@ -13,7 +13,7 @@ entry_into_force: 2009-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/15/2009200354/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2009. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention de Tampere sur la mise à disposition de ressources de télécommunication pour l'atténuation des effets de catastrophes et pour les opérations de secours en cas de catastrophe, faite à Tampere (Finlande) le 18 juin 1998.

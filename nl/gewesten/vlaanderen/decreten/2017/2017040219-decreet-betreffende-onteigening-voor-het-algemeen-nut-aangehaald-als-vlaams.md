@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/24/2017040219/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-2017 en tekstbijwerking tot 09-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2017. - Decreet betreffende onteigening voor het algemeen nut (aangehaald als : Vlaams Onteigeningsdecreet van 24 februari 2017)

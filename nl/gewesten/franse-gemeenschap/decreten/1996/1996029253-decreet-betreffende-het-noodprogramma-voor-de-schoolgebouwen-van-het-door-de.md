@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/24/1996029253/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-1996 en tekstbijwerking tot 12-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1996. - Decreet betreffende het noodprogramma voor de schoolgebouwen van het door de Franse Gemeenschap ingericht of gesubsidieerd basisonderwijs en secundair onderwijs (VERTALING). (NOTA 1 : Opgeheven met uitwerking op een onbepaalde datum bij DFG 2001-06-14/53 , art. 13, 004; Inwerkingtreding : onbepaald )

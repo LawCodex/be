@@ -13,7 +13,7 @@ entry_into_force: 2021-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/23/2021204598/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2021. - Décret portant assentiment à l'Accord européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996

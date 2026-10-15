@@ -13,7 +13,7 @@ entry_into_force: 2016-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/06/23/2016031466/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2016. - Ordonnantie houdende instemming met : 1° de Overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar Lidstaten, ten derde, IJsland, en ten vierde, het Koninkrijk Noorwegen, ondertekend in Luxemburg op 16 juni 2011 en in Oslo op 21 juni 2011, en 2° de Aanvullende Overeenkomst tussen ten eerste, de Europese Unie en haar Lidstaten, ten tweede, IJsland, en ten derde, het Koninkrijk Noorwegen, betreffende de toepassing van de overeenkomst vermeld onder 1°, ondertekend in Luxemburg op 16 juni 2011 en in Oslo op 21 juni 2011

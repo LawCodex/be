@@ -13,7 +13,7 @@ entry_into_force: 1997-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036163/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - Décret portant approbation de la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière et des Appendices I, II, III, IV, V, VI et VII, signées à Espoo le 25 février 1991 (TRADUCTION).

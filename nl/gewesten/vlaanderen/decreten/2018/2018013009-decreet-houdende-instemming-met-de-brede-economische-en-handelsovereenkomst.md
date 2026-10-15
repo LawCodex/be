@@ -13,7 +13,7 @@ entry_into_force: 2018-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/29/2018013009/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2018. - Decreet houdende instemming met de Brede Economische en Handelsovereenkomst (CETA) tussen de Europese Unie en haar lidstaten, enerzijds, en Canada, anderzijds, ondertekend te Brussel op 30 oktober 2016 en met het gezamenlijk interpretatief instrument

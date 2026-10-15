@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/17/1998015084/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1997. - Loi portant assentiment de l'Accord, conclu par échange de lettres datées à Bruxelles le 9 février et le 13 février 1995, entre le Royaume des Pays-Bas et le Royaume de Belgique, concernant le statut des officiers de liaison belges attachés à l'Unité Drogues Europol à La Haye.

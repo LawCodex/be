@@ -12,7 +12,7 @@ entry_into_force: 2005-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/01/13/2005015011/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2005. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Letland betreffende de politiesamenwerking, ondertekend te Brussel op 16 oktober 2001.

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/15/2024202866/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "par son arrêt n° 135/2025 du 23-10-2025 ( 2025-10-23/29 , M.B. 14-11-2025, p. 87860), la Cour constitutionnelle a annulé la présente loi"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2024. - Loi instaurant un Service citoyen

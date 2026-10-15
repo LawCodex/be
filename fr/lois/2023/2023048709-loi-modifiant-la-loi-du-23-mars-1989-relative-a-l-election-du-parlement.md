@@ -12,7 +12,7 @@ entry_into_force: 2024-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/25/2023048709/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2023. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen et modifiant l'ancien code civil, afin de permettre aux jeunes âgés de seize et dix-sept ans de prendre part à cette élection sans formalité préalable d'inscription

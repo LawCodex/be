@@ -12,7 +12,7 @@ entry_into_force: 2004-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/29/2004015074/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2004. - Wet houdende instemming met het Besluit van de Raad van 25 juni 2002 en van 23 september 2002 tot wijziging van de Akte betreffende de verkiezing van de vertegenwoordigers in het Europees Parlement door middel van rechtstreekse algemene verkiezingen, gehecht aan Besluit 76/787/EGKS, EEG, Euratom, en met de Bijlage.

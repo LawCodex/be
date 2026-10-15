@@ -13,7 +13,7 @@ entry_into_force: 2007-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/31/2007201850/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2007. - Decreet met het oog op erkenning als vrije zone van de gehele omtrek van bedrijfsruimtes waarvoor een ministerieel erkenningsbesluit is opgesteld in de zin van het decreet van 11 maart 2004 betreffende de ontsluitingsinfrastructuur voor economische bedrijvigheid, gewijzigd bij het programmadecreet van 23 februari 2006, gelegen op het grondgebied van meerdere gemeenten waarvan minstens één als vrije zone is erkend (VERTALING).

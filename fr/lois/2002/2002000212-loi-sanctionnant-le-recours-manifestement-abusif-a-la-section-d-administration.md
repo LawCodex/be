@@ -12,7 +12,7 @@ entry_into_force: 2002-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/17/2002000212/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2002. - Loi sanctionnant le recours manifestement abusif à la section d'administration du Conseil d'Etat.

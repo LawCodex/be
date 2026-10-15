@@ -13,7 +13,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/28/2004029219/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2004. - Decreet houdende instemming met de Overeenkomst betreffende de deelname van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek aan de Europese Economische Ruimte en van vier bijkomende overeenkomsten, gedaan te Luxemburg op 14 december 2003 (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/05/2017012299/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-06-2017 en tekstbijwerking tot 21-03-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2017. - Decreet houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur

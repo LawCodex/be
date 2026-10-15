@@ -12,7 +12,7 @@ entry_into_force: 2003-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/27/2003015060/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Loi portant assentiment au Protocole modifiant la Convention du 23 juillet 1990 relative à l'élimination des doubles impositions en cas de correction des bénéfices d'entreprises associées, fait à Bruxelles le 25 mai 1999.

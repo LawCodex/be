@@ -12,7 +12,7 @@ entry_into_force: 2018-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2018012142/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi portant assentiment à la Convention n° 170 de l'Organisation internationale du Travail concernant la sécurité dans l'utilisation des produits chimiques au travail, adoptée à Genève le 25 juin 1990

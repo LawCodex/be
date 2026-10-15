@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/12/22/2023048731/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Ordonnance contenant le Budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 2024

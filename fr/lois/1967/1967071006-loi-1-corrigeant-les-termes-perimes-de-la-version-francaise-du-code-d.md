@@ -11,7 +11,7 @@ published: 1967-09-06
 entry_into_force: 1967-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/07/10/1967071006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1967. - Loi : 1° corrigeant les termes périmés de la version francaise du Code d'instruction criminelle et y abrogeant certaines dispositions devenues sans objet et modifiant la loi du 20 avril 1874 relative à la détention préventive; 2° établissant la version néerlandaise du même Code et de la loi du 20 avril 1874 relative à la détention préventive.

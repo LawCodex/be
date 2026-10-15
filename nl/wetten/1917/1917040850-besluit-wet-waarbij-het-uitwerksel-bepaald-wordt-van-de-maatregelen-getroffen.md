@@ -11,7 +11,7 @@ published: 1917-04-08
 entry_into_force: 1917-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1917/04/08/1917040850/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 1917. - Besluit-wet waarbij het uitwerksel bepaald wordt van de maatregelen getroffen door de bezettende macht en van de beschikkingen door de Regeering genomen.

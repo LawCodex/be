@@ -12,7 +12,7 @@ entry_into_force: 2003-01-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002015152/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 2002. - Loi portant assentiment à la Convention commune sur la sûreté de la gestion du combustible usé et sur la sûreté de la gestion des déchets radioactifs, faite à Vienne le 5 septembre 1997.

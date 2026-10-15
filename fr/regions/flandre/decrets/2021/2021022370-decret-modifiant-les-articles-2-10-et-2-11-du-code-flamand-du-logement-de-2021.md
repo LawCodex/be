@@ -13,7 +13,7 @@ entry_into_force: 2021-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022370/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2021. - Décret modifiant les articles 2.10 et 2.11 du Code flamand du Logement de 2021, en ce qui concerne la définition d'immeubles inoccupés ayant servi principalement à une activité économique

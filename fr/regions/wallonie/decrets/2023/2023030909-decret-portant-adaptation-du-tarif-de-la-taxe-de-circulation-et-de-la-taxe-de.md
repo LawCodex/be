@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/23/2023030909/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2023. - Décret portant adaptation du tarif de la taxe de circulation et de la taxe de mise en circulation pour les autocaravanes assimilées à la catégorie des voitures, des voitures mixtes et des minibus

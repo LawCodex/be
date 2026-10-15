@@ -13,7 +13,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/11/2022040321/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2022. - Decreet tot wijziging van het decreet van 13 april 1999 houdende machtiging van de Vlaamse regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds, wat de opdracht van het Vlaams Audiovisueel Fonds betreft

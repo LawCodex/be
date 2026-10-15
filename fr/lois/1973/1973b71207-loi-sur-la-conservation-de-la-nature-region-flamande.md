@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1973/07/12/1973B71207/justel"
 justel_notes:
   - "cette version, valable pour la Région flamande, a été créée à l'occasion de la modification par DCFL 2002-01-18/36 , publié le 13-02-2002. Pour les versions antérieures, voir la forme fédérale L 1973-07-12/30 et ses archives."
   - "Consultation des versions antérieures à partir du 07-06-2006 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1973. - Loi sur la conservation de la nature : Région flamande

@@ -12,7 +12,7 @@ entry_into_force: 2001-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/27/2001009448/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2001. - Wet tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek met betrekking tot de voogdij over minderjarigen.

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017040033/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret portant mise en oeuvre de la sixième réforme de l'Etat et portant diverses dispositions relatives au domaine politique de l'Emploi et de l'Economie sociale

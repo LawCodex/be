@@ -12,7 +12,7 @@ entry_into_force: 1981-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/08/06/1981000017/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1979. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Republiek Ivoorkust tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Abidjan op 25 november 1977.

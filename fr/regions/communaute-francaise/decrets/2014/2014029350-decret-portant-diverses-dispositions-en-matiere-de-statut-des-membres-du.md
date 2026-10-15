@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029350/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-06-2014 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant diverses dispositions en matière de statut des membres du personnel de l'enseignement

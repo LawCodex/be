@@ -12,7 +12,7 @@ published: 1995-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029278/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet tot wijziging van het decreet van 30 maart 1983 betreffende de organisatie van verzorgingsinstellingen in de Franse Gemeenschap (VERTALING).

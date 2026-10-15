@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/03/2015031848/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2015. - Ordonnance modifiant la loi du 6 juillet 1971 relative à la création de bpost et à certains services postaux

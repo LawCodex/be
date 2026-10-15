@@ -12,7 +12,7 @@ entry_into_force: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/17/2007012208/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2007. - Loi portant exécution de l'accord interprofessionnel pour la période 2007-2008.

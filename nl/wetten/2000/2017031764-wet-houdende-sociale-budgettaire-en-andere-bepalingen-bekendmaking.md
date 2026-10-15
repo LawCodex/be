@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2017031764/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet houdende sociale, budgettaire en andere bepalingen. - Bekendmaking overeenkomstig artikel 225, § 1, zevende en achtste lid, van de geïndexeerde bedragen van de retributies

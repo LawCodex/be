@@ -13,7 +13,7 @@ entry_into_force: 2003-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029510/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret portant assentiment au Protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, fait à Strasbourg le 9 novembre 1995 1).HI:??2,Session 2002-2003 Documents du conseil. - Projet de décret, n° 401-1. - Rapport, n° 401-2. Compte rendu intégral. - Discussion et adoption. Séance du 1er juillet 2003.

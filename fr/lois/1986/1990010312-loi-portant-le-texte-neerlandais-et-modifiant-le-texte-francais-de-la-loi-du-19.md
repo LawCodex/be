@@ -12,7 +12,7 @@ entry_into_force: 1990-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/02/14/1990010312/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 1986. - Loi portant le texte néerlandais et modifiant le texte français de la loi du 19 décembre 1864 relative aux fondations en faveur de l'enseignement ou au profit des boursiers.

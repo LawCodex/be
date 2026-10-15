@@ -13,7 +13,7 @@ entry_into_force: 1995-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/16/1995027082/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1995. - Decreet tot wijziging van het decreet van 22 december 1994 tot instelling van een ombudsman van het Waalse Gewest. (Vertaling)

@@ -13,7 +13,7 @@ entry_into_force: 2020-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/19/2020042010/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2020. - Bijzonder decreet tot wijziging van artikel 5 en 22 van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen

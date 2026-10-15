@@ -13,7 +13,7 @@ entry_into_force: 2022-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/19/2022206319/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2022. - Decreet tot uitvoering van steunmaatregelen voor ondernemingen in het kader van de energiecrisis

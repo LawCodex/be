@@ -12,7 +12,7 @@ entry_into_force: 1994-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/11/1994000156/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1994. - Loi relative aux mentions obligatoires sur certains documents électoraux.

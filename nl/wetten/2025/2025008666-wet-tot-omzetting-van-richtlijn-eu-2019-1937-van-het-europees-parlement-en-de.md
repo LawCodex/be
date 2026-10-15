@@ -11,7 +11,7 @@ entry_into_force: 2025-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/03/27/2025008666/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2025. - Wet tot omzetting van Richtlijn (EU) 2019/1937 van het Europees Parlement en de Raad van 23 oktober 2019 inzake de bescherming van personen die inbreuken op het Unierecht melden, wat de Kamer van volksvertegenwoordigers en de Senaat betreft

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/20/2014200213/justel"
 department: "Autorité flamande"
 justel_note: "cette publication doit être considérée comme nulle et non avenue ; voir M.B. 30.01.2014, p. 8389"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2013. - Décret portant assentiment à l'accord de coopération du 12 juin 2013 entre l'autorité fédérale, les Régions et les Communautés visant à créer un Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations sous la forme d'une institution commune au sens de l'article 92bis de la loi spéciale de réformes institutionnelles du 8 août 1980

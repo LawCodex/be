@@ -12,7 +12,7 @@ entry_into_force: 2019-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/19/2019030001/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2018. - Wet tot wijziging van de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van de gedetineerden

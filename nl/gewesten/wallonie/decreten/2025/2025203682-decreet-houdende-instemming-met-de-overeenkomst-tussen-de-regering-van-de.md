@@ -13,7 +13,7 @@ entry_into_force: 2025-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/27/2025203682/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2025. - Decreet houdende instemming met de Overeenkomst tussen de Regering van de Republiek Gabon en de Regering het Koninkrijk België betreffende de luchtdiensten, ondertekend te Brussel op 28 mei 2018

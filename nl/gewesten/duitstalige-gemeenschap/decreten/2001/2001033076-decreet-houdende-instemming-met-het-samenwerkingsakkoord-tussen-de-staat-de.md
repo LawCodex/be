@@ -12,7 +12,7 @@ entry_into_force: 2001-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/10/08/2001033076/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OKTOBER 2001. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de sociale economie (VERTALING).

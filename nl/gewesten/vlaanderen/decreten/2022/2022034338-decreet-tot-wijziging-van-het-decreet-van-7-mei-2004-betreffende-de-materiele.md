@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/10/2022034338/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2022. - Decreet tot wijziging van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, het decreet van 12 juli 2013 houdende toekenning van subsidies voor gebouwen van de eredienst, gebouwen voor de openbare uitoefening van de niet-confessionele morele dienstverlening en crematoria en het Onroerenderfgoeddecreet van 12 juli 2013, wat betreft de eventuele her- of nevenbestemming van parochiekerken

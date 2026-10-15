@@ -13,7 +13,7 @@ entry_into_force: 2016-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/18/2015031901/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Ordonnance portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune et la Commission communautaire française concernant les modalités de fonctionnement de l'Institut interfédéral de Statistique, du conseil d'administration et des comités scientifiques de l'Institut des Comptes Nationaux

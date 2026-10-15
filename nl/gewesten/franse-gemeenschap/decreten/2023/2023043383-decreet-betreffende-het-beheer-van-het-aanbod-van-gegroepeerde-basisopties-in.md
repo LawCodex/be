@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/22/2023043383/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-10-2023 en tekstbijwerking tot 25-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2023. - Decreet betreffende het beheer van het aanbod van gegroepeerde basisopties in het kwalificerend secundair onderwijs met volledig leerplan en alternerend leerplan

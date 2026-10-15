@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/29/2019202386/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2019. - Decreet betreffende de uitoefening door de Duitstalige Gemeenschap van de bevoegdheden van het Waals Gewest inzake huisvesting

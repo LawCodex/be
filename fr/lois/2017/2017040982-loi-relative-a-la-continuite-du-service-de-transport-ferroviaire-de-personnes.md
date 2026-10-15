@@ -12,7 +12,7 @@ entry_into_force: 2018-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/29/2017040982/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2017. - Loi relative à la continuité du service de transport ferroviaire de personnes en cas de grève

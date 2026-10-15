@@ -13,7 +13,7 @@ entry_into_force: 2008-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/15/2008202625/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2008. - Decreet tot wijziging van Boek III, Titel III, Hoofdstuk II van het Wetboek van de plaatselijke democratie en de decentralisatie van 22 april 2004 tot vaststelling van de regels voor de algemene financiering van de Waalse gemeenten (VERTALING)

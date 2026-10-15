@@ -13,7 +13,7 @@ entry_into_force: 2024-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024002612/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2024. - Décret mettant partiellement en oeuvre le Règlement (UE) 2020/1055 du Parlement européen et du Conseil du 15 juillet 2020 modifiant les Règlements (CE) n° 1071/2009, (CE) n° 1072/2009 et (UE) n° 1024/2012 en vue de les adapter aux évolutions du secteur du transport par route et transposant partiellement la directive (UE) 2022/738 du Parlement européen et du Conseil du 6 avril 2022 modifiant la directive 2006/1/CE relative à l'utilisation de véhicules loués sans chauffeur dans le transport de marchandises par route

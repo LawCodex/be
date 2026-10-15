@@ -11,7 +11,7 @@ published: 2008-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/18/2008009685/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Wet tot wijziging van de wetgeving wat betreft de wijziging van het huwelijksvermogensstelsel zonder tussenkomst van de rechtbank en tot wijziging van artikel 9 van de wet van 16 maart 1803 tot regeling van het notarisambt.

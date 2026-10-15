@@ -13,7 +13,7 @@ entry_into_force: 2006-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/23/2006035182/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2005. - Décret portant assentiment à l'Accord de coopération entre la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale relatif à l'introduction de la notion de " camionnette " dans le Titre II du Code des taxes assimilées aux impôts sur les revenus compte tenu de la neutralité fiscale et en vue de prévenir la concurrence entre les Régions au niveau de l'immatriculation des véhicules, tel qu'il a été établi à Bruxelles, le 18 novembre 2005 (TRADUCTION).

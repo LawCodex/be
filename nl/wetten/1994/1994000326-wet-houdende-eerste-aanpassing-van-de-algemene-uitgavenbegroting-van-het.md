@@ -12,7 +12,7 @@ entry_into_force: 1994-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/26/1994000326/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 1994. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting van het begrotingsjaar 1994.

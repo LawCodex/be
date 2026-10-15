@@ -12,7 +12,7 @@ entry_into_force: 2002-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/07/2001011464/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2002. - Wet tot wijziging van de wet van 25 juni 1992 op de landverzekeringsovereenkomst.

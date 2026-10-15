@@ -13,7 +13,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/11/2013031620/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2013. - Ordonnance portant assentiment à l'Accord, fait à Bruxelles le 23 octobre 2009, entre le Royaume de Belgique et le Gouvernement de la Principauté d'Andorre en vue de l'échange de renseignements en matière fiscale

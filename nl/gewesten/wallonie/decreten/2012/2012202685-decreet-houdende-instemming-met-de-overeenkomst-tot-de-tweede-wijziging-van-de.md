@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202685/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tot de tweede wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van Afrika, het Caribisch Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000, en eerst gewijzigd te Luxemburg op 25 juni 2005, en de Slotakte, opgemaakt te Ouagadougou op 25 juni 2005

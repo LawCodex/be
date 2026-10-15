@@ -12,7 +12,7 @@ entry_into_force: 2022-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/20/2022015454/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Loi relative à la collecte et à la conservation des données d'identification et des métadonnées dans le secteur des communications électroniques et à la fourniture de ces données aux autorités

@@ -12,7 +12,7 @@ entry_into_force: 1998-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/19/1998003313/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1998. - Wet tot wijziging, wat de vergoedingen voor de overdracht van referentiehoeveelheden aan het melkquotumfonds betreft, van het Wetboek van de inkomstenbelastingen 1992.

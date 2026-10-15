@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/30/1999035594/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-05-1999 et mise à jour au 23-05-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1999. - Décret portant organisation de l'assurance soins (TRADUCTION)

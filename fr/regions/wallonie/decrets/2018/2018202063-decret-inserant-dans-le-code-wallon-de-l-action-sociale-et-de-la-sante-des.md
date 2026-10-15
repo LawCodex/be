@@ -13,7 +13,7 @@ entry_into_force: 2018-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018202063/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Décret insérant dans le Code wallon de l'Action sociale et de la Santé des dispositions relatives à l'hébergement collectif de personnes en difficultés prolongées

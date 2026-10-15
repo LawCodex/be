@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/10/29/2011031032/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 15-02-2011 en tekstbijwerking tot 01-03-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2010. - Decreet betreffende de toekenning van toelagen voor de aankoop of de bouw van gebouwen met het oog op de inrichting van dagcentra, verblijfscentra en centra voor begeleid wonen en de organisatie van vrijetijdsbesteding voor personen met een handicap door de begeleidingsdiensten evenals voor de uitbreiding, de verbouwing, de grote herstellingen, de verbetering van de toegankelijkheid voor personen met een beperkte mobiliteit, de uitrusting en de eerste meubilering van die gebouwen

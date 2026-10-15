@@ -12,7 +12,7 @@ entry_into_force: 2018-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/15/2018012998/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2018. - Wet tot wijziging van artikel 375bis van het Burgerlijk Wetboek en de artikelen 1253ter/1, 1253ter/3 en 1253quater van het Gerechtelijk Wetboek

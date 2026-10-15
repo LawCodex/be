@@ -12,7 +12,7 @@ entry_into_force: 2012-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/12/28/2012014032/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 2011. - Wet tot wijziging van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg teneinde de fietsers toe te staan in bepaalde gevallen de verkeerslichten voorbij te rijden

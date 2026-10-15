@@ -11,7 +11,7 @@ published: 1973-05-17
 entry_into_force: 1973-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/03/30/1973033006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1973. \_ Loi portant approbation de la Convention internationale relative au contrat de voyage (C.C.V.), faite à Bruxelles le 23 avril 1970.

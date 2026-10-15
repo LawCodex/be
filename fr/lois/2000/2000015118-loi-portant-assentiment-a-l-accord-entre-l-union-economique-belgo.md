@@ -12,7 +12,7 @@ entry_into_force: 2003-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/16/2000015118/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et les Etats-Unis du Mexique concernant l'encouragement et la protection réciproques des investissements, signé à Mexico, le 27 août 1998.

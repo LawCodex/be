@@ -12,7 +12,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/15/2009009419/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2009. - Loi modifiant le Code judiciaire en ce qui concerne la vente publique d'immeubles

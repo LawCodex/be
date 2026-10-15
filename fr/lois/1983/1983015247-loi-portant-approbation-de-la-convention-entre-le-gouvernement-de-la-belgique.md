@@ -12,7 +12,7 @@ entry_into_force: 1983-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/08/08/1983015247/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1983. - Loi portant approbation de la Convention entre le Gouvernement de la Belgique et le Gouvernement de la Nouvelle-Zélande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et du Protocole, signés à Bruxelles le 15 septembre 1981.

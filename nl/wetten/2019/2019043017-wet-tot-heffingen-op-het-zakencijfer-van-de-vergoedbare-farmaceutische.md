@@ -12,7 +12,7 @@ entry_into_force: 2020-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/12/20/2019043017/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2019. - Wet tot heffingen op het zakencijfer van de vergoedbare farmaceutische specialiteiten en een bijdrage op marketing voor het jaar 2020

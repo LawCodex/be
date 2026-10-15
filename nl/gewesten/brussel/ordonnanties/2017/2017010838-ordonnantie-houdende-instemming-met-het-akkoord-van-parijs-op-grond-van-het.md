@@ -13,7 +13,7 @@ entry_into_force: 2017-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/02/16/2017010838/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Ordonnantie houdende instemming met : het Akkoord van Parijs op grond van het Raamverdrag van de Verenigde Naties over klimaatverandering, gedaan te Parijs (Frankrijk), op 12 december 2015

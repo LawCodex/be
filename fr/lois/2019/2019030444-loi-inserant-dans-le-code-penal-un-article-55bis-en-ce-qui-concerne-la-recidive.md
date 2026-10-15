@@ -12,7 +12,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019030444/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi insérant dans le Code pénal un article 55bis, en ce qui concerne la récidive

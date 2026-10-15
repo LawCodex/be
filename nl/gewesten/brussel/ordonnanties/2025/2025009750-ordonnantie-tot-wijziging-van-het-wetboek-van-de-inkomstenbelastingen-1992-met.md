@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/12/18/2025009750/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2025. - Ordonnantie tot wijziging van het Wetboek van de Inkomstenbelastingen 1992 met het oog op de afschaffing van de belastingvermindering voor dienstencheques

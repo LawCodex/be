@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/13/2018014153/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 09-10-2018 et mise à jour au 22-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2018. - Décret portant création du Service général de pilotage des écoles et Centres psycho-médico-sociaux et fixant le statut des directeurs de zone et délégués au contrat d'objectifs

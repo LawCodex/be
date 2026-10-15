@@ -13,7 +13,7 @@ entry_into_force: 2024-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/18/2024001094/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2024. - Décret portant assentiment au Protocole modifiant le protocole sur les privilèges et immunités de l'Organisation Benelux de la propriété intellectuelle (marques et dessins ou modèles), fait à Bruxelles le 6 décembre 2022

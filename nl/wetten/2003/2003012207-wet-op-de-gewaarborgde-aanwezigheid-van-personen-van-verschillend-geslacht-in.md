@@ -11,7 +11,7 @@ published: 2003-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/05/2003012207/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2003. - Wet op de gewaarborgde aanwezigheid van personen van verschillend geslacht in de regering van de Duitstalige Gemeenschap.

@@ -12,7 +12,7 @@ entry_into_force: 1995-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/01/1994010061/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 1994. - WET tot wijziging van artikel 131, tweede lid van het Gerechtelijk Wetboek

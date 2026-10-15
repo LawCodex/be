@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/02/13/2015014131/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2015. - Loi modifiant l'arrêté royal du 27 mai 2004 relatif à la transformation de Brussels International Airport Company (B.I.A.C.) en société anonyme de droit privé et aux installations aéroportuaires

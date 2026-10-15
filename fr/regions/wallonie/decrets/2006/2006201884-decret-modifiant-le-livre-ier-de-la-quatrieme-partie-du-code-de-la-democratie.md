@@ -13,7 +13,7 @@ entry_into_force: 2006-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/01/2006201884/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2006. - Décret modifiant le Livre Ier de la quatrième partie du Code de la démocratie locale et de la décentralisation.

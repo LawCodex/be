@@ -12,7 +12,7 @@ entry_into_force: 2013-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/01/2013206739/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2013. - Loi modifiant la loi du 13 août 2011 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans le domaine de la défense et de la sécurité

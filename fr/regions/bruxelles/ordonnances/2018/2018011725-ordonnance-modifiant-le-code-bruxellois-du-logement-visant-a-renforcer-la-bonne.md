@@ -13,7 +13,7 @@ entry_into_force: 2018-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/04/19/2018011725/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Ordonnance modifiant le Code bruxellois du Logement, visant à renforcer la bonne gouvernance dans le secteur du logement public

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/17/2006204111/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2006. - Decreet houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Tadzjikistan, anderzijds, gedaan in Luxemburg op 11 oktober 2004 (VERTALING).

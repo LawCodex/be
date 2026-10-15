@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/17/1998029357/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-1998 en tekstbijwerking tot 11-06-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1998. - Decreet houdende diverse dringende maatregelen in verband met het onderwijs. (Vertaling).

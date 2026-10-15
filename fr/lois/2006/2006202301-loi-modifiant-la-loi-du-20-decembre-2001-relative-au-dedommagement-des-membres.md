@@ -12,7 +12,7 @@ entry_into_force: 2006-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006202301/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2006. - Loi modifiant la loi du 20 décembre 2001 relative au dédommagement des membres de la Communauté juive de Belgique pour les biens dont ils ont été spoliés ou qu'ils ont délaissés pendant la guerre 1940-1945.

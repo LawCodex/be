@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/31/2019200520/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2019. - Decreet tot opheffing van het decreet van 2 februari 2017 betreffende het inschakelingscontract en het besluit van 22 juni 2017 tot uitvoering van het decreet van 2 februari 2017 betreffende het inschakelingscontract

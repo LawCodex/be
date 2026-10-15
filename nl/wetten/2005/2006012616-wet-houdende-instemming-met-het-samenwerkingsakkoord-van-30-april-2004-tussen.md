@@ -12,7 +12,7 @@ entry_into_force: 2007-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/17/2006012616/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2005. - Wet houdende instemming met het samenwerkingsakkoord van 30 april 2004 tussen de Federale Staat, de Gewesten en de Gemeenschappen betreffende de actieve begeleiding en opvolging van werklozen.

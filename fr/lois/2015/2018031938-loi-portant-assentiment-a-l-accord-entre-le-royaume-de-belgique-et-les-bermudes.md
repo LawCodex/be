@@ -12,7 +12,7 @@ entry_into_force: 2018-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/11/2018031938/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 2015. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et les Bermudes en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 11 avril 2013 et à Hamilton le 23 mai 2013

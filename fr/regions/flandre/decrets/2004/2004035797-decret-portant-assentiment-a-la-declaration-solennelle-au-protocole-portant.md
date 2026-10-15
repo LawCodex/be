@@ -13,7 +13,7 @@ entry_into_force: 2004-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035797/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret portant assentiment à la déclaration solennelle, au protocole portant modification de la convention coordonnée instituant l'Union économique belgo-luxembourgeoise, au protocole portant abrogation du protocole spécial entre la Belgique et le grand-duché de Luxembourg relatif à l'agriculture du 29 janvier 1963, et à l'acte final, signés à Bruxelles le 18 décembre 2002 (TRADUCTION).

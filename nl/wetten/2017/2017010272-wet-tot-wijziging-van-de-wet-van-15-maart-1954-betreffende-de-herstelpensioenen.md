@@ -12,7 +12,7 @@ entry_into_force: 2017-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/01/12/2017010272/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2017. - Wet tot wijziging van de wet van 15 maart 1954 betreffende de herstelpensioenen voor de burgerlijke slachtoffers van de oorlog 1940-1945 en hun rechthebbenden

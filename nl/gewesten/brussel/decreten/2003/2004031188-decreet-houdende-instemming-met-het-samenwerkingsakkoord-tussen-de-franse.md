@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/07/2004031188/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2003. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest en de Regering van de Republiek Senegal (VERTALING).

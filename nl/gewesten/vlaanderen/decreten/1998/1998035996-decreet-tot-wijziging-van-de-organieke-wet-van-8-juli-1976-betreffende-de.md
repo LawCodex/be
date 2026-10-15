@@ -12,7 +12,7 @@ entry_into_force: 1998-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/14/1998035996/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.

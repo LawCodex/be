@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/11/29/1993029570/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 16-12-1993 en tekstbijwerking tot 20-09-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 1993. - Decreet betreffende de rustpensioenen toegekend aan de ambtenaren van de " Radio-Télévision belge de la Communauté francaise " (RTBF). (Vertaling) (NOTA 2 : Opgeheven in de toekomst op een onbepaalde datum door BFG 2002-06-20/38, art. 7)

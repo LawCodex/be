@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/15/1994035902/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 1994. - Decreet tot opheffing van sommige bepalingen van het decreet van 12 december 1990 betreffende het bestuurlijk beleid en van sommige bepalingen van het koninklijk besluit nr. 46 van 10 juni 1982 betreffende de cumulaties van beroepsactiviteiten in sommige openbare diensten en tot opheffing van wettelijke bepalingen inzake prioritaire aanwerving bij de diensten van de Vlaamse regering.

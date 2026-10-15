@@ -11,7 +11,7 @@ published: 2003-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/05/2003012207/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2003. - Loi garantissant la présence de personnes de sexes différent dans le gouvernement de la Communauté germanophone.

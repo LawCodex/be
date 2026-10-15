@@ -13,7 +13,7 @@ entry_into_force: 2023-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/30/2023030965/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2023. - Decreet tot bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 20 mei 2021 tot vaststelling van de eindcompetenties en de kennis vereist in informatica op het einde van de tweede graad van de doorstromingsafdeling en op het einde van de doorstromingsafdeling en tot wijziging van de bepalingen betreffende de afwijkingsprocedure bedoeld in artikel 1.4.4-6 van het Wetboek voor het basis- en secundair onderwijs.

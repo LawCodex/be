@@ -12,7 +12,7 @@ entry_into_force: 2026-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/01/08/2026000732/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2026. - Loi relative au traitement de données à caractère personnel lors de la participation à une concertation organisée sur la base de l'article 458ter du Code pénal

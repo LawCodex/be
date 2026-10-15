@@ -11,7 +11,7 @@ entry_into_force: 2006-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/12/2006022954/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2006. - [Wet die het bedienen van automatische " externe " defibrillatoren toelaat.] &lt;Erratum, zie B.St. 28-09-2006, p. 50296&gt;

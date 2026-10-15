@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/02/29/1988029320/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2011 en tekstbijwerking tot 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 1988. - Decreet betreffende de beroepsopleiding van de personen die in de landbouw werkzaam zijn

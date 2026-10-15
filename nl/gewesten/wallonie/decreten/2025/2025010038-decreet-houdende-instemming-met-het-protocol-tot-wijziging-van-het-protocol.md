@@ -13,7 +13,7 @@ entry_into_force: 2026-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/11/2025010038/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2025. - Decreet houdende instemming met het Protocol tot wijziging van het Protocol inzake voorrechten en immuniteiten van de Benelux-organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), gedaan te Brussel op 6 december 2022

@@ -13,7 +13,7 @@ entry_into_force: 2002-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/18/2002036616/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Federale Overheid en de Gewesten met betrekking tot de oprichting van een Agentschap voor Buitenlandse Handel.

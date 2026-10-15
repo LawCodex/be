@@ -13,7 +13,7 @@ entry_into_force: 2004-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2003027796/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet tot wijziging van het decreet van 21 december 1989 betreffende de diensten voor het openbaar vervoer in het Waalse Gewest. (Vertaling).

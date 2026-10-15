@@ -13,7 +13,7 @@ entry_into_force: 2023-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/07/2023043722/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2023. - Décret modifiant l'article 14/1 du décret du 25 avril 2014 relatif au permis d'environnement, en ce qui concerne le règlement en cas d'indisponibilité des systèmes numériques internes de traitement des dossiers

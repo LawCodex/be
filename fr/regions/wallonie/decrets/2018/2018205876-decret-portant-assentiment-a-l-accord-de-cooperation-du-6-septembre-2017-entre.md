@@ -13,7 +13,7 @@ entry_into_force: 2018-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/08/2018205876/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2018. - Décret portant assentiment à l'accord de coopération du 6 septembre 2017 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur les facteurs de rattachement, la gestion des charges du passé, l'échange des données en matière de prestations familiales et les modalités concernant le transfert de compétence entre caisses d'allocations familiales

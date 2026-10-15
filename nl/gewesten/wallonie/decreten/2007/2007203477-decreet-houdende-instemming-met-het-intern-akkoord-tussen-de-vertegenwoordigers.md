@@ -13,7 +13,7 @@ entry_into_force: 2007-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/22/2007203477/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2007. - Decreet houdende instemming met het Intern Akkoord tussen de vertegenwoordigers van de Regeringen van de lidstaten, in het kader van de Raad bijeen, houdende wijziging van het Intern Akkoord van 18 september 2000 inzake maatregelen en procedures voor de uitvoering van de ACS-EG-Partnerschapsovereenkomst, gedaan te Luxemburg, op 10 april 2006 (VERTALING).

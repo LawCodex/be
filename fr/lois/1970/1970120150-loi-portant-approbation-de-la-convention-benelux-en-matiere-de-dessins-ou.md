@@ -11,7 +11,7 @@ published: 1973-12-29
 entry_into_force: 1974-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/12/01/1970120150/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 1970. - Loi portant approbation de la convention Benelux en matière de dessins ou modèles, signée à Bruxelles le 25 octobre 1966, et de l'annexe (loi uniforme).

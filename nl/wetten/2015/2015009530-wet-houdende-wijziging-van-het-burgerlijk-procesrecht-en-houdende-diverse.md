@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/10/19/2015009530/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-10-2015 en tekstbijwerking tot 30-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2015. - Wet houdende wijziging van het burgerlijk procesrecht en houdende diverse bepalingen inzake justitie

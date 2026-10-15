@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/20/2002029331/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-07-2002 en tekstbijwerking tot 24-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2002. - Decreet betreffende de oprichting van het " Fonds Ecureuil " van de Franse Gemeenschap (VERTALING).

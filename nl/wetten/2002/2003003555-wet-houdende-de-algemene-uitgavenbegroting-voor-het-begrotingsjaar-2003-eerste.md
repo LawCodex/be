@@ -12,7 +12,7 @@ entry_into_force: 2003-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/27/2003003555/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2002. - Wet houdende de algemene uitgavenbegroting voor het begrotingsjaar 2003. (Eerste aanpassing : W 2003-04-11/50; tweede aanpassing : 2003-04-11/51; derde aanpassing : 2003-12-22/64.)

@@ -12,7 +12,7 @@ entry_into_force: 2004-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/29/2004003064/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2004. - Loi portant modification de la loi du 20 juillet 1979 concernant l'assistance mutuelle en matière de recouvrement dans la Communauté économique européenne, des créances résultant d'opérations faisant partie du système de financement du Fonds européen d'Orientation et de Garantie agricole ainsi que des prélèvements agricoles et des droits de douane, de la taxe sur la valeur ajoutée et de certains droits d'accise.

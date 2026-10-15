@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1807/09/16/1807091650/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 18-12-2018 et mise à jour au 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 SEPTEMBRE 1807. - Loi des 16-26 septembre 1807 relative au desséchement des marais, etc

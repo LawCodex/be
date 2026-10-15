@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/06/2022030908/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2022. - Wet tot wijziging van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de federale Staat

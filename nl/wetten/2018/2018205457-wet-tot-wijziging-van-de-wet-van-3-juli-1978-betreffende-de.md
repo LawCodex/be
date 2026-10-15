@@ -11,7 +11,7 @@ published: 2018-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/14/2018205457/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2018. - Wet tot wijziging van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten met het oog op de versoepeling van het scholingsbeding en de invoering van een scholingsbeding voor knelpuntberoepen

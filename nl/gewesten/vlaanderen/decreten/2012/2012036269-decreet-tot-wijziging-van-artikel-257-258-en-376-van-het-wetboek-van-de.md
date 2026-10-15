@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/21/2012036269/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 07-01-2013 en tekstbijwerking tot 23-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2012. - Decreet tot wijziging van artikel 257, 258 en 376 van het Wetboek van de inkomstenbelastingen 1992 en artikel 7 van het decreet van 23 mei 2008 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008, wat de vermindering van de onroerende voorheffing voor energiezuinige gebouwen betreft

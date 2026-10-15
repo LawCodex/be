@@ -13,7 +13,7 @@ entry_into_force: 1989-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/11/27/1997027653/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1997. - Decreet tot wijziging van het decreet van 27 maart 1985 inzake de pensioenregeling toepasselijk op het personeel van de organismen van openbaar nut behorend tot het Waalse Gewest (VERTALING).

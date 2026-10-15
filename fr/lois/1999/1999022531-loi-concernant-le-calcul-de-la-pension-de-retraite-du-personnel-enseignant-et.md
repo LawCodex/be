@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/13/1999022531/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 12-06-1999 et mise à jour au 11-05-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1999. - Loi concernant le calcul de la pension de retraite du personnel enseignant et directeur de l'enseignement gardien et primaire.

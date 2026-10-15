@@ -12,7 +12,7 @@ entry_into_force: 1998-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/02/1998003344/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1998. - Wet houdende bekrachtiging van het koninklijk besluit van 4 april 1995 met betrekking tot de Commissie voor voorafgaande fiscale akkoorden.

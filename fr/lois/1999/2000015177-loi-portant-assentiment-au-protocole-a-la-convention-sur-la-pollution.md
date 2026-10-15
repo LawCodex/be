@@ -12,7 +12,7 @@ entry_into_force: 2000-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/25/2000015177/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1999. - Loi portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979, relatif à la lutte contre les émissions d'oxydes d'azote ou leurs flux transfrontières, et l'Annexe technique, faits à Sofia le 31 octobre 1988.

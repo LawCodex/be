@@ -13,7 +13,7 @@ entry_into_force: 2002-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003029259/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant modifications urgentes au statut pécuniaire de certaines catégories de personnel de l'enseignement.

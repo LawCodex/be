@@ -13,7 +13,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036555/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant modification du décret du 4 avril 2003 portant dispositions visant à créer une " Universiteit Antwerpen " et à modifier le décret du 22 décembre 1995 portant modification de divers décrets relatifs à l'" Universiteit Antwerpen ", en ce qui concerne l'" Universitair Ziekenhuis Antwerpen ". (Traduction).

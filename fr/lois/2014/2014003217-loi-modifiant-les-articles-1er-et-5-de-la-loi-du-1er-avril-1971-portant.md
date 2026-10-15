@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/24/2014003217/justel"
 department: "Régie des Bâtiments"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Loi modifiant les articles 1er et 5 de la loi du 1er avril 1971 portant création d'une Régie des Bâtiments

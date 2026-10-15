@@ -12,7 +12,7 @@ entry_into_force: 2004-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/17/2004015109/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2002. - Wet houdende instemming met de volgende Verdragen : 1. Overeenkomst betreffende de bouw en de exploitatie van een Europese Synchrotronstralingsinstallatie, en Bijlagen, opgemaakt te Parijs op 16 december 1988 2. Overeenkomst tussen het Koninkrijk België en het Koninkrijk der Nederlanden betreffende de gezamenlijke deelname aan de Europese Synchrotronstralingsinstallatie alsook de wijze van uitvoering daarvan, en Uitwisseling van brieven, ondertekend te Brussel op 12 november 1990 3. Protocol van toetreding van het Koninkrijk der Nederlanden tot de Overeenkomst van 16 december 1988 betreffende de bouw en de exploitatie van een Europese installatie voor synchrotronstraling, en Bijlage, opgemaakt te Parijs op 9 december 1991.

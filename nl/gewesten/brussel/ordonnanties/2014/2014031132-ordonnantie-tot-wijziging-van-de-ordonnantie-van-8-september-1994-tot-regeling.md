@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/01/30/2014031132/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2014. - Ordonnantie tot wijziging van de ordonnantie van 8 september 1994 tot regeling van de drinkwatervoorziening via het waterleidingnet in het Brussels Hoofdstedelijk Gewest

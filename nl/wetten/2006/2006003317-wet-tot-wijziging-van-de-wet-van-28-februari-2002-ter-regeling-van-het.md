@@ -12,7 +12,7 @@ entry_into_force: 2006-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006003317/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet tot wijziging van de wet van 28 februari 2002 ter regeling van het opstellen van de betalingsbalans en van de externe vermogenspositie van België en houdende wijziging van de besluitwet van 6 oktober 1944 betreffende de wisselcontrole en van verschillende wettelijke bepalingen.

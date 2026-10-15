@@ -13,7 +13,7 @@ entry_into_force: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/17/2022032576/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2022. - Decreet tot wijziging van artikel 4.1.16/2 van het Energiedecreet van 8 mei 2009

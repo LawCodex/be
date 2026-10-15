@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/04/11/1994000357/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 04-09-1998 en tekstbijwerking tot 06-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1994. - Wet betreffende de openbaarheid van bestuur.

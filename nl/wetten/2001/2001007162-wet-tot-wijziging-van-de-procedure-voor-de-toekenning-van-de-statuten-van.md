@@ -12,7 +12,7 @@ entry_into_force: 2001-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/10/2001007162/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2001. - Wet tot wijziging van de procedure voor de toekenning van de statuten van nationale erkentelijkheid.

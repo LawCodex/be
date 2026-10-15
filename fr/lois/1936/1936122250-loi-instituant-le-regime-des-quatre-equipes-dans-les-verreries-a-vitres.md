@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1936/12/22/1936122250/justel"
 justel_notes:
   - "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 01-07-2010"
   - "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 01-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1936. - Loi instituant le régime des quatre équipes dans les verreries à vitres automatiques.

@@ -12,7 +12,7 @@ published: 2024-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/22/2024001667/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2024. - Ordonnantie betreffende de financiering van de infrastructuur van diverse types instellingen behorend tot het beleid inzake Bijstand aan personen en Gezondheid

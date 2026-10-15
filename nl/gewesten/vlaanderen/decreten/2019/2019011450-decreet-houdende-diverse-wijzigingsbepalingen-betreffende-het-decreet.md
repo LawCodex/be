@@ -13,7 +13,7 @@ entry_into_force: 2019-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/15/2019011450/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2019. - Decreet houdende diverse wijzigingsbepalingen betreffende het decreet betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en het decreet betreffende de integrale jeugdhulp

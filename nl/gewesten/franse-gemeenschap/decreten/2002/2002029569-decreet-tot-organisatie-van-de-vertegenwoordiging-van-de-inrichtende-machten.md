@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/14/2002029569/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2002. - Decreet tot organisatie van de vertegenwoordiging van de inrichtende machten van het gesubsidieerd onderwijs en van de gesubsidieerde psycho-medisch-sociale centra (VERTALING).

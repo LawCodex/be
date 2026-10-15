@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011203996/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming met het Verdrag nr. 142 betreffende de rol van beroepskeuzevoorlichting en beroepsopleiding bij de ontwikkeling van menselijke hulpbronnen, aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie in Genève op 23 juni 1975

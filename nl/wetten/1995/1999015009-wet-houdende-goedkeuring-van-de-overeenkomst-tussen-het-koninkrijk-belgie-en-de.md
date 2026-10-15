@@ -12,7 +12,7 @@ entry_into_force: 1999-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/11/1999015009/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1995. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Volksrepubliek Bangladesh tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 18 oktober 1990.

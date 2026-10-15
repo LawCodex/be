@@ -12,7 +12,7 @@ entry_into_force: 2022-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/20/2022A20289/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Accord entre le Royaume de Belgique et la République de Finlande concernant la protection réciproque des informations classifiées, fait à Helsinki le 20 juillet 2016

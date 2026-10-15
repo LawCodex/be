@@ -12,7 +12,7 @@ entry_into_force: 2003-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/11/2003015009/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2002. - Wet houdende instemming met de Samenwerkingsovereenkomst in het kader van de Ruimtevaartactiviteiten tussen de Nationale Commissie voor Ruimteactiviteiten en de Federale Diensten voor Wetenschappelijke, Technische en Culturele Aangelegenheden, ter uitvoering van de Verklaring van belangstelling betreffende de Samenwerking met betrekking tot Ruimtevaart die op 1 april 1997 door de Regeringen van het Koninkrijk België en van de Republiek Argentinië werd ondertekend, ondertekend te Luik op 3 oktober 1997.

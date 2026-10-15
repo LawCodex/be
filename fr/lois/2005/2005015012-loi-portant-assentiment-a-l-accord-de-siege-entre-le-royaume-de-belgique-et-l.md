@@ -12,7 +12,7 @@ entry_into_force: 2002-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/01/14/2005015012/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2005. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Union économique et monétaire ouest africaine, fait à Bruxelles le 26 mars 2002.

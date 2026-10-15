@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/22/2002022684/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 10-09-2002 et mise à jour au 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AOUT 2002. - Loi portant des mesures en matière de soins de santé. (NOTE 1 : les mots " Caisse des soins de santé de la Société nationale des Chemins de fer belges " sont remplacés par les mots " Caisse des soins de santé de la S.N.C.B. Holding " ; voir AR 2004-10-18/32, art. 38 ; En vigueur : 01-01-2005)

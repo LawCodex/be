@@ -12,7 +12,7 @@ entry_into_force: 2013-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/20/2013011561/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2013. - Loi portant insertion du Livre XV, " Application de la loi " dans le Code de droit économique

@@ -13,7 +13,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/06/10/1999027501/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1999. - Decreet betreffende de sponsoring van evenementen die plaatsvinden in aan het Waalse Gewest toebehorende infrastructuren of die door het Waalse Gewest gesubsidieerd worden (VERTALING).

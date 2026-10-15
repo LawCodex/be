@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2008029089/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-02-2008 et mise à jour au 30-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - Décret organisant la différenciation structurelle au sein du premier degré afin d'amener l'ensemble des élèves à la maîtrise des socles de compétences

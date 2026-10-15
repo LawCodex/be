@@ -13,7 +13,7 @@ entry_into_force: 2019-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019011504/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation

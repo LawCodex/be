@@ -13,7 +13,7 @@ entry_into_force: 2014-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035363/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret modifiant le décret du 13 juillet 2007 portant promotion d'une participation plus équilibrée d'hommes et de femmes dans les organes d'avis et d'administration de l'autorité flamande et le décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement

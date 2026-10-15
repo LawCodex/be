@@ -13,7 +13,7 @@ entry_into_force: 2003-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/08/2003029284/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Decreet houdende instemming met de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Democratische Volksrepubliek Algerije, anderzijds, en met de Slotakte, gedaan te Valencia op 22 april 2002 (VERTALING).

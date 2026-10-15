@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2007037369/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2007 et mise à jour au 26-06-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Décret contenant diverses mesures d'accompagnement du budget 2008 (TRADUCTION)

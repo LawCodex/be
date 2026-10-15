@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/26/2018030509/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-02-2018 et mise à jour au 28-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2018. - Décret portant création de l'agence autonomisée externe de droit privé " Koninklijk Museum voor Schone Kunsten Antwerpen " (Musée Royal des Beaux-Arts - Anvers) sous forme d'une association sans but lucratif

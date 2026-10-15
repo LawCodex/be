@@ -13,7 +13,7 @@ entry_into_force: 2025-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/16/2025006516/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2025. - Décret modifiant diverses dispositions relatives à l'enseignement supérieur, à l'enseignement pour adultes et à la recherche scientifique et transposant partiellement la directive (UE) 2022/2041 du Parlement européen et du Conseil du 19 octobre 2022 relative à des salaires minimaux adéquats dans l'Union européenne

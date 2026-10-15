@@ -23,11 +23,13 @@ Key texts, for orientation:
 | Text | French | Dutch |
 |---|---|---|
 | Constitution / Grondwet | [`fr/constitution/`](fr/constitution/) | [`nl/grondwet/`](nl/grondwet/) |
-| Code civil / Burgerlijk Wetboek (new books 1–9 and remaining parts of the old Code) | [`fr/codes/code-civil/`](fr/codes/code-civil/) | [`nl/wetboeken/`](nl/wetboeken/) |
-| Code pénal / Strafwetboek | [`fr/codes/code-penal/`](fr/codes/code-penal/) | [`nl/wetboeken/`](nl/wetboeken/) |
-| Code judiciaire / Gerechtelijk Wetboek (one file per part) | [`fr/codes/code-judiciaire/`](fr/codes/code-judiciaire/) | [`nl/wetboeken/`](nl/wetboeken/) |
-| Code des sociétés et des associations / Wetboek van vennootschappen en verenigingen | [`fr/codes/code-des-societes-et-des-associations/`](fr/codes/code-des-societes-et-des-associations/) | [`nl/wetboeken/`](nl/wetboeken/) |
-| Code de droit économique / Wetboek van economisch recht | [`fr/codes/code-de-droit-economique/`](fr/codes/code-de-droit-economique/) | [`nl/wetboeken/`](nl/wetboeken/) |
+| Code civil / Burgerlijk Wetboek (new books 1–9 and remaining parts of the old Code) | [`fr/codes/code-civil/`](fr/codes/code-civil/) | [`nl/wetboeken/burgerlijk-wetboek/`](nl/wetboeken/burgerlijk-wetboek/) |
+| Code pénal (2024, in force since 1 September 2026) / Strafwetboek | [`fr/codes/code-penal/`](fr/codes/code-penal/) | [`nl/wetboeken/strafwetboek/`](nl/wetboeken/strafwetboek/) |
+| Code d'instruction criminelle / Wetboek van strafvordering | [`fr/codes/code-d-instruction-criminelle/`](fr/codes/code-d-instruction-criminelle/) | [`nl/wetboeken/wetboek-van-strafvordering/`](nl/wetboeken/wetboek-van-strafvordering/) |
+| Code judiciaire / Gerechtelijk Wetboek (one file per part) | [`fr/codes/code-judiciaire/`](fr/codes/code-judiciaire/) | [`nl/wetboeken/gerechtelijk-wetboek/`](nl/wetboeken/gerechtelijk-wetboek/) |
+| Code des sociétés et des associations / Wetboek van vennootschappen en verenigingen | [`fr/codes/code-des-societes-et-des-associations/`](fr/codes/code-des-societes-et-des-associations/) | [`nl/wetboeken/wetboek-van-vennootschappen-en-verenigingen/`](nl/wetboeken/wetboek-van-vennootschappen-en-verenigingen/) |
+| Code de droit économique / Wetboek van economisch recht | [`fr/codes/code-de-droit-economique/`](fr/codes/code-de-droit-economique/) | [`nl/wetboeken/wetboek-van-economisch-recht/`](nl/wetboeken/wetboek-van-economisch-recht/) |
+| Code des impôts sur les revenus 1992 / Wetboek van de inkomstenbelastingen 1992 | [`fr/codes/code-des-impots-sur-les-revenus/`](fr/codes/code-des-impots-sur-les-revenus/) | [`nl/wetboeken/wetboek-van-de-inkomstenbelastingen/`](nl/wetboeken/wetboek-van-de-inkomstenbelastingen/) |
 
 ## Structure
 
@@ -52,6 +54,9 @@ fr/                                   nl/
 Files are named `<numac>-<slug-of-title>.md`. The **NUMAC** is the official identifier of the
 publication in the Moniteur belge; the same text exists under the same NUMAC in both languages
 (in `fr/` and in `nl/`), so the two language versions can be paired by filename prefix.
+Codes are grouped by Justel's *nature juridique* (`CODE CIVIL`, `CODE JUDICIAIRE`, …); a code
+directory can therefore also hold the act that enacted the code or a closely related text that Justel
+files under the same type. Texts listed under a code type are not repeated under `lois/`.
 Large codes are split by Justel itself into several texts (e.g. the *Code judiciaire* into its
 eight parts, the *Code civil* into its books); each becomes one file inside the code's directory.
 
@@ -103,7 +108,8 @@ Statistics of the last run (texts, not files):
   the past): {{skipped-repealed}}
 - skipped German-translation entries (Justel only links the PDF image for these, there is no
   text): {{skipped-german}}
-- royal decrees skipped by the filter (ordinary regulatory royal decrees): {{skipped-ar-filter}}
+- royal decrees and Regent's decrees skipped by the filter (ordinary regulatory decrees):
+  {{skipped-ar-filter}}
 - no consolidated text available in Justel (only the scanned Moniteur image): {{no-text}}
 
 **Royal decrees.** Justel holds about 100,000 *arrêtés royaux*, overwhelmingly ordinary
@@ -111,13 +117,18 @@ executive regulations. Only those whose title identifies them as having the forc
 coordinating statutes are included: numbered royal decrees (*arrêté royal n° …*,
 special-powers decrees), decrees taken under special/extraordinary powers (*pouvoirs spéciaux*,
 *habilitant le Roi*) and coordinations/codifications of laws (*lois coordonnées*, *portant
-coordination*, *codification*). The regex is in [`scripts/catalog.py`](scripts/catalog.py).
+coordination*, *codification*). To avoid paging through all of them, only royal decrees whose
+title contains one of the words *n°, numéro, pouvoirs, spéciaux, extraordinaires, habilitant,
+coordonnant, coordination, codification, codifiant* are listed (7,540), then the regex in
+[`scripts/catalog.py`](scripts/catalog.py) is applied. The same regex is applied to the 3,210
+*arrêtés du Régent* (1944–1950).
 
 **Not included:**
 
 - German (`de/`): Justel offers no consolidated German text; German translations
   (*Zentrale Dienststelle für Deutsche Übersetzungen*) are only available as Moniteur PDF images.
-- Repealed and expired texts, and historical constitution (1831).
+- Repealed and expired texts (e.g. the Code pénal of 1867, repealed on 1 September 2026, and the
+  Code des sociétés of 1999), and the historical constitution (1831).
 - Ordinary royal decrees, ministerial decrees (*arrêtés ministériels*, ~40,000), executive orders
   of the regional and community governments (*arrêtés du Gouvernement flamand/wallon/…*,
   Brussels *arrêtés* and *règlements*), circulars, collective labour agreements, treaties (the
@@ -134,10 +145,16 @@ coordination*, *codification*). The regex is in [`scripts/catalog.py`](scripts/c
 - ELI permalinks, e.g. `https://www.ejustice.just.fgov.be/eli/loi/<yyyy>/<mm>/<dd>/<numac>/justel`
   (Dutch: `/eli/wet/…`).
 
-No open-data dump or bulk API of Justel exists; the corpus is obtained by querying the public
-search form (per *nature juridique*, split by promulgation-date range because Justel caps result
-lists at 10,000) and fetching each text page in French and Dutch, politely (descriptive
-User-Agent, at most 4 concurrent requests, rate limit, retries with backoff, local cache).
+No open-data dump or bulk API of Justel exists. Note that Justel's `robots.txt` disallows
+`/cgi_loi/` and `/eli/` for crawlers; the corpus was nevertheless collected from the public
+consolidated-legislation search, at a deliberately low rate (Justel's BigIP front end answers
+HTTP 429 above roughly 0.5 request/s; the scraper spaces requests ≥ 2 s apart, honours
+`Retry-After` and pauses 15 minutes when throttling persists — a full run takes several days).
+The corpus is obtained by paging through the public search result lists (`list.pl`, one
+query per *nature juridique*) and fetching each text page (`article.pl`) in French and, unless
+the French page shows the text as repealed or without consolidated text, in Dutch (descriptive
+User-Agent `LawCodex/1.0`, 2 concurrent requests, global rate limit, retries with backoff, local
+cache).
 
 **Status of the texts.** The Justel consolidations are produced by the Official Gazette for
 information only; only the texts published in the Moniteur belge are authentic. Justel updates

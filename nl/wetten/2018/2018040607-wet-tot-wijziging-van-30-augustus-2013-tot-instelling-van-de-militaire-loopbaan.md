@@ -11,7 +11,7 @@ published: 2018-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/19/2018040607/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Wet tot wijziging van 30 augustus 2013 tot instelling van de militaire loopbaan van beperkte duur

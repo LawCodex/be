@@ -13,7 +13,7 @@ entry_into_force: 2016-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/22/2016035121/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2016. - Décret portant assentiment au Traité Benelux relatif à la coopération transfrontalière en matière d'inspection du transport routier, fait à Liège le 3 octobre 2014

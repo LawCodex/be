@@ -13,7 +13,7 @@ entry_into_force: 2015-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/13/2015035392/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2015. - Décret portant assentiment à l'accord de coopération du 17 décembre 2014 modifiant l'accord de coopération du 9 décembre 2011 entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention du dopage et de lutte antidopage dans le sport

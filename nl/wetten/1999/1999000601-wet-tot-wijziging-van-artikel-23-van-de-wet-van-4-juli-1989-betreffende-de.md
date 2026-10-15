@@ -12,7 +12,7 @@ entry_into_force: 1999-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/23/1999000601/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1999. - Wet tot wijziging van artikel 23 van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezingen van de federale Kamers, de financiering en de open boekhouding van de politieke partijen.

@@ -12,7 +12,7 @@ entry_into_force: 2012-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/06/20/2012009322/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2012. - Wet tot wijziging van het Burgerlijk Wetboek teneinde de procedure bij landelijke of interlandelijke adoptie vanaf een tweede kind te vereenvoudigen

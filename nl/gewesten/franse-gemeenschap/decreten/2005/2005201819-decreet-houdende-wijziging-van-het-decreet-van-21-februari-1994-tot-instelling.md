@@ -13,7 +13,7 @@ entry_into_force: 2005-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/05/04/2005201819/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2005. - Decreet houdende wijziging van het decreet van 21 februari 1994 tot instelling van een prijs van de Raad voor de bekroning van een origineel werk inzake beeldende kunsten gecreëerd door een jong kunstenaar van de Franse Gemeenschap (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2013-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/31/2013200797/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2013. - Décret portant assentiment, pour ce qui concerne les compétences dont l'exercice a été transféré de la Communauté française à la Région wallonne, au Traité entre le Royaume de Belgique, la République de Bulgarie, la République tchèque, le Royaume de Danemark, la République fédérale d'Allemagne, la République d'Estonie, l'Irlande, la République hellénique, le Royaume d'Espagne, la République française, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le grand-duché de Luxembourg, la République de Hongrie, la République de Malte, le Royaume des Pays-Bas, la République d'Autriche, la République de Pologne, la République portugaise, la Roumanie, la République de Slovénie, la République slovaque, la République de Finlande, le Royaume de Suède et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (Etats membres de l'Union européenne) et la République de Croatie relatif à l'adhésion de la République de Croatie à l'Union européenne et à l'Acte final, faits à Bruxelles le 9 décembre 2011

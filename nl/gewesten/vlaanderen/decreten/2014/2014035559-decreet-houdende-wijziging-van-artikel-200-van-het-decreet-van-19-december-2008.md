@@ -12,7 +12,7 @@ published: 2014-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014035559/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet houdende wijziging van artikel 200 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, wat betreft het aanwijzen van personen die namens het OCMW in rechte kunnen verschijnen

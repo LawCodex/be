@@ -12,7 +12,7 @@ entry_into_force: 2015-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/23/2015000774/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AOUT 2015. - Loi visant à modifier la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard du traitement des données à caractère personnel en ce qui concerne l'Organe de contrôle de l'information policière

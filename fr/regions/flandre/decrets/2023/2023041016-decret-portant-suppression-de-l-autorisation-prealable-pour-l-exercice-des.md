@@ -13,7 +13,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/03/2023041016/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2023. - Décret portant suppression de l'autorisation préalable pour l'exercice des activités ambulantes ou foraines et modifiant la loi du 25 juin 1993 sur l'exercice et l'organisation des activités ambulantes et foraines

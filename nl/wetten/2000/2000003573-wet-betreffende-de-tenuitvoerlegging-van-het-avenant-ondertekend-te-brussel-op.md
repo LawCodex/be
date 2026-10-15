@@ -11,7 +11,7 @@ entry_into_force: 2000-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2000003573/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet betreffende de tenuitvoerlegging van het Avenant, ondertekend te Brussel op 8 februari 1999, bij de Overeenkomst tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen, ondertekend te Brussel op 10 maart 1964.

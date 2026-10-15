@@ -10,7 +10,7 @@ date: 2001-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/12/2001003382/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Wet houdende aanpassing van de Rijksmiddelenbegroting van het begrotingsjaar 2001.

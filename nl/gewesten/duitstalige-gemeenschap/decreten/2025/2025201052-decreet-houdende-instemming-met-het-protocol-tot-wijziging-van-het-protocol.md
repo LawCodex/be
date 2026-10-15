@@ -13,7 +13,7 @@ entry_into_force: 2025-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/24/2025201052/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2025. - Decreet houdende instemming met het Protocol tot wijziging van het Protocol inzake voorrechten en immuniteiten van de Benelux-organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), gedaan te Brussel op 6 december 2022

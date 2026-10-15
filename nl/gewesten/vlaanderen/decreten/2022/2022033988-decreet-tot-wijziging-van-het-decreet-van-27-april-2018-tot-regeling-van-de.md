@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/21/2022033988/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2022. - Decreet tot wijziging van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, wat betreft de invoering van de ondersteuningstoeslag

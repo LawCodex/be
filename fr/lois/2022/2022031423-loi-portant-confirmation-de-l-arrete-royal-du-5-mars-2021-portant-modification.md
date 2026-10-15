@@ -12,7 +12,7 @@ entry_into_force: 2022-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/27/2022031423/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2022. - Loi portant confirmation de l'arrêté royal du 5 mars 2021 portant modification de l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux par les entreprises de gaz naturel et les règles d'intervention pour leur prise en charge ainsi que de l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux par les entreprises d'électricité et les règles d'intervention pour leur prise en charge

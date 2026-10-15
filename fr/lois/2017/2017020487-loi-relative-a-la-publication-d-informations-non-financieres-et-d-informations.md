@@ -12,7 +12,7 @@ entry_into_force: 2017-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/03/2017020487/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2017. - Loi relative à la publication d'informations non financières et d'informations relatives à la diversité par certaines grandes sociétés et certains groupes

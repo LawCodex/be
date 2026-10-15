@@ -12,7 +12,7 @@ entry_into_force: 2011-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/23/2011204733/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2011. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 23 juni 2010, tot wijziging van het aan het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie gehechte Protocol betreffende de overgangsbepalingen

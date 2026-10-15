@@ -13,7 +13,7 @@ last_amended: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1945/09/01/1945090104/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-2014 en tekstbijwerking tot 30-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 1945. - Gezondheidswet. (Nota: voor wat het Waalse Gewest betreft werd deze wet gedeeltelijk opgeheven bij DCW 1985-10-07/32, art. 70, § 1.)

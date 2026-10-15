@@ -12,7 +12,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/15/2024006082/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2024. - Wet tot wijziging van de wet van 13 februari 2006 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma's en de inspraak van het publiek bij de uitwerking van de plannen en programma's in verband met het milieu

@@ -11,7 +11,7 @@ date: 2020-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/09/03/2020203745/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2020. - Bijzonder decreet tot wijziging van artikel 41 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen teneinde het recht van de indiener van een verzoekschrift om te worden gehoord te bevestigen

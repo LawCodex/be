@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035824/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2004 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - [Décret portant création des agences autonomisées externes de droit public 'Openbaar Psychiatrisch Zorgcentrum Geel' et 'Openbaar Psychiatrisch Zorgcentrum Rekem'] &lt;DCFL 2006-03-31/52%, art. 2, 002; En vigueur : 01-01-2007&gt;

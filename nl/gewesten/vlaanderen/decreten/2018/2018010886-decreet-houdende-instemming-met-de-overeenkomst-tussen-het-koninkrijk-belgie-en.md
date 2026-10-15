@@ -13,7 +13,7 @@ entry_into_force: 2018-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/02/2018010886/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2018. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Argentinië inzake het verrichten van betaalde werkzaamheden door de gezinsleden ten laste van het personeel van de diplomatieke zendingen en consulaire posten, ondertekend te Brussel op 20 april 2017

@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1938/07/30/1938073050/justel"
 justel_notes:
   - "Consultation des versions antérieures à partir du 22-01-1991 et mise à jour au 12-10-2017"
   - "Consultation des versions antérieures à partir du 22-01-1991 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1938. - LOI concernant l'usage des langues à l'armée.

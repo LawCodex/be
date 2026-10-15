@@ -18,7 +18,7 @@ justel_notes:
   - "deze tekst werd gewijzigd bij DWG 2004-04-01/96, art. 74 en 74bis, 005; Inwerkingtreding : onbepaald ; zie B.S. 07-06-2004, p. 43296"
   - "deze tekst werd opgeheven bij DWG 2004-05-27/63, art. 2, 1°, 006; Inwerkingtreding : onbepaald ; zie B.S. 09-07-2004, p. 54697"
   - "Raadpleging van vroegere versies vanaf 01-01-1989 en tekstbijwerking tot 09-07-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 1985. - Decreet tot organisatie van de waardering van de weerslagen op het leefmilieu in het Waalse Gewest &lt;Vertaling&gt;.

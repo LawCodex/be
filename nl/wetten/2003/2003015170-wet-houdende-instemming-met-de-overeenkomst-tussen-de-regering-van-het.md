@@ -12,7 +12,7 @@ entry_into_force: 2004-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003015170/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Azerbeidzjan inzake luchtvervoer, en met de Bijlage, ondertekend te Bakoe op 13 april 1998.

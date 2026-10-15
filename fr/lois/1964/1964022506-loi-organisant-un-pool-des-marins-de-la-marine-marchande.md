@@ -13,7 +13,7 @@ last_amended: 2009-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/02/25/1964022506/justel"
 justel_note: "Consultation des versions antérieures à partir du 06-08-1985 et mise à jour au 26-06-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1964. - Loi organisant un Pool des marins de la marine marchande.

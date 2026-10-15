@@ -12,7 +12,7 @@ published: 2025-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/20/2025004802/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2025. - Decreet tot wijziging van artikel 115/8 van de Codex Secundair Onderwijs van 17 december 2010

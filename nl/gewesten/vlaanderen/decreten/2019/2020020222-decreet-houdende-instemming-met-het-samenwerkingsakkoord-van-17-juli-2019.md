@@ -13,7 +13,7 @@ entry_into_force: 2020-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/06/2020020222/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 17 juli 2019 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest met betrekking tot de eenmaking van de wijze waarop gerefereerd wordt aan de adressen en de koppeling van adresgegevens

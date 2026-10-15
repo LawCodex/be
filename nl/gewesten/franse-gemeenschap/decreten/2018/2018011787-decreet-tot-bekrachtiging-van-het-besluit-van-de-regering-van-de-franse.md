@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/19/2018011787/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-05-2018 en tekstbijwerking tot 01-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2018. - Decreet tot bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 17 januari 2018 tot vaststelling van de competenties en de kennis vereist in aardrijkskunde op het einde van de tweede graad van de doorstromingsafdeling en de eindcompetenties en kennis vereist in aardrijkskunde op het einde van de doorstromingsafdeling

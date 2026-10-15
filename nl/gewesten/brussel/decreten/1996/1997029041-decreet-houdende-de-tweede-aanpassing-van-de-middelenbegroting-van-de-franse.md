@@ -13,7 +13,7 @@ entry_into_force: 1997-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/20/1997029041/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1996. - Decreet houdende de tweede aanpassing van de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1996. (VERTALING).

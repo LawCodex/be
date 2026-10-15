@@ -13,7 +13,7 @@ entry_into_force: 2017-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/27/2017040696/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2017. - Ordonnance établissant un cadre pour la coopération bruxelloise au développement

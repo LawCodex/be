@@ -12,7 +12,7 @@ published: 2016-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/16/2016029338/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2016. - Decreet houdende verschillende maatregelen inzake hoger onderwijs, organisatie van het bestuur van het "Centre hospitalier universitaire de Liège", en onderzoek

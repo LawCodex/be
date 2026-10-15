@@ -13,7 +13,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/09/2022043026/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2022. - Decreet over de toekenning van diverse subsidies aan lokale besturen als vermeld in het VIA6-akkoord

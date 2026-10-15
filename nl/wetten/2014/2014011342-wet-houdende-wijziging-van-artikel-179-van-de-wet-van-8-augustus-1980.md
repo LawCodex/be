@@ -12,7 +12,7 @@ entry_into_force: 2014-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/03/2014011342/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2014. - Wet houdende wijziging van artikel 179 van de wet van 8 augustus 1980 betreffende de budgettaire voorstellen 1979-1980, wat de omzetting in het interne recht betreft van Richtlijn 2011/70/Euratom van de Raad van 19 juli 2011 tot vaststelling van een communautair kader voor een verantwoord en veilig beheer van verbruikte splijtstof en radioactief afval

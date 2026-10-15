@@ -13,7 +13,7 @@ entry_into_force: 2005-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/23/2005201707/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2005. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à la Convention-cadre de l'Organisation mondiale de la Santé pour la lutte antitabac, adoptée à Genève, le 21 mai 2003.

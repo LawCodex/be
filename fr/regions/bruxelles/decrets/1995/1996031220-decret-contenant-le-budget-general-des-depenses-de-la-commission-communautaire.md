@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/18/1996031220/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 11-07-1996 et mis à jour au 05-03-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1995. - Décret contenant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 1996.

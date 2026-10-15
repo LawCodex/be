@@ -13,7 +13,7 @@ entry_into_force: 1995-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035909/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret spécial modifiant le décret spécial du 19 décembre 1988 relatif au Conseil autonome de l'Enseignement communautaire (TRADUCTION)

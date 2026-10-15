@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/19/2017200510/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2017 en tekstbijwerking tot 07-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2017. - Decreet betreffende de tariefmethodologie die van toepassing is op gas- en elektriciteitsdistributienetbeheerders

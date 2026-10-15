@@ -13,7 +13,7 @@ entry_into_force: 2017-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/06/2017020499/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2017. - Décret modifiant le décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité et le décret du 19 février 2009 organisant le renforcement différencié du cadre du personnel technique des centres psycho-médico-sociaux

@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/26/2018201700/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2018. - Décret portant assentiment à l'Avenant, fait à Bruxelles le 2 décembre 2009, modifiant la Convention entre le Royaume de Belgique et le Royaume d'Espagne tendant à éviter les doubles impositions et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Bruxelles le 14 juin 1995, tels que modifiés par l'Avenant fait à Madrid le 22 juin 2000 et à l'Avenant, fait à Madrid le 15 avril 2014 modifiant la Convention entre le Royaume de Belgique et le Royaume d'Espagne tendant à éviter les doubles impositions et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Bruxelles le 14 juin 1995, tels que modifiés par l'avenant fait à Madrid le 22 juin 2000 et par l'avenant fait à Bruxelles le 2 décembre 2009

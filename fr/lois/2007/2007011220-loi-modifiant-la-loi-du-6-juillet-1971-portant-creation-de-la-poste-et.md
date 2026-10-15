@@ -12,7 +12,7 @@ entry_into_force: 2007-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/01/2007011220/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2007. - Loi modifiant la loi du 6 juillet 1971 portant création de LA POSTE et modifiant la loi du 26 décembre 1956 sur le Service des Postes.

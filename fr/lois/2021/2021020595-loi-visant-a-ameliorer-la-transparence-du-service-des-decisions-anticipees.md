@@ -12,7 +12,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/16/2021020595/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2021. - Loi visant à améliorer la transparence du Service des Décisions anticipées

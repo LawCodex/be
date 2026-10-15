@@ -13,7 +13,7 @@ entry_into_force: 2019-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/05/2019011840/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2019. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 25 januari 2019 betreffende het tijdelijk project 'Leerlingenvervoer buitengewoon onderwijs'

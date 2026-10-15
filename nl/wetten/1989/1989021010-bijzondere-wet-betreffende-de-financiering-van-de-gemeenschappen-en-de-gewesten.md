@@ -16,7 +16,7 @@ department: "Eerste Minister"
 justel_notes:
   - "art. 3, 4, 5 en 11, 2° gewijzigd met ingang op een onbepaalde datum bij W 2013-12-26/12 , art. 3, 4, 5 en 6, 2°; Inwerkingtreding : vanaf de beëindiging van de heffing van het gebruiksrecht bedoeld in artikel 17, 2°, van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, en ten vroegste op 1 januari 2016."
   - "Raadpleging van vroegere versies vanaf 20-07-1993 en tekstbijwerking tot 15-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 1989. - Bijzondere wet betreffende de financiering van de Gemeenschappen en de Gewesten.

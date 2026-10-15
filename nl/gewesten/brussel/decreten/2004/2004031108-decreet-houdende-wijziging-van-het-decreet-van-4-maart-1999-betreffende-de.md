@@ -13,7 +13,7 @@ entry_into_force: 2004-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/02/05/2004031108/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2004. - Decreet houdende wijziging van het decreet van 4 maart 1999 betreffende de sociale integratie van de gehandicapten en hun inschakeling in het arbeidsproces (VERTALING)

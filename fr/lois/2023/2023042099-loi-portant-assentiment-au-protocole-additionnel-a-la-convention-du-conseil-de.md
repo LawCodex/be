@@ -12,7 +12,7 @@ entry_into_force: 2023-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023042099/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi portant assentiment au Protocole additionnel à la Convention du Conseil de l'Europe pour la prévention du terrorisme, fait à Riga le 22 octobre 2015

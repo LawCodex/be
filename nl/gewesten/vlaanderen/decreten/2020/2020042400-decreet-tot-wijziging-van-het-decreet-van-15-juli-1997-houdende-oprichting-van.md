@@ -12,7 +12,7 @@ published: 2020-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/10/2020042400/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2020. - Decreet tot wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren, wat het beveiligend verblijf en de benaming van de Commissie van toezicht betreft

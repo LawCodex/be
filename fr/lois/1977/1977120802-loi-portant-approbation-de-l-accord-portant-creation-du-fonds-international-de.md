@@ -11,7 +11,7 @@ published: 1978-02-16
 entry_into_force: 1978-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/12/08/1977120802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 1977. - Loi portant approbation de l'accord portant création du Fonds international de développement agricole, et des Annexes 1 et 2, Faits à Rome le 13 juin 1976.

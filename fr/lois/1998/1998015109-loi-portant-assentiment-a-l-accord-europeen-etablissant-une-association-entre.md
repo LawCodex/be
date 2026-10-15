@@ -12,7 +12,7 @@ entry_into_force: 1998-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/09/1998015109/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1998. - Loi portant assentiment à l'Accord européen établissant une association entre les Communautés européennes et leurs Etats-membres agissant dans le cadre de l'Union européenne, d'une part, et la République de Slovénie, d'autre part, annexes I, II, III, IV, V, VI, VII, VIIIa, VIIIb, IXa, IXb, IXc, X, XI, XII et XIII, protocoles 1, 2, 3, 4, 5 et 6, et Acte final, faits à Luxembourg le 10 juin 1996.

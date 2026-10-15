@@ -13,7 +13,7 @@ entry_into_force: 2003-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/01/16/2003031232/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2003. - Decreet tot wijziging van de wet van 21 april 1965 houdende het statuut van de reisbureaus. (Vertaling).

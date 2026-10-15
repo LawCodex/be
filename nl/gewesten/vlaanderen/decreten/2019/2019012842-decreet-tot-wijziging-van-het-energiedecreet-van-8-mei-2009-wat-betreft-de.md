@@ -13,7 +13,7 @@ entry_into_force: 2019-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/26/2019012842/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2019. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de uitrol van digitale meters en tot wijziging van artikel 7.1.1, 7.1.2 en 7.1.5 van hetzelfde decreet

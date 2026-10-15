@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007029258/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-09-2007 et mise à jour au 02-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Décret créant le "Bureau international Jeunesse" au sein du Commissariat général aux Relations internationales

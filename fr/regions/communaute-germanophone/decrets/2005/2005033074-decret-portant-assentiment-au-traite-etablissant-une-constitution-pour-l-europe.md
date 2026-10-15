@@ -13,7 +13,7 @@ entry_into_force: 2005-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/20/2005033074/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2005. - Décret portant assentiment au traité établissant une Constitution pour l'Europe, aux Protocoles annexés au Traité établissant une Constitution pour l'Europe, à ses annexes et à l'Acte final, faits à Rome le 29 octobre 2004 (TRADUCTION).

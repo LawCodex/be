@@ -13,7 +13,7 @@ entry_into_force: 2013-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203916/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment 1° à la Convention entre le Royaume de Belgique et la République d'Autriche en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971, telle que modifiée par le Protocole et le Protocole additionnel du 10 septembre 2009, 2° au Protocole et au Protocole additionnel modifiant la Convention visée au 1°, les deux signés à Bruxelles le 10 septembre 2009

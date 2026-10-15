@@ -12,7 +12,7 @@ entry_into_force: 2017-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/09/07/2017204929/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2017. - Decreet houdende instemming met het Besluit van de Vertegenwoordigers van de Regeringen der lidstaten, in het kader van de Raad bijeen, van 28 april 2004, betreffende voorrechten en immuniteiten die aan ATHENA worden verleend

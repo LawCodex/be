@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/17/2004003213/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 27-05-2004 en tekstbijwerking tot 01-10-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2004. - Wet tot omzetting in het Belgisch recht van de richtlijn 2003/48/EG van 3 juni 2003 van de Raad van de Europese Unie betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetaling en tot wijziging van het Wetboek van de inkomstenbelastingen 1992 inzake de roerende voorheffing.

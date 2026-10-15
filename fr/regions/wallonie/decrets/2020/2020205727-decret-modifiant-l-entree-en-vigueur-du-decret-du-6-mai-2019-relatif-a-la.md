@@ -13,7 +13,7 @@ entry_into_force: 2020-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/17/2020205727/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2020. - Décret modifiant l'entrée en vigueur du décret du 6 mai 2019 relatif à la délinquance environnementale

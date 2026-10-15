@@ -12,7 +12,7 @@ entry_into_force: 2008-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/18/2008009607/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2008. - Loi modifiant le Code judiciaire en ce qui concerne la procédure relative aux litiges en matière de louage. &lt;remplacé par erratum publié au M.B. 11-08-2008, p. 41585&gt;

@@ -11,7 +11,7 @@ date: 2014-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/24/2014031913/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Decreet houdende instemming met het samenwerkingsakkoord, gesloten tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie, betreffende de uitvoering van regio's voor Kwalificerend Onderwijs - Vorming - Tewerkstelling, opgemaakt te Brussel op 20 maart 2014

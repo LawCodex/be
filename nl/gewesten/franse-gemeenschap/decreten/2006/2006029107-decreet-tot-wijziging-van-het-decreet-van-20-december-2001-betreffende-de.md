@@ -12,7 +12,7 @@ published: 2006-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/20/2006029107/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2006. - Decreet tot wijziging van het decreet van 20 december 2001 betreffende de gezondheidspromotie op school en het decreet van 16 mei 2002 betreffende de gezondheidspromotie in het hoger onderwijs buiten de universiteit (VERTALING).

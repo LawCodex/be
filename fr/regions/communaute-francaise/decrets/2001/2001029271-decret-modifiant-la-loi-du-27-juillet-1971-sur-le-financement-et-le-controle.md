@@ -13,7 +13,7 @@ entry_into_force: 2001-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/14/2001029271/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2001. - Décret modifiant la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/25/2024004155/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 02-05-2024 et mise à jour au 30-04-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Ordonnance modifiant le Code bruxellois du Logement et le Code des droits d'enregistrement, d'hypothèque et de greffe en vue d'organiser l'enregistrement régional des baux d'habitation

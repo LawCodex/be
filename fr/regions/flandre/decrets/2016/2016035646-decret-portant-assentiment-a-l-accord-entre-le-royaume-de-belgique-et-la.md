@@ -13,7 +13,7 @@ entry_into_force: 2016-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/18/2016035646/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2016. - Décret portant assentiment à l'accord entre le Royaume de Belgique et la République de Colombie sur l'exercice d'activités à but lucratif des personnes à charge des agents diplomatiques et consulaires, signé à Bogota le 25 août 2015

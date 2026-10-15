@@ -13,7 +13,7 @@ entry_into_force: 2014-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/23/2014200877/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2014. - Décret modifiant le décret du 6 mars 2009 modifiant le Chapitre II, du Titre III, du Livre II, de la première partie du Code de la démocratie locale et de la décentralisation relatif aux funérailles et sépultures

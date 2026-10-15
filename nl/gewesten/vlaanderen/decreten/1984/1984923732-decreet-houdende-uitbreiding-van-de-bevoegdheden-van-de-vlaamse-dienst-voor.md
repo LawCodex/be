@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1984/03/20/1984923732/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-1985 en tekstbijwerking tot 07-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 1984. - Decreet houdende uitbreiding van de bevoegdheden van de Vlaamse Dienst voor Arbeidsbemiddeling.

@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/24/2021043634/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2021. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune modifiant l'ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune du 27 juillet 2017 fixant les règles de répartition de la dotation générale aux communes et aux CPAS de la Région de Bruxelles-Capitale à partir de l'année 2017

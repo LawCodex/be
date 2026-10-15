@@ -13,7 +13,7 @@ entry_into_force: 2013-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/31/2013200794/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2013. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en het Koninkrijk Marokko betreffende het internationaal vervoer over de weg van personen en goederen en met het Protocol opgemaakt krachtens artikel 22 van dit akkoord, ondertekend te Rabat, op 14 juli 1997

@@ -13,7 +13,7 @@ entry_into_force: 2024-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/29/2024203999/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2024. - Décret modifiant le décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination en vue d'y instaurer les tests de situation

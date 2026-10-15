@@ -12,7 +12,7 @@ published: 1997-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/14/1997029327/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1997. - Decreet tot wijziging van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving.

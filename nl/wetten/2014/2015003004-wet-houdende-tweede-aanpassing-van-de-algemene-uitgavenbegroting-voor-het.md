@@ -12,7 +12,7 @@ entry_into_force: 2015-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/12/19/2015003004/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2014. - Wet houdende tweede aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2014

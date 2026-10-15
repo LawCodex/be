@@ -12,7 +12,7 @@ entry_into_force: 2022-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/23/2021043626/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Loi introduisant le parquet de la sécurité routière et portant des dispositions diverses en matière d'organisation judiciaire et de justice

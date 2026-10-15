@@ -13,7 +13,7 @@ entry_into_force: 1990-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/06/18/1990027873/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1990. - Decreet houdende regeling van het toezicht over de Franse Gemeenschapscommissie. (Vertaling).

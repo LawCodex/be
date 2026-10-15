@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/23/2000021259/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2000. - Loi fixant les critères visés à l'article 39, § 2, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions.

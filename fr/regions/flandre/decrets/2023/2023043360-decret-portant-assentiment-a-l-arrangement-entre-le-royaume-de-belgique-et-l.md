@@ -13,7 +13,7 @@ entry_into_force: 2023-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/23/2023043360/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2023. - Décret portant assentiment à l'Arrangement entre le Royaume de Belgique et l'Organisation du Traité de l'Atlantique Nord concernant le statut du personnel temporaire engagé par, et mis en fonction dans un organisme de l'OTAN situé sur le territoire du Royaume de Belgique, signé à Bruxelles le 7 février 2022

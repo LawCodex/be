@@ -12,7 +12,7 @@ entry_into_force: 2019-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/07/2019013277/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2019. - Wet tot aanpassing van verschillende wettelijke bepalingen ingevolge de overdracht van bepaalde bevoegdheden van de Federale Overheidsdienst Sociale Zekerheid naar het Rijksinstituut voor de sociale verzekeringen der zelfstandigen en houdende bepaalde terminologische aanpassingen

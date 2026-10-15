@@ -12,7 +12,7 @@ published: 2006-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006036280/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende instemming met het verdrag inzake het merken van kneed- en bladspringstoffen ten behoeve van de opsporing ervan, opgemaakt in Montreal op 1 maart 1991.

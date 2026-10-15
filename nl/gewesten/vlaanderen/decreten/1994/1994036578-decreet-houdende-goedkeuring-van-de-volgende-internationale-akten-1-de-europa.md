@@ -13,7 +13,7 @@ entry_into_force: 1995-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/23/1994036578/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 1994. - DECREET houdende goedkeuring van de volgende internationale akten : 1. de Europa-overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lid-staten, enerzijds, en de Tsjechische Republiek, anderzijds, Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc en XVII, Protocollen 1, 2, 3, 4, 5, 6, 7 en 8, en Slotakte, ondertekend te Luxemburg op 4 oktober 1993; 2. de Europa-overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lid-staten, enerzijds, en de Slowaakse Republiek, anderzijds, Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc en XVII, Protocollen 1, 2, 3, 4, 5, 6, 7 en 8, en Slotakte, ondertekend te Luxemburg op 4 oktober 1993

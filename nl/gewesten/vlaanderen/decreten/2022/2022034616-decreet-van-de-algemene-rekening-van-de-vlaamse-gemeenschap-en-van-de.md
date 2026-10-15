@@ -13,7 +13,7 @@ entry_into_force: 2023-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/25/2022034616/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2022. - Decreet van de algemene rekening van de Vlaamse Gemeenschap en van de rekeningen van de rechtspersonen onder het gezag van de Vlaamse Regering voor het begrotingsjaar 2021

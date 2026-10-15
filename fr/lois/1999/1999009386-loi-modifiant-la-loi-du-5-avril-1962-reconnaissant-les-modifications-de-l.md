@@ -12,7 +12,7 @@ entry_into_force: 1999-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/10/1999009386/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1999. - Loi modifiant la loi du 5 avril 1962 reconnaissant les modifications de l'archevêché de Malines et la création de [l'évêché d'Anvers], la loi du 4 mars 1870 sur le temporel des cultes et le décret impérial du 30 décembre 1809 concernant les fabriques des églises. (Err. M.B. 02-07-1999, p. 24964)

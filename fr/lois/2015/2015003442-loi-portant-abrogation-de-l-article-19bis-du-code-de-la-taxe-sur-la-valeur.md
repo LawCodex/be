@@ -12,7 +12,7 @@ entry_into_force: 2015-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/06/2015003442/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2015. - Loi portant abrogation de l'article 19bis du Code de la taxe sur la valeur ajoutée

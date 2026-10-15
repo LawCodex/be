@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/01/29/2016009078/justel"
 department: "Justitie"
 justel_note: "bij arrest nr.76/2018 van 21-06-2018 (B.St. 02-07-2018, p. 53419), heeft het Grondwettelijk Hof dit wet vernietigd"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2016. - Wet betreffende het gebruik van videoconferentie voor de verschijning van inverdenkinggestelden in voorlopige hechtenis

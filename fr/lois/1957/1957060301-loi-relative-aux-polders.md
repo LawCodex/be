@@ -13,7 +13,7 @@ last_amended: 2015-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1957/06/03/1957060301/justel"
 justel_note: "Consultation des versions antérieures à partir du 14-11-2003 et mise à jour au 29-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1957. - Loi relative aux polders.

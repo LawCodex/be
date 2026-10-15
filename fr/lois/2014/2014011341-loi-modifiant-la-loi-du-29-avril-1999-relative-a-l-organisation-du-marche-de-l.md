@@ -12,7 +12,7 @@ entry_into_force: 2014-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014011341/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité en ce qui concerne la procédure d'appel d'offres pour l'établissement de nouvelles installations de production d'électricité et le financement de mesures relatives à la production d'électricité et modifiant la loi organique du 27 décembre 1990 créant des fonds budgétaires

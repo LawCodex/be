@@ -12,7 +12,7 @@ entry_into_force: 2021-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019041776/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2019. - Wet houdende instemming met het Protocol bij de Conventie over gedwongen arbeid van 1930, aangenomen te Genève op 11 juni 2014 door de algemene conferentie van de Internationale Arbeidsorganisatie tijdens haar 103 de zitting

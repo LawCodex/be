@@ -12,7 +12,7 @@ entry_into_force: 2020-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/28/2019015154/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2019. - Wet tot wijziging van de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties

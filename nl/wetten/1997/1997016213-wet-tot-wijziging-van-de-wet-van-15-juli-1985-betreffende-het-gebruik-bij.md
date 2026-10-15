@@ -12,7 +12,7 @@ entry_into_force: 1997-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/03/17/1997016213/justel"
 department: "Middenstand - Landbouw - Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1997. - Wet tot wijziging van de wet van 15 juli 1985 betreffende het gebruik bij dieren van stoffen met hormonale, anti-hormonale, beta-adrenergische of productiestimulerende werking.

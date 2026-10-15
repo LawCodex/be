@@ -13,7 +13,7 @@ entry_into_force: 2002-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/12/2002028188/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2002. - Décret modifiant le décret du 30 avril 1990 instituant une taxe sur le déversement des eaux usées industrielles et domestiques. (Ce décret est remplacé par un erratum publié le 10-09-2003, p. 45528 à 45530)

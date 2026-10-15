@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/26/2024003970/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 05-06-2024 en tekstbijwerking tot 26-05-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Wet van 26 april 2024 houdende de verzekering van de bevoorradingszekerheid op het gebied van energie en de hervorming van de sector van de nucleaire energie

@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/07/09/1969070907/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2006 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1969. - Loi modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public.

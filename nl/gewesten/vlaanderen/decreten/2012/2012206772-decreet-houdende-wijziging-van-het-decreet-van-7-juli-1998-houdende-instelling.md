@@ -13,7 +13,7 @@ entry_into_force: 2012-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/09/2012206772/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2012. - DECREET houdende wijziging van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst

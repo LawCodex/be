@@ -12,7 +12,7 @@ published: 2011-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/10/13/2011205407/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2011. - Decreet houdende instemming met het Protocol tot wijziging van het aan het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie gehechte Protocol betreffende de overgangsbepalingen, aangenomen op 23 juni 2010

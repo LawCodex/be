@@ -10,7 +10,7 @@ date: 2012-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012011348/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot wijziging van artikel 3, § 1, 3°, van de wet van 12 juni 1991 op het consumentenkrediet

@@ -13,7 +13,7 @@ entry_into_force: 2021-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/22/2021042614/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2021. - Ordonnance prolongeant certains délais de l'ordonnance organique de revitalisation urbaine du 6 octobre 2016

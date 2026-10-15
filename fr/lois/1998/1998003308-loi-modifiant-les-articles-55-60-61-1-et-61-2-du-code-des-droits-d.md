@@ -12,7 +12,7 @@ entry_into_force: 1998-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/19/1998003308/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1998. - Loi modifiant les articles 55, 60, 61.1. et 61.2. du Code des droits d'enregistrement, d'hypothèque et de greffe.

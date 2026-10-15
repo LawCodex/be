@@ -12,7 +12,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002003391/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 2002. - Loi complétant, en ce qui concerne les voies de recours contre les décisions prises par le ministre, par la CBF, par l'OCA et par les entreprises de marché et en ce qui concerne l'intervention de la CBF et de l'OCA devant les juridictions répressives, la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers et modifiant diverses autres dispositions légales.

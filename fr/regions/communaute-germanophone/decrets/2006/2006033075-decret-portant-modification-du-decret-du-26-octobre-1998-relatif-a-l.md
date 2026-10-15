@@ -13,7 +13,7 @@ entry_into_force: 2006-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/26/2006033075/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2006. - Décret portant modification du décret du 26 octobre 1998 relatif à l'introduction de la nouvelle orthographe allemande (TRADUCTION).

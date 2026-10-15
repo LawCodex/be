@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/03/1999021210/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 04-05-1999 et mis à jour au 10-09-1999"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 1999. - Loi portant des dispositions budgétaires et diverses.

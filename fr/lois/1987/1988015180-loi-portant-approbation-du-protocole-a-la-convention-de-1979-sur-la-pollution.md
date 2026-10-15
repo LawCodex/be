@@ -12,7 +12,7 @@ entry_into_force: 1988-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/07/14/1988015180/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1987. - Loi portant approbation du Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif au financement à long terme du Programme concerté de surveillance continue et d'évaluation du transport à longue distance des polluants atmosphériques en Europe (E.M.E.P.), fait à Genève le 28 septembre 1984.

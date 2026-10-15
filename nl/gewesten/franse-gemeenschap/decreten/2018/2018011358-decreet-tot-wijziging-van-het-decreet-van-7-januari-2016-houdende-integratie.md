@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/22/2018011358/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2018. - Decreet tot wijziging van het decreet van 7 januari 2016 houdende integratie van de genderdimensie in het geheel van de beleidslijnen van de Franse Gemeenschap om de "gendertest" toegankelijk te maken voor het Parlement

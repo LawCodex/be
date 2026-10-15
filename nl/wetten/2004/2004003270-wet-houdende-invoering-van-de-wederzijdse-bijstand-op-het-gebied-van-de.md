@@ -12,7 +12,7 @@ entry_into_force: 2004-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/17/2004003270/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2004. - Wet houdende invoering van de wederzijdse bijstand op het gebied van de jaarlijkse taks op de verzekeringscontracten in het Wetboek der met het zegel gelijkgestelde taksen.

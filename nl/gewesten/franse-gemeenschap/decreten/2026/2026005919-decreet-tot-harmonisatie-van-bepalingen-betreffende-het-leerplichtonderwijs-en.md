@@ -12,7 +12,7 @@ published: 2026-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026005919/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet tot harmonisatie van bepalingen betreffende het leerplichtonderwijs en het hoger onderwijs met het nieuwe strafwetboek van 29 februari 2024

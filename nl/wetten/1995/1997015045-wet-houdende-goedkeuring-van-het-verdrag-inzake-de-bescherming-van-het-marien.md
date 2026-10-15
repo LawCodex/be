@@ -12,7 +12,7 @@ entry_into_force: 1996-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/11/1997015045/justel"
 department: "Binnenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1995. - Wet houdende goedkeuring van het Verdrag inzake de bescherming van het marien milieu van de Noordoostelijke Atlantische Oceaan, Bijlagen I, II, III en IV, en de Aanhangsels 1 en 2, gedaan te Parijs op 22 september 1992.

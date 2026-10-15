@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/04/21/2008033056/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 11-07-2008 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2008. - Décret portant valorisation du métier d'enseignant (TRADUCTION)

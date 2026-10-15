@@ -12,7 +12,7 @@ entry_into_force: 2024-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/14/2024205666/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2024. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Kosovo inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, gedaan te Brussel op 17 juni 2022

@@ -13,7 +13,7 @@ entry_into_force: 1999-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/09/1999035262/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1999. - Decreet houdende instemming met de volgende internationale akten : 1. het zetelakkoord tussen het Koninkrijk België en het Europees Ruimte-Agentschap, ondertekend in Parijs op 26 januari 1993; 2. het zetelakkoord tussen het Koninkrijk België en de Europese Vrijhandelsassociatie, ondertekend in Brussel op 27 januari 1993; 3. het zetelakkoord tussen het Koninkrijk België en de groep van Staten in Afrika, het Caraïbisch gebied en de Stille Zuidzee en de uitgewisselde brieven, ondertekend in Brussel op 26 april 1993; 4. het zetelakkoord tussen het Koninkrijk België en de Samenwerkingsraad van de Arabische Golfstaten, ondertekend in Brussel op 11 mei 1993; 5. het zetelakkoord tussen het Koninkrijk België en de Toezichthoudende Autoriteit van de Europese Vrijhandelsassociatie, ondertekend in Brussel op 22 december 1994 en de uitgewisselde brieven, ondertekend in Brussel op 6 en 8 januari 1997; 6. het zetelakkoord tussen het Koninkrijk België en de Conferentie van het Energiehandvest, ondertekend in Brussel op 26 oktober 1995; 7. het zetelakkoord tussen het Koninkrijk België en de Liga van de Arabische Staten, ondertekend in Brussel op 16 november 1995; 8. het zetelakkoord tussen het Koninkrijk België en het Agentschap voor Culturele en Technische Samenwerking, ondertekend in Brussel op 16 november 1995.

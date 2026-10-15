@@ -12,7 +12,7 @@ entry_into_force: 1995-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/05/1995000224/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse Instellingen.

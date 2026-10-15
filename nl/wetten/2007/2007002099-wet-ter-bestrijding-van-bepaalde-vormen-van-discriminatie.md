@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/10/2007002099/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-2007 en tekstbijwerking tot 13-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2007. - Wet ter bestrijding van bepaalde vormen van discriminatie

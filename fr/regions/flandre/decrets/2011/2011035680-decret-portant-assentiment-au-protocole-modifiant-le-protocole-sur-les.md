@@ -13,7 +13,7 @@ entry_into_force: 2011-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/15/2011035680/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2011. - Décret portant assentiment au protocole modifiant le protocole sur les dispositions transitoires annexé au traité sur l'Union européenne, au traité sur le fonctionnement de l'Union européenne et au traité instituant la Communauté européenne de l'Energie atomique, signé à Bruxelles le 23 juin 2010

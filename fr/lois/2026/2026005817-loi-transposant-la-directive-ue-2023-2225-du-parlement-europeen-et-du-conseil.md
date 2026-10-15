@@ -12,7 +12,7 @@ entry_into_force: 2026-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/20/2026005817/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2026. - Loi transposant la directive (UE) 2023/2225 du Parlement européen et du Conseil du 18 octobre 2023 relative aux contrats de crédit aux consommateurs et abrogeant la directive 2008/48/CE et modifiant certaines dispositions du Code de droit économique

@@ -10,7 +10,7 @@ date: 2021-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/16/2021032575/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2021. - Wet tot wijziging van het Belgisch Scheepvaartwetboek

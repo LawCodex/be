@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/23/2023043879/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-08-2023 et mise à jour au 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2023. - Décret portant subventionnement structurel des organisations clé pour mener le processus de transformation numérique du secteur culturel

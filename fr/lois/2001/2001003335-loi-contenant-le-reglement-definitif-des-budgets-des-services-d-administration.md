@@ -12,7 +12,7 @@ entry_into_force: 2001-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/05/15/2001003335/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2001. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat pour l'année 1994.

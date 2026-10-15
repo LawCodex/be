@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/01/12/1989021006/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 12-05-1989 et mise à jour au 08-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 1989. - Loi spéciale relative aux Institutions bruxelloises.

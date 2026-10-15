@@ -12,7 +12,7 @@ published: 2003-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/27/2003029187/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2003. - Décret portant assentiment à l'accord de coopération du 19 juin 2001 en matière de pratique du sport dans le respect des impératifs de santé, conclu entre la Communauté française, la Communauté flamande, la Communauté germanophone et la Commission communautaire commune.

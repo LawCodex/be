@@ -12,7 +12,7 @@ entry_into_force: 2022-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/03/25/2022A31260/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2015. - Verdrag van de Raad van Europa tegen de handel in menselijke organen

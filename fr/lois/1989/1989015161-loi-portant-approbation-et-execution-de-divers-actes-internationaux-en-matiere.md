@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/04/11/1989015161/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 12-03-1999 et mise à jour au 06-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1989. - Loi portant approbation et exécution de divers Actes internationaux en matière de navigation maritime.

@@ -16,7 +16,7 @@ department: "Emploi et Travail"
 justel_notes:
   - "art. 51, 52, 56 et 89 modifiés avec effet à une date indéterminée par L 2005-12-23/30 , art. 42 à 45, 002; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 09-08-2002 et mise à jour au 31-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2002. - Loi relative aux fermetures d'entreprises.

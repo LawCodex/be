@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013011417/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "par son arrêt n° 84/2015 du 11-06-2015 (M.B. 11-08-2015, p. 50977), la Cour constitutionnelle a annulé la présente loi."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2013. - Loi portant modification des articles 2, 126 et 145 de la loi du 13 juin 2005 relative aux communications électroniques et de l'article 90decies du Code d'instruction criminelle

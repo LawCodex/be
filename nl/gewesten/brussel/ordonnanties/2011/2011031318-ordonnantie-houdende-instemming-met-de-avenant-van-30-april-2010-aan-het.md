@@ -13,7 +13,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/06/09/2011031318/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2011. - Ordonnantie houdende instemming met de avenant van 30 april 2010 aan het samenwerkingsakkoord van 30 mei 2005 tussen de federale Staat, het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie

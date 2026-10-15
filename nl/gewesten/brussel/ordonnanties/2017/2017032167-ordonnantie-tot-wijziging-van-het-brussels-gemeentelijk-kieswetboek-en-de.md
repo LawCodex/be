@@ -13,7 +13,7 @@ entry_into_force: 2018-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/15/2017032167/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2017. - Ordonnantie tot wijziging van het Brussels Gemeentelijk Kieswetboek en de ordonnantie van 12 juli 2012 houdende de organisatie van de elektronische stemming voor de gemeenteraadsverkiezingen

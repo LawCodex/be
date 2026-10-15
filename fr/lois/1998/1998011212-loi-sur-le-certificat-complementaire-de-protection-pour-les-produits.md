@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/05/1998011212/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 28-08-1998 et mise à jour au 11-09-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1998. - Loi sur le certificat complémentaire de protection pour les produits phytopharmaceutiques.

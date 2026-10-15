@@ -13,7 +13,7 @@ entry_into_force: 2026-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/04/2026004372/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2026. - Decreet tot wijziging van de artikelen 3, 4, 8 en 8/1 van het decreet van 28 april 2016 Lening "Coup de Pouce"

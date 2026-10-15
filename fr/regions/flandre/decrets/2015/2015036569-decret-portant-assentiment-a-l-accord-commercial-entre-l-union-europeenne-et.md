@@ -13,7 +13,7 @@ entry_into_force: 2015-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/27/2015036569/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2015. - Décret portant assentiment à l'accord commercial entre l'Union européenne et ses Etats membres, d'une part, et la Colombie et le Pérou, d'autre part, signé à Bruxelles le 26 juin 2012

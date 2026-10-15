@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/28/2024002950/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 29-03-2024 et mise à jour au 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2024. - Loi portant dispositions en matière de digitalisation de la justice et dispositions diverses Ibis

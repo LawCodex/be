@@ -10,7 +10,7 @@ date: 2013-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/19/2013015193/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2013. - Wet houdende instemming met de Partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Irak, anderzijds, gedaan te Brussel op 11 mei 2012

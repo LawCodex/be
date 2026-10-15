@@ -11,7 +11,7 @@ entry_into_force: 2015-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/09/2015000710/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2015. - Wet houdende diverse bepalingen Binnenlandse Zaken

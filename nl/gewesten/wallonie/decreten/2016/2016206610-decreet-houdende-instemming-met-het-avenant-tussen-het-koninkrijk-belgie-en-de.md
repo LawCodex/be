@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206610/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met het Avenant tussen het Koninkrijk België en de Zwitserse Bondsstaat tot wijziging van de Overeenkomst van 28 augustus 1978 tussen het Koninkrijk België en de Zwitserse Bondsstaat tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 10 april 2014

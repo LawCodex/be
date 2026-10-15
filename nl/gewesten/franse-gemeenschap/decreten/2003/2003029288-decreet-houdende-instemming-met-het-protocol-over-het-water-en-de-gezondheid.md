@@ -13,7 +13,7 @@ entry_into_force: 2003-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/08/2003029288/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Decreet houdende instemming met het Protocol over het water en de gezondheid bij de Overeenkomst van 1992 over de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, gedaan te Londen op 17 juni 1999 (VERTALING).

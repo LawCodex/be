@@ -12,7 +12,7 @@ entry_into_force: 2016-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/23/2008015116/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2008. - Loi portant assentiment aux actes internationaux suivants : l'Avenant n° 5 entre le Gouvernement de la République française et le Gouvernement du Royaume de Belgique concernant l'exécution en commun d'un programme d'observation de la terre, et annexe, et l'Amendement n° 1 à l'Avenant n° 4 entre le Gouvernement de la République française et le Gouvernement du Royaume de Belgique concernant l'exécution en commun d'un programme d'observation de la terre, faits à Paris le 21 juin 2001

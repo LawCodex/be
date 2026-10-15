@@ -13,7 +13,7 @@ entry_into_force: 2011-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/14/2011203903/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2011. - Décret confirmant l'arrêté du Gouvernement wallon du 26 mai 2011 modifiant le décret du 17 janvier 2008 portant création d'un éco-bonus sur les émissions de CO 2 par les véhicules automobiles des personnes physiques

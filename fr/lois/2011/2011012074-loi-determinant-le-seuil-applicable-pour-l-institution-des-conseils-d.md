@@ -12,7 +12,7 @@ entry_into_force: 2011-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/28/2011012074/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 2011. - Loi déterminant le seuil applicable pour l'institution des conseils d'entreprise ou le renouvellement de leurs membres à l'occasion des élections sociales de l'année 2012

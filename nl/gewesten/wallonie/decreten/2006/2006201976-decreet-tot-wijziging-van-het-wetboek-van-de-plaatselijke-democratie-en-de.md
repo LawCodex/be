@@ -13,7 +13,7 @@ entry_into_force: 2006-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/08/2006201976/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2006. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie (VERTALING).

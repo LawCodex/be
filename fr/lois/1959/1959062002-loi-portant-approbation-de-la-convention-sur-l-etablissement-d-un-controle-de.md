@@ -12,7 +12,7 @@ entry_into_force: 1959-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1959/06/20/1959062002/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1959. - Loi portant approbation de la Convention sur l'établissement d'un contrôle de sécurité dans le domaine de l'énergie nucléaire, de l'Annexe et du Protocole relatif au tribunal créé par cette Convention, signés à Paris, le 20 décembre 1957.

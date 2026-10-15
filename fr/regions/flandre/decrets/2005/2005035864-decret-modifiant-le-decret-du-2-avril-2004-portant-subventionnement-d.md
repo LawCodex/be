@@ -13,7 +13,7 @@ entry_into_force: 2004-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/03/2005035864/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2005. - Décret modifiant le décret du 2 avril 2004 portant subventionnement d'organisations artistiques, d'artistes, d'organisations d'éducation artistique et d'activités socio-artistiques, d'initiatives internationales, de publications et de points d'appui. (Traduction).

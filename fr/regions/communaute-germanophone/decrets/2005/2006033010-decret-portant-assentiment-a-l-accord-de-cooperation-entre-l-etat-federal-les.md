@@ -13,7 +13,7 @@ entry_into_force: 2006-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/21/2006033010/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2005. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, les Régions et la Communauté germanophone relatif à l'Economie plurielle (TRADUCTION).

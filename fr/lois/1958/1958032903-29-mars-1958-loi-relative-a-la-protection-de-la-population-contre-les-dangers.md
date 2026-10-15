@@ -11,7 +11,7 @@ published: 1958-04-30
 entry_into_force: 1958-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/03/29/1958032903/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 1958. \_ Loi relative à la protection de la population contre les dangers résultant des radiations ionisantes.

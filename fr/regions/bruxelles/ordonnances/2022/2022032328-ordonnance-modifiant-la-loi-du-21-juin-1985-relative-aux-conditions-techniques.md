@@ -13,7 +13,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/06/01/2022032328/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2022. - Ordonnance modifiant la loi du 21 juin 1985 relative aux conditions techniques auxquelles doivent répondre tout véhicule de transport par terre, ses éléments ainsi que les accessoires de sécurité

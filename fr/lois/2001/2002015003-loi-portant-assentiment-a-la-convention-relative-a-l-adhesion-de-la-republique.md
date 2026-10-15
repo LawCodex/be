@@ -12,7 +12,7 @@ entry_into_force: 2002-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2002015003/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi portant assentiment à la Convention relative à l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à la Convention relative à l'élimination des doubles impositions en cas de correction des bénéfices d'entreprises associées, et au procès-verbal de signature, faits à Bruxelles le 21 décembre 1995.

@@ -13,7 +13,7 @@ entry_into_force: 2001-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/23/2001035417/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2001. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot regeling van het scheepvaartverkeer en van de recreatie op de gemeenschappelijke Maas, ondertekend te Brussel op 6 januari 1993, en met het bijgevoegde Scheepvaartreglement Gemeenschappelijke Maas met de bijlagen I, II en III.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/14/2005009962/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-2005 en tekstbijwerking tot 08-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2005. - Wet houdende afschaffing van de effecten aan toonder. &lt;Erratum, B.S. 06.02.2006, p. 6111-6119&gt;

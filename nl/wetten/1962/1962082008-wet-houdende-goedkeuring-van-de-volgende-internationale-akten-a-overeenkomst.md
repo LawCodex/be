@@ -9,7 +9,7 @@ language: nl
 date: 1962-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/08/20/1962082008/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 1962. - Wet houdende goedkeuring van de volgende internationale akten : a) Overeenkomst betreffende de postcolli en slotprotocol, uitvoeringsreglement, slotprotocol en bijlagen; b) Overeenkomst betreffende de internationale spaardienst, uitvoeringsreglement en bijlagen, ondertekend op 3 oktober 1957, te Ottawa, en houdende wijziging van de wet van 26 december 1956 op de postdienst.

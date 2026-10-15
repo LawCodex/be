@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/15/2022043033/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-01-2023 en tekstbijwerking tot 11-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2022. - Ordonnantie tot wijziging van de ordonnantie van 24 april 2008 betreffende de voorzieningen voor opvang of huisvesting van bejaarde personen

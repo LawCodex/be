@@ -13,7 +13,7 @@ entry_into_force: 1997-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997029041/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Décret contenant le deuxième ajustement du budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1996.

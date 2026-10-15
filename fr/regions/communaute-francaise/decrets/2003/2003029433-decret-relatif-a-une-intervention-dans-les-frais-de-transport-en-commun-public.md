@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029433/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2003 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret relatif à une intervention dans les frais de transport en commun public et/ou dans l'utilisation de la bicyclette des membres du personnel.

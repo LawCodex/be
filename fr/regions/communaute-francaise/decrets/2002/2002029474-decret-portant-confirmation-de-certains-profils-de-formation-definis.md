@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029474/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-11-2002 et mise à jour au 16-06-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Décret portant confirmation de certains profils de formation définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.

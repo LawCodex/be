@@ -12,7 +12,7 @@ entry_into_force: 2002-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/26/2002011305/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2002. - Wet tot regeling van de bijzondere rechten verbonden aan de bijzondere aandelen ten voordele van de Staat in de NV Distrigas en de NV Fluxys.

@@ -13,7 +13,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/27/1999031259/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 1999. - Decreet betreffende de erkenning en de subsidiëring van de Opleidingscentra voor gezinsbijstand (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/01/2018011265/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2018. - Décret concernant certains aspects de la comptabilité des Centres de dépaysement et de plein air de la Communauté française, du Centre technique et pédagogique de la Communauté française et du Centres technique de la Communauté française de Strée et Gembloux

@@ -12,7 +12,7 @@ entry_into_force: 2007-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/02/2007200950/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2007. - Loi portant assentiment à l'accord de coopération du 1er juin 2006 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale modifiant l'accord de coopération du 21 juin 1999 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses.

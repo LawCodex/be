@@ -13,7 +13,7 @@ entry_into_force: 2023-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/01/26/2023015286/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2023. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Communauté flamande, la Région flamande, la Région wallonne, la Région de Bruxelles-capitale, la Communauté française et la Communauté germanophone relatif à l'utilisation de la facilite, la reprise et la résilience

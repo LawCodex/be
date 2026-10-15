@@ -13,7 +13,7 @@ entry_into_force: 2023-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/30/2023030965/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2023. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française du 20 mai 2021 déterminant les compétences terminales et savoirs requis en informatique a l'issue du deuxième degré de la section de transition et a l'issue de la section de transition et modifiant des dispositions relatives à la procédure de dérogation prévue à l'article 1.4.4-6 du Code de l'enseignement fondamental et de l'enseignement secondaire

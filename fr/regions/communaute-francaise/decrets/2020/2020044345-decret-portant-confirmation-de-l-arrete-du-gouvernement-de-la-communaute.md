@@ -13,7 +13,7 @@ entry_into_force: 2020-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2020044345/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 26 du 11 juin 2020 relatif à l'introduction des demandes d'inscription des étudiants non-résidents en vue de l'année académique 2020-2021

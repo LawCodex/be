@@ -12,7 +12,7 @@ entry_into_force: 2006-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/22/2006011087/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2006. - Loi modifiant la loi du 25 juin 1992 sur le contrat d'assurance terrestre et la loi du 27 mars 1995 relative à l'intermédiation en assurances et à la distribution d'assurances.

@@ -13,7 +13,7 @@ entry_into_force: 2000-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/08/2000035813/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2000. - Decreet houdende wijziging van artikel 3 van het decreet van 17 maart 1998 houdende regeling van het recht op vrije nieuwsgaring en de uitzending van korte berichtgeving door de omroepen.

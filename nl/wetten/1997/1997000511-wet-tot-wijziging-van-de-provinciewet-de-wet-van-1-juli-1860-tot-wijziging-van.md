@@ -12,7 +12,7 @@ entry_into_force: 1997-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/25/1997000511/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1997. - Wet tot wijziging van de provinciewet, de wet van 1 juli 1860 tot wijziging van de provinciewet en de gemeentewet wat betreft de eedaflegging en de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen.

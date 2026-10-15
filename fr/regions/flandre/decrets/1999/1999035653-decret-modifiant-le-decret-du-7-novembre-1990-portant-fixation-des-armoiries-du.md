@@ -13,7 +13,7 @@ entry_into_force: 1999-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035653/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret modifiant le décret du 7 novembre 1990 portant fixation des armoiries, du drapeau, de l'hymne et du jour de fête de la Communauté flamande (TRADUCTION).

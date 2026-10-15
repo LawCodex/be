@@ -13,7 +13,7 @@ entry_into_force: 2007-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/09/2007037079/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2007. - Décret modifiant le décret du 28 juin 1985 relatif à l'autorisation anti-pollution (autorisation écologique) et du décret du 18 mai 1999 portant organisation de l'aménagement du territoire en ce qui concerne le rapport entre l'autorisation écologique et le permis de bâtir (TRADUCTION).

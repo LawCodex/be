@@ -13,7 +13,7 @@ entry_into_force: 2017-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/12/2017205402/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2017. - Decreet tot wijziging van sommige bepalingen van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn met het oog op de omkadering van het begrip "verhindering van de Voorzitter van de Raad voor Maatschappelijk Welzijn".

@@ -12,7 +12,7 @@ entry_into_force: 1995-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995007125/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet tot wijziging van de wet van 22 december 1989 betreffende het statuut van de dienstplichtigen.

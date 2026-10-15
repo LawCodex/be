@@ -12,7 +12,7 @@ entry_into_force: 2016-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/14/2015000786/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2015. - Wet tot wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten en op het Coördinatieorgaan voor de dreigingsanalyse wat betreft het mandaat van de plaatsvervangende leden van het Vast Comité van Toezicht op de politiediensten en het Vast Comité van Toezicht op de inlichtingendiensten

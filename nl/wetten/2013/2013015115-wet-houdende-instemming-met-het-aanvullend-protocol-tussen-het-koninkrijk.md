@@ -12,7 +12,7 @@ entry_into_force: 2005-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/03/2013015115/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2013. - Wet houdende instemming met het Aanvullend protocol tussen het Koninkrijk België en de Internationale Bank voor Wederopbouw en Ontwikkeling, ondertekend te Brussel op 28 februari 2005

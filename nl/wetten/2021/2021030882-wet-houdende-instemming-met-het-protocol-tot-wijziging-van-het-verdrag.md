@@ -12,7 +12,7 @@ entry_into_force: 2021-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/28/2021030882/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2021. - Wet houdende instemming met het Protocol tot wijziging van het Verdrag betreffende een Europees voertuig- en rijbewijsinformatiesysteem (EUCARIS) en de Gemeenschappelijke verklaring van de partijen, gedaan te Luxemburg op 8 juni 2017

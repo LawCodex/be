@@ -12,7 +12,7 @@ entry_into_force: 1997-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/20/1997002002/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1996. - Wet tot oprichting van een Centrale Commissie belast met het onderzoek van de concretisering van de niet voldane eisen van de oudstrijders en de oorlogsslachtoffers in functie van de budgettaire middelen.

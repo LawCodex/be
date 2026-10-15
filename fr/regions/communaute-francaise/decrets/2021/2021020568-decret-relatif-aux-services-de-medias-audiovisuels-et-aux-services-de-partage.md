@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/04/2021020568/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2021 et mise à jour au 16-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2021. - Décret relatif aux services de medias audiovisuels et aux services de partage de vidéos

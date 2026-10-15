@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/16/2026002199/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2026 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2026. - Wet tot verzwaring van de straffen inzake drugshandel, wapenhandel, criminele organisatie en witwassen, en tot harmonisatie van de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen, en de wet van 8 juni 2006 houdende regeling van economische en individuele activiteiten met wapens, met het Strafwetboek van 29 februari 2024

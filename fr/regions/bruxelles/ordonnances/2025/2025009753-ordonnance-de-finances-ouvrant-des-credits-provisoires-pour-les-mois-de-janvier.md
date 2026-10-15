@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/12/18/2025009753/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2026 et mise à jour au 03-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2025. - Ordonnance de finances ouvrant des crédits provisoires pour les mois de janvier, de février et de mars 2026 sur le budget de la Région de Bruxelles-Capitale pour l'année budgétaire 2026

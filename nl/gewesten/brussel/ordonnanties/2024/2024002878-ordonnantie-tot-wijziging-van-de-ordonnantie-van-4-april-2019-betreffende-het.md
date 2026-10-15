@@ -13,7 +13,7 @@ entry_into_force: 2024-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/03/21/2024002878/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Ordonnantie tot wijziging van de ordonnantie van 4 april 2019 betreffende het elektronisch uitwisselingsplatform voor gezondheidsgegevens

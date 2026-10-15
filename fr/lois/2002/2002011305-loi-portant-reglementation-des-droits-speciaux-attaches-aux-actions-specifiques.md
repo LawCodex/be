@@ -12,7 +12,7 @@ entry_into_force: 2002-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/26/2002011305/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2002. - Loi portant réglementation des droits spéciaux attachés aux actions spécifiques au profit de l'Etat dans la SA Distrigaz et la SA Fluxys.

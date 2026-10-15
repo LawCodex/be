@@ -12,7 +12,7 @@ entry_into_force: 2016-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/19/2016015036/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2016. - Wet houdende instemming met de Europese Overeenkomst inzake de afschaffing van legalisatie van stukken opgemaakt door diplomatieke of consulaire ambtenaren, gedaan te Londen op 7 juni 1968

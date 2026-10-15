@@ -13,7 +13,7 @@ entry_into_force: 2025-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/21/2025002467/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2025. - Décret modifiant l'article 201 du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne les émissions par réseaux de radiodiffusion hertziens

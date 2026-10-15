@@ -13,7 +13,7 @@ entry_into_force: 2015-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/06/2015035414/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2015. - Décret portant assentiment au Protocole de Nagoya sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation à la Convention sur la Diversité Biologique, fait à Nagoya le 29 octobre 2010, ainsi qu'à ses annexes

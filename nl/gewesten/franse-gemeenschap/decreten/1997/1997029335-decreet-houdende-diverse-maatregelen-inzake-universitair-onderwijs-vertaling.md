@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/14/1997029335/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-09-1997 en tekstbijwerking tot 14-03-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1997.- Decreet houdende diverse maatregelen inzake universitair onderwijs (VERTALING).

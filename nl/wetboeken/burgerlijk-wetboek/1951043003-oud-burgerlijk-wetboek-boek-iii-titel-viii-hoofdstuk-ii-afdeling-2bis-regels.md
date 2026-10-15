@@ -13,7 +13,7 @@ last_amended: 2019-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/04/30/1951043003/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-02-2003 en tekstbijwerking tot 14-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 1951. - [OUD] BURGERLIJK WETBOEK. - BOEK III - TITEL VIII - HOOFDSTUK II, Afdeling 2bis : Regels betreffende de handelshuur in het bijzonder (Opschrift gewijzigd door W 2019-04-13/28 , art. 2, 009; Inwerkingtreding : 01-11-2020)

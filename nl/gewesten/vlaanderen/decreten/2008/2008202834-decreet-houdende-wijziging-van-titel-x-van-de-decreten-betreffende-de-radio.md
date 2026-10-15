@@ -11,7 +11,7 @@ date: 2008-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202834/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Decreet houdende wijziging van titel X van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

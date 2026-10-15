@@ -13,7 +13,7 @@ entry_into_force: 2012-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/07/23/2012031648/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2012. - Ordonnance modifiant l'ordonnance du 12 juillet 2012 visant le contrôle des communications et la promotion des autorités publiques locales en période électorale

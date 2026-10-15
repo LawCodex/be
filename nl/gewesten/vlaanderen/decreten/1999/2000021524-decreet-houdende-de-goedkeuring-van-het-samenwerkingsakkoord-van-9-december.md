@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/02/2000021524/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1999. - Decreet houdende de goedkeuring van het samenwerkingsakkoord van 9 december 1997 tussen de federale Staat, de Vlaamse Gemeenschap, het Waals Gewest en de Duitstalige Gemeenschap betreffende de wijze van omslag van de kosten van de gewestelijke ontvangers en de wijze van de inhouding van de bijdrage in die kosten door de besturen.

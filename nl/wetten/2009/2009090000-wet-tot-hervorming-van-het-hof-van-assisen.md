@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/21/2009090000/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-01-2010 en tekstbijwerking tot 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2009. - Wet tot hervorming van het hof van assisen

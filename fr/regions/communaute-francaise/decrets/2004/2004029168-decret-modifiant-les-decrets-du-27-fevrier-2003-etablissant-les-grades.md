@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/31/2004029168/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2004. - Décret modifiant les décrets du 27 février 2003 établissant les grades académiques délivrés par les Hautes Ecoles organisées ou subventionnées par la Communauté française et fixant les grilles horaires minimales et du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française.

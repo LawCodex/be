@@ -11,7 +11,7 @@ date: 2005-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/01/2005029228/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2005. - Decreet houdende diverse maatregelen betreffende het leerplichtonderwijs en het onderwijs voor sociale promotie, het hoger onderwijs, de gezondheidspromotie op school, de coördinatie van de opvang van kinderen tijdens hun vrije tijd en de ondersteuning van de buitenschoolse opvang, de hulpverlening aan de jeugd, de permanente opvoeding en de begrotingsfondsen (VERTALING).

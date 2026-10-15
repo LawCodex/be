@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1846/10/29/1846102950/justel"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2001 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 1846. - Loi relative à l'organisation de la Cour des comptes.

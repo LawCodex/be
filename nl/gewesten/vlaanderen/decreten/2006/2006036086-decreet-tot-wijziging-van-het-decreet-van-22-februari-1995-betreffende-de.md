@@ -13,7 +13,7 @@ entry_into_force: 2006-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/16/2006036086/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet tot wijziging van het decreet van 22 februari 1995 betreffende de bodemsanering.

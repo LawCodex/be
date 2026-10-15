@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/30/2000029204/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-05-2000 en tekstbijwerking tot 19-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2000. - Decreet tot bevestiging van de eindtermen en vereiste algemene kennis op het einde van de kwalificatie-afdeling, de eindtermen en vereiste kennis inzake lichamelijke opvoeding op het einde van de kwalificatie-afdeling en de minimale bekwaamheden inzake communicatie in een andere moderne taal dan het Frans, op het einde van de kwalificatie-afdeling, indien het aanleren van een moderne taal voorkomt in het studieprogramma (VERTALING)

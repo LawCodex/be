@@ -13,7 +13,7 @@ entry_into_force: 2012-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/15/2012031149/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2012. - Ordonnance modifiant la Nouvelle Loi communale afin de rétablir la sanction de révocation

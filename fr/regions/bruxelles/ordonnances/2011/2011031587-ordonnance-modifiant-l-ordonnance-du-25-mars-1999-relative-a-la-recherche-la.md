@@ -13,7 +13,7 @@ entry_into_force: 2011-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/11/24/2011031587/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2011. - Ordonnance modifiant l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement

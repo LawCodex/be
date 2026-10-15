@@ -12,7 +12,7 @@ entry_into_force: 2020-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/26/2020201773/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2020. - Wet tot wijziging van de wet van 6 maart 2007 tot wijziging van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap en van het koninklijk besluit van 22 mei 2003 betreffende de procedure voor de behandeling van de dossiers inzake tegemoetkomingen aan personen met een handicap, teneinde de automatische toekenning van tegemoetkomingen mogelijk te maken

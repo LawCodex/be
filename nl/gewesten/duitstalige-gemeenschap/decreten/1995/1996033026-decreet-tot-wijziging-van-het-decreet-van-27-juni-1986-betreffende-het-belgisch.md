@@ -13,7 +13,7 @@ entry_into_force: 1995-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/10/16/1996033026/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 1995. - Decreet tot wijziging van het decreet van 27 juni 1986 betreffende het Belgisch radio- en televisiecentrum van de Duitstalige Gemeenschap (VERTALING).

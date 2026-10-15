@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/22/2001003254/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 09-06-2001 en tekstbijwerking tot 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2001. - [Wet betreffende de werknemersparticipatie in het kapitaal van de vennootschappen en tot instelling van een winstpremie voor de werknemers.] &lt;W 2017-12-25/01 , art. 45, 007; Inwerkingtreding : 01-01-2018&gt;

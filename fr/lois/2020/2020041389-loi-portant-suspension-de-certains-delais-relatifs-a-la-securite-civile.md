@@ -12,7 +12,7 @@ entry_into_force: 2020-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/11/2020041389/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2020. - Loi portant suspension de certains délais relatifs à la sécurité civile

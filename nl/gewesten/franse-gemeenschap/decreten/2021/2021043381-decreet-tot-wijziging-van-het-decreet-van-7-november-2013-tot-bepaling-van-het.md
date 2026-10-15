@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/02/2021043381/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-12-2021 en tekstbijwerking tot 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Decreet tot wijziging van het decreet van 7 november 2013 tot bepaling van het hogeronderwijslandschap en de academische organisatie van de studies en andere wetgevingen inzake hoger onderwijs

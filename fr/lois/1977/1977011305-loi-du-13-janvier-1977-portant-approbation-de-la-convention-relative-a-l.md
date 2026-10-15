@@ -13,7 +13,7 @@ last_amended: 2022-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/01/13/1977011305/justel"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2009 et mise à jour au 14-03-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 1977. - [Loi du 13 janvier 1977 portant approbation de la Convention relative à l'établissement d'un système d'inscription des testaments, faite à Bâle le 16 mai 1972] (Intitulé remplacé par L 2022-01-19/18 , art. 51, 007; En vigueur : 01-07-2022)

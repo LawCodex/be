@@ -11,7 +11,7 @@ published: 1976-09-25
 entry_into_force: 1976-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/08/30/1976083002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 1976. - Loi relative aux missions complémentaires des centres médico-psychotechniques de l'Office national de l'Emploi.

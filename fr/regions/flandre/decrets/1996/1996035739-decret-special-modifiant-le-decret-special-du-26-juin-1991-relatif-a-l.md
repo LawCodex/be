@@ -13,7 +13,7 @@ entry_into_force: 1991-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/05/14/1996035739/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 1996. - Décret spécial modifiant le décret spécial du 26 juin 1991 relatif à l'"Universiteit Gent" et à l'"Universitair Centrum Antwerpen" (TRADUCTION).

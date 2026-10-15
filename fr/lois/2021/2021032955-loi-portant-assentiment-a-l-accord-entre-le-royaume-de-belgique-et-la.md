@@ -12,7 +12,7 @@ entry_into_force: 2021-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/08/31/2021032955/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 AOUT 2021. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République de Serbie relatif à la coopération policière, fait à Belgrade le 7 février 2017

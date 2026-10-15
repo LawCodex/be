@@ -12,7 +12,7 @@ entry_into_force: 2020-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/27/2020041498/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2020. - Loi modifiant les lois du 4 avril 2019 modifiant le Code de droit économique en ce qui concerne les abus de dépendance économique, les clauses abusives et les pratiques du marché déloyales entre entreprises et du 2 mai 2019 portant modifications du livre Ier 'Définitions', du livre XV 'Application de la loi' et remplacement du livre IV 'Protection de la concurrence' du Code de droit économique

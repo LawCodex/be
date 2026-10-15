@@ -12,7 +12,7 @@ entry_into_force: 2002-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/07/2002016196/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2002. - Loi modifiant la loi du 10 novembre 1967 portant création du Bureau d'intervention et de restitution belge.

@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/18/2022040615/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2022. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental et le Code de l'Enseignement secondaire du 17 décembre 2010, en ce qui concerne le droit d'inscription dans l'enseignement ordinaire dans la région bilingue de Bruxelles-Capitale

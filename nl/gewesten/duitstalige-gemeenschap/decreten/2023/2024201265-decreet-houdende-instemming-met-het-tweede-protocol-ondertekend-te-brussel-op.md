@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/13/2024201265/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2023. - Decreet houdende instemming met het tweede protocol, ondertekend te Brussel op 15 april 2016, tot wijziging en aanvulling van het aanvullend akkoord, gesloten te Straatsburg op 3 december 1974 tussen het Koninkrijk België en de Raad van Europa, bij het algemeen akkoord inzake de voorrechten en immuniteiten van de Raad van Europa, ondertekend te Parijs op 2 september 1949

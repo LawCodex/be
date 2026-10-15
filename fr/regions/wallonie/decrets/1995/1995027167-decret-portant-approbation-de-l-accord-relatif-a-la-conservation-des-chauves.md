@@ -13,7 +13,7 @@ entry_into_force: 1995-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/16/1995027167/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1995. - Décret portant approbation de l'Accord relatif à la conservation des chauves-souris en Europe, signé à Londres le 4 décembre 1991.

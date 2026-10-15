@@ -13,7 +13,7 @@ entry_into_force: 1995-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/14/1995029205/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 1995. - Décret portant diverses mesures en matière d'enseignement.

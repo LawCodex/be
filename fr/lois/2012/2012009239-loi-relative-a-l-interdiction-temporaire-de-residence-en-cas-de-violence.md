@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/05/15/2012009239/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-10-2012 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2012. - Loi relative à l'interdiction temporaire de résidence en cas de violence domestique

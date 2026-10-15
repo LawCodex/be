@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/12/2023206481/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2023. - Decreet tot wijziging van artikel 52 van het decreet van 2 mei 2019 tot wijziging van verscheidene wetgevingen inzake pacht wat de overgangsbepalingen betreft

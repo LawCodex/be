@@ -12,7 +12,7 @@ published: 2011-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/31/2011029309/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2011. - Decreet tot bekrachtiging van sommige opleidingsprofielen bepaald overeenkomstig artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs

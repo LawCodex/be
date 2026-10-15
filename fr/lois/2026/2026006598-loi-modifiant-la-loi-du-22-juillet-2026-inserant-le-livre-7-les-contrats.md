@@ -12,7 +12,7 @@ entry_into_force: 2027-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/08/27/2026006598/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AOUT 2026. - Loi modifiant la loi du 22 juillet 2026 insérant le livre 7 " Les contrats spéciaux " dans le Code civil et modifiant les livres 1, 5, 8 et 9 du même Code et diverses autres lois, en ce qui concerne le Conseil d'Etat et les juridictions administratives

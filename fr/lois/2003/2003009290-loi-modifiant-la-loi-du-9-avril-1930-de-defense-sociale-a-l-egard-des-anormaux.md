@@ -12,7 +12,7 @@ entry_into_force: 2003-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/25/2003009290/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2003. - Loi modifiant la loi du 9 avril 1930 de défense sociale à l'égard des anormaux, des délinquants d'habitude et des auteurs de certains délits sexuels.

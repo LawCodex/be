@@ -12,7 +12,7 @@ entry_into_force: 2008-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/25/2007015037/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2007. - Loi portant assentiment au Protocole d'application de l'Accord entre la Communauté européenne et la République d'Albanie concernant la réadmission des personnes en séjour irrégulier dans la République d'Albanie ou les Etats du Benelux (le Royaume de Belgique, le grand-duché de Luxembourg, le Royaume des Pays-Bas), signé à La Haye le 9 juin 2005.

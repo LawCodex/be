@@ -13,7 +13,7 @@ entry_into_force: 2021-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/10/2021034329/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2021. - Ordonnantie tot invoeging van een afwijkende overgangsregeling in de ordonnantie van 27 april 1995 betreffende de taxidiensten en diensten voor het verhuren van voertuigen met chauffeur

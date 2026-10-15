@@ -12,7 +12,7 @@ entry_into_force: 2011-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/27/2011024180/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2011. - Loi modifiant la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement et de la santé

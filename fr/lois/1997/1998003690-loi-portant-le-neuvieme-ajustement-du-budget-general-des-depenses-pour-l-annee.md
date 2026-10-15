@@ -12,7 +12,7 @@ entry_into_force: 1998-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/05/1998003690/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 1997. - Loi portant le neuvième ajustement du budget général des dépenses pour l'année budgétaire 1997 - Section 12 " Justice ".

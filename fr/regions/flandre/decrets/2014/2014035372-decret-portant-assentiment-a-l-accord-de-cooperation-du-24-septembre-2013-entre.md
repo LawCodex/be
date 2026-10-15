@@ -13,7 +13,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/14/2014035372/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2014. - Décret portant assentiment à l'accord de coopération du 24 septembre 2013 entre l'Etat fédéral, les Communautés et les Régions concernant la représentation du Royaume de Belgique au sein de l'Agence internationale pour les énergies renouvelables (IRENA) et les cotisations financières à cette organisation

@@ -13,7 +13,7 @@ entry_into_force: 2002-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036018/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise et la République d'Arménie concernant la promotion et la protection réciproques des investissements, signé à Bruxelles le 7 juin 2001 (TRADUCTION).

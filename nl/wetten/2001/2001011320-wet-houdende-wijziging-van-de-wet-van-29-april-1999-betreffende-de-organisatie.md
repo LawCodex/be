@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/16/2001011320/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2001. - Wet houdende wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen en van het Wetboek van de inkomstenbelastingen 1992.

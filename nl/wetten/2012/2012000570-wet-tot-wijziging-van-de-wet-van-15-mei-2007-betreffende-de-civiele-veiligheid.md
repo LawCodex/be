@@ -11,7 +11,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012000570/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid en de wet van 31 december 1963 betreffende de civiele bescherming

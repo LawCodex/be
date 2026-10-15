@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/06/26/1990021134/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 05-09-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1990. - Wet betreffende sommige openbare instellingen of instellingen van openbaar nut en andere overheidsdiensten

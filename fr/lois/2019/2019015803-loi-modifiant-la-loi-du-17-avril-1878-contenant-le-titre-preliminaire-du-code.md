@@ -12,7 +12,7 @@ entry_into_force: 2019-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/11/14/2019015803/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2019. - Loi modifiant la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale en vue de supprimer la prescription des infractions sexuelles graves commises sur des mineurs

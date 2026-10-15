@@ -11,7 +11,7 @@ published: 2024-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/03/2024202969/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Financiën - Beleid en Ondersteuning - Justitie - Economie, KMO, Middenstand en Energie - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Wet houdende wijziging van de terugvorderingsregels in geval van een stopzetting voor de afloop van de minimumduur bij het tijdskrediet in de private sector, de loopbaanonderbreking in de publieke sector, en de thematische verlofstelsels

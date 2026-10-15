@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/20/2019042900/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2019 et mise à jour au 05-02-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Loi transposant la Directive (UE) 2018/822 du Conseil du 25 mai 2018 modifiant la Directive 2011/16/UE en ce qui concerne l'échange automatique et obligatoire d'informations dans le domaine fiscal en rapport avec les dispositifs transfrontières devant faire l'objet d'une déclaration

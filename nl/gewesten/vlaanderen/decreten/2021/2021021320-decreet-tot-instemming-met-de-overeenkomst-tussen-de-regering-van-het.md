@@ -13,7 +13,7 @@ entry_into_force: 2021-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/18/2021021320/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2021. - Decreet tot instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Republiek Togo betreffende het luchtvervoer, ondertekend te Lomé op 13 juni 2019

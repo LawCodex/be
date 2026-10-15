@@ -12,7 +12,7 @@ entry_into_force: 2000-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/16/2000021242/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2000. - Modification à la Constitution.

@@ -13,7 +13,7 @@ entry_into_force: 2022-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/09/22/2022042274/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBER 2022. - Decreet betreffende de opschorting van de uitvoering van de beslissingen van administratieve en gerechtelijke uitzettingen

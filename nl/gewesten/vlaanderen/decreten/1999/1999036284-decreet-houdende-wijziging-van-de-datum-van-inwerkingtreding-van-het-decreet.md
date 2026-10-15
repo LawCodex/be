@@ -11,7 +11,7 @@ date: 1999-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/09/28/1999036284/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 1999. - Decreet houdende wijziging van de datum van inwerkingtreding van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/15/2000003753/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2000. - Wet met betrekking tot de bijdrage van België aan de twaalfde wedersamenstelling van de middelen van de Internationale Ontwikkelingsassociatie.

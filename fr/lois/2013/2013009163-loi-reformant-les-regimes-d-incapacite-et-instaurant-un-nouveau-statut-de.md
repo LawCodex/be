@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/17/2013009163/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2013 et mise à jour au 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2013. - Loi réformant les régimes d'incapacité et instaurant un nouveau statut de protection conforme à la dignité humaine

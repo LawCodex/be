@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/11/29/1993029570/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-12-1993 et mise à jour au 20-09-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 1993. - Décret relatif aux pensions de retraite allouées aux agents définitifs de la Radio-Télévision belge de la Communauté française (RTBF). (NOTE 2 : Abrogé dans le futur à une date indéterminée par DCFR 2002-06-20/38, art. 7)

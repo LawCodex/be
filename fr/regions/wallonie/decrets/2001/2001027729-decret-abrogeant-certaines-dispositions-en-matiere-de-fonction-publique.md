@@ -13,7 +13,7 @@ entry_into_force: 2001-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/06/2001027729/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2001. - Décret abrogeant certaines dispositions en matière de fonction publique.

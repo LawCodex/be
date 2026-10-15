@@ -12,7 +12,7 @@ published: 2022-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/24/2022015312/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2022. - Decreet tot wijziging van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en tot wijziging van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid in functie van het hertekende inburgeringsbeleid

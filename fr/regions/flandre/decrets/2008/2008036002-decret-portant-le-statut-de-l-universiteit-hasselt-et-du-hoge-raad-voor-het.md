@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008036002/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-08-2008 et mise à jour au 17-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret portant le statut de l'Universiteit Hasselt et du 'Hoge Raad voor het Hoger Onderwijs in Limburg' (Conseil supérieur de l'Enseignement supérieur au Limbourg) (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 2019-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/09/23/2019204525/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2019. - Décret portant assentiment à l'accord de partenariat global et renforcé entre l'Union européenne et la Communauté européenne de l'Energie atomique et leurs Etats membres, d'une part, et la République d'Arménie, d'autre part, signé à Bruxelles le 24 novembre 2017

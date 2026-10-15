@@ -12,7 +12,7 @@ published: 2012-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/20/2012035490/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2012. - Decreet tot wijziging van diverse bepalingen van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap " Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen "

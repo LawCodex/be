@@ -13,7 +13,7 @@ entry_into_force: 2005-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/20/2005035691/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2005. - Décret modifiant le décret du 30 avril 2004 relatif à la flexibilisation de l'enseignement supérieur en Flandre et portant des mesures urgentes en matière d'enseignement supérieur (TRADUCTION).

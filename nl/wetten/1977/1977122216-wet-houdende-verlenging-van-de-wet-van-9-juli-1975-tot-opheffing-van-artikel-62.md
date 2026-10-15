@@ -11,7 +11,7 @@ published: 1977-12-24
 entry_into_force: 1978-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/12/22/1977122216/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1977. - Wet houdende verlenging van de wet van 9 juli 1975 tot opheffing van artikel 62 van de wet van 14 februari 1961 voor de economische expansie, sociale vooruitgang en financieel herstel en tot instelling van een regime betreffende de prijzen van de farmaceutische produkten en andere medicamenten.

@@ -12,7 +12,7 @@ entry_into_force: 2026-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/04/24/2026003261/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2026. - Loi portant l'insertion d'une nouvelle ligne directrice tarifaire dans la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité

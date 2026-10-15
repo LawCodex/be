@@ -12,7 +12,7 @@ entry_into_force: 2022-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/31/2022033515/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2022. - Loi modifiant la loi du 10 juillet 2006 relative à l'analyse de la menace

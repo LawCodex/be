@@ -13,7 +13,7 @@ entry_into_force: 2019-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2019010462/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret modifiant le décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes, le décret du 7 mai 2004 relatif au " Sociaal-Economische Raad van Vlaanderen " (Conseil socio-économique de la Flandre) et le décret du 7 juillet 2006 portant création du Conseil de Mobilité de la Flandre

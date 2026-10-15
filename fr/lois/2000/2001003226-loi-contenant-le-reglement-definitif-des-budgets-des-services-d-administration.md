@@ -12,7 +12,7 @@ entry_into_force: 2001-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/05/2001003226/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2000. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat et d'organismes d'intérêt public pour l'année 1990 ou pour des années antérieures.

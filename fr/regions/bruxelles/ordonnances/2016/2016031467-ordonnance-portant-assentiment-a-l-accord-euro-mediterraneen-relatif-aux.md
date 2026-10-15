@@ -13,7 +13,7 @@ entry_into_force: 2016-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/06/23/2016031467/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2016. - Ordonnance portant assentiment à : l'Accord euro-méditerranéen relatif aux services aériens entre l'Union européenne et ses Etats membres, d'une part, et le Royaume hachémite de Jordanie, d'autre part, fait à Bruxelles le 15 décembre 2010

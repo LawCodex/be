@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/30/1995027312/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 28-06-1995 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1995. - Decreet betreffende de openbaarheid van bestuur. (VERTALING) -

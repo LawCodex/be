@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/15/2001029517/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2001. - Décret portant assentiment à l'Accord de coopération entre, d'une part, la République libanaise et, d'autre part, la Communauté française de Belgique, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale et, à l'Annexe, faits à Bruxelles, le 26 septembre 2000.

@@ -12,7 +12,7 @@ entry_into_force: 2008-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007015068/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi portant assentiment à la Convention générale de coopération au développement entre le Royaume de Belgique et la République du Rwanda, signée à Kigali le 18 mai 2004.

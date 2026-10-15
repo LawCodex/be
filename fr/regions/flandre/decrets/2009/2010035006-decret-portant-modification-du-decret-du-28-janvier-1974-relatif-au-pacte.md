@@ -13,7 +13,7 @@ entry_into_force: 2009-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/11/20/2010035006/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2009. - Décret portant modification du décret du 28 janvier 1974 relatif au pacte culture

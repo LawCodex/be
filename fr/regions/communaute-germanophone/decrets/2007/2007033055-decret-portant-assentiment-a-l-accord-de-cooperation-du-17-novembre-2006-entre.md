@@ -13,7 +13,7 @@ entry_into_force: 2007-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/25/2007033055/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2007. - Décret portant assentiment à l'accord de coopération du 17 novembre 2006 entre l'Etat fédéral, la Communauté flamande, la Communauté française et la Communauté germanophone relatif à la consultation mutuelle lors de l'élaboration d'une législation en matière de réseaux de communications électroniques, lors de l'échange d'informations et lors de l'exercice des compétences en matière de réseaux de communications électroniques par les autorités de régulation en charge des télécommunications ou de la radiodiffusion (TRADUCTION).

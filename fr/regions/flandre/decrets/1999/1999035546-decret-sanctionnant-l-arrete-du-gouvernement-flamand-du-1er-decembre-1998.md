@@ -13,7 +13,7 @@ entry_into_force: 1999-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/02/1999035546/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1999. - Décret sanctionnant l'arrêté du Gouvernement flamand du 1er décembre 1998 définissant les objectifs de développement de l'enseignement fondamental spécial de type 2 (TRADUCTION).

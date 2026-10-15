@@ -12,7 +12,7 @@ entry_into_force: 2017-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/13/2017031669/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2017. - Loi portant assentiment à l'Accord de partenariat et de coopération renforcé entre l'Union européenne et ses Etats membres, d'une part, et la République du Kazakhstan, d'autre part, fait à Astana le 21 décembre 2015

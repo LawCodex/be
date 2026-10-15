@@ -13,7 +13,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/17/2013029639/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2013. - Décret modifiant certaines dispositions relatives à l'enseignement spécialisé, à l'enseignement fondamental ordinaire, à l'enseignement secondaire ordinaire et aux Centres psycho-médico-sociaux

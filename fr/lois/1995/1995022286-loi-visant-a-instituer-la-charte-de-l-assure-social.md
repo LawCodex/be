@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/11/1995022286/justel"
 department: "Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 06-09-1995 et mise à jour au 27-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1995. - Loi visant à instituer "la charte" de l'assuré social. -

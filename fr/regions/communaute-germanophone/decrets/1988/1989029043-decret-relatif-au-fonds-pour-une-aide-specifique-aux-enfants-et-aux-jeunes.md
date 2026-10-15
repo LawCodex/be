@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/05/09/1989029043/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 19-01-1991 et mise à jour au 15-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 1988. - [Décret relatif au Fonds pour une aide spécifique aux enfants et aux jeunes.] &lt;Intitulé remplacé par DCG 2015-03-02/05 , art. 8, 012; En vigueur : 26-03-2015&gt;

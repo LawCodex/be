@@ -13,7 +13,7 @@ entry_into_force: 2023-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/17/2023041281/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2023. - Decreet tot wijziging van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand, wat betreft de indicatiestelling en de interne informatiedeling

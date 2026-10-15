@@ -13,7 +13,7 @@ entry_into_force: 2017-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/23/2017040092/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2017. - Decreet tot wijziging van het opschrift van het decreet van 30 juni 2016 tot wijziging van sommige bepalingen inzake erkenning van schoolboeken, schoolsoftware en andere pedagogische middelen binnen de inrichtingen voor leerplichtonderwijs van 19 mei 2006, om de verwijzing naar de bestrijding van discriminatie tussen vrouwen en mannen en de bevordering van de gelijkheid tussen de geslachten als criteria voor de erkenning van de schoolboeken op te nemen

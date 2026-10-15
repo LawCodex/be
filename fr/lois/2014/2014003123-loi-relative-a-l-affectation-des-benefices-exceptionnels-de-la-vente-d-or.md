@@ -12,7 +12,7 @@ entry_into_force: 2014-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/09/2014003123/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2014. - Loi relative à l'affectation des bénéfices exceptionnels de la vente d'or distribués par le Fonds monétaire international

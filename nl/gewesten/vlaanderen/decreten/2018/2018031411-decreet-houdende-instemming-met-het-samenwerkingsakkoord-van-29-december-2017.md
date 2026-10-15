@@ -13,7 +13,7 @@ entry_into_force: 2018-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/22/2018031411/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2018. - DECREET houdende instemming met het samenwerkingsakkoord van 29 december 2017 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de verhoging van de inkomensgrensbedragen en de vrijstelling van de inkomsten uit een winstgevende activiteit uitgeoefend in het kader van een studentenovereenkomst voor studenten die een alternerende opleiding volgen en die door een leerovereenkomst verbonden zijn

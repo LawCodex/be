@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/13/2013022147/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 21-03-2013 et mise à jour au 31-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2013. - Loi portant réforme de la retenue de 3,55 % au profit de l'assurance obligatoire soins de santé et de la cotisation de solidarité effectuées sur les pensions

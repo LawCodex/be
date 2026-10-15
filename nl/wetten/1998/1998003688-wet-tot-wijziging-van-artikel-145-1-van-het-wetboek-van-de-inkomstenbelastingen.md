@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/17/1998003688/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1998. - Wet tot wijziging van artikel 145.1 van het Wetboek van de inkomstenbelastingen 1992, betreffende de belastingvermindering voor afbetalingen van hypotheekleningen.

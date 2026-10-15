@@ -13,7 +13,7 @@ entry_into_force: 1999-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/22/1999033035/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1999. - Decreet houdende instemming met de Euro-Mediterrane Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lidstaten enerzijds en het Hasjemitisch Koninkrijk Jordanië anderzijds, de bijlagen I, II, III, IV, V, VI en VII, de protocollen 1, 2, 3 en 4, de slotakte, ondertekend te Brussel op 24 november 1997 (VERTALING).

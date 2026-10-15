@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/22/2001007087/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 07-04-2001 et mise à jour au 10-08-2005"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2001. - Loi modifiant certaines dispositions relatives aux statuts du personnel militaire.

@@ -13,7 +13,7 @@ last_amended: 2001-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1875/07/09/1875070950/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 11-07-1875 en tekstbijwerking tot 21-08-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1875. - Wet op de tramwegen.

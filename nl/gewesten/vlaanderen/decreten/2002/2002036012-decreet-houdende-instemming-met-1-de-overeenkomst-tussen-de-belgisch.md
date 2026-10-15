@@ -12,7 +12,7 @@ published: 2002-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036012/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet houdende instemming met : 1° de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de republiek Gabon inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 27 mei 1998; 2° de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van de republiek Ivoorkust inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 1 april 1999.

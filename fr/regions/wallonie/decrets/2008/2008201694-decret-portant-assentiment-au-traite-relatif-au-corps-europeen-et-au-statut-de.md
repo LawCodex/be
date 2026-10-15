@@ -13,7 +13,7 @@ entry_into_force: 2008-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/08/2008201694/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2008. - Décret portant assentiment au Traité relatif au Corps européen et au statut de son Quartier général entre la République française, la République fédérale d'Allemagne, le Royaume de Belgique, le Royaume d'Espagne et le grand-duché de Luxembourg, et à l'Acte final, faits à Bruxelles le 22 novembre 2004.

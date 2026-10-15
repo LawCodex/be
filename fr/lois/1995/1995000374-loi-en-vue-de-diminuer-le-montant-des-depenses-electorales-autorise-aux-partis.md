@@ -11,7 +11,7 @@ published: 1995-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995000374/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi en vue de diminuer le montant des dépenses électorales autorisé aux partis politiques lors des élections législatives, européennes ainsi que lors de l'élection des Conseils régionaux.

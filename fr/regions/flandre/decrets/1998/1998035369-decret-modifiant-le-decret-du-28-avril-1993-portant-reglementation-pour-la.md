@@ -13,7 +13,7 @@ entry_into_force: 1998-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/03/17/1998035369/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1998. - Décret modifiant le décret du 28 avril 1993 portant réglementation pour la Région flamande de la tutelle administrative des communes (TRADUCTION).

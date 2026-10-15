@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/05/2008200803/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 12-03-2008 en tekstbijwerking tot 23-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2008. - Decreet houdende invoering van een ecomalus op de CO2-emissies van de autovoertuigen van natuurlijke personen in het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen (VERTALING)

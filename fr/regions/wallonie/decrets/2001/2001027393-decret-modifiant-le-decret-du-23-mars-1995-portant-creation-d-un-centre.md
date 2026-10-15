@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/28/2001027393/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 11-07-2001 et mise à jour au 08-02-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2001. - Décret modifiant le décret du 23 mars 1995 portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne.

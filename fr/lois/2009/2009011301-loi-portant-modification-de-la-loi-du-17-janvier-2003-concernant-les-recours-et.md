@@ -12,7 +12,7 @@ entry_into_force: 2009-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/31/2009011301/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2009. - Loi portant modification de la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges

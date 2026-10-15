@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013035606/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment à l'accord entre le Royaume de Belgique et Anguilla en vue de l'échange de renseignements en matière fiscale, signé à Bruxelles le 11 mai 2010 et à The Valley (Anguilla) le 24 septembre 2010

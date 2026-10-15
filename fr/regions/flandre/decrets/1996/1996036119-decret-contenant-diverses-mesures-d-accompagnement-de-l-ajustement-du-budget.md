@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/08/1996036119/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 19-10-1996 et mise à jour au 05-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1996. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 1996 (TRADUCTION).

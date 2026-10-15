@@ -12,7 +12,7 @@ entry_into_force: 2004-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/26/2003015187/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2002. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République du Yemen concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 3 février 2000.

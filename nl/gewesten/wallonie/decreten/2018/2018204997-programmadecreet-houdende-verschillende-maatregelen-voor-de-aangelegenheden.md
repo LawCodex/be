@@ -13,7 +13,7 @@ entry_into_force: 2018-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/17/2018204997/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2018. - Programmadecreet houdende verschillende maatregelen voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

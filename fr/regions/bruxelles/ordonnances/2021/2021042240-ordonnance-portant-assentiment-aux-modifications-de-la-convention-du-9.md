@@ -13,7 +13,7 @@ entry_into_force: 2021-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/06/17/2021042240/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2021. - Ordonnance portant assentiment aux modifications de la Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, des Annexes et des Appendices

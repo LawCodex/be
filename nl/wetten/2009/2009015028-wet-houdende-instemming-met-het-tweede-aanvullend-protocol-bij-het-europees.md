@@ -12,7 +12,7 @@ entry_into_force: 2009-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/18/2009015028/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2009. - Wet houdende instemming met het Tweede Aanvullend Protocol bij het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken, gedaan te Straatsburg op 8 november 2001

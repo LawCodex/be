@@ -12,7 +12,7 @@ published: 2024-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/07/2024002677/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Décret conjoint de la Communauté française, de la Commission communautaire française et de la Région wallonne modifiant l'accord de coopération du 30 janvier 2014 entre la Communauté française, la Commission communautaire française et la Région wallonne portant création d'une Commission de déontologie et d'éthique

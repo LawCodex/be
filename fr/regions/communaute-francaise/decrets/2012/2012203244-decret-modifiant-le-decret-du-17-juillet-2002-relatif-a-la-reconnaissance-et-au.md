@@ -13,7 +13,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/03/2012203244/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2012. - Décret modifiant le décret du 17 juillet 2002 relatif à la reconnaissance et au subventionnement des musées et autres institutions muséales

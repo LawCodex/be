@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1995027671/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieur à partir du 30-12-1995 et mis à jour au 14-11-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Décret contenant le budget des recettes de la Région wallonne pour l'année budgétaire 1996.

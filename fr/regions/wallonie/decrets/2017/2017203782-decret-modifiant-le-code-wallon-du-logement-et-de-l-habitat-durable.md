@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/01/2017203782/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 18-07-2017 et mise à jour au 17-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2017. - Décret modifiant le Code wallon du Logement et de l'Habitat durable

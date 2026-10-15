@@ -13,7 +13,7 @@ entry_into_force: 2002-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035038/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et le Turkménistan, d'autre part, aux Annexes I à V, au Protocole d'entraide administrative en matière douanière et à l'Acte final, faits à Bruxelles le 25 mai 1998 (TRADUCTION).

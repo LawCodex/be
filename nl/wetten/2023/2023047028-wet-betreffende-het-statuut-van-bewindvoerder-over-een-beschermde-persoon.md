@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/08/2023047028/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-11-2023 en tekstbijwerking tot 06-08-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2023. - Wet betreffende het statuut van bewindvoerder over een beschermde persoon

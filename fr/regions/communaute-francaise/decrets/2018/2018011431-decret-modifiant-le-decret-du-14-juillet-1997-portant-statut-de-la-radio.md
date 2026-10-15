@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/22/2018011431/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2018. - Décret modifiant le décret du 14 juillet 1997 portant statut de la Radio-Télévision belge de la Communauté française

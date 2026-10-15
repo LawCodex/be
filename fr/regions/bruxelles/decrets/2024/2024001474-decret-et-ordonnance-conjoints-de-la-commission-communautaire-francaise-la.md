@@ -12,7 +12,7 @@ published: 2024-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/01/2024001474/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2024. - Décret et ordonnance conjoints de la Commission communautaire française, la Région de Bruxelles-Capitale et la Commission communautaire commune relatifs à la transition numérique des autorités publiques

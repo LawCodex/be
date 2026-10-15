@@ -13,7 +13,7 @@ entry_into_force: 1985-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/06/25/1985023526/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1985. \_ Decreet houdende goedkeuring van het Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen, opgemaakt te New York op 18 december 1979.

@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/01/2019040760/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Loi modifiant le Code des impôts sur les revenus 1992, en vue d'augmenter le montant de l'exonération fiscale dont bénéficient les pompiers volontaires des services publics d'incendie et les agents volontaires de la protection civile

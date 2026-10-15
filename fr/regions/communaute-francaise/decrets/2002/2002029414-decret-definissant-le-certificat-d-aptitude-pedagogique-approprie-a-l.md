@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002029414/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2006 et mise à jour au 14-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2002. - [Décret définissant le Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur (CAPAES) en hautes écoles et dans l'enseignement supérieur de promotion sociale et ses conditions d'obtention]. &lt;DCFR 2006-06-02/60, art. 1, 002; En vigueur : 01-09-2006&gt;

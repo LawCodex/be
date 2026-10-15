@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/25/2000007153/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2000 et mise à jour au 07-04-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2000. - Loi relative à la mise en disponibilité de certains militaires du cadre actif des forces armées.

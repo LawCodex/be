@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/10/20/2000010017/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-12-2000 et mise à jour au 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2000. - Loi introduisant l'utilisation de moyens de télécommunication et de la signature électronique dans la procédure judiciaire et extrajudiciaire.

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204600/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret portant assentiment à la Convention internationale de Nairobi de 2007 sur l'enlèvement des épaves, et aux annexes, faites à Nairobi le 18 mai 2007

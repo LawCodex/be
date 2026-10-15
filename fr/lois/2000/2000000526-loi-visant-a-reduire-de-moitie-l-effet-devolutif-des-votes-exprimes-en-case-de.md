@@ -12,7 +12,7 @@ entry_into_force: 2000-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/26/2000000526/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2000. - Loi visant à réduire de moitié l'effet dévolutif des votes exprimés en case de tête et à supprimer la distinction entre candidats titulaires et candidats suppléants pour l'élection des conseils provinciaux et communaux et du Parlement européen.

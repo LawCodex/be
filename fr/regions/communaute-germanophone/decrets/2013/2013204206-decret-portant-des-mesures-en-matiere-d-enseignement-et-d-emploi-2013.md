@@ -13,7 +13,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/24/2013204206/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Décret portant des mesures en matière d'enseignement et d'emploi - 2013

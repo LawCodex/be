@@ -13,7 +13,7 @@ entry_into_force: 2008-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/17/2008033025/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2007. - Décret portant assentiment à la Convention internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, et à ses annexes Ire et II (TRADUCTION).

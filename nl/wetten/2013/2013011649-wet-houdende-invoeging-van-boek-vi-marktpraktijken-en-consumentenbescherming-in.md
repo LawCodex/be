@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2013011649/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet houdende invoeging van boek VI "Marktpraktijken en consumentenbescherming" in het Wetboek van economisch recht en houdende invoeging van de definities eigen aan boek VI, en van de rechtshandhavingsbepalingen eigen aan boek VI, in de boeken I en XV van het Wetboek van economisch recht

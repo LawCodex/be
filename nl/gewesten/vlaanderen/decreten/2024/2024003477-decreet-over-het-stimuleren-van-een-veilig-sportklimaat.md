@@ -12,7 +12,7 @@ published: 2024-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/15/2024003477/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2024. - Decreet over het stimuleren van een veilig sportklimaat

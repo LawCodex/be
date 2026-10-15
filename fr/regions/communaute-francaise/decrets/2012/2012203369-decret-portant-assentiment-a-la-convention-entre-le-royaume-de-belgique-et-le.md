@@ -13,7 +13,7 @@ entry_into_force: 2012-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203369/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter la double imposition et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par l'Avenant fait à Bruxelles le 11 décembre 2002 et par l'Avenant fait à Bruxelles le 16 juillet 2009

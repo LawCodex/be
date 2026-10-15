@@ -12,7 +12,7 @@ entry_into_force: 2006-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/30/2006003228/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2006. - Wet houdende de toekenning van een bijzondere eenmalige toelage ten voordele van de Duitstalige Gemeenschap.

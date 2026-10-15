@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/13/2017200237/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 30-01-2017 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2016. - [Décret relatif aux mesures en matière de vie autodéterminée] &lt;DCG 2023-11-13/18 , art.5, 008; En vigueur : 01-01-2024&gt;

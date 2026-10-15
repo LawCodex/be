@@ -12,7 +12,7 @@ entry_into_force: 2004-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/08/2004015122/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2004. - Loi portant assentiment au Traité sur le droit des marques et au Règlement d'exécution, faits à Genève le 27 octobre 1994

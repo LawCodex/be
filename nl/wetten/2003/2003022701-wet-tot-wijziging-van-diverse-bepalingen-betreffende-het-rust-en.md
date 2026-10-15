@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/11/2003022701/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 24-06-2003 en tekstbijwerking tot 05-06-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2003. - Wet tot wijziging van diverse bepalingen betreffende het rust- en overlevingspensioen voor werknemers en zelfstandigen met het oog op de uitvoering van het principe van de eenheid van loopbaan.

@@ -13,7 +13,7 @@ entry_into_force: 2004-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/13/2003200435/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2003. - Décret portant assentiment à la Convention n° 181 concernant les agences d'emplois privées, adoptée à Genève le 19 juin 1997 par la Conférence générale de l'Organisation internationale du travail.

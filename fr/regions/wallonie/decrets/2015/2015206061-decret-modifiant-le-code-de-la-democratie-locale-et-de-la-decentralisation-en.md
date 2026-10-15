@@ -13,7 +13,7 @@ entry_into_force: 2016-01-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/17/2015206061/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2015. - Décret modifiant le Code de la démocratie locale et de la décentralisation en vue de préciser les règles de compétences en matière de marchés publics communaux et provinciaux

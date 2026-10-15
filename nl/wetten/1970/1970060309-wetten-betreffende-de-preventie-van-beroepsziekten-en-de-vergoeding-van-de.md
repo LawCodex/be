@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1970/06/03/1970060309/justel"
 justel_notes:
   - "art. 34 gewijzigd en art. 42bis ingevoegd met ingang op een onbepaalde datum bij W 2006-07-13/68 , art. 80 et 81, 042; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 08-07-1981 en tekstbijwerking tot 31-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1970. - [Wetten betreffende de preventie van beroepsziekten en de vergoeding van de schade die uit die ziekten voortvloeit, gecoördineerd op 3 juni 1970.] (Opschrift vervangen door W 2006-07-13/68 , art. 2, 042; Inwerkingtreding : 01-09-2006)

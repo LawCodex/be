@@ -12,7 +12,7 @@ entry_into_force: 2025-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/09/28/2025B05489/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2023. - Accord relatif à l'exécution de l'article 16 du Traité entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas en matière de coopération policière, faits à Bruxelles le 23 juillet 2018 (1). - Addendum

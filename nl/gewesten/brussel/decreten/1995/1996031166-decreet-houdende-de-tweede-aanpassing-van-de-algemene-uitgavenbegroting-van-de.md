@@ -13,7 +13,7 @@ entry_into_force: 1995-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/18/1996031166/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1995. - Decreet houdende de tweede aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1995 (VERTALING).

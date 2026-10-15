@@ -13,7 +13,7 @@ entry_into_force: 2020-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/19/2020015066/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2020. - Decreet over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid in het kader van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en tot wijziging van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht

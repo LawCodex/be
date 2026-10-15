@@ -12,7 +12,7 @@ entry_into_force: 2007-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/02/2007015041/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2007. - Loi portant assentiment à l'Accord sur les privilèges et immunités du Tribunal international du Droit de la Mer, fait à New York le 23 mai 1997.

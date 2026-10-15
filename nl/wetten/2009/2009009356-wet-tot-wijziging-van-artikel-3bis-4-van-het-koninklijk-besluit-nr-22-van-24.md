@@ -12,7 +12,7 @@ entry_into_force: 2009-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/28/2009009356/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2009. - Wet tot wijziging van artikel 3bis, § 4, van het koninklijk besluit nr. 22 van 24 oktober 1934 betreffende het rechterlijk verbod aan bepaalde veroordeelden en gefailleerden om bepaalde ambten, beroepen of werkzaamheden uit te oefenen

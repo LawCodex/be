@@ -13,7 +13,7 @@ entry_into_force: 2009-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/09/15/2009204477/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2009. - Décret portant assentiment à l'Accord instituant la Conférence européenne de biologie moléculaire, fait à Genève le 13 février 1969, et à l'Accord instituant le laboratoire européen de biologie moléculaire, fait à Genève le 10 mai 1973

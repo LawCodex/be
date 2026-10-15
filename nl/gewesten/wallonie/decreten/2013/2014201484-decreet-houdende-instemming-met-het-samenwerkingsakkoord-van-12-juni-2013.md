@@ -13,7 +13,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/11/2014201484/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2013. - Decreet houdende instemming met het samenwerkingsakkoord van [12 juni 2013] tussen de federale overheid, de Gewesten en de Gemeenschappen tot oprichting van een interfederaal centrum voor gelijke kansen en bestrijding van discriminatie en racisme in de vorm van een gemeenschappelijke instelling in de zin van artikel 92bis van de bijzondere wet tot hervorming der instellingen van 8 augustus 1980

@@ -12,7 +12,7 @@ entry_into_force: 2006-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/06/2005009995/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2005. - Loi portant réforme de l'accès des avocats à la Cour de cassation.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/28/2007007077/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 10-04-2007 et mise à jour au 08-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2007. - [Loi fixant le statut des militaires et candidats militaires du cadre actif des Forces armées]. &lt;Intitulé remplacé par L 2013-07-31/04 , art. 15, 006; En vigueur : 30-09-2013&gt;

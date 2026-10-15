@@ -13,7 +13,7 @@ entry_into_force: 2014-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/18/2014029009/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 11 juli 2013, gesloten tussen de Franse Gemeenschap en het Waalse Gewest, waarbij, voor het jaar 2014, de bijdrage van Wallonië in de financiering van het "Fonds pour la formation à la recherche dans l'industrie et dans l'agriculture "FRIA" (Fonds voor de opleiding tot onderzoek in de industrie en de landbouw) wordt verhoogd

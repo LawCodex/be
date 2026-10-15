@@ -13,7 +13,7 @@ entry_into_force: 1998-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/09/1998027261/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 1998. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Chypre concernant l'encouragement et la protection réciproques des investissements, et à l'échange de lettres, faits à Nicosie le 26 février 1991.

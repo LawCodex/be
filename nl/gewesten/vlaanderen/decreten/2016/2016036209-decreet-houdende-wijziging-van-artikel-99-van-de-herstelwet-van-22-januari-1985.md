@@ -12,7 +12,7 @@ published: 2016-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/15/2016036209/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2016. - Decreet houdende wijziging van artikel 99 van de herstelwet van 22 januari 1985 houdende sociale bepalingen

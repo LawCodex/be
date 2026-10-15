@@ -12,7 +12,7 @@ entry_into_force: 2025-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/23/2022032062/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2022. - Wet houdende instemming met het Verdrag nr. 188 betreffende het werk in de visserijsector, aangenomen te Genève op 14 juni 2007 door de Internationale Arbeidsconferentie in haar 96e zitting

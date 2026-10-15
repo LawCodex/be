@@ -12,7 +12,7 @@ entry_into_force: 2018-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/29/2018030822/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux

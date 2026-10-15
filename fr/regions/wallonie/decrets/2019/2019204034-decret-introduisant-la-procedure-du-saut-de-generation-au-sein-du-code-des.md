@@ -12,7 +12,7 @@ published: 2019-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/06/2019204034/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2019. - Décret introduisant la procédure du " saut de génération " au sein du Code des droits d'enregistrement, d'hypothèque et de greffe

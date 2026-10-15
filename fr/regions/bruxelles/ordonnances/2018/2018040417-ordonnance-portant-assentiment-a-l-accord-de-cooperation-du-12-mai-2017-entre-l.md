@@ -13,7 +13,7 @@ entry_into_force: 2018-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/07/12/2018040417/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2018. - Ordonnance portant assentiment à l'accord de coopération du 12 mai 2017 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la mise en oeuvre du règlement (CE) n° 1221/2009 du Parlement européen et du Conseil du 25 novembre 2009 concernant la participation volontaire des organisations à un système communautaire de management environnemental et d'audit (EMAS), et abrogeant le règlement (CE) n° 761/2001 et les décisions de la Commission 2001/681/CE et 2006/193/CE

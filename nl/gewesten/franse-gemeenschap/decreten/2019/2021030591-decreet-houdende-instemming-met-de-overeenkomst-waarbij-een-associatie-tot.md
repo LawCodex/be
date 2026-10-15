@@ -13,7 +13,7 @@ entry_into_force: 2021-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/09/2021030591/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Decreet houdende instemming met de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, en met het Protocol betreffende culturele samenwerking, gedaan te Tegucigalpa op 29 juni 2012

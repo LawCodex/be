@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/09/19/2013205512/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 11-10-2013 et mise à jour au 09-05-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2013. - Décret portant des dispositions fiscales diverses

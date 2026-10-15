@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/02/20/1991009232/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 21-05-1997 et mise à jour au 21-05-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1991. - Loi modifiant et complétant les dispositions du Code civil relatives aux baux à loyer.

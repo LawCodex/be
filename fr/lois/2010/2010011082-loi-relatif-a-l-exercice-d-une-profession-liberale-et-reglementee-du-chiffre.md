@@ -12,7 +12,7 @@ entry_into_force: 2010-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/18/2010011082/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2010. - Loi relatif à l'exercice d'une profession libérale et réglementée du chiffre par une personne morale

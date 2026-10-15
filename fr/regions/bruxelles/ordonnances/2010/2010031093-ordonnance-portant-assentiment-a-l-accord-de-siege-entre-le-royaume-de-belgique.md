@@ -13,7 +13,7 @@ entry_into_force: 2010-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/02/04/2010031093/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2010. - Ordonnance portant assentiment à l'Accord de Siège entre le Royaume de Belgique et le Centre international pour le Développement de Politiques migratoires, signé à Bruxelles le 21 mai 2008

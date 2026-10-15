@@ -12,7 +12,7 @@ entry_into_force: 2021-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042583/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi contenant le premier ajustement du budget des Voies et Moyens de l'année budgétaire 2021

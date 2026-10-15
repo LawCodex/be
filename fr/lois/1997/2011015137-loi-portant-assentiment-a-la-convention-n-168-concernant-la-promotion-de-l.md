@@ -12,7 +12,7 @@ entry_into_force: 2012-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/03/2011015137/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1997. - Loi portant assentiment à la Convention n° 168 concernant la promotion de l'emploi et la protection contre le chômage, adoptée à Genève, le 21 juin 1988 par la Conférence internationale du Travail lors de sa soixante-quinzième session

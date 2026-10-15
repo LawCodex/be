@@ -16,7 +16,7 @@ justel_notes:
   - "De hoofdstukken I en III, alsook het art. 14 werden opgeheven voor het Waalse Gewest door DWG 1985-10-11/33, art. 20, gedeeltelijk in uitvoering getreden door BWG 1985-11-27/32, art. 2, in werking getreden op 17-01-1986"
   - "Zal worden opgeheven voor het Waalse Gewest door DVR 1984-01-24/32, art. 31, § 2, wanneer het hoofdstuk IV in werking zal getreden zijn"
   - "Raadpleging van vroegere versies vanaf 29-02-2008 en tekstbijwerking tot 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 1977. - Wet houdende regeling van de schadeloosstelling voor schade veroorzaakt door het winnen en het pompen van grondwater.

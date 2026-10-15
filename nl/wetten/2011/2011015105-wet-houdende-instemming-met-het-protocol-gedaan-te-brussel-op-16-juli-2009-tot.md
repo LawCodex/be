@@ -10,7 +10,7 @@ date: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015105/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Protocol, gedaan te Brussel op 16 juli 2009, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Singapore tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Singapore op 6 november 2006

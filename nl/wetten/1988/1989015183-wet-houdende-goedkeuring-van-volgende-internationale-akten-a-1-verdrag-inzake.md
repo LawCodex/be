@@ -12,7 +12,7 @@ entry_into_force: 1990-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1988/09/30/1989015183/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 1988. - Wet houdende goedkeuring van volgende Internationale Akten : a) 1. Verdrag inzake het wegverkeer, en Bijlagen, opgemaakt te Wenen op 8 november 1968; 2. Europese Overeenkomst, en Bijlage, tot aanvulling van dit Verdrag, opgemaakt te Genève op 1 mei 1971; b) 1. Verdrag inzake verkeerstekens, en Bijlagen, opgemaakt te Wenen op 8 november 1968; 2. Europese Overeenkomst, en Bijlage, tot aanvulling van dit Verdrag, opgemaakt te Genève op 1 mei 1971: 3. Protocol inzake de wegmarkeringen, en Bijlagen tot aanvulling van de Europese Overeenkomst van 1971, opgemaakt te Genève op 1 maart 1973.

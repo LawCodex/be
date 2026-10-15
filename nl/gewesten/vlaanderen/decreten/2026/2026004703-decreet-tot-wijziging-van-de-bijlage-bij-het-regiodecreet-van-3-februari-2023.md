@@ -13,7 +13,7 @@ entry_into_force: 2026-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/05/2026004703/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2026. - Decreet tot wijziging van de bijlage bij het Regiodecreet van 3 februari 2023, wat betreft de wijziging van de referentieregio van de gemeente Wetteren en de aanpassing aan de gemeentefusies

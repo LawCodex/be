@@ -13,7 +13,7 @@ entry_into_force: 2004-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/27/2003033110/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2003. - Decreet houdende instemming tot het Samenwerkingsakkoord tussen de Duitstalige Gemeenschap van België en het Groothertogdom Luxemburg, ondertekend in Luxemburg op 19 november 2002. (Vertaling).

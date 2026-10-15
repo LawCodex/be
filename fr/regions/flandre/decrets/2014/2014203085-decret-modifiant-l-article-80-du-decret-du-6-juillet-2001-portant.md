@@ -13,7 +13,7 @@ entry_into_force: 2014-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203085/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant l'article 80 du décret du 6 juillet 2001 portant réglementation de la coopération intercommunale, tel que modifié par le décret du 30 avril 2009

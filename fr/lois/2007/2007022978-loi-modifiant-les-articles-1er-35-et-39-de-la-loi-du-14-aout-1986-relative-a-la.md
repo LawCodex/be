@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/19/2007022978/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2007. - Loi modifiant les articles 1er, 35 et 39 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux en vue d'augmenter la peine en cas de sévices occasionnés à un animal et d'interdire les relations sexuelles avec les animaux.

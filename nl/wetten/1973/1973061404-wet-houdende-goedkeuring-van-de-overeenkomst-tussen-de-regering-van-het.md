@@ -10,7 +10,7 @@ date: 1973-06-14
 entry_into_force: 1973-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/06/14/1973061404/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 1973. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Singapore tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, en van het Protocol, ondertekend te Singapore op 8 februari 1972.

@@ -12,7 +12,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/05/2024004121/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2015. - Wet houdende instemming met de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, gedaan te Tegucigalpa op 29 juni 2012

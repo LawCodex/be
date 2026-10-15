@@ -13,7 +13,7 @@ entry_into_force: 2013-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/17/2013029641/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2013. - Décret modifiant le décret du 14 juillet 1997 portant statut de la Radio-Télévision belge de la Communauté française (RTBF)

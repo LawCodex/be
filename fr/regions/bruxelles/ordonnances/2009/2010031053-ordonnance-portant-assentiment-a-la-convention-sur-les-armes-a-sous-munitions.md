@@ -13,7 +13,7 @@ entry_into_force: 2010-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/11/27/2010031053/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2009. - Ordonnance portant assentiment à : la Convention sur les armes à sous-munitions, faite à Dublin le 30 mai 2008

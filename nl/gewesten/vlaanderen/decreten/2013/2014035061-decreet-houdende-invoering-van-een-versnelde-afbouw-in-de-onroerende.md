@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/20/2014035061/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - Decreet houdende invoering van een versnelde afbouw in de onroerende voorheffing van het belastbaar kadastraal inkomen van materieel en outillage ten gevolge van nieuwe investeringen

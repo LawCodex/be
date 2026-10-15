@@ -11,7 +11,7 @@ published: 2001-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/21/2001003328/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2001. - Wet tot wijziging van de gevolgen voor de inkomstenbelastingen van schenkingen aan de Staat en tot wijziging van de regeling voor de aangifte van kunstwerken ter betaling van successierechten.

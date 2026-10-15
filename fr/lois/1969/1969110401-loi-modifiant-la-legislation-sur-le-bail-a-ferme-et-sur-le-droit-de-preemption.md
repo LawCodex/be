@@ -13,7 +13,7 @@ last_amended: 2019-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/11/04/1969110401/justel"
 justel_note: "Consultation des versions antérieures à partir du 08-11-2019 et mise à jour au 08-11-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBRE 1969. - Loi modifiant la législation sur le bail à ferme et sur le droit de préemption en faveur des preneurs de biens ruraux

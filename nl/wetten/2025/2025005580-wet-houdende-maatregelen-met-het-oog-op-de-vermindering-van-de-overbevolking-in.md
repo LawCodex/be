@@ -12,7 +12,7 @@ entry_into_force: 2025-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/18/2025005580/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Wet houdende maatregelen met het oog op de vermindering van de overbevolking in de gevangenissen en tot invoering van de principiële onmogelijkheid om het elektronisch toezicht uit te voeren op de plaats waar het slachtoffer verblijft

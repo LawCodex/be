@@ -13,7 +13,7 @@ entry_into_force: 2016-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/05/26/2016031405/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2016. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 16 februari 2016 tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken

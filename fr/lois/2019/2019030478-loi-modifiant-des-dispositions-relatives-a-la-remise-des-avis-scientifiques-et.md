@@ -12,7 +12,7 @@ entry_into_force: 2019-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/07/2019030478/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2019. - Loi modifiant des dispositions relatives à la remise des avis scientifiques et techniques par l'Agence fédérale des médicaments et des produits de santé et portant sur le financement de l'Agence fédérale des médicaments et des produits de santé ainsi que sur la création d'un bureau du cannabis

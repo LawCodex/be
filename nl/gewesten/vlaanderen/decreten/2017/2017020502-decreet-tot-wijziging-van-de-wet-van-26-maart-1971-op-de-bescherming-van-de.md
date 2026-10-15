@@ -13,7 +13,7 @@ entry_into_force: 2017-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017020502/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet tot wijziging van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer en het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending en houdende delegatie tot coördinatie en codificatie van de waterregelgeving

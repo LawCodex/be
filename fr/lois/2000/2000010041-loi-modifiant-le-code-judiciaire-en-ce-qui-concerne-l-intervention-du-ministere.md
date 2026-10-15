@@ -12,7 +12,7 @@ entry_into_force: 2000-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/11/14/2000010041/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2000. - Loi modifiant le Code judiciaire en ce qui concerne l'intervention du ministère public dans la procédure devant la Cour de cassation et, en matière civile, devant les juges du fond et modifiant les articles 420bis et 420ter du Code d'instruction criminelle.

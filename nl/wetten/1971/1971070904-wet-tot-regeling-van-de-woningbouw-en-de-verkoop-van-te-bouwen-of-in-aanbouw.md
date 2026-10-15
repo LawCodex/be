@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/09/1971070904/justel"
 justel_notes:
   - "en tekstbijwerking tot 19-06-1993"
   - "Raadpleging van vroegere versies vanaf 19-06-1993 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1971. - Wet tot regeling van de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen.

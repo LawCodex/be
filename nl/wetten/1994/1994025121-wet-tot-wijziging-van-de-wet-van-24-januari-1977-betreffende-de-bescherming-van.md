@@ -12,7 +12,7 @@ entry_into_force: 1994-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/09/1994025121/justel"
 department: "Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1994. - Wet tot wijziging van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de verbruikers op het stuk van de voedingsmiddelen en andere produkten.

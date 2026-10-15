@@ -13,7 +13,7 @@ entry_into_force: 2013-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013207024/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2013. - Décret visant à limiter strictement la publication et la diffusion sous format papier des rapports annuels des services publics et des organismes d'intérêt public de la Région wallonne dans un souci environnemental et de bonne gestion budgétaire

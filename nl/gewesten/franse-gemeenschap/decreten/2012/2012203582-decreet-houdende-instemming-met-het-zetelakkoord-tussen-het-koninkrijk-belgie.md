@@ -13,7 +13,7 @@ entry_into_force: 2012-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/31/2012203582/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2012. - Decreet houdende instemming met het zetelakkoord tussen het koninkrijk België en het Secretariaat van de " Regional Cooperation Council ", ondertekend in Brussel op 29 augustus 2008

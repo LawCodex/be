@@ -12,7 +12,7 @@ entry_into_force: 2000-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/22/2000003031/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1999. - Wet houdende negende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1999, Sectie 15 " Internationale Samenwerking ".

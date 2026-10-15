@@ -10,7 +10,7 @@ date: 1985-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/08/08/1985009696/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1985. - Wet betreffende de verjaring van de beroepsaansprakelijkheid van de advocaat en de bewaring van het archief.

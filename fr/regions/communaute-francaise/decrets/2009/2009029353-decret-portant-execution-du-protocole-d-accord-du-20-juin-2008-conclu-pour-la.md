@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029353/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2009 et mise à jour au 28-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant exécution du Protocole d'accord du 20 juin 2008 conclu pour la période 2009-2010 avec les organisations syndicales représentatives du secteur de l'enseignement

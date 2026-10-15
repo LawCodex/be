@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/18/1995033057/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-12-2000 en tekstbijwerking tot 27-01-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1995. - Decreet tot vaststelling van de toelagenregeling voor de aankoop van uitrustingsvoorwerpen door federaties en verenigingen voor de uitoefening van amateurkunst. (VERTALING)

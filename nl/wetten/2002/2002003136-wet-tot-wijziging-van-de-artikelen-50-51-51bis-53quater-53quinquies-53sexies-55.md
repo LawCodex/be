@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/07/2002003136/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2002. - Wet tot wijziging van de artikelen 50, 51, 51bis, 53quater, 53quinquies, 53sexies, 55 en 61 van het Wetboek van de belasting over de toegevoegde waarde.

@@ -13,7 +13,7 @@ entry_into_force: 2008-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/20/2007036001/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2007. - Décret portant assentiment à la Convention internationale contre le dopage dans le sport, fait à Paris le 19 octobre 2005, et les Annexes Ire et II (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2004-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/11/2004009219/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2004. - Wet tot wijziging van de wet van 3 april 1953 betreffende de rechterlijke inrichting en tot tijdelijke toelating tot de benoeming van magistraten in overtal.

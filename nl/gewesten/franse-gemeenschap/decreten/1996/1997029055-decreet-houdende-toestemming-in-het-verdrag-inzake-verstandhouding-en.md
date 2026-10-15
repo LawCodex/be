@@ -13,7 +13,7 @@ entry_into_force: 1997-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/02/1997029055/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1996. - Decreet houdende toestemming in het Verdrag inzake verstandhouding en samenwerking tussen het Koninkrijk België en de Russische Federatie, ondertekend te Brussel op 8 december 1993 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/10/27/2022A31954/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2005. - Convention-cadre du Conseil de l'Europe sur la valeur du patrimoine culturel pour la société, faite à Faro le 27 octobre 2005

@@ -12,7 +12,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/09/2024004591/justel"
 department: "Federaal Agentschap voor de Veiligheid van de Voedselketen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2024. - Wet houdende instemming met het samenwerkingsakkoord van 5 januari 2021 tussen de ministers van Landbouw van de Federale Staat en de Gewesten inzake de verdeling van opdrachten voor de toepassing van de beschermende maatregelen tegen plaagorganismen bij planten

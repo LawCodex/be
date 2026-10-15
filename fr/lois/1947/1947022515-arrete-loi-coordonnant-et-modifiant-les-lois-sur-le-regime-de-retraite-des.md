@@ -11,7 +11,7 @@ published: 1947-04-19
 entry_into_force: 1947-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/02/25/1947022515/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1947. - Arrêté-loi coordonnant et modifiant les lois sur le régime de retraite des ouvriers mineurs et assimilés.

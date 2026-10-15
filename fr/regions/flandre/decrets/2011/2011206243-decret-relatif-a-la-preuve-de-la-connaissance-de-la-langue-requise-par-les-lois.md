@@ -13,7 +13,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/18/2011206243/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2011. - Décret relatif à la preuve de la connaissance de la langue, requise par les lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966

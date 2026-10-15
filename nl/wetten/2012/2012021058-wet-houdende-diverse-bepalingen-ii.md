@@ -12,7 +12,7 @@ entry_into_force: 2012-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/29/2012021058/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2012. - Wet houdende diverse bepalingen (II)

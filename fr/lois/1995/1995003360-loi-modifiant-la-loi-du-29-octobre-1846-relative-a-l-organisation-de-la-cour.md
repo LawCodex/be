@@ -12,7 +12,7 @@ entry_into_force: 1995-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/04/1995003360/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 1995. - Loi modifiant la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes.

@@ -10,7 +10,7 @@ date: 1999-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/2000015030/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met de Overeenkomst inzake Economisch Partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, Bijlage en Slotakte, gedaan te Brussel op 8 december 1997.

@@ -9,7 +9,7 @@ language: nl
 date: 1944-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1944/09/12/1944091250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBER 1944. - BESLUITWET houdende wijziging van de wet van 3 Januari 1933 op de vervaardiging van den handel in en het dragen van wapenen en op den handel in munitie.

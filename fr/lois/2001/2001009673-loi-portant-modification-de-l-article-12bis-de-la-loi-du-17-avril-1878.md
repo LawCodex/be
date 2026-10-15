@@ -12,7 +12,7 @@ entry_into_force: 2001-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/18/2001009673/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2001. - Loi portant modification de l'article 12bis de la loi du 17 avril 1878 contenant le Titre préliminaire du Code de procédure pénale.

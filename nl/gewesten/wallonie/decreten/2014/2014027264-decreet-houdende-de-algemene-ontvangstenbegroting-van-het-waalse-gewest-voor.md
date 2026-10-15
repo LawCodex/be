@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/11/2014027264/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2014 en tekstbijwerking tot 07-08-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2014. - Decreet houdende de algemene ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 2015

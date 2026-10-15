@@ -11,7 +11,7 @@ published: 2014-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/28/2014202136/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Wet tot aanvulling van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk wat de preventie van psychosociale risico's op het werk betreft, waaronder inzonderheid geweld, pesterijen en ongewenst seksueel gedrag op het werk

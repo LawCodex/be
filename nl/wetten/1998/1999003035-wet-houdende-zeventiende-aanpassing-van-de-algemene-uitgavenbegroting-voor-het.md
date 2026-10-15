@@ -12,7 +12,7 @@ entry_into_force: 1999-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/23/1999003035/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1998. - Wet houdende zeventiende aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 1998 - Sectie 14 - "Buitenlandse Zaken en Buitenlandse Handel".

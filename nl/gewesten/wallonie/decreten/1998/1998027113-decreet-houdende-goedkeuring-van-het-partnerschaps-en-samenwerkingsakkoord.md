@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/05/1998027113/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1998. - Decreet houdende goedkeuring van het Partnerschaps- en Samenwerkingsakkoord, waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en de Republiek Oesbekistan, anderzijds, van de Bijlagen I, II, III, IV, V, het Protocol en de Slotakte, opgemaakt te Florence op 21 juni 1996 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1985-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/11/16/1985015071/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 1984. - Wet houdende goedkeuring van volgende Internationale Akten :

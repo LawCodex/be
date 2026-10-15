@@ -12,7 +12,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/30/2016015110/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2016. - Loi portant assentiment à la Convention générale de coopération entre le Royaume de Belgique et la République de Guinée, faite à Conakry le 5 janvier 2016

@@ -13,7 +13,7 @@ entry_into_force: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/28/2021043009/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat een uitbreiding van de gevallen betreft waarin de netbeheerder optreedt als de noodleverancier

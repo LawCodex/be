@@ -12,7 +12,7 @@ entry_into_force: 2019-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/15/2019030127/justel"
 department: "Intérieur - Justice - Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2019. - Loi modifiant des dispositions relatives à la politique scientifique, la police intégrée et la défense

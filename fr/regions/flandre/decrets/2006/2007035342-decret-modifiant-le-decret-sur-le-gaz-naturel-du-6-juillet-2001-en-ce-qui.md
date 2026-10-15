@@ -13,7 +13,7 @@ entry_into_force: 2007-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2007035342/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret modifiant le décret sur le Gaz naturel du 6 juillet 2001, en ce qui concerne l'extension du degré de couverture du réseau de distribution de gaz naturel (TRADUCTION).

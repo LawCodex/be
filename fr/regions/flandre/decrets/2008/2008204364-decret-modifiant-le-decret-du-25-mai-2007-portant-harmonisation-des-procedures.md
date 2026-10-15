@@ -13,7 +13,7 @@ entry_into_force: 2008-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/21/2008204364/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2008. - Décret modifiant le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption (TRADUCTION).

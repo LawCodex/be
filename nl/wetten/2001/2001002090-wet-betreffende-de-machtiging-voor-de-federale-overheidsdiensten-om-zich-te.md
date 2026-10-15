@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/17/2001002090/justel"
 department: "Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 31-07-2001 en tekstbijwerking tot 08-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2001. - Wet betreffende de machtiging voor de federale overheidsdiensten om zich te verenigen met het oog op de uitvoering van werkzaamheden inzake informatiebeheer en informatieveiligheid

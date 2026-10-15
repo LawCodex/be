@@ -13,7 +13,7 @@ entry_into_force: 2026-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/01/23/2026001483/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2026. - Decreet tot wijziging van regelgeving over de beleidsvelden gezondheids- en woonzorg en sociale bescherming, wat betreft de decretale verankering van de essentiële elementen voor de verwerking van persoonsgegevens

@@ -12,7 +12,7 @@ entry_into_force: 2013-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/08/2013009226/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2013. - Loi modifiant, en ce qui concerne la conservation des bicyclettes, l'article 2 de la loi du 30 décembre 1975 concernant les biens trouvés en dehors des propriétés privées ou mis sur la voie publique en exécution de jugements d'expulsion

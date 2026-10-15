@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/03/19/2015031177/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2015. - Ordonnantie houdende instemming met : het Verdrag van de Raad van Europa ter voorkoming en bestrijding van geweld tegen vrouwen en huiselijk geweld, opgemaakt in Istanboel op 11 mei 2011

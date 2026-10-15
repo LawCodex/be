@@ -13,7 +13,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/06/2013029382/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2013. - Décret portant assentiment à l'accord de coopération du 21 février 2013 entre la Région wallonne et la Communauté française en matière de simplification administrative et d'administration électronique et organisant un réseau des correspondants en charge de la simplification administrative et de l'administration électronique

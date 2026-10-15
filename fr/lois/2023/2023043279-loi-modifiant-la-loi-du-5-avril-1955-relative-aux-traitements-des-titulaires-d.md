@@ -12,7 +12,7 @@ entry_into_force: 2023-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/29/2023043279/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2023. - Loi modifiant la loi du 5 avril 1955 relative aux traitements des titulaires d'une fonction au Conseil d'Etat et des magistrats et membres du greffe du Conseil du Contentieux des étrangers

@@ -11,7 +11,7 @@ published: 2018-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018013455/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Wet tot wijziging van de wet van 21 maart 2007 tot regeling van de plaatsing en het gebruik van bewakingscamera's met het oog op het verbeteren van de samenhang van de tekst en de overeenstemming ervan met de Algemene Verordening Gegevensbescherming (AVG)

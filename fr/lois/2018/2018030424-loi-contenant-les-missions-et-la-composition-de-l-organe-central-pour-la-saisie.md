@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/04/2018030424/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-02-2018 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2018. - Loi contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation (appelée la "loi OCSC")

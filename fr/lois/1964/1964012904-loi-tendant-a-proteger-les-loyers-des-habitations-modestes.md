@@ -11,7 +11,7 @@ published: 1964-02-08
 entry_into_force: 1964-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/01/29/1964012904/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 1964. - Loi tendant à protéger les loyers des habitations modestes.

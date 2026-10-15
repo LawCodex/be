@@ -13,7 +13,7 @@ entry_into_force: 1999-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/24/2002035732/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2002. - Décret modifiant l'article 116octies decies des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

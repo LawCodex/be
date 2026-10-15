@@ -13,7 +13,7 @@ entry_into_force: 2011-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/07/20/2011031390/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Ordonnance contenant le premier ajustement du Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2011 suite à la délibération budgétaire n° 01 du Gouvernement de la Région de Bruxelles-Capitale

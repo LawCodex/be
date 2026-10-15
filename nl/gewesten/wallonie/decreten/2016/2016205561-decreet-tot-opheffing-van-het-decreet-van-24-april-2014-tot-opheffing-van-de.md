@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/20/2016205561/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 14-11-2016 en tekstbijwerking tot 05-04-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Decreet tot opheffing van het decreet van 24 april 2014 tot opheffing van de artikelen 1 tot 128 en 129quater tot 184 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw, Patrimonium en Energie, tot opheffing van de artikelen 1 tot 128 en 129quater tot 184 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium en tot vorming van het Wetboek van Ruimtelijke Ontwikkeling

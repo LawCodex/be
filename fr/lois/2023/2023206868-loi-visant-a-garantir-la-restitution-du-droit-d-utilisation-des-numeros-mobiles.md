@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/18/2023206868/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2023. - Loi visant à garantir la restitution du droit d'utilisation des numéros mobiles des travailleurs à l'issue du contrat de travail

@@ -9,7 +9,7 @@ language: nl
 date: 1970-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/02/28/1970022806/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1970. - Wet houdende goedkeuring van de Europese Overeenkomst inzake beperking van het gebruik van bepaalde detergentia in was- en reinigingsmiddelen, opgemaakt te Straatsburg op 16 september 1968.

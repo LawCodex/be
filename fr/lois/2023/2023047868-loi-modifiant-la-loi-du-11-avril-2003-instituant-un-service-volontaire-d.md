@@ -12,7 +12,7 @@ entry_into_force: 2023-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/21/2023047868/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2023. - Loi modifiant la loi du 11 avril 2003 instituant un service volontaire d'utilité collective

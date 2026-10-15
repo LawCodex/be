@@ -13,7 +13,7 @@ entry_into_force: 2008-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008202441/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret portant le paiement de budgets uniques de fonctionnement dans l'enseignement fondamental et de budgets uniques de fonctionnement dans l'enseignement secondaire pour l'année budgétaire 2008 (TRADUCTION).

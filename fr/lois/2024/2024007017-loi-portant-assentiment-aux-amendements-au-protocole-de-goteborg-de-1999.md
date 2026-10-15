@@ -12,7 +12,7 @@ entry_into_force: 2024-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/11/2024007017/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2024. - Loi portant assentiment aux amendements au Protocole de Göteborg de 1999 relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, avec annexes, faits à Genève le 4 mai 2012, et modifiant la loi du 1er mai 2006 portant assentiment au Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, fait à Göteborg le 30 novembre 1999

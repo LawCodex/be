@@ -13,7 +13,7 @@ entry_into_force: 2021-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/23/2021033440/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2021. - Décret portant assentiment à la Convention entre le Grand-Duché de Luxembourg et la Région wallonne relative à l'assainissement des eaux usées, à la protection des captages d'eau potabilisable et au suivi de la directive nitrates, signée à Martelange le 9 avril 2019

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/03/1997003241/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 16-05-1997 et mise à jour au 31-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1997. - Loi relative au régime fiscal des tabacs manufacturés.

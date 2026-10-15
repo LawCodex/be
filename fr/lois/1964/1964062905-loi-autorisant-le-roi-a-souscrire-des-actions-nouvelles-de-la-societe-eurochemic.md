@@ -11,7 +11,7 @@ published: 1964-07-16
 entry_into_force: 1964-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/06/29/1964062905/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 1964. - Loi autorisant le Roi à souscrire des actions nouvelles de la société " Eurochemic ".

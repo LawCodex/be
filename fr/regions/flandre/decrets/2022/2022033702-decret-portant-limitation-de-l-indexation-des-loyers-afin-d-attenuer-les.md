@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/03/2022033702/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-10-2022 et mise à jour au 30-05-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 OCTOBRE 2022. - Décret portant limitation de l'indexation des loyers afin d'atténuer les conséquences de la crise énergétique

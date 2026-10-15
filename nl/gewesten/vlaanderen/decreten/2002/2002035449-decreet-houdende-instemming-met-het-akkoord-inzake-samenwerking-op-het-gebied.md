@@ -13,7 +13,7 @@ entry_into_force: 2002-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/15/2002035449/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2002. - Decreet houdende instemming met het akkoord inzake samenwerking op het gebied van cultuur, taal, onderwijs en wetenschappen tussen de Vlaamse regering en de Regering van de Franse Republiek, ondertekend in Brussel op 28 september 2000.

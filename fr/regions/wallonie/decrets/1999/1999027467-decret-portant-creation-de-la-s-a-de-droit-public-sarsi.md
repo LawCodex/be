@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027467/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 16-06-1999 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1999. - Décret portant création de la S.A. de droit public SARSI.

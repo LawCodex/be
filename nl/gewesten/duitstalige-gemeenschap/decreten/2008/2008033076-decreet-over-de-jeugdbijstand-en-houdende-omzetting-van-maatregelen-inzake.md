@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/19/2008033076/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2013 en tekstbijwerking tot 15-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2008. - Decreet over de Jeugdbijstand en houdende omzetting van maatregelen inzake jeugdbescherming (VERTALING)

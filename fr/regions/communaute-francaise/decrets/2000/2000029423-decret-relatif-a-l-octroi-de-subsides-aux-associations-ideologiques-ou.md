@@ -13,7 +13,7 @@ entry_into_force: 2000-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/11/30/2000029423/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2000. - Décret relatif à l'octroi de subsides aux associations idéologiques ou politiques auxquelles peuvent être confiées des émissions de radio ou de télévision à la radio-télévision belge de la Communauté française (R.T.B.F.).

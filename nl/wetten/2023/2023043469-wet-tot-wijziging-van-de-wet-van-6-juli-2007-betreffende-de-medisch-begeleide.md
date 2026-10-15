@@ -12,7 +12,7 @@ entry_into_force: 2023-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/09/2023043469/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2023. - Wet tot wijziging van de wet van 6 juli 2007 betreffende de medisch begeleide voortplanting en de bestemming van de overtallige embryo's en de gameten

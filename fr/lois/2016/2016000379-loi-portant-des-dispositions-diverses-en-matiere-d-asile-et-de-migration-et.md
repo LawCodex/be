@@ -12,7 +12,7 @@ entry_into_force: 2016-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016000379/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2016. - Loi portant des dispositions diverses en matière d'asile et de migration et modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers

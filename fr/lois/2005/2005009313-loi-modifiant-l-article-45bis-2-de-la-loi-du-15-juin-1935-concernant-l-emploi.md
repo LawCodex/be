@@ -12,7 +12,7 @@ entry_into_force: 2005-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/13/2005009313/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2005. - Loi modifiant l'article 45bis, § 2, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, la loi du 15 juillet 1970 déterminant le cadre du personnel des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire et l'article 205 du Code judiciaire.

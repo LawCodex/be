@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "Artikel 12 gewijzigd met ingang op een onbepaalde datum bij DWG 2005-07-20/66 , art. 39, 003; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 24-08-2004 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet betreffende de toeristische bezienswaardigheden (VERTALING).

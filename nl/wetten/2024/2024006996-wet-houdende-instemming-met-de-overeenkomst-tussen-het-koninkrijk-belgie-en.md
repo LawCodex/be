@@ -12,7 +12,7 @@ entry_into_force: 2025-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/07/01/2024006996/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2024. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Quebec tot wijziging van de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en Quebec ondertekend in Quebec op 28 maart 2006, gedaan te Quebec op 19 april 2023

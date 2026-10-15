@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/27/2003029189/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-04-2003 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Decreet houdende erkenning en subsidiëring van de plaatselijke sportcentra en de geïntegreerde plaatselijke sportcentra (VERTALING)

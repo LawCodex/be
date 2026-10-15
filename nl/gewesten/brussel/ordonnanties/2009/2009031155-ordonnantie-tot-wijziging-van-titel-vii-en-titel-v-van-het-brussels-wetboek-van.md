@@ -13,7 +13,7 @@ entry_into_force: 2009-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/19/2009031155/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Ordonnantie tot wijziging van titel VII en titel V van het Brussels Wetboek van Ruimtelijke Ordening betreffende het voorkooprecht (Raadpleging van vroegere versies vanaf 07-04-2009 en tekstbijwerking tot 17-12-2010)

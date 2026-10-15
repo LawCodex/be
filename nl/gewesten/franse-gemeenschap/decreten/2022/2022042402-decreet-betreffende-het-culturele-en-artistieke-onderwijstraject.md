@@ -13,7 +13,7 @@ entry_into_force: 2022-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/13/2022042402/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2022. - Decreet betreffende het culturele en artistieke onderwijstraject

@@ -13,7 +13,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/15/1999035643/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1998. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 7 april l998 tussen de Staat en de Vlaamse Gemeenschap inzake slachtofferzorg.

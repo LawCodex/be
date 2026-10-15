@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/07/2024002043/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Ordonnance portant assentiment: 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Canada en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune faite à Ottawa le 23 mai 2002, telle que modifiée par le protocole signé à Bruxelles le 1er avril 2014; et 2° au Protocole, signé à Bruxelles le 1er avril 2014, amendant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Canada en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune faite à Ottawa le 23 mai 2002

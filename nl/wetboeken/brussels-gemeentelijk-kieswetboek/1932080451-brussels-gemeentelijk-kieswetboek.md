@@ -16,7 +16,7 @@ department: "Brussels Hoofdstedelijk Gewest"
 justel_notes:
   - "Gemeentekieswet gecoördineerd op 04-08-1932, aangepast en gewijzigd bij ORD 2006-02-16/35 , Inwerkingtreding : 10-03-2006"
   - "Raadpleging van vroegere versies vanaf 28-02-2006 en tekstbijwerking tot 14-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1932. - Brussels Gemeentelijk Kieswetboek.

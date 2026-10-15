@@ -11,7 +11,7 @@ published: 1965-05-21
 entry_into_force: 1965-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/22/1965042204/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 1965. - Wet waarbij de Staat ertoe gemachtigd wordt aandelen van de naamloze vennootschap "Distrigaz" te onderschrijven.

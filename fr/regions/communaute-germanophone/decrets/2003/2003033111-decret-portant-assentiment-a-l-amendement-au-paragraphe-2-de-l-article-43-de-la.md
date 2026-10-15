@@ -13,7 +13,7 @@ entry_into_force: 2004-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/27/2003033111/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2003. - Décret portant assentiment à l'amendement au paragraphe 2 de l'article 43 de la Convention relative aux droits de l'enfant, adopté à la Conférence des Etats parties le 12 décembre 1995. (Traduction).

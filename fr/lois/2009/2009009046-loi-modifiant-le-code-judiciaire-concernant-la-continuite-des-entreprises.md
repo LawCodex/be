@@ -12,7 +12,7 @@ entry_into_force: 2009-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/01/26/2009009046/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2009. - Loi modifiant le Code judiciaire concernant la continuité des entreprises.

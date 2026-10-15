@@ -12,7 +12,7 @@ entry_into_force: 1999-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/23/1999009088/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 1998. - Wet tot wijziging van artikel 867 van het Gerechtelijk Wetboek.

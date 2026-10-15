@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/21/2009035037/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-01-2009 et mise à jour au 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2008. - Décret contenant diverses mesures d'accompagnement du deuxième ajustement du budget 2008. (Traduction)

@@ -10,7 +10,7 @@ date: 2001-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2004015094/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen, gedaan te New York op 6 oktober 1999.

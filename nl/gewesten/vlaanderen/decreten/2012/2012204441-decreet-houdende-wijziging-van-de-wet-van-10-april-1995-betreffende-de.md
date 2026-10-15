@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204441/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Decreet houdende wijziging van de wet van 10 april 1995 betreffende de herverdeling van de arbeid in de openbare sector en tot opheffing van regelgeving houdende de uitvoering van artikel 14 en 27, § 4, van dezelfde wet

@@ -11,7 +11,7 @@ entry_into_force: 1991-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/04/19/1991015201/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1991. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Republiek Turkije tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, en van het Protocol, ondertekend te Ankara op 2 juni 1987.

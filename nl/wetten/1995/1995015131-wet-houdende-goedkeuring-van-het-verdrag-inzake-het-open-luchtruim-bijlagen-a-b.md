@@ -12,7 +12,7 @@ entry_into_force: 1995-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/15/1995015131/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 1995. - Wet houdende goedkeuring van het Verdrag inzake het open luchtruim, Bijlagen A, B, C, D, E, F, G, H, I, J, K en L, gedaan te Helsinki op 24 maart 1992.

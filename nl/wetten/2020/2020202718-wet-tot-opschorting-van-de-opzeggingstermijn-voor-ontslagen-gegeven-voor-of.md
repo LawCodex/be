@@ -12,7 +12,7 @@ entry_into_force: 2020-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/15/2020202718/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2020. - Wet tot opschorting van de opzeggingstermijn voor ontslagen gegeven voor of tijdens de periode van tijdelijke schorsing van de uitvoering van de arbeidsovereenkomst omwille van overmacht ingevolge de COVID-19-crisis

@@ -13,7 +13,7 @@ entry_into_force: 2023-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/07/2023043724/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2023. - Décret portant assentiment à la convention portant création de l'Organisation internationale pour les aides à la navigation maritime et l'annexe, signées à Paris le 27 janvier 2021

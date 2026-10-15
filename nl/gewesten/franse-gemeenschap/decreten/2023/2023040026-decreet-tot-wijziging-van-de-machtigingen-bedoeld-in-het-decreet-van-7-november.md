@@ -12,7 +12,7 @@ published: 2023-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/01/12/2023040026/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2023. - Decreet tot wijziging van de machtigingen bedoeld in het decreet van 7 november 2013 tot bepaling van het hogeronderwijslandschap en de academische organisatie van de studies in het kader van de hervorming van de initiële opleiding van leerkrachten

@@ -13,7 +13,7 @@ entry_into_force: 2009-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/25/2009203228/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2009. - Decreet houdende instemming met het Facultatief Protocol bij het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, aangenomen te New York op 18 december 2002

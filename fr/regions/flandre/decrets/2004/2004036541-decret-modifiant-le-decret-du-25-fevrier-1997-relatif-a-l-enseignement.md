@@ -13,7 +13,7 @@ entry_into_force: 2004-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036541/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental pour ce qui concerne l'enseignement des langues étrangères dans l'enseignement fondamental ordinaire. (Traduction).

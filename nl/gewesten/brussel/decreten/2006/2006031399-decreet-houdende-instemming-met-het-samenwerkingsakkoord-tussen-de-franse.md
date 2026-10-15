@@ -13,7 +13,7 @@ entry_into_force: 2006-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/01/2006031399/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2006. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest en de Roemeense Regering, ondertekend te Brussel op 25 mei 2005 (VERTALING).

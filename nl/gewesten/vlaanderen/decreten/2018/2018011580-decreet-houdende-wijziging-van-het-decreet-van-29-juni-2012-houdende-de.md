@@ -13,7 +13,7 @@ entry_into_force: 2018-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/16/2018011580/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2018. - Decreet houdende wijziging van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/21/2023015236/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2023 en tekstbijwerking tot 02-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2022. - Decreet betreffende de erkenning en de subsidiëring van de "structures d'accompagnement à l'autocréation d'emploi" [ 1 Starter Wallonia] 1 ( 1 )&lt;DWG 2026-07-16/37 , art.1 , 004; Inwerkingtreding : 12-09-2026&gt;

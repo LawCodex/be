@@ -11,7 +11,7 @@ published: 1980-10-14
 entry_into_force: 1980-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/02/04/1980020411/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1980. \_ Wet houdende goedkeuring van de Douaneovereenkomst inzake het internationale vervoer van goederen onder dekking van carnets TIR, en van de Bijlagen, opgemaakt te Genève op 14 november 1975.

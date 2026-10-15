@@ -13,7 +13,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/06/26/1992029432/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1992. - Décret portant approbation de l'accord de coopération du 2 avril 1992 modifiant l'accord de coopération relatif à l'exercice conjoint de compétences par la Communauté francaise et la Région wallonne, conclu à Namur, le 17 novembre 1990.

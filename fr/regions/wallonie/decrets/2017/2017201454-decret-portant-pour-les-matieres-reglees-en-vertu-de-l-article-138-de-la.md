@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/02/2017201454/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2017. - Décret portant, pour les matières réglées en vertu de l'article 138 de la Constitution, abrogation du décret du 18 juillet 1997 relatif à la formation professionnelle donnée dans le cadre du programme de transition professionnelle et de l'arrêté du Gouvernement wallon du 18 juillet 2013 relatif au stage de transition, dans le cadre de l'instauration du dispositif relatif au contrat d'insertion

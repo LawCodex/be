@@ -13,7 +13,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004735/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret relatif à la coordination mutuelle du Code flamand du Logement de 2021, du Décret Instruments du 26 mai 2023 et du décret du 26 mai 2023 modifiant le Code flamand de l'Aménagement du Territoire du 15 mai 2009, en ce qui concerne les zones de réserve d'habitat

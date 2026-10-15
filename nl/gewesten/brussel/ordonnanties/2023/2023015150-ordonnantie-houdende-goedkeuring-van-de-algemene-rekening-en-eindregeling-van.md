@@ -13,7 +13,7 @@ entry_into_force: 2023-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/02/09/2023015150/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2023. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van Actiris voor het jaar 2020

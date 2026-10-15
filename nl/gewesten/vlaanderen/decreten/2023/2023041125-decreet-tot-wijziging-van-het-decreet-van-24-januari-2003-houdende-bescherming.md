@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/10/2023041125/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 23-03-2023 en tekstbijwerking tot 03-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2023. - Decreet tot wijziging van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang en de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de inbetalinggeving van cultuurgoederen ter voldoening van de erfbelasting

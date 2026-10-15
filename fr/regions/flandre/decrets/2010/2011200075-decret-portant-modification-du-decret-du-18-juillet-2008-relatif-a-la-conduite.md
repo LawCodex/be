@@ -13,7 +13,7 @@ entry_into_force: 2011-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/03/2011200075/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2010. - Décret portant modification du décret du 18 juillet 2008 relatif à la conduite d'une politique flamande des droits de l'enfant et de la jeunesse

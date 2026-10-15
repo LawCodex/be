@@ -13,7 +13,7 @@ entry_into_force: 2023-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/06/2023043999/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2023. - Décret modifiant le décret du 28 mars 2019 sur la nouvelle gouvernance culturelle

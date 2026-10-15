@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036108/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment au Protocole sur l'eau et la santé, fait à Londres le 17 juin 1999, à la Convention sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, faite à Helsinki le 17 mars 1992 (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2009-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/08/2009011192/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2009. - Wet tot wijziging van de wet van 21 december 1994 houdende sociale en diverse bepalingen

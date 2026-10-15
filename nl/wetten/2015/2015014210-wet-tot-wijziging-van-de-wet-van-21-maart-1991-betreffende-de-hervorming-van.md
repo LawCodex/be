@@ -11,7 +11,7 @@ entry_into_force: 2015-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015014210/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven

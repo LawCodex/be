@@ -11,7 +11,7 @@ published: 1967-04-04
 entry_into_force: 1967-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/03/31/1967033103/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 1967. - Wet tot toekenning van bepaalde machten aan de Koning ten einde de economische heropleving, de bespoediging van de regionale reconversie en de stabilisatie van het begrotingsevenwicht te verzekeren.

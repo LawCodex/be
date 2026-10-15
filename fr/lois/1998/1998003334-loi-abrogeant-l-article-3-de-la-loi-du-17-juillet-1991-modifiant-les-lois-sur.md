@@ -12,7 +12,7 @@ entry_into_force: 1998-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/19/1998003334/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1998. - Loi abrogeant l'article 3 de la loi du 17 juillet 1991 modifiant les lois sur les pensions de réparation, coordonnées le 5 octobre 1948, en ce qui concerne la pension de réparation du conjoint survivant d'un invalide militaire.

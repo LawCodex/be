@@ -13,7 +13,7 @@ entry_into_force: 2003-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/21/2003035279/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2003. - Décret modifiant le Code des impôts sur les revenus 1992, pour ce qui concerne le précompte immobilier (TRADUCTION).

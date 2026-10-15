@@ -13,7 +13,7 @@ entry_into_force: 1998-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/28/1998035539/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 1998. - Décret modifiant certaines dispositions des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

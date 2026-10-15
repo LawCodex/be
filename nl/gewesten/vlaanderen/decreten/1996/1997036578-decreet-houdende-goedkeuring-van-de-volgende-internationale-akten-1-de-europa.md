@@ -13,7 +13,7 @@ entry_into_force: 1997-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/03/1997036578/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 1996. - Decreet houdende goedkeuring van de volgende internationale akten : 1. de Europa-Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lid-Staten enerzijds, en de republiek Estland anderzijds, en Bijlagen I, II, III, IV, V, VI, VII, VIII, IX en X, 8 Gemeenschappelijke verklaringen, twee akkoorden onder de vorm van wisseling van brieven, en één Verklaring van Estland, ondertekend in Luxemburg op 12 juni 1995; 2. de Europa-Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lid-Staten enerzijds, en de republiek Letland anderzijds, en Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII en XVIII, 12 Gemeenschappelijke verklaringen, twee akkoorden onder de vorm van wisseling van brieven, en één Verklaring van Letland, ondertekend in Luxemburg op 12 juni 1995; 3. de Europa-Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lid-Staten enerzijds, en de republiek Litouwen anderzijds, en Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX en XX, 9 Gemeenschappelijke verklaringen, twee akkoorden onder de vorm van wisseling van brieven, en één Verklaring van Litouwen, ondertekend in Luxemburg op 12 juni 1995.

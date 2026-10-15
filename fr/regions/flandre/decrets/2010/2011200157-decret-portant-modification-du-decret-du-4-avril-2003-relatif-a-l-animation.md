@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2011200157/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret portant modification du décret du 4 avril 2003 relatif à l'animation socioculturelle des adultes pour ce qui est des associations de migrants

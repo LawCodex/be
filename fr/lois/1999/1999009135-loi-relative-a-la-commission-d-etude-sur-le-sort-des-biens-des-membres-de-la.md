@@ -12,7 +12,7 @@ entry_into_force: 1997-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/15/1999009135/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 1999. - Loi relative à la Commission d'étude sur le sort des biens des membres de la communauté juive de Belgique spoliés ou délaissés pendant la guerre 1940-1945.

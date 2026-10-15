@@ -11,7 +11,7 @@ entry_into_force: 2001-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/03/2001015086/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2000. - Wet houdende instemming met de Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie betreffende uitlevering tussen de Lidstaten van de Europese Unie, en Bijlage, gedaan te Dublin op 27 september 1996. &lt;Erratum, B.S. 23-10-2001, p. 36749&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/01/19/2022030600/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2022. - Loi portant le livre 2, titre 3, "Les relations patrimoniales des couples" et le livre 4 "Les successions, donations et testaments" du Code civil

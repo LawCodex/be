@@ -13,7 +13,7 @@ entry_into_force: 2018-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/22/2018040091/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2018. - Décret portant assentiment à La Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition en matière d'impôts sur le revenu et à prévenir la fraude fiscale, et le Protocole, signés à Oslo le 23 avril 2014

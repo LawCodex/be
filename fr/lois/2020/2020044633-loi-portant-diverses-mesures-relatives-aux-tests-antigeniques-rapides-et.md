@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/22/2020044633/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 24-12-2020 et mise à jour au 29-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2020. - Loi portant diverses mesures relatives aux tests antigéniques rapides et concernant l'enregistrement et le traitement de données relatives aux vaccinations dans le cadre de la lutte contre la pandémie de COVID-19

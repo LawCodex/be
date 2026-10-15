@@ -12,7 +12,7 @@ entry_into_force: 2024-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/18/2024005092/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2024. - Loi modifiant la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé et la loi du 10 mai 2015 relative à l'exercice des professions des soins de santé, en ce qui concerne la maîtrise de la langue des professionnels des soins de santé

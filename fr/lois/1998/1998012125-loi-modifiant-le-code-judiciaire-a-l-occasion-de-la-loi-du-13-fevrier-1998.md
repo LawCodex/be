@@ -12,7 +12,7 @@ entry_into_force: 1998-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/13/1998012125/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 1998. - Loi modifiant le code judiciaire à l'occasion de la loi du 13 février 1998 portant des dispositions en faveur de l'emploi.

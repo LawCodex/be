@@ -12,7 +12,7 @@ entry_into_force: 1991-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/07/19/1991029585/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1991. - Decreet houdende toestemming in het Samenwerkingsakkoord tussen de Franse Gemeenschap van België en de Republiek Burundi, opgemaakt te Brussel op 8 mei 1991.

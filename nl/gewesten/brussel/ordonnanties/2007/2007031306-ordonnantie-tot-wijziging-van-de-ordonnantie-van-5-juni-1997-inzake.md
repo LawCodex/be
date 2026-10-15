@@ -13,7 +13,7 @@ entry_into_force: 2008-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/19/2007031306/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Ordonnantie tot wijziging van de ordonnantie van 5 juni 1997 inzake milieuvergunningen en de ordonnantie van 25 maart 1999 inzake het onderzoek, de opsporing, de vaststelling, de vervolging en de bestraffing van misdrijven inzake leefmilieu

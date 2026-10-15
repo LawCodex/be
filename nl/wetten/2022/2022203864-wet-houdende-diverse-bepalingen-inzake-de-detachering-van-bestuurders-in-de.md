@@ -12,7 +12,7 @@ entry_into_force: 2022-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/19/2022203864/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2022. - Wet houdende diverse bepalingen inzake de detachering van bestuurders in de sector van het wegvervoer

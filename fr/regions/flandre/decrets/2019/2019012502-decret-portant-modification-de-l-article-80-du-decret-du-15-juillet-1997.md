@@ -13,7 +13,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012502/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant modification de l'article 80 du décret du 15 juillet 1997 contenant le Code flamand du Logement, en ce qui concerne l'extension de l'assurance du logement garanti à la protection contre la perte de revenus des travailleurs indépendants suite à la cessation involontaire de leur activité

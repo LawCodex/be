@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035461/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret portant assentiment 1° à la convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Canberra le 13 octobre 1977, telle que modifiée par le protocole signé à Canberra le 20 mars 1984 et le second protocole fait à Paris le 24 juin 2009; 2° au second protocole modifiant la convention visée au 1°, fait à Paris le 24 juin 2009

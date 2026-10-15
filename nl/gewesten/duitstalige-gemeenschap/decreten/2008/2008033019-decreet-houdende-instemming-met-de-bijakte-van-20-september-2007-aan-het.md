@@ -13,7 +13,7 @@ entry_into_force: 2008-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/25/2008033019/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2008. - Decreet houdende instemming met de bijakte van 20 september 2007 aan het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie (VERTALING) (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035788/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet houdende instemming met de overeenkomst tussen de Belgische-Luxemburgse Economische Unie, enerzijds, en de regering van de republiek Oezbekistan, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Tashkent op 17 april 1998.

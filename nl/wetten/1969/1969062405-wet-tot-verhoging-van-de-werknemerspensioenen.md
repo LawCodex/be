@@ -11,7 +11,7 @@ published: 1969-07-05
 entry_into_force: 1969-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/06/24/1969062405/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1969. - Wet tot verhoging van de werknemerspensioenen.

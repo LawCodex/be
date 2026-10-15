@@ -13,7 +13,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027224/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment à l'amendement à la Convention de Bâle sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination, adopté à la troisième réunion de la Conférence des Parties, à Genève, le 22 septembre 1995.

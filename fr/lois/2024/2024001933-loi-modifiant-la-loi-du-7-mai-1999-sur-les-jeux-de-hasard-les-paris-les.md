@@ -12,7 +12,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/18/2024001933/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2024. - Loi modifiant la loi du 7 mai 1999 sur les jeux de hasard, les paris, les établissements de jeux de hasard et la protection des joueurs

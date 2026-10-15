@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/21/2021031630/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 09-07-2021 en tekstbijwerking tot 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2021. - Decreet houdende de machtiging van de Vlaamse deelnemers aan en de regeling van de modaliteiten van deelname aan de lokale integrale veiligheidscellen inzake radicalisme, extremisme en terrorisme

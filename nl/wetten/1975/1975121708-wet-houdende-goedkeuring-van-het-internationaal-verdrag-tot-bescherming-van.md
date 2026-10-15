@@ -11,7 +11,7 @@ published: 1976-12-29
 entry_into_force: 1977-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/12/17/1975121708/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1975. - Wet houdende goedkeuring van het Internationaal Verdrag tot bescherming van kweekprodukten, en van de Bijlage, opgemaakt te Parijs op 2 december 1961, alsmede van de Aanvullende Akte bij dit Verdrag, opgemaakt te Genève op 10 november 1972.

@@ -13,7 +13,7 @@ entry_into_force: 2022-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/10/2022020521/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2022. - Décret portant des adaptations en matière de port du masque dans les transports de personnes par tram, pré-métro, métro, autobus et autocar

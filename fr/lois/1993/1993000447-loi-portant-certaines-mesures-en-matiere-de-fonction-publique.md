@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/07/22/1993000447/justel"
 department: "Intérieur - Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 23-12-1994 et mise à jour au 08-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1993. - Loi portant certaines mesures en matière de fonction publique.

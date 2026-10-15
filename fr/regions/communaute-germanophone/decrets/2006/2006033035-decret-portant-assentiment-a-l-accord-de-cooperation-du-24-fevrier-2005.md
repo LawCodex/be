@@ -13,7 +13,7 @@ entry_into_force: 2006-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/01/30/2006033035/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2006. - Décret portant assentiment à l'accord de coopération du 24 février 2005 concernant la mobilité interrégionale des chercheurs d'emploi conclu entre la Région de Bruxelles-Capitale, la Région wallonne, la Communauté flamande, la Communauté germanophone et la Commission communautaire française (TRADUCTION).

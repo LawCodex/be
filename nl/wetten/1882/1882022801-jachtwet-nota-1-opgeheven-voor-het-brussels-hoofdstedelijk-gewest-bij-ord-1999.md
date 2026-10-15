@@ -13,7 +13,7 @@ last_amended: 2026-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1882/02/28/1882022801/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-11-1987 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1882. - Jachtwet. (NOTA 1 : Opgeheven voor het Brussels Hoofdstedelijk Gewest bij ORD 1999-03-25/53 , art. 43, Inwerkingtreding : 04-07-1999, uitgezonderd artikel 10) (NOTA 2 : Opgeheven voor het Brussels Hoofdstedelijk Gewest bij ORD 2012-03-01/15 , art.118, § 2, 1°, 020; Inwerkingtreding : 26-03-2012) (NOTA 3 : Opgeheven voor het Brussels Hoofdstedelijk Gewest bij VARIA 2014-04-25/A3 , art. 59,2°, 021; Inwerkingtreding : 01-01-2015, uitgezonderd artikel 10)

@@ -13,7 +13,7 @@ entry_into_force: 1998-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/03/17/1998035403/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1998. - Décret portant approbation de l'Accord entre le Gouvernement flamand et le Gouvernement de la République de l'Afrique du Sud sur la coopération dans les domaines de l'enseignement, l'art, la culture, les sciences, la technologie et le sport, signé à Pretoria le 28 octobre 1996.

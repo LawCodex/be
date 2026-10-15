@@ -12,7 +12,7 @@ entry_into_force: 2021-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/12/2021031824/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2021. - Loi modifiant le Code des sociétés et des associations et la loi du 16 mars 1803 contenant organisation du notariat et portant des dispositions diverses à la suite de la transposition de la directive (UE) 2019/1151 du Parlement européen et du Conseil du 20 juin 2019 modifiant la directive (UE) 2017/1132 en ce qui concerne l'utilisation d'outils et de processus numériques en droit des sociétés

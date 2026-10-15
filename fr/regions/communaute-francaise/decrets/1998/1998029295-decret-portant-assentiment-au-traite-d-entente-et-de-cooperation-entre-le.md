@@ -13,7 +13,7 @@ entry_into_force: 1998-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/06/1998029295/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1998. - Décret portant assentiment au Traité d'entente et de coopération entre le Royaume de Belgique, la Communauté francaise de Belgique, la Communauté flamande de Belgique, la Communauté germanophone de Belgique, la Région wallonne de Belgique, la Région flamande de Belgique, la Région de Bruxelles-Capitale de Belgique et l'Ukraine, fait à Bruxelles le 23 avril 1997.

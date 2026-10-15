@@ -11,7 +11,7 @@ published: 1978-10-04
 entry_into_force: 1978-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/08/10/1978081025/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1978. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République socialiste de Roumanie tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune, signée à Bucarest, le 14 octobre 1976.

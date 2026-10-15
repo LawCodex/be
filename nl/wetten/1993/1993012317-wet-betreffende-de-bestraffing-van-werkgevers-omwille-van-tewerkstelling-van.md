@@ -12,7 +12,7 @@ entry_into_force: 1993-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/06/01/1993012317/justel"
 department: "Justitie - Economische Zaken - Financiën - Binnenlandse Zaken - Tewerkstelling en Arbeid - Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1993. - Wet betreffende de bestraffing van werkgevers omwille van tewerkstelling van illegaal in België verblijvende vreemdelingen.

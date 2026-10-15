@@ -13,7 +13,7 @@ last_amended: 2012-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/12/08/1976120802/justel"
 justel_note: "Consultation des versions antérieures à partir du 05-02-1987 et mise à jour au 21-12-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 1976. - Loi réglant la pension de certains mandataires et celle de leurs ayants droit.

@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202314/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid en tot invoeging van bepalingen betreffende de geïntegreerde gezondheidsverenigingen in hetzelfde Wetboek

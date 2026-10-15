@@ -13,7 +13,7 @@ entry_into_force: 1995-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/02/05/1996033046/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1996. - Decreet tot aanvulling van artikel 22 van het koninklijk besluit nr. 49 van 2 juli 1982 betreffende de oprichtings-, behoudsen splitsingsnormen en de berekening van het urenkrediet van het secundair onderwijs van het type I, en betreffende de fusie van instellingen en bepaalde personeelsbetrekkingen van de instellingen voor secundair onderwijs met volledig leerplan van type I en type II (VERTALING).

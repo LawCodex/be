@@ -12,7 +12,7 @@ entry_into_force: 2005-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/11/2004A15221/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2001. - Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République d'Estonie relative à la coopération policière.

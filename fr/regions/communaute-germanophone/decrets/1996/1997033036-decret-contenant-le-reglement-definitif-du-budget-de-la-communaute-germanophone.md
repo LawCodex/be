@@ -13,7 +13,7 @@ entry_into_force: 1997-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/25/1997033036/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 1996. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 1991. (TRADUCTION).

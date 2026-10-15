@@ -13,7 +13,7 @@ entry_into_force: 2021-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/10/28/2021043029/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2021. - Ordonnance portant assentiment à l'accord de coopération du 28 décembre 2018 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la collaboration entre services d'inspection dans le cadre de la compétence en matière de prestations familiales

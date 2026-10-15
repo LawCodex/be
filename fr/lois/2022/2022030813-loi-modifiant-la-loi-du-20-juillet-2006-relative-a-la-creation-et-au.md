@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/08/2022030813/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
 justel_note: "Consultation des versions antérieures à partir du 17-02-2022 et mise à jour au 30-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2022. - Loi modifiant la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'agence fédérale des médicaments et des produits de santé

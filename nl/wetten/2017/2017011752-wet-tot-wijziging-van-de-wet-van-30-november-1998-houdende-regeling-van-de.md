@@ -12,7 +12,7 @@ entry_into_force: 2017-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/30/2017011752/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2017. - Wet tot wijziging van de wet van 30 november 1998 houdende regeling van de inlichtingen- en veiligheidsdienst en van artikel 259bis van het Strafwetboek

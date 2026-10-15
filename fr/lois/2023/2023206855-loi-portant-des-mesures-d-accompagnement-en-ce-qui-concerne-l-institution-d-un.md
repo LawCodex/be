@@ -12,7 +12,7 @@ entry_into_force: 2023-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/18/2023206855/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2023. - Loi portant des mesures d'accompagnement en ce qui concerne l'institution d'un groupe spécial de négociation, d'un organe de représentation et de procédures relatives à la participation des travailleurs dans les sociétés issues d'une fusion, d'une scission ou d'une transformation transfrontalières

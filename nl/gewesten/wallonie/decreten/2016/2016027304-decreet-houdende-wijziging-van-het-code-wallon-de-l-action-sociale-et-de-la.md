@@ -11,7 +11,7 @@ date: 2016-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/20/2016027304/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2016. - Decreet houdende wijziging van het " Code wallon de l'Action sociale et de la Santé " (Waalse Wetboek van Sociale Actie en Gezondheid)

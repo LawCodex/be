@@ -13,7 +13,7 @@ entry_into_force: 1995-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035801/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret portant modification du décret du 20 novembre 1972 fixant l'orthographe officielle de la langue néerlandaise (TRADUCTION).

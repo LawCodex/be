@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/02/2007201245/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-05-2007 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2007. - Decreet tot vaststelling van het statuut van de directeurs [en directrices in het onderwijs]. (Opschrift gewijzigd door DFG 2019-03-14/20 , art. 102, 027; Inwerkingtreding : 01-09-2019) (VERTALING)

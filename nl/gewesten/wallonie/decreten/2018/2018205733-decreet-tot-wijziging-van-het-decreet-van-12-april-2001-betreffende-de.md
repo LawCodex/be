@@ -11,7 +11,7 @@ date: 2018-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/08/2018205733/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2018. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en het decreet van 19 december 2002 betreffende de organisatie van de gewestelijke gasmarkt

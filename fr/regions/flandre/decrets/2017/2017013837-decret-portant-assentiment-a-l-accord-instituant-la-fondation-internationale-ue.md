@@ -13,7 +13,7 @@ entry_into_force: 2017-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/20/2017013837/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2017. - Décret portant assentiment à l'accord instituant la Fondation internationale UE-ALC, signé à Santo Domingo le 25 octobre 2016

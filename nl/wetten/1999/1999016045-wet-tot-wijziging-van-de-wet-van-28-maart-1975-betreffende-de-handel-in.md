@@ -12,7 +12,7 @@ entry_into_force: 1999-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/05/1999016045/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1999. - Wet tot wijziging van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.

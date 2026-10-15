@@ -12,7 +12,7 @@ published: 1998-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/14/1998035879/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Decreet houdende instemming met het Verdrag van de Verenigde Naties inzake het Recht van de Zee, en de bijlagen, ondertekend in Montego Bay op 10 december 1982, en de Overeenkomst inzake de toepassing van deel XI van het Verdrag van de Verenigde Naties inzake het Recht van de Zee van 10 december 1982, en de bijlage, ondertekend in New York op 28 juli 1994.

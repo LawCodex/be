@@ -12,7 +12,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/15/2024202659/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2024. - Herziening van artikel 7bis van de Grondwet om een lid toe te voegen dat het dierenwelzijn regelt

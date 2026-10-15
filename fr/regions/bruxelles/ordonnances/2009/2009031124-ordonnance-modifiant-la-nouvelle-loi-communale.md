@@ -13,7 +13,7 @@ entry_into_force: 2009-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/05/2009031124/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2009. - Ordonnance modifiant la nouvelle loi communale.

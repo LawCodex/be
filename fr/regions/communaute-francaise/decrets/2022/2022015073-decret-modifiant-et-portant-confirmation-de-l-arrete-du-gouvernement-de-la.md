@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/23/2022015073/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Décret modifiant et portant confirmation de l'arrêté du Gouvernement de la Communauté française du 9 septembre 2021 déterminant le référentiel de français et langues anciennes, le référentiel d'éducation culturelle et artistique, le référentiel de langues modernes, le référentiel de mathématiques, le référentiel des sciences, le référentiel de formation manuelle, technique, technologique et numérique, le référentiel d'éducation à la philosophie et à la citoyenneté et le référentiel d'éducation physique et à la santé et adoptant le référentiel de la formation historique, géographique, économique et sociale et instaurant une procédure de dérogation à ces référentiels

@@ -12,7 +12,7 @@ published: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/21/2021033707/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2021. - Decreet tot inrichting van een "UAP" (Waalse openbare bestuurseenheid) van het type 1 "Post-COVID-19-Fonds voor de armoedebestrijding" voor de overgehevelde bevoegdheden overeenkomstig artikel 138 van de Grondwet

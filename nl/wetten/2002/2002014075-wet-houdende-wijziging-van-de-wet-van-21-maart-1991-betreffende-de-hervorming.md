@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/22/2002014075/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2002 en tekstbijwerking tot 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2002. - Wet houdende wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven.

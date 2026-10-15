@@ -11,7 +11,7 @@ published: 2026-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/05/11/2023A43163/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2026. - Internationaal Verdrag van 2010 inzake aansprakelijkheid en vergoeding voor schade in samenhang met het vervoer over zee van gevaarlijke en schadelijke stoffen, gedaan te Londen op 30 april 2010, en houdende wijziging van het Belgisch Scheepvaartwetboek

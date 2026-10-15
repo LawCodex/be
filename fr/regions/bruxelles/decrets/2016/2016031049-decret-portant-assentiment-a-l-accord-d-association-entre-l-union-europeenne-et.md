@@ -13,7 +13,7 @@ entry_into_force: 2016-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/21/2016031049/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2016. - Décret portant assentiment à l'Accord d'association entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d'une part, et la Géorgie, d'autre part, fait à Bruxelles le 27 juin 2014

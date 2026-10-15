@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/14/2018032422/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-12-2018 en tekstbijwerking tot 02-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2018. - Decreet inzake de subsidiëring van de organisatie van sportmodules en - kort programma's voor de promotie en ontwikkeling van sport

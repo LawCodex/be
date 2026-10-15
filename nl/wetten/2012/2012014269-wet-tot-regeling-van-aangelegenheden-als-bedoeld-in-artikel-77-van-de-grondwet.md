@@ -10,7 +10,7 @@ date: 2012-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/30/2012014269/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2012. - Wet tot regeling van aangelegenheden als bedoeld in artikel 77 van de Grondwet inzake de aansprakelijkheid van vervoerders van passagiers over zee bij ongevallen

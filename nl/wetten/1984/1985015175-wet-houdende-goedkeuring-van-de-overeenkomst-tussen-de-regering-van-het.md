@@ -12,7 +12,7 @@ entry_into_force: 1985-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/12/20/1985015175/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1984. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Democratische Socialistische Republiek van Sri Lanka tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Colombo, op 3 februari 1983.

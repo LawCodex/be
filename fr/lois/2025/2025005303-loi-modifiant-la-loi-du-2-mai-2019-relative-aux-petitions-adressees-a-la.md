@@ -12,7 +12,7 @@ entry_into_force: 2025-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/02/2025005303/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2025. - Loi modifiant la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants en vue d'instaurer un délai maximum pour la récolte de signatures

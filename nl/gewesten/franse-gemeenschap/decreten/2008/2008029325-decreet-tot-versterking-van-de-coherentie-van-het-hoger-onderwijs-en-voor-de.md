@@ -13,7 +13,7 @@ entry_into_force: 2008-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/09/2008029325/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Decreet tot versterking van de coherentie van het hoger onderwijs en voor de administratieve vereenvoudiging in het universitair hoger onderwijs en het hoger onderwijs buiten de universiteit (VERTALING)

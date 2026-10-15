@@ -12,7 +12,7 @@ entry_into_force: 2005-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/03/2013015115/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2013. - Loi portant assentiment au Protocole complémentaire entre le Royaume de Belgique et la Banque Internationale pour la Reconstruction et le Développement, signé à Bruxelles le 28 février 2005

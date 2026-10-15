@@ -12,7 +12,7 @@ entry_into_force: 2020-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/11/04/2020015900/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBRE 2020. - Loi modifiant la loi du 30 octobre 2018 portant des dispositions diverses en matière de santé en vue de la remise de l'entrée en vigueur des dispositions légales sur l'établissement des pharmacies ouvertes au public

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/09/2019013002/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2019 et mise à jour au 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Loi relative à l'assurance obligatoire de la responsabilité civile professionnelle des architectes, des géomètres-experts, des coordinateurs de sécurité-santé et autres prestataires du secteur de la construction de travaux immobiliers et portant modification de diverses dispositions légales en matière d'assurance de responsabilité civile dans le secteur de la construction (aussi appelée : "Loi relative à l'assurance obligatoire de la responsabilité civile professionnelle dans le secteur de la construction")

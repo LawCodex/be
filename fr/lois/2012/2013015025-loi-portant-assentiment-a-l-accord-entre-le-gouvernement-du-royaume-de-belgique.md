@@ -12,7 +12,7 @@ entry_into_force: 2015-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/07/2013015025/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2012. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, fait à Paris le 17 novembre 2008

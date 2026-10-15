@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/25/2007029132/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2007. - Decreet houdende wijziging van het decreet van 12 mei 2004 ter bepaling van de voorwaarden voor de toekenning van subsidies voor de organisatie van sportactiviteiten in de wijk (VERTALING).

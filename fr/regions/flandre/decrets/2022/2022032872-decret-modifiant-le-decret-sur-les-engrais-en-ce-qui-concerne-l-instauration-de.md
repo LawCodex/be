@@ -13,7 +13,7 @@ entry_into_force: 2022-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022032872/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret modifiant le Décret sur les engrais, en ce qui concerne l'instauration de la possibilité de créer des commissions d'avis et la suppression des droits d'émission de nutriments-TDE

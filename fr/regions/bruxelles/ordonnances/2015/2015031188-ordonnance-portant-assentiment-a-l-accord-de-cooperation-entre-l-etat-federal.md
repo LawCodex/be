@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/03/26/2015031188/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2015. - Ordonnance portant assentiment à l'accord de coopération entre l'Etat fédéral, les Communautés et les Régions relatif à la politique criminelle et à la politique de sécurité

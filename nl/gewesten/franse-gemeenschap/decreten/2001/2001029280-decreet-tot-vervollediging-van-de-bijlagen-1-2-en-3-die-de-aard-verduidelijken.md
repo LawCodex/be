@@ -12,7 +12,7 @@ published: 2001-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029280/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet tot vervollediging van de bijlagen 1, 2 en 3 die de aard verduidelijken van de vereiste bekwaamheidsbewijzen zoals bedoeld in artikelen 5, 6 en 7 van het decreet van 8 februari 1999 betreffende de ambten en bekwaamheidsbewijzen van de leden van het onderwijzend personeel in de hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap (VERTALING).

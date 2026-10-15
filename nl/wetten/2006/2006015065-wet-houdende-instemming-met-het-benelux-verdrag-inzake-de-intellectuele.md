@@ -12,7 +12,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/22/2006015065/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2006. - Wet houdende instemming met het Benelux-Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), gedaan te Den Haag op 25 februari 2005.

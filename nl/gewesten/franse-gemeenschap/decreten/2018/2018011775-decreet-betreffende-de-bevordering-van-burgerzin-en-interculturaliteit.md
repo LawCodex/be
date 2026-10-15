@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/08/2018011775/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-05-2018 en tekstbijwerking tot 17-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2018. - Decreet betreffende de bevordering van burgerzin en interculturaliteit

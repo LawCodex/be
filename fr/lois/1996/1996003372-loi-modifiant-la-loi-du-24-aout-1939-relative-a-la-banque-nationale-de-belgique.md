@@ -12,7 +12,7 @@ entry_into_force: 1996-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/18/1996003372/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 1996. - Loi modifiant la loi du 24 août 1939 relative à la Banque Nationale de Belgique et la loi du 2 janvier 1991 relative au marché des titres de la dette publique et aux instruments de la politique monétaire.

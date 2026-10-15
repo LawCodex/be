@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/16/2009003074/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 16-03-2009 et mise à jour au 09-03-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2009. - Loi relative aux voies de recours concernant la loi du 16 février 2009 relative à la réassurance

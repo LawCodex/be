@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009201/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2016 et mise à jour au 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2016. - Loi relative à l'internement et à diverses dispositions en matière de Justice

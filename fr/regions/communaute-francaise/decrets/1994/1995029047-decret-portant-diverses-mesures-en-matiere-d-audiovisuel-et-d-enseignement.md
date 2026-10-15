@@ -17,7 +17,7 @@ department: "Communauté française"
 justel_notes:
   - "Consultation des versions antérieur à partir du 14-03-1995 et mis à jour au 17-04-1996"
   - "Consultation des versions antérieures à partir du 14-03-1995 et mise à jour au 09-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret portant diverses mesures en matière d'audiovisuel et d'enseignement.

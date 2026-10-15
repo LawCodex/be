@@ -13,7 +13,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/10/23/2008204211/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2008. - Décret portant diverses mesures relatives aux établissements d'hébergement touristique, aux attractions touristiques, à l'organisation du tourisme et aux itinéraires touristiques balisés

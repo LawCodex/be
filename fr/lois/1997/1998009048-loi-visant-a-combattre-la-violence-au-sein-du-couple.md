@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/11/24/1998009048/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 06-02-1998 et mise à jour au 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1997. - Loi visant à combattre la violence au sein du couple

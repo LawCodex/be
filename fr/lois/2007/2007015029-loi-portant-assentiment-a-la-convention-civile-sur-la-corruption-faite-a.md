@@ -12,7 +12,7 @@ entry_into_force: 2007-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/15/2007015029/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Loi portant assentiment à la Convention civile sur la corruption, faite à Strasbourg le 4 novembre 1999.

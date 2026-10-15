@@ -13,7 +13,7 @@ entry_into_force: 2018-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/22/2018206208/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2018. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Japan tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken en het ontwijken van belasting, en met het protocol, ondertekend te Tokio op 12 oktober 2016

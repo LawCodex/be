@@ -13,7 +13,7 @@ entry_into_force: 2017-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/20/2017013846/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2017. - Décret portant assentiment à l'accord de partenariat en matière de relations et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la Nouvelle-Zélande, d'autre part, signé à Bruxelles le 5 octobre 2016

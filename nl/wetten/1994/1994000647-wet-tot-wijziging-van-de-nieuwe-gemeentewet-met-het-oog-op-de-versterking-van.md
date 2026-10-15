@@ -12,7 +12,7 @@ entry_into_force: 1994-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/11/1994000647/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1994. - Wet tot wijziging van de nieuwe gemeentewet met het oog op de versterking van de gemeentelijke democratie.

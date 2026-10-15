@@ -13,7 +13,7 @@ entry_into_force: 2018-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/05/2018203585/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2018. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Republiek Panama, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Panama-stad op 26 maart 2009

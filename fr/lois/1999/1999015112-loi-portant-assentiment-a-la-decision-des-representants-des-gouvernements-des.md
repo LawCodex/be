@@ -12,7 +12,7 @@ entry_into_force: 1999-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/14/1999015112/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 1999. - Loi portant assentiment à la Décision des représentants des Gouvernements des Etats Membres, réunis au sein du Conseil du 19 décembre 1995 concernant la protection des citoyens de l'Union européenne par les [représentations diplomatiques] et consulaires. (Erratum, voir M.B. 17.10.2002, p. 47397)

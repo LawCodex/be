@@ -10,7 +10,7 @@ date: 2003-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003015083/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet houdende instemming met de Overeenkomst tussen de bevoegde autoriteiten van het Koninkrijk België en de Republiek Oostenrijk betreffende de terugbetaling van socialezekerheidskosten, ondertekend te Brussel op 3 december 2001.

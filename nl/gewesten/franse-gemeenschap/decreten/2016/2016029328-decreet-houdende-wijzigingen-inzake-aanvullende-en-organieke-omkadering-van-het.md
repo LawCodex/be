@@ -13,7 +13,7 @@ entry_into_force: 2016-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/16/2016029328/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2016. - Decreet houdende wijzigingen inzake aanvullende en organieke omkadering van het onderwijspersoneel

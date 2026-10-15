@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/11/2003022701/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 24-06-2003 et mise à jour au 05-06-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2003. - Loi modifiant diverses dispositions relatives à la pension de retraite des travailleurs salariés et des indépendants compte tenu du principe de l'unité de carrière.

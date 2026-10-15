@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 34 modifié avec effet à une date indéterminée par DCFL 2005-07-15/57 , art. 2.3, 022; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 17-04-1997 et mise à jour au 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1997. - Décret relatif à l'enseignement fondamental (TRADUCTION).

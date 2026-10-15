@@ -13,7 +13,7 @@ entry_into_force: 2005-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/17/2005203263/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2005. - Decreet tot goedkeuring van het Samenwerkingsakkoord tussen de Staat, de Vlaamse Gemeenschap, het Vlaams Gewest, de Franse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap, het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie inzake de oprichting van een Nationale Commissie voor de rechten van het kind (VERTALING).

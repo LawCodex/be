@@ -12,7 +12,7 @@ entry_into_force: 1982-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1982/08/06/1982001623/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1982. - Loi portant approbation du Protocole de 1973 sur l'intervention en haute mer en cas de pollution par des substances autres que les hydrocarbures, et de l'Annexe, faits à Londres le 2 novembre 1973.

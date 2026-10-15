@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007002011/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 13-02-2007 et mise à jour au 31-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2007. - Loi visant au contrôle de l'application des résolutions de la conférence mondiale sur les femmes réunie à Pékin en septembre 1995 et intégrant la dimension du genre dans l'ensemble des politiques fédérales

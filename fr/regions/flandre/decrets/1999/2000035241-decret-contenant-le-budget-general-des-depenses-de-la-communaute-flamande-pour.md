@@ -16,7 +16,7 @@ department: "Communauté flamande"
 justel_notes:
   - "pour les ajustements du budget, voir DCFL 2000-06-30/44; En vigueur : 27-11-2000."
   - "Consultation des versions antérieures à partir du 15-06-2000 et mise à jour sommaire au 17-11-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1999. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2000. (Traduction).

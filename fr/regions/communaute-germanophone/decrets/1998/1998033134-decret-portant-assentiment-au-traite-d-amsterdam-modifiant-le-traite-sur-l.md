@@ -13,7 +13,7 @@ entry_into_force: 1999-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/30/1998033134/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1998. - Décret portant assentiment au Traité d'Amsterdam modifiant le Traité sur l'Union européenne, les traités instituant les Communautés européennes ainsi que certains actes connexes, à l'Annexe, aux protocoles A, B, C et D ainsi qu'à l'Acte final, signés à Amsterdam le 2 octobre 1997 (TRADUCTION).

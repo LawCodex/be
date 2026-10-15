@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017013015/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2017 et mise à jour au 14-03-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi modifiant le Code civil en ce qui concerne les successions et les libéralités et modifiant diverses autres dispositions en cette matière

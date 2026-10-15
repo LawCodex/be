@@ -12,7 +12,7 @@ entry_into_force: 2025-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/01/31/2025001228/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2025. - Wet tot wijziging van het opschrift van afdeling 1 van hoofdstuk IIbis en artikel 7undecies van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt in het kader van het capaciteitsvergoedingsmechanisme

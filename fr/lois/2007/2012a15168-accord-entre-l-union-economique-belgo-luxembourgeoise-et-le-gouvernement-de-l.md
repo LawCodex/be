@@ -12,7 +12,7 @@ entry_into_force: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/11/06/2012A15168/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2007. - Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de l'Etat du Qatar concernant l'encouragement et la protection réciproques des investissements, fait à Doha le 6 novembre 2007

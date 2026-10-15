@@ -12,7 +12,7 @@ entry_into_force: 1998-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/25/1998A00520/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1998. - Loi modifiant la loi du 11 avril 1994 relative à la publicité de l'administration et la loi du 12 novembre 1997 relative à la publicité de l'administration dans les provinces et les communes.

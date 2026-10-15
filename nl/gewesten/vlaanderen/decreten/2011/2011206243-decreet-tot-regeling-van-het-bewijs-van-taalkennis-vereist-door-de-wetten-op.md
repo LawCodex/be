@@ -13,7 +13,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/11/18/2011206243/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2011. - Decreet tot regeling van het bewijs van taalkennis, vereist door de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966

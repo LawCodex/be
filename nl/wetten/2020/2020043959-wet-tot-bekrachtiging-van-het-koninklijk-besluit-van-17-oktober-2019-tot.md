@@ -12,7 +12,7 @@ entry_into_force: 2020-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/06/2020043959/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2020. - Wet tot bekrachtiging van het koninklijk besluit van 17 oktober 2019 tot vaststelling voor het jaar 2019 van het bedrag van de repartitiebijdrage bedoeld in artikel 14, § 8, zestiende lid, van de wet van 11 april 2003 betreffende de voorzieningen aangelegd voor de ontmanteling van de kerncentrales en voor het beheer van splijtstoffen bestraald in deze kerncentrales

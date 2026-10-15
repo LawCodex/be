@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/02/1998027237/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 10-04-1998 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1998. - Décret créant l'Agence wallonne à l'exportation [et aux investissements étrangers]. (Intitulé modifié par DRW 2004-04-01/53 , art. 1, 003; En vigueur : 01-07-2004)

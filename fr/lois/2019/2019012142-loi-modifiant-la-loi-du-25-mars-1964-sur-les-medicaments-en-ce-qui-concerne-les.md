@@ -12,7 +12,7 @@ entry_into_force: 2019-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/07/2019012142/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2019. - Loi modifiant la loi du 25 mars 1964 sur les médicaments en ce qui concerne les indisponibilités de médicaments

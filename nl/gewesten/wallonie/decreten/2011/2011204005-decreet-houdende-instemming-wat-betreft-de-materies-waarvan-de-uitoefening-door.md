@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011204005/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met het IAO-verdrag nr. 128 betreffende uitkeringen bij invaliditeit en ouderdom en aan nagelaten betrekkingen, aangenomen in Genève, op 29 juni 1967

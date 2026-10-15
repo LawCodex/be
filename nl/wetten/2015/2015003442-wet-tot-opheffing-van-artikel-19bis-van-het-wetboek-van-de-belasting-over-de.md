@@ -12,7 +12,7 @@ entry_into_force: 2015-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/06/2015003442/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2015. - Wet tot opheffing van artikel 19bis van het Wetboek van de belasting over de toegevoegde waarde

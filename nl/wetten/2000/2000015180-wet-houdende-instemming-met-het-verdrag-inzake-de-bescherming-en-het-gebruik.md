@@ -12,7 +12,7 @@ entry_into_force: 2000-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/29/2000015180/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBER 2000. - [Wet houdende instemming met het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren en de bijlagen I, II, III en IV, gedaan te Helsinki op 17 maart 1992] &lt;Erratum, zie B.St. 09-06-2008, p. 28872&gt;.

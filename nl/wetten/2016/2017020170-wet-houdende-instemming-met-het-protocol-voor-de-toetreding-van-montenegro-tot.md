@@ -12,7 +12,7 @@ entry_into_force: 2017-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/22/2017020170/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2016. - Wet houdende instemming met het Protocol voor de toetreding van Montenegro tot de Noord-Atlantische Verdragsorganisatie, gedaan te Brussel op 19 mei 2016

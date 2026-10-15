@@ -12,7 +12,7 @@ published: 2011-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/08/2011035554/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2011. - Bijzonder decreet tot aanvulling van het decreet houdende de organisatie van de lokale en provinciale verkiezingen en houdende wijziging van het Gemeentedecreet van 15 juli 2005, het Provinciedecreet van 9 december 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn

@@ -12,7 +12,7 @@ entry_into_force: 2003-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/27/2003015057/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Loi portant assentiment au Protocole signé à Copenhague le 27 septembre 1999, modifiant et complétant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 16 octobre 1969.

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202431/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt wat betreft het externe mechanisme ter financiering van groene certificaten via de financiële bemiddelaar alsook wat betreft de vrijstellingen van de toeslag bedoeld in artikel 42bis, § 1, van dat decreet

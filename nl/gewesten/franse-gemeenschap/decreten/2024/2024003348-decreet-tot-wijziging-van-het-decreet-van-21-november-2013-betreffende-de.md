@@ -13,7 +13,7 @@ entry_into_force: 2024-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/21/2024003348/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Decreet tot wijziging van het decreet van 21 november 2013 betreffende de culturele centra

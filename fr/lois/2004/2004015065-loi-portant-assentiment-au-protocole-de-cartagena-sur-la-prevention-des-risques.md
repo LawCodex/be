@@ -12,7 +12,7 @@ entry_into_force: 2004-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/15/2004015065/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2004. - Loi portant assentiment au Protocole de Cartagena sur la prévention des risques biotechnologiques relatif à la Convention sur la diversité biologique, et aux Annexes, faits à Montréal le 29 janvier 2000.

@@ -12,7 +12,7 @@ entry_into_force: 2025-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/05/17/2025003894/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2025. - Loi portant diverses dispositions en matière d'énergie nucléaire et visant à garantir la sécurité d'approvisionnement en électricité et la maîtrise des coûts du mix électrique

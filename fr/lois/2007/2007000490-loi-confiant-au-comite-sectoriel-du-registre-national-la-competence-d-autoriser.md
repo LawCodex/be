@@ -12,7 +12,7 @@ entry_into_force: 2007-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007000490/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi confiant au comité sectoriel du Registre national la compétence d'autoriser l'accès aux informations du registre d'attente et du registre des cartes d'identité.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/24/2000012029/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 27-01-2000 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1999. - Loi en vue de la promotion de l'emploi.

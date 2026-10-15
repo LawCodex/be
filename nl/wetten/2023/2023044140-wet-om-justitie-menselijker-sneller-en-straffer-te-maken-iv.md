@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/31/2023044140/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 09-08-2023 en tekstbijwerking tot 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2023. - Wet om justitie menselijker, sneller en straffer te maken IV

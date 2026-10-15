@@ -12,7 +12,7 @@ entry_into_force: 2019-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/11/2018031995/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2016. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et les Etats de Guernesey en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 24 avril 2014 et à Saint-Pierre-Port le 7 mai 2014

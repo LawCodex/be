@@ -12,7 +12,7 @@ entry_into_force: 2020-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019202529/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - Loi modifiant l'arrêté royal du 16 septembre 2013 fixant une intervention spécifique dans le coût des contraceptifs pour les femmes n'ayant pas atteint l'âge de 21 ans afin d'étendre les remboursements prévus pour les contraceptifs et la pilule du lendemain

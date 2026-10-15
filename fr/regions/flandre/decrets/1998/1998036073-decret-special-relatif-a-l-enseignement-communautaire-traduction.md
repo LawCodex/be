@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/14/1998036073/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-09-1998 et mise à jour au 19-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1998. - Décret spécial relatif à l'enseignement communautaire (TRADUCTION)

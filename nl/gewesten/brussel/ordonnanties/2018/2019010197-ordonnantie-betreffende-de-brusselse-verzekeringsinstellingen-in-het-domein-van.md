@@ -17,7 +17,7 @@ department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_notes:
   - "art. 32/1 gewijzigd met ingang op een onbepaalde datum bij ORD 2019-04-25/13 , art. 38; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 14-01-2019 en tekstbijwerking tot 01-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Ordonnantie betreffende de Brusselse verzekeringsinstellingen in het domein van de gezondheidszorg en de hulp aan personen

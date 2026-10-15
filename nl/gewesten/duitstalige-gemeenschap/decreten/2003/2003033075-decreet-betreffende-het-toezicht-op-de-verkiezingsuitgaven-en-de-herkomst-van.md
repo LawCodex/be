@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/07/2003033075/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-12-2003 en tekstbijwerking tot 28-04-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2003. - [Decreet betreffende het toezicht op de verkiezingsuitgaven en de herkomst van de geldmiddelen voor de verkiezing van het Parlement en van de gemeenteraden, betreffende het toezicht op de mededelingen van de overheden van de Duitstalige Gemeenschap, alsook betreffende het toezicht op de naleving van de deontologische code] (Opschrift vervangen bij DDG 2025-02-03/16 , art. , 004; Inwerkingtreding : 03-02-2025)

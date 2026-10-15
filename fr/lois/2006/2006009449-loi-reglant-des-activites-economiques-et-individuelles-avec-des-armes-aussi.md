@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/08/2006009449/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 09-06-2006 et mise à jour au 26-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2006. - Loi réglant des activités économiques et individuelles avec des armes. (aussi appelée "Loi sur les armes")

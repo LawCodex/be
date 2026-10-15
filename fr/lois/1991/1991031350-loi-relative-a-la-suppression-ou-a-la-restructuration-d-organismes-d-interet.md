@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/03/13/1991031350/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 30-06-1992 et mise à jour au 16-10-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 1991. - LOI relative à la suppression ou à la restructuration d'organismes d'intérêt public et d'autres services de l'Etat.

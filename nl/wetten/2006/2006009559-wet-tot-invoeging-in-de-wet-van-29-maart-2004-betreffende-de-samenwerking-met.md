@@ -12,7 +12,7 @@ entry_into_force: 2006-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/01/2006009559/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2006. - Wet tot invoeging in de wet van 29 maart 2004 betreffende de samenwerking met het Internationaal Strafgerechtshof en de internationale straftribunalen van een nieuwe titel VI betreffende kamers belast met de vervolging van de misdaden gepleegd onder het regime van democratisch Kampuchea.

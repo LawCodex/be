@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/20/2023201871/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2023. - Wet tot verlenging van bepaalde maatregelen genomen voor de sociale Maribel in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19

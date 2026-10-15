@@ -13,7 +13,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/26/2023203808/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2023. - Décret spécial modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone

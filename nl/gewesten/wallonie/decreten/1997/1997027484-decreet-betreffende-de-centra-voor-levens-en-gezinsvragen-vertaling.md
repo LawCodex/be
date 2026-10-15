@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/18/1997027484/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2008 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1997. - Decreet betreffende de centra voor levens- en gezinsvragen (VERTALING)

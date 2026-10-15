@@ -12,7 +12,7 @@ entry_into_force: 2017-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/30/2017030662/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Loi modifiant la loi du 15 mai 2007 relative à la sécurité civile en ce qui concerne le budget

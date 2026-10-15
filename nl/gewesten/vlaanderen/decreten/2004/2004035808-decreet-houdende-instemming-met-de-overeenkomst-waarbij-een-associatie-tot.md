@@ -13,7 +13,7 @@ entry_into_force: 2004-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/02/2004035808/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet houdende instemming met de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Chili, anderzijds, de Bijlagen I tot XVII en de Slotakte, ondertekend te Brussel op 18 november 2002.

@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/15/2020030355/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2020. - Wet tot wijziging van de wet van 26 januari 2006 betreffende de aanhouding van een verplichte voorraad aardolie en aardolieproducten en de oprichting van een agentschap voor het beheer van een deel van deze voorraad en tot wijziging van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben, en het verkeer daarvan en de controles daarop en de wet van 13 juli 1976 houdende goedkeuring van de Overeenkomst inzake een internationaal energieprogramma, en van de Bijlage, opgemaakt te Parijs op 18 november 1974

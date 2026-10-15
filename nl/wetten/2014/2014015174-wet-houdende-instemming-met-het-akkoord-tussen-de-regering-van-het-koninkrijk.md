@@ -10,7 +10,7 @@ date: 2014-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014015174/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de behandeling van Belgische verbruikte brandstoffen te La Hague, gedaan te Parijs op 25 april 2013

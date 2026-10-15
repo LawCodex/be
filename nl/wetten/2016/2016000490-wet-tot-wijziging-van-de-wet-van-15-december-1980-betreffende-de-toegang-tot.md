@@ -10,7 +10,7 @@ date: 2016-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/15/2016000490/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2016. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen

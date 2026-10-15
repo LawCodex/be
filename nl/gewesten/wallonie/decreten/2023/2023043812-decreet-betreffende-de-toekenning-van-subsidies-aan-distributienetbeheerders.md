@@ -13,7 +13,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/29/2023043812/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2023. - Decreet betreffende de toekenning van subsidies aan distributienetbeheerders met het oog op de bevordering van de energietransitie

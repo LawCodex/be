@@ -11,7 +11,7 @@ published: 1948-12-02
 entry_into_force: 1948-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/04/30/1947043001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 1947. - Loi portant approbation de la Convention relative à l'Aviation civile internationale, signée à Chicago, le 7 décembre 1944.

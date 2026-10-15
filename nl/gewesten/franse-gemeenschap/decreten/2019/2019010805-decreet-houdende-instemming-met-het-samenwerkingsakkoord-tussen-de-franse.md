@@ -13,7 +13,7 @@ entry_into_force: 2019-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/24/2019010805/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2019. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende het gebruik van digitale frequenties voor DAB+ op het grondgebied van de andere partij

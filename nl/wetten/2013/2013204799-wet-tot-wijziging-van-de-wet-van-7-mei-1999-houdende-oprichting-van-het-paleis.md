@@ -11,7 +11,7 @@ published: 2013-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/30/2013204799/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2013. - Wet tot wijziging van de wet van 7 mei 1999 houdende oprichting van het Paleis voor Schone Kunsten in de vorm van een naamloze vennootschap van publiek recht met sociale doeleinden en tot wijziging van de wet van 30 maart 1995 betreffende de netten voor distributie voor omroepuitzendingen en de uitoefening van televisieomroepactiviteiten in het tweetalig gebied Brussel-Hoofdstad

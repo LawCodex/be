@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/22/1999002040/justel"
 department: "Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 30-04-1999 et mise à jour au 26-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1999. - Loi portant diverses mesures en matière de fonction publique. -

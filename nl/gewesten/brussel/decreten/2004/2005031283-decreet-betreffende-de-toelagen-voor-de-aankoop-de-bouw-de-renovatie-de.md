@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/13/2005031283/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 02-09-2005 en tekstbijwerking tot 24-01-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2004. - Decreet betreffende de toelagen voor de aankoop, de bouw, de renovatie, de inrichting, de uitrusting, de uitbreiding en de meubilering van sommige centra, diensten, huizen, instellingen of initiatieven van beschut wonen die ressorteren onder het beleid van sociale acties, gezinnen en gezondheid. &lt;Erratum, BS 27-10-2005, p. 46820&gt; (Vertaling).

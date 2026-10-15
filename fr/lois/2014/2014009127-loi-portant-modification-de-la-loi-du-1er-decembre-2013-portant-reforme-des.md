@@ -12,7 +12,7 @@ entry_into_force: 2013-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/21/2014009127/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2014. - Loi portant modification de la loi du 1er décembre 2013 portant réforme des arrondissements judiciaires et modifiant le Code judiciaire en vue de renforcer la mobilité des membres de l'ordre judiciaire

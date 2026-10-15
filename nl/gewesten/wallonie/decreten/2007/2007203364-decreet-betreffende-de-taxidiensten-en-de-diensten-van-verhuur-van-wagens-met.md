@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/18/2007203364/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 24-11-2011 en tekstbijwerking tot 07-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 2007. - Decreet betreffende de taxidiensten en de diensten van verhuur van wagens met chauffeur (VERTALING)

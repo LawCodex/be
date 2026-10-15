@@ -13,7 +13,7 @@ entry_into_force: 2007-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/09/2007035498/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2007. - Décret sanctionnant les objectifs finaux et objectifs de développement "technologie d'information et de communication" dans l'enseignement fondamental et secondaire (TRADUCTION).

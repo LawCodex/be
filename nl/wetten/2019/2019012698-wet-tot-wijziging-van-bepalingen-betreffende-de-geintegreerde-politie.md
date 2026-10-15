@@ -12,7 +12,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/28/2019012698/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2019. - Wet tot wijziging van bepalingen betreffende de geïntegreerde politie

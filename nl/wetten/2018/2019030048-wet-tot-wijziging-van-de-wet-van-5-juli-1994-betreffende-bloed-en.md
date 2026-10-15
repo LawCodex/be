@@ -12,7 +12,7 @@ entry_into_force: 2019-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/12/2019030048/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2018. - Wet tot wijziging van de wet van 5 juli 1994 betreffende bloed en bloedderivaten van menselijke oorsprong en van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994

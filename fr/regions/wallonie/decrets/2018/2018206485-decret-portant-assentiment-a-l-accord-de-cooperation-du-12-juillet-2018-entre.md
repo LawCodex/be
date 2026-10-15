@@ -13,7 +13,7 @@ entry_into_force: 2019-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/20/2018206485/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2018. - Décret portant assentiment à l'accord de coopération du 12 juillet 2018 entre la Région wallonne et la Communauté germanophone portant sur le traitement des régularisations en matière de prestations familiales

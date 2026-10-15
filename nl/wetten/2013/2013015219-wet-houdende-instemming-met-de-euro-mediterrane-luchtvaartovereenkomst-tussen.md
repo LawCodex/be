@@ -12,7 +12,7 @@ entry_into_force: 2014-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/17/2013015219/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Wet houdende instemming met de Euro-mediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, gedaan te Brussel op 12 december 2006

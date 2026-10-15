@@ -12,7 +12,7 @@ entry_into_force: 2019-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/21/2018206244/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Loi portant des dispositions diverses en matière sociale

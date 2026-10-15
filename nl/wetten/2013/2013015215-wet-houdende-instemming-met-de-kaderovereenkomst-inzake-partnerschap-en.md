@@ -10,7 +10,7 @@ date: 2013-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/06/2013015215/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2013. - Wet houdende instemming met de Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds, gedaan te Phnom-Penh op 11 juli 2012

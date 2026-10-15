@@ -12,7 +12,7 @@ entry_into_force: 2008-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/15/2008015107/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2008. - Wet houdende instemming met het Verdrag, gedaan te Brussel op 8 december 2004, betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen, gedaan te Brussel op 23 juli 1990, en tot het Protocol tot wijziging van het Verdrag van 23 juli 1990, gedaan te Brussel op 25 mei 1999.

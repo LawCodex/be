@@ -11,7 +11,7 @@ published: 1926-09-07
 entry_into_force: 1926-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1926/06/25/1926062550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1926. \_ Loi portant approbation des Conventions élaborées à Genève par la Conférence internationale du travail, à sa troisième session, et concernant respectivement l'emploi de la céruse dans la peinture, les droits d'association et de coalition des travailleurs agricoles, l'âge minimum d'admission des jeunes gens au travail en qualité de soutiers ou chauffeurs, et l'examen médical obligatoire des enfants et des jeunes gens employés à bord des bateaux.

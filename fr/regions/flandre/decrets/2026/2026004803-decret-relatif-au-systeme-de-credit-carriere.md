@@ -12,7 +12,7 @@ published: 2026-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/19/2026004803/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2026. - Décret relatif au système de crédit-carrière

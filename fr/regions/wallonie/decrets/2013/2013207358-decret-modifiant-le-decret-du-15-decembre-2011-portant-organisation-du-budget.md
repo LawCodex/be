@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/23/2013207358/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2013. - Décret modifiant le décret du 15 décembre 2011 portant organisation du budget et de la comptabilité des services du Gouvernement wallon

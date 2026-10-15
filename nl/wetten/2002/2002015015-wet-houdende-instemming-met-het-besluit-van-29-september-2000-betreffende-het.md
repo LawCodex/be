@@ -12,7 +12,7 @@ entry_into_force: 2002-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/04/2002015015/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2002. - Wet houdende instemming met het Besluit van 29 september 2000 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen.

@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/05/26/1998035659/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 1998. - Décret portant approbation de l'Accord européen instituant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de la Slovénie, d'autre part, et les Annexes I, II, III, IV, V, VI, VII, VIIIa, VIIIb, IXa, IXb, IXc, X, XI, XII et XIII, les Protocoles 1, 2, 3, 4, 5 et 6 avec l'acte final, signés à Luxembourg le 10 juin 1996 (TRADUCTION).

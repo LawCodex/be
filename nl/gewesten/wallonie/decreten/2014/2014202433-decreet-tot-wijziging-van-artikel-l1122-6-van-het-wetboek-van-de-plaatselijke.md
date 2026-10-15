@@ -13,7 +13,7 @@ entry_into_force: 2014-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202433/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot wijziging van artikel L1122-6 van het Wetboek van de plaatselijke democratie en de decentralisatie met het oog op de uitbreiding van de hypotheses voor een verlof wegens verhindering voor een gemeenteraadslid

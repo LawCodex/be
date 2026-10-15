@@ -13,7 +13,7 @@ entry_into_force: 2021-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/23/2021204649/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2021. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à l'Accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Canada, d'autre part, fait à Bruxelles le 30 octobre 2016

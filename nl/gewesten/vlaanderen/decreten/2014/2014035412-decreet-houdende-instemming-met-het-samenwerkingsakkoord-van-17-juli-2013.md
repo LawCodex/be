@@ -13,7 +13,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/21/2014035412/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 17 juli 2013 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie betreffende de implementatie van de Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende de diensten op de interne markt

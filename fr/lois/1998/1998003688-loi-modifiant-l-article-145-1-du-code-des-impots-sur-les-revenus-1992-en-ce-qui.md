@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/11/17/1998003688/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 1998. - Loi modifiant l'article 145.1 du Code des impôts sur les revenus 1992, en ce qui concerne les réductions d'impôt en matière de remboursements d'emprunts hypothécaires.

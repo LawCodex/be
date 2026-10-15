@@ -12,7 +12,7 @@ entry_into_force: 2016-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/20/2013015021/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2012. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Republiek Kazachstan over het internationaal wegvervoer, ondertekend te Brussel op 5 december 2006

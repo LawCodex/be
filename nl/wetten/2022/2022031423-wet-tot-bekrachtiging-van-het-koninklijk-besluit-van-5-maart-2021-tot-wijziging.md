@@ -12,7 +12,7 @@ entry_into_force: 2022-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/27/2022031423/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2022. - Wet tot bekrachtiging van het koninklijk besluit van 5 maart 2021 tot wijziging van het koninklijk besluit van 29 maart 2012 tot vaststelling van de regels voor het bepalen van de kosten van de toepassing van de sociale tarieven door de aardgasondernemingen en de tussenkomstregels voor het ten laste nemen hiervan en het koninklijk besluit van 29 maart 2012 tot vaststelling van de regels voor het bepalen van de kosten van de toepassing van de sociale tarieven door de elektriciteitsbedrijven en de tussenkomstregels voor het ten laste nemen hiervan

@@ -12,7 +12,7 @@ entry_into_force: 1999-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/23/1999014013/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1998. - Loi contenant le budget de la Régie des Transports maritimes pour l'année budgétaire 1996.

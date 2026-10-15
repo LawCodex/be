@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/26/1997021198/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 28-06-1997 et mise à jour au 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1997. - Loi portant confirmation des arrêtés royaux pris en application de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne, de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, et de la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité. (NOTE 1 : les mots " Caisse des soins de santé de la Société nationale des Chemins de fer belges " sont remplacés par les mots " Caisse des soins de santé de la S.N.C.B. Holding " ; voir AR 2004-10-18/32, art. 38 ; En vigueur : 01-01-2005)

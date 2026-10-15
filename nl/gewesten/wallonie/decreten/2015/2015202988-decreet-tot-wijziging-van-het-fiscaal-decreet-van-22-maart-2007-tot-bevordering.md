@@ -13,7 +13,7 @@ entry_into_force: 2015-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/19/2015202988/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2015. - Decreet tot wijziging van het fiscaal decreet van 22 maart 2007 tot bevordering van afvalpreventie en valorisatie in het Waalse Gewest en tot wijziging van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de directe gewestelijke belastingen

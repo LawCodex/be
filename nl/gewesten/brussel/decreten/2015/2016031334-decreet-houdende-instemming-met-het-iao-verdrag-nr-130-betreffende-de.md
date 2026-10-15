@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/02/2016031334/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2015. - Decreet houdende instemming met het IAO-Verdrag nr. 130 betreffende de geneeskundige verzorgingen en de uitkeringen wegens ziekte, aangenomen in Genève op 25 juni 1969

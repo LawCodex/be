@@ -13,7 +13,7 @@ entry_into_force: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/27/2007035775/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Décret modifiant le décret du 3 février 1998 fixant les armoiries de personnes privées et d'institutions (TRADUCTION).

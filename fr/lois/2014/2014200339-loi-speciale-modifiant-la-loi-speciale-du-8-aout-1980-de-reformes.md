@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200339/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2014. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles et la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises, suite à la réforme du Sénat

@@ -12,7 +12,7 @@ entry_into_force: 1998-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/10/1998003189/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 1998. - Wet tot wijziging van de organieke wet van 29 oktober 1846 op de inrichting van het Rekenhof.

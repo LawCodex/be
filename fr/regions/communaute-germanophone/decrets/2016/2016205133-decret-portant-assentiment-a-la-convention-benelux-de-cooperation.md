@@ -13,7 +13,7 @@ entry_into_force: 2016-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/09/19/2016205133/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2016. - Décret portant assentiment à la convention Benelux de coopération transfrontalière et interterritoriale, faite à La Haye le 20 février 2014

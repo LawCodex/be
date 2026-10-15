@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/25/2016035746/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2016. - Decreet tot wijziging van het decreet van 8 mei 2009 betreffende de diepe ondergrond, wat betreft het invoegen van een hoofdstuk over het opsporen en het winnen van aardwarmte en een hoofdstuk over een structuurvisie inzake de diepe ondergrond

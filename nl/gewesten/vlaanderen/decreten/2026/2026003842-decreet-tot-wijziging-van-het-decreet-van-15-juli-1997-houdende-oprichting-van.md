@@ -13,7 +13,7 @@ entry_into_force: 2026-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/08/2026003842/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2026. - Decreet tot wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren, wat de werkwijze van de commissie betreft

@@ -11,7 +11,7 @@ date: 2016-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/20/2016031587/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Decreet houdende instemming met het samenwerkingsakkoord gesloten tussen het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie, met betrekking tot de uitrusting die ter beschikking wordt gesteld in het kader van de hervorming van het kwalificerend onderwijs en van de samenwerking tussen de Centra voor geavanceerde technologieën en de professionele Referentiecentra

@@ -13,7 +13,7 @@ entry_into_force: 2014-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/24/2014203547/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Décret portant assentiment à l'accord de coopération entre la Communauté française, la Commission communautaire française et la Région wallonne relatif à la création d'une Commission de déontologie et d'éthique

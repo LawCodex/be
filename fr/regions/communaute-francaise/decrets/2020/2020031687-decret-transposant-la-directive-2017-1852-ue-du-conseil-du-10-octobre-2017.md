@@ -13,7 +13,7 @@ entry_into_force: 2020-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/12/2020031687/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2020. - Décret transposant la directive 2017/1852/UE du Conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'union européenne

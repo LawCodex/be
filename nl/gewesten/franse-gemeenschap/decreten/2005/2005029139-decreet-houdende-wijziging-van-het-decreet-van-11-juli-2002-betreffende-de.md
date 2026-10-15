@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/05/04/2005029139/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2005. - Decreet houdende wijziging van het decreet van 11 juli 2002 betreffende de opleiding tijdens de loopbaan voor het personeel van de inrichtingen voor gewoon basisonderwijs. (Vertaling).

@@ -12,7 +12,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/28/2014202137/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Loi modifiant le Code judiciaire et la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail en ce qui concerne les procédures judiciaires

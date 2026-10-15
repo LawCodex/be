@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/03/19/1991012215/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 01-08-1991 et mise à jour au 09-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 1991. - Loi portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel.

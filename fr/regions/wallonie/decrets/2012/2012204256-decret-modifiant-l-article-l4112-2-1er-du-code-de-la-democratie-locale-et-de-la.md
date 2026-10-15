@@ -13,7 +13,7 @@ entry_into_force: 2012-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/18/2012204256/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2012. - Décret modifiant l'article L4112-2, § 1er, du Code de la démocratie locale et de la décentralisation

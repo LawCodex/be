@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/29/2010021133/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2010 et mise à jour au 30-04-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 DECEMBRE 2010. - Loi portant des dispositions diverses (I)

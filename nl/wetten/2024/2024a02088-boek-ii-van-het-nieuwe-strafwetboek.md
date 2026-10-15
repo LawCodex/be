@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/29/2024A02088/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 08-04-2024 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2024. - Boek II van het Nieuwe Strafwetboek

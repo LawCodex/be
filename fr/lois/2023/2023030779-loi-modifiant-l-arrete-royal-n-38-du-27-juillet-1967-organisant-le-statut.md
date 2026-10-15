@@ -12,7 +12,7 @@ entry_into_force: 2022-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/17/2023030779/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2023. - Loi modifiant l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants en ce qui concerne le calcul des cotisations pour les travailleurs indépendants artistes débutants

@@ -13,7 +13,7 @@ entry_into_force: 2016-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/09/19/2016204942/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2016. - Décret portant assentiment au Protocole d'adhésion du Gouvernement de la Fédération de Russie à la Convention du 16 décembre 1988 relative à la construction et à l'exploitation d'une Installation européenne de rayonnement synchrotron, fait à Grenoble le 23 juin 2014 et à Paris le 15 juillet 2014

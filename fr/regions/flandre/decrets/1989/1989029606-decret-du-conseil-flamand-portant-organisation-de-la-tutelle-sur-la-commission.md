@@ -12,7 +12,7 @@ published: 1989-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1989/07/05/1989029606/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1989. - Décret (du Conseil flamand) portant organisation de la tutelle sur la Commission communautaire flamande (Traduction).

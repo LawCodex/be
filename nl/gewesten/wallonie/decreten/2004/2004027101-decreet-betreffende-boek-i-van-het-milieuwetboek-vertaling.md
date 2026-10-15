@@ -12,7 +12,7 @@ published: 2004-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004027101/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet betreffende Boek I van het Milieuwetboek (VERTALING).

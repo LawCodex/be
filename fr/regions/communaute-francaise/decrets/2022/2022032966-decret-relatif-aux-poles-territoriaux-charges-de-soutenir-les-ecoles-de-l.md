@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/20/2022032966/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Décret relatif aux Pôles territoriaux chargés de soutenir les écoles de l'enseignement ordinaire dans la mise en oeuvre des aménagements raisonnables et de l'intégration permanente totale

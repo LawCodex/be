@@ -12,7 +12,7 @@ entry_into_force: 2023-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/20/2023045550/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2023. - Besluit tot wijziging van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt met betrekking tot de kwaliteit van voor menselijke consumptie bestemd water

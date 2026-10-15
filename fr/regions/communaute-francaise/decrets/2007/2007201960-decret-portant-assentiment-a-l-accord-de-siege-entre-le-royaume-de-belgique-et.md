@@ -13,7 +13,7 @@ entry_into_force: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/16/2007201960/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2007. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le International Plant Genetic Resources Institute (IPGRI), fait à Bruxelles le 15 octobre 2003.

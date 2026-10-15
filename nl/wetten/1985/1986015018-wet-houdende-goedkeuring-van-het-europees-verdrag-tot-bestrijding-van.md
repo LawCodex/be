@@ -12,7 +12,7 @@ entry_into_force: 1986-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/09/02/1986015018/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 1985. - Wet houdende goedkeuring van het Europees Verdrag tot bestrijding van terrorisme, opgemaakt te Straatsburg op 27 januari 1977 en van de Overeenkomst betreffende de toepassing van het Europees Verdrag tot bestrijding van terrorisme tussen de Lid-Staten van de Europese Gemeenschappen, opgemaakt te Dublin op 4 december 1979.

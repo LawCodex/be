@@ -12,7 +12,7 @@ entry_into_force: 2023-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/30/2023047577/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2023. - Wet houdende de tweede aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2023

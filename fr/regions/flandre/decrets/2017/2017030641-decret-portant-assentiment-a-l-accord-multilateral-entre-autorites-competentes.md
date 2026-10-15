@@ -13,7 +13,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030641/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant assentiment à l'Accord multilatéral entre autorités compétentes pour l'échange automatique de renseignements relatifs aux comptes financiers, signé à Berlin le 29 octobre 2014

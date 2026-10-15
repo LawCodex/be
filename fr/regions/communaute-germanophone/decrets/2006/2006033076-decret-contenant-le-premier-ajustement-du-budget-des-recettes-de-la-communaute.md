@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/29/2006033076/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2006. - Décret contenant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 2006 (TRADUCTION).HI:??2,Session 2005-2006 Documents du Parlement : 5-061 (2005-2006) n° 1 : Projet de décret 5-061 (2005-2006) n° 1 : Exposé global/déclaration justificative 5-061 (2005-2006) n° 2 : Rapport Rapport intégral : discussion et vote - Séance du 29 mai 2006

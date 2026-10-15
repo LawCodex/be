@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/11/10/2004203609/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 02-12-2004 et mise à jour au 02-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2004. - Décret instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto.

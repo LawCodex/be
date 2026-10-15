@@ -13,7 +13,7 @@ entry_into_force: 2006-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/12/2007200610/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2007. - Décret modifiant le décret du 28 avril 2004 relatif à la reconnaissance et au soutien des écoles de devoirs.

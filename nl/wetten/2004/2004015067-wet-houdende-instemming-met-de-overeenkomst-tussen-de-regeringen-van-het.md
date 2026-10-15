@@ -12,7 +12,7 @@ entry_into_force: 2004-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/08/2004015067/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2004. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, enerzijds, en de Regering van de Slowaakse Republiek, anderzijds, betreffende de overname van onregelmatig binnengekomen of verblijvende personen, en met de Bijlagen I en II, ondertekend te Bratislava op 21 mei 2002.

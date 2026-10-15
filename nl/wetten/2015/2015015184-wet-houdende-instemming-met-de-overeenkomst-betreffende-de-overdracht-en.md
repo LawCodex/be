@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/27/2015015184/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2015 en tekstbijwerking tot 11-07-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2015. - Wet houdende instemming met de Overeenkomst betreffende de overdracht en mutualisatie van de bijdragen aan het gemeenschappelijk afwikkelingsfonds, ondertekend te Brussel op 21 mei 2014

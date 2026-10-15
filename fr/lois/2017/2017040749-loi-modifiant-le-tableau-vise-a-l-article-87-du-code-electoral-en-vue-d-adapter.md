@@ -12,7 +12,7 @@ entry_into_force: 2017-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/22/2017040749/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2017. - Loi modifiant le tableau visé à l'article 87 du Code électoral en vue d'adapter la structure cantonale de la circonscription électorale de Hainaut

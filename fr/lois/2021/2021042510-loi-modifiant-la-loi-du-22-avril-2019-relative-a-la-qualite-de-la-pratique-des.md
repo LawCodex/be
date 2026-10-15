@@ -12,7 +12,7 @@ entry_into_force: 2021-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042510/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi modifiant la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé

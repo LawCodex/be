@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/1999011096/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - Wet houdende wijziging van de wet van 9 maart 1993 ertoe strekkende de exploitatie van huwelijksbureaus te regelen en te controleren.

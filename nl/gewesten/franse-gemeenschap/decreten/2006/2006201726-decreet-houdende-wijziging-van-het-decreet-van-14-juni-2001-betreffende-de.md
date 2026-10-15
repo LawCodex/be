@@ -13,7 +13,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/21/2006201726/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2006. - Decreet houdende wijziging van het decreet van 14 juni 2001 betreffende de integratie van nieuwkomers in het onderwijs dat door de Franse Gemeenschap is ingericht of gesubsidieerd (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/13/2024005030/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2024. - Wet tot wijziging van de wet van 15 augustus 2012 houdende oprichting en organisatie van een federale dienstenintegrator

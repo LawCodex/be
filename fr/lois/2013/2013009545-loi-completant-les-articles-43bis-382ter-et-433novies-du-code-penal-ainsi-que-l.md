@@ -12,7 +12,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/27/2013009545/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2013. - Loi complétant les articles 43bis, 382ter et 433novies du Code pénal, ainsi que l'article 77sexies de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, relativement à la confiscation spéciale

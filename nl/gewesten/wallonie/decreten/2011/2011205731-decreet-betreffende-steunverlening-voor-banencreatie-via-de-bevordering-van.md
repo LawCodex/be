@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/10/27/2011205731/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 16-11-2011 en tekstbijwerking tot 03-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2011. - Decreet betreffende steunverlening voor banencreatie via de bevordering van beroepsovergang naar het statuut van zelfstandige als hoofdactiviteit

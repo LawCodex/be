@@ -12,7 +12,7 @@ entry_into_force: 2010-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/30/2010015003/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 2009. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden over de terbeschikkingstelling van een penitentiaire inrichting in Nederland ten behoeve van de tenuitvoerlegging van bij Belgische veroordelingen opgelegde vrijheidsstraffen, gedaan te Tilburg (Nederland) op 31 oktober 2009

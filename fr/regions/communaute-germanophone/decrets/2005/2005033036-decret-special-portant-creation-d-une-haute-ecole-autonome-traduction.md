@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/02/21/2005033036/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 03-06-2005 et mise à jour au 29-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2005. - Décret spécial portant création d'une haute école autonome (TRADUCTION)

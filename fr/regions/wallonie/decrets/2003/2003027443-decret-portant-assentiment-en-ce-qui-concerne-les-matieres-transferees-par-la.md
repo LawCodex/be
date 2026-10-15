@@ -13,7 +13,7 @@ entry_into_force: 2003-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/06/2003027443/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2003. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, au Protocole additionnel à la Convention des Nations Unies contre la criminalité transnationale organisée visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, fait à New York le 27 novembre 2000.

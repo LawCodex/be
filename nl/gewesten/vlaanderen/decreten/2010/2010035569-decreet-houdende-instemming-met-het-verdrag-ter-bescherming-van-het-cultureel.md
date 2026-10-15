@@ -13,7 +13,7 @@ entry_into_force: 2010-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/16/2010035569/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2010. - Decreet houdende instemming met het verdrag ter bescherming van het cultureel erfgoed onder water, aangenomen in Parijs op 2 november 2001

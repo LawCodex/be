@@ -12,7 +12,7 @@ entry_into_force: 1981-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/12/24/1981000094/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1980. - Wet betreffende de maatregelen ter verzekering van de uitvoering van de begroting 1980-1981 van Sociale Voorzorg.

@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011204077/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening van de Franse Gemeenschap is overgedragen, met het Verdrag nr. 168 betreffende de bevordering van de werkgelegenheid en de bescherming tegen werkloosheid, aangenomen door de Internationale Arbeidsconferentie tijdens haar vijfenzeventigste zitting te Genève op 21 juni 1988

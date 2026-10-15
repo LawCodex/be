@@ -12,7 +12,7 @@ entry_into_force: 2007-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007023064/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot wijziging van de wet van 21 december 1998 betreffende de productnormen ter bevordering van duurzame productie- en consumptiepatronen en ter bescherming van het leefmilieu en de volksgezondheid.

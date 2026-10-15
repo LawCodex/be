@@ -12,7 +12,7 @@ entry_into_force: 2022-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/21/2021043554/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2021. - Wet houdende omzetting van het Europees Wetboek voor elektronische communicatie en wijziging van diverse bepalingen inzake elektronische communicatie

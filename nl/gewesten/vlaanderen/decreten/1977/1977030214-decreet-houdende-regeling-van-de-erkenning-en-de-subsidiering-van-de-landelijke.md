@@ -14,7 +14,7 @@ last_amended: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1977/03/02/1977030214/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-04-1988 en tekstbijwerking tot 29-06-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1977. - Decreet houdende regeling van de erkenning en de subsidiëring van de landelijke georganiseerde sportverenigingen.

@@ -12,7 +12,7 @@ entry_into_force: 1993-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/05/03/1993009497/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 1993. - Loi modifiant la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction.

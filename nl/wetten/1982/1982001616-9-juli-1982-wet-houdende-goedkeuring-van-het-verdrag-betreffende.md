@@ -11,7 +11,7 @@ published: 1982-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1982/07/09/1982001616/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1982. \_ Wet houdende goedkeuring van het Verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand, opgemaakt te Genève op 13 november 1979.

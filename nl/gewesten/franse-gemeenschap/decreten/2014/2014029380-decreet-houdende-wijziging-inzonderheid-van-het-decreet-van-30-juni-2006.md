@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029380/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2014 en tekstbijwerking tot 22-02-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet houdende wijziging inzonderheid van het decreet van 30 juni 2006 betreffende de pedagogische organisatie van de eerste graad van het secundair onderwijs

@@ -13,7 +13,7 @@ entry_into_force: 2026-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004338/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2026. - Décret modifiant divers décrets, en ce qui concerne la deuxième mise en oeuvre générale du Décret-cadre Maintien flamand du 14 juillet 2023

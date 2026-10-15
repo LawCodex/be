@@ -12,7 +12,7 @@ entry_into_force: 2020-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/16/2020031410/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2020. - Wet tot wijziging van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg, wat de doorstroming van prioritaire voertuigen betreft. - Erratum (Deze tekst vernietigt en vervangt degene die verschenen in het B.St. van 01-10-2020, p. 68969)

@@ -12,7 +12,7 @@ entry_into_force: 2023-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/22/2023203086/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2023. - Decreet tot wijziging van het decreet van 1 juni 2004 betreffende de gezondheidspromotie en inzake medische preventie

@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/03/1997002139/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 1997. - Loi modifiant la loi du 10 avril 1995 relative à la redistribution du travail dans le secteur public.

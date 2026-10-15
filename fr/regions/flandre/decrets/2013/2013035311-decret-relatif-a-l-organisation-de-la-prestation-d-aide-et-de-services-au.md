@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/08/2013035311/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-04-2013 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2013. - Décret relatif à l'organisation de la prestation d'aide et de services au profit des détenus

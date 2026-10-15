@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/05/2001000275/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2001. - Loi modifiant l'article 66 de la loi provinciale et insérant un article 242bis dans la nouvelle loi communale, en ce qui concerne le programme de politique générale.

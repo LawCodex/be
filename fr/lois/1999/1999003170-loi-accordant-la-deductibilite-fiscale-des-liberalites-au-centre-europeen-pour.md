@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/01/1999003170/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 1999. - Loi accordant la déductibilité fiscale des libéralités au Centre européen pour enfants disparus et sexuellement exploités - Belgique - Fondation de droit belge et l'exemption de la taxe d'affichage.

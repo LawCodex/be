@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/15/1999003180/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1999 et mis à jour au 22-03-2000"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 1999. - Loi relative au contentieux en matière fiscale.

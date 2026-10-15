@@ -12,7 +12,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/18/2014015181/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République d'Albanie, la Bosnie-et-Herzégovine, la République de Croatie, l'ancienne République Yougoslave de Macédoine, la République de Moldavie, le Monténégro, la République de Serbie et la " United Nations Interim Administration Mission in Kosovo " agissant au nom du Kosovo conformément à la résolution 1244 du Conseil de sécurité des Nations unies sur les privilèges et immunités du Secrétariat du " Central European Free Trade Agreement ", signé à Bruxelles le 26 juin 2008

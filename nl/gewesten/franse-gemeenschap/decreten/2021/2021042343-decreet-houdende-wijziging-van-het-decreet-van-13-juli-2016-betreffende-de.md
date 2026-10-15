@@ -12,7 +12,7 @@ published: 2021-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/17/2021042343/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2021. - Decreet houdende wijziging van het decreet van 13 juli 2016 betreffende de studies diergeneeskundige wetenschappen

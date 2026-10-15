@@ -13,7 +13,7 @@ entry_into_force: 2008-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/19/2008202201/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Décret portant ratification de l'arrêté du Gouvernement wallon du 20 décembre 2007 pris en exécution de l'article 21 du décret du 8 décembre 2005 modifiant la loi organique du 8 juillet 1976 des Centres publics d'action sociale.

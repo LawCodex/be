@@ -13,7 +13,7 @@ entry_into_force: 2023-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/21/2023200678/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2022. - Decreet houdende instemming met Bijlage VI bij het Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, opgemaakt te Stockholm op 17 juni 2005

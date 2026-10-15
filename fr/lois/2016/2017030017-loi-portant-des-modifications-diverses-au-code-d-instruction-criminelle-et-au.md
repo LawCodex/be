@@ -12,7 +12,7 @@ entry_into_force: 2017-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017030017/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi portant des modifications diverses au Code d'instruction criminelle et au Code pénal, en vue d'améliorer les méthodes particulières de recherche et certaines mesures d'enquête concernant Internet, les communications électroniques et les télécommunications et créant une banque de données des empreintes vocales

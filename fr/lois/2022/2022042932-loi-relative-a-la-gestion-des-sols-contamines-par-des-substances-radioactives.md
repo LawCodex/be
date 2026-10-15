@@ -12,7 +12,7 @@ entry_into_force: 2023-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/20/2022042932/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2022. - Loi relative à la gestion des sols contaminés par des substances radioactives

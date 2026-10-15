@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/23/1999003002/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 03-06-1999 en tekstbijwerking tot 23-09-1999."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1998. - Wet houdende de algemene uitgavenbegroting voor het begrotingsjaar 1999. -

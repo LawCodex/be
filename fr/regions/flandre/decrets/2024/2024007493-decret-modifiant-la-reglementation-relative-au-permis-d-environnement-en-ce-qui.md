@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024007493/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-08-2024 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret modifiant la réglementation relative au permis d'environnement en ce qui concerne l'instauration d'une procédure modulaire de permis d'environnement et l'arrêté environnement

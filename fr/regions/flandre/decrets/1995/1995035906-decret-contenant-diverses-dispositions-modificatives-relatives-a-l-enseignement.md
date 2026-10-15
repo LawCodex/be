@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035906/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-07-1995 et mise à jour au 29-08-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret contenant diverses dispositions modificatives relatives à l'enseignement supérieur en Communauté flamande. (TRADUCTION).

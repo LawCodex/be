@@ -12,7 +12,7 @@ entry_into_force: 2001-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/2000015090/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van Roemenië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 4 maart 1996.

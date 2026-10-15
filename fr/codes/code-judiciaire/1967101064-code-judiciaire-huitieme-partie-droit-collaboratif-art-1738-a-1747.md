@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101064/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2018 et mise à jour au 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE. - Huitième partie : Droit collaboratif (art. 1738 à 1747)

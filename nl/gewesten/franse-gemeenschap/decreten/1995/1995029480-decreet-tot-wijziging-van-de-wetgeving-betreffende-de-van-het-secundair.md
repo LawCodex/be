@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/08/05/1995029480/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-1995 en tekstbijwerking tot 25-02-1999."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 1995. - Decreet tot wijziging van de wetgeving betreffende de van het secundair onderwijs met volledig leerplan (VERTALING). -

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/06/21/1985014311/justel"
 department: "Justitie - Financiën - Economische Zaken - Verkeerswezen - Landbouw"
 justel_note: "Raadpleging van vroegere versies vanaf 08-11-1990 en tekstbijwerking tot 08-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 1985. - Wet betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen.

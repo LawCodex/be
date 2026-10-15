@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1986/06/26/1986029426/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-02-1988 en tekstbijwerking tot 07-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1986. - Decreet tot regeling van de erkenning van de diensten voor gezins- en bejaardenhulp, van de toekenning van subsidies aan deze diensten en van de bijdragen van de beneficiant van de hulp. (Vertaling)

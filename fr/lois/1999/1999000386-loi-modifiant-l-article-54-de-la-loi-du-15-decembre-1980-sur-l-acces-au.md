@@ -12,7 +12,7 @@ entry_into_force: 1999-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999000386/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi modifiant l'article 54 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et l'article 57ter de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, les articles 2, § 5, 5, § 2 et 11bis de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale.

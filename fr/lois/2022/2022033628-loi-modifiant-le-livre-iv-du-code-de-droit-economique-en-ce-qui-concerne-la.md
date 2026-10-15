@@ -12,7 +12,7 @@ entry_into_force: 2022-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/09/25/2022033628/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBRE 2022. - Loi modifiant le livre IV du Code de droit économique en ce qui concerne la pension des mandataires de l'Autorité belge de la concurrence

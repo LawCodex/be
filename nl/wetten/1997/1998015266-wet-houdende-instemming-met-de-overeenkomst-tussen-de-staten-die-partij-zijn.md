@@ -12,7 +12,7 @@ entry_into_force: 1995-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/08/1998015266/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1997. - Wet houdende instemming met de Overeenkomst tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de andere Staten die toetreden tot het Partnerschap voor de Vrede inzake het statuut van hun strijdkrachten en met het Protocol, gedaan te Brussel op 19 juni 1995.

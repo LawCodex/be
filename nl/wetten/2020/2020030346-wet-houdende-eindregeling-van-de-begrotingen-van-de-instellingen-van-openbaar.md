@@ -12,7 +12,7 @@ entry_into_force: 2020-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/15/2020030346/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2020. - Wet houdende eindregeling van de begrotingen van de instellingen van openbaar nut van het jaar 2015

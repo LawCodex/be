@@ -13,7 +13,7 @@ entry_into_force: 1999-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/09/1999029706/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1999. - Décret portant assentiment à l'Accord de coopération linguistique, culturelle, éducative et scientifique entre le Gouvernement de la Communauté française de Belgique et le Gouvernement République française.

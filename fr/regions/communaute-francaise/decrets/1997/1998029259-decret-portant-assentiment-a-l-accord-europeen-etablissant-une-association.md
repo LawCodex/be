@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/22/1998029259/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1997. - Décret portant assentiment à l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, agissant dans le cadre de l'Union européenne d'une part, et la République de Slovénie, d'autre part, aux Annexes I, II, III, IV, V, VI, VII, VIIIa, VIIIb, IXa, IXb, IXc, X, XI, XII, XIII, aux Protocoles 1, 2, 3, 4, 5, et 6 et à l'Acte final, faits à Luxembourg le 10 juin 1996.

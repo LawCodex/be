@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/05/08/2026003912/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2026. - Décret modifiant le décret du 30 avril 2009 relatif à l'organisation et au financement de la politique en matière de sciences et d'innovation, en ce qui concerne une extension des missions du Centre d'expertise Recherche et Monitoring de développement

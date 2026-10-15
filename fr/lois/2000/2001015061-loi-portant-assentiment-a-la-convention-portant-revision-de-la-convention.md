@@ -12,7 +12,7 @@ entry_into_force: 2002-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/25/2001015061/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBRE 2000. - Loi portant assentiment à la Convention portant révision de la Convention générale sur la Sécurité sociale entre le Royaume de Belgique et la République de Turquie signée à Bruxelles le 4 juillet 1966 et aux deux arrangements administratifs, signés à Ankara le 30 juin 1997.

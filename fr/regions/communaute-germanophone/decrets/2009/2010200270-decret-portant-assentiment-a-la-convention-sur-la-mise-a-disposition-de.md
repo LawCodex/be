@@ -13,7 +13,7 @@ entry_into_force: 2010-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/03/2010200270/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2009. - Décret portant assentiment à la Convention sur la mise à disposition de ressources de télécommunication pour l'atténuation des effets de catastrophes et pour les opérations de secours en cas de catastrophe, faite à Tampere le 18 juin 1998

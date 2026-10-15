@@ -12,7 +12,7 @@ entry_into_force: 2023-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/02/2023030500/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2023. - Loi relatif au fonctionnement et à l'utilisation du système d'information Schengen (SIS) dans le domaine de la coopération policière et de la coopération judiciaire en matière pénale, dans le domaine des vérifications aux frontières et aux fins du retour des ressortissants de pays tiers en séjour irrégulier

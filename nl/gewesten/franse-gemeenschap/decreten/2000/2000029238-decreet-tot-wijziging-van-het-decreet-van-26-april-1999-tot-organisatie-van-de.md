@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/05/31/2000029238/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2000. - Decreet tot wijziging van het decreet van 26 april 1999 tot organisatie van de sport in de Franse Gemeenschap (VERTALING).

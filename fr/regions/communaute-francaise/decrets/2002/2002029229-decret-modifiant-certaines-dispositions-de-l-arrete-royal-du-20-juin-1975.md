@@ -13,7 +13,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/27/2002029229/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2002. - Décret modifiant certaines dispositions de l'arrêté royal du 20 juin 1975 relatif aux titres jugés suffisants dans l'enseignement gardien et primaire.

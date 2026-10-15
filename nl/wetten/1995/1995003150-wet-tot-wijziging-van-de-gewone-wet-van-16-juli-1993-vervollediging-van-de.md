@@ -12,7 +12,7 @@ entry_into_force: 1995-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/02/09/1995003150/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1995. - Wet tot wijziging van de gewone wet van 16 juli 1993 vervollediging van de federale staatsstructuur.

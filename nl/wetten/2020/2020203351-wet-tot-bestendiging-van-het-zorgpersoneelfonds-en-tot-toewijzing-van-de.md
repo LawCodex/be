@@ -12,7 +12,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/30/2020203351/justel"
 department: "Justitie - Beleid en Ondersteuning - Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2020. - Wet tot bestendiging van het Zorgpersoneelfonds en tot toewijzing van de desbetreffende middelen voor de jaren 2019 en 2020

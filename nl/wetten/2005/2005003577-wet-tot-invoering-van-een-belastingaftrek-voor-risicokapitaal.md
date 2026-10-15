@@ -12,7 +12,7 @@ entry_into_force: 2005-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/22/2005003577/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2005. - Wet tot invoering van een belastingaftrek voor risicokapitaal.

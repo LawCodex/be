@@ -13,7 +13,7 @@ entry_into_force: 2002-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/21/2002035038/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet houdende instemming met de partnerschaps- en samenwerkingsovereenkomsten tussen de Europese Gemeenschappen en hun lidstaten enerzijds, en Turkmenistan anderzijds, met de Bijlagen I, II, III, IV en V, het Protocol betreffende wederzijdse administratieve bijstand in douanezaken en de Slotakte, ondertekend te Brussel op 25 mei 1998.

@@ -12,7 +12,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/20/2022043170/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2022. - Modification de la Décision du 20 décembre 2021 d'autorisation d'importation et d'utilisation du médicament LAGEVRIO pour le traitement de la COVID-19

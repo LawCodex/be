@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/17/2000003131/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2000. - Loi relative à l'application rétroactive des exemptions prévues par les accords de siège avec les organisations internationales intergouvernementales en matière d'impôts sur les revenus et de taxes assimilées aux impôts sur les revenus.

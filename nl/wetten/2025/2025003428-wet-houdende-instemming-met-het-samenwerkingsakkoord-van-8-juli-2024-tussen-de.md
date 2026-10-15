@@ -12,7 +12,7 @@ entry_into_force: 2025-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/04/09/2025003428/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2025. - Wet houdende instemming met het Samenwerkingsakkoord van 8 juli 2024 tussen de Federale Overheid en het Waalse Gewest betreffende de uitvoering van de artikelen 19/1 tot 19/3 van de wet van 15 mei 2014 houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance

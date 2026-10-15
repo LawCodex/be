@@ -12,7 +12,7 @@ entry_into_force: 2025-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/20/2023045610/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Loi portant modification de la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale en vue de la transposition partielle de la directive (UE) 2019/882 du Parlement européen et du Conseil du 17 avril 2019 relative aux exigences en matière d'accessibilité applicables aux produits et services

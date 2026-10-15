@@ -13,7 +13,7 @@ entry_into_force: 2025-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/24/2025201052/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2025. - Décret portant assentiment au Protocole modifiant le Protocole sur les privilèges et immunités de l'Organisation Benelux de la Propriété intellectuelle (marques et dessins ou modèles), fait à Bruxelles le 6 décembre 2022

@@ -13,7 +13,7 @@ entry_into_force: 2002-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/08/2002035547/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2002. - Decreet houdende instemming met : - de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Algerijnse Democratische Volksrepubliek inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Algiers op 24 april 1991, - de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de republiek Tunesië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Tunis op 8 januari 1997, - de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Arabische republiek Egypte inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Cairo op 28 februari 1999, en met - de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van het Koninkrijk Marokko inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Rabat op 13 april 1999.

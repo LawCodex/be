@@ -13,7 +13,7 @@ entry_into_force: 2014-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203011/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'accord sur le transport international par route entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Kosovo, signé à Bruxelles le 18 juin 2010

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014014287/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 12-06-2014 et mise à jour au 25-01-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi relative aux droits et obligations des voyageurs ferroviaires

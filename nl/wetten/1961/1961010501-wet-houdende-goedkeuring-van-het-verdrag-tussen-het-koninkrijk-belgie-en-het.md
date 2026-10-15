@@ -11,7 +11,7 @@ published: 1961-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/01/05/1961010501/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JANUARI 1961. - Wet houdende goedkeuring van het Verdrag tussen het Koninkrijk België en het Groothertogdom Luxemburg, betreffende de sociale zekerheid der grensarbeiders en van het bijzonder protocol, ondertekend op 16 november 1959, te Luxemburg.

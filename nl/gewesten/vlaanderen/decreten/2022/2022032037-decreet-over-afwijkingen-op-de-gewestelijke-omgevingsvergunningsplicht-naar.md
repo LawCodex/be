@@ -13,7 +13,7 @@ entry_into_force: 2022-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/29/2022032037/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2022. - Decreet over afwijkingen op de gewestelijke omgevingsvergunningsplicht naar aanleiding van de civiele noodsituatie ten gevolge van de oorlog in Oekraïne

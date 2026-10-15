@@ -12,7 +12,7 @@ entry_into_force: 2003-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/27/2003012112/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Loi modifiant la loi du 16 décembre 2002 portant création de l'Institut pour l'égalité des femmes et des hommes.

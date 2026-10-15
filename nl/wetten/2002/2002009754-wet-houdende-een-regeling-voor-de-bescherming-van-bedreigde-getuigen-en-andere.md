@@ -12,7 +12,7 @@ entry_into_force: 2002-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/07/2002009754/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2002. - Wet houdende een regeling voor de bescherming van bedreigde getuigen en andere bepalingen

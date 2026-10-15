@@ -13,7 +13,7 @@ entry_into_force: 2014-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031329/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie houdende instemming met : de Luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, gedaan te Brussel op 17 december 2009

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/20/2014200948/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 14-02-2014 et mise à jour au 29-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2014. - Décret spécial portant création d'un centre pour le développement sain des enfants et des jeunes

@@ -12,7 +12,7 @@ entry_into_force: 1984-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/01/17/1984015110/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 1984. - Wet houdende goedkeuring van de Overeenkomst inzake de instandhouding van de levende rijkdommen in de Antarctische wateren, en van de Bijlage, opgemaakt te Canberra op 20 mei 1980.

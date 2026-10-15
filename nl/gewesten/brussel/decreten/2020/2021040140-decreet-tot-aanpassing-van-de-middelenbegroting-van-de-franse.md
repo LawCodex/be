@@ -13,7 +13,7 @@ entry_into_force: 2020-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/11/2021040140/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2020. - Decreet tot aanpassing van de middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2020. - Tweede aanpassing

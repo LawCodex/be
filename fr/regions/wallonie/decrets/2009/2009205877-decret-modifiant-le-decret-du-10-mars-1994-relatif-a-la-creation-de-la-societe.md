@@ -13,7 +13,7 @@ entry_into_force: 2009-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/10/2009205877/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2009. - Décret modifiant le décret du 10 mars 1994 relatif à la création de la Société wallonne de Financement complémentaire des Infrastructures

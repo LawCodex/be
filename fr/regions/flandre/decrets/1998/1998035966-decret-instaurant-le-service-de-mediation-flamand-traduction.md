@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/07/1998035966/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 25-08-1998 et mise à jour au 01-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1998. - Décret instaurant le service de médiation flamand (TRADUCTION).

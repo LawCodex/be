@@ -12,7 +12,7 @@ entry_into_force: 2005-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/2005015073/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Gabon tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 14 januari 1993.

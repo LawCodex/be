@@ -12,7 +12,7 @@ entry_into_force: 2022-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/02/2021034354/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Wet houdende wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle, met betrekking tot de bevoegdheden van dat Agentschap inzake de algemene regels en acceptatiecriteria bedoeld in artikel 179, § 2, 4°, van de wet van 8 augustus 1980 betreffende de budgettaire voorstellen 1979-1980

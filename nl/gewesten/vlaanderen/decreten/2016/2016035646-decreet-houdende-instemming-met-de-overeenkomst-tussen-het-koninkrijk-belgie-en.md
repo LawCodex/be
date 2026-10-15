@@ -13,7 +13,7 @@ entry_into_force: 2016-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/18/2016035646/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2016. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Colombia inzake het verrichten van betaalde werkzaamheden door gezinsleden van het diplomatiek en consulair personeel, ondertekend te Bogota op 25 augustus 2015

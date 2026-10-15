@@ -13,7 +13,7 @@ entry_into_force: 2014-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/29/2013206974/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2013. - Decreet houdende instemming met het verdrag van de Raad van Europa inzake het voorkomen en bestrijden van geweld tegen vrouwen en huiselijk geweld en het aanhangsel, opgemaakt in Istanboel op 11 mei 2011 en ondertekend in Straatsburg op 11 september 2012

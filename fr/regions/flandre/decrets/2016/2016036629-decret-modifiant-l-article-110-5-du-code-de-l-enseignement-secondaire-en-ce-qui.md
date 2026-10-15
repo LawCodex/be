@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/25/2016036629/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2016. - Décret modifiant l'article 110/5 du Code de l'Enseignement secondaire, en ce qui concerne le droit à l'inscription

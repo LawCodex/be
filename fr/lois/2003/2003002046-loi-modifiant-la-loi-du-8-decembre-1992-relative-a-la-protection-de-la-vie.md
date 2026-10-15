@@ -12,7 +12,7 @@ entry_into_force: 2003-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/26/2003002046/justel"
 department: "Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2003. - Loi modifiant la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel et la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la sécurité sociale en vue d'aménager le statut et d'étendre les compétences de la Commission de la protection de la vie privée.

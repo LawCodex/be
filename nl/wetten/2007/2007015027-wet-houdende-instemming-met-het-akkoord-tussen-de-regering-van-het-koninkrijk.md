@@ -12,7 +12,7 @@ entry_into_force: 2007-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/30/2007015027/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2007. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Republiek Oezbekistan over wederzijdse administratieve bijstand in douanezaken, ondertekend te Tashkent op 1 november 2002.

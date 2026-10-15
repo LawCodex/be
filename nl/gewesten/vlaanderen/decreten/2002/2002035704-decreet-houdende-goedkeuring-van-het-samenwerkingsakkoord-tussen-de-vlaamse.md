@@ -13,7 +13,7 @@ entry_into_force: 2002-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/04/19/2002035704/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2002. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Vlaamse regering en de regering van de Republiek Bulgarije, ondertekend in Sofia op 18 mei 2001.

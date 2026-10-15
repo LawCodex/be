@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/02/03/2005027144/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 01-03-2005 et mise à jour au 20-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2005. - Décret -programme de relance économique et de simplification administrative

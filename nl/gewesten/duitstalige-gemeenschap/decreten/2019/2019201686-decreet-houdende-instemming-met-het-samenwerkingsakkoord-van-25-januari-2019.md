@@ -13,7 +13,7 @@ entry_into_force: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/25/2019201686/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2019. - Decreet houdende instemming met het Samenwerkingsakkoord van 25 januari 2019 tussen de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de terbeschikkingstelling van de FM-frequentie Luik 88.5 MHz

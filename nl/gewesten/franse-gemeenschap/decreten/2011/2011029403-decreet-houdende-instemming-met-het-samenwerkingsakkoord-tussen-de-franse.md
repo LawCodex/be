@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/07/2011029403/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2011. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de aankoop van vaccins om de kinderen en de adolescenten te beschermen

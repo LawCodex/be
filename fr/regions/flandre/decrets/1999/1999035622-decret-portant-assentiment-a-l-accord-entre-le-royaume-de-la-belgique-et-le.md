@@ -13,7 +13,7 @@ entry_into_force: 1999-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/13/1999035622/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1999. - Décret portant assentiment à l'accord entre le Royaume de la Belgique et le Royaume des Pays-Bas relatif à la protection des rives de l'Escaut occidental contre l'affouillement, signé à Bruxelles le 6 janvier 1993 (TRADUCTION).

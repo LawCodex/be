@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/02/2021034180/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 24 juni 2021 tussen de Vlaamse Gemeenschap, het Vlaams Gewest en het Brussels Hoofdstedelijk Gewest over de afstemming van het arbeidsmarktbeleid, opleiding, vorming en de bevordering van de mobiliteit van werkzoekenden

@@ -11,7 +11,7 @@ entry_into_force: 2018-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/02/2018204681/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 2018. - Wet tot wijziging van de herstelwet van 22 januari 1985 houdende sociale bepalingen, wat betreft de flexibilisering van de opname van thematische verloven

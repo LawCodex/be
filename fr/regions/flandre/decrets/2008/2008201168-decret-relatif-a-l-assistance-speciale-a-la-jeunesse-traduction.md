@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/07/2008201168/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-04-2008 et mise à jour au 24-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2008. - Décret relatif à l'assistance spéciale à la jeunesse (TRADUCTION)

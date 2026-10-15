@@ -13,7 +13,7 @@ entry_into_force: 2015-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/08/2015035617/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2015. - Decreet houdende wijziging van het Kunstendecreet van 13 december 2013

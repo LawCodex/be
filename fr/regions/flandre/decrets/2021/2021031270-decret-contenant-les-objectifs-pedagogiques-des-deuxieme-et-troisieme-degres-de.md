@@ -13,7 +13,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/12/2021031270/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2021. - Décret contenant les objectifs pédagogiques des deuxième et troisième degrés de l'enseignement secondaire et diverses autres mesures connexes

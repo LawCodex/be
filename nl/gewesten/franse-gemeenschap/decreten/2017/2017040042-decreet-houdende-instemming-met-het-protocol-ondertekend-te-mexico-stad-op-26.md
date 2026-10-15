@@ -13,7 +13,7 @@ entry_into_force: 2017-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/26/2017040042/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2017. - Decreet houdende instemming met het Protocol, ondertekend te Mexico-Stad op 26 augustus 2013, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Mexico op 24 november 1992

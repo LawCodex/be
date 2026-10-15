@@ -12,7 +12,7 @@ entry_into_force: 2015-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/05/29/2015014175/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2015. - Wet tot wijziging van de wet van 19 maart 2013 betreffende de Belgische Ontwikkelingssamenwerking

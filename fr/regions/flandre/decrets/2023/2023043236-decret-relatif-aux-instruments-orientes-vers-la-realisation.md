@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/26/2023043236/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-07-2023 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2023. - Décret relatif aux instruments orientés vers la réalisation

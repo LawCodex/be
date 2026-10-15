@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/06/2017030652/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-07-2017 et mise à jour au 02-07-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2017. - Loi portant simplification, harmonisation, informatisation et modernisation de dispositions de droit civil et de procédure civile ainsi que du notariat, et portant diverses mesures en matière de justice

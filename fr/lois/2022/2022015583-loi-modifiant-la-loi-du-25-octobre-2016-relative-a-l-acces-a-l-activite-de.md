@@ -12,7 +12,7 @@ entry_into_force: 2022-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/20/2022015583/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Loi modifiant la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement et portant autres dispositions diverses visant à transposer la directive (UE) 2019/2034 du Parlement européen et du Conseil du 27 novembre 2019 concernant la surveillance prudentielle des entreprises d'investissement

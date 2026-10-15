@@ -13,7 +13,7 @@ entry_into_force: 2011-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/14/2011203902/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2011. - Decreet houdende goedkeuring van de beslissing waarbij de dienst van de verkeersbelasting, van de belasting op de inverkeerstelling en van het eurovignet naar het Waalse Gewest overgeheveld wordt

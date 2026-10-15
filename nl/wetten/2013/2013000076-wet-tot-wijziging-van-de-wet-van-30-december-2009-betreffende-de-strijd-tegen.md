@@ -12,7 +12,7 @@ entry_into_force: 2013-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/01/16/2013000076/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2013. - Wet tot wijziging van de wet van 30 december 2009 betreffende de strijd tegen de piraterij op zee en tot wijziging van het Gerechtelijk Wetboek

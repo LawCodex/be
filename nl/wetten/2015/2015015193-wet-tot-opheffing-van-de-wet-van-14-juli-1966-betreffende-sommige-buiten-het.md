@@ -12,7 +12,7 @@ entry_into_force: 2016-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/13/2015015193/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2015. - Wet tot opheffing van de wet van 14 juli 1966 betreffende sommige buiten het Rijk opgemaakte akten van de burgerlijke stand

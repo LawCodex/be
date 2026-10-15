@@ -12,7 +12,7 @@ entry_into_force: 2023-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/06/2023042994/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2023. - Loi relative à la circulation des trains de véhicules touristiques composés d'un tracteur et d'un chariot bâché sur la voie publique

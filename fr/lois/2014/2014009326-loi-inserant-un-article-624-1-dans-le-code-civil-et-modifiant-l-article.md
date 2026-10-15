@@ -11,7 +11,7 @@ published: 2014-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2014009326/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi insérant un article 624/1 dans le Code civil et modifiant l'article 745sexies du même Code en vue de fixer les règles pour la valorisation de l'usufruit en cas de conversion de l'usufruit du conjoint survivant et du cohabitant légal survivant

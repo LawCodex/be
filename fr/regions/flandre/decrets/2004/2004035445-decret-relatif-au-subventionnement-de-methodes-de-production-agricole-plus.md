@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004035445/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2005 et mise à jour au 12-09-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2004. - Décret relatif au subventionnement de méthodes de production agricole plus durables et à l'agrément de centres pour une agriculture plus durable (TRADUCTION).

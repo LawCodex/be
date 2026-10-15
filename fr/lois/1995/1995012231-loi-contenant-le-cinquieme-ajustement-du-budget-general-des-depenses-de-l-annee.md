@@ -12,7 +12,7 @@ entry_into_force: 1995-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/22/1995012231/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1995. - Loi contenant le cinquième ajustement du budget général des dépenses de l'année budgétaire 1994.

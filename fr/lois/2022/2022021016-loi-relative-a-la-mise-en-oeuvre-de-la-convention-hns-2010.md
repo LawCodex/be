@@ -11,7 +11,7 @@ published: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/23/2022021016/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Loi relative à la mise en oeuvre de la Convention HNS 2010

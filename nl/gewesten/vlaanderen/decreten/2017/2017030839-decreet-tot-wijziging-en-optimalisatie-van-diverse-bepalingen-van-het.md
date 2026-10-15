@@ -13,7 +13,7 @@ entry_into_force: 2017-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/30/2017030839/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Decreet tot wijziging en optimalisatie van diverse bepalingen van het Wapenhandeldecreet van 15 juni 2012

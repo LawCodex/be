@@ -12,7 +12,7 @@ entry_into_force: 1997-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/06/1997009448/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1997. - Wet strekkende tot de bespoediging van de procedure voor het Hof van Cassatie.

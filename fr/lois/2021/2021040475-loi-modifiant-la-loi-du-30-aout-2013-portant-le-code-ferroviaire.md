@@ -12,7 +12,7 @@ entry_into_force: 2020-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/01/20/2021040475/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2021. - Loi modifiant la loi du 30 août 2013 portant le Code ferroviaire

@@ -11,7 +11,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/08/10/2005003642/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2005. - Wet tot wijziging van artikel 394 van het Wetboek van de inkomstenbelastingen 1992 en van artikel 2 van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen, teneinde de fiscale invordering humaner te maken ten aanzien van de echtgenoten.

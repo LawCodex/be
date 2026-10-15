@@ -13,7 +13,7 @@ entry_into_force: 2015-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/15/2015029252/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2015. - Décret habilitant les Administrations publiques de la Région wallonne et de la Région de Bruxelles-Capitale à réaliser des opérations patrimoniales pour le compte de la Communauté française et des entités qui en dépendent

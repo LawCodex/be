@@ -12,7 +12,7 @@ entry_into_force: 2000-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/14/2000003719/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Wet houdende de tweede aanpassing van de Rijksmiddelenbegroting van het begrotingsjaar 2000.

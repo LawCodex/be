@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/20/2024000604/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 13-02-2024 et mise à jour au 12-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2023. - Décret-programme portant diverses dispositions accompagnant le budget initial 2024

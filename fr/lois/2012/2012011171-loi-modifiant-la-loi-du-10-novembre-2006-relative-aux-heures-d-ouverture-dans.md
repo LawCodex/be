@@ -12,7 +12,7 @@ entry_into_force: 2012-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/11/2012011171/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2012. - Loi modifiant la loi du 10 novembre 2006 relative aux heures d'ouverture dans le commerce, l'artisanat et les services en ce qui concerne les dérogations autorisées

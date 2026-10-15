@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1969/06/27/1969062710/justel"
 justel_notes:
   - "art. 30bis gewijzigd met ingang op een onbepaalde datum bij W 2022-12-26/01 , art. 49, 088; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 24-01-1985 en tekstbijwerking tot 02-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1969. - Wet tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders

@@ -11,7 +11,7 @@ published: 1978-02-16
 entry_into_force: 1978-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/12/08/1977120802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 1977. - Wet houdende goedkeuring van de overeenkomst tot oprichting van het Internationaal Fonds voor agrarische ontwikkeling, en van de Bijlagen 1 en 2, opgemaakt te Rome op 13 juni 1976.

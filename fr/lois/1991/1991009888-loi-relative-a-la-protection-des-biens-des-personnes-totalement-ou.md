@@ -12,7 +12,7 @@ entry_into_force: 1992-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/18/1991009888/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1991. - Loi relative à la protection des biens des personnes totalement ou partiellement incapables d'en assumer la gestion en raison de leur état physique ou mental.

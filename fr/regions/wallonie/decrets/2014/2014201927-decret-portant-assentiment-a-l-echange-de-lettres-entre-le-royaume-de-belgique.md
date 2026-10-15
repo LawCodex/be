@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201927/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret portant assentiment à l'Echange de lettres entre le Royaume de Belgique et le OHQ UE de l'opération ALTHEA installé au SHAPE, représenté par son Commandant, complémentaire à l'Echange de lettres entre le Royaume de Belgique et le OHQ UE de l'opération ALTHEA des 10 juillet 2006 et 14 juillet 2006, concernant l'octroi d'une exonération de la taxe de circulation et de la taxe de mise en circulation aux membres du QG ALTHEA des 30 janvier 2008 et 22 mai 2008

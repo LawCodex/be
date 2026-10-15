@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/19/2008033067/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2008 en tekstbijwerking tot 15-03-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2008. - Decreet betreffende de materiële organisatie en de werking van de erkende erediensten (VERTALING)

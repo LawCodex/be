@@ -12,7 +12,7 @@ entry_into_force: 2014-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/24/2013205946/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2013. - Decreet tot wijziging van verschillende decreten, met name inzake industriële emissies

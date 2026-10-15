@@ -13,7 +13,7 @@ entry_into_force: 2002-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036012/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret portant assentiment à : 1° l'accord entre l'Union économique belgo-luxembourgeoise et la République gabonaise concernant la promotion et la protection réciproque des investissement, signé à Bruxelles le 27 mai 1998; 2° l'accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Côte d'Ivoire concernant la promotion et la protection réciproque des investissements, signé à Bruxelles le 1er avril 1999 (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2025-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/18/2025009088/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2025. - Wet tot wijziging van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de federale Staat, met het oog op de gedeeltelijke omzetting van de richtlijn (EU) 2024/1265

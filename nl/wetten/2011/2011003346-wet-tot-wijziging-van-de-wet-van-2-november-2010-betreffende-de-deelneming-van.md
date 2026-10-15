@@ -10,7 +10,7 @@ date: 2011-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/09/26/2011003346/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 2011. - Wet tot wijziging van de wet van 2 november 2010 betreffende de deelneming van de Belgische Staat in de " European Financial Stability Facility " en het verlenen van de Staatswaarborg aan de door deze vennootschap uitgegeven financiële instrumenten

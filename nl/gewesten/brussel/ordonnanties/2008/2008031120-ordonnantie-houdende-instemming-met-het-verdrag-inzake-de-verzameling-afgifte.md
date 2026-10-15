@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/03/06/2008031120/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2008. - Ordonnantie houdende instemming met het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, ondertekend te Straatsburg op 9 september 1996.

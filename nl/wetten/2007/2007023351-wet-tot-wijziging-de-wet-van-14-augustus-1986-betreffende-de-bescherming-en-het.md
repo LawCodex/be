@@ -12,7 +12,7 @@ entry_into_force: 2004-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007023351/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot wijziging de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.

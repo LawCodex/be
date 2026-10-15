@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/13/2023044133/justel"
 department: "Institut pour l'égalité des femmes et des hommes"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2023 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2023. - Loi sur la prévention et la lutte contre les féminicides, les homicides fondés sur le genre et les violences

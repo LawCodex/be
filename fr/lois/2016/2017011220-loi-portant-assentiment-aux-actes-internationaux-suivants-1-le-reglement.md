@@ -12,7 +12,7 @@ entry_into_force: 2018-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/09/14/2017011220/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 SEPTEMBRE 2016. - Loi portant assentiment aux Actes internationaux suivants : 1° le Règlement général de l'Union postale universelle, fait à Doha le 11 octobre 2012 ; 2° la Convention postale universelle et son Protocole final, faits à Doha le 11 octobre 2012 ; 3° l'Arrangement concernant les services postaux de paiement, fait à Doha le 11 octobre 2012

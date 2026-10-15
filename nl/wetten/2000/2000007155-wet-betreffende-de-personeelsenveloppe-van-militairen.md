@@ -16,7 +16,7 @@ department: "Landsverdediging"
 justel_notes:
   - "Art. 2 en 5 zijn gewijzigd met ingang op een onbepaalde datum door <W 2006-03-05/58 , art. 35 en 36, 005; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 29-06-2000 en tekstbijwerking tot 12-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2000. - Wet betreffende de personeelsenveloppe van militairen.

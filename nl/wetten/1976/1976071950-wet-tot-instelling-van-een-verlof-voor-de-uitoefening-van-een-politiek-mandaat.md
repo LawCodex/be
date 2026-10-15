@@ -13,7 +13,7 @@ last_amended: 2023-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/19/1976071950/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-1999 en tekstbijwerking tot 14-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1976. - Wet tot instelling van een verlof voor de uitoefening van een politiek mandaat. -

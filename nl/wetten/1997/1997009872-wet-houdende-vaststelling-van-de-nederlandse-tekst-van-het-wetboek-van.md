@@ -11,7 +11,7 @@ entry_into_force: 1997-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/10/21/1997009872/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 1997. - Wet houdende vaststelling van de Nederlandse tekst van het Wetboek van Koophandel, met uitzondering van Boek I, Titel VIII en IX, van de wet van 5 mei 1936 op de binnenbevrachting, van de gecoördineerde wetten van 25 september 1946 op het gerechtelijk akkoord en van de wet van 5 juni 1928 houdende herziening van het Tucht- en Strafwetboek voor de Koopvaardij en Zeevisserij

@@ -12,7 +12,7 @@ entry_into_force: 2019-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/17/2019012297/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2019. - Loi adaptant certaines dispositions fiscales fédérales au nouveau Code des sociétés et des associations

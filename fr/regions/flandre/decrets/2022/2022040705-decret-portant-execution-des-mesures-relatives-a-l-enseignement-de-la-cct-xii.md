@@ -13,7 +13,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/25/2022040705/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2022. - Décret portant exécution des mesures relatives à l'enseignement de la CCT XII Obligation scolaire, de la CCT V Education de base et de la CCT VI Enseignement supérieur à partir de l'année scolaire ou académique 2021-2022

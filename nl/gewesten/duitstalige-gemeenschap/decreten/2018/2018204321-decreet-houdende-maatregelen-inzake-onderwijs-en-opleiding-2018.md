@@ -12,7 +12,7 @@ published: 2018-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/18/2018204321/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2018. - Decreet houdende maatregelen inzake onderwijs en opleiding 2018

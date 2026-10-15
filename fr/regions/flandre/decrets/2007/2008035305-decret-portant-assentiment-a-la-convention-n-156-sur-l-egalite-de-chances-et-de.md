@@ -13,7 +13,7 @@ entry_into_force: 2008-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/23/2008035305/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2007. - Décret portant assentiment à la Convention n° 156 sur l'égalité de chances et de traitement pour les travailleurs des deux sexes : travailleurs ayant des responsabilités familiales, adoptée par la Conférence internationale du Travail (TRADUCTION).

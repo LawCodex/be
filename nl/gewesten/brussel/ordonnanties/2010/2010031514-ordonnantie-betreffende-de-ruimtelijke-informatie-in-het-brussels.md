@@ -11,7 +11,7 @@ date: 2010-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/10/28/2010031514/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2010. - Ordonnantie betreffende de ruimtelijke informatie in het Brussels Hoofdstedelijk Gewest

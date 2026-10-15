@@ -12,7 +12,7 @@ entry_into_force: 2004-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/12/2004009313/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AVRIL 2004. - Loi modifiant la loi du 2 juin 1998 portant création d'un Centre d'information et d'avis sur les organisations sectaires nuisibles et d'une Cellule administrative de coordination de la lutte contre les organisations sectaires nuisibles.

@@ -13,7 +13,7 @@ entry_into_force: 2017-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017030870/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende instemming met de wijzigingen aan het Protocol inzake zware metalen, met bijlagen, bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, gedaan op 13 december 2012 te Genève

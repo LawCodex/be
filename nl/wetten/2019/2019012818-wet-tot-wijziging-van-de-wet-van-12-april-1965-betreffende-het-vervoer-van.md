@@ -12,7 +12,7 @@ entry_into_force: 2019-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/09/2019012818/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen en tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt, teneinde het toezicht van de CREG uit te breiden tot de tussenpersonen inzake energie

@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/16/1995027009/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1994. - DECREET houdende de begroting van de ontvangsten van het Waalse Gewest voor het begrotingsjaar 1995

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/11/2000011352/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2000. - Wet tot wijziging van de wet van 22 juli 1985 betreffende de wettelijke aansprakelijkheid op het gebied van de kernenergie.

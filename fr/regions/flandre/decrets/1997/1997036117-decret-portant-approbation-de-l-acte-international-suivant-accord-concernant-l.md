@@ -13,7 +13,7 @@ entry_into_force: 1997-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036117/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - Décret portant approbation de l'acte international suivant : Accord concernant l'encouragement et la protection réciproques des investissements entre l'Union économique belgo-luxembourgeoise et la République à l'Est de l'Uruguay, et le Protocole, signés à Bruxelles le 4 novembre 1991 (TRADUCTION).

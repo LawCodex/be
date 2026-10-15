@@ -13,7 +13,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/22/2021042612/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2021. - Ordonnance portant des dispositions diverses en matière de prestations familiales

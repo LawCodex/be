@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202293/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant assentiment, en ce qui concerne les compétences dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention n° 161 concernant les services de santé au travail, adoptée à Genève, le 26 juin 1985, par la Conférence internationale du Travail lors de sa 71 e session

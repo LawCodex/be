@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024005397/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-06-2024 en tekstbijwerking tot 26-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet houdende wijziging van artikel 8 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, wat betreft de invoering van het laagste tarief van de ouderbijdrage voor kinderopvang voor kinderen van moeders die zijn ingeschreven in het secundair onderwijs

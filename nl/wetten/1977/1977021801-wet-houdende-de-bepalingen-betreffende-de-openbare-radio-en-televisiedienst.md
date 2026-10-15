@@ -13,7 +13,7 @@ last_amended: 2009-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/02/18/1977021801/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 05-08-1986 en tekstbijwerking tot 14-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 1977. - Wet houdende de bepalingen betreffende de openbare Radio- en Televisiedienst

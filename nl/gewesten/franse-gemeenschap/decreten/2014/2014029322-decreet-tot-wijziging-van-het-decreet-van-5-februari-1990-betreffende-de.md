@@ -13,7 +13,7 @@ entry_into_force: 2014-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/20/2014029322/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2014. - Decreet tot wijziging van het decreet van 5 februari 1990 betreffende de schoolgebouwen van het niet-universitair onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap en tot wijziging van het programmadecreet van 18 december 2013 houdende verschillende maatregelen betreffende de begrotingsfondsen vermeld in de algemene uitgavenbegroting van de Franse Gemeenschap, cultuur, leerplichtonderwijs en onderwijs voor sociale promotie, het agentschap voor de evaluatie van de kwaliteit van het door de Franse Gemeenschap georganiseerde of gesubsidieerde hoger onderwijs, de schoolgebouwen en onderzoek

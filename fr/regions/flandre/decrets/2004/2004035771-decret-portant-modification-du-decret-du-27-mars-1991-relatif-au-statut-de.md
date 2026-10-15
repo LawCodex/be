@@ -13,7 +13,7 @@ entry_into_force: 2004-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004035771/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret portant modification du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire et du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres psycho-médico-sociaux subventionnés, en ce qui concerne l'assouplissement des conditions d'une désignation temporaire de durée ininterrompue dans l'enseignement pour les femmes enceintes (TRADUCTION).

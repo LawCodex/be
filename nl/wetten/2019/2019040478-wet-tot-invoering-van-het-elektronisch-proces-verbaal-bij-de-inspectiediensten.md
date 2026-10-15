@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/17/2019040478/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 16-01-2023 en tekstbijwerking tot 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2019. - Wet tot invoering van het elektronisch proces-verbaal bij de inspectiediensten van de Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie en tot wijziging van het Sociaal Strafwetboek

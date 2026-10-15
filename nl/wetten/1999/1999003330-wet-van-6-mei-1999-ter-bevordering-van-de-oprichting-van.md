@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/06/1999003330/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 07-07-1999 en tekstbijwerking tot 10-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - [Wet van 6 mei 1999 ter bevordering van de oprichting van bosgroeperingsvennootschappen.] &lt;W 2019-03-17/14 , art. 105, 003; Inwerkingtreding : 01-05-2019&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2017-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017204927/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2017. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Monténégro sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Bruxelles le 9 juin 2010

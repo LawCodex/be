@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/03/05/1985024243/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-04-1985 et mise à jour au 29-04-2004). (NOTE 2 : Abrogé par DCFL 2004-03-19/58, art. 16; En vigueur : indéterminée "
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1985. - Décret portant création d'un Comité consultatif flamand pour le tourisme. (Traduction)

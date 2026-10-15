@@ -13,7 +13,7 @@ entry_into_force: 2001-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/14/2001027691/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2001. - Décret relatif aux droits de succession entre cohabitants légaux.

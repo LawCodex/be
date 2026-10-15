@@ -12,7 +12,7 @@ entry_into_force: 2013-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/23/2013011375/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2013. - Loi confirmant l'arrêté royal du 21 décembre 2012 portant modifications de l'arrêté royal du 16 juillet 2002 relatif à l'établissement de mécanismes visant la promotion d'électricité produite à partir des sources d'énergie renouvelables

@@ -12,7 +12,7 @@ entry_into_force: 2020-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/20/2020015228/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2020. - Loi portant ajustement de la loi du 30 juin 2020 ouvrant des crédits provisoires pour les mois de juillet, août, septembre et octobre 2020

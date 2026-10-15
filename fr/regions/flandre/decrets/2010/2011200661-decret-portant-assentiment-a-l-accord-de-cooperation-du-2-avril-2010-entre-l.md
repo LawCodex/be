@@ -13,7 +13,7 @@ entry_into_force: 2011-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2011200661/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret portant assentiment à l'accord de coopération du 2 avril 2010 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale pour la coordination d'une infrastructure d'information géographique

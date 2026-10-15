@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/07/23/1993012469/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 06-08-1993 et mise à jour au 06-02-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1993. - Loi portant des mesures de promotion de l'emploi des jeunes dans le cadre du plan d'embauche des jeunes.

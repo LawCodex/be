@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/08/2023047028/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-11-2023 et mise à jour au 06-08-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2023. - Loi relative au statut d'administrateur d'une personne protégée

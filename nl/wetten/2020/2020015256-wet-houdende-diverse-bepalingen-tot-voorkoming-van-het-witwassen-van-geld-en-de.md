@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/20/2020015256/justel"
 department: "Financiën"
 justel_note: "artikelen 153 tot 170 vernietigd door het arrest van het Grondwettelijk Hof nr. 166/2021 van 18-11-2021, 2021-11-18/21, B.St. van 23-12-2021, p. 123228"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2020. - Wet houdende diverse bepalingen tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten

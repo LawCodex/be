@@ -12,7 +12,7 @@ entry_into_force: 2008-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/08/2007015091/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2007. - Loi portant assentiment à la Convention des Nations unies contre la corruption, faite à New York le 31 octobre 2003.

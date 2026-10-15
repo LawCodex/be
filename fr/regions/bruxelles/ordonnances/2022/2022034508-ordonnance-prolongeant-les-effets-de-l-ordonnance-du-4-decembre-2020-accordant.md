@@ -13,7 +13,7 @@ entry_into_force: 2022-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/01/2022034508/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2022. - Ordonnance prolongeant les effets de l'ordonnance du 4 décembre 2020 accordant une dispense exceptionnelle de permis d'urbanisme et de permis d'environnement au SPF Justice pour l'utilisation temporaire de l'ancien siège de l'OTAN à des fins juridictionnelles

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/17/2001002090/justel"
 department: "Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 31-07-2001 et mise à jour au 08-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2001. - Loi relative à l'autorisation pour les services publics fédéraux de s'associer en vue de l'exécution de travaux relatifs à la gestion et à la sécurité de l'information

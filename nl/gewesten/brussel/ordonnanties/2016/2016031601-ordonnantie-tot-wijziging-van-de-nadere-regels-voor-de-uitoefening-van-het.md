@@ -11,7 +11,7 @@ date: 2016-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/07/20/2016031601/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Ordonnantie tot wijziging van de nadere regels voor de uitoefening van het petitierecht

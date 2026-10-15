@@ -17,7 +17,7 @@ justel_notes:
   - "art. 43 modifié pour la Région flamande avec effet à une date indéterminée par DCFL 2016-07-15/17 , art. 35; En vigueur : indéterminée "
   - "art. 4 ; 23 ; 122 ; 149 ; N4 modifiés avec effet à une date indéterminée par L 2016-12-18/02 , art. 95; 008; En vigueur : indéterminée , produit ses effets à compter du jour où les premiers grades de master ont été conférés"
   - "Consultation des versions antérieures à partir du 18-06-2015 et mise à jour au 18-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2015. - Loi coordonnée relative à l'exercice des professions des soins de santé

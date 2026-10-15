@@ -13,7 +13,7 @@ entry_into_force: 2014-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/29/2013206975/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2013. - Decreet houdende goedkeuring van het Protocol tot wijziging van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs

@@ -13,7 +13,7 @@ entry_into_force: 2026-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/22/2026005270/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2026. - Decreet houdende instemming met de Brede Economische en Handelsovereenkomst (CETA) tussen Canada, enerzijds, en de Europese Unie en haar lidstaten, anderzijds, gedaan te Brussel op 30 oktober 2016

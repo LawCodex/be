@@ -12,7 +12,7 @@ entry_into_force: 1997-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/06/1996012870/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1996. - Wet betreffende de huisarbeid.

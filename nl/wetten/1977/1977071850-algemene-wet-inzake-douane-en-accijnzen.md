@@ -12,7 +12,7 @@ last_amended: 2024-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/07/18/1977071850/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2013 en tekstbijwerking tot 05-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1977. - ALGEMENE WET inzake douane en accijnzen

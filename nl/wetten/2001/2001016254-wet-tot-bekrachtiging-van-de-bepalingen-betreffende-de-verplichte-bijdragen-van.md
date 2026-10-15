@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/09/2001016254/justel"
 department: "Middenstand - Landbouw"
 justel_note: "raadpleging van vroegere versies vanaf 25-08-2001 en tekstbijwerking tot 11-08-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2001. - Wet tot bekrachtiging van de bepalingen betreffende de verplichte bijdragen van het koninklijk besluit van 15 oktober 2000 betreffende de verplichte en de vrijwillige bijdragen verschuldigd door de veevoedersector aan het Fonds voor de schadeloosstelling van landbouwbedrijven getroffen door de dioxinecrisis. (Bij arrest nr 100/2003 van 17-07-2003, B.S. 11-08-2003, p. 40630-40634, heeft het Arbitragehof deze wet vernietigd, met inwerking op 19 april 2001.)

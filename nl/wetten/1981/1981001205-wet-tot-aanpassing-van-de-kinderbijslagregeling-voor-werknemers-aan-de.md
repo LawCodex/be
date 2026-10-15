@@ -12,7 +12,7 @@ entry_into_force: 1981-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/06/30/1981001205/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1981. - Wet tot aanpassing van de kinderbijslagregeling voor werknemers aan de arbeidsduurvermindering en aan de uitoefening van deeltijdse arbeid.

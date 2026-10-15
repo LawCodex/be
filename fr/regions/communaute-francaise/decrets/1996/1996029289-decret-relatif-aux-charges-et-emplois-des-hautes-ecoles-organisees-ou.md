@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996029289/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 07-09-1996 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret relatif aux charges et emplois des Hautes Ecoles organisées ou subventionnées par la Communauté française.

@@ -13,7 +13,7 @@ entry_into_force: 2025-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/01/30/2025001289/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2025. - Décret portant assentiment à l'accord de coopération du 8 juillet 2024 entre l'Etat fédéral et la Région wallonne relatif à l'exécution des articles 19/1 à 19/3 de la loi du 15 mai 2014 portant exécution du pacte de compétitivité, d'emploi et de relance

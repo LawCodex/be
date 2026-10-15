@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/17/1998003685/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1998 et mise à jour au 12-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1998. - Loi créant un Fonds de protection des dépôts et des instruments financiers et réorganisant les systèmes de protection des dépôts et des instruments financiers

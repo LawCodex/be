@@ -12,7 +12,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/29/2004015055/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2004. - Wet houdende instemming met de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Chili, anderzijds, met de Bijlagen I tot en met XVII, en met de Slotakte, gedaan te Brussel op 18 november 2002.

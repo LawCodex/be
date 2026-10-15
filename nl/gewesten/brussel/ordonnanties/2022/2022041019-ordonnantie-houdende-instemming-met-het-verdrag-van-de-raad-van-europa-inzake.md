@@ -13,7 +13,7 @@ entry_into_force: 2022-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/04/28/2022041019/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Ordonnantie houdende instemming met het Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien), opgemaakt te Rotterdam op 30 januari 2017

@@ -13,7 +13,7 @@ entry_into_force: 2009-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202759/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant diverses modifications à la loi du 13 juillet 1987 relative aux redevances radio et télévision, au décret du 27 mai 2004 instaurant une taxe sur les sites d'activité économique désaffectés, au décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes, au Code de l'Eau, au Code des droits de succession et au Code des droits d'enregistrement, d'hypothèque et de greffe, à l'Eco-Bonus et prévoyant une habilitation au Gouvernement pour codifier la législation fiscale wallonne

@@ -12,7 +12,7 @@ entry_into_force: 2006-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/14/2005021173/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2005. - Loi relative à la simplification administrative II.

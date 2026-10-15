@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/06/2007022450/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
 justel_note: "Consultation des versions antérieures à partir du 23-03-2007 et mise à jour au 06-04-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2007. - Loi modifiant la loi du 27 février 1987 relative aux allocations aux personnes handicapées

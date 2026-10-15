@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/20/2021034485/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2021. - Loi modifiant le Code de la taxe sur la valeur ajoutée en ce qui concerne les exemptions de la taxe en vue de la mise en oeuvre d'activités dans le cadre de la politique de sécurité et de défense commune dans le cadre de l'Union et en ce qui concerne les exemptions temporaires relatives aux importations et à certaines livraisons de biens et prestations de services, en réaction à la pandémie de COVID-19

@@ -13,7 +13,7 @@ entry_into_force: 2025-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/24/2025201050/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2025. - Decreet houdende instemming met het Aanvullend Protocol tussen het Koninkrijk België en de Europese Vrijhandelsassociatie, gedaan te Brussel op 24 november 2022

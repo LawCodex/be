@@ -11,7 +11,7 @@ date: 2019-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/10/14/2019204908/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 21 december 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de betrokkenheid van de Federale Staat bij de ondertekening van de samenwerkingsakkoorden van 6 september 2017

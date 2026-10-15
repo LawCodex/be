@@ -13,7 +13,7 @@ entry_into_force: 2019-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/13/2018015462/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2018. - Ordonnance modifiant l'ordonnance du 21 novembre 2006 portant les dispositions applicables au budget, à la comptabilité et au contrôle

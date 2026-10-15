@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/18/2014009085/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 04-03-2014 en tekstbijwerking tot 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2014. - Wet van betreffende de invoering van een verzelfstandigd beheer voor de rechterlijke organisatie

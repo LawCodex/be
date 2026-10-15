@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/04/20/2001035554/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-04-2009 et mise à jour au 20-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2001. - Décret relatif aux conventions de mobilité (TRADUCTION)

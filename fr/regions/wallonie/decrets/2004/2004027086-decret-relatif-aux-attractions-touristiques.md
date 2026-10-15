@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "art. 12 modifié avec effet à une date indéterminée par DRW 2005-07-20/66 , art. 39, 003; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 24-08-2004 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2004. - Décret relatif aux attractions touristiques.

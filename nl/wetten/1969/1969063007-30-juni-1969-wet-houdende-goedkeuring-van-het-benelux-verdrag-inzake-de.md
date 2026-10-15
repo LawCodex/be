@@ -10,7 +10,7 @@ date: 1969-06-30
 published: 1969-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/06/30/1969063007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1969. \_ Wet houdende goedkeuring van het Benelux-Verdrag inzake de warenmerken, en van de bijlage, ondertekend te Brussel op 19 maart 1962.

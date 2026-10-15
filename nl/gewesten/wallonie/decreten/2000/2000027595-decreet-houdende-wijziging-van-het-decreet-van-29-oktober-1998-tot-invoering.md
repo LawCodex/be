@@ -13,7 +13,7 @@ entry_into_force: 2000-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/14/2000027595/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Decreet houdende wijziging van het decreet van 29 oktober 1998 tot invoering van de Waalse Huisvestingscode (VERTALING).

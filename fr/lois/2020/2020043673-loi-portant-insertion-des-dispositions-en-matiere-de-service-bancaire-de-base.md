@@ -12,7 +12,7 @@ entry_into_force: 2021-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/11/08/2020043673/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2020. - Loi portant insertion des dispositions en matière de service bancaire de base pour les entreprises dans le livre VII du Code de droit économique

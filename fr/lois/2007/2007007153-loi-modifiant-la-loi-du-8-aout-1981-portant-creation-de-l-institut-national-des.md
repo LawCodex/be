@@ -12,7 +12,7 @@ entry_into_force: 2007-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007007153/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi modifiant la loi du 8 août 1981 portant création de l'Institut national des invalides de guerre, anciens combattants et victimes de guerre ainsi que du Conseil supérieur des invalides de guerre, anciens combattants et victimes de guerre et l'arrêté royal du 22 juin 1983 portant statut de reconnaissance nationale en faveur des membres du corps expéditionnaire pour la Corée afin de remplacer la date du 27 juillet 1953 par celle du 15 septembre 1954 dans le statut de reconnaissance nationale en faveur des membres du corps expéditionnaire pour la Corée.

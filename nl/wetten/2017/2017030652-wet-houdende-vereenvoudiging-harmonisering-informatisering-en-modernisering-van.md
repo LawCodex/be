@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/06/2017030652/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-07-2017 en tekstbijwerking tot 02-07-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2017. - Wet houdende vereenvoudiging, harmonisering, informatisering en modernisering van bepalingen van burgerlijke recht en van burgerlijk procesrecht alsook van het notariaat, en houdende diverse bepalingen inzake justitie

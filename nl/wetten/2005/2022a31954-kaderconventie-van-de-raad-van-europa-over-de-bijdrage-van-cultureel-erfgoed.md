@@ -11,7 +11,7 @@ published: 2022-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/10/27/2022A31954/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2005. - Kaderconventie van de Raad van Europa over de bijdrage van cultureel erfgoed aan de samenleving, gedaan te Faro op 27 oktober 2005

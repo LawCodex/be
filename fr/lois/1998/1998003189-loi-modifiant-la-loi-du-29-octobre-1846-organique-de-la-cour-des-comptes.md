@@ -12,7 +12,7 @@ entry_into_force: 1998-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/10/1998003189/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1998. - Loi modifiant la loi du 29 octobre 1846 organique de la Cour des comptes.

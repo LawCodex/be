@@ -13,7 +13,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/07/20/2016031527/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Ordonnance portant modification de l'ordonnance du 22 janvier 2009 portant organisation de la politique du stationnement et création de l'Agence du stationnement de la Région de Bruxelles-Capitale et de l'ordonnance du 3 avril 2014 relative aux règlements complémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière

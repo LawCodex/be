@@ -13,7 +13,7 @@ last_amended: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1945/09/01/1945090104/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2014 et mise à jour au 30-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 1945. - Loi sanitaire. (Note: en ce qui concerne la Région wallonne, cette loi a été partiellement abrogée par DCCW 1985-10-07/32, art. 70, § 1.)

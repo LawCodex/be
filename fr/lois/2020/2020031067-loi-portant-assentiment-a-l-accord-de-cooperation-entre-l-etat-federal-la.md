@@ -12,7 +12,7 @@ entry_into_force: 2020-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/22/2020031067/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2020. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté flamande, la Communauté française et la Communauté germanophone relatif aux compétences des communautés et de l'Etat fédéral en matière du régime Tax Shelter pour les oeuvres audiovisuelles et les oeuvres scéniques et à l'échange d'informations, fait à Bruxelles le 19 mars 2020

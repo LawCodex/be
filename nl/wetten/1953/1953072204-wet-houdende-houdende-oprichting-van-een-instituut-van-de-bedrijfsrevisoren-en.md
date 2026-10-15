@@ -13,7 +13,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1953/07/22/1953072204/justel"
 justel_notes:
   - "Deze tekst is gewijzigd bij KB 2007-04-21/42 en achteraf GECOORDINEERD bij KB 2007-04-30/30 , art. N; Inwerkingtreding : 31-08-2007; VOOR DE TEKST, ZIE W 2007-04-30/49 "
   - "Raadpleging van vroegere versies vanaf 06-08-1999 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1953. - [Wet houdende houdende oprichting van een Instituut van de Bedrijfsrevisoren en tot organisatie van het publiek toezicht op het beroep van bedrijfsrevisor.] &lt;Opschrift vervangen door KB 2007-04-21/42 , art. 1; Inwerkingtreding : 31-08-2007&gt;

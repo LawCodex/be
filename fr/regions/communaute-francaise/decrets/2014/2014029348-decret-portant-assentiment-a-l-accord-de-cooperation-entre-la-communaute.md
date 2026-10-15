@@ -13,7 +13,7 @@ entry_into_force: 2014-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029348/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'accord de coopération entre la Communauté française, la Région wallonne, la Région de Bruxelles-Capitale, la Commission communautaire française et la Communauté germanophone organisant la mise en oeuvre d'un cadastre des parcours éducatifs et post-éducatifs

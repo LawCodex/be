@@ -12,7 +12,7 @@ entry_into_force: 2001-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/10/2001003334/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2001. - Loi relative à la dématérialisation de certains emprunts de l'Etat.

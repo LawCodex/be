@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/12/2021031830/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 20-07-2021 et mise à jour au 30-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2021. - Loi portant des dispositions urgentes en matière de Justice

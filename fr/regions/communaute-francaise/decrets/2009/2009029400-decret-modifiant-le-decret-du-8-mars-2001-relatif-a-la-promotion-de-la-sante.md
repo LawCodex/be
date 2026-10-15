@@ -12,7 +12,7 @@ published: 2009-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029400/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant le décret du 8 mars 2001 relatif à la promotion de la santé dans la pratique du sport, à l'interdiction du dopage et à sa prévention en Communauté française

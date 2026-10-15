@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/03/2001015130/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 17-11-2001 en tekstbijwerking tot 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 NOVEMBER 2001. - [Wet van 3 november 2001 tot oprichting van de Belgische Investeringsmaatschappij voor Ontwikkelingslanden.]&lt;W 2017-11-23/16 , art. 48, 005; Inwerkingtreding : 01-01-2018&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2000-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/01/2000003137/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2000. - Wet houdende twaalfde aanpassing van de Algemene Uitgavenbegroting van het begrotingsjaar 1999.

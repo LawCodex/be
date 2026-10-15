@@ -12,7 +12,7 @@ published: 1997-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997A36023/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - Decreet houdende de Vlaamse Wooncode

@@ -12,7 +12,7 @@ entry_into_force: 2012-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/23/2017030281/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2015. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en Bioversity International tot wijziging van het Zetelakkoord tussen het Koninkrijk België en het International Plant Genetic Resources Institute, ondertekend te Brussel op 15 oktober 2003, gedaan te Brussel op 3 december 2012

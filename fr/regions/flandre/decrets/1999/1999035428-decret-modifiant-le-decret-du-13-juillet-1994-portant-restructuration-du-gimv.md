@@ -13,7 +13,7 @@ entry_into_force: 1999-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/16/1999035428/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1999. - Décret modifiant le décret du 13 juillet 1994 portant restructuration du GIMV, de Gimvindus, du VMH, de Mijnen et du LIM et institution du Limburgfonds et du Groupe de travail permanent " Limburg " (TRADUCTION).

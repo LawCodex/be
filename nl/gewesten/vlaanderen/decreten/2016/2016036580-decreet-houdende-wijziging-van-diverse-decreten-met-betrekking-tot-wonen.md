@@ -13,7 +13,7 @@ entry_into_force: 2016-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/14/2016036580/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2016. - Decreet houdende wijziging van diverse decreten met betrekking tot wonen

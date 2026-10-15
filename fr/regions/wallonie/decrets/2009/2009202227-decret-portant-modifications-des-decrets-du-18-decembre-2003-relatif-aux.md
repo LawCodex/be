@@ -13,7 +13,7 @@ entry_into_force: 2009-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202227/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant modifications des décrets du 18 décembre 2003 relatif aux établissements d'hébergement touristique et du 1er avril 2004 relatif aux attractions touristiques

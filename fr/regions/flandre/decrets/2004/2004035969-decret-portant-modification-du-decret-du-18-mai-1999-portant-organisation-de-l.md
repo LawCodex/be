@@ -13,7 +13,7 @@ entry_into_force: 2004-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035969/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant modification du décret du 18 mai 1999 portant organisation de l'aménagement du territoire en ce qui concerne les zones affectées aux équipements communs et utilitaires publics

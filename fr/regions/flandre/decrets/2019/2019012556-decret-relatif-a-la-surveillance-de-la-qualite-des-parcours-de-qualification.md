@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012556/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-05-2019 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret relatif à la surveillance de la qualité des parcours de qualification professionnelle sur la base d'un cadre commun de qualité

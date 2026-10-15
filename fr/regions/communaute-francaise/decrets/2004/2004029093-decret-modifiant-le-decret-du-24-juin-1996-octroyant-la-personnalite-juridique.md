@@ -13,7 +13,7 @@ entry_into_force: 2004-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004029093/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2004. - Décret modifiant le décret du 24 juin 1996 octroyant la personnalité juridique au pouvoir organisateur de la Haute Ecole Lucia De Brouckère.

@@ -12,7 +12,7 @@ entry_into_force: 2006-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/21/2004015123/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2004. - Loi portant assentiment au Protocole de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets, et aux Annexes 1er, 2 et 3, faits à Londres le 7 novembre 1996.

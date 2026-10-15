@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/15/2013014761/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 18-02-2014 et mise à jour au 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2013. - Loi relative au transport de voyageurs par route et portant exécution du Règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la Directive 96/26/CE du Conseil, et portant exécution du Règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché international des services de transport par autocars et autobus, et modifiant le Règlement (CE) n° 561/2006

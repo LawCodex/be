@@ -12,7 +12,7 @@ entry_into_force: 2024-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/31/2024000960/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2024. - Loi portant assentiment à l'accord de coopération législatif du 22 décembre 2023 entre l'état fédéral, la communauté flamande, la communauté française, la communauté germanophone, la commission communautaire commune, la région wallonne et la commission communautaire française visant a la modification de l'accord de coopération du 12 mars 2021 entre l'état fédéral, la communauté flamande, la communauté française, la communauté germanophone, la commission communautaire commune, la région wallonne et la commission communautaire française concernant le traitement de données relatives aux vaccinations contre la COVID-19

@@ -12,7 +12,7 @@ entry_into_force: 2023-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/10/2022042863/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2022. - Wet tot wijziging van de wet van 15 mei 2014 betreffende de rechten en verplichtingen van reizigers in het treinverkeer

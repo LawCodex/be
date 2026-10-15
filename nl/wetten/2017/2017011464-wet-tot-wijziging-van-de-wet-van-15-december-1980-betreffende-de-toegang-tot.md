@@ -12,7 +12,7 @@ entry_into_force: 2017-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/24/2017011464/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2017. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, met het doel de bescherming van de openbare orde en de nationale veiligheid te versterken

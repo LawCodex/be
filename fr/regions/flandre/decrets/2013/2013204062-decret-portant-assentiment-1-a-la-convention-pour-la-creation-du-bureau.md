@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/21/2013204062/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2013. - Décret portant assentiment : 1° à la Convention pour la création du Bureau européen des Radiocommunications (BER), faite à La Haye le 23 juin 1993, et 2° à l'Instrument amendant la Convention pour la création du Bureau européen des Radiocommunications (BER), et annexe, faits à Copenhague le 17 décembre 2002

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/04/2007011015/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-01-2007 en tekstbijwerking tot 19-05-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2006. - Wet houdende de omzetting in Belgisch recht van de richtlijn 2001/84/EG van het Europees Parlement en de Raad van 27 september 2001 betreffende het volgrecht ten behoeve van de auteur van een oorspronkelijk kunstwerk.

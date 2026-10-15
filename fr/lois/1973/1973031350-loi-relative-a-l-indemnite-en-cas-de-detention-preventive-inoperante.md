@@ -16,7 +16,7 @@ department: "Justice"
 justel_notes:
   - "Loi créée en 1990 par L 1990-07-20/35 , art. 48, sur base de L 1874-04-20/30 , qui fut modifiée en 1973 par L 1973-03-13/31 "
   - "Consultation des versions antérieures à partir du 15-01-2010 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 1973. - Loi [relative à l'indemnité en cas de détention préventive inopérante]. -

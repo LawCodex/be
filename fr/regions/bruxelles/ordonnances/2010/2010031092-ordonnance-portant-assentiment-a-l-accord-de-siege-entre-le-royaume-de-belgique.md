@@ -13,7 +13,7 @@ entry_into_force: 2010-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/02/04/2010031092/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2010. - Ordonnance portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Comité international de Médecine militaire, signé à Bruxelles le 2 juin 2008

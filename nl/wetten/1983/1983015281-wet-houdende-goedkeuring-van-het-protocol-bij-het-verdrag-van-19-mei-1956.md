@@ -12,7 +12,7 @@ entry_into_force: 1983-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/04/25/1983015281/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 1983. - Wet houdende goedkeuring van het Protocol bij het Verdrag van 19 mei 1956 betreffende de overeenkomst tot internationaal vervoer van goederen over de weg (CMR), opgemaakt te Genève op 5 juli 1978 (Zittingen 1981-1982-1983.

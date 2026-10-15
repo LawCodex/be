@@ -13,7 +13,7 @@ entry_into_force: 2006-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/16/2006202452/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2006. - Décret modifiant le décret du 4 mars 1991 relatif à l'aide à la jeunesse.

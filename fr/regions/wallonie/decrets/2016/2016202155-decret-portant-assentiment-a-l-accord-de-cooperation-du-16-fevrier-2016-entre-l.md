@@ -13,7 +13,7 @@ entry_into_force: 2016-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/14/2016202155/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2016. - Décret portant assentiment à l'accord de coopération du 16 février 2016 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses

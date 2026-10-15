@@ -13,7 +13,7 @@ entry_into_force: 2023-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/20/2023045550/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2023. - Décret modifiant le Livre II du Code de l'Environnement contenant le Code de l'Eau en ce qui concerne la qualité des eaux destinées à la consommation humaine

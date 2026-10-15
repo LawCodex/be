@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/08/2002035892/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-07-2002 et mise à jour au 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2002. - Décret relatif à la participation proportionnelle sur le marché de l'emploi (TRADUCTION).

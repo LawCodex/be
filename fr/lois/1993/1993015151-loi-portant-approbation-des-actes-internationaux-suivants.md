@@ -11,7 +11,7 @@ published: 1993-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/03/18/1993015151/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1993. - Loi portant approbation des Actes Internationaux suivants :

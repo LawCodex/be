@@ -12,7 +12,7 @@ entry_into_force: 2024-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/24/2024201975/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2024. - Loi modifiant la loi du 26 juin 2002 relative aux fermetures d'entreprises en vue d'introduire la possibilité d'exclure certains secteurs de la notion d'entreprise n'ayant pas une finalité industrielle ou commerciale

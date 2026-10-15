@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1971/04/10/1971041001/justel"
 justel_notes:
   - "art. 22bis, 22ter, 23, 25, 32bis, 73, 77bis modifiés à une date indéterminée par L 2006-07-13/68 , art. 72 à 79, 052; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 08-07-1981 et mise à jour au 05-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1971. - Loi sur les accidents du travail.

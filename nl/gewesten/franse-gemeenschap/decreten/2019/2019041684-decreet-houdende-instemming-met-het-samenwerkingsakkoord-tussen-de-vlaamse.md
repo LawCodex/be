@@ -13,7 +13,7 @@ entry_into_force: 2019-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/28/2019041684/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2019. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot kinderopvang in Brussel

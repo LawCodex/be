@@ -11,7 +11,7 @@ published: 1965-03-13
 entry_into_force: 1965-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/03/10/1965031002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 1965. \_ Wet tot wijziging van de regelingen betreffende het rust- en overlevingspensioen voor arbeiders, bedienden en vrij verzekerden.

@@ -13,7 +13,7 @@ entry_into_force: 1995-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/23/1995027188/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1995. - Decreet tot wijziging van artikel 35 van het decreet van 14 juli 1994 tot wijziging van de jachtwet van 28 februari 1882. (VERTALING).

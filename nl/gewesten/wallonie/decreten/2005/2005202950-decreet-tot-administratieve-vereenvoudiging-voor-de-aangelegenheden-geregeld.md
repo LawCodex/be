@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/10/20/2005202950/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 24-10-2005 en tekstbijwerking tot 06-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2005. - Decreet tot administratieve vereenvoudiging voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet (Vertaling)

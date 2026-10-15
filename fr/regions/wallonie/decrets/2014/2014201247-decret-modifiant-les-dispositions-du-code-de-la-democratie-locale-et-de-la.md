@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/06/2014201247/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2014. - Décret modifiant les dispositions du Code de la démocratie locale et de la décentralisation relatives aux subventions à certains investissements d'intérêt public et établissant un Fonds régional pour les Investissements communaux

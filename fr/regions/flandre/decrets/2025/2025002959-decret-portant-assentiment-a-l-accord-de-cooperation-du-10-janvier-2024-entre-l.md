@@ -13,7 +13,7 @@ entry_into_force: 2025-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/04/04/2025002959/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2025. - Décret portant assentiment à l'accord de coopération du 10 janvier 2024 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'attribution et la répartition du montant fixé à l'article 2 de la décision du Comité des Ministres de l'Union Economique Belgo-Luxembourgeoise (UEBL) du 14 décembre 2001, telle que modifiée par la décision du Comité des Ministres de l'UEBL du 31 août 2021

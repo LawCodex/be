@@ -13,7 +13,7 @@ entry_into_force: 2012-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/01/2012031115/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2012. - Ordonnance portant sur la prise de participations en capital de la Commission communautaire commune dans la société coopérative créée à l'issue du marché public Irisnet2

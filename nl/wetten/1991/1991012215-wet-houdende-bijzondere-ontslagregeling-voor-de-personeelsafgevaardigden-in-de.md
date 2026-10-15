@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/03/19/1991012215/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-1991 en tekstbijwerking tot 09-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 1991. - Wet houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden.

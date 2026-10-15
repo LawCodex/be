@@ -12,7 +12,7 @@ entry_into_force: 2024-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/03/2024005008/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Wet betreffende de schadeloosstelling van slachtoffers van een daad van terrorisme en betreffende de verzekering tegen schade veroorzaakt door terrorisme

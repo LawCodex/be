@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/20/1999003059/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 1999. - Wet tot opheffing van de regels voor het afronden van de heffingsgrondslag inzake met het zegel gelijkgestelde taksen, registratierechten en successierechten.

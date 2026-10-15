@@ -12,7 +12,7 @@ entry_into_force: 2017-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/10/2017030518/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2017. - Wet houdende de eerste aanpassing van de Middelenbegroting voor het begrotingsjaar 2017

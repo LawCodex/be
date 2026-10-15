@@ -12,7 +12,7 @@ entry_into_force: 2001-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/08/2001000273/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2001. - Loi modifiant l'article 24 de la loi du 20 juillet 1971 sur les funérailles et sépultures

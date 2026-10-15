@@ -13,7 +13,7 @@ entry_into_force: 2011-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/03/2011201512/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2011. - Décret relatif à la couverture des engagements sociaux de la Société régionale wallonne du Transport public et des sociétés d'exploitation

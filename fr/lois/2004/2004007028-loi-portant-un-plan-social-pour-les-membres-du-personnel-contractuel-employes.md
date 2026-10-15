@@ -12,7 +12,7 @@ entry_into_force: 2004-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/05/2004007028/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2004. - Loi portant un plan social pour les membres du personnel contractuel employés auprès des forces belges en Allemagne dont le contrat est résilié à la suite du retour de ces forces en Belgique.

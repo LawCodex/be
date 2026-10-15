@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/28/1997031009/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 06-03-1997 et mis à jour au 01-11-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 1996. - Décret contenant le budget général des Dépenses de la Commission communautaire française pour l'année budgétaire 1997.

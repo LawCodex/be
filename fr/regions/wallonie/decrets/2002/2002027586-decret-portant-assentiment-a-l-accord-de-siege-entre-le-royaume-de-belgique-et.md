@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/13/2002027586/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2002. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Comité international de la Croix-Rouge, fait à Bruxelles le 19 avril 1999.

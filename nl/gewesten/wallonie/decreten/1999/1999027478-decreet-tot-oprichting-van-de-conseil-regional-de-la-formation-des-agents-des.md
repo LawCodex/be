@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027478/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 22-06-1999 en tekstbijwerking tot 18-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet tot oprichting van de " Conseil régional de la formation des agents des administrations locales et provinciales de Wallonie " (gewestelijke Raad voor de opleiding van de personeelsleden van de plaatselijke en provinciale besturen van Wallonië) (VERTALING)

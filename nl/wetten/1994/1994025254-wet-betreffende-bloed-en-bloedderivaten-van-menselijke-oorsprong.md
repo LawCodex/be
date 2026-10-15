@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/05/1994025254/justel"
 department: "Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-2002 en tekstbijwerking tot 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1994. - Wet betreffende bloed en bloedderivaten van menselijke oorsprong.

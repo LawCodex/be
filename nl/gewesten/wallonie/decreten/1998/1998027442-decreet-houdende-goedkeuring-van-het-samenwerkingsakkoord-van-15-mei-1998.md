@@ -13,7 +13,7 @@ entry_into_force: 1998-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/16/1998027442/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1998. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 15 mei 1998 tussen de Federale Staat en de Gewesten houdende wijziging van het samenwerkingsakkoord van 4 maart 1997 tussen de Federale Staat en de Gewesten betreffende doorstromingsprogramma's (VERTALING).

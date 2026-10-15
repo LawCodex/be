@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997035971/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - Décret sanctionnant les objectifs de développement et les objectifs finaux de l'enseignement fondamental ordinaire (TRADUCTION).

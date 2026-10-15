@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/18/1995033057/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 05-12-2000 et mise à jour au 27-01-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 1995. - Décret fixant les règles de subsidiation pour l'achat de matériel d'équipement affecté à l'exercice d'art amateur par des fédérations et associations d'art amateur. (TRADUCTION)

@@ -12,7 +12,7 @@ entry_into_force: 2002-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/03/2000015143/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2000. - Loi portant assentiment au Protocole entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République démocratique du Congo modifiant l'accord maritime entre le Royaume de Belgique et la République du Zaïre du 5 mars 1981, signé à Kinshasa le 8 juin 1999.

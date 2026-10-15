@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019012261/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-05-2019 en tekstbijwerking tot 29-05-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet houdende wijzigingen van boek I "Definities", van boek XV "Rechtshandhaving" en vervanging van boek IV "Bescherming van de mededinging" van het Wetboek van economisch recht

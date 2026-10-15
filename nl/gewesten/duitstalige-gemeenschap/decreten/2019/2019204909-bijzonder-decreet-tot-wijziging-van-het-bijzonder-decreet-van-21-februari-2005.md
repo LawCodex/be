@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/10/14/2019204909/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2019. - Bijzonder decreet tot wijziging van het bijzonder decreet van 21 februari 2005 houdende oprichting van een autonome hogeschool en tot wijziging van het bijzonder decreet van 20 januari 2014 tot oprichting van een centrum voor de gezonde ontwikkeling van kinderen en jongeren

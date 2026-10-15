@@ -12,7 +12,7 @@ entry_into_force: 2012-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/12/15/2011007288/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2011. - Wet tot omzetting van de Richtlijn 2007/2/EG van het Europees Parlement en de Raad van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (INSPIRE)

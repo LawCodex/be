@@ -13,7 +13,7 @@ entry_into_force: 2012-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/17/2012035165/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2012. - Decreet tot wijziging van het decreet van 2 maart 2007 houdende het statuut van de reisbureaus

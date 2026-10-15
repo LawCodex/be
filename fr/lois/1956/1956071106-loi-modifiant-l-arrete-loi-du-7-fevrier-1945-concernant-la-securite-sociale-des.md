@@ -11,7 +11,7 @@ published: 1956-12-09
 entry_into_force: 1956-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1956/07/11/1956071106/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1956. - Loi modifiant l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande.

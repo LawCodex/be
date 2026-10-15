@@ -13,7 +13,7 @@ entry_into_force: 1998-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/09/1998027266/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 1998. - Decreet houdende goedkeuring van de Interregionale kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Mercado Comun del Sur en zijn deelnemende Staten, anderzijds, de gezamenlijke verklaring, de briefwisseling en het proces-verbaal van ondertekening, opgemaakt te Madrid op 15 december 1995 (VERTALING).

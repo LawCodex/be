@@ -12,7 +12,7 @@ published: 2018-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/05/31/2018012503/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2018. - Ordonnance visant à modifier l'ordonnance du 3 décembre 1992 relative à l'exploitation et au développement du canal, du port, de l'avant-port et de leurs dépendances dans la Région de Bruxelles-Capitale afin d'assurer la représentation des interlocuteurs sociaux au sein du conseil d'administration de la Société régionale du Port de Bruxelles

@@ -13,7 +13,7 @@ entry_into_force: 2016-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/07/20/2016031529/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Ordonnantie tot wijziging van de ordonnantie van 22 november 1990 betreffende de organisatie van het openbaar vervoer in het Brussels Hoofdstedelijk Gewest

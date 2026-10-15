@@ -12,7 +12,7 @@ entry_into_force: 2024-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/25/2024006380/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2024. - Loi modifiant le livre XV du Code de droit économique et la loi du 27 mars 2023 protégeant la profession et le titre de géomètre-expert et créant un Ordre des géomètres-experts

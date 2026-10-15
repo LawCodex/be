@@ -13,7 +13,7 @@ entry_into_force: 2023-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/15/2022043032/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2022. - Ordonnantie tot wijziging van de ordonnantie van 4 april 2019 tot vaststelling van het betaalcircuit voor de gezinsbijslag en de ordonnantie van 25 april 2019 tot regeling van de toekenning van gezinsbijslag

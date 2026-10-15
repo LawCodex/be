@@ -12,7 +12,7 @@ published: 2015-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/16/2015204796/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2015. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek ten Oosten van de Uruguay tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Montevideo op 23 augustus 2013

@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/31/2023044122/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2023. - Loi modifiant les articles VII.2, VII.3, VII.100, VII.148, VII.150, VII.153 et VII.154 du Code de droit économique

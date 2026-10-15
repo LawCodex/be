@@ -12,7 +12,7 @@ entry_into_force: 2012-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/27/2012021153/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2012. - Loi modifiant la loi du 30 mars 1995 concernant les réseaux de Communications électroniques et services de Communications électroniques et l'exercice d'activités de radiodiffusion dans la région bilingue de Bruxelles-Capitale

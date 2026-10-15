@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/03/06/2008031111/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2008. - Ordonnance portant assentiment au Protocole d'amendement à la Convention portant création du Centre européen pour les prévisions météorologiques à moyen terme ainsi qu'au Protocole sur les privilèges et immunités du Centre européen pour les prévisions météorologiques à moyen terme, signés à Bruxelles le 11 octobre 1973, adoptés le 22 avril 2005.

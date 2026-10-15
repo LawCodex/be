@@ -12,7 +12,7 @@ entry_into_force: 2004-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/14/2004009448/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2004. - Loi modifiant le Code judiciaire en vue d'instituer une immunité d'exécution à l'égard des biens culturels étrangers exposés publiquement en Belgique.

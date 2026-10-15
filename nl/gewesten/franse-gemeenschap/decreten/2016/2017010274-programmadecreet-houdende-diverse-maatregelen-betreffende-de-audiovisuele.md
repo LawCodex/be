@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/14/2017010274/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2016. - Programmadecreet houdende diverse maatregelen betreffende de audiovisuele sector en media, de algemene zaken, de begrotingsfondsen, de culturele infrastructuren, cultuur, het kind, de schoolgebouwen, het hoger onderwijs en het onderzoek

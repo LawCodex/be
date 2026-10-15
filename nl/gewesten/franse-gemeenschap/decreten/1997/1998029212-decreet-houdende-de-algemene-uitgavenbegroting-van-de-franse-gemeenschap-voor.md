@@ -12,7 +12,7 @@ entry_into_force: 1998-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/11/03/1998029212/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 NOVEMBER 1997. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1998. (Vertaling)

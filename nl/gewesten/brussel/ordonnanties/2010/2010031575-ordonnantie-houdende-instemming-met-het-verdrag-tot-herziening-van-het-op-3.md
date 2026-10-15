@@ -13,7 +13,7 @@ entry_into_force: 2010-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/12/09/2010031575/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2010. - Ordonnantie houdende instemming met : het Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie, het Protocol inzake de voorrechten en immuniteiten van de Benelux Unie en de Verklaring, ondertekend te Den Haag op 17 juni 2008

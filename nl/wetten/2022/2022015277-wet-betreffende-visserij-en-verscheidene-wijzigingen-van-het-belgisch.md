@@ -12,7 +12,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/29/2022015277/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2022. - Wet betreffende visserij en verscheidene wijzigingen van het Belgisch Scheepvaartwetboek

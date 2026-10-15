@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/03/2000035242/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2000. - Décret portant modification du décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais (TRADUCTION).

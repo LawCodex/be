@@ -13,7 +13,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/16/2006036002/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet houdende wijziging van diverse bepalingen inzake financiën en begroting als gevolg van het bestuurlijk beleid.

@@ -12,7 +12,7 @@ entry_into_force: 1997-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1997015142/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République Arabe d'Egypte tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée au Caire le 3 janvier 1991.

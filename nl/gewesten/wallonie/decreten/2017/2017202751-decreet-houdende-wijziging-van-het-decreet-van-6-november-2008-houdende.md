@@ -12,7 +12,7 @@ published: 2017-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/16/2017202751/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Decreet houdende wijziging van het decreet van 6 november 2008 houdende rationalisatie van de adviesverlenende functie. - Erratum

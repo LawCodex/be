@@ -13,7 +13,7 @@ entry_into_force: 2023-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/30/2023043604/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2023. - Decreet houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2023

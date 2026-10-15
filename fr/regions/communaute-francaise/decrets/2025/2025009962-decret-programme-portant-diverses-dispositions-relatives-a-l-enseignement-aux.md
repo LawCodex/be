@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/17/2025009962/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 09-01-2026 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2025. - Décret-programme portant diverses dispositions relatives à l'enseignement, aux infrastructures, aux hôpitaux universitaires, à la culture, à la recherche scientifique, à l'enfance, aux maisons de justice, à la jeunesse et aux fonds budgétaires

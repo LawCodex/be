@@ -13,7 +13,7 @@ entry_into_force: 2017-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/09/2017201586/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2017. - Decreet houdende wijziging van bepaalde bepalingen van het Wetboek van de Plaatselijke Democratie en de Decentralisatie

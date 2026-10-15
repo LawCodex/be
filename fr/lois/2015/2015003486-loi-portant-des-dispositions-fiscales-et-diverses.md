@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2015003486/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2015 et mise à jour au 10-08-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi portant des dispositions fiscales et diverses

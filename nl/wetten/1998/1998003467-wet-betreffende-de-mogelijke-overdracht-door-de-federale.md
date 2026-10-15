@@ -11,7 +11,7 @@ entry_into_force: 1998-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/19/1998003467/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 1998. - Wet betreffende de mogelijke overdracht door de Federale Participatiemaatschappij van haar aandelen van A.S.L.K.-Bank en A.S.L.K.-Verzekeringen.

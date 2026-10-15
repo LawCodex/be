@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202913/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-07-2009 et mise à jour au 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret relatif à l'aide sociale générale

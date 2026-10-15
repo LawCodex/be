@@ -11,7 +11,7 @@ published: 1972-02-02
 entry_into_force: 1972-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/29/1971072901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 1971. - Wet houdende goedkeuring van volgende internationale akten : 1. Verdrag inzake de territoriale zee en de aansluitende zone; 2. Verdrag inzake de volle zee; 3. Verdrag inzake de visserij en de instandhouding van de levende rijkdommen van de volle zee; 4. Protocol van facultatieve ondertekening inzake de verplichte beslechting van geschillen, opgemaakt te Genève op 29 april 1958; 5. Internationaal verdrag betreffende maatregelen in volle zee in geval van een ongeval dat verontreiniging door olie tot gevolg heeft of kan hebben en bijlage, opgemaakt te Brussel op 29 november 1969.

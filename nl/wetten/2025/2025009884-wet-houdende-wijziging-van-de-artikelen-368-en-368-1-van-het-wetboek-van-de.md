@@ -12,7 +12,7 @@ entry_into_force: 2025-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/19/2025009884/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Wet houdende wijziging van de artikelen 368 en 368/1 van het Wetboek van de inkomstenbelastingen 1992 betreffende de aanvraag tot teruggave van de niet-ingekohierde voorheffing en houdende wijziging van het Wetboek diverse rechten en taksen betreffende de jaarlijkse taks op kredietinstellingen

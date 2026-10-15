@@ -12,7 +12,7 @@ entry_into_force: 2004-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003051350/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et l'Ancienne République yougoslave de Macédoine, d'autre part, aux Annexes Ire, II, III, IVa, IVb, IVc, Va, Vb, VI et VII, aux Protocoles 1er, 2, 3 et 4, et à l'Acte final, faits à Luxembourg le 9 avril 2001.

@@ -17,7 +17,7 @@ department: "Commission communautaire française"
 justel_notes:
   - "art. 28 ; 29 et 31 modifiés avec effet à une date indéterminée par DEC 2016-04-28/21 , art. 30 à 32; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 10-09-2012 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1994. - Décret de la Commission communautaire française portant création de l'Institut bruxellois francophone pour la Formation professionnelle

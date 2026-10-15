@@ -12,7 +12,7 @@ entry_into_force: 2021-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/04/08/2021030911/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 2021. - Wet houdende instemming met het samenwerkingsakkoord van 24 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde entiteiten, de lokale overheden of politiediensten met als doel het handhaven van de verplichte quarantaine of testing van de reizigers komende van buitenlandse zones bij wie een quarantaine of testing verplicht is bij aankomst in België

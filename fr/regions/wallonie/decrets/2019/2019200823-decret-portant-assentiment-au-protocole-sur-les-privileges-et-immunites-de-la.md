@@ -13,7 +13,7 @@ entry_into_force: 2019-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/31/2019200823/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2019. - Décret portant assentiment au Protocole sur les privilèges et immunités de la juridiction unifiée du brevet fait à Bruxelles le 29 juin 2016

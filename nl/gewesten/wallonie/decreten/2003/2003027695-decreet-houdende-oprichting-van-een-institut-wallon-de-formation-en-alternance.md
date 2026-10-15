@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003027695/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 05-08-2003 en tekstbijwerking tot 06-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet houdende oprichting van een " Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises " (Waals instituut voor alternerende opleiding, zelfstandigen en kleine en middelgrote ondernemingen) (Vertaling)

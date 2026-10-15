@@ -12,7 +12,7 @@ entry_into_force: 2022-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/08/21/2022042195/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AOUT 2022. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne les chercheurs, stagiaires et volontaires

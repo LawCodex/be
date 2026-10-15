@@ -13,7 +13,7 @@ last_amended: 2020-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/06/13/1966061301/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-1997 en tekstbijwerking tot 15-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1966. - Wet betreffende de rust- en overlevingspensioenen voor arbeiders, bedienden, zeevarenden onder Belgische vlag, mijnwerkers en vrijwillig verzekerden. &lt;Opgeheven met uitzondering van art. 21, 24 en 30 bij KBN50 24-10-1967, art. 75, § 3, 10 °, doch blijft verder de pensioenen beheersen die daadwerkelijk en voor de eerste maal vóór 1-1-1968 ingaan.&gt;

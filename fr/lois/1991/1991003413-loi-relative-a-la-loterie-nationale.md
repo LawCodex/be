@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/22/1991003413/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-07-1991 et mise à jour au 04-05-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1991. - Loi relative à la Loterie nationale.

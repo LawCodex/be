@@ -12,7 +12,7 @@ entry_into_force: 2010-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/18/2010011253/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2010. - Loi modifiant la loi-cadre relative aux professions intellectuelles prestataires de services codifiée par l'arrêté royal du 3 août 2007

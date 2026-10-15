@@ -11,7 +11,7 @@ published: 1939-08-13
 entry_into_force: 1939-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1939/01/20/1939012001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 1939. - Loi approuvant la Convention et les protocoles de la Conférence de la Haye 1930 pour la codification du droit international concernant la nationalité.

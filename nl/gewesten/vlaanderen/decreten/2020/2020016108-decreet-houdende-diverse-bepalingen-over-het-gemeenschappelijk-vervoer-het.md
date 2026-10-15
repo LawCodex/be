@@ -12,7 +12,7 @@ entry_into_force: 2020-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/09/2020016108/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 OKTOBER 2020. - Decreet houdende diverse bepalingen over het gemeenschappelijk vervoer, het algemeen mobiliteitsbeleid, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid

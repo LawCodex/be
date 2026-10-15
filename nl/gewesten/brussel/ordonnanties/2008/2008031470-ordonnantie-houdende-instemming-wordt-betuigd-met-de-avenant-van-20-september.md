@@ -12,7 +12,7 @@ entry_into_force: 2008-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/09/04/2008031470/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2008. - Ordonnantie houdende instemming wordt betuigd met de avenant van 20 september 2007 bij het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie.

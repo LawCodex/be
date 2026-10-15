@@ -12,7 +12,7 @@ entry_into_force: 2016-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016011238/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2016. - Loi modifiant la loi du 19 mars 2014 portant définition légale de l'artisan

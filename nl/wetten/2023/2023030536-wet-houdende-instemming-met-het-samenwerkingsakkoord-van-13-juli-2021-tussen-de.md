@@ -12,7 +12,7 @@ entry_into_force: 2023-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/12/2023030536/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2023. - Wet houdende instemming met het samenwerkingsakkoord van 13 juli 2021 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, betreffende de coördinatie van het beleid inzake grensoverschrijdende overbrenging van afvalstoffen

@@ -11,7 +11,7 @@ published: 2005-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/27/2005011324/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2005. - Loi organisant les voies de recours contre les décisions prises par la Commission de Régulation de l'Electricité et du Gaz.

@@ -13,7 +13,7 @@ entry_into_force: 2024-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/06/2024011515/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2024. - Decreet van de algemene rekening van de Vlaamse Gemeenschap en van de rekeningen van de rechtspersonen onder het gezag van de Vlaamse Regering voor het begrotingsjaar 2023

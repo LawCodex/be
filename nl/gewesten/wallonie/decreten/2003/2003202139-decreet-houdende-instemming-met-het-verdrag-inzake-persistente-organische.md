@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2003202139/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet houdende instemming met het Verdrag inzake persistente organische verontreinigende stoffen, gesloten te Stockholm op 22 mei 2001, alsmede met de Bijlagen erbij. (Vertaling).

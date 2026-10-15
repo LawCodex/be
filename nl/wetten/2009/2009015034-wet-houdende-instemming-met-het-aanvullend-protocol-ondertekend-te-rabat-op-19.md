@@ -12,7 +12,7 @@ entry_into_force: 2011-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/12/2009015034/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2009. - Wet houdende instemming met het Aanvullend Protocol, ondertekend te Rabat op 19 maart 2007, bij de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Marokko inzake bijstand aan gedetineerde personen en overbrenging van gevonniste personen, ondertekend te Brussel op 7 juli 1997

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/10/1997009557/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-07-1997 en tekstbijwerking tot 17-05-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1997. - Wet houdende diverse bepalingen met betrekking tot de protesten.

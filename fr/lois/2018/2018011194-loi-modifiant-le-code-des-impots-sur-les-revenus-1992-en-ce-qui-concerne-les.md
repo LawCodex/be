@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/06/2018011194/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2018. - Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne les ressources des orphelins

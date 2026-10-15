@@ -11,7 +11,7 @@ date: 2018-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/12/2018032071/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2018. - Decreet houdende het Vlaams opleidingsverlof en houdende diverse bepalingen betreffende het beleidsdomein Werk en Sociale Economie

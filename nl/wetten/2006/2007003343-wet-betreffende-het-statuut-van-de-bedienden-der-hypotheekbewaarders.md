@@ -12,7 +12,7 @@ entry_into_force: 2014-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/11/2007003343/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2006. - Wet betreffende het statuut van de bedienden der hypotheekbewaarders

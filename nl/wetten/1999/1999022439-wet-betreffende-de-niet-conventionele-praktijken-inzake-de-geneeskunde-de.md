@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/29/1999022439/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 29-03-2013 en tekstbijwerking tot 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1999. - Wet betreffende de niet-conventionele praktijken inzake de geneeskunde, de artsenijbereidkunde, de kinesitherapie, de verpleegkunde en de paramedische beroepen

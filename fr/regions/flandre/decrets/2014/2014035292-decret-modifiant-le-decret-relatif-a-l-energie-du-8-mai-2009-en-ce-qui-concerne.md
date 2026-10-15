@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/14/2014035292/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2014. - Décret modifiant le Décret relatif à l'Energie du 8 mai 2009, en ce qui concerne la transposition de la Directive de l'Union européenne 2012/27/UE du 25 octobre 2012 relative à l'efficacité énergétique, et l'octroi de certificats d'électricité écologique, de certificats de cogénération et de garanties d'origine

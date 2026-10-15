@@ -11,7 +11,7 @@ date: 1996-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/25/1996027570/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1996. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Duitstalige Gemeenschap en het Waalse Gewest betreffende de overname van de kosten voor de sociale integratie en de inschakeling van de gehandicapte personen in het arbeidsproces (VERTALING).

@@ -11,7 +11,7 @@ published: 1927-05-25
 entry_into_force: 1927-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1927/05/12/1927051251/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 1927. - Loi sur les réquisitions militaires.

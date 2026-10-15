@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/03/2006010025/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-2006 en tekstbijwerking tot 21-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2006. - Wet houdende diverse bepalingen met betrekking tot het sociaal strafrecht

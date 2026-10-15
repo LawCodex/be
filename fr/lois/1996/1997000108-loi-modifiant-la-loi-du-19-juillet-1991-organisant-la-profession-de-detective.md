@@ -12,7 +12,7 @@ entry_into_force: 1997-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/30/1997000108/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1996. - Loi modifiant la loi du 19 juillet 1991 organisant la profession de détective privé.

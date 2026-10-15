@@ -12,7 +12,7 @@ entry_into_force: 2014-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/27/2014015138/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2014. - Loi portant assentiment à l'Accord interne entre les représentants des Gouvernements des Etats membres de l'Union européenne, réunis au sein du Conseil, relatif au financement de l'aide de l'Union européenne au titre du cadre financier pluriannuel pour la période 2014-2020 conformément à l'Accord de partenariat ACP-UE et à l'affectation des aides financières destinées aux pays et territoires d'outre-mer auxquels s'appliquent les dispositions de la quatrième partie du Traité sur le fonctionnement de l'Union européenne, fait à Luxembourg et à Bruxelles, le 24 juin et le 26 juin 2013 respectivement

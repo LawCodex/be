@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/17/2018070049/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2018. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2018

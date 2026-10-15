@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/22/2010204389/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2010 et mise à jour au 10-08-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2010. - Décret créant un Conseil de la Fiscalité et des Finances de Wallonie

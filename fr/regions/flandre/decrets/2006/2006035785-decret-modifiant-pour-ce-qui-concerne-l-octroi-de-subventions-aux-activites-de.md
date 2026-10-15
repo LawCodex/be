@@ -13,7 +13,7 @@ entry_into_force: 2006-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/28/2006035785/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2006. - Décret modifiant, pour ce qui concerne l'octroi de subventions aux activités de promotion de l'entrepreneuriat international, le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Vlaams Agentschap voor Internationaal Ondernemen" (Agence flamande pour l'Entrepreneuriat international) (TRADUCTION).

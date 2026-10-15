@@ -11,7 +11,7 @@ published: 1971-02-23
 entry_into_force: 1971-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/02/17/1971021701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1971. - Loi modifiant la loi du 20 septembre 1948 portant organisation de l'économie et la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail.

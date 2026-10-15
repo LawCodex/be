@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/06/1995021182/justel"
 department: "Premier Ministre - Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 29-04-1995 et mise à jour au 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Loi organisant la commission parlementaire de concertation prévue à l'article 82 de la Constitution et modifiant les lois coordonnées sur le Conseil d'Etat. - (Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 14-05-2003)

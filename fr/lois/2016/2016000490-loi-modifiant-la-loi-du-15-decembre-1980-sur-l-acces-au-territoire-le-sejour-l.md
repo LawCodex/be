@@ -12,7 +12,7 @@ entry_into_force: 2016-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/15/2016000490/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers

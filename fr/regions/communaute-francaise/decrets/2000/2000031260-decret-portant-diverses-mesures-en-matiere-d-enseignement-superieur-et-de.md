@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/20/2000031260/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-08-2000 et mise à jour au 25-03-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2000. - Décret portant diverses mesures [...] en matière d'enseignement supérieur et de recherche scientifique. &lt;DCFR 2011-06-23/12 , art. 1, 007; En vigueur : 19-08-2011&gt;

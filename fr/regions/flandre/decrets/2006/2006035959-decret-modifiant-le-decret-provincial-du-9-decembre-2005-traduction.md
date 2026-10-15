@@ -13,7 +13,7 @@ entry_into_force: 2006-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006035959/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Décret modifiant le décret provincial du 9 décembre 2005 (TRADUCTION).

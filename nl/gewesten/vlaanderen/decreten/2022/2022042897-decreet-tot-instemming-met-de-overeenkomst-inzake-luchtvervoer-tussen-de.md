@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/10/2022042897/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2022. - Decreet tot instemming met de overeenkomst inzake luchtvervoer tussen de Europese Unie en haar lidstaten, enerzijds, en de staat Qatar, anderzijds, gedaan te Luxemburg op 18 oktober 2021

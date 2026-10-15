@@ -12,7 +12,7 @@ entry_into_force: 2019-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/11/14/2019015803/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2019. - Wet tot wijziging van de wet van 17 april 1878 houdende de voorafgaande titel van het Wetboek van Strafvordering wat de afschaffing van de verjaring van ernstige seksuele misdrijven op minderjarigen betreft

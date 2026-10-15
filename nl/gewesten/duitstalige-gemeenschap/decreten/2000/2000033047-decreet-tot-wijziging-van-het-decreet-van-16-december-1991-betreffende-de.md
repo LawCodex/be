@@ -13,7 +13,7 @@ entry_into_force: 2000-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/02/14/2000033047/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2000. - Decreet tot wijziging van het decreet van 16 december 1991 betreffende de opleiding en de voortgezette opleiding in de middenstand en de K.M.O.'s (VERTALING).

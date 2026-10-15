@@ -13,7 +13,7 @@ entry_into_force: 1985-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/06/26/1985024506/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1985. \_ Decreet houdende goedkeuring van de overeenkomst van 21 juni 1984 tussen de Franse Gemeenschap en de Duitstalige Gemeenschap .

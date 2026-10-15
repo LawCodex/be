@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031319/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et le Royaume de Bahreïn tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, faite à Manama le 4 novembre 2007, et 2° au Protocole, fait à Manama le 23 novembre 2009, modifiant la Convention entre le Royaume de Belgique et le Royaume de Bahreïn tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, faite à Manama le 4 novembre 2007

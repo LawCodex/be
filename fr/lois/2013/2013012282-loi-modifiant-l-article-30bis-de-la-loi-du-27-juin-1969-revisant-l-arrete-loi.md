@@ -12,7 +12,7 @@ entry_into_force: 2013-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/08/2013012282/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2013. - Loi modifiant l'article 30bis de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et adaptant les dispositions de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail qui concernent la déclaration préalable et l'enregistrement des présences concernant les chantiers temporaires ou mobiles

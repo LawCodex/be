@@ -10,7 +10,7 @@ date: 2017-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/03/2017020489/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2017. - Wet tot wijziging van de wet van 22 april 1999 betreffende de boekhoudkundige en fiscale beroepen

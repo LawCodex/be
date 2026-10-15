@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/10/31/2008015185/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OKTOBER 2008. - Wet houdende instemming met de Overeenkomst, gesloten door uitwisseling van brieven te Belgrado op 21 december 2006, tussen de Regeringen van de Benelux-Staten en de Regering van de Republiek Servië inzake de afschaffing van de visumplicht voor houders van diplomatieke of dienstpaspoorten.

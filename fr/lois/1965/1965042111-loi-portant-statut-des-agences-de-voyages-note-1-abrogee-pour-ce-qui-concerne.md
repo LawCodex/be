@@ -13,7 +13,7 @@ last_amended: 2010-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/21/1965042111/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-01-1989 et mise à jour au 05-05-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1965. - Loi portant statut des agences de voyages. (NOTE 1 : Abrogée pour ce qui concerne la Communauté flamande par DCFL 1985-03-21/33 , art. 14; ce décret a été rapporté à partir du 26 mai 1985 par DCFL 1988-06-01/30) (NOTE 2 : Abrogé pour l'Autorité flamande par DCFL 2007-03-02/48 , art. 12, En vigueur : 01-09-2007) (NOTE 3 : Abrogé pour la Région de Bruxelles-Capitale par ORD 2010-04-22/09 , art. 15, 006; En vigueur : 18-10-2012 (voir ARR 2012-09-27/04 , art. 30) (NOTE 4 : Abrogé pour la Région Wallonne par DRW 2010-04-22/13 , art. 16, 007; En vigueur : 05-05-2010)

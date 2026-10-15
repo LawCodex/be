@@ -13,7 +13,7 @@ entry_into_force: 1997-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/01/21/1997035112/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 1997. - Decreet tot goedkeuring van het samenwerkingsakkoord betreffende de preventie en het beheer van verpakkingsafval.

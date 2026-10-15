@@ -11,7 +11,7 @@ published: 2001-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2001022757/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet tot wijziging van de artikelen 7 en 10 van de wet van 15 juli 1985 betreffende het gebruik bij dieren van stoffen met hormonale, anti-hormonale, beta-adrenergische of productiestimulerende werking.

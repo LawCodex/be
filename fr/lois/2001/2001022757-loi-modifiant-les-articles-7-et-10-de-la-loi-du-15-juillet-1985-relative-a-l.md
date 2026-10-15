@@ -12,7 +12,7 @@ entry_into_force: 2001-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2001022757/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi modifiant les articles 7 et 10 de la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal, à effet anti-hormonal, à effet béta-adrénergique ou à effet stimulateur de production chez les animaux.

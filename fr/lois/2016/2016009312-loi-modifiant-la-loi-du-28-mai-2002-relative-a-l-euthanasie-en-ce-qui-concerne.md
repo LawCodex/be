@@ -12,7 +12,7 @@ entry_into_force: 2016-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/16/2016009312/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2016. - Loi modifiant la loi du 28 mai 2002 relative à l'euthanasie en ce qui concerne la composition de la Commission fédérale de contrôle et d'évaluation

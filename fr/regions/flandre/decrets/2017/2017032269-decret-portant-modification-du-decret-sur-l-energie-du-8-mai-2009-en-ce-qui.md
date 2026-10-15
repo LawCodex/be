@@ -13,7 +13,7 @@ entry_into_force: 2018-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/22/2017032269/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Décret portant modification du Décret sur l'Energie du 8 mai 2009, en ce qui concerne l'adaptation des objectifs d'énergie verte, des objectifs de cogénération et de la taxe sur l'énergie

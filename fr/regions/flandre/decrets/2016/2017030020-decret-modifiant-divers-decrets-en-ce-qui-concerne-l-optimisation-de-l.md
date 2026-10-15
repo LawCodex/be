@@ -13,7 +13,7 @@ entry_into_force: 2017-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/09/2017030020/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2016. - Décret modifiant divers décrets, en ce qui concerne l'optimisation de l'organisation et de la procédure des juridictions administratives flamandes

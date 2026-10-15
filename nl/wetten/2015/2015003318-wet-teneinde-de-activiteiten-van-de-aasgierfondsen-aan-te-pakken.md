@@ -10,7 +10,7 @@ date: 2015-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/12/2015003318/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2015. - Wet teneinde de activiteiten van de aasgierfondsen aan te pakken

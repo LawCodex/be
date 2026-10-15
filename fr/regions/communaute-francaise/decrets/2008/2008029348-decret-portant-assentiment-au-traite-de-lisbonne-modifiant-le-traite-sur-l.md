@@ -13,7 +13,7 @@ entry_into_force: 2008-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/23/2008029348/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2008. - Décret portant assentiment au Traité de Lisbonne modifiant le Traité sur l'Union européenne et le Traité instituant la Communauté européenne et à l'Acte final, faits à Lisbonne, le 13 décembre 2007.

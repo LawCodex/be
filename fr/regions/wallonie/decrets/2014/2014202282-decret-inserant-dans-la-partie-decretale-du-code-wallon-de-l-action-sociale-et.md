@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014202282/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Décret insérant dans la partie décrétale du Code wallon de l'Action sociale et de la Santé des dispositions relatives aux centres de télé-accueil

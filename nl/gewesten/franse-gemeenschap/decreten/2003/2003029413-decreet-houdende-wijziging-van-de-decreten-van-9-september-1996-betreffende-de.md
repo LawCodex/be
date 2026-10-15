@@ -12,7 +12,7 @@ published: 2003-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029413/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet houdende wijziging van de decreten van 9 september 1996 betreffende de financiering van de door de Franse Gemeenschap ingerichte of gesubsidieerde Hogescholen van 17 maart 1997 tot vaststelling van het statuut van de commissarissen bij de Hogescholen. (Vertaling).

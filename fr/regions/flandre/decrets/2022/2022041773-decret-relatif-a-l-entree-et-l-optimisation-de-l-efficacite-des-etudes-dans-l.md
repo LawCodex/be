@@ -13,7 +13,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022041773/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret relatif à l'entrée et l'optimisation de l'efficacité des études dans l'enseignement supérieur et à d'autres aspects organisationnels de l'enseignement supérieur

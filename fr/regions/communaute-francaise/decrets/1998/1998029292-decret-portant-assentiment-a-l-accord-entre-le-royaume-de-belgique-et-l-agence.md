@@ -13,7 +13,7 @@ entry_into_force: 1995-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/03/23/1998029292/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1998. - Décret portant assentiment à l'accord entre le Royaume de Belgique et l'Agence de coopération culturelle et technique, signé à Bruxelles le 16 novembre 1995.

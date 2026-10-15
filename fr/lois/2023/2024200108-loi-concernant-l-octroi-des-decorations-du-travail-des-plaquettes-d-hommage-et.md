@@ -12,7 +12,7 @@ entry_into_force: 2024-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/18/2024200108/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2023. - Loi concernant l'octroi des décorations du travail, des plaquettes d'hommage et des décorations spéciales des Unions professionnelles

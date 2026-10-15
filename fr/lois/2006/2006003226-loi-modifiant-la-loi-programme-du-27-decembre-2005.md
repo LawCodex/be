@@ -12,7 +12,7 @@ entry_into_force: 2006-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/30/2006003226/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2006. - Loi modifiant la loi-programme du 27 décembre 2005.

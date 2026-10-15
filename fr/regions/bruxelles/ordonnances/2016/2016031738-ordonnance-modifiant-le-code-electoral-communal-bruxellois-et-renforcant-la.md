@@ -13,7 +13,7 @@ entry_into_force: 2016-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/10/27/2016031738/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2016. - Ordonnance modifiant le Code électoral communal bruxellois et renforçant la parité hommes-femmes sur les listes de candidatures aux élections communales organisées dans la Région de Bruxelles-Capitale

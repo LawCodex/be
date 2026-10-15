@@ -13,7 +13,7 @@ entry_into_force: 2008-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/20/2008204389/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2008. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française, à la Convention n° 155 sur la sécurité des travailleurs, adoptée à Genève, le 22 juin 1981 par la Conférence générale de l'Organisation internationale du travail.

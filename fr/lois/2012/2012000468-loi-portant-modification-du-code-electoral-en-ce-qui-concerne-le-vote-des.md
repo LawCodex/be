@@ -12,7 +12,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012000468/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi portant modification du Code électoral, en ce qui concerne le vote des Belges à l'étranger

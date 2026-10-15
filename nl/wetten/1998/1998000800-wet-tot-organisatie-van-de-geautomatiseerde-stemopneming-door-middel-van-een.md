@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/18/1998000800/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1998 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1998. - Wet tot organisatie van de geautomatiseerde stemopneming door middel van een systeem voor optische lezing en tot wijziging van de wet van 11 april 1994 tot organisatie van de geautomatiseerde stemming.

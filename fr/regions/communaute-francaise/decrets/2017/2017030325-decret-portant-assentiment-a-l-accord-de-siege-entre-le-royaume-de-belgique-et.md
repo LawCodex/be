@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017030325/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Office international des Epizooties, signé à Bruxelles le 14 mars 2013

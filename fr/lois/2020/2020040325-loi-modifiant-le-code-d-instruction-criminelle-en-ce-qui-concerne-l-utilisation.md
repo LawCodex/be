@@ -12,7 +12,7 @@ entry_into_force: 2020-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020040325/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2020. - Loi modifiant le Code d'instruction criminelle en ce qui concerne l'utilisation du polygraphe

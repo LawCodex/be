@@ -12,7 +12,7 @@ entry_into_force: 2014-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014003233/justel"
 department: "Economie, PME, Classes moyennes et Energie - Intérieur - Justice - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi complétant, en ce qui concerne les voies de recours, la loi relative aux organismes de placement collectif alternatifs et à leurs gestionnaires

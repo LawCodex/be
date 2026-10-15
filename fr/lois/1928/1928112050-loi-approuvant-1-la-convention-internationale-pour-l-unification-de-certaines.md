@@ -11,7 +11,7 @@ published: 1931-06-01
 entry_into_force: 1931-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1928/11/20/1928112050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 1928. - Loi approuvant : 1° la convention internationale pour l'unification de certaines règles concernant la limitation de la responsabilité des propriétaires de navires de mer, signée à Bruxelles le 25 août 1924; 2° la convention internationale pour l'unification de certaines règles relatives aux privilèges et hypothèques maritimes, signée à Bruxelles, le 10 avril 1926; 3° la convention internationale pour l'unification de certaines règles en matière de connaissements, signée à Bruxelles, le 25 août 1924; 4° la convention internationale pour l'unification de certaines règles concernant les immunités des navires d'Etat, signée à Bruxelles, le 10 avril 1926.

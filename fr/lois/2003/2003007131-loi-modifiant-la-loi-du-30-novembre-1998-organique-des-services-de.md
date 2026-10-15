@@ -12,7 +12,7 @@ entry_into_force: 2003-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/03/2003007131/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2003. - Loi modifiant la loi du 30 novembre 1998 organique des services de renseignement et de sécurité et l'article 259bis du Code pénal.

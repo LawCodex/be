@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/20/2000029296/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-08-2000 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2000. - [Decreet tot bepaling van de voorwaarden voor de erkenning en de subsidiëring van jeugdhuizen, van ontmoetings- en huisvestingscentra en van informatiecentra voor jongeren en van hun federaties] &lt;DFG 2008-05-09/83 , art. 1, 007; Inwerkingtreding : 01-01-2008&gt; (VERTALING). -

@@ -13,7 +13,7 @@ entry_into_force: 2016-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/10/2016205792/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2016. - Décret modifiant les articles l1523-13 et l1523-16 du Code de la démocratie locale et de la décentralisation et visant à améliorer le dialogue social

@@ -13,7 +13,7 @@ entry_into_force: 2013-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/16/2013203073/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2013. - Décret portant assentiment à l'Accord multilatéral entre la Communauté européenne et ses Etats membres, la République d'Albanie, l'ancienne République yougoslave de Macédoine, la Bosnie-et-Herzégovine, la République de Bulgarie, la République de Croatie, la République d'Islande, la République du Monténégro, le Royaume de Norvège, la Roumanie, la République de Serbie et la Mission d'administration intérimaire des Nations unies au Kosovo sur la création d'un espace aérien commun européen, fait à Luxembourg le 9 juin 2006

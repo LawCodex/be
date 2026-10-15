@@ -13,7 +13,7 @@ entry_into_force: 2018-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/15/2018201407/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2018. - Décret modifiant l'article D.VII.26 du Code du Développement territorial

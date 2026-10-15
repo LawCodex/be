@@ -12,7 +12,7 @@ entry_into_force: 2002-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/09/04/2002015138/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2002. - Loi instaurant l'établissement d'un rapport annuel sur l'application de la Convention relative aux droits de l'enfant.

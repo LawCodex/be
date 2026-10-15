@@ -12,7 +12,7 @@ entry_into_force: 2019-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/12/2018015492/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2018. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant sur la coordination des politiques d'octroi d'autorisations de travail et d'octroi du permis de séjour, ainsi que les normes relatives à l'emploi et au séjour des travailleurs étrangers

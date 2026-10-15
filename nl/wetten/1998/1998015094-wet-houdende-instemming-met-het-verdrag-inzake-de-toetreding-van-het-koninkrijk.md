@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/09/1998015094/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1998. - Wet houdende instemming met het Verdrag inzake de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, en Bijlagen I en II, gedaan te Funchal op 18 mei 1992.

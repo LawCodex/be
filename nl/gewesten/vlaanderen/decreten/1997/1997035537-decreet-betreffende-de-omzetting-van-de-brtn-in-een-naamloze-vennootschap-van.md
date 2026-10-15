@@ -13,7 +13,7 @@ entry_into_force: 1997-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/04/29/1997035537/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1997. - Decreet betreffende de omzetting van de BRTN in een naamloze vennootschap van publiek recht.

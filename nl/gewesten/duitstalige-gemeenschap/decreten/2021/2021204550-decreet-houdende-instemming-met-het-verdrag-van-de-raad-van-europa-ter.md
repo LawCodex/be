@@ -13,7 +13,7 @@ entry_into_force: 2021-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/20/2021204550/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2021. - Decreet houdende instemming met het Verdrag van de Raad van Europa ter voorkoming van terrorisme, gedaan te Warschau op 16 mei 2005

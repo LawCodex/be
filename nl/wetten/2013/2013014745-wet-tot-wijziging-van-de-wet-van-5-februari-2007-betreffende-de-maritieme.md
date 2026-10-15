@@ -12,7 +12,7 @@ entry_into_force: 2014-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/19/2013014745/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2013. - Wet tot wijziging van de wet van 5 februari 2007 betreffende de maritieme beveiliging

@@ -13,7 +13,7 @@ last_amended: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1950/12/19/1950121902/justel"
 justel_note: "Art. 8, 10 et 12 sont modifiés avec effet à une date indéterminée par <L 2007-03-01/37 , art. 124 à 126, 004; En vigueur : indéterminée >) - (NOTE : Consultation des versions antérieures à partir du 18-03-1999 et mise à jour au 21-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1950. - LOI créant l'Ordre des Médecins vétérinaires.

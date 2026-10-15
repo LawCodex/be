@@ -13,7 +13,7 @@ entry_into_force: 2002-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/02/22/2002035306/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2002. - Decreet houdende instemming met het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, en met de Bijlagen A en B, opgemaakt te Kyoto op 11 december 1997.

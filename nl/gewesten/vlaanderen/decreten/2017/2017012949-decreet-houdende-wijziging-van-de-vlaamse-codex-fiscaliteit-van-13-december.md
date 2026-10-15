@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/16/2017012949/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2017. - Decreet houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de vergroening van de verkeersfiscaliteit voor lichte vracht en oldtimers

@@ -12,7 +12,7 @@ entry_into_force: 2017-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/06/2016015130/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2016. - Loi portant assentiment à l'Accord entre les Gouvernement des Etats du Benelux et le Gouvernement de la République du Kazakhstan relatif à l'exemption de l'obligation de visa pour les titulaires de passeports diplomatiques, fait à Bruxelles le 2 mars 2015

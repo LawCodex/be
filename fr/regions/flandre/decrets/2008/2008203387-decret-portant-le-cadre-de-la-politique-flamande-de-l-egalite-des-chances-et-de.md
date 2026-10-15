@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008203387/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-09-2008 et mise à jour au 17-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - Décret portant le cadre de la politique flamande de l'égalité des chances et de traitement (TRADUCTION)

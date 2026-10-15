@@ -12,7 +12,7 @@ entry_into_force: 2021-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/30/2021206004/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2021. - Wet tot verlenging van de periode waarin aan de gerechtigden op bepaalde sociale bijstandsuitkeringen, in het kader van de maatregelen in de strijd tegen de verspreiding van het coronavirus COVID-19, een tijdelijke premie toegekend wordt

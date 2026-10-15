@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/02/2021034384/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2021. - Décret modifiant le décret-cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des arts de la scène en vue d'encadrer les procédures de recrutement aux fonctions de direction

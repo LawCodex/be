@@ -12,7 +12,7 @@ entry_into_force: 2013-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/10/2013014415/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Loi en vue d'instaurer le signal d'indication " voie sans issue, à l'exception des piétons et cyclistes "

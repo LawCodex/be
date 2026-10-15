@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/21/2013204518/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2013 et mise à jour au 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2013. - Décret portant diverses dispositions relatives au domaine politique du Bien-être, de la Santé publique et de la Famille

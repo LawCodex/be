@@ -12,7 +12,7 @@ entry_into_force: 2020-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/04/2019040839/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Loi modifiant la loi du 4 avril 2014 relative aux assurances et instaurant un droit à l'oubli pour certaines assurances de personnes

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012971/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Etat du Qatar tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Doha le 6 novembre 2007; 2° au Protocole, fait à Doha le 22 mars 2015, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Etat du Qatar tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Doha le 6 novembre 2007

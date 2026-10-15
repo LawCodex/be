@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/16/1995027197/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1995. - Décret modifiant le Code forestier par des dispositions particulières à la Région wallonne en ce qui concerne la circulation du public dans les bois et forêts en général.

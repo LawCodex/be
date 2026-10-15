@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/07/2018032457/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2018 et mise à jour au 12-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2018. - Décret de gouvernance

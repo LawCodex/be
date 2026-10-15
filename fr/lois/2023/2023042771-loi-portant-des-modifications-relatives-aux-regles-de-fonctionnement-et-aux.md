@@ -12,7 +12,7 @@ entry_into_force: 2023-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/30/2023042771/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2023. - Loi portant des modifications relatives aux règles de fonctionnement et aux options de fiabilité dans le cadre du mécanisme de rémunération de capacité visé au chapitre IIbis de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité

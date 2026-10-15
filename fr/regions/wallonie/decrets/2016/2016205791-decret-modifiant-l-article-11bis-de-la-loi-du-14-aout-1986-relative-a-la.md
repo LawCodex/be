@@ -13,7 +13,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/10/2016205791/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2016. - Décret modifiant l'article 11bis de la loi du 14 août 1986 relative à la protection et au bien-être des animaux en ce qui concerne la publicité visant la commercialisation d'espèces animales

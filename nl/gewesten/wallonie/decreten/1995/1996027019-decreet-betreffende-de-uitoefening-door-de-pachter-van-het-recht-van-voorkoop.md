@@ -13,7 +13,7 @@ entry_into_force: 1996-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996027019/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet betreffende de uitoefening, door de pachter, van het recht van voorkoop bij openbare verkoop (VERTALING).

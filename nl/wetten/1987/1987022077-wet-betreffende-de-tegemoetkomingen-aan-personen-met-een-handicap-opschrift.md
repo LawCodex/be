@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/02/27/1987022077/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-1987 en tekstbijwerking tot 29-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 1987. - Wet betreffende de tegemoetkomingen aan [personen met een handicap]. &lt;Opschrift gewijzigd door W 2002-12-24/31, art. 115, 018; Inwerkingtreding : 01-07-2003&gt;

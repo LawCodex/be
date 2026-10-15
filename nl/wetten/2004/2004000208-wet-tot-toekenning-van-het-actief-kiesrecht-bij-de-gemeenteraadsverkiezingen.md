@@ -12,7 +12,7 @@ entry_into_force: 2004-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/19/2004000208/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Wet tot toekenning van het actief kiesrecht bij de gemeenteraadsverkiezingen aan vreemdelingen.

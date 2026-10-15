@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/27/2013203948/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 09-07-2013 en tekstbijwerking tot 26-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2013. - [Decreet van 27 juni 2013 betreffende het Waals beleid inzake duurzame ontwikkeling, voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet en de daaruit voortvloeiende thema's inzake transitie] )&lt;opschrift gewijzigd bij DWG 2019-05-02/56 , art. 2, 004; Inwerkingtreding : 05-08-2019&gt;

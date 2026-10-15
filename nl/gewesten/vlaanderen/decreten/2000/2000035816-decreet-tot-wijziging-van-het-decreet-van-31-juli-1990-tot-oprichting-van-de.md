@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035816/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet tot wijziging van het decreet van 31 juli 1990 tot oprichting van de Vlaamse Vervoermaatschappij, wat de evaluatie van de leidend ambtenaren betreft.

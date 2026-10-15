@@ -13,7 +13,7 @@ entry_into_force: 2018-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/26/2018030576/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2018. - Decreet houdende wijziging van het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs, wat de onderwijsdoelen betreft (opschrift gewijzigd door de commissie: ... tot wijziging van het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs, wat onderwijsdoelen betreft, en tot wijziging van de decreten Rechtspositie onderwijspersoneel)

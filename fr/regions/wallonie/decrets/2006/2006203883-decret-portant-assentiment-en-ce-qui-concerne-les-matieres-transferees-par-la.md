@@ -13,7 +13,7 @@ entry_into_force: 2006-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203883/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à la Convention UNESCO sur la protection et la promotion de la diversité des expressions culturelles, adoptée le 20 octobre 2005 et faite à Paris le 9 décembre 2005.

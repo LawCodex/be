@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019030854/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-09-2019 en tekstbijwerking tot 05-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende de boeken 1 en 2 van het Wetboek voor het basis- en secundair onderwijs, en tot instelling van de gemeenschappelijke kern

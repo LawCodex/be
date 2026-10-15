@@ -12,7 +12,7 @@ entry_into_force: 2001-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/04/04/2001011190/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2001. - Wet tot wijziging van sommige bepalingen betreffende de veiligheid en de gezondheid van de consumenten.

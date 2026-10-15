@@ -13,7 +13,7 @@ entry_into_force: 1998-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/23/1998027449/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1998. - Décret portant assentiment à l'Accord-cadre de coopération entre, d'une part, le Gouvernement de la République du Chili et, d'autre part, le Gouvernement de la Région wallonne et le Gouvernement de la Communauté francaise de Belgique, fait à Santiago le 31 juillet 1997.

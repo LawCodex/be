@@ -13,7 +13,7 @@ entry_into_force: 2013-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/13/2013029065/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2012. - Decreet houdende instemming met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, gedaan te Brussel op 6 december 2010

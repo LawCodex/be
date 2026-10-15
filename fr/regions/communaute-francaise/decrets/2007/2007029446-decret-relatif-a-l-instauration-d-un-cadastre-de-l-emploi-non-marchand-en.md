@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/19/2007029446/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2024 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2007. - Décret relatif à l'instauration d'un cadastre de l'emploi non-marchand en Communauté française

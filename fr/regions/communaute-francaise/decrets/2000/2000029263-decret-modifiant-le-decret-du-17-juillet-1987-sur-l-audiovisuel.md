@@ -13,7 +13,7 @@ entry_into_force: 2000-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/05/2000029263/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2000. - Décret modifiant le décret du 17 juillet 1987 sur l'audiovisuel.

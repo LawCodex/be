@@ -13,7 +13,7 @@ entry_into_force: 2024-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/22/2024001665/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2024. - Ordonnantie tot wijziging van de Nieuwe Gemeentewet

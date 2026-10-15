@@ -13,7 +13,7 @@ entry_into_force: 2004-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036066/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant organisation et subventionnement d'une politique du patrimoine culturel (dénommé : Décret sur le patrimoine) (TRADUCTION).

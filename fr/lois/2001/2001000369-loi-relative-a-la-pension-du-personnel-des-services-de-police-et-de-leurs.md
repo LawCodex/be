@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/30/2001000369/justel"
 department: "Intérieur - Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 18-04-2001 et mise à jour au 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2001. - Loi relative à la pension du personnel des services de police et de leurs ayants droit. -

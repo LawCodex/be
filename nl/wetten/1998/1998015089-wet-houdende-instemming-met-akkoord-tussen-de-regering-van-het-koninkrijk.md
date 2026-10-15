@@ -12,7 +12,7 @@ entry_into_force: 1998-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/21/1998015089/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 1998. - Wet houdende instemming met akkoord tussen de Regering van het Koninkrijk België en de Regering van de Republiek Belarus betreffende het wegvervoer, ondertekend te Brussel op 7 maart 1995.

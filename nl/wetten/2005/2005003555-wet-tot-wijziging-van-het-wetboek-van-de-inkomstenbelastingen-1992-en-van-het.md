@@ -12,7 +12,7 @@ entry_into_force: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/20/2005003555/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2005. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 en van het Wetboek der met het zegel gelijkgestelde taksen inzake de wederzijdse bijstand van de bevoegde autoriteiten van de lid-Staten op het gebied van de directe belastingen en heffingen op verzekeringspremies.

@@ -12,7 +12,7 @@ published: 2018-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/18/2018012399/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2018. - Décret relatif au transport non urgent de patients couchés

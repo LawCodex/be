@@ -12,7 +12,7 @@ entry_into_force: 1996-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/10/1996000377/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1996. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

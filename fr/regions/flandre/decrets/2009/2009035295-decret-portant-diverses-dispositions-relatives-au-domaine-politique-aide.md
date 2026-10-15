@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/20/2009035295/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-04-2009 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2009. - Décret portant diverses dispositions relatives au domaine politique Aide sociale, Santé publique et Famille

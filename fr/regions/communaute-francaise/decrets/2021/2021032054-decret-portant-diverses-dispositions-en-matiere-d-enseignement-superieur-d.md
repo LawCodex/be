@@ -13,7 +13,7 @@ entry_into_force: 2021-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/19/2021032054/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2021. - Décret portant diverses dispositions en matière d'Enseignement supérieur, d'Enseignement de promotion sociale, de Recherche scientifique et d'Hôpitaux universitaires

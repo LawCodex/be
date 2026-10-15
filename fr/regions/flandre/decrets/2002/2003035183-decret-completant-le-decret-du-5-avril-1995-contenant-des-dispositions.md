@@ -13,7 +13,7 @@ entry_into_force: 2003-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/18/2003035183/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2002. - Décret complétant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement par un titre relatif à l'évaluation des incidences sur l'environnement et la sécurité (TRADUCTION).

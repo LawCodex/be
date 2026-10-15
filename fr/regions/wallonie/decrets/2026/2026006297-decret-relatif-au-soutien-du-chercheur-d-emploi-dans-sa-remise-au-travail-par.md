@@ -13,7 +13,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/16/2026006297/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2026. - Décret relatif au soutien du chercheur d'emploi dans sa remise au travail par la création de son activité en tant qu'indépendant à titre principal

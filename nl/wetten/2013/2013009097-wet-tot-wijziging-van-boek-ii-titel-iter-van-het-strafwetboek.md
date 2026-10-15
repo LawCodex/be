@@ -12,7 +12,7 @@ entry_into_force: 2013-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/02/18/2013009097/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2013. - Wet tot wijziging van boek II, titel Iter van het Strafwetboek

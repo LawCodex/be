@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/29/2007A23133/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 24-07-2007 en tekstbijwerking tot 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2007. - Wet tot verwezenlijking van de eenmaking en de harmonisering van de kapitalisatiestelsels in het raam van de wetten betreffende de verzekering tegen de geldelijke gevolgen van ouderdom en vroegtijdige dood, gecoördineerd op 29 juni 2007

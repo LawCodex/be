@@ -12,7 +12,7 @@ entry_into_force: 2026-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/25/2026005472/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2026. - Loi modifiant la loi du 17 août 2013 portant création du cadre pour le déploiement de systèmes de transport intelligents et modifiant la loi du 10 avril 1990 réglementant la sécurité privée et particulière, et modifiant la loi du 2 octobre 2017 réglementant la sécurité privée et particulière

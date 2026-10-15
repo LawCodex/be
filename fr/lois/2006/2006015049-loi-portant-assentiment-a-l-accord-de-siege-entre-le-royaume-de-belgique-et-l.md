@@ -12,7 +12,7 @@ entry_into_force: 1985-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/21/2006015049/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2006. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Organisation de l'Unité africaine, signé à Bruxelles le 9 octobre 1985 et aux Echanges de lettres du 9 octobre 1985 et du 29 juin 1998 entre le Royaume de Belgique et l'Organisation de l'Unité africaine.

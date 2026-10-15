@@ -12,7 +12,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/20/2021021397/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2021. - Loi modifiant l'arrêté royal du 20 juillet 1971 instituant une assurance indemnités et une assurance maternité en faveur des travailleurs indépendants et des conjoints aidants, afin de rendre le régime d'incapacité de travail applicable dès l'arrêt effectif de d'activité en raison de l'incapacité de travail

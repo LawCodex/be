@@ -12,7 +12,7 @@ entry_into_force: 2010-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/18/2010009469/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2010. - Wet tot wijziging van het Burgerlijk Wetboek wat de machtiging tot burgerlijke partijstelling in het kader van de voogdij betreft

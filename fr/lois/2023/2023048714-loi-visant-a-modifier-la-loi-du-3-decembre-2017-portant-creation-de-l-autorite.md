@@ -12,7 +12,7 @@ entry_into_force: 2024-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/09/07/2023048714/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2023. - Loi visant à modifier la loi du 3 décembre 2017 portant création de l'Autorité de protection des données en ce qui concerne la possibilité pour des tiers intéressés d'intervenir dans la procédure devant la chambre contentieuse et d'introduire un recours contre une décision de la chambre contentieuse

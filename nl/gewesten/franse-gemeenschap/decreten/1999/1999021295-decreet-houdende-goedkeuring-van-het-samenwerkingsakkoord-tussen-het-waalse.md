@@ -12,7 +12,7 @@ entry_into_force: 1997-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/15/1999021295/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het doorstromingsprogramma (VERTALING).

@@ -11,7 +11,7 @@ published: 2023-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/17/2023A43713/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2018. - Uitvoeringsprotocol tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en Oekraïne bij de Overnameovereenkomst tussen de Europese Gemeenschap en Oekraïne, gedaan te Brussel op 17 december 2018

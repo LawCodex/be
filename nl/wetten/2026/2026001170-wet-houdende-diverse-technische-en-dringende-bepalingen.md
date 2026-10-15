@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/08/2026001170/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 16-02-2026 en tekstbijwerking tot 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2026. - Wet houdende diverse technische en dringende bepalingen

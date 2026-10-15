@@ -13,7 +13,7 @@ entry_into_force: 1997-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/01/20/1997033044/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 1997. - Décret portant assentiment au Traité de la Charte européenne de l'Energie, signé à Lisbonne le 17 décembre 1994 (TRADUCTION).

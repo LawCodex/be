@@ -13,7 +13,7 @@ entry_into_force: 2014-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014202885/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet tot wijziging van het decreet van 25 februari 1999 houdende toekenning van subsidies voor bepaalde investeringen inzake sportinfrastructuur

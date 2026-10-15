@@ -13,7 +13,7 @@ entry_into_force: 2001-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/05/2001027392/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2001. - Décret relatif à l'évaluation des incidences sur l'environnement d'un projet de construction d'un raccordement routier provisoire.

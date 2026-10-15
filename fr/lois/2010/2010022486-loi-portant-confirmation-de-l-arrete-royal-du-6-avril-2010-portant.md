@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/11/19/2010022486/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2025 et mise à jour au 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2010. - Loi portant confirmation de l'arrêté royal du 6 avril 2010 portant reconnaissance des organisations professionnelles de praticiens d'une pratique non conventionnelle ou d'une pratique susceptible d'être qualifiée de non conventionnelle reconnues

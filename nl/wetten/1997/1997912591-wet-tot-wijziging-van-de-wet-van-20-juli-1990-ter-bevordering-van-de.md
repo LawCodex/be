@@ -12,7 +12,7 @@ entry_into_force: 1997-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/17/1997912591/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1997. - Wet tot wijziging van de wet van 20 juli 1990 ter bevordering van de evenwichtige aanwezigheid van mannen en vrouwen in organen met adviserende bevoegdheid.

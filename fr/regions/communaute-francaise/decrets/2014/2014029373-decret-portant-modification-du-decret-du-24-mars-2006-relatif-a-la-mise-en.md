@@ -13,7 +13,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/03/2014029373/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Décret portant modification du décret du 24 mars 2006 relatif à la mise en oeuvre, la promotion et le renforcement des collaborations entre la culture et l'enseignement

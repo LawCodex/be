@@ -12,7 +12,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/11/2018040327/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Wet in het kader van de integratie van de hypotheekkantoren in de Administratie Rechtszekerheid van de Algemene Administratie van de Patrimoniumdocumentatie van de Federale Overheidsdienst Financiën en van de nieuwe organisatie-en bevoegdheidsverdeling binnen de Administratie Rechtszekerheid

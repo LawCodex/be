@@ -12,7 +12,7 @@ entry_into_force: 2018-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/09/2018030243/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBRE 2015. - Loi portant assentiment à : - l'Accord de transport aérien entre les Etats-Unis d'Amérique, premièrement, l'Union européenne et ses Etats membres, deuxièmement, l'Islande, troisièmement, et le Royaume de Norvège, quatrièmement, fait à Luxembourg et Oslo les 16 et 21 juin 2011 : - l'Accord annexe entre l'Union européenne et ses Etats membres, premièrement, l'Islande, deuxièmement, et le Royaume de Norvège, troisièmement, concernant l'application de l'accord de transport aérien entre les Etats-Unis d'Amérique, premièrement, l'Union européenne et ses Etats membres, deuxièmement, l'Islande, troisièmement, et le Royaume de Norvège, quatrièmement, fait à Luxembourg et Oslo les 16 et 21 juin 2011

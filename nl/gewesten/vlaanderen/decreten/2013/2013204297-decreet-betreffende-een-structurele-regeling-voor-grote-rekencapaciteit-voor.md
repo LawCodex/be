@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/05/2013204297/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2013. - Decreet betreffende een structurele regeling voor grote rekencapaciteit voor onderzoek en innovatie en betreffende de coördinatie van de regelgeving inzake wetenschaps- en innovatiebeleid

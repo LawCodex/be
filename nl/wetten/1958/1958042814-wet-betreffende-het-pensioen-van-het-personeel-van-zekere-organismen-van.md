@@ -13,7 +13,7 @@ last_amended: 2018-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/04/28/1958042814/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 15-06-1985 en tekstbijwerking tot 12-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 1958. - Wet betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden

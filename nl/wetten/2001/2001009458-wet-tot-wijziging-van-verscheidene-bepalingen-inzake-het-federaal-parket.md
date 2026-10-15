@@ -12,7 +12,7 @@ entry_into_force: 2001-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/21/2001009458/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2001. - Wet tot wijziging van verscheidene bepalingen inzake het federaal parket.

@@ -12,7 +12,7 @@ entry_into_force: 2000-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/17/2000011316/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Wet tot bepaling van de voorwaarden waaronder de plaatselijke overheden een financiële bijstand kunnen genieten van de Staat in het kader van het stedelijk beleid.

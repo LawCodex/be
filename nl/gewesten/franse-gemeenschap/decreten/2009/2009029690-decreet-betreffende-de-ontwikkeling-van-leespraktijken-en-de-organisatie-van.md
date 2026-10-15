@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029690/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-11-2009 en tekstbijwerking tot 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - [ Decreet betreffende de ontwikkeling van leespraktijken en de organisatie van het Netwerk voor openbare lectuurvoorziening )&lt;DFG 2023-10-19/16 , art. 1, 013; Inwerkingtreding : 05-02-2024&gt; ]

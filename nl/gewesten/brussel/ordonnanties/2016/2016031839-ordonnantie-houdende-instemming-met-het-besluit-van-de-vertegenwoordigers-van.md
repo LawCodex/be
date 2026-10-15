@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031839/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie houdende instemming met : het besluit van de vertegenwoordigers van de regeringen der Lidstaten, in het kader van de Raad bijeen, van 28 april 2004, betreffende de voorrechten en immuniteiten die aan ATHENA worden verleend

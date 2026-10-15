@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/10/30/1998021437/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 10-11-1998 en tekstbijwerking tot 14-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 1998. - Wet betreffende de euro.

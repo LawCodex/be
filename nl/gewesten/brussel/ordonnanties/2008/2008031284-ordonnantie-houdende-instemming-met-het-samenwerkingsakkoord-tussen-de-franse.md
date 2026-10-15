@@ -13,7 +13,7 @@ entry_into_force: 2008-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/06/05/2008031284/justel"
 department: "Verenigde Vergadering van de Gemeenschappelijke Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2008. - Ordonnantie houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschap, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake hulpverlening aan jongeren.

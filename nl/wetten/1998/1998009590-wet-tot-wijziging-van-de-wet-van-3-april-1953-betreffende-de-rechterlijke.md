@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/20/1998009590/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-07-1998 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1998. - Wet tot wijziging van de wet van 3 april 1953 betreffende de rechterlijke inrichting, de wet van 15 juli 1979 tot vaststelling van de personeelsformatie van de rechtbanken van koophandel en tot wijziging van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek, de wet van 2 juli 1975 tot vaststelling van de personeelsformatie van de rechtbanken van eerste aanleg en de artikelen 151 en 213 van het Gerechtelijk Wetboek

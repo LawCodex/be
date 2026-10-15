@@ -12,7 +12,7 @@ entry_into_force: 2023-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/08/13/2023015023/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AUGUSTUS 2022. - Wet tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen en van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten, teneinde de leden van het Vast Comité P, van de dienst Enquêtes voor de politiediensten en van het administratief personeel van het Vast Comité P vrij te stellen van het verkrijgen van machtigingen voor de toegang tot en verwerking van persoonsgegevens bij de uitoefening van hun wettelijke opdrachten

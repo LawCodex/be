@@ -13,7 +13,7 @@ entry_into_force: 2015-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/21/2015202582/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2015. - Décret modifiant le décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz

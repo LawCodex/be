@@ -13,7 +13,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/08/2024202719/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2024. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 10 novembre 2023

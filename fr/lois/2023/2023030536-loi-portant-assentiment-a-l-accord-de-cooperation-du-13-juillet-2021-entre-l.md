@@ -12,7 +12,7 @@ entry_into_force: 2023-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/12/2023030536/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2023. - Loi portant assentiment à l'accord de coopération du 13 juillet 2021 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale portant coordination de la politique de transfert transfrontalier des déchets

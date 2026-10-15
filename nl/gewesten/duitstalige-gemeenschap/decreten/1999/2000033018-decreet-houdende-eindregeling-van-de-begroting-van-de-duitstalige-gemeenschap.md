@@ -13,7 +13,7 @@ entry_into_force: 2000-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/20/2000033018/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1999. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1998 (VERTALING).

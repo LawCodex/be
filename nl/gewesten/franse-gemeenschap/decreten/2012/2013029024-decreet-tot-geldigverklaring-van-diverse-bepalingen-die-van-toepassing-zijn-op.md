@@ -13,7 +13,7 @@ entry_into_force: 2013-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/13/2013029024/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2012. - Decreet tot geldigverklaring van diverse bepalingen die van toepassing zijn op het personeel van het onderwijs ingericht of gesubsidieerd door de Franse Gemeenschap

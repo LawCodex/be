@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/10/28/2010031520/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "De publicatie van deze ordonnantie moet als nietig beschouwd worden"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2010. - Ordonnantie van de Brusselse Hoofdstedelijke Regering die de milieu- en energiewetgeving in overeenstemming brengt met de regels van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt.

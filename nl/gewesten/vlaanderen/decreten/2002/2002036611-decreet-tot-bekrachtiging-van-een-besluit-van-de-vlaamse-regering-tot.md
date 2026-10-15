@@ -13,7 +13,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/06/2002036611/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2002. - Decreet tot bekrachtiging van een besluit van de Vlaamse regering tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking op de eindtermen van de tweede en de derde graad van het voltijds gewoon secundair onderwijs.

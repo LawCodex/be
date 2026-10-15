@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/10/19/1998002117/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 1998. - Wet tot wijziging van artikel 43 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966.

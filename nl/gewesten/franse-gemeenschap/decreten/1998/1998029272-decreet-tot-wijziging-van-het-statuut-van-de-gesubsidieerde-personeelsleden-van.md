@@ -13,7 +13,7 @@ entry_into_force: 1998-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/02/1998029272/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1998. - Decreet tot wijziging van het statuut van de gesubsidieerde personeelsleden van het gesubsidieerd onderwijs voor sociale promotie (VERTALING).

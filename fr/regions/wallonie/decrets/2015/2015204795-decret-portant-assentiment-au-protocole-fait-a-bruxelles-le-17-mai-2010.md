@@ -13,7 +13,7 @@ entry_into_force: 2015-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204795/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret portant assentiment au Protocole, fait à Bruxelles le 17 mai 2010, modifiant la Convention entre le Royaume de Belgique et la République du Rwanda tendant à éviter la double imposition et à prévenir la fraude et l'évasion fiscales en matière d'impôts sur le revenu et sur la fortune, signée à Kigali le 16 avril 2007

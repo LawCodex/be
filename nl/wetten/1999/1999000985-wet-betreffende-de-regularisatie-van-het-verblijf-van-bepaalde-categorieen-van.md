@@ -12,7 +12,7 @@ entry_into_force: 2000-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/22/1999000985/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1999. - Wet betreffende de regularisatie van het verblijf van bepaalde categorieën van vreemdelingen verblijvend op het grondgebied van het Rijk.

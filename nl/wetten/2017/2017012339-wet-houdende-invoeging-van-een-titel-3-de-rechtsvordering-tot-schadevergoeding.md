@@ -12,7 +12,7 @@ entry_into_force: 2017-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/06/2017012339/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2017. - Wet houdende invoeging van een Titel 3 " De rechtsvordering tot schadevergoeding wegens inbreuken op het mededingingsrecht " in Boek XVII van het Wetboek van economisch recht, houdende invoeging van definities eigen aan Boek XVII, Titel 3 in Boek I en houdende diverse wijzigingen van het Wetboek van economisch recht

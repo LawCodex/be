@@ -13,7 +13,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017030996/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet tot wijziging van het decreet van 10 april 2003 betreffende de werking van de adviesinstanties die werkzaam zijn binnen de culturele sector en van het besluit van de Regering van de Franse Gemeenschap van 23 juni 2006 tot bepaling van de opdrachten, de samenstelling en de belangrijkste aspecten van de werking van adviesinstanties die vallen onder het toepassingsgebied van het decreet van 10 april 2003 betreffende de werking van de adviesinstanties die werkzaam zijn binnen de culturele sector

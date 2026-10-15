@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/11/2004201173/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 20-12-2007 en tekstbijwerking tot 02-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2004. - Decreet betreffende de erkenning en de subsidiëring van de gewestelijke zendingen voor arbeidsbemiddeling (VERTALING)

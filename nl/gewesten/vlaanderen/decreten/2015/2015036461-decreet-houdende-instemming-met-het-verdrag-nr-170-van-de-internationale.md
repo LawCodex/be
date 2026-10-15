@@ -13,7 +13,7 @@ entry_into_force: 2015-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/13/2015036461/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2015. - Decreet houdende instemming met het Verdrag nr. 170 van de Internationale Arbeidsorganisatie betreffende de veiligheid bij het gebruik van chemische producten op het werk, aangenomen te Genève op 25 juni 1990

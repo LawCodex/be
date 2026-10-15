@@ -13,7 +13,7 @@ entry_into_force: 2020-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/01/2020204140/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 2020. - Décret relatif à la fin de la compensation entre les quantités d'électricité prélevées et injectées sur le réseau et à l'octroi de primes pour promouvoir l'utilisation rationnelle de l'énergie et la production d'électricité au moyen de sources d'énergie renouvelable

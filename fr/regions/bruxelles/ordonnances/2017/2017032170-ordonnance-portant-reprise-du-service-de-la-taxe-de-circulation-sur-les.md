@@ -13,7 +13,7 @@ entry_into_force: 2018-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032170/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance portant reprise du service de la taxe de circulation sur les véhicules automobiles et de la taxe de mise en circulation

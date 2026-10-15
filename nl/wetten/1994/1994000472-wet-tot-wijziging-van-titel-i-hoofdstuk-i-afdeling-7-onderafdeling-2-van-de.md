@@ -11,7 +11,7 @@ published: 1994-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/30/1994000472/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1994. - Wet tot wijziging van titel I, hoofdstuk I, afdeling 7, onderafdeling 2, van de nieuwe gemeentewet, wat de bezoldigingsregeling van de gemeentesecretaris betreft.

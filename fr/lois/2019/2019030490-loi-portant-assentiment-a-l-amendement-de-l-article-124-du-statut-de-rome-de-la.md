@@ -12,7 +12,7 @@ entry_into_force: 2019-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/19/2019030490/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2019. - Loi portant assentiment à l'Amendement de l'article 124 du Statut de Rome de la Cour pénale internationale, adopté à La Haye le 26 novembre 2015 à la onzième séance plénière de l'Assemblée des Etats parties au Statut de Rome

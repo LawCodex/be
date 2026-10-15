@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/21/2017014203/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 07-12-2017 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2017. - Wet over de infrastructuren voor de markten voor financiële instrumenten en houdende omzetting van Richtlijn 2014/65/EU

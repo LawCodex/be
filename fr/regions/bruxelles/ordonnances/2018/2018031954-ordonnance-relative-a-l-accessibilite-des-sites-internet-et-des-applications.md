@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/10/04/2018031954/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2024 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OCTOBRE 2018. - Ordonnance relative à l'accessibilité des sites internet et des applications mobiles des organismes publics régionaux et des communes

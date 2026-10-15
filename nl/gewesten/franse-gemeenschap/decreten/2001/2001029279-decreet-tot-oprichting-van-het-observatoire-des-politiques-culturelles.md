@@ -13,7 +13,7 @@ entry_into_force: 2001-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029279/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet tot oprichting van het "Observatoire des politiques culturelles", opgericht in afzonderlijk beheer (VERTALING).

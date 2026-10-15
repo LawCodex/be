@@ -13,7 +13,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/10/29/2020043468/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2020. - Ordonnance portant des mesures relatives à la taxe sur les établissements d'hébergement touristique prises en raison de la crise sanitaire du COVID-19

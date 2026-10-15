@@ -13,7 +13,7 @@ last_amended: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101053/justel"
 justel_note: "Consultation des versions antérieures à partir du 22-01-1985 et mise à jour au 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE - Deuxième partie : L'ORGANISATION JUDICIAIRE (article 58 à 555/16)(NOTE 1 : art. 259bis-15 modifiés avec effet à une date indéterminée par L 2014-04-04/44 , art. 2, modifié lui-même par L 2016-05-04/03 , art. 139)(NOTE 2 : art. 259bis-18 modifiés avec effet à une date indéterminée par L 2014-04-04/44 , art. 3)

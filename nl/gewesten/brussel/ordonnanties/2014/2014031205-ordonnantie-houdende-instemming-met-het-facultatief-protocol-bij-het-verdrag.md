@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/02/27/2014031205/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Ordonnantie houdende instemming met : het Facultatief Protocol bij het Verdrag inzake de rechten van het kind inzake een mededelingsprocedure, aangenomen in New York op 19 december 2011 en ondertekend in Genève op 28 februari 2012

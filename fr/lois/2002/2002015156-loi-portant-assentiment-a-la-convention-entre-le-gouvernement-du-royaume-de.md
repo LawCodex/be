@@ -12,7 +12,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/10/07/2002015156/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2002. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Bulgarie relative à la coopération policière, signée à Ostende le 24 juin 1998; et au Protocole, signé à Sofia le 27 novembre 2000, relatief à l'article 1er de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Bulgarie relative à la coopération policière, signée à Ostende, Belgique, le 24 juin 1998.

@@ -12,7 +12,7 @@ entry_into_force: 2024-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/22/2023048742/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Wet tot wijziging van de regelgeving inzake overheidsopdrachten teneinde de toegang van KMO's tot die opdrachten te bevorderen

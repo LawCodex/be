@@ -12,7 +12,7 @@ entry_into_force: 2003-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/27/2003003555/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2002. - Loi contenant le budget général des dépenses pour l'année budgétaire 2003. (Premier ajustement : L 2003-04-11/50; deuxième ajustement : L 2003-04-11/51; troisième ajustement : L 2003-12-22/64.)

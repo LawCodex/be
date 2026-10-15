@@ -13,7 +13,7 @@ last_amended: 2026-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/01/12/1973011250/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 17-05-1994 en tekstbijwerking tot 24-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 1973. - GECOORDINEERDE WETTEN OP DE RAAD VAN STATE.

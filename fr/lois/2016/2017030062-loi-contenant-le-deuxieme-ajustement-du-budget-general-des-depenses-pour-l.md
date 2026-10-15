@@ -12,7 +12,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017030062/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi contenant le deuxième ajustement du Budget général des Dépenses pour l'année budgétaire 2016

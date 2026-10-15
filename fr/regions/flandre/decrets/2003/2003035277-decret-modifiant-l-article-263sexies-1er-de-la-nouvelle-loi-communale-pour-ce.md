@@ -13,7 +13,7 @@ entry_into_force: 2003-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/21/2003035277/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2003. - Décret modifiant l'article 263sexies, § 1er, de la nouvelle loi communale, pour ce qui concerne la compétence d'expropriation des régies communales autonomes (TRADUCTION).

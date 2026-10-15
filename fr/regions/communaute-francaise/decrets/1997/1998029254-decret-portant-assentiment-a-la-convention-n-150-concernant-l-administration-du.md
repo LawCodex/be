@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/22/1998029254/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1997. - Décret portant assentiment à la convention n° 150 concernant l'administration du travail : rôle, fonctions et organisation, adoptée à Genève le 26 juin 1978 par la Conférence internationale du Travail lors de sa soixante-quatrième session.

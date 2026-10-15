@@ -13,7 +13,7 @@ entry_into_force: 2002-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035049/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret portant assentiment à l'instrument pour l'amendement de la Constitution de l'Organisation internationale du Travail, adopté par la Conférence internationale du Travail à sa quatre-vingt-cinquième session à Genève, le 19 juin 1997 (TRADUCTION).

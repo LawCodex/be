@@ -12,7 +12,7 @@ entry_into_force: 2015-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/14/2014009077/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2014. - Wet met betrekking tot de rechtspleging voor het Hof van Cassatie in strafzaken

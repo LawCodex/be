@@ -13,7 +13,7 @@ entry_into_force: 2023-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/06/2023010023/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2022. - Decreet tot wijziging van de Jachtwet van 28 februari 1882

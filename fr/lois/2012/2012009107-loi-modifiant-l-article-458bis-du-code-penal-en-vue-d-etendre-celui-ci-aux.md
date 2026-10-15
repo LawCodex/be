@@ -12,7 +12,7 @@ entry_into_force: 2013-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/23/2012009107/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2012. - Loi modifiant l'article 458bis du Code pénal en vue d'étendre celui-ci aux délits de violence domestique

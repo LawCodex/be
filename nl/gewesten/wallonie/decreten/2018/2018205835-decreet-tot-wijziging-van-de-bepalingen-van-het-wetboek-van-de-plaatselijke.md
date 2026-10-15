@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/04/2018205835/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OKTOBER 2018. - Decreet tot wijziging van de bepalingen van het Wetboek van de Plaatselijke Democratie en de Decentralisatie betreffende de subsidies voor sommige investeringen van openbaar nut

@@ -13,7 +13,7 @@ entry_into_force: 2006-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/29/2007033018/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2007. - Decreet houdende wijziging van het decreet van 19 december 1988 houdende instelling van de " Prijs van de Raad van de Duitstalige Gemeenschap " (VERTALING).

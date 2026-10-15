@@ -10,7 +10,7 @@ date: 2012-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012000567/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot wijziging van de wet van 10 april 1990 tot regeling van de private en de bijzondere veiligheid en tot opheffing van het koninklijk besluit van 4 april 2006 betreffende de afbakening van de plaatsen die deel uitmaken van de infrastructuur, uitgebaat door de openbare vervoersmaatschappijen, waarop de bepalingen van hoofdstuk IIIbis van de wet van 10 april 1990 tot regeling van de private en bijzondere veiligheid van toepassing zijn met het oog op het verstrekken van de veiligheid in het openbaar vervoer

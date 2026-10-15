@@ -13,7 +13,7 @@ entry_into_force: 2021-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/18/2021022502/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2021. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 40 van 10 december 2020 betreffende de uitzonderlijke subsidiëring van de inrichtende machten van het gewoon en gespecialiseerd secundair onderwijs met als doel de aankoop van de computerapparatuur in het kader van de COVID-19-crisis

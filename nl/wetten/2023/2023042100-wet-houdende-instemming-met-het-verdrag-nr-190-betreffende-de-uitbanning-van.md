@@ -11,7 +11,7 @@ published: 2023-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/16/2023042100/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 2023. - Wet houdende instemming met het Verdrag nr. 190 betreffende de uitbanning van geweld en intimidatie in de wereld van werk, aangenomen te Genève op 21 juni 2019 door de Internationale Arbeidsconferentie tijdens haar 108ste zitting

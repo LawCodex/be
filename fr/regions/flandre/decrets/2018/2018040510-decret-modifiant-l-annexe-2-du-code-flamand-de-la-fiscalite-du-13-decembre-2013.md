@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/13/2018040510/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2018. - Décret modifiant l'annexe 2 du Code flamand de la Fiscalité du 13 décembre 2013 en ce qui concerne le prélèvement kilométrique

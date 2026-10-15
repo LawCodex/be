@@ -12,7 +12,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/25/2014003196/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Loi établissant les mécanismes d'une politique macroprudentielle et précisant les missions spécifiques dévolues à la Banque nationale de Belgique dans le cadre de sa mission visant à contribuer à la stabilité du système financier

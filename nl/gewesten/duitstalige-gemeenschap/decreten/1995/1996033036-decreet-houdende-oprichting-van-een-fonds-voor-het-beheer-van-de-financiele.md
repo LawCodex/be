@@ -17,7 +17,7 @@ department: "Duitstalige Gemeenschap"
 justel_notes:
   - "Opschrift vervangt bij <DDG 2016-02-22/24 , art. 64, 004; Inwerkingtreding : 14-04-2016>"
   - "Raadpleging van vroegere versies vanaf 04-06-1996 en tekstbijwerking tot 13-01-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1995. - Decreet houdende oprichting van een [Fonds voor het beheer van de financiële schulden van de Duitstalige Gemeenschap] (VERTALING). -

@@ -12,7 +12,7 @@ entry_into_force: 2018-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/04/15/2018040038/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2018. - Wet tot wijziging van artikel 375 van het Wetboek van de inkomstenbelastingen 1992

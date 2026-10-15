@@ -11,7 +11,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/31/2023044749/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2023. - Wet houdende de productnormen voor het integreren van energie uit hernieuwbare bronnen in fossiele motorbrandstoffen bestemd voor de vervoerssector en tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt en tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen

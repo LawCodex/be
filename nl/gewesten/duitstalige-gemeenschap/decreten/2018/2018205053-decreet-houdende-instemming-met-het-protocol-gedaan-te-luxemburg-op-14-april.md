@@ -13,7 +13,7 @@ entry_into_force: 2018-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/17/2018205053/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2018. - Decreet houdende instemming met het Protocol, gedaan te Luxemburg op 14 april 2014, tot wijziging van de Overeenkomst tussen België en Ierland tot het vermijden van dubbele belasting en van het ontgaan van belasting over belastingen naar het inkomen, ondertekend te Brussel op 24 juni 1970

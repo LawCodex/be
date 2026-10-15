@@ -11,7 +11,7 @@ published: 1901-08-25
 entry_into_force: 1901-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1901/08/22/1901082250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AOUT 1901. - Loi modifiant l'article 13 du décret du 16 décembre 1811, relatif à la pêche des moules.

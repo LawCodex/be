@@ -12,7 +12,7 @@ entry_into_force: 2023-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/05/2023205834/justel"
 department: "Emploi, Travail et Concertation sociale - Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBRE 2023. - Loi portant des dispositions diverses relatives au travail

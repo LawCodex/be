@@ -13,7 +13,7 @@ entry_into_force: 2021-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/19/2021022580/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2021. - Décret modifiant l'article 37 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile, en ce qui concerne l'encadrement en milieu fermé de longue durée

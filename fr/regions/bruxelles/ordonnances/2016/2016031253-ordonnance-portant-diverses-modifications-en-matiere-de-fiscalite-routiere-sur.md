@@ -13,7 +13,7 @@ entry_into_force: 2015-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/03/24/2016031253/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2016. - Ordonnance portant diverses modifications en matière de fiscalité routière sur les poids lourds

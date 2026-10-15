@@ -13,7 +13,7 @@ entry_into_force: 2021-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/24/2021203349/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2021. - Decreet tot wijziging van het decreet van 3 september 2020 tot vaststelling van de modaliteiten van het recht voor de indiener van een verzoekschrift om te worden gehoord voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

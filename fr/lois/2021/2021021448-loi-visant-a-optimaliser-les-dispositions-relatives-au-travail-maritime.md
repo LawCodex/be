@@ -12,7 +12,7 @@ entry_into_force: 2021-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/20/2021021448/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2021. - Loi visant à optimaliser les dispositions relatives au travail maritime

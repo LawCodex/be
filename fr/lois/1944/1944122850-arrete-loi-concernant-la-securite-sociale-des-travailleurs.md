@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1944/12/28/1944122850/justel"
 justel_notes:
   - "art. 7,§1,L3 modifié dans le futur par DCFL 2017-12-22/47 , art. 12, 065; En vigueur : 01-07-2023"
   - "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 09-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1944. - Arrêté-loi concernant la sécurité sociale des travailleurs.

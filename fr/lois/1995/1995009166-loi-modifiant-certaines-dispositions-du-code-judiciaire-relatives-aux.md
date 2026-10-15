@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/01/17/1995009166/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 1995. - Loi modifiant certaines dispositions du Code judiciaire relatives aux présentations ainsi que l'article 64 de la loi provinciale.

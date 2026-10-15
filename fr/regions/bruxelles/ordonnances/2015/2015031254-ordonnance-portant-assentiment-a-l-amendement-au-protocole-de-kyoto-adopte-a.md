@@ -13,7 +13,7 @@ entry_into_force: 2015-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/04/23/2015031254/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2015. - Ordonnance portant assentiment à l'amendement au Protocole de Kyoto adopté à Doha le 8 décembre 2012

@@ -11,7 +11,7 @@ published: 1994-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/10/1994009323/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1994. - Wet houdende regeling van een procedure voor de bemiddeling in strafzaken.

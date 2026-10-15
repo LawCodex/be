@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206612/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met het Verdrag nr. 170 van de Internationale Arbeidsconferentie betreffende de veiligheid bij het gebruik van chemische producten op het werk, aangenomen te Genève op 25 juni 1990

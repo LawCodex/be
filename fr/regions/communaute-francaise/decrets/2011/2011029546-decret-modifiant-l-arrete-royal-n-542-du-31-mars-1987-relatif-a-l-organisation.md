@@ -13,7 +13,7 @@ entry_into_force: 2011-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/10/20/2011029546/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2011. - Décret modifiant l'arrêté royal n° 542 du 31 mars 1987 relatif à l'organisation, le fonctionnement et la gestion des hôpitaux universitaires de l'Etat à Gand et à Liège

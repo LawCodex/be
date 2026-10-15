@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/21/2002003342/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2002. - Loi modifiant l'article 25 de la loi du 10 août 2001 portant réforme de l'impôt des personnes physiques et les articles 136, 140, 141 et 178, § 3, du Code des impôts sur les revenus 1992.

@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007029132/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2007. - Décret modifiant le décret du 12 mai 2004 fixant les conditions d'octroi de subventions pour l'organisation d'activités sportives de quartier.

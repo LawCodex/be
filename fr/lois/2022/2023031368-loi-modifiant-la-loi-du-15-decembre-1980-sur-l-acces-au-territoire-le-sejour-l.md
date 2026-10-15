@@ -12,7 +12,7 @@ entry_into_force: 2024-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/23/2023031368/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne la détermination du modèle de certificat médical devant être utilisé obligatoirement lors de l'introduction d'une demande d'autorisation de séjour sur la base de l'article 9ter

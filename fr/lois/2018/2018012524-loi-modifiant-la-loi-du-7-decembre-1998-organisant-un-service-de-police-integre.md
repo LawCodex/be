@@ -12,7 +12,7 @@ entry_into_force: 2018-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/21/2018012524/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2018. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, en ce qui concerne l'élection du conseil de police

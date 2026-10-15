@@ -13,7 +13,7 @@ entry_into_force: 2012-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/16/2012035000/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2011. - Décret portant assentiment à l'accord de stabilisation et d'association entre les Communautés européennes et leurs états membres, d'une part, et la République de Serbie, d'autre part, et l'acte final, signé à Luxembourg le 29 avril 2008

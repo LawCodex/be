@@ -11,7 +11,7 @@ date: 1997-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/03/17/1997029176/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1997. - Decreet houdende wijziging van het decreet van 24 december 1990 tot oprichting van een Commissie voor toezicht op de wetgeving betreffende de Franse taal (VERTALING).

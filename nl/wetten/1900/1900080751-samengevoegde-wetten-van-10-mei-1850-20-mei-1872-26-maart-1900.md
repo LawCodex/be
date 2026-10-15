@@ -11,7 +11,7 @@ published: 1900-08-18
 entry_into_force: 1900-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1900/08/07/1900080751/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AUGUSTUS 1900. - Samengevoegde wetten van 10 mei 1850, 20 mei 1872, 26 maart 1900.

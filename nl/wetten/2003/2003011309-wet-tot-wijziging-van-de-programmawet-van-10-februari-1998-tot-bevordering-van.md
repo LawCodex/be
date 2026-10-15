@@ -12,7 +12,7 @@ entry_into_force: 2003-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/11/2003011309/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2003. - Wet tot wijziging van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap.

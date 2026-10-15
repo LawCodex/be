@@ -12,7 +12,7 @@ entry_into_force: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/12/2026201717/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2026. - Loi modifiant la loi du 20 juillet 1991 portant des dispositions sociales et diverses

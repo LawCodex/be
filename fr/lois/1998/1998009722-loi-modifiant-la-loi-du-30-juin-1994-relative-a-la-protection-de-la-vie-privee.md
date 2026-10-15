@@ -12,7 +12,7 @@ entry_into_force: 1998-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/10/1998009722/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1998. - Loi modifiant la loi du 30 juin 1994 relative à la protection de la vie privée contre les écoutes, la prise de connaissance et l'enregistrement de communications et de télécommunications privées.

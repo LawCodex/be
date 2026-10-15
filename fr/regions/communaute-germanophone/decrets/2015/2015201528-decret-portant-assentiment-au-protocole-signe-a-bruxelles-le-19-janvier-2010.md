@@ -13,7 +13,7 @@ entry_into_force: 2015-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/02/2015201528/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2015. - Décret portant assentiment au Protocole signé à Bruxelles le 19 janvier 2010 modifiant la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et le protocole, signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle signée à Bruxelles le 23 juin 1993

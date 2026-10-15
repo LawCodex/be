@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014003229/justel"
 department: "Economie, KMO, Middenstand en Energie - Justitie - Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-2014 en tekstbijwerking tot 04-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet betreffende de alternatieve instellingen voor collectieve belegging en hun beheerders

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/28/2019041011/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2019 et mise à jour au 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2019. - Décret sur la nouvelle gouvernance culturelle

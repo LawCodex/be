@@ -13,7 +13,7 @@ entry_into_force: 2015-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/01/29/2015029058/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2015. - Décret portant assentiment à l'accord de coopération entre la Communauté française, la Communauté flamande et la Communauté germanophone relatif à la gestion de la surveillance électronique

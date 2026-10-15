@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036448/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-02-2005 et mise à jour au 26-03-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret relatif au sport scolaire (TRADUCTION).

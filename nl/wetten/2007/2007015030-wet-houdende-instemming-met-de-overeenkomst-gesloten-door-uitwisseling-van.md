@@ -12,7 +12,7 @@ entry_into_force: 2007-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/08/2007015030/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2007. - Wet houdende instemming met de Overeenkomst, gesloten door uitwisseling van brieven te Den Haag op 9 juni 2005, tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Regering van de Republiek Albanië inzake de afschaffing van de visumplicht met betrekking tot diplomatieke paspoorten.

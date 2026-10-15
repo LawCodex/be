@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1964/07/01/1964070106/justel"
 justel_notes:
   - "Loi modifiant la loi du 09-04-1930 portant le même intitulé voir : 1930-04-09/30 "
   - "Consultation des versions antérieures à partir du 09-08-1990 et mise à jour au 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 1964. - Loi de défense sociale à l'égard des anormaux et des délinquants d'habitude

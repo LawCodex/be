@@ -13,7 +13,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/19/2009031157/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2009. - Ordonnance modifiant l'ordonnance du 17 juillet 2003 portant le Code bruxellois du logement

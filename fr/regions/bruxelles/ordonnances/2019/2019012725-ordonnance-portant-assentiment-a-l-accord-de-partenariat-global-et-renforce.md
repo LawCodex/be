@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012725/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance portant assentiment à : l'Accord de partenariat global et renforcé entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d'une part, et la République d'Arménie, d'autre part, signé à Bruxelles le 24 novembre 2017

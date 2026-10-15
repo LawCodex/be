@@ -13,7 +13,7 @@ entry_into_force: 2003-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003027572/justel"
 department: "Waalse Gewest - Economie, KMO, Middenstand en Energie - Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet houdende instemming met het samenwerkingsakkoord betreffende de uitvoering en financiering van de bodemsanering van tankstations (VERTALING).

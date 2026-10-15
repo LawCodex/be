@@ -13,7 +13,7 @@ entry_into_force: 2000-11-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/11/08/2000027517/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2000. - Décret modifiant le décret-programme du 16 décembre 1998 portant diverses mesures en matière d'impôts, de taxes, d'épuration des eaux usées et de pouvoirs locaux.

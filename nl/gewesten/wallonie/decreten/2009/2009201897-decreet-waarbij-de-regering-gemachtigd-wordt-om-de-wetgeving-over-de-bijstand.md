@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009201897/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-2009 en tekstbijwerking tot 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet waarbij de Regering gemachtigd wordt om de wetgeving over de bijstand aan personen en de gezondheid te codificeren

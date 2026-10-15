@@ -12,7 +12,7 @@ entry_into_force: 2005-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/26/2005015068/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2005. - Loi portant assentiment à la Convention internationale pour la répression des attentats terroristes à l'explosif, faite à New York le 15 décembre 1997.

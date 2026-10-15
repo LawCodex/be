@@ -13,7 +13,7 @@ entry_into_force: 2024-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/15/2024000259/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2023. - Décret portant création de la société anonyme de droit public Waterunie Operator

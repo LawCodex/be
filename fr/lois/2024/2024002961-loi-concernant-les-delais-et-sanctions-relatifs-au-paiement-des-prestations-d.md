@@ -12,7 +12,7 @@ entry_into_force: 2024-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/17/2024002961/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2024. - Loi concernant les délais et sanctions relatifs au paiement des prestations d'assurance

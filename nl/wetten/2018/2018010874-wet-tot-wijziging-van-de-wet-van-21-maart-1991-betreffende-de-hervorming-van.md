@@ -12,7 +12,7 @@ entry_into_force: 2018-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/01/26/2018010874/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2018. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven, wat de bestuurlijke transparantie bij de dochterondernemingen van NMBS en Infrabel betreft

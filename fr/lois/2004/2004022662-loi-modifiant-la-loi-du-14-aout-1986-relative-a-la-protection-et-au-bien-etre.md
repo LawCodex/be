@@ -12,7 +12,7 @@ entry_into_force: 2004-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/23/2004022662/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2004. - Loi modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux, en ce qui concerne l'agrément d'établissements commerciaux pour animaux.

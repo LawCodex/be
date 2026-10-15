@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/23/2023048284/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2023 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Décret modifiant le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes

@@ -13,7 +13,7 @@ entry_into_force: 2002-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029437/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Décret modifiant le décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en écoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants).

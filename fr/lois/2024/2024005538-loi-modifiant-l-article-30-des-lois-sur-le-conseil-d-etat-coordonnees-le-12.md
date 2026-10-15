@@ -12,7 +12,7 @@ entry_into_force: 2024-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/18/2024005538/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2024. - Loi modifiant l'article 30 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973

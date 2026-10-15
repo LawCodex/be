@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/22/2018011359/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2018. - Decreet tot wijziging van het decreet van 20 juli 2000 tot bepaling van de voorwaarden voor de erkenning en de subsidiëring van jeugdhuizen, van ontmoetings- en accommodatiecentra, van jongeren informatiecentra en van hun federaties

@@ -12,7 +12,7 @@ entry_into_force: 2025-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/04/06/2025002769/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2025. - Loi portant ajustement de la loi de finances pour l'année budgétaire 2025 du 20 décembre 2024

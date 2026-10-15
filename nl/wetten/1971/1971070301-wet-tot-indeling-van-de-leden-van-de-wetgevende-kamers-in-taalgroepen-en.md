@@ -13,7 +13,7 @@ last_amended: 2012-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/03/1971070301/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-01-2003 en tekstbijwerking tot 22-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 1971. - Wet tot indeling van de leden van de wetgevende Kamers in taalgroepen en houdende diverse bepalingen betreffende cultuurraden voor de Nederlandse Cultuurgemeenschap en voor de Franse cultuurgemeenschap.

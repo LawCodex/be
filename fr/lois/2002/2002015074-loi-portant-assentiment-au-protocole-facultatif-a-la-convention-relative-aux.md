@@ -12,7 +12,7 @@ entry_into_force: 2002-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/29/2002015074/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2002. - Loi portant assentiment au Protocole facultatif à la Convention relative aux droits de l'enfant, concernant l'implication d'enfants dans les conflits armés, adopté à New York le 25 mai 2000.

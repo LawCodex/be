@@ -12,7 +12,7 @@ entry_into_force: 2025-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/16/2025005421/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2025. - Wet tot invoering van het EU-noodreisdocument zoals bedoeld in de Richtlijn (EU) 2019/997 van de Raad van 18 juni 2019 tot vaststelling van een EU-noodreisdocument en tot intrekking van Besluit 96/409/GBVB

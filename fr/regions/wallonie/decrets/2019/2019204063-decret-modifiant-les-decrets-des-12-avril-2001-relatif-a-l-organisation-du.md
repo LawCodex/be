@@ -13,7 +13,7 @@ entry_into_force: 2019-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204063/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant les décrets des 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, du 19 décembre 2002 relatif à l'organisation du marché régional du gaz et du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseau de distribution de gaz et d'électricité en vue de favoriser le développement des communautés d'énergie renouvelable

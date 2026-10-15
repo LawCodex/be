@@ -13,7 +13,7 @@ entry_into_force: 2009-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029292/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret portant assentiment à l'Accord de coopération entre, d'une part, la République du Burundi et, d'autre part, la Communauté française de Belgique et la Région wallonne, signé à Bujumbura le 31 janvier 2006

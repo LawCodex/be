@@ -12,7 +12,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/23/2015012198/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AUGUSTUS 2015. - Wet tot wijziging van de wet van 12 april 1965 betreffende de bescherming van het loon der werknemers wat de uitbetaling van het loon betreft

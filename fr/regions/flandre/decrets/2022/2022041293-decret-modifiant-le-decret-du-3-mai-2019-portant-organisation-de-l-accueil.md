@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/06/2022041293/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2022. - Décret modifiant le décret du 3 mai 2019 portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires, en ce qui concerne l'échelonnement des paiements et les dispositions transitoires

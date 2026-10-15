@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/25/2016003453/justel"
 department: "Begroting en Beheerscontrole"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2016 en tekstbijwerking tot 24-07-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Wet houdende de Middelenbegroting voor het begrotingsjaar 2017

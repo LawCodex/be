@@ -12,7 +12,7 @@ entry_into_force: 2023-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/26/2023047931/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2023. - Loi portant confirmation d'arrêtés royaux relatifs aux cotisations obligatoires au Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux

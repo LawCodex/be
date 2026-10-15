@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/19/2019031226/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2019 et mise à jour au 16-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2019. - Décret contenant le budget des recettes de la Région wallonne pour l'année budgétaire 2020

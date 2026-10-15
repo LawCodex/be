@@ -12,7 +12,7 @@ entry_into_force: 2012-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012000567/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi modifiant la loi du 10 avril 1990 réglementant la sécurité privée et particulière et abrogeant l'arrêté royal du 4 avril 2006 relatif à la délimitation des lieux, faisant partie de l'infrastructure exploitée par les sociétés publiques de transports en commun, auxquels s'appliquent les dispositions visées au chapitre IIIbis de la loi du 10 avril 1990 réglementant la sécurité privée et particulière, en vue de renforcer la sécurité dans les transports en commun

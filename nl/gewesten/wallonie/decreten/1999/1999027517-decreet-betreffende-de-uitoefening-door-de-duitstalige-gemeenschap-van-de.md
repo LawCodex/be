@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027517/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-1999 en tekstbijwerking tot 29-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet betreffende de uitoefening door de Duitstalige Gemeenschap van de bevoegdheden van het Waalse Gewest inzake Tewerkstelling en Opgravingen (VERTALING)

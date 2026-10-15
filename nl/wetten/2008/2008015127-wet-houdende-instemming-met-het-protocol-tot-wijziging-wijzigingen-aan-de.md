@@ -12,7 +12,7 @@ entry_into_force: 2011-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/23/2008015127/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2008. - Wet houdende instemming met het Protocol tot wijziging (wijzigingen aan de Conventie voor het Europees Centrum voor weersvoorspellingen op middellange termijn, alsook aan het Protocol over de voorrechten en immuniteiten van het Europees Centrum voor weersvoorspellingen op middellange termijn, ondertekend te Brussel op 11 oktober 1973), aangenomen op 22 april 2005

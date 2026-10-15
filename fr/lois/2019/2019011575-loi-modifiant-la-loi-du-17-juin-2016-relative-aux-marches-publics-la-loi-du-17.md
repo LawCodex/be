@@ -12,7 +12,7 @@ entry_into_force: 2019-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/07/2019011575/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2019. - Loi modifiant la loi du 17 juin 2016 relative aux marchés publics, la loi du 17 juin 2016 relative aux contrats de concession, la loi du 13 août 2011 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité et modifiant la loi du 4 mai 2016 relative à la réutilisation des informations du secteur public

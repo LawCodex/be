@@ -12,7 +12,7 @@ entry_into_force: 2000-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/18/2000007061/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2000. - Loi abrogeant les articles 10 et 19 de l'arrêté royal du 24 juillet 1997 instaurant le régime volontaire de travail de la semaine de quatre jours et le régime du départ anticipé à mi-temps pour certains militaires et modifiant le statut des militaires en vue d'instaurer le retrait temporaire d'emploi par interruption de carrière, en application de l'article 3, § 1er, 1°, de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne.

@@ -13,7 +13,7 @@ last_amended: 2024-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032154/justel"
 justel_note: "Consultation des versions antérieures à partir du 15-07-1994 et mise à jour au 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1804. - [ANCIEN] CODE CIVIL. - LIVRE III : Manières dont on acquiert la propriété - TITRE VI à XIII (art. 1582 - 2010) (Intitulé modifié par L 2019-04-13/28 , art. 2, 026; En vigueur : 01-11-2020)

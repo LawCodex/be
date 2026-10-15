@@ -12,7 +12,7 @@ entry_into_force: 1998-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/21/1998015033/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1997. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek India tot het vermijden van dubbele belasting en tot het voorkomen van ontduiking van de belasting naar het inkomen, en het Protocol, ondertekend te Brussel 26 april 1993.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020020347/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 17-03-2020 et mise à jour au 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2020. - Loi portant le livre 3 " Les biens " du Code civil

@@ -12,7 +12,7 @@ entry_into_force: 1999-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/13/1999000523/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1999. - Loi modifiant la loi du 18 septembre 1986 instituant le congé politique pour les membres du personnel des services publics.

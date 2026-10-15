@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/16/1994007088/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2006 et mise à jour au 03-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1994. - Loi relative au statut et aux rétributions du personnel enseignant [...] de l'Ecole royale militaire &lt;L 2003-03-27/49, art. 113, En vigueur : 14-07-2003&gt;.

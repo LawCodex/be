@@ -12,7 +12,7 @@ entry_into_force: 2014-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014011341/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt wat betreft de procedure van offerteaanvraag voor de bouw van nieuwe installaties voor elektriciteitsproductie en de financiering van maatregelen betreffende de productie van elektriciteit en tot wijziging van de organieke wet van 27 december 1990 houdende oprichting van begrotingsfondsen

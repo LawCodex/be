@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/10/2006011270/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-06-2006 en tekstbijwerking tot 05-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2006. - Wet tot oprichting van een [Belgische Mededingingsautoriteit]. &lt;W 2013-04-03/18 , art. 20, L1, 002; Inwerkingtreding : 06-09-2013 (KB 2013-08-30/14 , art. 1)&gt;

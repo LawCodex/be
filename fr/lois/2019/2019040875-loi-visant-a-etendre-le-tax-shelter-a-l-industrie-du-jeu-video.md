@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/29/2019040875/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2019 et mise à jour au 15-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Loi visant à étendre le tax shelter à l'industrie du jeu vidéo

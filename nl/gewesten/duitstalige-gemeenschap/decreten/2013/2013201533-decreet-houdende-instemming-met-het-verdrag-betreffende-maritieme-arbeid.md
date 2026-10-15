@@ -13,7 +13,7 @@ entry_into_force: 2013-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/25/2013201533/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2013. - Decreet houdende instemming met het Verdrag betreffende maritieme arbeid, aangenomen in Genève op 23 februari 2006

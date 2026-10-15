@@ -11,7 +11,7 @@ published: 1993-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/09/28/1993A92850/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 1993. - Codex over het welzijn op het werk (Officieuse coordinatie)

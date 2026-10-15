@@ -9,7 +9,7 @@ language: nl
 date: 1971-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/09/1971070903/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1971. - WET houdende wijziging van de wet van 2 april 1965 tot wijziging van de wet van 27 november 1891 op de openbare onderstand

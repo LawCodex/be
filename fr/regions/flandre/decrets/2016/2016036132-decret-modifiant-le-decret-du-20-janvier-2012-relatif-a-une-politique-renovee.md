@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/24/2016036132/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2016. - Décret modifiant le décret du 20 janvier 2012 relatif à une politique rénovée des droits de l'enfant et de la jeunesse

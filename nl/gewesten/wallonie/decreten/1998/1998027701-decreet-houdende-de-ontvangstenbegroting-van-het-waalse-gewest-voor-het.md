@@ -13,7 +13,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/16/1998027701/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1998. - Decreet houdende de ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 1999 (VERTALING).

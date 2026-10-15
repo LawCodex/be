@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019030737/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret relatif à la mise en oeuvre de l'année complémentaire organisée au quatrième degré de l'enseignement professionnel secondaire complémentaire, section soins infirmiers et modalités de recours

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/21/2022202206/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-2022 en tekstbijwerking tot 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2022. - Decreet tot vaststelling van verschillende instrumenten voor informatie- en klachtenbeheer in de Duitstalige Gemeenschap

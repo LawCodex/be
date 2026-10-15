@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/23/2025007044/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2025. - Décret portant la première modification du décret du 12 décembre 2024 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2025

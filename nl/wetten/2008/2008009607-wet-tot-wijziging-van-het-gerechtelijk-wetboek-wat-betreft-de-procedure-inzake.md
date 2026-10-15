@@ -12,7 +12,7 @@ entry_into_force: 2008-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/18/2008009607/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2008. - Wet tot wijziging van het Gerechtelijk Wetboek wat betreft de procedure inzake bepaalde huurgeschillen. &lt;vervangen bij erratum gepubliceerd in B.S. 11-08-2008, p. 41585&gt;

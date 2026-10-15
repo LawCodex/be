@@ -11,7 +11,7 @@ published: 1976-05-21
 entry_into_force: 1976-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/02/02/1971020250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 1971. \_ Loi portant approbation du Protocole additionnel à la Convention Benelux du 24 mai 1966, relative à l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs, signé à Bruxelles le 26 septembre 1968.

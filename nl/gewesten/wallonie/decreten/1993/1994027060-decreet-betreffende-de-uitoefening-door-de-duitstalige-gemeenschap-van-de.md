@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/23/1994027060/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-1999 en tekstbijwerking tot 12-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1993. - Decreet betreffende de uitoefening door de Duitstalige Gemeenschap van de bevoegdheden van het Waalse Gewest in de aangelegenheid " Monumenten en Landschappen ". (Vertaling)

@@ -11,7 +11,7 @@ entry_into_force: 2012-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/11/12/2012011448/justel"
 department: "Duurzame Ontwikkeling"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2012. - Wet tot wijziging van artikel 12 van de wet van de wijziging van 5 mei 1997 betreffende de coördinatie van het federale beleid inzake duurzame ontwikkeling

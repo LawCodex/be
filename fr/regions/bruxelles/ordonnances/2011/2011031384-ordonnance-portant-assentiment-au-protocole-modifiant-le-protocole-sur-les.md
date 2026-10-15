@@ -13,7 +13,7 @@ entry_into_force: 2011-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/07/20/2011031384/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Ordonnance portant assentiment au Protocole modifiant le Protocole sur les dispositions transitoires annexé au Traité sur l'Union européenne, au Traité sur le fonctionnement de l'Union européenne et au Traité instituant la Communauté européenne de l'Energie atomique, fait à Bruxelles le 23 juin 2010

@@ -12,7 +12,7 @@ entry_into_force: 2003-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/03/2003009443/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2003. - Wet tot wijziging van het Wetboek van strafvordering en de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken wat betreft de vertalingen van de mondelinge verklaringen.

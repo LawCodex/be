@@ -12,7 +12,7 @@ published: 2004-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/26/2004035747/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2004. - Décret portant des mesures de redressement au profit des courses de chevaux flamandes, autorisant le Gouvernement flamand à contribuer à la création d'une association sans but lucratif "Vlaamse Federatie voor Paardenwedrennen" (Fédération flamande des Courses de Chevaux) et modifiant et abrogeant certaines dispositions du Code des taxes assimilées aux impôts sur les revenus (TRADUCTION) (cité comme : Décret sur les courses de chevaux)

@@ -13,7 +13,7 @@ entry_into_force: 2008-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/21/2008031018/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2007. - Decreet houdende goedkeuring van het akkoord tot wijziging van het partnerschapsakkoord tussen de leden van de groep van landen uit Afrika, het Caraïbisch Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend in Cotonou op 23 juni 2000, gedaan te Luxemburg op 25 juni 2005 (VERTALING).

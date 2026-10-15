@@ -13,7 +13,7 @@ entry_into_force: 2026-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/19/2026004818/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2026. - Décret modifiant plusieurs décrets relatifs au domaine politique de l'Enseignement et de la Formation, en ce qui concerne les allocations d'études dans l'enseignement supérieur ainsi que les crèches et l'accueil périscolaire dans la région bilingue de Bruxelles-Capitale

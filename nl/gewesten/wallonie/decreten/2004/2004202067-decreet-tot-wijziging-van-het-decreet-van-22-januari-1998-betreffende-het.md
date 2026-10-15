@@ -12,7 +12,7 @@ published: 2004-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/29/2004202067/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2004. - Decreet tot wijziging van het decreet van 22 januari 1998 betreffende het statuut van het personeel van sommige instellingen van openbaar nut die onder het Waalse Gewest ressorteren en betreffende de minimale gemeenschappelijke principes die op deze laatsten van toepassing zijn (VERTALING).

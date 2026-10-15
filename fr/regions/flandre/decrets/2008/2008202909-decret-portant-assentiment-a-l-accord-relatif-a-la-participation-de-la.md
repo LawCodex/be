@@ -13,7 +13,7 @@ entry_into_force: 2008-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008202909/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret portant assentiment à l'Accord relatif à la participation de la République de Bulgarie et de la Roumanie à l'Espace économique européen, et à l'Acte final, signés à Bruxelles, le 25 juillet 2007 (TRADUCTION).

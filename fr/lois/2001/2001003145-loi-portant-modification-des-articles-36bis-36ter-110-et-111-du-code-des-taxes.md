@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/19/2001003145/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2001. - Loi portant modification des articles 36bis, 36ter, 110 et 111 du Code des taxes assimilées aux impôts sur les revenus et introduisant un article 36quater dans le même code.

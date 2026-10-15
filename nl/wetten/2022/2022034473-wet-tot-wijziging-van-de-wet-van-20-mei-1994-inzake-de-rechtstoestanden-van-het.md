@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/24/2022034473/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2022. - Wet tot wijziging van de wet van 20 mei 1994 inzake de rechtstoestanden van het personeel van Defensie

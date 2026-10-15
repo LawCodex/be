@@ -12,7 +12,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/18/2010003305/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2010. - Loi instaurant une exemption de la taxe annuelle sur les opérations d'assurance au bénéfice des assurances soins de santé offrant un niveau de protection élevé

@@ -12,7 +12,7 @@ published: 1999-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029348/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende toestemming in de Kaderovereenkomst voor samenwerking tussen de Regering van de Franse Gemeenschap en de Regering van het Waalse Gewest van België, enerzijds, en de Regering van de Republiek Haïti, anderzijds, opgemaakt te Brussel op 30 september 1997 (VERTALING).

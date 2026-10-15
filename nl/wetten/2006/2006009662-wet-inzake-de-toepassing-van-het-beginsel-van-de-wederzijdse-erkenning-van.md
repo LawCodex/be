@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/05/2006009662/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-09-2006 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 2006. - Wet inzake de toepassing van het beginsel van de wederzijdse erkenning van rechterlijke beslissingen in strafzaken tussen de lidstaten van de Europese Unie

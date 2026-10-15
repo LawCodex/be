@@ -12,7 +12,7 @@ entry_into_force: 2019-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/17/2019013211/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2019. - Loi portant assentiment au Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Macédoine du Nord, signé à Bruxelles le 6 février 2019

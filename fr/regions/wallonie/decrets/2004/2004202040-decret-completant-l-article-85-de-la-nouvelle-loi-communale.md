@@ -13,7 +13,7 @@ entry_into_force: 2004-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004202040/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret complétant l'article 85 de la nouvelle loi communale

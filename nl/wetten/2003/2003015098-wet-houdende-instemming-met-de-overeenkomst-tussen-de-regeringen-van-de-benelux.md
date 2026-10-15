@@ -10,7 +10,7 @@ date: 2003-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015098/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Regering van de Republiek Hongarije betreffende de overname van onregelmatig verblijvende personen, en het Uitvoeringsprotocol met de Bijlagen 1, 2 en 3, ondertekend te Luxemburg op 23 januari 2002.HI:??2,Zitting 2002-2003. Senaat. Documenten. Ontwerp van wet ingediend op 23 januari 2003, nr. 2-1436/1. Verslag, nr. 2-1436/2. Parlementaire Handelingen. Bespreking, vergadering van 13 maart 2003. Stemming, vergadering van 13 maart 2003. Kamer Documenten Ontwerp overgezonden door de Senaat, nr. 50-2374/1. Tekst aangenomen in plenaire vergadering en aan de Koning te bekrachtiging voorgelegd, nr. 50-2374/2. Parlementaire Handelingen Bespreking, vergadering van 3 april 2003. Stemming, vergadering van 3 april 2003.

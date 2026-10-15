@@ -13,7 +13,7 @@ entry_into_force: 2020-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/03/20/2020020772/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2020. - Décret portant assentiment à l'accord entre le gouvernement du Royaume de Belgique et le gouvernement de la République démocratique du Congo relatif au transport aérien, fait à Kinshasa le 2 février 2013

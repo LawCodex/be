@@ -13,7 +13,7 @@ entry_into_force: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203371/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende uitvoering van de Verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking

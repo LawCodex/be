@@ -13,7 +13,7 @@ entry_into_force: 2021-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/15/2021022316/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2021. - Décret portant assentiment à l'accord de coopération du 24 juin 2021 entre la Communauté flamande, la Région flamande et la Région de Bruxelles-Capitale portant sur l'articulation de la politique du marché du travail, de la formation et de la promotion de la mobilité des chercheurs d'emploi

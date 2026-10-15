@@ -13,7 +13,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/03/06/2019040687/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2019. - Ordonnantie betreffende de classificatie van de toeristische logiesverstrekkende inrichtingen per comfortniveau

@@ -13,7 +13,7 @@ entry_into_force: 2000-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/16/1999027835/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1999. - Décret portant assentiment à l'Accord de partenariat économique, de coordination politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis mexicains, d'autre part, à l'Annexe et à l'Acte final, faits à Bruxelles le 8 décembre 1997.

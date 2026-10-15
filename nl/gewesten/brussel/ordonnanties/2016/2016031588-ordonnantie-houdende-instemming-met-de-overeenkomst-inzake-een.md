@@ -11,7 +11,7 @@ date: 2016-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/06/23/2016031588/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2016. - Ordonnantie houdende instemming met : de Overeenkomst inzake een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, ondertekend in Brussel op 26 juni 2012

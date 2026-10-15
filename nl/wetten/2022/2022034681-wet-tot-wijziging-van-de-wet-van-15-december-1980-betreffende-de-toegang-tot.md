@@ -12,7 +12,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/29/2022034681/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2022. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen

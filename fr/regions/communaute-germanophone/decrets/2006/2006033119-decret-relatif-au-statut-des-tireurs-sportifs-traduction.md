@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/20/2006033119/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 19-01-2007 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2006. - Décret relatif au statut des tireurs sportifs (TRADUCTION).

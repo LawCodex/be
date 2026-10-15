@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101056/justel"
 justel_notes:
   - "art. 1675/17,§1 modifié avec effet à une date indéterminée par L 2012-03-26/01 , art. 7,1°, 074; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 09-03-1985 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE - Cinquième partie : [SAISIES CONSERVATOIRES, VOIES D'EXECUTION ET REGLEMENT COLLECTIF DE DETTES.] (art. 1386 à 1675/27) &lt;Intitulé remplacé par L 1998-07-05/57 , art. 2, 024; En vigueur : 01-01-1999&gt;

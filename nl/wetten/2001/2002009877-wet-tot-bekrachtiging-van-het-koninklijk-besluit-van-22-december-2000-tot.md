@@ -11,7 +11,7 @@ entry_into_force: 2002-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/18/2002009877/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2001. - Wet tot bekrachtiging van het koninklijk besluit van 22 december 2000 tot vaststelling van de bijdrage in de werkings-, personeels- en oprichtingskosten van de kansspelcommissie verschuldigd door de houders van de vergunningen A, B, C en E.

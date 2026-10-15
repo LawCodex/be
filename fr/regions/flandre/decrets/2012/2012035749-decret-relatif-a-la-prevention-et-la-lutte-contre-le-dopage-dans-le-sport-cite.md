@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/25/2012035749/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-07-2012 et mise à jour au 03-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2012. - Décret relatif à la prévention et la lutte contre le dopage dans le sport (cité comme : le décret antidopage du 25 mai 2012)

@@ -11,7 +11,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/20/2015009389/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2015. - Wet tot wijziging van het Wetboek van strafvordering wat de mogelijkheid van overbrenging van een ernstige besmettelijke ziekte betreft

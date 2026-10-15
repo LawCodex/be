@@ -12,7 +12,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/25/1999003046/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 1999. - Loi portant modification du Code des taxes assimilées aux impôts sur les revenus conformément à la directive n° 93/89/CEE du Conseil des Communautés européennes.

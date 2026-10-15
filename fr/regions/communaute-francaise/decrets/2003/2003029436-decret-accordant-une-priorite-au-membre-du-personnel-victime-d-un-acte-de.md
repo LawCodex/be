@@ -13,7 +13,7 @@ entry_into_force: 2003-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029436/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret accordant une priorité au membre du personnel victime d'un acte de violence et introduisant la suspension préventive des membres du personnel temporaires et la mise en disponibilité par retrait d'emploi dans l'intérêt du service dans les réseaux d'enseignement de la Communauté française et subventionnées.

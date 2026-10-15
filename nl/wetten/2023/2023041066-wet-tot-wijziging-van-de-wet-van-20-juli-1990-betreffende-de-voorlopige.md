@@ -12,7 +12,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/02/2023041066/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Wet tot wijziging van de wet van 20 juli 1990 betreffende de voorlopige hechtenis teneinde een informatierecht voor slachtoffers in te stellen

@@ -13,7 +13,7 @@ entry_into_force: 2013-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/10/2013027221/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 2013. - Décret portant assentiment au Protocole modifiant l'accord du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, aux fins : 1) de satisfaire à la Directive 2006/38/CE du Parlement européen et du Conseil du 17 mai 2006 modifiant la Directive 1999/62/CE relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et 2) de convenir, entre les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg, du Royaume des Pays-Bas et du Royaume de Suède, de l'introduction d'un système de "paperless vignette" dans leur système commun pour la perception du droit d'usage, signé à Bruxelles le 21 octobre 2010, et modifiant les articles 7bis et 12 de la loi du 27 décembre 1994 portant assentiment à l'accord précité et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993

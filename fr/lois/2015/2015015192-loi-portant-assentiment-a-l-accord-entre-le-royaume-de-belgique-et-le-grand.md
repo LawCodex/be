@@ -12,7 +12,7 @@ entry_into_force: 2017-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/09/2015015192/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2015. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Grand-Duché de Luxembourg concernant l'échange et la protection réciproque des informations classifiées, fait à Luxembourg le 9 février 2012

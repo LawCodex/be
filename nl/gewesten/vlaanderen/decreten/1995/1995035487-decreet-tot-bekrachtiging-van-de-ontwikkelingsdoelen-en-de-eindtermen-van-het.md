@@ -13,7 +13,7 @@ entry_into_force: 1995-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/22/1995035487/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1995. - Decreet tot bekrachtiging van de ontwikkelingsdoelen en de eindtermen van het gewoon kleuter- en lager onderwijs. - (Vernietigd bij Arbitragehof, arrest nr 76/96 van 18 december 1996, zie B.St. 31-01-1997)

@@ -13,7 +13,7 @@ last_amended: 2008-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1952/07/12/1952071211/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-06-1995 et mise à jour au 12-09-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1952. - Loi autorisant le Roi à soumettre au régime forestier des bois et forêts, propriété des provinces. (NOTE 1 : Abrogé pour la Région Wallonne par DRW 2008-07-15/44 , art. 118, 003; En vigueur : 14-09-2009)

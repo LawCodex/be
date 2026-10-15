@@ -13,7 +13,7 @@ entry_into_force: 2002-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/15/2002036016/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2002. - Décret portant assentiment à l'accord de coopération entre la Communauté flamande et la Région flamande et la Communauté germanophone relatif à la promotion de la coopération générale, signé à Eupen le 14 février 2001.

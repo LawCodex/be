@@ -13,7 +13,7 @@ entry_into_force: 2004-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/29/2004201407/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2004. - Décret portant assentiment à divers actes internationaux concernant l'Union économique belgo-luxembourgeoise.

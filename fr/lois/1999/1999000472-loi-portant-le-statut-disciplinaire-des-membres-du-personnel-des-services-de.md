@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/13/1999000472/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 16-06-1999 et mise à jour au 27-11-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1999. - Loi portant le statut disciplinaire des membres du personnel des services de police.

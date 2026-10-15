@@ -13,7 +13,7 @@ entry_into_force: 2016-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/09/19/2016205128/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2016. - Decreet houdende instemming met het Verdrag over de Benelux Interparlementaire Assemblee, gedaan te Brussel op 20 januari 2015

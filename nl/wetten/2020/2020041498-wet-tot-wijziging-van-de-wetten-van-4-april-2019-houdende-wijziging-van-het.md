@@ -12,7 +12,7 @@ entry_into_force: 2020-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/27/2020041498/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2020. - Wet tot wijziging van de wetten van 4 april 2019 houdende wijziging van het Wetboek van Economisch Recht met betrekking tot misbruiken van economische afhankelijkheid, onrechtmatige bedingen en oneerlijke marktpraktijken tussen ondernemingen en van 2 mei 2019 houdende wijzigingen van boek I 'Definities', van boek XV 'Rechtshandhaving' en vervanging van boek IV 'Bescherming van de mededinging' van het Wetboek van economisch recht

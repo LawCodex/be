@@ -12,7 +12,7 @@ entry_into_force: 2024-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/25/2024000568/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2023. - Wet tot wijziging van de wet van 4 mei 2016 inzake het hergebruik van overheidsinformatie

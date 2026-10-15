@@ -13,7 +13,7 @@ entry_into_force: 2018-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/11/2018032027/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 OKTOBER 2018. - Decreet betreffende de verwezenlijking van stelsels voor de differentiatie en de persoonlijke begeleiding in het basis- en secundair onderwijs

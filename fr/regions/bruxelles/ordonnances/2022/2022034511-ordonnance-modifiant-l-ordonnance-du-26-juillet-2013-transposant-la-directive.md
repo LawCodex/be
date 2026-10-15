@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/01/2022034511/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2022. - Ordonnance modifiant l'ordonnance du 26 juillet 2013 transposant la directive 2011/16/UE du Conseil du 15 février 2011 relative à la coopération administrative dans le domaine fiscal et abrogeant la directive 77/799/CEE, en vue de la transposition partielle de la directive 2021/514/UE du Conseil du 22 mars 2021 modifiant la directive 2011/16/UE relative à la coopération administrative dans le domaine fiscal

@@ -12,7 +12,7 @@ entry_into_force: 2002-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/03/2002003299/justel"
 department: "Justice - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2002. - Loi modifiant la loi du 11 janvier 1993 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux et modifiant la loi du 6 avril 1995 relative aux marchés secondaires, au statut des entreprises d'investissement et à leur contrôle, aux intermédiaires et conseillers en placements.

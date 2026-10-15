@@ -13,7 +13,7 @@ entry_into_force: 1999-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/22/1999033035/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1999. - Décret portant assentiment à l'Accord Euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats Membres d'une part et le Royaume Hachemite de Jordanie d'autre part, les annexes I, II, III, IV, V, VI et VII, les protocoles 1, 2, 3 et 4, l'acte final, signés le 24 novembre 1997 à Bruxelles (TRADUCTION).

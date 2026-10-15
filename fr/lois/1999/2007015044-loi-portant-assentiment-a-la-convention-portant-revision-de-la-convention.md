@@ -12,7 +12,7 @@ entry_into_force: 2007-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/03/2007015044/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1999. - Loi portant assentiment à la Convention portant révision de la Convention portant création d'un Institut universitaire européen, et à l'Acte final, faits à Florence le 18 juin 1992 et le 17 septembre 1992.

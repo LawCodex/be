@@ -12,7 +12,7 @@ entry_into_force: 2016-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/10/2016015046/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2016. - Loi portant assentiment au Traité entre le Royaume de Belgique et le Royaume des Pays-Bas sur l'échange transfrontalier de données en vue de l'identification de personnes soupçonnées d'avoir commis des infractions dans le cadre de l'usage de la route, fait à Bruxelles le 25 avril 2013

@@ -10,7 +10,7 @@ date: 2018-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/19/2018040577/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Wet inzake toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties

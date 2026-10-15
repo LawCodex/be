@@ -13,7 +13,7 @@ entry_into_force: 1999-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/10/18/1999033117/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 1999. - Décret modifiant le décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone (TRADUCTION).

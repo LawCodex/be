@@ -12,7 +12,7 @@ entry_into_force: 2016-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/10/2016015071/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2016. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République de Corée relatif au programme vacances-travail, fait à Bruxelles le 14 avril 2014

@@ -12,7 +12,7 @@ entry_into_force: 2004-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/16/2004009518/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2004. - Wet tot wijziging van de wet van 25 ventôse jaar XI op het notarisambt.

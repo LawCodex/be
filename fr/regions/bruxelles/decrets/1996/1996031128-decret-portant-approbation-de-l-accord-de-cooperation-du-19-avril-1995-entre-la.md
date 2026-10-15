@@ -13,7 +13,7 @@ entry_into_force: 1996-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/02/09/1996031128/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1996. - Décret portant approbation de l'accord de coopération du 19 avril 1995 entre la Commission communautaire française et la Région wallonne visant à garantir la libre circulation des personnes handicapées.

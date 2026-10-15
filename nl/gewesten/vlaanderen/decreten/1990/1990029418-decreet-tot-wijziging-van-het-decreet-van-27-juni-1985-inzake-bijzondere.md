@@ -13,7 +13,7 @@ entry_into_force: 1990-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/03/28/1990029418/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 1990. - Decreet tot wijziging van het decreet van 27 juni 1985 inzake bijzondere jeugdbijstand.

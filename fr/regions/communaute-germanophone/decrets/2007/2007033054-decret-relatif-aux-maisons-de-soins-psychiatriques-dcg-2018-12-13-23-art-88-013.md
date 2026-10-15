@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/04/2007033054/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 09-09-2008 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2007. - [Décret relatif aux maisons de soins psychiatriques.] &lt;DCG 2018-12-13/23 , art. 88, 013; En vigueur : 01-01-2019&gt;

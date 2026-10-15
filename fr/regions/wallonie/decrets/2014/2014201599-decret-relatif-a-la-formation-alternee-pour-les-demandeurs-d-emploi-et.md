@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/20/2014201599/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2014 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2014. - Décret relatif à la formation alternée pour les demandeurs d'emploi et modifiant le décret du 18 juillet 1997 relatif à l'insertion de demandeurs d'emploi auprès d'employeurs qui organisent une formation permettant d'occuper un poste vacant

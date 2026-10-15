@@ -13,7 +13,7 @@ entry_into_force: 2008-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/01/2008200861/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2008. - Décret modifiant le décret portuaire du 2 mars 1999 en relation avec le décret communal (TRADUCTION).

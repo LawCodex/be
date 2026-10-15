@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/19/2019031226/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2019 en tekstbijwerking tot 16-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2019. - Decreet houdende de algemene ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 2020

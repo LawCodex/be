@@ -13,7 +13,7 @@ entry_into_force: 1994-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/01/1994035785/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1994. - Decreet houdende wijziging van het decreet van 19 juli 1973 tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers, alsmede van de door de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen.

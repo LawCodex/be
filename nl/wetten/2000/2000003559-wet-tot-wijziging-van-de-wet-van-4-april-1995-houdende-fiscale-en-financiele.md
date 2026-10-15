@@ -11,7 +11,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/26/2000003559/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2000. - Wet tot wijziging van de wet van 4 april 1995 houdende fiscale en financiële bepalingen.

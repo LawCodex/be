@@ -13,7 +13,7 @@ entry_into_force: 2021-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/25/2021021192/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2021. - Décret 2019/1694 portant règlement définitif du budget de la Commission communautaire française pour l'année 2010

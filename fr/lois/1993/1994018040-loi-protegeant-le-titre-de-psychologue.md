@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/11/08/1994018040/justel"
 department: "Classes Moyennes"
 justel_note: "Consultation des versions antérieures à partir du 20-02-1997 et mise à jour au 03-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 1993. - Loi protégeant le titre de psychologue.

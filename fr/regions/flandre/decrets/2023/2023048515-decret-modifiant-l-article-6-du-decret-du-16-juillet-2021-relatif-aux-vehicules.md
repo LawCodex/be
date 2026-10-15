@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/15/2023048515/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2023. - Décret modifiant l'article 6 du décret du 16 juillet 2021 relatif aux véhicules à émissions zéro et aux véhicules alimentés par des carburants alternatifs, en ce qui concerne le traitement des données à caractère personnel

@@ -12,7 +12,7 @@ entry_into_force: 2003-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003015083/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi portant assentiment à l'Accord entre les autorités compétentes du Royaume de Belgique et de la République d'Autriche concernant le remboursement des frais dans le domaine de la sécurité sociale, signé à Bruxelles le 3 décembre 2001.

@@ -12,7 +12,7 @@ entry_into_force: 2007-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/23/2007009223/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2007. - Wet tot wijziging van artikel 46bis van het Wetboek van strafvordering.

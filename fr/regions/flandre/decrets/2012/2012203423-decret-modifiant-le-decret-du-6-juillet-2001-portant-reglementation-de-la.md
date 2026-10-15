@@ -13,7 +13,7 @@ entry_into_force: 2012-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/01/2012203423/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2012. - Décret modifiant le décret du 6 juillet 2001 portant réglementation de la coopération intercommunale

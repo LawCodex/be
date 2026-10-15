@@ -11,7 +11,7 @@ published: 1968-12-31
 entry_into_force: 1969-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1968/12/24/1968122422/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1968. - Loi étendant, à titre provisoire, les attributions du Fonds commun de garantie agréé par l'arrêté royal du 31 janvier 1957.

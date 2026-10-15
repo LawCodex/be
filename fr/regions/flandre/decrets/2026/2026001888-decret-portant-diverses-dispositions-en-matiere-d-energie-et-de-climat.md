@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/27/2026001888/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-03-2026 et mise à jour au 30-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2026. - Décret portant diverses dispositions en matière d'énergie et de climat

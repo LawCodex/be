@@ -11,7 +11,7 @@ published: 1951-12-26
 entry_into_force: 1951-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/12/22/1951122205/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1951. - Wet waarbij het toepassingsgebied van de wetgeving houdende uitzonderingsbepalingen in zake huishuur wordt uitgebreid tot sommige categorieën van handelshuurovereenkomsten betreffende onroerende goederen met gering inkomen.

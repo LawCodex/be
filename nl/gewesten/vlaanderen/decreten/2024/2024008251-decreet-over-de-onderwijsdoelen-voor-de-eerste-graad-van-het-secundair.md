@@ -11,7 +11,7 @@ date: 2024-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024008251/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet over de onderwijsdoelen voor de eerste graad van het secundair onderwijs en het zevende leerjaar gericht op het hoger onderwijs en diverse andere verwante maatregelen

@@ -13,7 +13,7 @@ entry_into_force: 2006-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/02/2004035834/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet betreffende de Vlaamse Vervoermaatschappij - De Lijn, publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, en houdende wijziging van het decreet van 31 juli 1990 tot oprichting van de Vlaamse Vervoermaatschappij.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/07/15/1985013241/justel"
 department: "Santé Publique et Famille"
 justel_note: "Consultation des versions antérieures à partir du 11-04-1992 et mise à jour au 28-02-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1985. - Loi relative à l'utilisation de substances à effet hormonal, [à effet antihormonal, à effet beta-adrénergique ou à effet stimulateur de production] chez les animaux. &lt;L 1994-07-11/48, art. 1, 004; En vigueur : 1994-10-14&gt;

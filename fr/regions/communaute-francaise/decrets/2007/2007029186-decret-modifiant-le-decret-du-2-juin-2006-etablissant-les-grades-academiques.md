@@ -13,7 +13,7 @@ entry_into_force: 2007-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/02/2007029186/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2007. - Décret modifiant le décret du 2 juin 2006 établissant les grades académiques délivrés par les Hautes Ecoles organisées ou subventionnées par la Communauté française et fixant les grilles horaires minimales

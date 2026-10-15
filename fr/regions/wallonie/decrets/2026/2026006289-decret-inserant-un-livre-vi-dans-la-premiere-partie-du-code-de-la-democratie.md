@@ -13,7 +13,7 @@ entry_into_force: 2026-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/16/2026006289/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2026. - Décret insérant un Livre VI dans la Première Partie du Code de la démocratie locale et de la décentralisation visant à organiser la participation des services, organisations et structures relevant des compétences ou de la tutelle de la Région wallonne aux cellules de sécurité intégrale locales en matière de radicalisme, d'extrémisme et de terrorisme

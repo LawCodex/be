@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029468/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2003 et mise à jour au 05-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret portant des dispositions générales relatives à l'enseignement en langue d'immersion et diverses mesures en matière d'enseignement.

@@ -13,7 +13,7 @@ last_amended: 2014-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1931/12/28/1931122851/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-09-1990 et mise à jour au 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1931. - Loi relative à la protection des bois et forêts appartenant à des particuliers. (NOTE 1 : Abrogé pour la Région flamande par DCFL 1990-06-13/32 , art. 113, 002; En vigueur : 08-10-1990)(NOTE 2 : Abrogé pour la Région Wallonne par DRW 2008-07-15/44 , art. 115, 003; En vigueur : 14-09-2009)

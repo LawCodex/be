@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/16/2009003074/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 16-03-2009 en tekstbijwerking tot 09-03-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2009. - Wet betreffende de verhaalmiddelen inzake de wet van 16 februari 2009 op het herverzekeringsbedrijf

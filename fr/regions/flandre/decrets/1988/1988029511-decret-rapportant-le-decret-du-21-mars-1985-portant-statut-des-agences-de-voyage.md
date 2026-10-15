@@ -13,7 +13,7 @@ entry_into_force: 1985-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/06/01/1988029511/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUIN 1988. - Décret rapportant le décret du 21 mars 1985 portant statut des agences de voyage.

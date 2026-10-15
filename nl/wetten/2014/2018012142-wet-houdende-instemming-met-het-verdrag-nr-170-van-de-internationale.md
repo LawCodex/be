@@ -10,7 +10,7 @@ date: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2018012142/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet houdende instemming met het Verdrag nr. 170 van de Internationale Arbeidsorganisatie betreffende de veiligheid bij het gebruik van chemische producten op het werk, aangenomen te Genève op 25 juni 1990

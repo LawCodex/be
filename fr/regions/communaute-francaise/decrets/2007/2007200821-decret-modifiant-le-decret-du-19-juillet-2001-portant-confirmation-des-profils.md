@@ -13,7 +13,7 @@ entry_into_force: 2007-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200821/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2007. - Décret modifiant le décret du 19 juillet 2001 portant confirmation des profils de formation de technicien/technicienne en agriculture, agent/agente technique de la nature et des forêts, ouvrier qualifié/ouvrière qualifiée en agriculture, technicien/technicienne de l'automobile, [...], mécanicien/mécanicienne-garagiste, métallier-soudeur/métallière-soudeuse, boulanger-pâtissier/boulangère-pâtissière, vendeur-retoucheur/vendeuse-retoucheuse, agent/agente en accueil et tourisme, technicien commercial/technicienne commerciale, vendeur/vendeuse, agent/agente d'éducation et animateur/animatrice définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.

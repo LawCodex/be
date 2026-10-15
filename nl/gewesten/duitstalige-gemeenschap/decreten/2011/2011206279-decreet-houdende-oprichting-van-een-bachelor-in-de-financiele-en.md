@@ -12,7 +12,7 @@ published: 2011-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/10/24/2011206279/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2011. - Decreet houdende oprichting van een bachelor in de financiële en bestuurswetenschappen in de afdelingen boekhouding, bank en verzekeringen

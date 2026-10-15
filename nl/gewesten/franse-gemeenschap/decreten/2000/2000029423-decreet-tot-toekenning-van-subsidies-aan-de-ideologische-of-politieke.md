@@ -13,7 +13,7 @@ entry_into_force: 2000-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/30/2000029423/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2000. - Decreet tot toekenning van subsidies aan de ideologische of politieke verenigingen waaraan radio- of televisie-uitzendingen kunnen worden toevertrouwd voor de Belgische Radio en Televisie van de Franse Gemeenschap (R.T.B.F.) (VERTALING).

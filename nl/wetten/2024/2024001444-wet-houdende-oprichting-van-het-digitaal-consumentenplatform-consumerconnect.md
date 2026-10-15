@@ -12,7 +12,7 @@ entry_into_force: 2024-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/01/31/2024001444/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2024. - Wet houdende oprichting van het digitaal consumentenplatform "Consumerconnect"

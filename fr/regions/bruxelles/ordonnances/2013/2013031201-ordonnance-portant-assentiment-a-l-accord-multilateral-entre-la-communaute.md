@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/03/21/2013031201/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2013. - Ordonnance portant assentiment à : l'Accord multilatéral entre la Communauté européenne et ses Etats membres, la République d'Albanie, l'ancienne République yougoslave de Macédoine, la Bosnie-Herzégovine, la République de Bulgarie, la République de Croatie, la République d'Islande, la République du Monténégro, le Royaume de Norvège, la Roumanie, la République de Serbie, et la Mission d'administration intérimaire des Nations unies au Kosovo sur la création d'un espace aérien commun européen, fait à Luxembourg le 9 juin 2006

@@ -13,7 +13,7 @@ entry_into_force: 2006-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203872/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret portant assentiment à la Convention portant création de l'Institut international des Ressources phytogénétiques, adoptée à Rome le 9 octobre 1991 et signée par la Belgique le 9 octobre 1992.

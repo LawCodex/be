@@ -12,7 +12,7 @@ entry_into_force: 2007-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/01/2007003185/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2007. - Wet tot wijziging van artikel 220 van de wet van 4 december 1990 op de financiële transacties en de financiële markten, van artikel 121, § 1, van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten en van artikel 584 van het Gerechtelijk Wetboek en tot invoeging van artikel 41 in de wet van 1 april 2007 op de openbare overnamebiedingen.

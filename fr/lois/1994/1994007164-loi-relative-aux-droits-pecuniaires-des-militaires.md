@@ -17,7 +17,7 @@ justel_notes:
   - "divers art. modifiés par L 2007-02-28/35 , art. 225 à 228, 011; En vigueur : 31-12-2013 (voir art. 272)"
   - "L'article 225 à 228 de la L 28/02/2007 qui prévoyait à l'origine des modifications de la L 20/05/1994 a été remplacé, avant son entrée en vigueur, par l'article 314 à 326 de la loi du 31 juillet 2013 ( 2013-07-31/04 ) modifiant la loi du 28 février 2007 fixant le statut des militaires du cadre actif des Forces armées et modifiant certaines dispositions relatives au statut du personnel militaire. Ces articles remplacent les articles 225 à 228 de la L 28/02/2007 par une nouvelle disposition qui modifient les articles 1, 3, 4, 5, 9bis, 10, 10bis, 10ter, 11, 13ter, 13quater et 14 de la loi du 20/05/1994. Cela étant, la volonté d'abroger cette dernière loi que le législateur avait initialement exprimée. En d'autres mots, les articles 225 à 228 de la L 28/02/2007, tel que ces articles existaient avant leur remplacement par la loi précitée du 31/07/2013, n'entreront jamais en vigueur."
   - "Consultation des versions antérieures à partir du 15-08-1997 et mise à jour au 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1994. - Loi relative aux droits pécuniaires des militaires.

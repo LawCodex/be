@@ -13,7 +13,7 @@ last_amended: 2026-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/04/01/1976040111/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2022 en tekstbijwerking tot 14-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1976. - Wet betreffende de verticale integratie in de sector van de dierlijke produktie

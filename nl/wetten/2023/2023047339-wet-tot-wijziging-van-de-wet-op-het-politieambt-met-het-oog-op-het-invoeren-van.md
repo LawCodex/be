@@ -11,7 +11,7 @@ entry_into_force: 2023-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/08/2023047339/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2023. - Wet tot wijziging van de wet op het politieambt, met het oog op het invoeren van een registratie- en motiveringsplicht bij naaktfouilleringen

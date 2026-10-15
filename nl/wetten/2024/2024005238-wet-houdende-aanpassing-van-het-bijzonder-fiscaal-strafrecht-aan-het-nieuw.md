@@ -12,7 +12,7 @@ entry_into_force: 2026-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/16/2024005238/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Wet houdende aanpassing van het bijzonder fiscaal strafrecht aan het nieuw strafwetboek

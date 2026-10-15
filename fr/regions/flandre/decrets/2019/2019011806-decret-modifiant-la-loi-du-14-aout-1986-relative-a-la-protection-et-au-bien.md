@@ -13,7 +13,7 @@ entry_into_force: 2019-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019011806/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux, pour ce qui concerne l'introduction d'une interdiction d'élevage d'animaux à fourrure et d'élevage d'animaux pour la production de foie gras par gavage

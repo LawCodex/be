@@ -13,7 +13,7 @@ entry_into_force: 2008-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2008035175/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Décret portant assentiment au protocole n° 2 à la convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998 (TRADUCTION).

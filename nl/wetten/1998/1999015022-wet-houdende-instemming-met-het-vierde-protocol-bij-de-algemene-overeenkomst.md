@@ -12,7 +12,7 @@ entry_into_force: 1998-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/04/23/1999015022/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 1998. - Wet houdende instemming met het Vierde Protocol bij de Algemene Overeenkomst inzake de Handel in Diensten, gedaan te Genève op 15 april 1997. - Addendum.

@@ -12,7 +12,7 @@ entry_into_force: 2025-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/06/12/2025201793/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2025. - Herziening van artikel 151, § 6, van de Grondwet teneinde de evaluatie van korpschefs in de magistratuur mogelijk te maken

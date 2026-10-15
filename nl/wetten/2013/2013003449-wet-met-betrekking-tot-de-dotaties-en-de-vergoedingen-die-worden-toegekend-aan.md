@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/27/2013003449/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2013. - Wet met betrekking tot de dotaties en de vergoedingen die worden toegekend aan leden van de Koninklijke Familie alsook de transparantie van de financiering van de monarchie

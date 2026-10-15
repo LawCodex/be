@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/24/2013009310/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 28-06-2013 et mise à jour au 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Loi modifiant la sixième partie du Code judiciaire relative à l'arbitrage

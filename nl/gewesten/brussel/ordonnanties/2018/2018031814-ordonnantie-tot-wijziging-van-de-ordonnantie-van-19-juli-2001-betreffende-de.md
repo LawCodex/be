@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/23/2018031814/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 20-09-2018 en tekstbijwerking tot 20-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2018. - Ordonnantie tot wijziging van de ordonnantie van 19 juli 2001 betreffende de organisatie van de elektriciteitsmarkt in het Brussels Hoofdstedelijk Gewest, de ordonnantie van 1 april 2004 betreffende de organisatie van de gasmarkt in het Brussels Hoofdstedelijk Gewest, betreffende wegenisretributies inzake gas en elektriciteit en houdende wijziging van de ordonnantie van 19 juli 2001 betreffende de organisatie van de elektriciteitsmarkt in het Brussels Hoofdstedelijk Gewest en de ordonnantie van 12 december 1991 houdende oprichting van begrotingsfondsen

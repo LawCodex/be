@@ -12,7 +12,7 @@ entry_into_force: 2026-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/04/23/2026003513/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2026. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, en vue de renforcer la transparence dans le cadre des visas humanitaires

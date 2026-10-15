@@ -13,7 +13,7 @@ entry_into_force: 2023-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/09/2023040579/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2023. - Décret visant l'intégration de la comptabilité générale des Services administratifs à comptabilité autonome dans celle des Services d'administration générale et des Cabinets ministériels de la Communauté française

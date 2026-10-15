@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/01/19/2022B30600/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-03-2022 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2022. - CODE CIVIL - LIVRE 4 : " Les successions, donations et testaments "

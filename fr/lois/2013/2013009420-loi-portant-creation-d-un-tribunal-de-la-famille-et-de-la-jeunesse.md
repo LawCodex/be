@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013009420/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-09-2013 et mise à jour au 20-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2013. - Loi portant création d'un tribunal de la famille et de la jeunesse

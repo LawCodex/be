@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/01/30/2014031140/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Ordonnance portant assentiment au : Protocole facultatif se rapportant au Pacte international relatif aux droits économiques, sociaux et culturels, fait à New York le 10 décembre 2008

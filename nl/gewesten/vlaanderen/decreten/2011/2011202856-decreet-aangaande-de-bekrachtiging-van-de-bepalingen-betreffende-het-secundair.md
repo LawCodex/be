@@ -13,7 +13,7 @@ entry_into_force: 2011-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/27/2011202856/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2011. - Decreet aangaande de bekrachtiging van de bepalingen betreffende het secundair onderwijs, gecodificeerd op 17 december 2010

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/09/15/2006000703/justel"
 department: "Binnenlandse Zaken"
 justel_note: "raadpleging van vroegere versies vanaf 06-10-2006 en tekstbijwerking tot 28-12-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBER 2006. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

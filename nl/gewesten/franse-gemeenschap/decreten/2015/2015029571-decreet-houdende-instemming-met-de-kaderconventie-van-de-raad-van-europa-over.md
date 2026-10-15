@@ -11,7 +11,7 @@ date: 2015-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/22/2015029571/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2015. - Decreet houdende instemming met de Kaderconventie van de Raad van Europa over de bijdrage van cultureel erfgoed aan de samenleving, opgemaakt in Faro op 27 oktober 2005

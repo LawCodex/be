@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/10/2016029140/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2016. - Decreet betreffende de terbeschikkingstelling aan de Regering van de Franse Gemeenschap van de personeelsleden afkomstig uit het Fonds voor Collectieve Uitrustingen en Diensten bij het Federaal Agentschap voor de Kinderbijslag, naar de Franse Gemeenschap in het kader van de Zesde Staatshervorming

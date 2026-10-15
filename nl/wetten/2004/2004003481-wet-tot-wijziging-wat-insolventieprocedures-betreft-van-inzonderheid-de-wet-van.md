@@ -12,7 +12,7 @@ entry_into_force: 2005-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/06/2004003481/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2004. - Wet tot wijziging, wat insolventieprocedures betreft, van inzonderheid de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen en de wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen.

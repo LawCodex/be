@@ -13,7 +13,7 @@ entry_into_force: 2008-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/19/2008202183/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2008. - Decreet tot gelijkstelling voor de successierechten van de wettelijk samenwonenden met een verwantschapsband met de wettelijk samenwonenden zonder verwantschapsband (VERTALING).

@@ -15,7 +15,7 @@ department: "Economische Zaken"
 justel_notes:
   - "Vanaf artikel 2, in de ganse tekst, de woorden \" certificatie, keuringen en proeven \", \" certificatie- en keuringsinstellingen en beproevingslaboratoria \", \" certificatie- en beproevingsverslagen en keuringsverslagen \" respectievelijk vervangen door de woorden \" conformiteitsbeoordeling \", \" instellingen voor de conformiteitsbeoordeling \" en \" verslagen van de conformiteitsbeoordeling \" (W 2004-07-09/30, art. 76, 002; Inwerkingtreding : 25-07-2004"
   - "Raadpleging van vroegere versies vanaf 15-07-2004 en tekstbijwerking tot 29-11-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1990. - [Wet betreffende de accreditatie van instellingen voor de conformiteitsbeoordeling] (Opschrift vervangen door W 2004-07-09/30, art. 74, 002; Inwerkingtreding : 25-07-2004)

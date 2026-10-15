@@ -13,7 +13,7 @@ entry_into_force: 2009-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/15/2009200350/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2009. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Botswana inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te Brussel op 7 juni 2006.

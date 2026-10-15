@@ -13,7 +13,7 @@ entry_into_force: 1990-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/05/23/1990029675/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 1990. - Décret relatif à la délivrance de permis de chasse et de licences de chasse.

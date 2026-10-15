@@ -11,7 +11,7 @@ date: 1996-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996036135/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - DECREET tot vervanging van de artikelen 6 tot en met 6ter van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, tot opheffing van artikel 6quater van dezelfde wet en tot wijziging van artikel 5 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten

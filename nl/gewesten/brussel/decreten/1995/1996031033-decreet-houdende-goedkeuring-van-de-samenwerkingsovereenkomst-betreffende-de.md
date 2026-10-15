@@ -13,7 +13,7 @@ entry_into_force: 1995-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/18/1996031033/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1995. - Decreet houdende goedkeuring van de samenwerkingsovereenkomst betreffende de Permanente Vorming van de Middenstand en de kleine en middelgrote ondernemingen en het toezicht op het Instituut voor Permanente vorming van de Middenstand en de kleine en middelgrote ondernemingen, afgesloten op 20 februari 1995 door de Franse Gemeenschapscommissie, de Franse Gemeenschap en het Waalse Gewest (VERTALING).

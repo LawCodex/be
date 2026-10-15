@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017020112/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret modifiant le décret du 30 avril 2009 relatif à l'organisation et au financement de la politique en matière de sciences et d'innovation, en ce qui concerne l'annulation du ' Strategische Adviesraad voor het Wetenschaps- en Innovatiebeleid '

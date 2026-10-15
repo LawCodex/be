@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029469/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-09-2006 et mise à jour au 19-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Décret relatif [...] au patrimoine immatériel de la Communauté française.&lt;DCFR 2022-03-17/24 , art. 28, 004; En vigueur : 01-01-2023&gt;

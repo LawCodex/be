@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/14/1998035880/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1998. - Décret portant approbation des actes internationaux suivants :.

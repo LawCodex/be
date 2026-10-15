@@ -12,7 +12,7 @@ entry_into_force: 2008-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/29/2008015109/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2008. - Loi portant assentiment à la Convention de Budapest relative au contrat de transport de marchandises en navigation intérieure (CMNI), faite à Budapest le 22 juin 2001.

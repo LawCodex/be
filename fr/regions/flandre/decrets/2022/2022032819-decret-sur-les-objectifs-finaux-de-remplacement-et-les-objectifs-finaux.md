@@ -13,7 +13,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/13/2022032819/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2022. - Décret sur les objectifs finaux de remplacement et les objectifs finaux spécifiques de remplacement dans les deuxième et troisième degrés de l'enseignement secondaire, à l'initiative de la Federatie Steinerscholen Vlaanderen vzw

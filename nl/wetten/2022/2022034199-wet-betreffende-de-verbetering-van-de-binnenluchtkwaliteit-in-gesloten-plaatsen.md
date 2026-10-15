@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/06/2022034199/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 01-12-2022 en tekstbijwerking tot 04-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2022. - Wet betreffende de verbetering van de binnenluchtkwaliteit in gesloten plaatsen die publiek toegankelijk zijn

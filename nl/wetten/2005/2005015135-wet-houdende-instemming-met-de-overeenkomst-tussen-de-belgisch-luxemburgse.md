@@ -12,7 +12,7 @@ entry_into_force: 2007-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/19/2005015135/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2005. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en Servië en Montenegro, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Belgrado op 4 maart 2004.

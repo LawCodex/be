@@ -13,7 +13,7 @@ entry_into_force: 1995-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/16/1995027168/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1995. - Decreet houdende goedkeuring van het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gedaan te New-York op 9 mei 1992. (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/06/03/2021031592/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2021. - Ordonnantie houdende instemming met de begrotings-beraadslaging nr. 1 van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie houdende machtiging tot het vastleggen, vereffenen en betalen van uitgaven, aan te rekenen op de algemene Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2021

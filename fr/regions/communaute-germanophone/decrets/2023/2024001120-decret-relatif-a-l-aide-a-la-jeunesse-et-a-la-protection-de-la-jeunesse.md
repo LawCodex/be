@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/13/2024001120/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 15-02-2024 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2023. - Décret relatif à l'aide à la jeunesse et à la protection de la jeunesse

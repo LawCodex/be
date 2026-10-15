@@ -13,7 +13,7 @@ entry_into_force: 2024-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/11/23/2023047515/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Ordonnance portant assentiment à l'Accord entre le Royaume de Belgique et la République dominicaine sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et des postes consulaires, fait à Bruxelles le 17 juin 2022

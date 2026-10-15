@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/11/1994009598/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1994. - Loi relative aux tribunaux de police et portant certaines dispositions relatives à l'accélération et à la modernisation de la justice pénale.

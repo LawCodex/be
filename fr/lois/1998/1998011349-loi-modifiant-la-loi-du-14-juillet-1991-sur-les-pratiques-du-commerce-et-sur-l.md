@@ -12,7 +12,7 @@ entry_into_force: 1999-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/07/1998011349/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 1998. - Loi modifiant la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur.

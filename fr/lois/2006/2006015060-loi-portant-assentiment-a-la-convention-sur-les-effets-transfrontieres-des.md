@@ -12,7 +12,7 @@ entry_into_force: 2006-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/22/2006015060/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2006. - Loi portant assentiment à la Convention sur les effets transfrontières des accidents industriels, faite à Helsinki le 17 mars 1992.

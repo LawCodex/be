@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/08/2009003235/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2009. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 inzake de belastingaangiften

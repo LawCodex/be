@@ -13,7 +13,7 @@ entry_into_force: 2023-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/10/2022042905/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2022. - Décret modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie (" Opgroeien regie ") et le décret du 7 juillet 2017 portant création d'une agence autonomisée externe de droit public Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale (" Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid "), établissant des normes d'autorisation pour des acteurs de paiement privés et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Enfance et Famille (" Kind en Gezin ")

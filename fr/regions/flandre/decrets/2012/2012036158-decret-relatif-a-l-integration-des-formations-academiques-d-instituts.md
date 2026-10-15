@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012036158/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-11-2012 et mise à jour au 27-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret relatif à l'intégration des formations académiques d'instituts supérieurs dans les universités

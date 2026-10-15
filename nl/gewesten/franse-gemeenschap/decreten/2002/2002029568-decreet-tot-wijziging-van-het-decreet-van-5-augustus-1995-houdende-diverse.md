@@ -12,7 +12,7 @@ published: 2002-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/14/2002029568/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2002. - Decreet tot wijziging van het decreet van 5 augustus 1995 houdende diverse maatregelen inzake hoger onderwijs (VERTALING).

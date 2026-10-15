@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/03/15/2016015072/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2016. - Loi portant assentiment à l'Accord entre le Royaume de Belgique, le Royaume des Pays-Bas et le Grand-duché de Luxembourg concernant l'intégration de la sécurité aérienne en vue de répondre aux menaces posées par des aéronefs non militaires (renegade), fait à La Haye le 4 mars 2015

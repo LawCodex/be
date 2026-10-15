@@ -13,7 +13,7 @@ entry_into_force: 2018-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/17/2019012617/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2018. - Décret ajustant le budget des voies et moyens de la Commission communautaire française pour l'année budgétaire 2018

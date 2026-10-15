@@ -12,7 +12,7 @@ entry_into_force: 2020-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/08/13/2023045137/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2023. - Loi modifiant la loi électorale communale, coordonnée le 4 août 1932, en vue de régulariser la situation des citoyens britanniques qui étaient inscrits comme électeurs pour les élections communales avant l'entrée en vigueur du Brexit

@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 16.1.1. et 16.4.19 modifiés avec effet à une date indéterminée par DCFL 2016-07-15/08 , art. 28 et 29; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 03-06-1995 et mise à jour au 04-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Décret contenant des dispositions générales concernant la politique de l'environnement. (Cité comme : DABM) &lt;TRADUCTION&gt;

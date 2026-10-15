@@ -13,7 +13,7 @@ entry_into_force: 2022-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/28/2022041047/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Décret transposant la Directive (UE) 2018/958 du Parlement européen et du Conseil du 28 juin 2018 relative à un contrôle de proportionnalité avant l'adoption d'une nouvelle réglementation de profession

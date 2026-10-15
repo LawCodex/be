@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/23/1995036624/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 1994. - DECREET houdende instemming met het samenwerkingsakkoord van 30 april 1993 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de bestemming van de milieutaks en de coördinatie van het gewestelijk beleid ter zake en wijziging van het decreet van 23 januari 1991 tot oprichting van het Fonds voor Preventie en Sanering inzake Leefmilieu en Natuur als gewestdienst met afzonderlijk beheer

@@ -12,7 +12,7 @@ published: 2018-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/18/2018012399/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2018. - Decreet betreffende het niet-dringend liggend ziekenvervoer

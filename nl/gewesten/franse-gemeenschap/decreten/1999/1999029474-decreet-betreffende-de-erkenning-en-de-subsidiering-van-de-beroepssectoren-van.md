@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029474/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-09-1999 en tekstbijwerking tot 19-05-2003."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet betreffende de erkenning en de subsidiëring van de beroepssectoren van de Podiumkunsten (VERTALING). -

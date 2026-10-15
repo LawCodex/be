@@ -12,7 +12,7 @@ entry_into_force: 2026-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/05/30/2026004187/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2026. - Wet houdende invoering van diverse energiemaatregelen

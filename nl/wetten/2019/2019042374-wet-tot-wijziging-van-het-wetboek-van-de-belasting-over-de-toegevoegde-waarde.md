@@ -11,7 +11,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/11/03/2019042374/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 NOVEMBER 2019. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde ter omzetting van richtlijn (EU) 2019/475 en richtlijn (EU) 2018/1910

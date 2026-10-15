@@ -11,7 +11,7 @@ date: 2002-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/24/2002029535/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Regering van de Republiek Senegal en de Regering van de Franse Gemeenschap van België en de Waalse Gewestregering, opgemaakt te Dakar op 6 november 1998 (VERTALING).

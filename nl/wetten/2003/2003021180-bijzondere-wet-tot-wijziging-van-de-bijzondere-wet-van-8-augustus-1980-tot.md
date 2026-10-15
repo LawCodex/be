@@ -12,7 +12,7 @@ entry_into_force: 2003-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/08/12/2003021180/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2003. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

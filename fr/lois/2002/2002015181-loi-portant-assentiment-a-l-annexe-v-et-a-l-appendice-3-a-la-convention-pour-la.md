@@ -12,7 +12,7 @@ entry_into_force: 2005-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/06/2002015181/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2002. - Loi portant assentiment à l'Annexe V et à l'Appendice 3 à la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est (Paris, 1992), faits à Sintra le 23 juillet 1998.

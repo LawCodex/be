@@ -12,7 +12,7 @@ entry_into_force: 2002-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/11/11/2002003509/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 NOVEMBER 2002. - Wet betreffende de inschrijving van België op het kapitaal van de Inter-Amerikaanse Investeringsmaatschappij.

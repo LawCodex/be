@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/20/2016035891/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-06-2016 en tekstbijwerking tot 08-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2016. - Decreet houdende diverse bepalingen in de beleidsvelden cultuur, jeugd en Brussel

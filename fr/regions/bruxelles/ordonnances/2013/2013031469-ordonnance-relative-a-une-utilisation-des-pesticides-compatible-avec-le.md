@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/06/20/2013031469/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2013 et mise à jour au 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2013. - Ordonnance relative à une utilisation des pesticides compatible avec le développement durable en Région de Bruxelles-Capitale

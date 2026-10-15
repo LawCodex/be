@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029173/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant assentiment au Protocole complémentaire entre le Royaume de Belgique et l'Autorité de Surveillance de l'Association européenne de Libre échange, fait à Bruxelles, le 6 juillet 2001.

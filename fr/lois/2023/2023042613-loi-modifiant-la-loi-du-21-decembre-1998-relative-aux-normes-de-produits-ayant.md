@@ -12,7 +12,7 @@ entry_into_force: 2023-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/26/2023042613/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2023. - Loi modifiant la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs

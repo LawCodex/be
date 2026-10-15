@@ -12,7 +12,7 @@ entry_into_force: 2008-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/01/07/2008011040/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2008. - Wet strekkende tot een verruiming van de doelgroep die een toelage van het Sociaal Stookoliefonds kan genieten en tot verhoging van de hoeveelheid stookolie die recht geeft op die toelage.

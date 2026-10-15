@@ -13,7 +13,7 @@ entry_into_force: 2018-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/23/2017206155/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2017. - Decreet houdende instemming met het samenwerkingsakkoord van 28 maart 2017 tussen de Vlaamse Gemeenschap, het Vlaamse Gewest en de Duitstalige Gemeenschap betreffende de bevordering van de algemene samenwerking

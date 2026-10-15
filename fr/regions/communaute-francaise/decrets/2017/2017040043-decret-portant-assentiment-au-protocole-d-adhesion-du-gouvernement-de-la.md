@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017040043/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment au Protocole d'adhésion du Gouvernement de la Fédération de Russie à la Convention du 16 décembre 1988 relative à la construction et à l'exploitation d'une Installation européenne de rayonnement synchrotron, fait à Grenoble le 23 juin 2014 et à Paris le 15 juillet 2014

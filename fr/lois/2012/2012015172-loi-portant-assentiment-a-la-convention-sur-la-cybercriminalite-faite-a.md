@@ -12,7 +12,7 @@ entry_into_force: 2012-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012015172/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi portant assentiment à la Convention sur la cybercriminalité, faite à Budapest le 23 novembre 2001

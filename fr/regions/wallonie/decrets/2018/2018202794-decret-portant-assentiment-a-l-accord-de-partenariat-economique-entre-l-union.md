@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202794/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret portant assentiment à l'Accord de partenariat économique entre l'Union européenne et ses Etats membres, d'une part, et les Etats de la Communauté de développement d'Afrique australe, d'autre part, signé le 10 juin 2016 à Kasane

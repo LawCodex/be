@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012938/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment au deuxième Protocole, fait à Londres le 13 mars 2013, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capital, signée à Bruxelles le 1er juin 1987, telle que modifiée par le Protocole signé à Paris le 24 juin 2009

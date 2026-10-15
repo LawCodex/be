@@ -12,7 +12,7 @@ published: 1996-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/18/1996029163/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1996. - Decreet tot wijziging van het decreet van 3 juli 1991 tot regeling van het secundair onderwijs met beperkt leerplan (VERTALING).

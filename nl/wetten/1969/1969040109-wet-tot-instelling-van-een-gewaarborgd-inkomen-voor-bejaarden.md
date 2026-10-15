@@ -13,7 +13,7 @@ last_amended: 2019-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/04/01/1969040109/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 26-05-1981 en tekstbijwerking tot 01-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1969. - Wet tot instelling van een gewaarborgd inkomen voor bejaarden.

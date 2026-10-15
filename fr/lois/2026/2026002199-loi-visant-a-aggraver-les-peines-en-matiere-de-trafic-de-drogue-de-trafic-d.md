@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/16/2026002199/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2026 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2026. - Loi visant à aggraver les peines en matière de trafic de drogue, de trafic d'armes, d'organisation criminelle et de blanchiment et visant à mettre en concordance la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes et la loi du 8 juin 2006 réglant des activités économiques et individuelles avec des armes avec le Code pénal du 29 février 2024

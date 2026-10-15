@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/25/2014003219/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 16-05-2014 et mise à jour au 06-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Loi adaptant dans la législation fiscale les dénominations des administrations du Service public fédéral Finances et portant diverses autres modifications législatives

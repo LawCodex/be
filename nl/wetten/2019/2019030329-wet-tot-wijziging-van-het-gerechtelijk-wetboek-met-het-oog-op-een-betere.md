@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019030329/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-03-2019 en tekstbijwerking tot 19-06-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2019. - Wet tot wijziging van het Gerechtelijk Wetboek met het oog op een betere werking van de rechterlijke orde en van de Hoge Raad voor de Justitie

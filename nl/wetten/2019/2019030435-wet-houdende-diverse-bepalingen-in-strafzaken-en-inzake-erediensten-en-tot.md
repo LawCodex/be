@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/05/2019030435/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-05-2019 en tekstbijwerking tot 23-03-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2019. - Wet houdende diverse bepalingen in strafzaken en inzake erediensten, en tot wijziging van de wet van 28 mei 2002 betreffende de euthanasie en van het Sociaal Strafwetboek

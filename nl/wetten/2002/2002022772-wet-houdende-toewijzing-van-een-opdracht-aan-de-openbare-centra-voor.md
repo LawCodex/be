@@ -11,7 +11,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/09/04/2002022772/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2002. - Wet houdende toewijzing van een opdracht aan de openbare centra voor maatschappelijk welzijn inzake de begeleiding en de financiële maatschappelijke steunverlening aan de meest hulpbehoevenden inzake energielevering.

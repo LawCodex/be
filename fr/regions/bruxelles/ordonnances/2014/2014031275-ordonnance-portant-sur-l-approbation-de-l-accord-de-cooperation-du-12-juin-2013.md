@@ -13,7 +13,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/04/03/2014031275/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Ordonnance portant sur l'approbation de l'Accord de coopération du 12 juin 2013, entre l'Autorité fédérale, les Régions et les Communautés visant à créer un Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations sous la forme d'une institution commune, au sens de l'article 92bis de la loi spéciale de réformes institutionnelles du 8 août 1980

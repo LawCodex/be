@@ -11,7 +11,7 @@ published: 2013-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/08/17/2013009398/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AUGUSTUS 2013. - Wet tot wijziging van de wet van 2 juni 2010 tot wijziging van het Burgerlijk Wetboek teneinde de werking van de mede-eigendom te moderniseren en transparanter te maken wat de termijn voor het in overeenstemming brengen van de akten betreft

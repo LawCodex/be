@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/11/2018202651/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2018 en tekstbijwerking tot 02-01-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2018. - Bijzonder decreet houdende wijziging van artikel 28 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen met het oog op de verplichting van een gelijke alternerende vertegenwoordiging van mannen en vrouwen op de kandidatenlijsten voor de verkiezingen van de leden van het Waalse Parlement

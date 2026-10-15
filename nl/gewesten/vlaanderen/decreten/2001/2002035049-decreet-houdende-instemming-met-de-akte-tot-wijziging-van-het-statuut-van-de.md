@@ -13,7 +13,7 @@ entry_into_force: 2002-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/21/2002035049/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet houdende instemming met de akte tot wijziging van het statuut van de Internationale Arbeidsorganisatie, aangenomen door de Internationale Arbeidsconferentie tijdens haar vijfentachtigste zitting in Genève op 19 juni 1997.

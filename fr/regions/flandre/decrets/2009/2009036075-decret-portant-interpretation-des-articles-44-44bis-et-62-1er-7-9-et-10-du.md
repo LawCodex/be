@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/10/23/2009036075/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2009. - Décret portant interprétation des articles 44, 44bis et 62, § 1er, 7°, 9° et 10°, du décret du 25 février 1997 relatif à l'enseignement fondamental

@@ -13,7 +13,7 @@ entry_into_force: 1999-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/13/1999035529/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1999. - Décret modifiant les décrets relatifs à l'Inspection et aux services d'encadrement (TRADUCTION).

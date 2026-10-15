@@ -12,7 +12,7 @@ entry_into_force: 1983-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/04/25/1983015281/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 1983. - Loi portant approbation du Protocole à la Convention du 19 mai 1956 relative au contrat de transport international de marchandises par route (CMR), fait à Genève le 5 juillet 1978.

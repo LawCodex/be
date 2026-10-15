@@ -11,7 +11,7 @@ date: 2013-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/24/2013205940/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2013. - Decreet tot wijziging van het decreet van 10 november 2004 tot invoering van een regeling voor de handel in broeikasgasemissierechten, tot oprichting van een" Fonds wallon Kyoto " (Waals Kyotofonds) en betreffende de flexibiliteitsmechanismen van het Protocol van Kyoto ten einde de luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten

@@ -12,7 +12,7 @@ entry_into_force: 2013-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/14/2013022407/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2013. - Loi modifiant l'article 38/1, § 2, 4° du Code des impôts sur les revenus 1992 et modifiant l'article 19bis, § 2, 4°, de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs

@@ -13,7 +13,7 @@ entry_into_force: 1999-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/25/1999027151/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1999. - Decreet houdende goedkeuring van het Protocol tot wijziging van het Europees Sociaal Handvest, opgemaakt te Turijn op 21 oktober 1991 (VERTALING).

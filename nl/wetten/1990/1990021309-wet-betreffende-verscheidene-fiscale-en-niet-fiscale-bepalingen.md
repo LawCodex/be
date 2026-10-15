@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/12/28/1990021309/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1992 en tekstbijwerking tot 11-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1990. - Wet betreffende verscheidene fiscale en niet-fiscale bepalingen.

@@ -12,7 +12,7 @@ entry_into_force: 2013-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/22/2013009542/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Wet tot wijziging van het Wetboek van vennootschappen, wat de waarborgen van de schuldeisers bij een kapitaalherschikking betreft

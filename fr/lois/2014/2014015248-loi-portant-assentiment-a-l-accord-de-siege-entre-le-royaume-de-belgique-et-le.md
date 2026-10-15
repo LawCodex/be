@@ -12,7 +12,7 @@ entry_into_force: 2007-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/10/2014015248/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2014. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Marché commun d'Afrique orientale et australe, signé à Bruxelles le 2 mars 2007

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/23/1998027455/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 08-08-1998 et mise à jour au 11-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1998. - Décret déterminant le jour de fête et les emblèmes propres à la Région wallonne

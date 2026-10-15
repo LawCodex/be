@@ -12,7 +12,7 @@ entry_into_force: 2007-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/30/2007014187/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2007. - Wet houdende dringende spoorwegbepalingen.

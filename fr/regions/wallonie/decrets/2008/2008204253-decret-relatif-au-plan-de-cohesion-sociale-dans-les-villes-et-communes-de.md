@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/06/2008204253/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 18-12-2018 et mise à jour au 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2008. - Décret relatif au plan de cohésion sociale dans les villes et communes de Wallonie, pour ce qui concerne les matières dont l'exercice a été transféré de la Communauté française.

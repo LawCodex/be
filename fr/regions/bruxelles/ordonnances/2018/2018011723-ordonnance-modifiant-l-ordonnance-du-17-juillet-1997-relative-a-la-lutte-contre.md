@@ -13,7 +13,7 @@ entry_into_force: 2018-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/04/19/2018011723/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Ordonnance modifiant l'ordonnance du 17 juillet 1997 relative à la lutte contre le bruit en milieu urbain

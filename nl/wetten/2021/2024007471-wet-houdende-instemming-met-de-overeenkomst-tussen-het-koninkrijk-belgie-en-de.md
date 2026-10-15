@@ -10,7 +10,7 @@ date: 2021-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/09/2024007471/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2021. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Cyprus inzake de wederzijdse bescherming van geclassificeerde informatie, gedaan te Brussel op 20 juli 2015

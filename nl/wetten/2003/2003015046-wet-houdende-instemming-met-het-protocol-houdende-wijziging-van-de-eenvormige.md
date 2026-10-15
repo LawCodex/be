@@ -12,7 +12,7 @@ entry_into_force: 2003-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/13/2003015046/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2003. - Wet houdende instemming met het Protocol houdende wijziging van de eenvormige Beneluxwet inzake tekeningen of modellen, gedaan te Brussel op 20 juni 2002.

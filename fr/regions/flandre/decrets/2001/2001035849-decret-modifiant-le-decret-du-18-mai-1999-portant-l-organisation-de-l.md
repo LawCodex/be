@@ -13,7 +13,7 @@ entry_into_force: 2001-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001035849/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Décret modifiant le décret du 18 mai 1999 portant l'organisation de l'aménagement du territoire et du décret relatif à l'aménagement du territoire, coordonné le 22 octobre 1996 (TRADUCTION).

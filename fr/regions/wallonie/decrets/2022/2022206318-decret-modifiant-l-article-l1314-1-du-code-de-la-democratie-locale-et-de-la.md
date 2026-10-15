@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/19/2022206318/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2022. - Décret modifiant l'article L1314-1 du Code de la démocratie locale et de la décentralisation en matière de déficit budgétaire et d'utilisation des fonds de réserve ordinaires

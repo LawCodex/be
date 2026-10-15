@@ -12,7 +12,7 @@ entry_into_force: 2007-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/10/2007002097/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2007. - Wet tot wijziging van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.

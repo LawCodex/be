@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/10/2009205899/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2009. - Décret-programme portant diverses mesures concernant la redevance de voirie, la rémunération de la garantie régionale, les dotations et subventions à certains organismes sous contrat de gestion, et un projet pilote relatif au droit de tirage, en faveur des communes, pour les subsides d'investissement relatifs aux travaux d'entretien de voirie

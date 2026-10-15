@@ -12,7 +12,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025203783/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi modifiant la loi-programme du 18 juillet 2025 concernant les modalités d'application de la limitation temporaire de l'indexation des pensions légales

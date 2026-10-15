@@ -13,7 +13,7 @@ entry_into_force: 2018-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035614/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant modification de diverses dispositions au Décret communal du 15 juillet 2005 et au décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale

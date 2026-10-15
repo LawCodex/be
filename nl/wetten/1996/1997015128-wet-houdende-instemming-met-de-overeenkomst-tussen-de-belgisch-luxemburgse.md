@@ -12,7 +12,7 @@ entry_into_force: 1997-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/20/1997015128/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 1996. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en Republiek Paraguay inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 6 oktober 1992.

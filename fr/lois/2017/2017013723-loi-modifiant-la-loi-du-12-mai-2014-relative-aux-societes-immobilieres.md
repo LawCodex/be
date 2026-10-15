@@ -12,7 +12,7 @@ entry_into_force: 2017-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/22/2017013723/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2017. - Loi modifiant la loi du 12 mai 2014 relative aux sociétés immobilières réglementées

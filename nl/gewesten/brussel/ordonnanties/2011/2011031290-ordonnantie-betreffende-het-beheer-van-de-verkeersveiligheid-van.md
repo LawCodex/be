@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/05/19/2011031290/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2019 en tekstbijwerking tot 06-04-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2011. - Ordonnantie betreffende het beheer van de verkeersveiligheid van weginfrastructuur

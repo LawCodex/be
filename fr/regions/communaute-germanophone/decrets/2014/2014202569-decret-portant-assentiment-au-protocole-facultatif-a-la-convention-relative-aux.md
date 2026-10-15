@@ -13,7 +13,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/31/2014202569/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2014. - Décret portant assentiment au protocole facultatif à la Convention relative aux droits de l'enfant établissant une procédure de présentation de communications, adopté à New-York le 19 décembre 2011

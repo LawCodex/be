@@ -12,7 +12,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/03/2020042391/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2020. - Loi visant à assurer la prise en charge des frais de transport médical urgent des patients touchés par le COVID-19

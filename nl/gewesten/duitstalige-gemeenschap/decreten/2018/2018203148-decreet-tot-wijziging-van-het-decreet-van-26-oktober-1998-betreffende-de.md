@@ -12,7 +12,7 @@ published: 2018-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/28/2018203148/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2018. - Decreet tot wijziging van het decreet van 26 oktober 1998 betreffende de invoering van de nieuwe Duitse spelling

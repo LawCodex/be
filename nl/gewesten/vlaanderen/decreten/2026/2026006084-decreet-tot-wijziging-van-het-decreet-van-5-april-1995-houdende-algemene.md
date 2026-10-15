@@ -13,7 +13,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/10/2026006084/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2026. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft de omzetting van richtlijn (EU) 2024/1785 van het Europees Parlement en de Raad van 24 april 2024 tot wijziging van Richtlijn 2010/75/EU van het Europees Parlement en de Raad inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) en Richtlijn 1999/31/EG van de Raad betreffende het storten van afvalstoffen en andere diverse wijzigingen ter optimalisatie

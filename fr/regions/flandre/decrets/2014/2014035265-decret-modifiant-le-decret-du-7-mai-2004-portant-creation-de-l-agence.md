@@ -13,7 +13,7 @@ entry_into_force: 2014-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/14/2014035265/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2014. - Décret modifiant le décret du 7 mai 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Vlaams Agentschap voor Personen met een Handicap " (Agence flamande pour les Personnes handicapées)

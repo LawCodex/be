@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/22/1995003260/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1995. - Wet tot wijziging van de wet van 24 juli 1921 op de ongewilde buitenbezitstelling van de titels aan toonder.

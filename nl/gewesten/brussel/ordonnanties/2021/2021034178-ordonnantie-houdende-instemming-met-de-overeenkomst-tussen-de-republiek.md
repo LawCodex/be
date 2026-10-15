@@ -13,7 +13,7 @@ entry_into_force: 2021-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/02/2021034178/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Ordonnantie houdende instemming met de overeenkomst tussen de Republiek Litouwen en het Brussels Hoofdstedelijk Gewest over de statistische overdrachten van energie uit hernieuwbare bronnen voor de naleving van richtlijnen 2009/28/EG en (EU) 2018/2001, ondertekend te Vilnius/Brussel op 15 juli 2021

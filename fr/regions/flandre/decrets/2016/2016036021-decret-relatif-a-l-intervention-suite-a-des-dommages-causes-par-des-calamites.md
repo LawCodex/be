@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016036021/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2018 et mise à jour au 23-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret relatif à l'intervention suite à des dommages causés par des calamités publiques en Région flamande

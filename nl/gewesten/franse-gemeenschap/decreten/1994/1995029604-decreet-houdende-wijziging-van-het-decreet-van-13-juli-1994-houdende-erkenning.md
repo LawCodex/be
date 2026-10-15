@@ -12,7 +12,7 @@ published: 1995-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995029604/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - Decreet houdende wijziging van het decreet van 13 juli 1994 houdende erkenning en subsidiëring vn de centra voor private archieven in de Franse Gemeenschap van België. (Vertaling)

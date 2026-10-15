@@ -12,7 +12,7 @@ entry_into_force: 2022-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/21/2004015194/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBER 2004. - Wet houdende instemming met het Verdrag nr. 130 betreffende de geneeskundige verzorging en de uitkeringen bij ziekte, en met de Bijlage, aangenomen te Genève op 25 juni 1969

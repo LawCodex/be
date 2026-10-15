@@ -13,7 +13,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/20/2007035627/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2007. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République de Madagascar, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Antananarivo le 29 septembre 2005 (TRADUCTION).

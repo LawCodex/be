@@ -12,7 +12,7 @@ entry_into_force: 2011-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/23/2008015121/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2008. - Wet houdende instemming met het Europees Verdrag inzake de bescherming van het archeologisch erfgoed (herzien), gedaan te Valletta op 16 januari 1992

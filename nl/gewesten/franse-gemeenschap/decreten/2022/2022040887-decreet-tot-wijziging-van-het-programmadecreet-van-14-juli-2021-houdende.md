@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/31/2022040887/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2022. - Decreet tot wijziging van het programmadecreet van 14 juli 2021 houdende diverse maatregelen met betrekking tot de bestrijding van de coronaviruscrisis, het Europees herstelplan, gelijke kansen, schoolgebouwen, WBE, vrouwenrechten, het hoger onderwijs, wetenschappelijk onderzoek, de non-profitsector, opvoeding en begrotingsmiddelen

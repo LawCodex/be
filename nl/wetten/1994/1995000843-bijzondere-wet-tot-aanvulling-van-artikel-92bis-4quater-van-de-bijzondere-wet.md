@@ -12,7 +12,7 @@ entry_into_force: 1995-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/28/1995000843/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1994. - Bijzondere wet tot aanvulling van artikel 92bis, § 4quater, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

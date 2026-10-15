@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/26/2023030038/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 12-01-2023 en tekstbijwerking tot 26-01-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2022. - Wet houdende diverse bepalingen inzake rechterlijke organisatie II

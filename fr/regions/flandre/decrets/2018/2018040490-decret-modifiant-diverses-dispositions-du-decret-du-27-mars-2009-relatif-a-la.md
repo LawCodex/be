@@ -13,7 +13,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/29/2018040490/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2018. - Décret modifiant diverses dispositions du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision

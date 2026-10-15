@@ -13,7 +13,7 @@ entry_into_force: 2023-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/10/2023041204/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2023. - Décret contenant diverses dispositions portant exécution partielle du règlement (UE) 2020/1055 du Parlement européen et du Conseil du 15 juillet 2020 modifiant les règlements (CE) n° 1071/2009, (CE) n° 1072/2009 et (UE) n° 1024/2012 en vue de les adapter aux développements du secteur du transport par route

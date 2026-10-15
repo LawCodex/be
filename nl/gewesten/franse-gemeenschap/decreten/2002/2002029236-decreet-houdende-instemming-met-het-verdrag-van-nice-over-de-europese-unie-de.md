@@ -13,7 +13,7 @@ entry_into_force: 2002-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/04/25/2002029236/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2002. - Decreet houdende instemming met het Verdrag van Nice over de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige verwante akten, met de Protocols A, B, C en met de Slotakte, opgemaakt te Nice op 26 februari 2001 (VERTALING).

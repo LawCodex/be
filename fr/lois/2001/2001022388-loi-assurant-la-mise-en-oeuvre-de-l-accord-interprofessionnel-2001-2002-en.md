@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/05/22/2001022388/justel"
 department: "Emploi et Travail - Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2001. - Loi assurant la mise en oeuvre de l'accord interprofessionnel 2001/2002 en matière de vacances annuelles.

@@ -12,7 +12,7 @@ entry_into_force: 2021-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021021228/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi portant confirmation de l'arrêté royal du 13 octobre 2020 fixant pour l'année 2020 le montant de la contribution de répartition et fixant le montant minimal annuel pour les années 2020, 2021 et 2022 de la contribution de répartition, visé à l'article 14, § 8, alinéa 16, de la loi du 11 avril 2003 sur les provisions constituées pour le démantèlement des centrales nucléaires et pour la gestion des matières fissiles irradiées dans ces centrales

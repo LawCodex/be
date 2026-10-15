@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/20/1990022394/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 09-01-1991 en tekstbijwerking tot 19-06-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1990. - Wet tot instelling van een flexibele pensioenleeftijd voor werknemers en tot aanpassing van de werknemerspensioenen aan de evolutie van het algemeen welzijn.

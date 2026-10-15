@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/06/2011035449/justel"
 department: "Autorité flamande"
 justel_note: "par son arrêt n° 135/2012 du 30-10-2012 (M.B. 20-11-2012, p. 68993-68995), la Cour Constitutionnelle a annulé les articles 5,6 et 7"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2011. - Décret modifiant le décret relatif à l'Energie du 8 mai 2009

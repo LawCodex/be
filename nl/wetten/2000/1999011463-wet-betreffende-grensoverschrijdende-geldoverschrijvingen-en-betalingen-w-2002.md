@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/01/09/1999011463/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 09-02-2000 en tekstbijwerking tot 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2000. - [Wet betreffende grensoverschrijdende geldoverschrijvingen en betalingen.] (W 2002-12-24/31, art. 508, 002; Inwerkingtreding : 10-01-2003)

@@ -13,7 +13,7 @@ entry_into_force: 2008-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/29/2008200904/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2008. - Decreet houdende wijziging van artikel 85 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode wat het voorkooprecht betreft.

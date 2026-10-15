@@ -12,7 +12,7 @@ entry_into_force: 2003-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/26/2003009538/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2003. - Wet tot regeling van de vertegenwoordiging van de federale Wetgevende Kamers in en buiten rechte. (Deze tekst wordt vervangen door een erratum gepubliceerd in het B.St. 21.10.2003, p. 50904-50905)

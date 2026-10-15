@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/11/2018011281/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2018. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 teneinde een belastingvermindering voor adoptiekosten in te voeren

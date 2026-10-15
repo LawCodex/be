@@ -13,7 +13,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/10/2017010904/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2017. - Decreet houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, wat de toestemming tot crematie betreft

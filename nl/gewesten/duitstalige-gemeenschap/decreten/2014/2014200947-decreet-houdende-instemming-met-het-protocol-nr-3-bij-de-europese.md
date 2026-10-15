@@ -13,7 +13,7 @@ entry_into_force: 2014-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/20/2014200947/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2014. - Decreet houdende instemming met het Protocol nr. 3 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende Euroregionale samenwerkingsverbanden (ESV's), gedaan te Utrecht op 16 november 2009

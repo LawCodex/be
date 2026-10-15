@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/20/2011009014/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 18-04-2011 et mise à jour au 18-04-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2010. - Loi concernant l'exercice de certains droits des actionnaires de sociétés cotées

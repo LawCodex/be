@@ -12,7 +12,7 @@ published: 2018-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/12/2018014506/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2018. - Decreet houdende wijziging van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, wat betreft de afstemming op de vrijwillige samenvoeging van gemeenten

@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/25/2017030082/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2016. - Décret sanctionnant le règlement fixant les lignes directrices pour la prise de décision en matière d'enseignement supérieur en Communauté flamande par l'Organisation d'accréditation néerlandaise-flamande et portant autres dispositions en matière de qualité et d'accréditation dans l'enseignement supérieur

@@ -12,7 +12,7 @@ entry_into_force: 2025-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/04/06/2025002769/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2025. - Wet behoudende aanpassing van de financiewet voor het begrotingsjaar 2025 van 20 december 2024

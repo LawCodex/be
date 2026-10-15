@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1847/04/06/1847040650/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-02-2014 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1847. - Loi portant répression des offenses envers le Roi

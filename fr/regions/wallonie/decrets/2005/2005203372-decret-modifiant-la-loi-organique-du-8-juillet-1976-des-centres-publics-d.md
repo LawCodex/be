@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/08/2005203372/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 02-01-2006 et mise à jour au 04-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2005. - Décret modifiant la loi organique du 8 juillet 1976 des centres publics d'action sociale.

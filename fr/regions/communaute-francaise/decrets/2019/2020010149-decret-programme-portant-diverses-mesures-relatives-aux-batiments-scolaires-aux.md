@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/18/2020010149/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-01-2020 et mise à jour au 01-02-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2019. - Décret-programme portant diverses mesures relatives aux Bâtiments scolaires, aux Fonds budgétaires, à la Santé, à l'enseignement supérieur, à la Recherche, au Sport, aux Hôpitaux universitaires, au Personnel de l'enseignement, à l'enseignement et à WBE

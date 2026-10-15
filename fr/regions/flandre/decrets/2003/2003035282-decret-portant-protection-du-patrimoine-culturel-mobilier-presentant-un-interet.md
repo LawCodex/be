@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/24/2003035282/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-03-2003 et mise à jour au 19-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2003. - Décret portant protection du patrimoine culturel mobilier présentant un intérêt exceptionnel (TRADUCTION)

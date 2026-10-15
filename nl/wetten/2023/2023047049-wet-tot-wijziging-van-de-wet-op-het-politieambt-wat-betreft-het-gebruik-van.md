@@ -11,7 +11,7 @@ entry_into_force: 2024-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/10/19/2023047049/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2023. - Wet tot wijziging van de wet op het politieambt wat betreft het gebruik van individuele camera's door de politiediensten

@@ -12,7 +12,7 @@ entry_into_force: 2021-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/17/2020031738/justel"
 department: "Agence Fédérale de Contrôle nucléaire"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2020. - Adaptation des montants des taxes figurant à l'article 30bis/4 de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire - Année 2021

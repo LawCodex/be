@@ -13,7 +13,7 @@ entry_into_force: 2016-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/28/2016202431/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2016. - Decreet tot wijziging van het decreet van 2 april 1998 houdende oprichting van het "Agence wallonne à l'Exportation et aux investissements étrangers" (Waals Exportagentschap voor uitvoer en Buitenlandse Investeringen)

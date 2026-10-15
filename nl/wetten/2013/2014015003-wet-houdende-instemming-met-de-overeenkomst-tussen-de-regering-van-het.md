@@ -12,7 +12,7 @@ entry_into_force: 2014-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/26/2014015003/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2013. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, gedaan te Brussel op 7 oktober 2009

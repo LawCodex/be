@@ -13,7 +13,7 @@ entry_into_force: 2008-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/23/2008029348/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2008. - Decreet houdende instemming met het Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap en met de Slotakte, ondertekend te Lissabon, op 13 december 2007 (VERTALING).

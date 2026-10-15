@@ -13,7 +13,7 @@ entry_into_force: 2021-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/19/2021034017/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2021. - Decreet van de algemene rekening van de Vlaamse Gemeenschap en van de rekeningen van de rechtspersonen onder het gezag van de Vlaamse Regering voor het begrotingsjaar 2020

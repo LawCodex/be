@@ -13,7 +13,7 @@ entry_into_force: 1999-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035822/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret contenant le règlement définitif du budget de la Communauté flamande et des organismes d'intérêt public pour l'année budgétaire 1997 (Traduction).

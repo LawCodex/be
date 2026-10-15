@@ -12,7 +12,7 @@ entry_into_force: 1994-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1993000461/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi modifiant les articles 10, 11, 12 et 14 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et y insérant un article 12bis.

@@ -13,7 +13,7 @@ entry_into_force: 2013-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/17/2013029545/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - Décret portant assentiment aux accords de coopération du 20 juin 2013 entre la Région wallonne et la Communauté française et portant sur l'adhésion de la Communauté française à diverses centrales de marchés mises en oeuvre par la Région wallonne

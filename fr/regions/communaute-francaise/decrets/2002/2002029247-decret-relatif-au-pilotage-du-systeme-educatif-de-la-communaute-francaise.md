@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/27/2002029247/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-05-2002 et mise à jour au 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2002. - Décret relatif au pilotage du système éducatif de la Communauté française.

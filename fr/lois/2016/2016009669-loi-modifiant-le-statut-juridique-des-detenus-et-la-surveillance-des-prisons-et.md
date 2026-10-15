@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016009669/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2016 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi modifiant le statut juridique des détenus et la surveillance des prisons et portant des dispositions diverses en matière de justice

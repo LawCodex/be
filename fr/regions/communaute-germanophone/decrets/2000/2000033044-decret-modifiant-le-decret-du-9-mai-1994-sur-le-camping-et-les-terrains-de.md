@@ -13,7 +13,7 @@ entry_into_force: 2000-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/02/14/2000033044/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2000. - Décret modifiant le décret du 9 mai 1994 sur le camping et les terrains de camping (TRADUCTION).

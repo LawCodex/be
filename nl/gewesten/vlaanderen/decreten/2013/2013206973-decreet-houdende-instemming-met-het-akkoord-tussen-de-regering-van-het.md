@@ -13,7 +13,7 @@ entry_into_force: 2014-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/29/2013206973/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2013. - Decreet houdende instemming met het akkoord tussen de Regering van het Koninkrijk België en de Regering van de Republiek Frankrijk voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, ondertekend in Parijs op 17 november 2008

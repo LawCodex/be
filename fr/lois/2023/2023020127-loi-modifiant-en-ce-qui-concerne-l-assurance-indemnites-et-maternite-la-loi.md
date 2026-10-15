@@ -12,7 +12,7 @@ entry_into_force: 2023-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/04/2023020127/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2023. - Loi modifiant, en ce qui concerne l'assurance indemnités et maternité, la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994

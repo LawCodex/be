@@ -12,7 +12,7 @@ entry_into_force: 2018-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/25/2018012305/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2018. - Wet tot wijziging van de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit

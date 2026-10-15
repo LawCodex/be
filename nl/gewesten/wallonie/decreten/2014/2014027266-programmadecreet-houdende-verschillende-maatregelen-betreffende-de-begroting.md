@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/12/2014027266/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2014 en tekstbijwerking tot 21-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2014. - Programmadecreet houdende verschillende maatregelen betreffende de begroting inzake natuurrampen, verkeersveiligheid, openbare werken, energie, huisvesting, leefmilieu, ruimtelijke ordening, dierenwelzijn, landbouw en fiscaliteit

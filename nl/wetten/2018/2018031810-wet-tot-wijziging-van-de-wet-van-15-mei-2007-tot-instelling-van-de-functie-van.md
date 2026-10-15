@@ -11,7 +11,7 @@ entry_into_force: 2019-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018031810/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Wet tot wijziging van de wet van 15 mei 2007 tot instelling van de functie van gemeenschapswacht, tot instelling van de dienst gemeenschapswachten en tot wijziging van artikel 119bis van de nieuwe gemeentewet, wat de opleiding betreft

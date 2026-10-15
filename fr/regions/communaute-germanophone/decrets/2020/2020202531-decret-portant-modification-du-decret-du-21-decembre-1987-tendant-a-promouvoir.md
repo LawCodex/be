@@ -13,7 +13,7 @@ entry_into_force: 2020-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/27/2020202531/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2020. - Décret portant modification du décret du 21 décembre 1987 tendant à promouvoir le bon emploi du haut-allemand dans les écoles

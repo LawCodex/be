@@ -11,7 +11,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2000003552/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet houdende diverse bepalingen betreffende de organisatie van de financiële markten en diverse andere bepalingen.

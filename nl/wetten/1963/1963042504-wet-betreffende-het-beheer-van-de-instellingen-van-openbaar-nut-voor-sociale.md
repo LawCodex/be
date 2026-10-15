@@ -13,7 +13,7 @@ last_amended: 2018-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/04/25/1963042504/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 14-02-1981 en tekstbijwerking tot 26-09-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 1963. - Wet betreffende het beheer van de instellingen van openbaar nut voor sociale zekerheid en sociale voorzorg.

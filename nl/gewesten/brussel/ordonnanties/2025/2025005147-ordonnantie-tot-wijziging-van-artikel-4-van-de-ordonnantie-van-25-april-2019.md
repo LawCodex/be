@@ -12,7 +12,7 @@ published: 2025-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/07/03/2025005147/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2025. - Ordonnantie tot wijziging van artikel 4 van de ordonnantie van 25 april 2019 tot regeling van de toekenning van gezinsbijslag

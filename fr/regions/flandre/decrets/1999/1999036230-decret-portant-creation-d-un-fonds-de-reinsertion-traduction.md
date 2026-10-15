@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999036230/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2003 et mise à jour au 29-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret portant création d'un Fonds de réinsertion. (TRADUCTION). .

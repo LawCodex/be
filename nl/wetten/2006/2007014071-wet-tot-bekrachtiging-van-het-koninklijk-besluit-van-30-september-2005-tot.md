@@ -12,7 +12,7 @@ entry_into_force: 2007-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/21/2007014071/justel"
 department: "Justitie - Binnenlandse Zaken - Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2006. - Wet tot bekrachtiging van het koninklijk besluit van 30 september 2005 tot aanwijzing van de overtredingen per graad van de algemene reglementen genomen ter uitvoering van de wet betreffende de politie over het wegverkeer.

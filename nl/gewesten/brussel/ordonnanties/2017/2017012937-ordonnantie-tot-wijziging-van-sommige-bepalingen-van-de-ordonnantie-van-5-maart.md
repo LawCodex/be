@@ -13,7 +13,7 @@ entry_into_force: 2017-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017012937/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie tot wijziging van sommige bepalingen van de ordonnantie van 5 maart 2009 betreffende het beheer en de sanering van verontreinigde bodems

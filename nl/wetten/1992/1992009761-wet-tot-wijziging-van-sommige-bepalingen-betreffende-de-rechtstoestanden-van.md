@@ -12,7 +12,7 @@ entry_into_force: 1987-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/07/24/1992009761/justel"
 department: "Justitie - Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1992. - WET tot wijziging van sommige bepalingen betreffende de rechtstoestanden van het personeel van het actief kader van de rijkswacht

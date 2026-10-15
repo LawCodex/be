@@ -13,7 +13,7 @@ entry_into_force: 2024-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/25/2024201047/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2024. - Decreet tot instemming met het samenwerkingsakkoord van 22 november 2023 tussen de Federale Staat, de Franse Gemeenschap en het Waalse Gewest inzake slachtofferzorg

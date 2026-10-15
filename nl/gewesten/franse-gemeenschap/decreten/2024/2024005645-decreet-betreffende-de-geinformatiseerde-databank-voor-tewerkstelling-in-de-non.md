@@ -13,7 +13,7 @@ entry_into_force: 2024-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/18/2024005645/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Decreet betreffende de geïnformatiseerde databank voor tewerkstelling in de non-profitsector in de Franse Gemeenschap

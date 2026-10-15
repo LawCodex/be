@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "art. 36 modifié avec effet à une date indéterminée par <DRW 2008-07-17/52 , art. 50, En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 11-02-2003 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret relatif à l'organisation du marché régional du gaz.

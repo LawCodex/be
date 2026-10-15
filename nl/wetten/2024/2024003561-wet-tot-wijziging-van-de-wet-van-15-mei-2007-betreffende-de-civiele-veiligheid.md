@@ -12,7 +12,7 @@ entry_into_force: 2025-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/21/2024003561/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2024. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid, om het gebruik van camera's door de operationele diensten van de civiele veiligheid te regelen

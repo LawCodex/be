@@ -13,7 +13,7 @@ entry_into_force: 2018-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/15/2018201400/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2018. - Decreet houdende instemming met het samenwerkingsakkoord gesloten op 28 april 2017 tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie betreffende het "Agence francophone pour l'éducation et la formation tout au long de la vie"(Franstalig agentschap voor levenslange opvoeding en vorming) (afgekort "AEF-Europe")

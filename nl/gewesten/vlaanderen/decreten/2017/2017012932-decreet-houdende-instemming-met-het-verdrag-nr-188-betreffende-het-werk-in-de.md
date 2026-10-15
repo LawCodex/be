@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/09/2017012932/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2017. - Decreet houdende instemming met het verdrag nr. 188 betreffende het werk in de visserijsector, aangenomen door de Internationale Arbeidsconferentie in haar zesennegentigste zitting in Genève op 14 juni 2007

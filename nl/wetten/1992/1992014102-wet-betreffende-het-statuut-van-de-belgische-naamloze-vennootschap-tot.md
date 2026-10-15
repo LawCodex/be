@@ -12,7 +12,7 @@ entry_into_force: 1992-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/03/30/1992014102/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1992. - Wet betreffende het statuut van de Belgische Naamloze Vennootschap tot Exploitatie van het Luchtverkeer (SABENA).

@@ -12,7 +12,7 @@ entry_into_force: 2010-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/31/2009014228/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2009. - Loi relative à l'introduction des tests salivaires en matière de drogues dans la circulation

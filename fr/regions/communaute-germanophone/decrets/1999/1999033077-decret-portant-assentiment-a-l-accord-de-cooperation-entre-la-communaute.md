@@ -13,7 +13,7 @@ entry_into_force: 2000-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/29/1999033077/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 1999. - Décret portant assentiment à l'accord de coopération entre la Communauté française, la Communauté flamande et la Communauté germanophone du 25 juillet 1997 relatif à la perception de la redevance Radio et Télévision (TRADUCTION).

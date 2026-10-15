@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/19/2006035945/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2006 et mise à jour au 23-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2006. - Décret relatif au Prêt Gagnant-Gagnant (TRADUCTION).

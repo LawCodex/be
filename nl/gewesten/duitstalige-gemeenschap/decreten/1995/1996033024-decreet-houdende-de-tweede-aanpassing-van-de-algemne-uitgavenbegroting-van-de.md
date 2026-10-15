@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/11/20/1996033024/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 1995. - Decreet houdende de tweede aanpassing van de algemne uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1995. (Vertaling)

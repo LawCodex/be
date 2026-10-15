@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/03/2014029351/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2014 en tekstbijwerking tot 30-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Decreet tot bevordering van een evenwichtige vertegenwoordiging van mannen en vrouwen in de adviesorganen

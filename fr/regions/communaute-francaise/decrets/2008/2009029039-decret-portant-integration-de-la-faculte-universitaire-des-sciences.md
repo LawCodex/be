@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/28/2009029039/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-02-2009 et mise à jour au 05-04-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2008. - Décret portant intégration de la Faculté universitaire des sciences agronomiques de Gembloux au sein de l'Université de Liège, création de l'Université de Mons par fusion de l'Université de Mons-Hainaut et de la Faculté polytechnique de Mons, restructurant des habilitations universitaires et refinancant les Universités

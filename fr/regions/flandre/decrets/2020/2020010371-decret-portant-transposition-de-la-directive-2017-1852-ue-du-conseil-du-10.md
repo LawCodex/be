@@ -13,7 +13,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/03/2020010371/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2020. - Décret portant transposition de la directive 2017/1852/UE du Conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'Union européenne

@@ -13,7 +13,7 @@ entry_into_force: 2004-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2004200103/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant approbation de l'Accord de coopération entre la Région wallonne et la Communauté française en matière de soutien à l'intégration scolaire pour les jeunes handicapés.

@@ -11,7 +11,7 @@ published: 1997-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/1997009353/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet betreffende de wedden van titularissen van sommige openbare ambten.

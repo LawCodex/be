@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/11/2013009377/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2013 et mise à jour au 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2013. - Loi modifiant le Code Civil en ce qui concerne les sûretés réelles mobilières et abrogeant diverses dispositions en cette matière

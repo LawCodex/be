@@ -13,7 +13,7 @@ entry_into_force: 2020-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/27/2020043882/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2020. - Décret portant octroi d'un supplément unique dans le cadre de la politique familiale à la suite de la crise du coronavirus

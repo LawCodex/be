@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/16/2004033030/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 26-10-2007 et mise à jour au 12-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2003. - Décret relatif à la promotion des ateliers créatifs (TRADUCTION).

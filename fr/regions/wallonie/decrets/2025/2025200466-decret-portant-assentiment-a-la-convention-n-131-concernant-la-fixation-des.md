@@ -13,7 +13,7 @@ entry_into_force: 2025-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/01/16/2025200466/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2025. - Décret portant assentiment à la Convention n° 131 concernant la fixation des salaires minima, notamment en ce qui concerne les pays en voie de développement, adoptée à Genève le 22 juin 1970 par la Conférence Internationale du Travail à sa 54e session

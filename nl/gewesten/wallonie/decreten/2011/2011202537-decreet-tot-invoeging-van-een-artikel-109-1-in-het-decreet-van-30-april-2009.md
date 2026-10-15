@@ -12,7 +12,7 @@ published: 2011-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/19/2011202537/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2011. - Decreet tot invoeging van een artikel 109/1 in het decreet van 30 april 2009 tot wijziging van het Waals Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium, het decreet van 11 maart 1999 betreffende de milieuvergunning en het decreet van 11 maart 2004 betreffende de ontsluitingsinfrastructuur voor economische bedrijvigheid

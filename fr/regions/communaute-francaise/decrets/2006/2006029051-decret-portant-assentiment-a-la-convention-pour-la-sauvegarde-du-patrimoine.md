@@ -13,7 +13,7 @@ entry_into_force: 2006-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/02/17/2006029051/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2006. - Décret portant assentiment à la Convention pour la sauvegarde du patrimoine culturel immatériel, adoptée le 17 octobre 2003 et faite à Paris le 3 novembre 2003.

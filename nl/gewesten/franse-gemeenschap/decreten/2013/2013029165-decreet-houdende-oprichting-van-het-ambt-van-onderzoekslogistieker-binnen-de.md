@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/24/2013029165/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-03-2013 en tekstbijwerking tot 06-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2013. - Decreet houdende oprichting van het ambt van onderzoekslogistieker binnen de universiteiten in de Franse Gemeenschap

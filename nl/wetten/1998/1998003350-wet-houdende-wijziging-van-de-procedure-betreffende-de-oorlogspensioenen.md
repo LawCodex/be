@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/16/1998003350/justel"
 department: "Financiën - Sociale Voorzorg - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 11-08-1998 en tekstbijwerking tot 23-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1998. - Wet houdende wijziging van de procedure betreffende de oorlogspensioenen

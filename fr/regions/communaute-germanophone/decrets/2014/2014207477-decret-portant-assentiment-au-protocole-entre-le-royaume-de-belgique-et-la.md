@@ -13,7 +13,7 @@ entry_into_force: 2015-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/11/24/2014207477/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2014. - Décret portant assentiment au Protocole entre le Royaume de Belgique et la République tchèque à la convention entre le Royaume de Belgique et la République tchèque tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, fait à Bruxelles le 15 mars 2010

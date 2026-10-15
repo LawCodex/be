@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/04/17/2002003211/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2002. - Wet tot wijziging van artikel 94 van het Wetboek der successierechten ingevolge het nieuwe lokalisatiecriterium voor het recht van successie zoals bepaald bij de bijzondere wet van 13 juli 2001 tot herfinanciering van de gemeenschappen en uitbreiding van de fiscale bevoegdheden van de gewesten.

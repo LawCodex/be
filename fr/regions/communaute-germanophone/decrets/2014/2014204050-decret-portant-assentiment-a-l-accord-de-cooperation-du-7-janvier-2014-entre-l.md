@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/06/2014204050/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2014. - Décret portant assentiment à l'accord de coopération du 7 janvier 2014 entre l'Etat fédéral, les Communautés et les Régions relatif à la politique criminelle et à la politique de sécurité

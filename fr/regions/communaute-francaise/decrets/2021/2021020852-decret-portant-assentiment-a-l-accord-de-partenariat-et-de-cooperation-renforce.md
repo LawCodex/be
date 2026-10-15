@@ -13,7 +13,7 @@ entry_into_force: 2021-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/04/2021020852/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2021. - Décret portant assentiment à l'Accord de Partenariat et de Coopération renforcé entre l'Union européenne et ses Etats membres, d'une part, et la République du Kazakhstan, d'autre part, signé à Astana le 21 décembre 2015

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/14/2000003796/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Wet houdende vierde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2000. - Sectie 16 - " Landsverdediging ".

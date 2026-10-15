@@ -13,7 +13,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/22/2000036310/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2000. - Décret contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2001 (TRADUCTION).

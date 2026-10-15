@@ -12,7 +12,7 @@ entry_into_force: 1997-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/16/1997000528/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1997. - Loi portant modification de la loi du 27 décembre 1973 relative au statut du personnel du corps opérationnel de la gendarmerie.

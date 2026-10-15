@@ -13,7 +13,7 @@ entry_into_force: 2021-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/10/2021021545/justel"
 department: "Service public de Wallonie - Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2021. - Accord de coopération entre la Communauté française et la Région wallonne concernant l'utilisation des dispositifs de vaccination contre la COVID-19 pour les personnes âgées de moins de 18 ans

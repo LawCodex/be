@@ -12,7 +12,7 @@ entry_into_force: 2007-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/11/17/2006023402/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2006. - Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits.

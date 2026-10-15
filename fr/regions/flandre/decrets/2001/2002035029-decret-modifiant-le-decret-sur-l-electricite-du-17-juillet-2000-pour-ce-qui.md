@@ -13,7 +13,7 @@ entry_into_force: 2002-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035029/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret modifiant le décret sur l'électricité du 17 juillet 2000, pour ce qui concerne le concours des communes et des centres publics d'aide sociale à l'exécution des obligations de service public des gestionnaires du réseau et des titulaires d'une autorisation de fourniture (TRADUCTION).

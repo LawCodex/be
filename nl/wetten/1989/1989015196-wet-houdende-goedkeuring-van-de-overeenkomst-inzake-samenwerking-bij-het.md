@@ -12,7 +12,7 @@ entry_into_force: 1990-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/06/16/1989015196/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1989. - Wet houdende goedkeuring van de Overeenkomst inzake samenwerking bij het bestrijden van de verontreiniging van de Noordzee door olie en andere schadelijke stoffen, en van de Bijlage, opgemaakt te Bonn op 13 september 1983.

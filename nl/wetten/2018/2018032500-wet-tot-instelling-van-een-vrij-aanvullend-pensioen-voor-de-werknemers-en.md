@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/06/2018032500/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-12-2018 en tekstbijwerking tot 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2018. - Wet tot instelling van een vrij aanvullend pensioen voor de werknemers en houdende diverse bepalingen inzake aanvullende pensioenen

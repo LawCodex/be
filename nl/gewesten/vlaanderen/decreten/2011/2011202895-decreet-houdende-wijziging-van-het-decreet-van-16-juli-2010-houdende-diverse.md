@@ -13,7 +13,7 @@ entry_into_force: 2011-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/20/2011202895/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2011. - Decreet houdende wijziging van het decreet van 16 juli 2010 houdende diverse bepalingen inzake het beleidsdomein Werk en Sociale Economie

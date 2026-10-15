@@ -12,7 +12,7 @@ entry_into_force: 2017-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/18/2017030083/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2016. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid, wat betreft de afschaffing van de borgstelling voor de bijzondere rekenplichtige

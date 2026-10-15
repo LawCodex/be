@@ -11,7 +11,7 @@ date: 2023-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/12/2023045351/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2023. - Decreet houdende verscheidene fiscale bepalingen en tot omzetting van Richtlijn 2021/514/EU van de Raad van 22 maart 2021 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen

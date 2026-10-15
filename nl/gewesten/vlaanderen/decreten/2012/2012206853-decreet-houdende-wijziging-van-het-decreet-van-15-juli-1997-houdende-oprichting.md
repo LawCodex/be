@@ -13,7 +13,7 @@ entry_into_force: 2012-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/09/2012206853/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2012. - DECREET houdende wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris, van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst en van het decreet van 7 mei 2004 houdende oprichting van een Vlaams Instituut voor Vrede en Geweldpreventie bij het Vlaams Parlement, en houdende opheffing van het decreet van 17 juli 2000 houdende de oprichting van een Instituut Samenleving en Technologie

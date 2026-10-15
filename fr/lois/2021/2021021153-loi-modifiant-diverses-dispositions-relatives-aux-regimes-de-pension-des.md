@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/15/2021021153/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2021. - Loi modifiant diverses dispositions relatives aux régimes de pension des travailleurs salariés et des travailleurs indépendants en ce qui concerne le calcul de la pension proportionnelle

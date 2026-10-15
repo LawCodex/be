@@ -13,7 +13,7 @@ entry_into_force: 2021-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/09/2021030590/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Decreet houdende instemming met het Samenwerkingsakkoord voor Partnerschap en Ontwikkeling tussen de Europese Unie en haar Lidstaten enerzijds en de Islamitische Republiek Afghanistan anderzijds, ondertekend te München op 18 februari 2017

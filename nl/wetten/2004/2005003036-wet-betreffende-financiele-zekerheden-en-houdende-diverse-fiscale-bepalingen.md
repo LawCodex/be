@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/15/2005003036/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 01-02-2005 en tekstbijwerking tot 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2004. - Wet betreffende financiële zekerheden en houdende diverse fiscale bepalingen inzake zakelijke-zekerheidsovereenkomsten en leningen met betrekking tot financiële instrumenten.

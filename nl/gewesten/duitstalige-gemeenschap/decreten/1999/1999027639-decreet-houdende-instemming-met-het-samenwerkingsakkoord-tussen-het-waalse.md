@@ -13,7 +13,7 @@ entry_into_force: 1999-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/10/1999027639/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 1999. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Waalse Gewest en de Duitstalige Gemeenschap, ondertekend te Eupen op 26 november 1998 (VERTALING).

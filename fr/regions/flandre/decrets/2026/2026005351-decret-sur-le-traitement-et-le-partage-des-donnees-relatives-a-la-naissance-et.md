@@ -13,7 +13,7 @@ entry_into_force: 2026-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/19/2026005351/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2026. - Décret sur le traitement et le partage des données relatives à la naissance et au décès

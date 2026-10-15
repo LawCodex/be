@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/30/1998007272/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-1998 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Wet houdende regeling van de [inlichtingen- en veiligheidsdiensten].&lt;W 2017-03-30/11 , art. 2, 012; Inwerkingtreding : 08-05-2017&gt;

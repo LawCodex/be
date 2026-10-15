@@ -12,7 +12,7 @@ entry_into_force: 2018-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/21/2018031038/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2018. - Wet houdende verscheidene wijzigingen inzake verkiezingen (II)

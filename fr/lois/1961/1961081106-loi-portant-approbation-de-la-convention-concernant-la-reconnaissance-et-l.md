@@ -11,7 +11,7 @@ published: 1961-10-28
 entry_into_force: 1962-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/08/11/1961081106/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AOUT 1961. - Loi portant approbation de la Convention concernant la reconnaissance et l'exécution des décisions en matière d'obligations alimentaires envers les enfants, signée à La Haye, le 15 avril 1958.

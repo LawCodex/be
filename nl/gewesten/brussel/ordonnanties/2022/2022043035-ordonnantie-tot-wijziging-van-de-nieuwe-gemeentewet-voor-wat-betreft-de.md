@@ -13,7 +13,7 @@ entry_into_force: 2023-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/15/2022043035/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2022. - Ordonnantie tot wijziging van de Nieuwe Gemeentewet voor wat betreft de verhindering of afwezigheid van de lokale uitvoerende mandatarissen

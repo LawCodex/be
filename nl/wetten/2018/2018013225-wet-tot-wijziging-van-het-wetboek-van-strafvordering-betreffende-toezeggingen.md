@@ -12,7 +12,7 @@ entry_into_force: 2018-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/22/2018013225/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2018. - Wet tot wijziging van het Wetboek van strafvordering betreffende toezeggingen in het kader van de strafvordering, de strafuitvoering of de hechtenis wegens het afleggen van een verklaring in het kader van de strijd tegen de georganiseerde criminaliteit en het terrorisme

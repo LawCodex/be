@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/21/2012203690/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "bij arrest nr. 169/2013 van 19-12-2013 (B.St. 13-03-2014, p. 21472), heeft het Grondwettekijk Hof dit decreet vernietigd"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Decreet betreffende de invoer, uitvoer, doorvoer en overdracht van civiele wapens en van defensiegerelateerde producten

@@ -13,7 +13,7 @@ entry_into_force: 1999-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/22/1999033034/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1999. - Decreet houdende toestemming met de overeenkomst inzake economische partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Verenigde Mexicaanse Staten anderzijds, de bijlage, de slotakte en de gezamenlijke verklaringen, gedaan te Brussel op 8 december 1997 (VERTALING).

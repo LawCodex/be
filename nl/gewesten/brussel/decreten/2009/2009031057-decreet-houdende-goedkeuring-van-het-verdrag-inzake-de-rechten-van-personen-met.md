@@ -13,7 +13,7 @@ entry_into_force: 2009-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/15/2009031057/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2009. - Decreet houdende goedkeuring van het Verdrag inzake de rechten van personen met een handicap en van het facultatieve Protocol bij het Verdrag inzake de rechten van personen met een handicap, aangenomen in New-York op 13 december 2006 (VERTALING).

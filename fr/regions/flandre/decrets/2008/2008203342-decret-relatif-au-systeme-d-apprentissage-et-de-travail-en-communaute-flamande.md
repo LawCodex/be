@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008203342/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-10-2008 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - Décret relatif au système d'apprentissage et de travail en Communauté flamande (TRADUCTION)

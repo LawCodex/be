@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/09/2024202296/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2024. - Wet tot wijziging van artikel 3ter, eerste lid, van het koninklijk besluit nr. 50 van 24 oktober 1967 betreffende het rust- en overlevingspensioen voor werknemers

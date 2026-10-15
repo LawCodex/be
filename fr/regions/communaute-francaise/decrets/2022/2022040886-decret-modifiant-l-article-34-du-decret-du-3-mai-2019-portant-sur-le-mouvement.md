@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/31/2022040886/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2022. - Décret modifiant l'article 34 du décret du 3 mai 2019 portant sur le mouvement sportif organisé en Communauté française

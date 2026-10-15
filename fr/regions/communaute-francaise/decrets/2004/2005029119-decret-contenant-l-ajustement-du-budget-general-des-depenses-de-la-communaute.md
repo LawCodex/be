@@ -13,7 +13,7 @@ entry_into_force: 2005-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/11/19/2005029119/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2004. - Décret contenant l'ajustement du budget général des dépenses de la Communauté française pour l'année budgétaire 2004.

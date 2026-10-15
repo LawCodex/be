@@ -13,7 +13,7 @@ entry_into_force: 2020-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/04/2020044102/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2020. - Ordonnance portant confirmation des arrêtés du Gouvernement de la Région de Bruxelles-Capitale pris en exécution de l'ordonnance du 19 mars 2020 visant à octroyer des pouvoirs spéciaux au Gouvernement de la Région de Bruxelles-Capitale dans le cadre de la crise sanitaire du COVID-19

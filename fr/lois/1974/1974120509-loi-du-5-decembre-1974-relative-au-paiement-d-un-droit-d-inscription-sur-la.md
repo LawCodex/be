@@ -11,7 +11,7 @@ published: 1974-12-13
 entry_into_force: 1974-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/12/05/1974120509/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 1974. - Loi du 5 décembre 1974 relative au [paiement d'un droit] d'inscription [sur la liste des candidats ainsi qu']aux examens et concours organisés par le Secrétariat permanent au recrutement &lt;L 1981-07-02/01, art. 80, En vigueur : 08-07-1981&gt;.

@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/30/2015036443/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2015. - Decreet houdende instemming met het zetelakkoord, met uitwisseling van brieven, tussen het Koninkrijk België en de Internationale Organisatie voor Criminele Politie - INTERPOL (O.I.C.P. - INTERPOL), ondertekend te Lyon op 14 oktober 2014 en te Brussel op 24 oktober 2014

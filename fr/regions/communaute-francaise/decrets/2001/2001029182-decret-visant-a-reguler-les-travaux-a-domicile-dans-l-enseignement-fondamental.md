@@ -13,7 +13,7 @@ entry_into_force: 2001-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/29/2001029182/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2001. - Décret visant à réguler les travaux à domicile dans l'enseignement fondamental.

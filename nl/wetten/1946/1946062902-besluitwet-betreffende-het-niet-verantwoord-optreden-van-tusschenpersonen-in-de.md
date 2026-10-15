@@ -11,7 +11,7 @@ published: 1946-07-04
 entry_into_force: 1946-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1946/06/29/1946062902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 1946. - BESLUITWET betreffende het niet-verantwoord optreden van tusschenpersonen in de verdeeling van producten, grondstoffen, enz. , en houdende wijziging van de besluitwet van 22 Januari 1945 , betreffende het beteugelen van elke inbreuk op de reglementeering betreffende de bevoorrading van het land

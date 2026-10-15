@@ -13,7 +13,7 @@ entry_into_force: 2000-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/17/2000035084/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1999. - Decreet houdende tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1999.

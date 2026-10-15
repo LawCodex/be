@@ -13,7 +13,7 @@ entry_into_force: 2009-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202300/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Corée concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles, le 12 décembre 2006

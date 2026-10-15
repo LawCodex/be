@@ -12,7 +12,7 @@ entry_into_force: 1983-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/11/14/1983001332/justel"
 department: "Intérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 1983. - Loi relative au contrôle de l'octroi et de l'emploi de certaines subventions.

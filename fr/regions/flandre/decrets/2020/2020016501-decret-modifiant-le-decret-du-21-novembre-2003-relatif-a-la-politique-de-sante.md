@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/18/2020016501/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2020 et mise à jour au 18-04-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Décret modifiant le décret du 21 novembre 2003 relatif à la politique de santé préventive et le décret du 29 mai 2020 portant organisation de l'obligation de déclaration et du suivi des contacts dans le cadre du COVID-19

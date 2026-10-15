@@ -12,7 +12,7 @@ published: 2017-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/13/2017030682/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2017. - Ordonnantie tot wijziging van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen

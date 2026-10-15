@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995025175/justel"
 department: "Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-1995 en tekstbijwerking tot 25-12-1997."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet tot wijziging van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de geneeskunst, de verpleegkunde, de paramedische beroepen en de geneeskundige commissies, met het oog op de regeling van de uitoefening van de kinesitherapie. -

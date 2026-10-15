@@ -12,7 +12,7 @@ entry_into_force: 2007-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/15/2007015025/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Loi relative à l'adhésion de la Belgique au Protocole de 1988 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, fait à Londres le 11 novembre 1988.

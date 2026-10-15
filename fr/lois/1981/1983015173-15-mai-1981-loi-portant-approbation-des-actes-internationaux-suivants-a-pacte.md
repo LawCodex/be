@@ -12,7 +12,7 @@ entry_into_force: 1983-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/05/15/1983015173/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1981. \_ Loi portant approbation des Actes internationaux suivants:a) Pacte international relatif aux droits économiques, sociaux et culturels; b) Pacte international relatif aux droits civils et politiques, faits à New York le 19 décembre 1966.

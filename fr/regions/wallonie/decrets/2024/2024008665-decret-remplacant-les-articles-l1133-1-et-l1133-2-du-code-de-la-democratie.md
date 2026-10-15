@@ -13,7 +13,7 @@ entry_into_force: 2024-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/09/05/2024008665/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBRE 2024. - Décret remplaçant les articles L1133-1 et L1133-2 du Code de la démocratie locale et de la décentralisation

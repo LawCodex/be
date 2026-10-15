@@ -11,7 +11,7 @@ published: 1977-06-10
 entry_into_force: 1977-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/02/16/1977021607/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1977. - Loi portant approbation du Protocole relatif aux marins réfugiés, fait à La Haye le 12 juin 1973.

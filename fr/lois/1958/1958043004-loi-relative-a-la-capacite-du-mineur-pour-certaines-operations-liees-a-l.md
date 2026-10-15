@@ -11,7 +11,7 @@ published: 1958-05-10
 entry_into_force: 1958-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/04/30/1958043004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 1958. - Loi [relative à la capacité du mineur pour certaines opérations liées à l'épargne] (L 04-07-1985, art. 1, MB 14-08-1985).

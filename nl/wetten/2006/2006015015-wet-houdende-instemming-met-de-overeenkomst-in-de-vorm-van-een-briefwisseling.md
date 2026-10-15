@@ -12,7 +12,7 @@ entry_into_force: 2006-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/09/2006015015/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2006. - Wet houdende instemming met de Overeenkomst in de vorm van een briefwisseling betreffende belastingheffing op inkomsten uit spaargelden tussen het Koninkrijk België en de Britse Maagdeneilanden, ondertekend te Brussel op 5 oktober 2004 en te Tortola op 11 april 2005.

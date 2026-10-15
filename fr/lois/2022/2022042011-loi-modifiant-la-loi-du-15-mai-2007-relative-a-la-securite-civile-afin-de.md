@@ -12,7 +12,7 @@ entry_into_force: 2022-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/08/13/2022042011/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2022. - Loi modifiant la loi du 15 mai 2007 relative à la sécurité civile afin de permettre au conseil de zone de secours d'organiser des réunions électroniques à distance lorsque l'ordre du jour le permet

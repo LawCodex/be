@@ -12,7 +12,7 @@ entry_into_force: 1987-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/02/04/1987016046/justel"
 department: "Agriculture"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1987. - Loi relative à l'établissement d'élevages industriels.

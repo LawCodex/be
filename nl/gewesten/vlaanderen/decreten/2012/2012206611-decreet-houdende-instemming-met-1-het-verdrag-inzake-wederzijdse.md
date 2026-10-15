@@ -12,7 +12,7 @@ entry_into_force: 2012-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/10/26/2012206611/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2012. - DECREET houdende instemming met : 1° het verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, en de bijlagen A, B en C, opgemaakt in Straatsburg op 25 januari 1988 en ondertekend op 7 februari 1992, en 2° het protocol tot wijziging van het verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, opgemaakt in Parijs op 27 mei 2010 en ondertekend op 4 april 2011

@@ -12,7 +12,7 @@ entry_into_force: 1985-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/05/21/1985004893/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 1985. - LOI portant confirmation d'arrêtés royaux en matière de douanes et accises

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/22/2024001673/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2024. - Ordonnance relative à l'octroi de subventions pluriannuelles s'inscrivant dans le cadre de la mise en oeuvre du Plan social santé intégré

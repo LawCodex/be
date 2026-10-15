@@ -12,7 +12,7 @@ entry_into_force: 2003-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/10/04/2002015175/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 OKTOBER 2002. - Wet houdende instemming met het Verdrag tot oprichting van de Europese Organisatie voor Satellietcommunicatie "EUTELSAT", zoals gewijzigd door de Assemblee van Partijen te Cardiff, op 20 mei 1999.

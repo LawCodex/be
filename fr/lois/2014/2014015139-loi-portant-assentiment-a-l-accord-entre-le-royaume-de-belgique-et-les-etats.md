@@ -12,7 +12,7 @@ entry_into_force: 2012-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/27/2014015139/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et les Etats-Unis d'Amérique relatif au statut d'une catégorie de personnel relevant des Forces des Etats-Unis, fait à Bruxelles le 13 juillet 2012

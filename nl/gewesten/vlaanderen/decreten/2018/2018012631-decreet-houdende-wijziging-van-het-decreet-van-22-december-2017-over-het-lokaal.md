@@ -13,7 +13,7 @@ entry_into_force: 2018-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/25/2018012631/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2018. - Decreet houdende wijziging van het decreet van 22 december 2017 over het lokaal bestuur, van de decreten van 4 mei 2018 over het samenvoegen van welbepaalde gemeenten, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 en van het Provinciedecreet van 9 december 2005

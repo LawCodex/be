@@ -11,7 +11,7 @@ published: 1979-12-20
 entry_into_force: 1979-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/11/30/1979113005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1979. - Wet tot bekrachtiging van vier koninklijke besluiten betreffende het tarief van invoerrechten getroffen in de loop van het jaar 1977.

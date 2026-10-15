@@ -12,7 +12,7 @@ entry_into_force: 1995-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/23/1995015092/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1994. - Loi portant approbation du Traité d'adhésion de l'Autriche, de la Finlande, de la Norvège et de la Suède à l'Union européenne, les Annexes, les Protocoles et l'Acte final, signés à Corfou le 24 juin 1994.

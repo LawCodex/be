@@ -12,7 +12,7 @@ entry_into_force: 1996-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/04/21/1994007130/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1994. - Wet tot wijziging van de wet van 14 januari 1975 houdende het tuchtreglement van de krijgsmacht en van de wet van 11 juli 1978 tot regeling van de betrekkingen tussen de overheid en de vakbonden van het militair personeel van de land-, de lucht- en de zeemacht en van de medische dienst.

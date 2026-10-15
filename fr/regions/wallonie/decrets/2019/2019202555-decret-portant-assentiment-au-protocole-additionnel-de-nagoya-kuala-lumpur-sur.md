@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/31/2019202555/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2019. - Décret portant assentiment au Protocole additionnel de Nagoya-Kuala Lumpur sur la responsabilité et la réparation relatif au protocole de Cartagena sur la prévention des risques biotechnologiques, fait à Nagoya le 15 octobre 2010

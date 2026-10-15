@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/22/2010204202/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2011 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2010. - Programmadecreet houdende verschillende maatregelen inzake goed bestuur, administratieve vereenvoudiging, begroting en vorming voor de aangelegenheden bedoeld in artikel 138 van de Grondwet

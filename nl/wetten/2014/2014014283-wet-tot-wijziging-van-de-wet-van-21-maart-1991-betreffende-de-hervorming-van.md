@@ -12,7 +12,7 @@ entry_into_force: 2014-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014014283/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven

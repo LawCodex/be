@@ -12,7 +12,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012204228/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles en ce qui concerne l'élargissement de l'autonomie constitutive de la Communauté française, de la Région wallonne et de la Communauté flamande

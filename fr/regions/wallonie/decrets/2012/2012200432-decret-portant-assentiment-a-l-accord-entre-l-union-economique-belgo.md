@@ -13,7 +13,7 @@ entry_into_force: 2012-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/12/2012200432/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2012. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République togolaise, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Lomé le 6 juin 2009

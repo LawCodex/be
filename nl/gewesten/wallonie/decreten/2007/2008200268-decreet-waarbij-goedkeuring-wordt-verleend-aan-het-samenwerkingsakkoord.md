@@ -13,7 +13,7 @@ entry_into_force: 2008-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/19/2008200268/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2007. - Decreet waarbij goedkeuring wordt verleend aan het samenwerkingsakkoord gesloten op 23 november 2007 tussen de Franse Gemeenschap en het Waalse Gewest over het gezamenlijk gebruik van infrastructuren in landelijke gebieden (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/17/1997022093/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1997. - Loi apportant certaines modifications à la loi du 21 mai 1991 établissant certaines relations entre des régimes belges de pensions et ceux d'institutions de droit international public.

@@ -12,7 +12,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003009462/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi de mise en conformité du droit belge avec la Convention internationale contre le recrutement, l'utilisation, le financement et l'instruction de mercenaires, adoptée à New York le 4 décembre 1989.

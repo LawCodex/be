@@ -13,7 +13,7 @@ entry_into_force: 1996-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/19/1996035447/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 1996. - Decreet tot goedkeuring van het Verdrag tussen de Vlaamse Gemeenschap in het Koninkrijk België en het Koninkrijk der Nederlanden inzake de samenwerking op het gebied van cultuur, onderwijs, wetenschappen en welzijn, ondertekend in Antwerpen op 17 januari 1995.

@@ -12,7 +12,7 @@ entry_into_force: 2021-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/25/2021041777/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2021. - Loi portant confirmation de l'arrêté royal du 12 juin 2020 modifiant l'arrêté royal du 4 octobre 2006 déterminant le mode de calcul et de perception de la contribution pour APETRA et abrogeant l'article 1er, § 4, de l'arrêté ministériel du 27 décembre 1978 relatif à l'enregistrement des personnes qui interviennent dans le circuit d'approvisionnement du pays et des consommateurs en pétrole et produits pétroliers

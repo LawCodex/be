@@ -12,7 +12,7 @@ entry_into_force: 2001-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/15/2001009548/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2001. - Loi modifiant les articles 190, 194, 259bis 9, 259bis 10, 259octies et 371 du Code judiciaire, insérant l'article 191bis dans le Code judiciaire et modifiant l'article 21 de la loi du 18 juillet 1991 modifiant les règles du Code judiciaire relatives à la formation et au recrutement des magistrats.

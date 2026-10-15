@@ -12,7 +12,7 @@ entry_into_force: 1999-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999009611/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi modifiant la loi du 13 avril 1995 relative au contrat d'agence commerciale.

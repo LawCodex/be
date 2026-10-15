@@ -12,7 +12,7 @@ entry_into_force: 2006-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/09/2006015041/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2006. - Wet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de rechten van het kind, inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie, aangenomen te New York op 25 mei 2000, zoals het op 14 november 2000 door de Secretaris-generaal van de Organisatie van de Verenigde Naties is verbeterd.

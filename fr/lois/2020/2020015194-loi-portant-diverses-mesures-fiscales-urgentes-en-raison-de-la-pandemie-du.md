@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/15/2020015194/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-07-2020 et mise à jour au 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2020. - Loi portant diverses mesures fiscales urgentes en raison de la pandémie du COVID-19 (CORONA III)

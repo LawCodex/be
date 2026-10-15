@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014027151/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2014 et mise à jour au 21-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Décret relatif au Code wallon de l'Agriculture

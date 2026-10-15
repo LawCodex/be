@@ -12,7 +12,7 @@ entry_into_force: 2017-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/24/2017011464/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2017. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers afin de renforcer la protection de l'ordre public et de la sécurité nationale

@@ -13,7 +13,7 @@ entry_into_force: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/28/2021043009/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2021. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne l'extension des cas dans lesquels le gestionnaire de réseau agit en tant que fournisseur de dernier ressort

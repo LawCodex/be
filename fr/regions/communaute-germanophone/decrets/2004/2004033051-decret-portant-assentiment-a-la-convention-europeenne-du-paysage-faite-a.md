@@ -13,7 +13,7 @@ entry_into_force: 2004-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/17/2004033051/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2004. - Décret portant assentiment à la Convention européenne du Paysage, faite à Florence, le 20 octobre 2000 (TRADUCTION).

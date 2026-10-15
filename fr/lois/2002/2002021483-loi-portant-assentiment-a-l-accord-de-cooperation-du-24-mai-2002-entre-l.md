@@ -12,7 +12,7 @@ entry_into_force: 2002-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/18/2002021483/justel"
 department: "Chancellerie du Premier Ministre - Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2002. - Loi portant assentiment à l'accord de coopération du 24 mai 2002 entre l'autorité fédérale et les régions relatif à la création d'une Agence pour le Commerce extérieur.

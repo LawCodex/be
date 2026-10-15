@@ -12,7 +12,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/11/2012009195/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2012. - Loi visant à permettre la régularisation des procédures d'adoption réalisées à l'étranger par des personnes résidant habituellement en Belgique

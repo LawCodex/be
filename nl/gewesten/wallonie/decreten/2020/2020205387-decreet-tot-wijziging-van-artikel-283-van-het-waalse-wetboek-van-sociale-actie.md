@@ -13,7 +13,7 @@ entry_into_force: 2020-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/03/2020205387/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2020. - Decreet tot wijziging van artikel 283 van het Waalse Wetboek van Sociale Actie en Gezondheid met het oog op de actualisering van de diensten en structuren die door de Regering kunnen worden erkend of gesubsidieerd voor zover ze in het bijzonder gericht zijn op gehandicapte personen

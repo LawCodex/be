@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/12/2021043466/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2021. - Loi instaurant le "Trajet Retour Au Travail" sous la coordination du "Coordinateur Retour Au Travail" dans l'assurance indemnités des travailleurs salariés

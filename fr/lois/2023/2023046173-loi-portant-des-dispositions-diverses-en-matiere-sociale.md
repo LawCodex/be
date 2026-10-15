@@ -12,7 +12,7 @@ entry_into_force: 2023-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/10/16/2023046173/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2023. - Loi portant des dispositions diverses en matière sociale

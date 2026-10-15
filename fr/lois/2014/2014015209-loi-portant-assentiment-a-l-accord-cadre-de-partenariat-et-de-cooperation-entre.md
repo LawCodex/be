@@ -12,7 +12,7 @@ entry_into_force: 2014-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014015209/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi portant assentiment à l'Accord-cadre de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la Mongolie, d'autre part, fait à Oulan-Bator le 30 avril 2013

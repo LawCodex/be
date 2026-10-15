@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/14/2002007064/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2002. - Loi étendant la gratuité des soins de santé à tous les anciens combattants et victimes de guerre qui bénéficient d'une rente de guerre de 3 semestres au moins.

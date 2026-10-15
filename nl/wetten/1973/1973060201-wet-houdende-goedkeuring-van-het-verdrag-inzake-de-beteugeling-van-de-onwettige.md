@@ -10,7 +10,7 @@ date: 1973-06-02
 entry_into_force: 1973-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/06/02/1973060201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1973. - Wet houdende goedkeuring van het Verdrag inzake de beteugeling van de onwettige overmeestering van luchtvaartuigen, opgemaakt te 's-Gravenhage op 16 december 1970.

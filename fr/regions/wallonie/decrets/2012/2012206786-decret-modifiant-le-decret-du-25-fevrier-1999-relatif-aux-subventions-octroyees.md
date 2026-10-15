@@ -13,7 +13,7 @@ entry_into_force: 2012-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/22/2012206786/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2012. - Décret modifiant le décret du 25 février 1999 relatif aux subventions octroyées à certains investissements en matière d'infrastructures sportives

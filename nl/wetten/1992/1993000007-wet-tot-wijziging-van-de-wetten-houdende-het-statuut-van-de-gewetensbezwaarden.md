@@ -12,7 +12,7 @@ entry_into_force: 1993-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/12/29/1993000007/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 DECEMBER 1992. - Wet tot wijziging van de wetten houdende het statuut van de gewetensbezwaarden, gecoördineerd op 20 februari 1980.

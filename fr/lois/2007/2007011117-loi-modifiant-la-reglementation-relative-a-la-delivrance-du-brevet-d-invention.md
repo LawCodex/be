@@ -11,7 +11,7 @@ published: 2007-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/06/2007011117/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2007. - Loi modifiant la réglementation relative à la délivrance du brevet d'invention et au régime de taxes dues en matière de brevets d'invention et en matière de certificats complémentaires de protection.

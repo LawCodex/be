@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/04/19/2002035703/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2002. - Decreet houdende wijziging van het Wetboek der successierechten en het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen, wat de invoering van de euro betreft.

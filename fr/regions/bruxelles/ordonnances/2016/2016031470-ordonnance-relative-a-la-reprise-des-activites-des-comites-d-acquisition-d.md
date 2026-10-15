@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/06/23/2016031470/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2016. - Ordonnance relative à la reprise des activités des Comités d'acquisition d'immeubles par la Région de Bruxelles-Capitale

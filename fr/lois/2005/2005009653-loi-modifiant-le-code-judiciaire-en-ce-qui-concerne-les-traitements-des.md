@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005009653/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi modifiant le Code judiciaire en ce qui concerne les traitements des référendaires et juristes de parquet près les cours et les tribunaux de première instance, des greffiers et des secrétaires de parquet et modifiant les articles 259duodecies et 285bis du même Code.

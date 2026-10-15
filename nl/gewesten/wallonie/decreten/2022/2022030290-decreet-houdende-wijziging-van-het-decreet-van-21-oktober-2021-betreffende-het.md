@@ -13,7 +13,7 @@ entry_into_force: 2022-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/14/2022030290/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2022. - Decreet houdende wijziging van het decreet van 21 oktober 2021 betreffende het gebruik van het COVID Safe Ticket en de mondmaskerplicht

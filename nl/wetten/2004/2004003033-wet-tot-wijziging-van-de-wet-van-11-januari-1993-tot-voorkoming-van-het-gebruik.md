@@ -12,7 +12,7 @@ entry_into_force: 2004-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/01/12/2004003033/justel"
 department: "Justitie - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2004. - Wet tot wijziging van de wet van 11 januari 1993 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld, de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen, en de wet van 6 april 1995 inzake het statuut van en het toezicht op de beleggingsondernemingen, de bemiddelaars en beleggingsadviseurs.

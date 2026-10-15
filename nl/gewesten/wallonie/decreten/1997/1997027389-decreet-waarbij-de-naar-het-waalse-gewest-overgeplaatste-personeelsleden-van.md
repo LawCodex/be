@@ -13,7 +13,7 @@ entry_into_force: 1996-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/24/1997027389/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - [Decreet waarbij de naar het Waalse Gewest overgeplaatste personeelsleden van het Commissariaat-generaal voor Internationale Betrekkingen ter beschikking worden gesteld van de Regering] (VERTALING) (ERR. B.St. 15-08-1997, p. 20989).

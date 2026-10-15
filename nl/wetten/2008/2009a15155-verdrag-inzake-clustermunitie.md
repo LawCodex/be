@@ -12,7 +12,7 @@ entry_into_force: 2010-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/05/30/2009A15155/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2008. - Verdrag inzake clustermunitie

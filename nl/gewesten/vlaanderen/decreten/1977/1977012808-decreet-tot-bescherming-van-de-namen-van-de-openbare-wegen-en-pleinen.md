@@ -14,7 +14,7 @@ last_amended: 2021-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1977/01/28/1977012808/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 17-12-2002 en tekstbijwerking tot 04-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 1977. - Decreet tot bescherming van de namen van de openbare wegen en pleinen. -

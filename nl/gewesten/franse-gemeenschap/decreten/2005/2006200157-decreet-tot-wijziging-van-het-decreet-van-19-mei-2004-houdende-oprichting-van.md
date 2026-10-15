@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/16/2006200157/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2005. - Decreet tot wijziging van het decreet van 19 mei 2004 houdende oprichting van een Management School bij de " Université de Liège " (VERTALING).

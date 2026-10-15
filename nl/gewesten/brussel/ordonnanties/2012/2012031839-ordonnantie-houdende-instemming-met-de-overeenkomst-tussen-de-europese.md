@@ -13,7 +13,7 @@ entry_into_force: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/11/29/2012031839/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2012. - Ordonnantie houdende instemming met : de Overeenkomst tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, tot wijziging van de overeenkomst inzake handel, ontwikkeling en samenwerking van 11 oktober 1999, ondertekend te Kleinmond op 11 september 2009

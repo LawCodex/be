@@ -12,7 +12,7 @@ entry_into_force: 2007-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/09/2007009375/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2006. - Loi modifiant l'article 145 du Code civil. (Erratum, M.B. 21.05.2007, p. 27388)

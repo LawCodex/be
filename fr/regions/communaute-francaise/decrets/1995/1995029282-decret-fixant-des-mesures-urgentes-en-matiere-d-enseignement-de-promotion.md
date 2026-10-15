@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029282/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-06-1995 et mise à jour au 06-04-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret fixant des mesures urgentes en matière d'enseignement de promotion sociale. -

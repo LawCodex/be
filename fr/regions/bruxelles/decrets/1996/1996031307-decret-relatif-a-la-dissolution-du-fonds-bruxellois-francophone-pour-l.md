@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/18/1996031307/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1996. - Décret relatif à la dissolution du Fonds bruxellois francophone pour l'intégration sociale et professionnelle des personnes handicapées.

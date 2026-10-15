@@ -13,7 +13,7 @@ entry_into_force: 2000-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/16/2000029131/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2000. - Decreet tot bevestiging van de eindtermen en de vereiste kennis voor de economische wetenschappen, de sociale wetenschappen en de lichamelijke opvoeding na de overgangsafdeling (VERTALING).

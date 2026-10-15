@@ -13,7 +13,7 @@ entry_into_force: 2012-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/01/2012031112/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2012. - Ordonnance modifiant l'ordonnance du 7 mars 1991 relative à la prévention et à la gestion des déchets et l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement

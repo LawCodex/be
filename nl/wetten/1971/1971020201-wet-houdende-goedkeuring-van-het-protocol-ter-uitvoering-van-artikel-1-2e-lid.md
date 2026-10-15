@@ -11,7 +11,7 @@ published: 1973-12-11
 entry_into_force: 1973-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/02/02/1971020201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 1971. - Wet houdende goedkeuring van het Protocol ter uitvoering van artikel 1, 2e lid, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof, ondertekend te 's Gravenhage op 29 april 1969.

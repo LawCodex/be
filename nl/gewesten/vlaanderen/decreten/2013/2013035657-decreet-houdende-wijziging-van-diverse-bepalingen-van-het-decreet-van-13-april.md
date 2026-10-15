@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/05/2013035657/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2013. - Decreet houdende wijziging van diverse bepalingen van het decreet van 13 april 1999 tot regeling van de rechtspositie van het statutair en het contractueel personeel van het VRT-Filharmonisch Orkest en het VRT-koor

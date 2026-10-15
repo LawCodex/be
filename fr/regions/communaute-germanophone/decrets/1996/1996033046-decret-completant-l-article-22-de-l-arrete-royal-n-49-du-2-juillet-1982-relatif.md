@@ -13,7 +13,7 @@ entry_into_force: 1995-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/02/05/1996033046/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1996. - Décret complétant l'article 22 de l'arrêté royal n° 49 du 2 juillet 1982 relatif aux normes de création, de maintien et de dédoublement et au calcul du crédit d'heures de l'enseignement secondaire de type I, concernant la fusion d'établissements, ainsi que certains emplois du personnel des établissements d'enseignement secondaire de plein exercice de type I et type II (TRADUCTION).

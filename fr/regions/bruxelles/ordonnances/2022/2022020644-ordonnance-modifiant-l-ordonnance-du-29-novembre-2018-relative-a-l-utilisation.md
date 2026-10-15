@@ -13,7 +13,7 @@ entry_into_force: 2022-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/03/17/2022020644/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2022. - Ordonnance modifiant l'ordonnance du 29 novembre 2018 relative à l'utilisation de modes de transport partagés en flotte libre alternatifs à l'automobile

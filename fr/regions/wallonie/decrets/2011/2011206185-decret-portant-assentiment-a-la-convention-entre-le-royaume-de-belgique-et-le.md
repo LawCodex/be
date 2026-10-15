@@ -13,7 +13,7 @@ entry_into_force: 2011-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/01/2011206185/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2011. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et les Protocoles Ier et II et l'échange de lettres, faits à Luxembourg le 5 juin 2001, modifiés par le Protocole fait à Berlin le 23 juin 2009 ainsi qu'au Protocole, fait à Berlin le 23 juin 2009, modifiant la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et les Protocoles Ier et II, signés à Luxembourg le 5 juin 2001

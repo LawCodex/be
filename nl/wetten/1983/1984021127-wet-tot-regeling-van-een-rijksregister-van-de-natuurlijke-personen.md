@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/08/08/1984021127/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 22-02-1990 en tekstbijwerking tot 03-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1983. - Wet tot regeling van een Rijksregister van de natuurlijke personen.

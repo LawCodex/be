@@ -13,7 +13,7 @@ entry_into_force: 2013-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/04/2018012158/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2018. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation des Nations unies pour l'Education, la Science et la Culture sur l'établissement en Belgique par cette organisation d'un bureau de liaison auprès des institutions de l'Union européenne, et son Annexe, faits à Paris le 3 juillet 2013

@@ -12,7 +12,7 @@ entry_into_force: 2022-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/01/29/2022031260/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2022. - Wet houdende instemming met het Verdrag van de Raad van Europa tegen de handel in menselijke organen, gedaan te Santiago de Compostella op 25 maart 2015

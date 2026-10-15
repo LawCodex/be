@@ -12,7 +12,7 @@ entry_into_force: 1995-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029602/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet houdende toestemming in het Cultureel Akkoord tussen de Regering van de Franse Gemeenschap van België en de Regering van de Republiek Chili, gesloten te Brussel op 11 januari 1994 (VERTALING).

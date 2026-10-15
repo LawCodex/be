@@ -13,7 +13,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/10/2006201313/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2006. - Decreet tot wijziging van het decreet van 27 februari 2003 houdende erkenning en subsidiëring van de plaatselijke sportcentra en de geïntegreerde plaatselijke sportcentra. (Vertaling).

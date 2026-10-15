@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/10/22/2020015844/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2020. - Ordonnance modifiant l'ordonnance du 4 avril 2019 relative à l'agrément, à la programmation et aux procédures d'agrément des hôpitaux, des formes de collaboration hospitalière ou des activités hospitalières, afin de permettre la collaboration entre hôpitaux impliquant une personne morale de droit public visée au chapitre XIIbis de la loi du 8 juillet 1976 organique des centres publics d'action sociale

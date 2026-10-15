@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/13/2019200641/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2019 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2018. - Décret concernant les offres pour personnes âgées ou dépendantes ainsi que les soins palliatifs

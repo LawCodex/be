@@ -13,7 +13,7 @@ entry_into_force: 2021-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/02/2021034178/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2021. - Ordonnance portant assentiment à l'accord entre la République de Lituanie et la Région de Bruxelles-Capitale sur les transferts statistiques d'énergie produite à partir de sources renouvelables à des fins de conformité avec les directives 2009/28/CE et (UE) 2018/2001, signé à Vilnius/Bruxelles le 15 juillet 2021

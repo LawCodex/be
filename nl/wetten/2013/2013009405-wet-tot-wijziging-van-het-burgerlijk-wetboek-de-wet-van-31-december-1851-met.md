@@ -11,7 +11,7 @@ entry_into_force: 2013-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/02/2013009405/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2013. - Wet tot wijziging van het Burgerlijk Wetboek, de wet van 31 december 1851 met betrekking tot de consulaten en de consulaire rechtsmacht, het Strafwetboek, het Gerechtelijk Wetboek en de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, met het oog op de strijd tegen de schijnhuwelijken en de schijnwettelijke samenwoningen

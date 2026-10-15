@@ -13,7 +13,7 @@ entry_into_force: 2017-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017040435/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende instemming met het Protocol tot wijziging van de Benelux-Overeenkomst op het gebied van de jacht en de vogelbescherming, gedaan te Brussel op 17 februari 2016

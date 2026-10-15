@@ -12,7 +12,7 @@ entry_into_force: 2007-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/28/2007009367/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2007. - Wet tot wijziging, wat de regeling van het erfrecht van de langstlevende wettelijk samenwonende betreft, van het Burgerlijk Wetboek en van de wet van 29 augustus 1988 op de erfregeling inzake landbouwbedrijven met het oog op het bevorderen van de continuïteit.

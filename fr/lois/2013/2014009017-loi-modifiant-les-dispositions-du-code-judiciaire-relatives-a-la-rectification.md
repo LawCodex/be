@@ -12,7 +12,7 @@ entry_into_force: 2014-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/10/24/2014009017/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2013. - Loi modifiant les dispositions du Code judiciaire relatives à la rectification d'erreurs matérielles ou à la réparation d'omissions dans les décisions judiciaires ainsi qu'à l'interprétation des décisions judiciaires

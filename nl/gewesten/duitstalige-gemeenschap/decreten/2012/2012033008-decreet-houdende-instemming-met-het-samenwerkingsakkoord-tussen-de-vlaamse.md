@@ -11,7 +11,7 @@ date: 2012-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/25/2012033008/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2012. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport, gedaan te Brussel op 9 december 2011

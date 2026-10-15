@@ -13,7 +13,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/16/2023041198/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2023. - Décret modifiant le décret du 10 novembre 2011 relatif au soutien au cinéma et à la création audiovisuelle

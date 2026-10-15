@@ -12,7 +12,7 @@ entry_into_force: 2004-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2004015111/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment au Protocole sur l'eau et la santé à la Convention de 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, fait à Londres le 17 juin 1999.

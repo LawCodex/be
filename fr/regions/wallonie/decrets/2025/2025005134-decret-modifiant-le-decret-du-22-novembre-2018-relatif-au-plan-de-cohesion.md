@@ -13,7 +13,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/26/2025005134/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2025. - Décret modifiant le décret du 22 novembre 2018 relatif au plan de cohésion sociale pour ce qui concerne les matières dont l'exercice a été transféré de la Communauté française

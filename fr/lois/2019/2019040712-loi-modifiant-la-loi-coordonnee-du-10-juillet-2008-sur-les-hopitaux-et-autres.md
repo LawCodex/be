@@ -12,7 +12,7 @@ entry_into_force: 2019-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/28/2019040712/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2019. - Loi modifiant la loi coordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins, en ce qui concerne le réseautage clinique entre hôpitaux

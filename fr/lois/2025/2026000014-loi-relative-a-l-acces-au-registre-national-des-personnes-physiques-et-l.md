@@ -12,7 +12,7 @@ entry_into_force: 2026-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/10/2026000014/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2025. - Loi relative à l'accès au Registre national des personnes physiques et l'utilisation du numéro du Registre national par le Service Public Fédéral Stratégie et Appui

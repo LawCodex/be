@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/31/2023044116/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2023. - Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne les indemnités octroyées à des artistes

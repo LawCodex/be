@@ -12,7 +12,7 @@ published: 2000-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/30/2000035825/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2000. - Decreet houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2000.

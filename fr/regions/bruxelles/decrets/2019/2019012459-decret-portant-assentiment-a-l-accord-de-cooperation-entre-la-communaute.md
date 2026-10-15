@@ -12,7 +12,7 @@ published: 2019-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/09/2019012459/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Décret portant assentiment à l'accord de coopération entre la Communauté flamande, la Région wallonne, la Communauté française, la Commission communautaire commune, la Commission communautaire française et la Communauté germanophone concernant le financement des soins en cas de recours à des institutions de soins en dehors des limites de l'entité fédérée

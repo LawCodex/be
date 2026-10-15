@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/05/1998027112/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1998. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, signé à Bruxelles le 26 avril 1993 ainsi qu'aux échanges de lettres y annexés.

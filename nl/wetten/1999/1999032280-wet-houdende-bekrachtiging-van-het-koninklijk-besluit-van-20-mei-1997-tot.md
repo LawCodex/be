@@ -12,7 +12,7 @@ entry_into_force: 1999-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/23/1999032280/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1999. - Wet houdende bekrachtiging van het koninklijk besluit van 20 mei 1997 tot wijziging van het KB/WIB 92, voorzover het betrekking heeft op de bedrijfsvoorheffing, en van het koninklijk besluit van 5 december 1997 tot wijziging van het KB/WIB 92, op het stuk van de bedrijfsvoorheffing.

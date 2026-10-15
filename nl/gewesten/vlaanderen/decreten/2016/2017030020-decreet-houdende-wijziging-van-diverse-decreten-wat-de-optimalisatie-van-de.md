@@ -13,7 +13,7 @@ entry_into_force: 2017-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/09/2017030020/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2016. - Decreet houdende wijziging van diverse decreten, wat de optimalisatie van de organisatie en de rechtspleging van de Vlaamse bestuursrechtcolleges betreft

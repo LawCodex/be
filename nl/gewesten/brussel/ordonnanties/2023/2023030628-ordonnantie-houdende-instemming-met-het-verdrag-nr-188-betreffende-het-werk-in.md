@@ -13,7 +13,7 @@ entry_into_force: 2023-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/03/02/2023030628/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Ordonnantie houdende instemming met het Verdrag nr. 188 betreffende het werk in de visserijsector, aangenomen door de Internationale Arbeidsconferentie in haar 96e zitting in Genève op 14 juni 2007

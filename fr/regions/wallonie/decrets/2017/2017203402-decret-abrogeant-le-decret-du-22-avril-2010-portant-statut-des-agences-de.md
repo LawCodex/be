@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/15/2017203402/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2017. - Décret abrogeant le décret du 22 avril 2010 portant statut des agences de voyages et l'arrêté du Gouvernement wallon du 27 mai 2010 portant statut des agences de voyages

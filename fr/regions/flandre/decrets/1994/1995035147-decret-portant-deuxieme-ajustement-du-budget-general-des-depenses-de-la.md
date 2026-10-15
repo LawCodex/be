@@ -13,7 +13,7 @@ entry_into_force: 1995-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/21/1995035147/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1994. - DECRET portant deuxième ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 1994

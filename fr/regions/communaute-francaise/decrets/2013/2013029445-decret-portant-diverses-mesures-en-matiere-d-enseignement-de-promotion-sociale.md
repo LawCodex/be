@@ -13,7 +13,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/20/2013029445/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2013. - Décret portant diverses mesures en matière d'enseignement de promotion sociale, définissant ses organes de pilotage et intégrant l'e-learning dans son offre d'enseignement

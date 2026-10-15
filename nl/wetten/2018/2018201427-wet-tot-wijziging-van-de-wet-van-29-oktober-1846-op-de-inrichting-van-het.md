@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/18/2018201427/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2018. - Wet tot wijziging van de wet van 29 oktober 1846 op de inrichting van het Rekenhof wat de controle op de mandatenlijst en de vermogensaangifte betreft

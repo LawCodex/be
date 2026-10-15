@@ -13,7 +13,7 @@ last_amended: 2023-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/07/04/1962070402/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-1994 en tekstbijwerking tot 16-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 1962. - [Wet betreffende de openbare statistiek.] &lt;W 01-08-1985, art. 64&gt;

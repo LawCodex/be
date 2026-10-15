@@ -13,7 +13,7 @@ entry_into_force: 2022-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/23/2022030020/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Décret modifiant le Décret provincial du 9 décembre 2005, en ce qui concerne la tenue de réunions virtuelles et hybrides

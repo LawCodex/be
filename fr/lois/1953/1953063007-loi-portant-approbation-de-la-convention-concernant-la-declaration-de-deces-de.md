@@ -11,7 +11,7 @@ published: 1953-08-22
 entry_into_force: 1953-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/06/30/1953063007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1953. - Loi portant approbation de la Convention concernant la déclaration de décès de personnes disparues et de l'Acte final, signés à Lake Success, le 6 avril 1950.

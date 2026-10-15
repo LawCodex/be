@@ -11,7 +11,7 @@ published: 2018-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018204312/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Bijzondere wet tot wijziging van artikel 6 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen wat de verkiezingsuitgaven voor de lokale verkiezingen betreft

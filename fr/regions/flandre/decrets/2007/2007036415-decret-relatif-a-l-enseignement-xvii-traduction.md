@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/22/2007036415/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-08-2007 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2007. - Décret relatif à l'enseignement XVII (TRADUCTION).

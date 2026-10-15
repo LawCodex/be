@@ -18,7 +18,7 @@ justel_notes:
   - "Ce décret n'est plus applicable à l'enseignement supérieur de plein exercice, à l'exception des articles 34 et 57 par DCFL 1994-07-13/32, art. 366, 21°; En vigueur : indéterminée "
   - "ce décret est abrogé en ce qui concerne les instituts supérieurs, sauf les articles 34 et 57; AGF 1996-05-09/39 , art. 2, 40°, En vigueur : 01-01-1996"
   - "Consultation des versions antérieures à partir du 16-03-1995 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1993. - Décret relatif à l'enseignement-V. (TRADUCTION)

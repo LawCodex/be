@@ -12,7 +12,7 @@ entry_into_force: 2002-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002011274/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 2002. - Loi modifiant la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs et modifiant les articles 29 et 31 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre.

@@ -12,7 +12,7 @@ entry_into_force: 2021-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/21/2021032101/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2021. - Wet tot omzetting van bepaalde aspecten van richtlijn 2019/2177 (II)

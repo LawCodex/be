@@ -13,7 +13,7 @@ entry_into_force: 2021-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/02/2021034181/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2021. - Ordonnance portant assentiment à l'accord de coopération du 19 mars 2021 entre la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant sur la coordination du contrôle et de la surveillance des législations régionales relatives à l'emploi

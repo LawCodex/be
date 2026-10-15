@@ -13,7 +13,7 @@ entry_into_force: 2022-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/17/2022015154/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2022. - Decreet tot instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Republiek Guinee betreffende het luchtvervoer, gedaan te Conakry op 2 april 2015

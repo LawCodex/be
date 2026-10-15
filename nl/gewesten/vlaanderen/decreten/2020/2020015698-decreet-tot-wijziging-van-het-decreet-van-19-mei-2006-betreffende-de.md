@@ -13,7 +13,7 @@ entry_into_force: 2020-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/02/2020015698/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 OKTOBER 2020. - Decreet tot wijziging van het decreet van 19 mei 2006 betreffende de Winwinlening, wat betreft de COVID-19-Winwinlening

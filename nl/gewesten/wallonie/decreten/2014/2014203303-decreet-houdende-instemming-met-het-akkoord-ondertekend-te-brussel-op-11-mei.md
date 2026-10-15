@@ -13,7 +13,7 @@ entry_into_force: 2014-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/28/2014203303/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2014. - Decreet houdende instemming met het Akkoord, ondertekend te Brussel op 11 mei 2010, tussen het Koninkrijk België en Anguilla inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden

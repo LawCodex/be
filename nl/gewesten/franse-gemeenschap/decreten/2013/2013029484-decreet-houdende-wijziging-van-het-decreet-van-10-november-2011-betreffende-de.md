@@ -13,7 +13,7 @@ entry_into_force: 2013-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/17/2013029484/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Decreet houdende wijziging van het decreet van 10 november 2011 betreffende de ondersteuning van de filmsector en de audiovisuele creatie

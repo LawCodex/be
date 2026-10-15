@@ -12,7 +12,7 @@ entry_into_force: 2017-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/18/2017013895/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 2017. - Loi transposant la directive 2014/62/UE du Parlement européen et du Conseil du 15 mai 2014 relative à la protection pénale de l'euro et des autres monnaies contre la contrefaçon, et remplaçant la décision-cadre 2000/383/JAI du Conseil

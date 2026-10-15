@@ -11,7 +11,7 @@ date: 2013-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/08/2013031858/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2013. - Decreet houdende invoering van een financiële centralisatie van de thesaurie van de Franse Gemeenschapscommissie en van het Franstalig Brussels Instituut voor Beroepsopleiding

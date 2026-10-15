@@ -13,7 +13,7 @@ entry_into_force: 1982-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/07/01/1982001227/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 1982. - Decreet inzake opgravingen uitgevoerd bij middel van metaaldetectors.

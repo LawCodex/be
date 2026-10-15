@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/05/1995035721/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 08-06-1995 en tekstbijwerking tot 14-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Decreet tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs.

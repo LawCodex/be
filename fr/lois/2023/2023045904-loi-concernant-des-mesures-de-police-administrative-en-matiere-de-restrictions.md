@@ -12,7 +12,7 @@ entry_into_force: 2024-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/23/2023045904/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Loi concernant des mesures de police administrative en matière de restrictions de voyage et de formulaire de localisation du passager et modifiant diverses dispositions relatives au comité de sécurité de l'information

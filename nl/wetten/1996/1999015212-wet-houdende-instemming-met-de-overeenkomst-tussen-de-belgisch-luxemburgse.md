@@ -12,7 +12,7 @@ entry_into_force: 2000-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/16/1999015212/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1996. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Mongolië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 3 maart 1992.

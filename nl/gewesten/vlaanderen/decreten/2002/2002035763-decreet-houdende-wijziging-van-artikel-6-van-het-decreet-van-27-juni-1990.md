@@ -13,7 +13,7 @@ entry_into_force: 2002-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/08/2002035763/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2002. - Decreet houdende wijziging van artikel 6 van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap.

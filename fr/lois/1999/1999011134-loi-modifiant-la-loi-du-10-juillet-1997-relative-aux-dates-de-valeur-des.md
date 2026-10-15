@@ -12,7 +12,7 @@ entry_into_force: 1999-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/19/1999011134/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1999. - Loi modifiant la loi du 10 juillet 1997 relative aux dates de valeur des opérations bancaires.

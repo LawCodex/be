@@ -13,7 +13,7 @@ entry_into_force: 2022-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/01/12/2023040023/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2023. - Décret modifiant le décret du 19 mai 2004 instituant un fonds d'aide à la mobilité étudiante au sein de l'espace européen de l'enseignement supérieur et d'autres dispositions en matière de mobilité étudiante

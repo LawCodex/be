@@ -12,7 +12,7 @@ entry_into_force: 1994-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/15/1994000069/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1993. - Loi modifiant la loi du 18 juillet 1991 organique du Contrôle des Services de Police et de Renseignements.

@@ -13,7 +13,7 @@ entry_into_force: 2011-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/02/03/2011031082/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2011. - Ordonnantie van 31 januari 2008 houdende de vaststelling van een regeling voor de handel in broeikasgasemissierechten en met betrekking tot de flexibiliteitsmechanismen van het Protocol van Kyoto

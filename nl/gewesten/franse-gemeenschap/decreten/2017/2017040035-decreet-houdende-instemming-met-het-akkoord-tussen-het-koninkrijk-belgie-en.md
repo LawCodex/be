@@ -13,7 +13,7 @@ entry_into_force: 2017-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/26/2017040035/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2017. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en Bioversity International, ondertekend te Brussel op 3 december 2012, tot wijziging van het Zetelakkoord tussen het Koninkrijk België en het International Plant Genetic Resources Institute, ondertekend te Brussel op 15 oktober 2003

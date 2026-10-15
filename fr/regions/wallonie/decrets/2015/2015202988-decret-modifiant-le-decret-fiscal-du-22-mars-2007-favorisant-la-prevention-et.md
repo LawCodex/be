@@ -13,7 +13,7 @@ entry_into_force: 2015-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/19/2015202988/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2015. - Décret modifiant le décret fiscal du 22 mars 2007 favorisant la prévention et la valorisation des déchets en Région wallonne et portant modification du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales directes

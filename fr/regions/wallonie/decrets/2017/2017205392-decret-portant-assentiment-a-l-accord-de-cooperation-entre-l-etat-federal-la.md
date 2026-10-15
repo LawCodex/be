@@ -12,7 +12,7 @@ published: 2017-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/12/2017205392/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2017. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française et la Communauté germanophone en vue de transposer partiellement la Directive 2014/61/UE du Parlement européen et du Conseil du 15 mai 2014 relative à des mesures visant à réduire le coût du déploiement de réseaux de communications électroniques à haut débit

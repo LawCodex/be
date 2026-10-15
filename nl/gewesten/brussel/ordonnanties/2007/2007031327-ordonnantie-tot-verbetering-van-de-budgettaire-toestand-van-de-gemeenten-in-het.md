@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/19/2007031327/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 14-09-2017 en tekstbijwerking tot 14-09-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Ordonnantie tot verbetering van de budgettaire toestand van de gemeenten in het Brussels Hoofdstedelijk Gewest

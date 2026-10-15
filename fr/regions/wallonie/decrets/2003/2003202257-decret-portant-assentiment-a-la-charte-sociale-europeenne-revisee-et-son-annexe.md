@@ -13,7 +13,7 @@ entry_into_force: 2003-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2003202257/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant assentiment à la Charte sociale européenne révisée et son Annexe, faites à Strasbourg le 3 mai 1996.

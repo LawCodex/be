@@ -11,7 +11,7 @@ published: 2023-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/11/2023031314/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2023. - Loi modifiant l'article 124, 1°, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015, en vue d'y adapter la législation relative à l'exercice de prestations techniques infirmières par un aidant proche ou par un aidant qualifié

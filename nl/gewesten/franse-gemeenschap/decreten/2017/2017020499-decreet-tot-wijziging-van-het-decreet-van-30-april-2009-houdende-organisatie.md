@@ -13,7 +13,7 @@ entry_into_force: 2017-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/06/2017020499/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2017. - Decreet tot wijziging van het decreet van 30 april 2009 houdende organisatie van een gedifferentieerde omkadering binnen de schoolinrichtingen van de Franse Gemeenschap om alle leerlingen gelijke kansen op sociale emancipatie te bieden in een kwaliteitsvolle pedagogische omgeving en van het decreet van 19 februari 2009 tot organisatie van de gedifferentieerde versterking van de technische personeelsformatie van de psycho-medisch-sociale centra

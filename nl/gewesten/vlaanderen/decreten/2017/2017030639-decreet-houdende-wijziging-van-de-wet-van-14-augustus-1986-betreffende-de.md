@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017030639/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat de toegelaten methodes voor het slachten van dieren betreft

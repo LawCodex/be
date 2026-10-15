@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996036088/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-09-1996 et mise à jour au 06-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1996. - Décret fixant le statut du sportif amateur (TRADUCTION).

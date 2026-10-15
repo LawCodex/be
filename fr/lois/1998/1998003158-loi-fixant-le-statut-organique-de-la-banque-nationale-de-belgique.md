@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/22/1998003158/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-03-1998 et mise à jour au 07-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1998. - Loi fixant le statut organique de la Banque Nationale de Belgique.

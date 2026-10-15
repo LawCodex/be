@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/01/30/2014031134/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2014. - Ordonnantie houdende instemming met : de Economische Partnerschapsovereenkomst tussen de Cariforumstaten, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, en met de Slotakte, gedaan te Bridgetown, Barbados, op 15 oktober 2008

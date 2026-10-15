@@ -13,7 +13,7 @@ entry_into_force: 2019-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019012999/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à l'accord de coopération du 30 janvier 2019 entre l'Etat fédéral, les Communautés et les Régions relatif à la prévention et à la gestion de l'introduction et la propagation des espèces exotiques envahissantes

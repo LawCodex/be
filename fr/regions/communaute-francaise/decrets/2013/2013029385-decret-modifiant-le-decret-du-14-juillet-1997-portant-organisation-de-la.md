@@ -13,7 +13,7 @@ entry_into_force: 2013-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/06/2013029385/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2013. - Décret modifiant le décret du 14 juillet 1997 portant organisation de la promotion de la santé

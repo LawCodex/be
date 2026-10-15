@@ -13,7 +13,7 @@ entry_into_force: 2013-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029410/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet houdende wijziging van het decreet van 8 februari 1999 betreffende de ambten en bekwaamheidsbewijzen van de leden van het onderwijzend personeel in de Hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap

@@ -12,7 +12,7 @@ entry_into_force: 2014-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/10/2014014330/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2014. - Wet houdende uitvoering van Verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004

@@ -13,7 +13,7 @@ entry_into_force: 2003-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/20/2003029122/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2003. - Décret portant assentiment à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République arabe d'Egypte, d'autre part, et l'Acte final, fait à Luxembourg le 25 juin 2001.

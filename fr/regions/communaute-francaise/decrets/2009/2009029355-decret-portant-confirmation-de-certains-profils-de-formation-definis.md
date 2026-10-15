@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029355/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant confirmation de certains profils de formation définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire

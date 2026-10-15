@@ -12,7 +12,7 @@ entry_into_force: 2006-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/16/2006007032/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2006. - Wet houdende de heropening van de termijnen voor het indienen van aanvragen tot het bekomen van een statuut van nationale erkentelijkheid van de oorlog 1940-1945 en van de veldtocht in Korea.

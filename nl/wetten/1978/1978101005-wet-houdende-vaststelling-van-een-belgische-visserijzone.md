@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/10/10/1978101005/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 29-05-1999 en tekstbijwerking tot 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1978. - Wet houdende vaststelling van een Belgische visserijzone.

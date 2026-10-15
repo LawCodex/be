@@ -12,7 +12,7 @@ entry_into_force: 2019-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/14/2018205389/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2018. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles en ce qui concerne le cumul d'indemnités publiques

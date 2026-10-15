@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/11/30/2017031697/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 20-04-2018 et mise à jour au 15-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2017. - Ordonnance réformant le Code bruxellois de l'aménagement du territoire et l'ordonnance du 5 juin 1997 relative aux permis d'environnement et modifiant certaines législations connexes

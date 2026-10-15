@@ -12,7 +12,7 @@ entry_into_force: 2026-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/12/2026002450/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2026. - Wet houdende instemming met het samenwerkingsakkoord van 31 januari 2025 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap houdende de creatie van een elektronisch platform inzake de gecombineerde verblijfsaanvraagprocedure met het oog op de tewerkstelling van buitenlandse werknemers, de aanvraagprocedure voor buitenlandse werknemers en zelfstandigen en in het kader van de coördinatie van het beleid inzake de tewerkstelling en het verblijf van buitenlandse werknemers en zelfstandigen

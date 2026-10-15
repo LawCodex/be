@@ -12,7 +12,7 @@ entry_into_force: 2020-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/16/2020044448/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2020. - Loi relative aux bénéficiaires de l'accord sur le retrait du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord de l'Union européenne et de la Communauté européenne de l'énergie atomique

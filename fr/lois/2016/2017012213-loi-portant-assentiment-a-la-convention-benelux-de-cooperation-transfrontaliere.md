@@ -12,7 +12,7 @@ entry_into_force: 2018-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/01/2017012213/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2016. - Loi portant assentiment à la Convention Benelux de coopération transfrontalière et interterritoriale, faite à La Haye le 20 février 2014

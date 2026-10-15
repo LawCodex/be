@@ -12,7 +12,7 @@ entry_into_force: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/12/2026201717/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2026. - Wet tot wijziging van de wet van 20 juli 1991 houdende sociale en diverse bepalingen

@@ -11,7 +11,7 @@ entry_into_force: 2006-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/07/2013015012/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2012. - Wet houdende instemming met het Aanvullend Akkoord tussen het Koninkrijk België en de Europese Organisatie voor de veiligheid van de luchtvaart bij het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart " Eurocontrol " van 13 december 1960, inzake de voorrechten en immuniteiten van de Organisatie, en zijn Gemeenschappelijke Verklaring, gedaan te Brussel op 17 juli 2006

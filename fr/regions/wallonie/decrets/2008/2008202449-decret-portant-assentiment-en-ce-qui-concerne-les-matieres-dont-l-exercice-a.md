@@ -13,7 +13,7 @@ entry_into_force: 2008-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/03/2008202449/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2008. - Décret portant assentiment, en ce qui concerne les matières dont l'exercice a été transféré de la Communauté française à la Région wallonne, à l'Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, et Acte final, faits à Luxembourg, le 12 juin 2006.

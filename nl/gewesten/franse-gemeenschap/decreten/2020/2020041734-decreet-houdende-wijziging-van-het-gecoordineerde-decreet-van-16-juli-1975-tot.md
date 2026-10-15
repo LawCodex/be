@@ -13,7 +13,7 @@ entry_into_force: 2020-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/11/2020041734/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2020. - Decreet houdende wijziging van het gecoördineerde decreet van 16 juli 1975 tot inrichting van een letterkundige prijs van het Parlement van de Franse Gemeenschap

@@ -12,7 +12,7 @@ entry_into_force: 2001-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/04/02/2001021209/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2001. - Loi spéciale insérant un article 60bis dans la loi spéciale du 6 janvier 1989 sur la Cour d'Arbitrage.

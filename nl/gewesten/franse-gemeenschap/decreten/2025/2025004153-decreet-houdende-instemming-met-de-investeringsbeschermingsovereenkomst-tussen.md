@@ -13,7 +13,7 @@ entry_into_force: 2025-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/22/2025004153/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2025. - Decreet houdende instemming met de Investeringsbeschermingsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Singapore, anderzijds, gedaan te Brussel op 19 oktober 2018

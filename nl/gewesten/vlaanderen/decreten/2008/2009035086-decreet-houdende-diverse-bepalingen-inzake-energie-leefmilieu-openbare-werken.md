@@ -13,7 +13,7 @@ entry_into_force: 2009-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/12/2009035086/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2008. - Decreet houdende diverse bepalingen inzake energie, leefmilieu, openbare werken, landbouw en visserij

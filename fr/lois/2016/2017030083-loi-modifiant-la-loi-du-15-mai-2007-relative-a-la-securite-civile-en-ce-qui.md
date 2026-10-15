@@ -12,7 +12,7 @@ entry_into_force: 2017-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/18/2017030083/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2016. - Loi modifiant la loi du 15 mai 2007 relative à la sécurité civile, en ce qui concerne la suppression du cautionnement pour le comptable spécial

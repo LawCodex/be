@@ -12,7 +12,7 @@ entry_into_force: 2006-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/07/2006022007/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2005. - Loi abrogeant l'article 76, alinéa premier, et l'article 168, alinéa 6, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

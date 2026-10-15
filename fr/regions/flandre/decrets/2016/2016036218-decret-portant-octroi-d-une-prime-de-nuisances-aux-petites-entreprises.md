@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036218/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-09-2016 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Décret portant octroi d'une prime de nuisances aux petites entreprises sérieusement incommodées par des travaux publics en Région flamande

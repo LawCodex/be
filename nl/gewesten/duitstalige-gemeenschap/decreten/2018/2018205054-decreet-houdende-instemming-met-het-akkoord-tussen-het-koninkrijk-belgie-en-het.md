@@ -13,7 +13,7 @@ entry_into_force: 2018-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/17/2018205054/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2018. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en het Koninkrijk der Nederlanden ten behoeve van Aruba inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te 's-Gravenhage op 24 april 2014

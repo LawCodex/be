@@ -12,7 +12,7 @@ entry_into_force: 1976-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/01/05/1976010507/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JANVIER 1976. - Loi relative aux propositions budgétaires 1975-1976.

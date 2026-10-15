@@ -13,7 +13,7 @@ entry_into_force: 2025-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/09/22/2025007673/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBRE 2025. - Décret portant assentiment aux actes internationaux suivants : 1° la Convention entre le Royaume de Belgique et la République de l'Ouganda tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, faite à Kampala le 26 juillet 2007; 2° le Protocole, fait à Kampala le 25 avril 2014, modifiant la Convention entre le Royaume de Belgique et la République de l'Ouganda tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Kampala le 26 juillet 2007

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/06/2002022418/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2002 et mise à jour au 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2002. - Loi [relative au fonds des pensions de la police fédérale] et portant des dispositions particulières en matière de sécurité sociale &lt;L 2016-04-21/06 , art. 75, 008; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;

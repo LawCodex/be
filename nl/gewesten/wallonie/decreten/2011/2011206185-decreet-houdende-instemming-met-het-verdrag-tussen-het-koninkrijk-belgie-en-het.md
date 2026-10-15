@@ -13,7 +13,7 @@ entry_into_force: 2011-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/01/2011206185/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2011. - Decreet houdende instemming met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en de Protocollen I en II en de wisseling van brieven, gedaan te Luxemburg op 5 juni 2001, gewijzigd bij het Protocol, gedaan te Berlijn op 23 juni 2009, en met het Protocol, gedaan te Berlijn op 23 juni 2009, tot wijziging van het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en de Protocollen I en II, ondertekend te Luxemburg op 5 juni 2001

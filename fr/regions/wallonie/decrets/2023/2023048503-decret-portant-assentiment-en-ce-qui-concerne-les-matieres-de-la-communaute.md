@@ -13,7 +13,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/25/2023048503/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2023. - Décret portant assentiment, en ce qui concerne les matières de la Communauté française dont l'exercice a été transféré à la Région wallonne, à l'Accord établissant une association entre l'Union européenne et ses Etats membres, d'une part, et l'Amérique centrale, d'autre part, fait à Tegucigalpa le 29 juin 2012

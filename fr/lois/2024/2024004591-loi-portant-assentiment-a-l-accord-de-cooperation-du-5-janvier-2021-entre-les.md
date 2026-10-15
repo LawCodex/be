@@ -12,7 +12,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/09/2024004591/justel"
 department: "Agence Fédérale pour la Sécurité de la Chaine Alimentaire"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2024. - Loi portant assentiment à l'accord de coopération du 5 janvier 2021 entre les ministres de l'Agriculture de l'Etat fédéral et des Régions concernant la répartition des missions pour l'application des mesures de protection contre les organismes nuisibles aux végétaux

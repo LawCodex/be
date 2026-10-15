@@ -10,7 +10,7 @@ date: 2014-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/10/2016015137/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2014. - Wet houdende instemming met het Verdrag nr. 187 inzake het promotioneel kader voor de veiligheid en gezondheid op het werk, aangenomen te Genève op 15 juni 2006 door de Internationale Arbeidsconferentie tijdens haar 95e zitting

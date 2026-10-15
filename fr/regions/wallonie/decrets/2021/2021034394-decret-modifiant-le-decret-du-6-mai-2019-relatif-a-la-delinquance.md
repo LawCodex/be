@@ -13,7 +13,7 @@ entry_into_force: 2021-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/24/2021034394/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2021. - Décret modifiant le décret du 6 mai 2019 relatif à la délinquance environnementale et divers autres décrets

@@ -13,7 +13,7 @@ entry_into_force: 1997-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/02/04/1997035200/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1997. - Décret insérant un article 22bis dans la loi organique du 8 juillet 1976 des centres publics d'aide sociale (TRADUCTION).

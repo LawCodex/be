@@ -12,7 +12,7 @@ entry_into_force: 2011-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/05/2011009242/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2011. - Loi modifiant la loi du 20 décembre 2010 concernant l'exercice de certains droits des actionnaires de sociétés cotées

@@ -11,7 +11,7 @@ entry_into_force: 2005-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/20/2005015112/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Wet houdende instemming met de Overeenkomst in de vorm van een briefwisseling betreffende belastingheffing op inkomsten uit spaargelden en de voorlopige toepassing ervan, tussen het Koninkrijk België en het Koninkrijk der Nederlanden met betrekking tot de Nederlandse Antillen, ondertekend te Brussel op 18 mei 2004 en te Den Haag op 27 augustus 2004.

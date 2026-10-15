@@ -13,7 +13,7 @@ entry_into_force: 2003-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/28/2003035301/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2003. - Decreet houdende instemming met het Aanvullend Protocol nr. 5 bij de Herziene Rijnvaartakte, ondertekend in Straatsburg op 28 april 1999, en de Verklaring van de Overeenkomstsluitende Staten bij de ondertekening van het Aanvullend Protocol nr. 5, en met het Aanvullend Protocol nr. 6 bij de Herziene Rijnvaartakte, ondertekend in Straatsburg op 21 oktober 1999.

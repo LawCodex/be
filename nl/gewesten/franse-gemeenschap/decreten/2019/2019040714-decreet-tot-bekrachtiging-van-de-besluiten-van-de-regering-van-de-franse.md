@@ -13,7 +13,7 @@ entry_into_force: 2019-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/21/2019040714/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2019. - Decreet tot bekrachtiging van de besluiten van de Regering van de Franse Gemeenschap van 25 oktober 2017 en 20 december 2017 tot wijziging van de reglementaire bepalingen waardoor de mededelingen langs elektronische weg verhinderd worden

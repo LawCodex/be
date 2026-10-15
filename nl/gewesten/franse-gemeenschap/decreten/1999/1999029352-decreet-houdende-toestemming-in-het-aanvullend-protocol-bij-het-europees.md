@@ -12,7 +12,7 @@ published: 1999-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029352/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende toestemming in het Aanvullend Protocol bij het Europees Sociaal Handvest tot invoering van een systeem voor collectieve klachten, opgemaakt te Straatsburg op 9 november 1995 (VERTALING).

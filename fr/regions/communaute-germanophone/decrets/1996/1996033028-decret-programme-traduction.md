@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/04/1996033028/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 18-04-1996 et mise à jour au 14-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1996. - Décret-programme (TRADUCTION).

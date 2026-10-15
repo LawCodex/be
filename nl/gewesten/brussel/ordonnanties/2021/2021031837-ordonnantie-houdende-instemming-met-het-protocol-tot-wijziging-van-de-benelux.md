@@ -13,7 +13,7 @@ entry_into_force: 2021-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/15/2021031837/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Ordonnantie houdende instemming met het Protocol tot wijziging van de Benelux-Overeenkomst op het gebied van jacht en de vogelbescherming, gedaan te Brussel op 17 februari 2016

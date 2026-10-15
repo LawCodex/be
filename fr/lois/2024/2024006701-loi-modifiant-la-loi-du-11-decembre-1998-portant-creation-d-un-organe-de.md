@@ -11,7 +11,7 @@ published: 2024-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/16/2024006701/justel"
 department: "Justice - Défense Nationale - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2024. - Loi modifiant la loi du 11 décembre 1998 portant création d'un organe de recours en matière d'habilitations, d'attestations et d'avis de sécurité

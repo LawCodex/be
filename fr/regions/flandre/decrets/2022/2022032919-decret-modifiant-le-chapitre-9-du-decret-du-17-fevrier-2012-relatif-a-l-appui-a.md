@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022032919/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret modifiant le chapitre 9 du décret du 17 février 2012 relatif à l'appui à l'entrepreneuriat dans le domaine de l'économie sociale et à la stimulation de l'entrepreneuriat socialement responsable, en ce qui concerne le rôle coordinateur des communes dans le domaine de l'économie sociale locale et de l'emploi

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/03/28/2019011411/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2019. - Ordonnance portant assentiment au Protocole additionnel de Nagoya-Kuala Lumpur sur la responsabilité et la réparation relatif au Protocole de Cartagena sur la prévention des risques biotechnologiques, fait à Nagoya, le 15 octobre 2010

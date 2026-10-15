@@ -12,7 +12,7 @@ entry_into_force: 2023-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/21/2023042062/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2022. - Loi portant assentiment aux actes internationaux suivants : 1) Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Finlande, signé à Bruxelles le 5 juillet 2022; 2) Protocole au Traité de l'Atlantique Nord sur l'accession du Royaume de Suède, signé à Bruxelles le 5 juillet 2022(1). - Addendum

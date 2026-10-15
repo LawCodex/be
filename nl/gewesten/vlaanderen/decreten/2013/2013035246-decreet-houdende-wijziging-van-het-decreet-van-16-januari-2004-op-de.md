@@ -13,7 +13,7 @@ entry_into_force: 2013-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/22/2013035246/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2013. - Decreet houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, wat de vermelding van het bestaan van een uitvaartcontract in de wilsbeschikking betreft

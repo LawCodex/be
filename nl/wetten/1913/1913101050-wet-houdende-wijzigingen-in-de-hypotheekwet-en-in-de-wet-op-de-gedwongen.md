@@ -11,7 +11,7 @@ published: 1913-12-21
 entry_into_force: 1913-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1913/10/10/1913101050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1913. - Wet houdende wijzigingen in de hypotheekwet en in de wet op de gedwongen onteigeningen en regelende de herinrichting van de bewaring der hypotheken.

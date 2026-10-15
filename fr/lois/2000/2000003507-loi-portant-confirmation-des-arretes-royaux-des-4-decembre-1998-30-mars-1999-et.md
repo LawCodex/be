@@ -12,7 +12,7 @@ entry_into_force: 2000-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/19/2000003507/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2000. - Loi portant confirmation des arrêtés royaux des 4 décembre 1998, 30 mars 1999 et 24 juin 1999 modifiant, en matière de précompte professionnel, l'AR/CIR 92.

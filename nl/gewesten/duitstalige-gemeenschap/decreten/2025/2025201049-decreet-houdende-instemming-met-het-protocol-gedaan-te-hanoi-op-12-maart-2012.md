@@ -13,7 +13,7 @@ entry_into_force: 2025-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/24/2025201049/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2025. - Decreet houdende instemming met het Protocol, gedaan te Hanoi op 12 maart 2012, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Socialistische Republiek van Vietnam tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belastingen inzake belastingen naar het inkomen en naar het vermogen, en van het Protocol, ondertekend te Hanoi op 28 februari 1996

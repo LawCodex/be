@@ -13,7 +13,7 @@ entry_into_force: 2024-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/12/20/2024011914/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Ordonnance portant approbation de la délibération budgétaire n° 1 du Gouvernement de la Région de Bruxelles-Capitale autorisant l'engagement, la liquidation et le paiement des dépenses, à imputer au budget général des dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2024

@@ -12,7 +12,7 @@ entry_into_force: 2003-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/16/2000015118/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2000. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Verenigde Mexicaanse Staten inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Mexico op 27 augustus 1998.

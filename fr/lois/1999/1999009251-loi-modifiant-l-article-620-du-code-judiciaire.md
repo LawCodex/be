@@ -12,7 +12,7 @@ entry_into_force: 1999-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/10/1999009251/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1999. - Loi modifiant l'article 620 du Code judiciaire.

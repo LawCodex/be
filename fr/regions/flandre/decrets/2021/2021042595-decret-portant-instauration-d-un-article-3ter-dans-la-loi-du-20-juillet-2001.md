@@ -13,7 +13,7 @@ entry_into_force: 2021-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021042595/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2021. - Décret portant instauration d'un article 3ter dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité

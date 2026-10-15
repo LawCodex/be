@@ -12,7 +12,7 @@ entry_into_force: 1977-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/05/1999015190/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1999. - Wet houdende afwijkende bepalingen van het Wetboek van de inkomstenbelastingen wat betreft de uitvoering van het Zetelakkoord tussen het Koninkrijk van België en de Groep van de Staten in Afrika, het Caraïbisch gebied en de Stille Zuidzee, ondertekend te Brussel op 26 april 1993.

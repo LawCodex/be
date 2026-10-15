@@ -12,7 +12,7 @@ entry_into_force: 2016-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/10/2016205813/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2016. - Decreet waarbij het rechtsstelsel voor de bewaring van de as thuis wordt verbeterd

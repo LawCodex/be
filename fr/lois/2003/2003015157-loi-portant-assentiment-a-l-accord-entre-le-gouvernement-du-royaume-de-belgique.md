@@ -12,7 +12,7 @@ entry_into_force: 2003-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003015157/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République tchèque relatif au transport aérien, fait à Bruxelles le 6 avril 1998.

@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/06/1996027209/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 1996. - Decreet houdende toepassing van de overeenkomst van 1 juni 1994 tussen de Federale Regering, de Vlaamse Regering, de Waalse Regering en de Regering van het Brussels Hoofdstedelijk Gewest betreffende de regeling van de schulden van het verleden en de ermede verband houdende lasten inzake sociale huisvesting (VERTALING).

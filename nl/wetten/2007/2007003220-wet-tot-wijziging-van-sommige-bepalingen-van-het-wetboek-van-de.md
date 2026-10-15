@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/25/2007003220/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - Wet tot wijziging van sommige bepalingen van het Wetboek van de inkomstenbelastingen 1992 teneinde ze in overeenstemming te brengen met bepaalde principes van het Verdrag tot oprichting van de Europese Gemeenschap en de Overeenkomst betreffende de Europese Economische Ruimte.

@@ -11,7 +11,7 @@ entry_into_force: 2022-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/20/2022034119/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2022. - Wet houdende diverse bepalingen inzake responsabilisering van de werkgevers inzake invaliditeit en inzake alternatieve financiering van de sociale zekerheid

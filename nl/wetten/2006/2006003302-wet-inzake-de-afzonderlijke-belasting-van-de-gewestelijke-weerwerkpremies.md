@@ -12,7 +12,7 @@ entry_into_force: 2005-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/10/2006003302/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2006. - Wet inzake de afzonderlijke belasting van de gewestelijke weerwerkpremies.

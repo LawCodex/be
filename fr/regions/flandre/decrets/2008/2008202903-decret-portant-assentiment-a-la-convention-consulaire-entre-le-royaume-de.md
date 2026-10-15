@@ -13,7 +13,7 @@ entry_into_force: 2008-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/27/2008202903/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2008. - Décret portant assentiment à la Convention consulaire entre le Royaume de Belgique et la Fédération de Russie, signée à Moscou, le 22 décembre 2004 (TRADUCTION).

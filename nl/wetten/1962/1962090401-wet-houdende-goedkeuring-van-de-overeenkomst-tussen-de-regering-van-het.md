@@ -9,7 +9,7 @@ language: nl
 date: 1962-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/09/04/1962090401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 1962. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Hachemietische Koninkrijk Jordanië betreffende het inrichten van regelmatige luchtdiensten tussen hun onderscheidenlijke grondgebieden en verdere landen, en van de bijlage, ondertekend op 19 oktober 1960, te Amman.

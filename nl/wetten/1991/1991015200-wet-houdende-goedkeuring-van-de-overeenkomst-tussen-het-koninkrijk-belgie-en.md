@@ -12,7 +12,7 @@ entry_into_force: 1991-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/04/19/1991015200/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1991. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Oslo op 14 april 1988.

@@ -13,7 +13,7 @@ entry_into_force: 2011-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/01/13/2011029078/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 2011. - Décret modifiant diverses dispositions en matière d'enseignement obligatoire et de promotion sociale

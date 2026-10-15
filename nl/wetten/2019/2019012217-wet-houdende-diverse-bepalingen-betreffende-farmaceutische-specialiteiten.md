@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019012217/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2019 en tekstbijwerking tot 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet houdende diverse bepalingen betreffende farmaceutische specialiteiten, wachtdienst van apothekers en profylactische maatregelen inzake poliomyelitis

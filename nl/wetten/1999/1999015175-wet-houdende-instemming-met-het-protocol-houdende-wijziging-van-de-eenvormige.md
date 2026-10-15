@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/03/1999015175/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1999. - Wet houdende instemming met het Protocol houdende wijziging van de eenvormige Beneluxwet op de merken, gedaan te Brussel op 7 augustus 1996.

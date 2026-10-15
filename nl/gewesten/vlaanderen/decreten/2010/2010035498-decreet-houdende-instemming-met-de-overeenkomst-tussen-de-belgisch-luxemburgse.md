@@ -13,7 +13,7 @@ entry_into_force: 2010-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/09/2010035498/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2010. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en het Sultanaat Oman, anderzijds, inzake de bevordering en de wederzijdse bescherming van investeringen, ondertekend in Masqat op 16 december 2008

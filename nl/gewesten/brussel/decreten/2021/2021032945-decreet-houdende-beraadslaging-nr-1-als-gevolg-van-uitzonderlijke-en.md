@@ -12,7 +12,7 @@ published: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/20/2021032945/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2021. - Decreet houdende beraadslaging nr. 1 als gevolg van uitzonderlijke en onvoorziene omstandigheden, houdende machtiging tot vastleggingen en vereffeningen die de kredieten overschrijden waarin de oorspronkelijke begroting voor 2021 van de Franse Gemeenschapscommissie voorziet

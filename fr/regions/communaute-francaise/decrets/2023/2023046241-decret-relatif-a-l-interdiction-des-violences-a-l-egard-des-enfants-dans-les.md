@@ -13,7 +13,7 @@ entry_into_force: 2024-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/05/2023046241/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OCTOBRE 2023. - Décret relatif à l'interdiction des violences à l'égard des enfants dans les structures autorisées, agréées, subventionnées ou organisées par la Communauté française

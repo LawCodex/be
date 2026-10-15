@@ -13,7 +13,7 @@ entry_into_force: 2000-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/23/2001031127/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2000. - Decreet houdende aanpassing van de Middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2000 (VERTALING).

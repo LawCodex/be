@@ -13,7 +13,7 @@ entry_into_force: 1996-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996027015/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet houdende de tweede aanpassing van de algemene begroting van de uitgaven van het Waalse Gewest voor het begrotingsjaar 1995 (VERTALING).

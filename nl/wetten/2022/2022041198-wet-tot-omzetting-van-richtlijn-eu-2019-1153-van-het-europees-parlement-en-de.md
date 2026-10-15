@@ -12,7 +12,7 @@ entry_into_force: 2022-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/15/2022041198/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2022. - Wet tot omzetting van Richtlijn (EU) 2019/1153 van het Europees Parlement en de Raad van 20 juni 2019 tot vaststelling van regels ter vergemakkelijking van het gebruik van financiële en andere informatie voor het voorkomen, opsporen, onderzoeken of vervolgen van bepaalde strafbare feiten, en tot intrekking van Besluit 2000/642/JBZ van de Raad

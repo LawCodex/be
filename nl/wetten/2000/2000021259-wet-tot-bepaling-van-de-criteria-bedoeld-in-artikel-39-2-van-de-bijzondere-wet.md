@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/23/2000021259/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2000. - Wet tot bepaling van de criteria bedoeld in artikel 39, § 2, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten.

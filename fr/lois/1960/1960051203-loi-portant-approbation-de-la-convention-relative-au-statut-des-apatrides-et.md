@@ -11,7 +11,7 @@ published: 1960-08-10
 entry_into_force: 1960-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/05/12/1960051203/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 1960. - Loi portant approbation de la Convention relative au Statut des Apatrides et des Annexes, signées à New-York, le 28 septembre 1954.

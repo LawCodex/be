@@ -12,7 +12,7 @@ entry_into_force: 2008-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/08/2007015026/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2007. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République du Pérou, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 12 octobre 2005.

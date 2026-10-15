@@ -11,7 +11,7 @@ date: 2016-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/20/2016205142/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2016. - Decreet houdende maatregelen inzake onderwijs - 2016

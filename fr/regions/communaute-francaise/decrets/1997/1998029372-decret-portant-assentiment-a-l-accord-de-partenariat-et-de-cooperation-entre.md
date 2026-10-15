@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1998029372/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant assentiment à l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Belarus, d'autre part, aux annexes I, II, III, IV, V, VI, VII, VIII, au Protocole, à l'Acte final, aux déclarations communes et à l'Accord sous forme d'échanges de lettres, faits à Bruxelles le 6 mars 1995.

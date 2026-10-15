@@ -12,7 +12,7 @@ entry_into_force: 2019-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019012293/justel"
 department: "Economie, PME, Classes moyennes et Energie - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers

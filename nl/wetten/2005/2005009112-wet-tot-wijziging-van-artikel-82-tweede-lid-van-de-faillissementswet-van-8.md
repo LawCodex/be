@@ -12,7 +12,7 @@ entry_into_force: 2005-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/02/2005009112/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2005. - Wet tot wijziging van artikel 82, tweede lid, van de faillissementswet van 8 augustus 1997.

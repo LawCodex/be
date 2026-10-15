@@ -12,7 +12,7 @@ published: 2002-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/18/2002028033/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 2002. - Decreet houdende wijziging van het decreet van 5 december 1996 betreffende de Waalse intercommunales (VERTALING).

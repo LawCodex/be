@@ -12,7 +12,7 @@ entry_into_force: 2004-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/10/2004003444/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2004. - Loi modifiant l'article 80, alinéa 1er, du Code des droits de succession.

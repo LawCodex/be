@@ -11,7 +11,7 @@ date: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029436/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet ter verlening van voorrang aan een personeelslid dat het slachtoffer van een gewelddaad is geweest, en ter invoering van de preventieve schorsing van tijdelijk aangestelde personeelsleden en de terbeschikkingstelling wegens ambtsontheffing in het belang van de dienst in de onderwijsnetten van de Franse Gemeenschap en de gesubsidieerde onderwijsnetten (VERTALING).

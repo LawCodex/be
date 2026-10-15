@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019041139/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2019 et mise à jour au 30-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - Loi visant à rendre plus accessible l'assurance protection juridique

@@ -13,7 +13,7 @@ entry_into_force: 2014-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/18/2014029160/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2013. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Union Benelux, signé à Bruxelles le 3 février 2012

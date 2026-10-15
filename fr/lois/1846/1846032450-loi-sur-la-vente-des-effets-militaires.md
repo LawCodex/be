@@ -11,7 +11,7 @@ published: 1846-03-26
 entry_into_force: 1846-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1846/03/24/1846032450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1846. - Loi sur la vente des effets militaires.

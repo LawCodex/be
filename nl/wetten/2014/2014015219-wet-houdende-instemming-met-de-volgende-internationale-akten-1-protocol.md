@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/18/2014015219/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2014. - Wet houdende instemming met de volgende internationale Akten: 1° Protocol houdende wijziging van het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals gewijzigd bij het Aanvullend Protocol van 28 januari 1964 en bij het Protocol van 16 november 1982, gedaan te Parijs op 12 februari 2004; 2° Protocol houdende wijziging van het Verdrag van 31 januari 1963 tot aanvulling van het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals gewijzigd bij het Aanvullend Protocol van 28 januari 1964 en bij het Protocol van 16 november 1982, gedaan te Parijs op 12 februari 2004

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008202892/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-08-2008 et mise à jour au 09-07-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret portant promotion du développement durable (TRADUCTION)

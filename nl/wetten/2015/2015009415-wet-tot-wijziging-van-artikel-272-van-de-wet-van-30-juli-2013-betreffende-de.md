@@ -12,7 +12,7 @@ entry_into_force: 2015-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015009415/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van artikel 272 van de wet van 30 juli 2013 betreffende de invoering van een familie- en jeugdrechtbank (I)

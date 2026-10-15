@@ -10,7 +10,7 @@ date: 2023-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/29/2023044851/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2023. - Wet houdende steun voor het goederenvervoer per spoort per geïsoleerde wagons

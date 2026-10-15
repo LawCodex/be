@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/01/02/1991003038/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 21-09-1991 en tekstbijwerking tot 15-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JANUARI 1991. - Wet betreffende de markt van de effecten van de overheidsschuld en het monetair beleidsinstrumentarium

@@ -12,7 +12,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/19/2012009197/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2012. - Wet tot wijziging van het Wetboek van vennootschappen wat de vereffeningsprocedure betreft

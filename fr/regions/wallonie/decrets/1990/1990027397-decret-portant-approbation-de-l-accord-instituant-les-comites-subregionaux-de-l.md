@@ -12,7 +12,7 @@ published: 1990-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/02/15/1990027397/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 1990. - Décret portant approbation de l'accord instituant les Comités subrégionaux de l'Emploi et de la Formation, conclu à Bruxelles le 24 novembre 1989, entre l'Exécutif régional wallon et l'Exécutif de la Communauté francaise.

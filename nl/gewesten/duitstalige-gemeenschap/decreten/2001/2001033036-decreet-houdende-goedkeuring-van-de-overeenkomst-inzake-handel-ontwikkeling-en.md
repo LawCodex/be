@@ -13,7 +13,7 @@ entry_into_force: 2001-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/04/17/2001033036/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2001. - Decreet houdende goedkeuring van de overeenkomst inzake handel, ontwikkeling en samenwerking, tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en de republiek Zuid-Afrika, anderzijds, de bijlagen I tot X, de protocollen 1 en 2 en de slotakte, gedaan te Pretoria op 11 oktober 1999.

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/24/2013204091/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Décret portant assentiment au Protocole relatif aux préoccupations du peuple irlandais concernant le Traité de Lisbonne, fait à Bruxelles le 13 juin 2012

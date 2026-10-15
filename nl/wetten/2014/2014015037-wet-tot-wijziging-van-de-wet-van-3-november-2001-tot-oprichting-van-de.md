@@ -12,7 +12,7 @@ entry_into_force: 2014-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/20/2014015037/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2014. - Wet tot wijziging van de wet van 3 november 2001 tot oprichting van de Belgische Investeringsmaatschappij voor Ontwikkelingslanden en tot wijziging van de wet van 21 december 1998 tot oprichting van de "Belgische Technische Coöperatie" in de vorm van een vennootschap van publiek recht

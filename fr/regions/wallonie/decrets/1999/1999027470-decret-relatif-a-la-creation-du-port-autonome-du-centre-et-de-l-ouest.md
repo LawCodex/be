@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027470/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 18-06-1999 et mise à jour au 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1999. - Décret relatif à la création du Port autonome du Centre et de l'Ouest

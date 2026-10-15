@@ -10,7 +10,7 @@ date: 2007-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/27/2007015082/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - Wet houdende instemming met het Protocol tot wijziging van het Europees Verdrag tot bestrijding van terrorisme, gedaan te Straatsburg op 15 mei 2003.

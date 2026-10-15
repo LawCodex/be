@@ -13,7 +13,7 @@ entry_into_force: 2013-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/11/07/2013031872/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2013. - Ordonnantie houdende instemming met het Akkoord, gedaan te Brussel op 7 december 2009, tussen het Koninkrijk België en Saint Lucia inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden

@@ -13,7 +13,7 @@ entry_into_force: 1990-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/11/07/1990030433/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 1990. - Décret portant fixation des armoiries, du drapeau, de l'hymne et du jour de fête de la Communauté flamande. (Traduction).

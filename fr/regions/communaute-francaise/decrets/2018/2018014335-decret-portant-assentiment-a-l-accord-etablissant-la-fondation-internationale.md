@@ -13,7 +13,7 @@ entry_into_force: 2018-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/11/2018014335/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 OCTOBRE 2018. - Décret portant assentiment à l'Accord établissant la Fondation internationale UE-ALC, signé à Saint-Domingue, le 25 octobre 2016

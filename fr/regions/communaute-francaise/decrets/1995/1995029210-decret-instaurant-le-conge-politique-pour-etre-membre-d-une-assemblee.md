@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029210/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-05-1995 et mis à jour au 23-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret instaurant le congé politique pour être membre d'une assemblée législative ou d'un Gouvernement autres que ceux de la Communauté française.

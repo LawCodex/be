@@ -13,7 +13,7 @@ entry_into_force: 2009-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/12/19/2009031022/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Ordonnantie ertoe strekkende de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode te wijzigen, het woningsbestand van de overheid in het Brussels Gewest te vrijwaren en minimumregels vast te stellen voor de toewijzing van die woningen.

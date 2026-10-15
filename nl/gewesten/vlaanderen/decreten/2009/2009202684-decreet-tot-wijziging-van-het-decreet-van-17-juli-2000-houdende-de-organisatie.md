@@ -13,7 +13,7 @@ entry_into_force: 2009-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/08/2009202684/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2009. - Decreet tot wijziging van het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt

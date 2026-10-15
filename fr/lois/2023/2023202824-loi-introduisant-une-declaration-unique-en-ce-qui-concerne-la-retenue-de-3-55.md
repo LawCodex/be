@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/04/2023202824/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2023. - Loi introduisant une déclaration unique en ce qui concerne la retenue de 3,55 % au profit de l'assurance obligatoire soins de santé et la cotisation de solidarité effectuées sur les pensions complémentaires

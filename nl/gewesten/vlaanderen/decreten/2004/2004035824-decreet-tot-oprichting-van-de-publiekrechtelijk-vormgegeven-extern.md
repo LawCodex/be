@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004035824/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2004 en tekstbijwerking tot 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - [Decreet tot oprichting van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen Openbaar Psychiatrisch Zorgcentrum Geel en Openbaar Psychiatrisch Zorgcentrum Rekem] &lt;DVR 2006-03-31/52 , art. 2, 002; Inwerkingtreding : 01-01-2007&gt;

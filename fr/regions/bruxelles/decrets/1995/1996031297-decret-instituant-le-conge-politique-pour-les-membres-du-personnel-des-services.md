@@ -13,7 +13,7 @@ entry_into_force: 1995-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/27/1996031297/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1995. - Décret instituant le congé politique pour les membres du personnel des services du Collège de la Commission communautaire française en vue de l'exercice d'un mandat de membre de l'Assemblée ou du Collège de la Commission communautaire française.

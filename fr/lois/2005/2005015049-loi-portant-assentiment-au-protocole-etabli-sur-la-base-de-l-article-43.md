@@ -12,7 +12,7 @@ entry_into_force: 2005-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/03/03/2005015049/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2005. - Loi portant assentiment au Protocole établi sur la base de l'article 43, paragraphe 1er, de la Convention portant création d'un Office européen de Police (Convention Europol) et modifiant l'article 2 et l'annexe de ladite Convention, fait à Bruxelles, le 30 novembre 2000.

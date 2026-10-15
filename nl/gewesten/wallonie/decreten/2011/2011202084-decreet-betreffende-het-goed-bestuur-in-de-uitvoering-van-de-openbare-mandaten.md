@@ -13,7 +13,7 @@ entry_into_force: 2011-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/04/07/2011202084/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2011. - Decreet betreffende het goed bestuur in de uitvoering van de openbare mandaten in de overheidsinstellingen en in de van de overheid afgeleide entiteiten voor de maatregelen geregeld krachtens artikel 138 van de Grondwet

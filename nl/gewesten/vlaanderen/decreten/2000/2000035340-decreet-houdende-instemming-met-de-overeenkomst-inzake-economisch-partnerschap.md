@@ -13,7 +13,7 @@ entry_into_force: 2000-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/03/2000035340/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2000. - Decreet houdende instemming met de overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, Slotakte en Bijlage, ondertekend te Brussel op 8 december 1997.

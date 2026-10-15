@@ -12,7 +12,7 @@ entry_into_force: 1955-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/05/13/1955051306/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1955. - Loi portant approbation de la Convention de sauvegarde des droits de l'Homme et des libertés fondamentales, signée à Rome, le 4 novembre 1950 et du Protocole additionnel à cette Convention, signé à Paris, le 20 mars 1952.

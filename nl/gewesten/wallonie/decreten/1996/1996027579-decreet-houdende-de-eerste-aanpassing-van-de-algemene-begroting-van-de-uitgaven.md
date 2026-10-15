@@ -11,7 +11,7 @@ date: 1996-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/25/1996027579/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1996.-Decreet houdende de eerste aanpassing van de algemene begroting van de uitgaven van het Waalse Gewest voor het begrotingsjaar 1996 (VERTALING).

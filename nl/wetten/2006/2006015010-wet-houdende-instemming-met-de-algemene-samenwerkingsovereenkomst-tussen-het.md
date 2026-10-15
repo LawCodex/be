@@ -12,7 +12,7 @@ entry_into_force: 2007-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/10/2006015010/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2006. - Wet houdende instemming met de Algemene Samenwerkingsovereenkomst tussen het Koninkrijk België en het Koninkrijk Marokko, ondertekend te Brussel op 26 juni 2002.

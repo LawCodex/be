@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/13/2009201593/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Décret portant assentiment à l'accord-cadre conclu entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française sur la coopération sanitaire transfrontalière, signé à Mouscron le 30 septembre 2005

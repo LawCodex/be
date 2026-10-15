@@ -13,7 +13,7 @@ entry_into_force: 2003-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/28/2003035301/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2003. - Décret portant assentiment au Protocole additionnel n° 5 à la Convention révisée pour la navigation du Rhin, signé à Strasbourg le 28 avril 1999, et à la Déclaration des Etats contractants à l'occasion de la signature du Protocole additionnel n° 5 et au Protocole additionnel n° 6 à la Convention révisée pour la navigation du Rhin, signé à Strasbourg le 21 octobre 1999 (TRADUCTION).

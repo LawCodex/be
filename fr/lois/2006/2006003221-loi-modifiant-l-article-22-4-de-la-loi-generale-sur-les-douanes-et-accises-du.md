@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/16/2006003221/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2006. - Loi modifiant l'article 22-4 de la loi générale sur les douanes et accises du 18 juillet 1977 et abrogeant certaines dispositions légales en matière de garantie à fournir dans le cadre des entrepôts douaniers, du perfectionnement actif (système de la suspension) et de la transformation sous douane.

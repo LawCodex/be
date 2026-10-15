@@ -13,7 +13,7 @@ last_amended: 2019-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/07/1970070701/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2003 et mise à jour au 19-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1970. - Loi relative à la structure générale de l'enseignement supérieur. (NOTE 1 : Abrogé en communauté flamande pour l'enseignement supérieur de plein exercice, par DCFL 13-07-1994, l'art. 365, 23°, MB 31-08-1994, En vigueur : 01-09-1995, à l'exception du chapitre V qui entre en vigueur le 01-09-1996 (AGF 09-05-1996, art. 1 et 2, MB 25-07-1996)). (NOTE 2 : Les articles 2, alinéa 1er, 2bis, 2ter, 2quater, 3, 5, 5bis, § 1er, a, b, c, e, § 2, § 3, a, b, 6, 7, 8, 9, 9bis, § 2, 11, 12, 13, 14 et 15 ne sont pas applicables aux Hautes Ecoles de la communauté française (DCFR 27-10-1994, art. 71, MB 05-11-1994), En vigueur : 05-11-1994 (ACF 27-10-1994, art. 1, MB 05-11-1994) et (DCFR 05-08-1995, art. 96, MB 01-09-1995, En vigueur : 01-09-1995 (art. 107)). (NOTE 3 : Abrogé pour la communauté flamande par DCFL 2004-03-19/84 , art. 4.1, 049; En vigueur : 01-09-2004, à l'exception de l'article 1er, § 1er, et de l'article 2, deuxième, quatrième et cinquième alinéas, dans la mesure où ceux-ci prescrivent que : a) la durée des études des formes d'enseignement de type court de l'enseignement supérieur s'élève à au moins deux ans; b) la durée des études des formes d'enseignement de type long de l'enseignement supérieur s'élève à au moins quatre ans) (NOTE 4 : abrogé pour l'Autorité flamande - à l'exception de l'art. 1, § 1 - par DCFL 2007-06-15/48 , art. 176, 1° ; En vigueur : 01-09-2007&gt;)

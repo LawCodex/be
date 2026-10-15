@@ -12,7 +12,7 @@ entry_into_force: 2009-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/07/2009015080/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2009. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République tunisienne tendant à éviter la double imposition et à prévenir la fraude et l'évasion en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Tunis le 7 octobre 2004

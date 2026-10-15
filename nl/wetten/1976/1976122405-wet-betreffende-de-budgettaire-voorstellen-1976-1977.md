@@ -13,7 +13,7 @@ last_amended: 2025-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/12/24/1976122405/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-1986 en tekstbijwerking tot 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1976. - Wet betreffende de budgettaire voorstellen 1976-1977.

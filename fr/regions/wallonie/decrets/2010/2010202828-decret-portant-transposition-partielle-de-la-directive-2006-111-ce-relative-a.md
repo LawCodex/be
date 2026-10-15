@@ -13,7 +13,7 @@ entry_into_force: 2010-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/06/2010202828/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2010. - Décret portant transposition partielle de la Directive 2006/111/CE relative à la transparence des relations financières entre les Etats membres et les entreprises publiques ainsi qu'à la transparence financière dans certaines entreprises

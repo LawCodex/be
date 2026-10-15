@@ -13,7 +13,7 @@ entry_into_force: 1995-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029278/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret modifiant le décret du 30 mars 1983 sur l'organisation des établissements de soins dans la Communauté française.

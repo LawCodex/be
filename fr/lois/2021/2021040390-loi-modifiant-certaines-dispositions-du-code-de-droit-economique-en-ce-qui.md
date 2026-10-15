@@ -12,7 +12,7 @@ entry_into_force: 2021-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/02/2021040390/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2021. - Loi modifiant certaines dispositions du Code de Droit économique en ce qui concerne la prolongation de la période des soldes d'hiver 2021 en raison de la pandémie de COVID-19

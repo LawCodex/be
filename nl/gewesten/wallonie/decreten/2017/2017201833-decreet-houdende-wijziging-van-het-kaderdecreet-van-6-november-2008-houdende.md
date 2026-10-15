@@ -13,7 +13,7 @@ entry_into_force: 2017-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/16/2017201833/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Decreet houdende wijziging van het kaderdecreet van 6 november 2008 houdende rationalisatie van de adviesverlenende functie voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

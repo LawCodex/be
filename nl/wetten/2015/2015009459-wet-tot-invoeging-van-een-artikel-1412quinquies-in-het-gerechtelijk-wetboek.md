@@ -10,7 +10,7 @@ date: 2015-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/23/2015009459/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AUGUSTUS 2015. - Wet tot invoeging van een artikel 1412quinquies in het Gerechtelijk Wetboek, houdende het beslag op eigendommen van een buitenlandse mogendheid of van een publiekrechtelijke supranationale of internationale organisatie

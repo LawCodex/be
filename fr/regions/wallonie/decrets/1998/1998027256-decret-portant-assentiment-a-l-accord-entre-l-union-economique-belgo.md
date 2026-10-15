@@ -13,7 +13,7 @@ entry_into_force: 1998-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/09/1998027256/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 1998. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République socialiste du Vietnam concernant l'encouragement et la protection réciproques des investissements, fait à Hanoï le 24 janvier 1991.

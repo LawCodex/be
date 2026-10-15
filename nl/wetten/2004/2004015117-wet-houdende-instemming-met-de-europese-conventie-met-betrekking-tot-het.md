@@ -11,7 +11,7 @@ entry_into_force: 2004-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/15/2004015117/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2004. - Wet houdende instemming met de Europese Conventie met betrekking tot het Landschap, gedaan te Firenze op 20 oktober 2000.

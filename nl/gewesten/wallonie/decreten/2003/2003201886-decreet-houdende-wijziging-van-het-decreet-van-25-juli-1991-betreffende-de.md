@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003201886/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet houdende wijziging van het decreet van 25 juli 1991 betreffende de belasting op de afvalstoffen in het Waalse Gewest (VERTALING).

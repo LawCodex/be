@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/26/2024201294/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2024. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake de manipulatie van sportwedstrijden, ondertekend te Magglingen op 18 september 2014

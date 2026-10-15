@@ -12,7 +12,7 @@ entry_into_force: 2020-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/12/17/2019031221/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2019. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt wat de samenstelling van de Tuchtraad van de commissie voor de regulering van de elektriciteit en het gas betreft

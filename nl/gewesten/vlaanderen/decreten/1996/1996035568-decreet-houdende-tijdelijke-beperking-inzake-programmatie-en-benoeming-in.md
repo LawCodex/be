@@ -13,7 +13,7 @@ entry_into_force: 1996-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/16/1996035568/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1996. - Decreet houdende tijdelijke beperking inzake programmatie en benoeming in sommige onderwijssectoren.

@@ -13,7 +13,7 @@ entry_into_force: 2013-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/09/17/2013205365/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2013. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de Montserrat tel qu'autorisé par le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord en vue de l'échange de renseignements en matière fiscale, fait à Londres, le 16 février 2010

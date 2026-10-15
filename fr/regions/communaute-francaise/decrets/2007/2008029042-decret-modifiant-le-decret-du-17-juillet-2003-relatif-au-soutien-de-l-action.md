@@ -13,7 +13,7 @@ entry_into_force: 2008-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2008029042/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - Décret modifiant le décret du 17 juillet 2003 relatif au soutien de l'action associative dans le champ de l'éducation permanente.

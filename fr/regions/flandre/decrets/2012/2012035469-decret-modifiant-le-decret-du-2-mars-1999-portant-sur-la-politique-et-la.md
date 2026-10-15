@@ -13,7 +13,7 @@ entry_into_force: 2012-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/20/2012035469/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2012. - Décret modifiant le décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes

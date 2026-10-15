@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/01/06/1989011393/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-1989 en tekstbijwerking tot 01-08-1996."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 1989. - Wet tot vrijwaring van 's lands concurrentievermogen. -

@@ -13,7 +13,7 @@ entry_into_force: 2007-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/12/21/2008031579/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Ordonnantie houdende de uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2007.

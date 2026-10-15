@@ -12,7 +12,7 @@ last_amended: 2014-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/03/21/1964032105/justel"
 justel_note: "Consultation des versions antérieures à partir du 15-03-2012 et mise à jour au 23-07-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1964. - LOI sur l'inspection médicale scolaire (NOTE 1 : abrogé pour la Communauté flamande par DCFL 1998-12-01/58, art. 174, 2°, En vigueur : 01-09-2000) (NOTE 2 : abrogé pour la Communauté française par DCFR 2001-12-20/37, art. 31, 1°, En vigueur : 01-09-2002)(NOTE 3 : abrogé pour la Communauté germanophone par DCG 2014-03-31/09 , art. 10.1, 1°, 003; En vigueur : 01-07-2014)

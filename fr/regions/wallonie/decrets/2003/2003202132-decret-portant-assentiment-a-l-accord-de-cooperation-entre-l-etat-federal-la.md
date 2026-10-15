@@ -13,7 +13,7 @@ entry_into_force: 2003-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/13/2003202132/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2003. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'établissement, l'exécution et le suivi d'un Plan national Climat, ainsi que l'établissement de rapports, dans le cadre de la Convention cadre des Nations unies sur les changements climatiques et du Protocole de Kyoto.

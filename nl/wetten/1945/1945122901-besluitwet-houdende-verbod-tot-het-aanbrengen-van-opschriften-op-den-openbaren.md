@@ -11,7 +11,7 @@ published: 1946-01-04
 entry_into_force: 1946-01-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1945/12/29/1945122901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 DECEMBER 1945. - Besluitwet houdende verbod tot het aanbrengen van opschriften op den openbaren weg.

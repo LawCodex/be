@@ -13,7 +13,7 @@ entry_into_force: 2021-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/18/2021030953/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 25 februari 2021 tot wijziging van et kaderakkoord tot samenwerking van 27 februari 2014 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het inter-Franstalig overleg inzake gezondheid en bijstand aan personen en betreffende de gemeenschappelijke principes die op deze laatsten van toepassing zijn, om het hoofd te bieden aan de noodsituaties COVID-19

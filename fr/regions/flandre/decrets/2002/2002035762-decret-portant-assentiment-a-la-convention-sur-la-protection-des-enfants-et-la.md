@@ -13,7 +13,7 @@ entry_into_force: 2002-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/08/2002035762/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2002. - Décret portant assentiment à la Convention sur la protection des enfants et la coopération en matière d'adoption internationale, signée à La Haye le 29 mai 1993 (TRADUCTION).

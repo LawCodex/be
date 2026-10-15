@@ -13,7 +13,7 @@ entry_into_force: 2022-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/02/2022034598/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2022. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Grand-Duché de Luxembourg sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques ou de postes consulaires, signé à Bruxelles le 17 novembre 2021

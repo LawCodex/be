@@ -12,7 +12,7 @@ entry_into_force: 2009-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/04/2009201465/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2007. - Wet houdende instemming met het Samenwerkingsakkoord van 2 maart 2007 betreffende de uitvoering van de overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens

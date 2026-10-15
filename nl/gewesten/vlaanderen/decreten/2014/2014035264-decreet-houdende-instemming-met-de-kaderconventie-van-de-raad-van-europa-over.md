@@ -13,7 +13,7 @@ entry_into_force: 2014-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/14/2014035264/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2014. - Decreet houdende instemming met de Kaderconventie van de Raad van Europa over de bijdrage van cultureel erfgoed aan de samenleving, opgemaakt in Faro op 27 oktober 2005 en ondertekend op 25 juni 2012

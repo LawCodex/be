@@ -12,7 +12,7 @@ entry_into_force: 2004-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/16/2004000189/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2004. - Bijzondere wet tot wijziging van diverse bijzondere wetten.

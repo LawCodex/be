@@ -12,7 +12,7 @@ published: 2000-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/24/2000027139/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2000. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement de la République du Sénégal, le Gouvernement de la Communauté française de Belgique et le Gouvernement de la Région wallonne, fait à Dakar le 6 novembre 1998.

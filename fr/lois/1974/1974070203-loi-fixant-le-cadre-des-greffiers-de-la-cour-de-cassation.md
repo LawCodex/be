@@ -11,7 +11,7 @@ published: 1974-07-16
 entry_into_force: 1974-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/07/02/1974070203/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 1974. - Loi fixant le cadre des greffiers de la Cour de Cassation.

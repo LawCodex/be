@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/25/2013201613/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2013 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2013. - Décret-programme 2013

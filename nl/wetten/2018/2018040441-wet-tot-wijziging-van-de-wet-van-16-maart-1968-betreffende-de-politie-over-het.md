@@ -12,7 +12,7 @@ entry_into_force: 2018-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/27/2018040441/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2018. - Wet tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer wat betreft herstelexamens en -onderzoeken na een veroordeling tot een verval van het recht tot sturen

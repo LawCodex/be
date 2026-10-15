@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2006037097/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2006 et mise à jour au 10-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret concernant la protection des eaux contre la pollution par les nitrates à partir de sources agricoles. (Traduction) (cité comme : décret relatif aux engrais)

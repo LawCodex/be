@@ -12,7 +12,7 @@ entry_into_force: 2012-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007015101/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet houdende instemming met het Verdrag nr. 161 betreffende de bedrijfsgezondheidsdiensten, aangenomen te Genève op 26 juni 1985 door de Algemene Conferentie van de Internationale Arbeidsorganisatie

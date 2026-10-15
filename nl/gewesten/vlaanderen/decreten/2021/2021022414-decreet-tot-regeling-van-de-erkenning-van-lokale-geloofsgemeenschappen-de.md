@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/22/2021022414/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 16-11-2021 en tekstbijwerking tot 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2021. - Decreet tot regeling van de erkenning van lokale geloofsgemeenschappen, de verplichtingen van de besturen van de eredienst en het toezicht daarop en tot wijziging van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten

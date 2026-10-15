@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/03/2009003163/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Loi modifiant les dispositions financières de la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique

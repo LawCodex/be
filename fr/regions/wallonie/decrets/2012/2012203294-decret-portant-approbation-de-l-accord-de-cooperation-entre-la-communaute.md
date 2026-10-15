@@ -13,7 +13,7 @@ entry_into_force: 2012-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/07/2012203294/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2012. - Décret portant approbation de l'Accord de coopération entre la Communauté flamande et la Région wallonne en matière d'intégration des personnes handicapées

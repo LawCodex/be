@@ -13,7 +13,7 @@ entry_into_force: 2022-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/24/2022207332/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2022. - Decreet betreffende de verspreiding en het hergebruik van de overheidsinformatie

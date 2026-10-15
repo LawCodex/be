@@ -12,7 +12,7 @@ entry_into_force: 2017-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016011558/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi modifiant la loi du 12 février 2008 instaurant un nouveau cadre général pour la reconnaissance des qualifications professionnelles CE

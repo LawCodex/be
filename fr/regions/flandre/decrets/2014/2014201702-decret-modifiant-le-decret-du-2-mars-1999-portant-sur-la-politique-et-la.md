@@ -13,7 +13,7 @@ entry_into_force: 2014-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/28/2014201702/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Décret modifiant le décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes

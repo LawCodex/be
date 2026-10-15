@@ -12,7 +12,7 @@ entry_into_force: 2012-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/10/2009015046/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2009. - Loi portant assentiment à l'Accord relatif à la participation de la République de Bulgarie et de la Roumanie à l'Espace économique européen, et à l'Acte final, faits à Bruxelles le 25 juillet 2007

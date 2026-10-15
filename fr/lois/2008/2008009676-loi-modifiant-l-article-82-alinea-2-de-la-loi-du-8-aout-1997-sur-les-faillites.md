@@ -12,7 +12,7 @@ entry_into_force: 2008-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/18/2008009676/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Loi modifiant l'article 82, alinéa 2, de la loi du 8 août 1997 sur les faillites en ce qui concerne l'excusabilité des ex-conjoints.

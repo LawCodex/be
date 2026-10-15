@@ -12,7 +12,7 @@ entry_into_force: 1999-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/04/2004015081/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2002. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Comité van het Rode Kruis, ondertekend te Brussel op 19 april 1999.

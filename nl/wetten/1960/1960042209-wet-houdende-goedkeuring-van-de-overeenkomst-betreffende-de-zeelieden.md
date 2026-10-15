@@ -12,7 +12,7 @@ entry_into_force: 1960-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/04/22/1960042209/justel"
 justel_note: "raadpleging van vroegere versies vanaf 18-07-1987 en bijwerking tot 19-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 1960. - Wet houdende goedkeuring van de Overeenkomst betreffende de zeelieden-vluchtelingen, ondertekend op 23 november 1957, te 's-Gravenhage.

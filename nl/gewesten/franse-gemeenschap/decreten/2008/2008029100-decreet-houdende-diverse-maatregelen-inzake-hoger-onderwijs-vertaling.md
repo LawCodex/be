@@ -12,7 +12,7 @@ published: 2008-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/01/11/2008029100/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JANUARI 2008. - Decreet houdende diverse maatregelen inzake hoger onderwijs (VERTALING).

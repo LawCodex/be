@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/19/2017020329/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "bij arrest nr 175/2019 van 14 november 2019, B.S. van 27-12-2019, p. 118371, heeft het grondwettelijk hof dit wet vernietigd, inzake de toekenning door Belgocontrol van disponibiliteit met wachtgeld en van verlof met wachtgeld voorafgaand aan het pensioen, handhaaft definitief de gevolgen die de vernietigde wet heeft teweeggebracht vóór de bekendmaking van dit arrest in het Belgisch Staatsblad"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2017. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven inzake de toekenning door Belgocontrol van disponibiliteit met wachtgeld en van verlof met wachtgeld voorafgaand aan het pension

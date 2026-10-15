@@ -13,7 +13,7 @@ entry_into_force: 2018-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/23/2018202219/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2018. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten, gedaan te Brussel op 2 februari 2018

@@ -13,7 +13,7 @@ entry_into_force: 2025-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/19/2025004852/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2025. - Décret modifiant le décret du 14 mars 2019 relatif à la promotion de la santé à l'école et dans l'enseignement supérieur hors universités pour y intégrer un Chapitre Ibis relatif au traitement des données à caractère personnel

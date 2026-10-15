@@ -13,7 +13,7 @@ entry_into_force: 2020-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/03/20/2020020772/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2020. - Decreet houdende instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Democratische Republiek Congo betreffende het luchtvervoer, opgemaakt te Kinshasa op 2 februari 2013

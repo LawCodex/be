@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/05/20/1997002051/justel"
 department: "Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 08-07-1997 et mise à jour au 19-02-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1997. - Loi portant diverses mesures en matière de fonction publique.

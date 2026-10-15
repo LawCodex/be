@@ -13,7 +13,7 @@ entry_into_force: 2022-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/04/28/2022041026/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Ordonnantie houdende instemming met het Aanvullend Protocol bij het Europees handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten, opgemaakt in Utrecht op 16 november 2009

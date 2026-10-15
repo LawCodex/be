@@ -12,7 +12,7 @@ entry_into_force: 2001-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/27/2001015018/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 1997. - Loi portant assentiment au Protocole portant amendement à la Charte sociale européenne, fait à Turin le 21 octobre 1991.

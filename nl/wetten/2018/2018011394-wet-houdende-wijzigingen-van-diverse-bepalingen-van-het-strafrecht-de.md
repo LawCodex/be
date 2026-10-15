@@ -12,7 +12,7 @@ entry_into_force: 2018-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/18/2018011394/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2018. - Wet houdende wijzigingen van diverse bepalingen van het strafrecht, de strafvordering en het gerechtelijk recht

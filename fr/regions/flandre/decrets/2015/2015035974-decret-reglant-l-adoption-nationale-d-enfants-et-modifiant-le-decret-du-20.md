@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/03/2015035974/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-08-2015 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2015. - Décret réglant l'adoption nationale d'enfants et modifiant le décret du 20 janvier 2012 réglant l'adoption internationale d'enfants (cité comme : décret adoption nationale du 3 juillet 2015.)

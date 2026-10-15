@@ -13,7 +13,7 @@ entry_into_force: 2020-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/09/2020016108/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 OCTOBRE 2020. - Décret portant diverses dispositions relatives au transport collectif, à la politique générale de mobilité, aux infrastructures routières et à la politique routière, ainsi qu'aux infrastructures et à la politique de l'eau

@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/12/12/2024011527/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2024. - Ordonnantie tot wijziging van de ordonnantie van 4 april 2024 houdende de Codex van de openbare financiën van het Brussels Hoofdstedelijk Gewest

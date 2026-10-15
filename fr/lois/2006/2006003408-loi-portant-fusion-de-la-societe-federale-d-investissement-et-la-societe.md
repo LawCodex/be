@@ -12,7 +12,7 @@ entry_into_force: 2006-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/26/2006003408/justel"
 department: "Budget et Contrôle de la gestion - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AOUT 2006. - Loi portant fusion de la Société fédérale d'Investissement et la Société fédérale de Participations.

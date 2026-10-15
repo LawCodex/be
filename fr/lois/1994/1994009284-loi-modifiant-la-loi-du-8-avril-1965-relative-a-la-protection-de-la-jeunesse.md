@@ -12,7 +12,7 @@ entry_into_force: 1994-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/02/02/1994009284/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 1994. - Loi modifiant la loi du 8 avril 1965 relative à la protection de la jeunesse.

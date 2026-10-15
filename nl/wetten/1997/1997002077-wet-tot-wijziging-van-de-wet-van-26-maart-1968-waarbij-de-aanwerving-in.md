@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/08/1997002077/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1997. - Wet tot wijziging van de wet van 26 maart 1968 waarbij de aanwerving in openbare dienst wordt vergemakkelijkt van personen die bij de technische coöperatie met de ontwikkelingslanden diensten hebben gepresteerd.

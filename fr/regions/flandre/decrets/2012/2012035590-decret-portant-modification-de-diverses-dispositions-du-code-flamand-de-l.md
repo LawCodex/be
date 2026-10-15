@@ -13,7 +13,7 @@ entry_into_force: 2012-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/11/2012035590/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2012. - Décret portant modification de diverses dispositions du Code flamand de l'Aménagement du Territoire et portant modification de la réglementation relative à l'abrogation de la " Agentschap Ruimtelijke Ordening " (Agence de l'Aménagement du Territoire)

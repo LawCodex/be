@@ -12,7 +12,7 @@ entry_into_force: 2003-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/14/2003003067/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2003. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat et du Service de l'Etat à gestion séparée " Fonds monétaire " pour l'année 1999.

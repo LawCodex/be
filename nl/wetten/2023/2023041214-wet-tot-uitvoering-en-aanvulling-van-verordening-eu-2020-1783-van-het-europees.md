@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/14/2023041214/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-03-2023 en tekstbijwerking tot 27-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2023. - Wet tot uitvoering en aanvulling van Verordening (EU) 2020/1783 van het Europees Parlement en de Raad van 25 november 2020 betreffende de samenwerking tussen de gerechten van de lidstaten op het gebied van bewijsverkrijging in burgerlijke en handelszaken, en van Verordening (EU) 2020/1784 van het Europees Parlement en de Raad van 25 november 2020 inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/03/27/1991035673/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-06-1991 et mise à jour au 30-05-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1991. - Décret portant statut de la "Nederlandse Radio- en Télévisie-uitzendingen in Belgïe, Omroep van de Vlaamse Gemeenschap".(Traduction).

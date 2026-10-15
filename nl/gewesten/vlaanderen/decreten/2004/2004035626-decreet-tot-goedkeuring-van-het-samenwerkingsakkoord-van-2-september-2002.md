@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035626/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet tot goedkeuring van het Samenwerkingsakkoord van 2 september 2002 tussen de Staat, de Gemeenschappen, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Gewesten voor een globaal en geïntegreerd drugsbeleid.

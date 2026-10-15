@@ -13,7 +13,7 @@ entry_into_force: 2024-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024201470/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2024. - Décret interprétatif de certaines dispositions du décret du 11 mars 1999 relatif au permis d'environnement

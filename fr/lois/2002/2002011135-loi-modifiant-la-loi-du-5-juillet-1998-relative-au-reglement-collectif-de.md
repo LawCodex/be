@@ -12,7 +12,7 @@ entry_into_force: 2002-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/19/2002011135/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2002. - Loi modifiant la loi du 5 juillet 1998 relative au règlement collectif de dettes et à la possibilité de vente de gré à gré des biens immeubles saisis.

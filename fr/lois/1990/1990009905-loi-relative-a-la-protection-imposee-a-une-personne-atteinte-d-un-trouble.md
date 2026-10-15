@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/06/26/1990009905/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1991 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1990. - [Loi relative à la protection imposée à une personne atteinte d'un trouble psychiatrique] &lt;L 2024-05-16/06 , art. 2, 015; En vigueur : 01-01-2025&gt;

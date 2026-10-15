@@ -12,7 +12,7 @@ entry_into_force: 2005-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/11/10/2005023052/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2005. - Wet tot aanvulling van de wet van 28 mei 2002 betreffende de euthanasie met bepalingen over de rol van de apotheker en het gebruik en de beschikbaarheid van euthanatica.

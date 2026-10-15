@@ -11,7 +11,7 @@ date: 2017-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/26/2017205766/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2017. - Decreet tot wijziging van diverse bepalingen betreffende de elektriciteits- en gasmarkt alsook de nutsbedrijven

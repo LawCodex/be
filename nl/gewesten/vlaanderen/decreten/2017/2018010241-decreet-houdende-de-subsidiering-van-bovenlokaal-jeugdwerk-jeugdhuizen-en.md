@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/22/2018010241/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-01-2024 en tekstbijwerking tot 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2017. - Decreet houdende de subsidiëring van bovenlokaal jeugdwerk, jeugdhuizen en jeugdwerk voor bijzondere doelgroepen

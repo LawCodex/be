@@ -13,7 +13,7 @@ entry_into_force: 2021-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/09/2021030594/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Décret portant assentiment à l'Accord de dialogue politique et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Cuba, d'autre part, signé à Bruxelles le 12 décembre 2016

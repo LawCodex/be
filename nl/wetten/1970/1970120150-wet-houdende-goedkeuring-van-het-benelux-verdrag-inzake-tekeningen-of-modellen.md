@@ -11,7 +11,7 @@ published: 1973-12-29
 entry_into_force: 1974-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/12/01/1970120150/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 1970. - Wet houdende goedkeuring van het Benelux - Verdrag inzake tekeningen of modellen, ondertekend te Brussel op 25 oktober 1966, en van de bijlage (eenvormige wet).

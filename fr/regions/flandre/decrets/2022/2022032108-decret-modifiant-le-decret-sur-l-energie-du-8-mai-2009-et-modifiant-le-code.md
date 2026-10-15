@@ -13,7 +13,7 @@ entry_into_force: 2022-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/06/2022032108/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2022. - Décret modifiant le décret sur l'Energie du 8 mai 2009 et modifiant le Code flamand du Logement de 2021, en ce qui concerne l'introduction d'un prêt intégré

@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/13/2024201265/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2023. - Décret portant assentiment au Deuxième Protocole modifiant et complétant l'Accord, conclu à Strasbourg le 3 décembre 1974 entre le Royaume de Belgique et le Conseil de l'Europe, complémentaire à l'Accord général sur les privilèges et immunités du Conseil de l'Europe signé à Paris le 2 septembre 1949, fait à Bruxelles le 15 avril 2016

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/10/20/2000036221/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-12-2000 et mise à jour au 30-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2000. - Décret relatif à l'enseignement XII-Ensor.

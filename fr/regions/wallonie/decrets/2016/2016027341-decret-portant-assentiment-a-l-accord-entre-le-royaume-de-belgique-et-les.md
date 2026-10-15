@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016027341/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et les Bermudes en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 11 avril 2013 et à Hamilton le 23 mai 2013

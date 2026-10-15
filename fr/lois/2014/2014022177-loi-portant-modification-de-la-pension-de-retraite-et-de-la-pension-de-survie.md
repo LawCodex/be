@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014022177/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi portant modification de la pension de retraite et de la pension de survie et instaurant l'allocation de transition dans le régime de pension des travailleurs salariés et portant suppression progressive des différences de traitement qui reposent sur la distinction entre ouvriers et employés en matière de pensions complémentaires

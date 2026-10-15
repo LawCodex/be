@@ -13,7 +13,7 @@ entry_into_force: 2002-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/13/2002028118/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2002. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, au Protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, fait à Strasbourg le 9 novembre 1995.

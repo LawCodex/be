@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/07/02/1975070206/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2004 et mise à jour au 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 1975. - Loi déterminant le cadre du personnel des tribunaux de première instance.

@@ -13,7 +13,7 @@ entry_into_force: 2018-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/18/2018203578/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2018. - Décret portant modification du décret du 7 avril 2003 visant le contrôle des dépenses électorales pour l'élection du Conseil ainsi que des communications des autorités publiques de la Communauté germanophone

@@ -12,7 +12,7 @@ entry_into_force: 2015-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/05/29/2015014175/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2015. - Loi modifiant la loi du 19 mars 2013 relative à la Coopération belge au Développement

@@ -12,7 +12,7 @@ entry_into_force: 2024-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/25/2023048709/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2023. - Wet tot wijziging van de wet van 23 maart 1989 betreffende de verkiezing van het Europees Parlement en tot wijziging van het oudburgerlijk wetboek, teneinde de deelname van 16- en 17-jarigen aan de verkiezing van het europees parlement mogelijk te maken zonder voorafgaande inschrijvingsplicht

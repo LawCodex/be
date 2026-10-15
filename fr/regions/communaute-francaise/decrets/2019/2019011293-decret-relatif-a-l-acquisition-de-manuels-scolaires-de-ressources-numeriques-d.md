@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019011293/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-03-2019 et mise à jour au 21-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2019. - Décret relatif à l'acquisition de manuels scolaires, de ressources numériques, d'outils pédagogiques et de livres de littérature, au sein des établissements scolaires &lt;Intitulé modifié par DCFR 2023-02-09/33 , art. 1, 002; En vigueur : 29-08-2022&gt;

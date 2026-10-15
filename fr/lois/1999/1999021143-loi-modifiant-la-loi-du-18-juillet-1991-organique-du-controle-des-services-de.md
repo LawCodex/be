@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/01/1999021143/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 03-04-1999 et mis à jour au 01-08-2000"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1999. - Loi modifiant la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements. (Date corrigée par Erratum, M.B. 07-05-1999, p. 15883)

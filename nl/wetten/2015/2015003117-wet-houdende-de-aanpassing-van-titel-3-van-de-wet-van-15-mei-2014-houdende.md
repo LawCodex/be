@@ -12,7 +12,7 @@ entry_into_force: 2015-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/03/24/2015003117/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2015. - Wet houdende de aanpassing van titel 3 van de wet van 15 mei 2014 houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance en van de artikelen 275 8 en 275 9 van het Wetboek van de inkomstenbelastingen 1992 aan de Verordening (EU) Nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard

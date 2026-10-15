@@ -13,7 +13,7 @@ entry_into_force: 2020-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/12/2020041717/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2020. - Decreet tot wijziging van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp

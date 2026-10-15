@@ -13,7 +13,7 @@ entry_into_force: 2015-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/04/23/2015031253/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2015. - Ordonnance portant assentiment à l'Accord de coopération du 27 février 2014 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création d'un comité de coordination et de facilitation pour l'octroi des autorisations pour des projets d'infrastructures énergétiques transeuropéennes, en exécution du règlement (UE) n° 347/2013

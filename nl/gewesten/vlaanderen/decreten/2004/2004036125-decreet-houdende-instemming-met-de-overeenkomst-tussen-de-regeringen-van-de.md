@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036125/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met de Overeenkomst tussen de regeringen van de Franse Republiek, de Bondsrepubliek Duitsland, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het koninkrijk Spanje en het Koninkrijk België betreffende het Airbus A330/A340-programma en met de bijlagen 1 en 2, ondertekend in Madrid op 26 juli 1995.

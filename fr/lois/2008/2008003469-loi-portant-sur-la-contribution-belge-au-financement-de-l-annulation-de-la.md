@@ -12,7 +12,7 @@ entry_into_force: 2008-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/11/12/2008003469/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2008. - Loi portant sur la contribution belge au Financement de l'annulation de la dette consentie par le Fonds monétaire international au profit du Libéria.

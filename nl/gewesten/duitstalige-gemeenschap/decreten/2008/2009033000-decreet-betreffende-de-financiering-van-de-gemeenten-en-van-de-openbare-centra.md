@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/15/2009033000/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-01-2009 en tekstbijwerking tot 10-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2008. - Decreet betreffende de financiering van de gemeenten en van de openbare centra voor maatschappelijk welzijn door de Duitstalige Gemeenschap. (Vertaling)

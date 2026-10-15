@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/18/2019042944/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2019 et mise à jour au 25-06-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2019. - Décret contenant le budget initial des recettes de la Communauté française pour l'année budgétaire 2020

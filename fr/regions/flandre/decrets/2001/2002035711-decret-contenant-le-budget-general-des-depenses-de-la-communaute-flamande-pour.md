@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035711/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2002 et mise à jour au 29-01-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2002. (Traduction).

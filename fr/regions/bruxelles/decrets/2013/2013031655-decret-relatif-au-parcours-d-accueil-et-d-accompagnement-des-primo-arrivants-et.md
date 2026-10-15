@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/18/2013031655/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 18-09-2013 et mise à jour au 02-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2013. - Décret relatif au parcours d'accueil [et d'accompagnement des primo-arrivants et des personnes étrangères] en Région de Bruxelles-Capitale &lt;DEC 2022-06-10/11 , art. 2, 003; En vigueur : 01-04-2022&gt;

@@ -11,7 +11,7 @@ date: 2024-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024204687/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van het decreet van 6 november 2008 houdende rationalisatie van de adviesverlenende functie, en tot oprichting van een "Conseil wallon de lutte contre le racisme" (Waalse Raad voor Racismebestrijding)

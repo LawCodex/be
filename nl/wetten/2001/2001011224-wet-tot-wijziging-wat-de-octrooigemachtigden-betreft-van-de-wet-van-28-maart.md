@@ -12,7 +12,7 @@ entry_into_force: 2001-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/12/2001011224/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2001. - Wet tot wijziging, wat de octrooigemachtigden betreft, van de wet van 28 maart 1984 op de uitvindingsoctrooien.

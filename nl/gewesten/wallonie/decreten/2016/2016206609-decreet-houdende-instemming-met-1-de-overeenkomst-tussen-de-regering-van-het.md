@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206609/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met : 1) de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, gedaan te Doha op 6 november 2007 en met 2) het Protocol, gedaan te Doha op 22 maart 2015, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, ondertekend te Doha op 6 november 2007

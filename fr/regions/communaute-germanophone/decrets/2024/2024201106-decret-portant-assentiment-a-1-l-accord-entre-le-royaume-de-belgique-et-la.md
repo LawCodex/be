@@ -13,7 +13,7 @@ entry_into_force: 2024-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/29/2024201106/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2024. - Décret portant assentiment à : 1) l'Accord entre le Royaume de Belgique et la République d'Arménie sur l'exercice des activités à but lucratif par des membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 4 décembre 2018; 2) l'Accord entre le Royaume de Belgique et l'Ukraine sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 10 février 2021; 3) l'Accord entre le Royaume de Belgique et la République dominicaine sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 17 juin 2022; 4) l'Accord entre le Royaume de Belgique et la République du Kosovo sur l'exercice des activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 17 juin 2022; 5) l'Accord entre le Royaume de Belgique et la République de Moldavie sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Prague le 31 août 2022; 6) l'Accord entre le Royaume de Belgique et la République d'Ouganda sur l'exercice des activités à but lucratif par des membres de la famille du personnel de missions diplomatiques et de postes consulaires sur base de réciprocité, fait à Kampala le 8 décembre 2022

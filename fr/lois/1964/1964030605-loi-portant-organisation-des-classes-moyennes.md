@@ -12,7 +12,7 @@ entry_into_force: 1964-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/03/06/1964030605/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 1964. - Loi portant organisation des Classes moyennes.

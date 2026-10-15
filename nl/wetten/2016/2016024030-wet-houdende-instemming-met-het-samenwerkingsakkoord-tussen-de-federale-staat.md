@@ -12,7 +12,7 @@ entry_into_force: 2016-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/01/26/2016024030/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2016. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de overdracht van toegewezen eenheden naar de gewesten voor de periode 2008-2012

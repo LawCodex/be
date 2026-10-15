@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/04/2014029807/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-01-2015 en tekstbijwerking tot 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2014. - Decreet tot bevestiging van de eindcompetenties en de kennis vereist op het einde van de doorstromingsafdeling van de algemene en technologische humaniora in wiskunde, basiswetenschappen en algemene wetenschappen en van de gemeenschappelijke eindcompetenties en kennis op het einde van de kwalificatie-afdeling van de technische en beroepshumaniora in wetenschappelijke opvoeding, in het Frans en [in sociale en economische opleiding], alsook in historische en aardrijkskundige opleiding (DFG 2016-02-04/02 , art. 106, 002; Inwerkingtreding : 03-03-2016)

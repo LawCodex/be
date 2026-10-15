@@ -19,7 +19,7 @@ justel_notes:
   - "art. I.14 ; XI.62 ; XI.64/2 ; XI.64/3 ; XI.64/4 ; XI.64/5 ; XI.75/12 ; XI.75/13 ; XI.90/1 ; XV.114 bij W 2018-07-08/06 , art. 4-38, 061; Inwerkingtreding : onbepaald "
   - "W 2022-09-25/06 , art. 2; 3; 6-8; 12; 13; 17; 19-20; 22; 23,2°,119; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 29-03-2013 en tekstbijwerking tot 04-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2013. - Wetboek van economisch recht

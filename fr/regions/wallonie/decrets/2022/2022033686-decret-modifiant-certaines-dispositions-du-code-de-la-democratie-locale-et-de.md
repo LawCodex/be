@@ -13,7 +13,7 @@ entry_into_force: 2022-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/14/2022033686/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2022. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation en ce qui concerne la fusion volontaire de communes

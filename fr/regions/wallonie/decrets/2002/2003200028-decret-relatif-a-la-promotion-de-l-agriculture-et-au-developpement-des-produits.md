@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "Art. 24 abrogé par CWA 2014-03-27/65 , art. D.418, 8°, 012; En vigueur : 31-12-2017"
   - "Consultation des versions antérieures à partir du 28-01-2003 et mise à jour au 08-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret relatif à la promotion de l'agriculture et au développement des produits agricoles de qualité différenciée.

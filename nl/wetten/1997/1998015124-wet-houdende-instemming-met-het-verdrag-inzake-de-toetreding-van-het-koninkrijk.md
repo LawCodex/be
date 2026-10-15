@@ -12,7 +12,7 @@ entry_into_force: 1998-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/01/10/1998015124/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 1997. - Wet houdende instemming met het verdrag inzake de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot het verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het protocol betreffende de uitlegging daarvan door het hof van justitie, zoals deze zijn gewijzigd bij het verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en bij het verdrag inzake de toetreding van de Helleense Republiek, bijlagen I, II, III, IV en V, en gemeenschappelijke verklaring, opgemaakt te Donostia - San Sebastian op 26 mei 1989.

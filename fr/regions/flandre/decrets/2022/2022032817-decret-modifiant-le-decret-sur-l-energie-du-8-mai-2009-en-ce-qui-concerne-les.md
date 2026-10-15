@@ -13,7 +13,7 @@ entry_into_force: 2022-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022032817/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne les conditions de désignation des gestionnaires du réseau de distribution

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002029138/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-05-2002 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet tot vaststelling van de regels die specifiek zijn voor het hoger kunstonderwijs georganiseerd in de hogere kunstscholen (organisatie, financiering, omkadering, statuut van het personeel, rechten en plichten van studenten)

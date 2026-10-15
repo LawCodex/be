@@ -13,7 +13,7 @@ entry_into_force: 2007-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/12/2007202472/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2007. - Decreet houdende goedkeuring van het besluit van 9 februari 2006 tot wijziging, ter uitvoering van artikel 1 van het programmadecreet van 3 februari 2005 betreffende de economische heropleving en de administratieve vereenvoudiging, van het decreet van 11 juli 2002 betreffende de toekenning van een premie voor de invoering van e-business in de kleine en middelgrote ondernemingen en van de decreten van 11 maart 2004 betreffende respectievelijk de gewestelijke incentives ten gunste van de grote ondernemingen, de gewestelijke incentives ten gunste van kleine en middelgrote ondernemingen, de incentives om de milieubescherming en het duurzame energiegebruik te begunstigen (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2017-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017011935/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende instemming met de kaderconventie van de Raad van Europa over de waarde van het cultureel erfgoed voor de samenleving, opgesteld in Faro op 27 oktober 2005

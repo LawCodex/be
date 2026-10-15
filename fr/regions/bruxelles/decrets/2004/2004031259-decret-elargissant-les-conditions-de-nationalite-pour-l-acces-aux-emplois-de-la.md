@@ -13,7 +13,7 @@ entry_into_force: 2004-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004031259/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret élargissant les conditions de nationalité pour l'accès aux emplois de la Fonction publique au sein des services de la Commission communautaire française.

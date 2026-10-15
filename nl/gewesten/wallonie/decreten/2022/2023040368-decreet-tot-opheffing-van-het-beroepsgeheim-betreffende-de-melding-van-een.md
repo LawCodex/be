@@ -13,7 +13,7 @@ entry_into_force: 2023-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/21/2023040368/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2022. - Decreet tot opheffing van het beroepsgeheim betreffende de melding van een onregelmatigheid binnen een dienst van de Waalse Regering of een instelling van openbaar nut waarop het decreet van 22 januari 1998 betreffende het statuut van het personeel van sommige instellingen van openbaar nut die onder het Waalse Gewest ressorteren, toepasselijk is

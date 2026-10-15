@@ -13,7 +13,7 @@ entry_into_force: 1999-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027187/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1999. - Décret portant assentiment au Protocole à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats-membres, d'une part, et l'Ukraine, d'autre part, fait à Bruxelles le 10 avril 1997.

@@ -12,7 +12,7 @@ entry_into_force: 2006-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/05/2006000604/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 2006. - Loi modifiant la loi du 7 juillet 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des conseils provinciaux, communaux et de districts et pour l'élection directe des conseils de l'aide sociale.

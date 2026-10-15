@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/10/2008203387/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 23-09-2008 en tekstbijwerking tot 17-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2008. - Decreet houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid

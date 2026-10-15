@@ -12,7 +12,7 @@ entry_into_force: 1997-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/10/1997009598/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1997. - Wet houdende toekenning van de hoedanigheid van officier van gerechtelijke politie aan de ambtenaren van de fiscale administraties ter beschikking gesteld van de procureur des Konings en van de arbeidsauditeur.

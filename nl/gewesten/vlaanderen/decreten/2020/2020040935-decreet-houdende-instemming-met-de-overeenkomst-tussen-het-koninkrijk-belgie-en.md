@@ -13,7 +13,7 @@ entry_into_force: 2020-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/03/20/2020040935/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2020. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Senegal betreffende het luchtvervoer, gedaan te Dakar op 18 januari 2013

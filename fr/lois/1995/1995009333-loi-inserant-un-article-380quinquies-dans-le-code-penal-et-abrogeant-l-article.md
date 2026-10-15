@@ -12,7 +12,7 @@ entry_into_force: 1995-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/27/1995009333/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1995. - Loi insérant un article 380quinquies dans le Code pénal et abrogeant l'article 380quater, alinéa 2, du même Code.

@@ -11,7 +11,7 @@ published: 1979-10-05
 entry_into_force: 1979-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/07/11/1979071107/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1979. - Wet houdende goedkeuring van de Europese Overeenkomst inzake de bescherming van dieren in veehouderijen, opgemaakt te Straatsburg op 10 maart 1976.

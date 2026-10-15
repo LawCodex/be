@@ -13,7 +13,7 @@ entry_into_force: 2023-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/01/2022042973/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2022. - Decreet tot wijziging van afdeling II van hoofdstuk 7 van Boek 1 van het Wetboek van basis- en secundair onderwijs met betrekking tot de specifieke bepalingen voor de inschrijving in het eerste jaar van het gewoon secundair onderwijs

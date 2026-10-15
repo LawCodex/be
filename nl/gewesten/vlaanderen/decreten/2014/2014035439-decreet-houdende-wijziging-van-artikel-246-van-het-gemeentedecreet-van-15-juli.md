@@ -13,7 +13,7 @@ entry_into_force: 2014-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/28/2014035439/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Decreet houdende wijziging van artikel 246 van het Gemeentedecreet van 15 juli 2005, wat betreft de samenstelling van de organen van een gemeentelijke vennootschap, vereniging of stichting, belast met beleidsuitvoerende taken van gemeentelijk belang die uitsluitend bevoegdheden van het district betreffen

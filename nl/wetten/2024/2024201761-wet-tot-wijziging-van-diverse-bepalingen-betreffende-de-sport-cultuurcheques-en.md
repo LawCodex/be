@@ -12,7 +12,7 @@ entry_into_force: 2024-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/29/2024201761/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Wet tot wijziging van diverse bepalingen betreffende de sport/cultuurcheques en de koopkrachtpremies

@@ -10,7 +10,7 @@ date: 2023-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/10/19/2023047050/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2023. - Wet tot wijziging van artikel 11, § 1, van de wet van 24 maart 1999 tot regeling van de betrekkingen tussen de overheid en de vakverenigingen van het personeel van de politiediensten wat de invoering van detacheringen van personeelsleden van de geïntegreerde politie naar haar sociale dienst betreft

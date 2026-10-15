@@ -11,7 +11,7 @@ published: 1972-07-26
 entry_into_force: 1973-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1972/07/07/1972070702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1972. - Wet tot vaststelling van de grenzen van de belastingbevoegdheid van agglomeraties en federaties van gemeenten.

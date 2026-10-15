@@ -11,7 +11,7 @@ date: 2019-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019014484/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet tot wijziging van het decreet van 24 maart 2006 betreffende het implementeren, bevorderen en verstevigen van samenwerkingsverbanden tussen Cultuur en Onderwijs

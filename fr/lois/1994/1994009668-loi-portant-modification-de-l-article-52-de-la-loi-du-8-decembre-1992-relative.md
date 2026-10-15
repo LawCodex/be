@@ -12,7 +12,7 @@ entry_into_force: 1994-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/30/1994009668/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1994. - Loi portant modification de l'article 52 de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.

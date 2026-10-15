@@ -12,7 +12,7 @@ entry_into_force: 2010-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/08/2010009237/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2010. - Wet met betrekking tot de verzwarende omstandigheid voor daders van bepaalde misdrijven tegen bepaalde personen bekleed met een openbare hoedanigheid

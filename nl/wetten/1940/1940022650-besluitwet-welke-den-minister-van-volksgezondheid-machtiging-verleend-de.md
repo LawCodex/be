@@ -11,7 +11,7 @@ published: 1940-03-10
 entry_into_force: 1940-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1940/02/26/1940022650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 1940. - BESLUITWET welke den Minister van Volksgezondheid machtiging verleend, de maandelijksche telling van de voorraden pharmaceutische producten die bestaan bij grossisten, invoerders en voortbrengers, te bevelen.

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/11/23/2023047528/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Ordonnance modifiant l'ordonnance du 21 décembre 2018 relative aux organismes assureurs bruxellois dans le domaine des soins de santé et de l'aide aux personnes

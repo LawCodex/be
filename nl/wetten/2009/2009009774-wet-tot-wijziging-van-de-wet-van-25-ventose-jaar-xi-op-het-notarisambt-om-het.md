@@ -10,7 +10,7 @@ date: 2009-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/10/23/2009009774/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2009. - Wet tot wijziging van de wet van 25 ventôse jaar XI op het notarisambt om het jaarlijks aantal kandidaat-notarissen op te trekken

@@ -12,7 +12,7 @@ entry_into_force: 2018-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/06/2018012046/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2018. - Wet houdende instemming met de Wijziging van het Protocol van Montreal inzake substanties die de ozonlaag aantasten, aangenomen te Kigali op 15 oktober 2016.

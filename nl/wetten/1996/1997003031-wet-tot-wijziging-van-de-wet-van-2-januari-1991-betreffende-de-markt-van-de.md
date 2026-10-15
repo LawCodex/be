@@ -12,7 +12,7 @@ entry_into_force: 1997-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/12/1997003031/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1996. - Wet tot wijziging van de wet van 2 januari 1991 betreffende de markt van de effecten van de overheidsschuld en het monetair beleidsinstrumentarium met betrekking tot het Belgisch-Luxemburgs Wisselinstituut.

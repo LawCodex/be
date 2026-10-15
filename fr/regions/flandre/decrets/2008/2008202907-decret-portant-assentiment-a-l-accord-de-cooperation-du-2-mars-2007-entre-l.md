@@ -13,7 +13,7 @@ entry_into_force: 2008-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/04/2008202907/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2008. - Décret portant assentiment à l'Accord de coopération du 2 mars 2007 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de la convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, faite à Paris, le 13 janvier 1993 (TRADUCTION).

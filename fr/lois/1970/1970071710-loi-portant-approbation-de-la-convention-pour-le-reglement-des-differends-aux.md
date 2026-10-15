@@ -11,7 +11,7 @@ published: 1970-09-24
 entry_into_force: 1970-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/17/1970071710/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1970. - Loi portant approbation de la Convention pour le règlement des différends aux investissements entre Etats et ressortissants d'autres Etats, Washington 18 mars 1965.

@@ -13,7 +13,7 @@ entry_into_force: 1995-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027257/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet tot goedkeuring van het Verdrag inzake bescherming van het zeeleven van het noordoostelijk deel van de Atlantische Oceaan, alsook van zijn bijlagen I, II, III en IV en zijn aanhangsels 1 en 2, afgesloten te Parijs op 22 september 1992. (VERTALING).

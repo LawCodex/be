@@ -12,7 +12,7 @@ entry_into_force: 2018-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/21/2017032186/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2017. - Loi modifiant diverses dispositions en vue d'instaurer une période de (sûreté) et modifiant la loi du 20 juillet 1990 relative à la détention préventive en ce qui concerne l'arrestation immédiate (Erratum du 27-08-2018, p. 66342)

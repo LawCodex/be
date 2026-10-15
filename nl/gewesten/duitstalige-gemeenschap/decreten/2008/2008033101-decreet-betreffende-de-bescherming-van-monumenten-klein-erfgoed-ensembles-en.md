@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/23/2008033101/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-11-2008 en tekstbijwerking tot 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2008. - [Decreet betreffende de bescherming van monumenten, klein erfgoed, ensembles en (historische cultuurlandschappen) en betreffende de opgravingen] (ERRATUM, zie B.St. 28-01-2010, p. 3817) (VERTALING) (Opschrift gewijzigd door DDG 2019-12-12/19 , art. 25, 010; Inwerkingtreding : 01-01-2020)

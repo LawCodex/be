@@ -17,7 +17,7 @@ department: "Franse Gemeenschapscommissie"
 justel_notes:
   - "bij arrest nr. 116/2011 van 30-06-2011 (B.St. 11-08-2011, p. 45813-45817), vernietigtGRONDWETTELIJK HOF die wet, handhaaft de gevolgen van die wet tot uiterlijk 21 december 2012"
   - "Raadpleging van vroegere versies vanaf 03-02-1999 en tekstbijwerking tot 30-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 1999. - Decreet betreffende de erkenning van de gastkamers en de toelating om de benaming "Gastkamers" te gebruiken (VERTALING)

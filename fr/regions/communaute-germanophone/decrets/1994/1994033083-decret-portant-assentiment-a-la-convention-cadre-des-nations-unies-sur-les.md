@@ -13,7 +13,7 @@ entry_into_force: 1994-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/15/1994033083/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 1994. - Décret portant assentiment à la Convention-Cadre des Nations Unies sur les changements climatiques conclue à New York le 9 mai 1992 et à ses Annexes I et II.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/01/12/1993022029/justel"
 department: "Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2018 et mise à jour au 31-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 1993. - Loi concernant un droit d'action en matière de protection de l'environnement

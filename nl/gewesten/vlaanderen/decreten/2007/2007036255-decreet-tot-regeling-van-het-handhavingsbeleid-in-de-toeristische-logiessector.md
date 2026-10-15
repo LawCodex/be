@@ -13,7 +13,7 @@ entry_into_force: 2008-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/13/2007036255/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2007. - Decreet tot regeling van het handhavingsbeleid in de toeristische logiessector.

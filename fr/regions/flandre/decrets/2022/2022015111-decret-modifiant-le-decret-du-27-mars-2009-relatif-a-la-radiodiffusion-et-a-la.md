@@ -13,7 +13,7 @@ entry_into_force: 2022-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/03/2022015111/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2022. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne la transposition partielle de la directive (UE) 2019/882 du Parlement européen et du Conseil du 17 avril 2019 relative aux exigences en matière d'accessibilité applicables aux produits et services, et modifiant le décret du 12 février 2021 modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision en ce qui concerne les organismes de radiodiffusion sonore nationaux et régionaux et l'appareillage final technique pour la réception de radio FM d'organismes de radiodiffusion sonore

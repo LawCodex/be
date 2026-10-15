@@ -12,7 +12,7 @@ entry_into_force: 2023-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/08/2023046836/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2023. - Loi portant des mesures pour soutenir les travailleurs occasionnels dans l'agriculture et l'horticulture

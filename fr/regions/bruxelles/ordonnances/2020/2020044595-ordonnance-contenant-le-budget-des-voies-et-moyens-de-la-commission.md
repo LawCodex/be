@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/18/2020044595/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Ordonnance contenant le Budget des Voies et Moyens de la Commission communautaire commune pour l'année budgétaire 2021

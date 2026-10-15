@@ -11,7 +11,7 @@ date: 2002-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/11/2002029438/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2002. - Decreet tot wijziging van het decreet van 14 juli 1997 houdende organisatie van de gezondheidspromotie in de Franse Gemeenschap (VERTALING).

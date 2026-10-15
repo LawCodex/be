@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/13/2017200237/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-01-2017 en tekstbijwerking tot 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2016. - [ 1 Decreet houdende maatregelen inzake zelfbeschikkend leven] 1 ( 1 )&lt;DDG 2023-11-13/18 , art.5 , 008; Inwerkingtreding : 01-01-2024&gt;

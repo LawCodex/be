@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014202999/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet betreffende de bevoegdheden van de Franse Gemeenschap waarvan de uitoefening aan het Waalse Gewest en aan de Franse Gemeenschapscommissie overgedragen wordt

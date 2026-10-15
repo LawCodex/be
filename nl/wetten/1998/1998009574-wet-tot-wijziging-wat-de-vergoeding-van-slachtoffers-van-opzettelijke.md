@@ -12,7 +12,7 @@ entry_into_force: 1998-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/08/1998009574/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1998. - Wet tot wijziging, wat de vergoeding van slachtoffers van opzettelijke gewelddaden gepleegd vóór 6 augustus 1985 betreft, van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen.

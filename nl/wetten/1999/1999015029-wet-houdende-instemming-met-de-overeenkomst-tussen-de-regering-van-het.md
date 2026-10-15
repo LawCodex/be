@@ -12,7 +12,7 @@ entry_into_force: 1999-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/18/1999015029/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 1999. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Oekraïne tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Kiev op 20 mei 1996.

@@ -11,7 +11,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/11/2013206337/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 NOVEMBER 2013. - Wet tot wijziging van afdeling 3 van hoofdstuk 7 van titel IV van de programmawet (I) van 24 december 2002

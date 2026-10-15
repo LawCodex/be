@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029378/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2014 et mise à jour au 17-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret organisant la reconnaissance et le subventionnement d'une association inter universitaire d'aide à la performance sportive

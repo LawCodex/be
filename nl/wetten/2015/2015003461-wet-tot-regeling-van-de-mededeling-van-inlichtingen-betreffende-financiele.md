@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/16/2015003461/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2015 en tekstbijwerking tot 01-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2015. - Wet tot regeling van de mededeling van inlichtingen betreffende financiële rekeningen, door de Belgische financiële instellingen en de FOD Financiën, in het kader van een automatische uitwisseling van inlichtingen op internationaal niveau en voor belastingdoeleinden

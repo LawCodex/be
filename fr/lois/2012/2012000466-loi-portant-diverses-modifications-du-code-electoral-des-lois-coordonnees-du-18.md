@@ -12,7 +12,7 @@ entry_into_force: 2012-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012000466/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi portant diverses modifications du Code électoral, des lois coordonnées du 18 juillet 1966 sur l'emploi des langues en matière administrative, de la loi du 3 juillet 1971 relative à la répartition des membres des Chambres législatives en groupes linguistiques et portant diverses dispositions relatives aux conseils culturels pour la communauté culturelle française et pour la communauté culturelle néerlandaise et de la loi du 23 mars 1989 relative à l'élection du Parlement européen

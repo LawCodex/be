@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/23/2004022931/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2004. - Wet tot wijziging van de datum van inwerkingtreding van de onmiddellijke aangifte van tewerkstelling voor bepaalde sectoren.

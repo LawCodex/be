@@ -12,7 +12,7 @@ published: 2019-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019202443/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Bijzonder decreet tot wijziging van de artikelen 60 en 64 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen met het oog op een gewaarborgde evenwichtige aanwezigheid van vrouwen en mannen in de Waalse Regering

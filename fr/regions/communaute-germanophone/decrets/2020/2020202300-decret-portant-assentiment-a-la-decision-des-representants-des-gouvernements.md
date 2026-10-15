@@ -13,7 +13,7 @@ entry_into_force: 2020-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/27/2020202300/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2020. - Décret portant assentiment à la Décision des Représentants des Gouvernements des Etats membres, réunis au sein du Conseil, du 28 avril 2004 concernant les privilèges et immunités accordés à ATHENA (2004/582/CE)

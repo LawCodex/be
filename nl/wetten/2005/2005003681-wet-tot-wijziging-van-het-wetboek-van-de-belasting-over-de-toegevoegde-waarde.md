@@ -10,7 +10,7 @@ date: 2005-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/08/10/2005003681/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2005. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde en het Wetboek van de inkomstenbelastingen 1992, teneinde in te gaan tegen de organisatie van onvermogen in het kader van bedrieglijke overdracht van een geheel van goederen.

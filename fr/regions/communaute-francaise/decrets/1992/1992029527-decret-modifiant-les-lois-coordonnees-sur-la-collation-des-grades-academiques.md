@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/07/29/1992029527/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieurs à partir du 21/10/1992 et mise à jour au 08/11/1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 1992. - DECRET modifiant les lois coordonnées sur la collation des grades académiques et le programme des examens universitaires et portant différentes mesures en faveur des porteurs d'un diplôme délivré par l'Ecole royale militaire

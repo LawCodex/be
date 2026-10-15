@@ -12,7 +12,7 @@ entry_into_force: 2005-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/07/2005003323/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2005. - Loi modifiant l'arrêté royal n° 4 du 29 décembre 1969 relatif aux restitutions en matière de taxe sur la valeur ajoutée, la loi du 8 août 1997 sur les faillites et le Code des impôts sur les revenus 1992, en vue d'assurer un traitement fiscal plus équitable aux créanciers dans le cadre d'un concordat judiciaire ou d'une faillite.

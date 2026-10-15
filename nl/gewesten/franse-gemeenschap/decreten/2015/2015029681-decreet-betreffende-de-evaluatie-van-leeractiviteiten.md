@@ -12,7 +12,7 @@ published: 2016-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/10/2015029681/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2015. - Decreet betreffende de evaluatie van leeractiviteiten

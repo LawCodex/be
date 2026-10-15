@@ -12,7 +12,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/21/2024002671/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2024. - Loi modifiant l'ancien Code civil en ce qui concerne les ventes à des consommateurs

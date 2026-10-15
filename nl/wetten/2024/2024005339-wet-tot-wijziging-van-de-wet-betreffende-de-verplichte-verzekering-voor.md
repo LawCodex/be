@@ -12,7 +12,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/29/2024005339/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2024. - Wet tot wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, wat betreft geschillen met betrekking tot kaderbeslissingen tot snelle of vroege toegang

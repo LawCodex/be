@@ -10,7 +10,7 @@ date: 1991-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/06/17/1994015084/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1991. - Wet houdende goedkeuring van de wijzigingen van het Verdrag van 22 november 1928 betreffende de internationale tentoonstellingen zoals gewijzigd en aangevuld door de Protocollen van 10 mei 1948, 16 november 1966, 30 november 1972 en door de wijziging van 24 juni 1982, aangenomen door de algemene vergadering van het Internationaal Tentoonstellingsbureau op 31 mei 1988.

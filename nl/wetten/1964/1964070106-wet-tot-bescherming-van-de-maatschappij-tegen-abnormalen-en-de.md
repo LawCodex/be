@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1964/07/01/1964070106/justel"
 justel_notes:
   - "wet houdende wijzigingen van de wet van 09-04-1930 die hetzelfde opschrift heeft, zie : 1930-04-09/30 "
   - "Raadpleging van vroegere versies vanaf 09-08-1990 en tekstbijwerking tot 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 1964. - Wet tot bescherming van de maatschappij tegen abnormalen en de gewoontemisdadigers

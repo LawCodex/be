@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/16/1995027197/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1995. - Decreet houdende wijziging van het Boswetboek met aan het Waalse Gewest eigen bepalingen i.v.m. bet openbaar verkeer in bossen en wouden in het algemeen. (VERTALING)

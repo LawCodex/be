@@ -13,7 +13,7 @@ entry_into_force: 2013-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/26/2013031713/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 2013. - Ordonnance modifiant l'article 4 de l'ordonnance du 19 juillet 1990 portant création de l'Agence régionale pour la Propreté

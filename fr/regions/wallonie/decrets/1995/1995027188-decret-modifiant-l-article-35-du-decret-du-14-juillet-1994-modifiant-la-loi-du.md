@@ -13,7 +13,7 @@ entry_into_force: 1995-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/23/1995027188/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1995. - Décret modifiant l'article 35 du décret du 14 juillet 1994 modifiant la loi du 28 février 1882 sur la chasse.

@@ -12,7 +12,7 @@ entry_into_force: 1998-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/06/1998014124/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1998. - Wet tot wijziging van de wet van 30 juli 1979 betreffende de radioberichtgeving.

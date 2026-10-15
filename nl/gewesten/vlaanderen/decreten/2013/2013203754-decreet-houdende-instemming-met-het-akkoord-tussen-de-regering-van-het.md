@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203754/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met het akkoord tussen de Regering van het Koninkrijk België en de Regering van Montserrat, zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Londen op 16 februari 2010

@@ -13,7 +13,7 @@ entry_into_force: 2022-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/09/2022021035/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2022. - Decreet houdende instemming met het samenwerkingsakkoord tot wijziging van het kaderakkoord van 27 februari 2014 tot samenwerking tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het inter-Franstalig overleg inzake gezondheid en bijstand aan personen en betreffende de gemeenschappelijke principes die op deze laatsten van toepassing zijn

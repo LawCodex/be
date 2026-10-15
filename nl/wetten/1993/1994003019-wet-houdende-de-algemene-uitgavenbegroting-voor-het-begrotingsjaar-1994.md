@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/24/1994003019/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 11-08-1994 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1993. - WET houdende de algemene uitgavenbegroting voor het begrotingsjaar 1994

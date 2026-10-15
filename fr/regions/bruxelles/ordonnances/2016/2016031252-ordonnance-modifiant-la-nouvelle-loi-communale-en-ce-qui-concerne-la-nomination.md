@@ -13,7 +13,7 @@ entry_into_force: 2016-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/03/24/2016031252/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2016. - Ordonnance modifiant la Nouvelle loi communale en ce qui concerne la nomination des membres du personnel enseignant

@@ -13,7 +13,7 @@ entry_into_force: 2015-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/20/2015035434/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2015. - Decreet houdende wijziging van artikel 14 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap

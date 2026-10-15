@@ -13,7 +13,7 @@ entry_into_force: 2013-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/07/2013201741/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2013. - Décret portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 7 octobre 2009, et 2° à l'échange de lettres des 30 mai 2011 et 11 juillet 2011

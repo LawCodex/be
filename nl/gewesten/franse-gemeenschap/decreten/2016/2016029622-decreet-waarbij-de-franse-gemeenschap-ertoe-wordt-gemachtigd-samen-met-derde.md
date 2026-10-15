@@ -12,7 +12,7 @@ published: 2017-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/17/2016029622/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2016. - Decreet waarbij de Franse Gemeenschap ertoe wordt gemachtigd samen met derde partijen een publiekrechtelijke rechtspersoon op te richten en waarbij zijn oprichting, samenstelling, bevoegdheid, werking en toezicht worden geregeld

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/01/2022041616/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2022. - Decreet tot wijziging van artikel 5 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, tot wijziging van het Groeipakketdecreet van 2018 en tot uitlegging van artikel 8 van het Groeipakketdecreet van 2018

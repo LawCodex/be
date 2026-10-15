@@ -12,7 +12,7 @@ entry_into_force: 2003-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/28/2003022483/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2003. - Loi modifiant la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement et de la santé.

@@ -12,7 +12,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/21/2023048476/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2023. - Loi modifiant la loi du 6 août 1990 relative aux mutualites et aux unions nationales de mutualites en ce qui concerne le service de l'epargne prenuptiale et les missions de l'office de controle des mutualites et des unions nationales de mutualites a l'egard des societes mutualistes d'assurance et de leurs intermediaires d'assurances

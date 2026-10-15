@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/16/2022042979/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 27-12-2022 et mise à jour au 02-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2022. - Loi portant création de la Commission du travail des arts et améliorant la protection sociale des travailleurs des arts

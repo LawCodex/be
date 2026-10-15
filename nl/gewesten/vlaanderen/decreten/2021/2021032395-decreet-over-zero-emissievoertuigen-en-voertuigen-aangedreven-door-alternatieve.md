@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/16/2021032395/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-2021 en tekstbijwerking tot 14-11-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2021. - Decreet over zero-emissievoertuigen en voertuigen aangedreven door alternatieve brandstoffen

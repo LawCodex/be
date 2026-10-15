@@ -13,7 +13,7 @@ last_amended: 2026-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1808/12/10/1808121050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 25-06-1997 en tekstbijwerking tot 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 1808. - WETBOEK VAN STRAFVORDERING. - BOEK II, TITEL III. (art. 407 tot en met 447bis) &lt;Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan het vijfde deel Titel III van het tweede Boek omvat.&gt;

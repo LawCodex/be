@@ -12,7 +12,7 @@ entry_into_force: 2016-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/21/2016011338/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2016. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité en ce qui concerne la modification du mécanisme en vue de l'octroi de certificats verts pour l'électricité produite conformément à l'article 6, le financement du câble sous-marin et l'écart de production

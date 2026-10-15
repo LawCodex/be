@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/13/1999000472/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-1999 en tekstbijwerking tot 27-11-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1999. - Wet houdende het tuchtstatuut van de personeelsleden van de politiediensten.

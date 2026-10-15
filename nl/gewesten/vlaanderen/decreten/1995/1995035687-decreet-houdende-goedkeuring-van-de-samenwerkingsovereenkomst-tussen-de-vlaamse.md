@@ -13,7 +13,7 @@ entry_into_force: 1995-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/05/1995035687/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Decreet houdende goedkeuring van de Samenwerkingsovereenkomst tussen de Vlaamse regering en de regeling van de Republiek Polen, opgemaakt in Warschau op 6 juni 1994.

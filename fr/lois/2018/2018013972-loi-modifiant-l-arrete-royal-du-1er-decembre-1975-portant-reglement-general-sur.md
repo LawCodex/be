@@ -12,7 +12,7 @@ entry_into_force: 2018-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/02/2018013972/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 2018. - Loi modifiant l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique en ce qui concerne la création de la rue scolaire

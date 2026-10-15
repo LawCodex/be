@@ -12,7 +12,7 @@ entry_into_force: 2004-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/01/08/2004003026/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2004. - Wet tot wijziging van artikel 215, derde lid, 4°, van het Wetboek van de inkomstenbelastingen 1992.

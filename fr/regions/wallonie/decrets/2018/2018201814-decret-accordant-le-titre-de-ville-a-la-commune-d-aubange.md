@@ -13,7 +13,7 @@ entry_into_force: 2018-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018201814/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Décret accordant le titre de ville à la commune d'Aubange

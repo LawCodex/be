@@ -12,7 +12,7 @@ entry_into_force: 2013-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/14/2013009050/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2013. - Loi modifiant l'article 405quater du Code pénal et l'article 2 de la loi du 4 octobre 1867 sur les circonstances atténuantes

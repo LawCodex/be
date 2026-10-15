@@ -13,7 +13,7 @@ entry_into_force: 2017-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030799/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant assentiment à certains amendements à la Convention internationale de 1973 pour la prévention de la pollution par les navires, signée à Londres le 2 novembre 1973 (MARPOL), adoptés sur la base de l'article 16 de la cette convention

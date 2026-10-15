@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/09/1998015094/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1998. - Loi portant assentiment à la Convention relative à l'adhésion du Royaume d'Espagne et de la République portugaise à la Convention sur la loi applicable aux obligations contractuelles, ouverte à la signature à Rome le 19 juin 1980, et Annexes I et II, faits à Funchal le 18 mai 1992.

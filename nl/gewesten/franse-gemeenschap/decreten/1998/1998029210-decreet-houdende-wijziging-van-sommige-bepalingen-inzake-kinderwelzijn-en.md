@@ -13,7 +13,7 @@ entry_into_force: 1998-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/06/1998029210/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1998. - Decreet houdende wijziging van sommige bepalingen inzake kinderwelzijn en hulpverlening aan de jeugd (VERTALING).

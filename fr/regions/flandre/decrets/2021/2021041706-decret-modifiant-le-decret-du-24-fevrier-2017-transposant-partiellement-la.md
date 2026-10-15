@@ -13,7 +13,7 @@ entry_into_force: 2021-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/21/2021041706/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2021. - Décret modifiant le décret du 24 février 2017 transposant partiellement la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles

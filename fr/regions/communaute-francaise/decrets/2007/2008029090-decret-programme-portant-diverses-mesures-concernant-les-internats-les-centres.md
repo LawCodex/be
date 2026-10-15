@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/13/2008029090/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2007. - Décret-programme portant diverses mesures concernant les internats, les centres psycho-médico-sociaux, les bâtiments scolaires, l'enseignement technique et professionnel, le financement des universités, les fonds budgétaires, la garantie octroyée par la Communauté française sur les produits financiers de la RTBF et les infrastructures sportives.

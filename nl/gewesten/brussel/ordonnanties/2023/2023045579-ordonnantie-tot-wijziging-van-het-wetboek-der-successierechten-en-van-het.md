@@ -12,7 +12,7 @@ entry_into_force: 2023-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/07/06/2023045579/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2023. - Ordonnantie tot wijziging van het Wetboek der successierechten en van het Wetboek der registratie-, hypotheek- en griffierechten met het oog op het aanpassen van de Brusselse fiscale regelgeving aan de nieuwe gezinsstructuren en het bevorderen van de overdrachten tussen generaties

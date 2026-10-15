@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/30/2008037385/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-01-2008 et mise à jour au 17-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2007. - Décret portant création du Conseil de la Culture, de la Jeunesse, des Sports et des Médias (TRADUCTION)

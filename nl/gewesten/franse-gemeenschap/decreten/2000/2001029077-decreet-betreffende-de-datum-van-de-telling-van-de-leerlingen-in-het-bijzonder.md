@@ -13,7 +13,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/21/2001029077/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2000. - Decreet betreffende de datum van de telling van de leerlingen in het bijzonder onderwijs (VERTALING).

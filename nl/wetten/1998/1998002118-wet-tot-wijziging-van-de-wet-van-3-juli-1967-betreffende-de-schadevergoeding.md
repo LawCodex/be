@@ -11,7 +11,7 @@ entry_into_force: 1995-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/10/19/1998002118/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 1998. - Wet tot wijziging van de wet van 3 juli 1967 betreffende de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector.

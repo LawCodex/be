@@ -13,7 +13,7 @@ entry_into_force: 2007-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/26/2007033026/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2007. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap (VERTALING).

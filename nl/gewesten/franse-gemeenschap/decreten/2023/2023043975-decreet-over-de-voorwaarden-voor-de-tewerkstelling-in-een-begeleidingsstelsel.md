@@ -12,7 +12,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/06/2023043975/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2023. - Decreet over de voorwaarden voor de tewerkstelling in een begeleidingsstelsel voor het Frans als Vreemde Taal (FLA) of een stelsel voor het onthaal en de scholarisatie van nieuwkomers (DASPA)

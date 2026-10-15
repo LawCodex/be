@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/30/2018015170/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2018. - Decreet tot bekrachtiging van de coördinatie van de waterregelgeving in het decreet van 18 juli 2003 betreffende het integraal waterbeleid en tot opheffing van de gecoördineerde regelgeving

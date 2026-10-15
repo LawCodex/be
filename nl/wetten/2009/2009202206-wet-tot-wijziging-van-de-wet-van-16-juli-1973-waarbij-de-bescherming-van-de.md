@@ -12,7 +12,7 @@ entry_into_force: 2009-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/12/2009202206/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2009. - Wet tot wijziging van de wet van 16 juli 1973 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt

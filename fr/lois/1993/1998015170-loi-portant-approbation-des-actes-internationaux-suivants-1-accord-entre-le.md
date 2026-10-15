@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/02/17/1998015170/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1993. - Loi portant approbation des actes internationaux suivants : 1. Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de l a République francaise relatif à la délimitation de la mer territoriale, 2. Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de l a République francaise relatif à la délimitation du plateau continental, signés à Bruxelles le 8 octobre 1990. (NOTE 1 : cette loi a déjà été publiée au M.B. du 01-12-1993 ; seule cette publication fait foi. La publication du 18-12-1998 doit être considérée comme nulle et non avenue) (NOTE 2 : La loi n'ayant pas été reprise dans le système sous la publication du 01-12-1993, vous pouvez la consulter sous la publication du 18-12-1998).

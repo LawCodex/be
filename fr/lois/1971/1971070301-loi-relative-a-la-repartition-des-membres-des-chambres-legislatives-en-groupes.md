@@ -13,7 +13,7 @@ last_amended: 2012-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/03/1971070301/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-01-2003 et mise à jour au 22-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 1971. - Loi relative à la répartition des membres des Chambres législatives en groupes linguistiques et portant diverses dispositions relatives aux conseils culturels pour la communauté culturelle française et pour la communauté culturelle néerlandaise.

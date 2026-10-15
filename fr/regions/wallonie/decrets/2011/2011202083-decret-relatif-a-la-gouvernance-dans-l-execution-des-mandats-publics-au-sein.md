@@ -13,7 +13,7 @@ entry_into_force: 2011-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/04/07/2011202083/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2011. - Décret relatif à la gouvernance dans l'exécution des mandats publics au sein des organismes d'intérêt public et des entités dérivées de l'autorité publique

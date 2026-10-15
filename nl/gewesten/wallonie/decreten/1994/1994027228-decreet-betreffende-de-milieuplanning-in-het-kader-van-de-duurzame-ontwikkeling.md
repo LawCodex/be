@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "deze tekst werd opgeheven bij DWG 2004-05-27/63, art. 2, 3°, 007; Inwerkingtreding : onbepaald ; zie B.S. 09-07-2004, p. 54697"
   - "Raadpleging van vroegere versies vanaf 23-04-1994 en tekstbijwerking tot 22-06-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1994. - Decreet betreffende de milieuplanning in het kader van de duurzame ontwikkeling. (Vertaling)

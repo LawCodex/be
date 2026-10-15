@@ -12,7 +12,7 @@ entry_into_force: 2024-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/11/2023048489/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2023. - Loi modifiant la loi du 24 juin 2013 relative aux sanctions administratives communales, la Nouvelle Loi communale et la loi du 15 mai 2007 relative à la création de la fonction de gardien de la paix, à la création du service des gardiens de la paix et à la modification de l'article 119bis de la Nouvelle Loi communale

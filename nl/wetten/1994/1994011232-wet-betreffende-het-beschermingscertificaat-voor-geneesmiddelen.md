@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/29/1994011232/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 12-04-2007 en tekstbijwerking tot 11-09-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 1994. - Wet betreffende het beschermingscertificaat voor geneesmiddelen.

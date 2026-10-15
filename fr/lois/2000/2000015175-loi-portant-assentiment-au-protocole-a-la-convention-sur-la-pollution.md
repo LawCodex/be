@@ -12,7 +12,7 @@ entry_into_force: 2001-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/24/2000015175/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2000. - Loi portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif à la lutte contre les émissions des composés organiques volatils ou leurs flux transfrontières, et aux annexes I, II, III et IV, signés à Genève le 18 novembre 1991.

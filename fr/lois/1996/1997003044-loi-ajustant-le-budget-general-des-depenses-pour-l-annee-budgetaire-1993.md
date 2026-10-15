@@ -12,7 +12,7 @@ entry_into_force: 1997-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/16/1997003044/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1996. - Loi ajustant le Budget général des dépenses pour l'année budgétaire 1993.

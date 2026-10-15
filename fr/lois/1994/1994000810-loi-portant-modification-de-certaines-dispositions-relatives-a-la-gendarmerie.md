@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/09/1994000810/justel"
 department: "Justice - Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1994. - Loi portant modification de certaines dispositions relatives à la gendarmerie et au statut de son personnel.

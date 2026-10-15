@@ -13,7 +13,7 @@ entry_into_force: 2012-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/01/2012031109/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2012. - Ordonnantie tot wijziging van de wet van 22 december 1986 betreffende de intercommunales en de ordonnantie van 19 juli 2001 houdende regeling van het administratief toezicht op de intercommunales van het Brussels Hoofdstedelijk Gewest

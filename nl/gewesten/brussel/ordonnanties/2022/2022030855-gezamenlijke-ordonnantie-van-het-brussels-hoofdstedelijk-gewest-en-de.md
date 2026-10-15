@@ -13,7 +13,7 @@ entry_into_force: 2022-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/02/10/2022030855/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2022. - Gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende de verwerking van persoonsgegevens in het kader van de oprichting van overlegcommissies met volksvertegenwoordigers en bij lottrekking uitgenodigde burgers door het Parlement of de Verenigde Vergadering

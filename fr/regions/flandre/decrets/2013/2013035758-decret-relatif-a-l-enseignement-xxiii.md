@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/19/2013035758/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-08-2013 et mise à jour au 25-09-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Décret relatif à l'enseignement XXIII

@@ -12,7 +12,7 @@ entry_into_force: 2021-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/28/2019012422/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2018. - Loi portant assentiment au Protocole sur les privilèges et immunités de la juridiction unifiée du brevet, fait à Bruxelles le 29 juin 2016

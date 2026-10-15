@@ -17,7 +17,7 @@ justel_notes:
   - "in \"Deel III\" van het Wetboek: de boeken II en III, voor zover ze betrekking hebben op de gemeenten, worden opgeheven voor de Duitstalige gemeenschap door DDG 2018-04-23/17 , art. 205, 078; Inwerkingtreding : 03-12-2018"
   - "artikelen L1122-10; L3221-4; L3221-5; L3221-6; L3221-7; L3221-8 gewijzigd in de toekomst door DWG 2022-05-18/21 , art. 1-6, 098; Inwerkingtreding : 01-09-2022 voor de gemeenten van 50 000 inwoners en meer en voor de provincies; 01-04-2023 voor de gemeenten van tussen 12 000 en 49 999 inwoners; 01-10-2023 voor de gemeenten van minder dan 12 000 inwoners. "
   - "Raadpleging van vroegere versies vanaf 12-08-2004 en tekstbijwerking tot 27-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2004. - Wetboek van de plaatselijke democratie en decentralisatie (Tekst vervangen door Erratum, zie B.St. 22-03-2005, p. 12597-12721)

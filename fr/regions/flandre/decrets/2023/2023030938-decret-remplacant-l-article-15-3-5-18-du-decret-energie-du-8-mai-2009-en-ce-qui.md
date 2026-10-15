@@ -13,7 +13,7 @@ entry_into_force: 2023-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/31/2023030938/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2023. - Décret remplaçant l'article 15.3.5/18 du Décret Energie du 8 mai 2009, en ce qui concerne le régime transitoire des conditions modifiées de désignation des gestionnaires de réseau de distribution

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/08/20/1981002119/justel"
 department: "Affaires étrangères - Commerce extérieur"
 justel_note: "Consultation des versions antérieures à partir du 17-06-2014 et mise à jour au 01-03-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 1981. - Loi portant approbation de la Convention internationale sur la sécurité des conteneurs, et des Annexes, faites à Genève le 2 décembre 1972

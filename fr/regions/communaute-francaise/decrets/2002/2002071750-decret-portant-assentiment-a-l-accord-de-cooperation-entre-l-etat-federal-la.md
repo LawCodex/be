@@ -12,7 +12,7 @@ published: 2002-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002071750/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2002. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté germanophone, la Communauté française et la Communauté flamande relatif au centre fermé pour le placement provisoire de mineurs ayant commis un fait qualifié infraction.

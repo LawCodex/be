@@ -12,7 +12,7 @@ entry_into_force: 1996-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/12/1996015101/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 1996. - Wet houdende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1991 - Sectie 15 -Ontwikkelingssamenwerking en de Diensten van de Eerste Minister - Sectie 11 - Wetenschapsbeleid.

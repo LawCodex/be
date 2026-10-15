@@ -12,7 +12,7 @@ entry_into_force: 2024-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/17/2024011665/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2024. - Wet houdende bekrachtiging van koninklijke besluiten betreffende de verplichte bijdragen aan het Begrotingsfonds voor de gezondheid en de kwaliteit van de dieren en de dierlijke producten en de retributies en bijdragen aan het Begrotingsfonds voor de grondstoffen en de producten

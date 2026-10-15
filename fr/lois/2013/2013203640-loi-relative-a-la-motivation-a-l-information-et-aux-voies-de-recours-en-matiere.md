@@ -16,7 +16,7 @@ department: "Chancellerie du Premier Ministre"
 justel_notes:
   - "Pour un marché ou une concession dont le montant estimé est égal ou supérieur aux seuils fixés pour la publicité européenne, la date de publication à prendre en compte est celle de la publication au Bulletin des Adjudications."
   - "Consultation des versions antérieures à partir du 21-06-2013 et mise à jour au 20-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2013. - Loi relative à la motivation, à l'information et aux voies de recours en matière de marchés [publics, de certains marchés de travaux, de fournitures et de services et de concessions]. (Intitulé modifié par L 2017-02-16/19 , art. 2, 003; En vigueur : 30-06-2017)

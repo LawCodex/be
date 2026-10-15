@@ -12,7 +12,7 @@ entry_into_force: 2015-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/08/2015011286/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2015. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen

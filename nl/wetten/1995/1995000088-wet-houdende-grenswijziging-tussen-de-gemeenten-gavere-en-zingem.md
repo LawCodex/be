@@ -12,7 +12,7 @@ entry_into_force: 1995-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/01/26/1995000088/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1995. - Wet houdende grenswijziging tussen de gemeenten Gavere en Zingem.

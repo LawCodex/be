@@ -13,7 +13,7 @@ entry_into_force: 2016-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/06/23/2016031468/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2016. - Ordonnantie houdende instemming met : de Euro-Mediterrane luchtvaartovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de regering van de Staat Israël, anderzijds, gedaan te Luxemburg op 10 juni 2013

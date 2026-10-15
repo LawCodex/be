@@ -12,7 +12,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/30/2026002492/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2026. - Loi relative à la mise en concordance des dispositions légales en vigueur de la Justice avec le Code pénal du 29 février 2024 II

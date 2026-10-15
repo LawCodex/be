@@ -13,7 +13,7 @@ entry_into_force: 2008-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/29/2008029189/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2008. - Decreet betreffende de inrichting van de proeven voor de balans opmakende evaluaties in het gewoon secundair onderwijs met volledig leerplan (VERTALING).

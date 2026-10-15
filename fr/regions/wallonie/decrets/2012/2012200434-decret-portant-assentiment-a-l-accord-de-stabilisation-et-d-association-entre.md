@@ -13,7 +13,7 @@ entry_into_force: 2012-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/12/2012200434/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2012. - Décret portant assentiment à l'Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Serbie, d'autre part, y compris l'Acte final, faits à Luxembourg le 29 avril 2008

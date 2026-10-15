@@ -12,7 +12,7 @@ entry_into_force: 1996-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/09/05/2002015041/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2001. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en de Internationale Organisatie voor Migratie betreffende de voorrechten en de immuniteiten van deze organisatie in België, ondertekend te Londen op 4 december 1996 tot wijziging van het Akkoord tussen het Koninkrijk België en het Intergouvernementeel Comité voor Europese Migratie, ondertekend te Genève op 2 juli 1973.

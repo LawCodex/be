@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007036057/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-12-2007 et mise à jour au 22-08-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2007. - Décret modifiant le décret du 20 décembre 1996 réglant le droit à la fourniture minimale d'électricité, de gaz et d'eau, en ce qui concerne l'électricité et le gaz, du décret du 17 juillet 2000 relatif à l'organisation du marché de l'électricité, en ce qui concerne les obligations de service public, et du décret du 6 juillet 2001 relatif à l'organisation du marché du gaz, en ce qui concerne les obligations de service public. (TRADUCTION)

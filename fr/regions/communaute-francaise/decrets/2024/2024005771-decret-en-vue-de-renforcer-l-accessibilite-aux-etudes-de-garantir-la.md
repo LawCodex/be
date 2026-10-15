@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/31/2024005771/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2024 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2024. - Décret en vue de renforcer l'accessibilité aux études, de garantir la finançabilité des étudiants et d'instaurer un pilotage chiffré

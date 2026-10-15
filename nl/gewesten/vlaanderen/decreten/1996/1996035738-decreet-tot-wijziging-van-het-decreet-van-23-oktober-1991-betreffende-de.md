@@ -13,7 +13,7 @@ entry_into_force: 1996-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/13/1996035738/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1996. - Decreet tot wijziging van het decreet van 23 oktober 1991 betreffende de openbaarheid van bestuursdocumenten in de diensten en instellingen van de Vlaamse regering.

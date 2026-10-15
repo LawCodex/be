@@ -11,7 +11,7 @@ published: 2002-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/22/2002000121/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2002. - Loi modifiant la loi du 12 janvier 1989 réglant les modalités de l'élection du Conseil de la Région de Bruxelles-Capitale et la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat.

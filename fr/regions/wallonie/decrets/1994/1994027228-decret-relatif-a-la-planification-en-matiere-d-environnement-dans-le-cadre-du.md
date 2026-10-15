@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "Ce texte est abrogé par DRW 2004-05-27/63, art. 2, 3°, 007; En vigueur : indéterminée ; voir M.B. 09-07-2004, p. 54668"
   - "Consultation des versions antérieures à partir du 23-04-1994 et mise à jour au 09-07-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1994. - Décret relatif à la planification en matière d'environnement dans le cadre du développement durable.

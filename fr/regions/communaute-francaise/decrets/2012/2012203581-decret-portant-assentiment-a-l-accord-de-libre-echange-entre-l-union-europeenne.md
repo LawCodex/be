@@ -12,7 +12,7 @@ published: 2012-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/31/2012203581/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2012. - Décret portant assentiment à l'Accord de libre-échange entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, fait à Bruxelles le 6 octobre 2010

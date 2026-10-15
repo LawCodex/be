@@ -13,7 +13,7 @@ entry_into_force: 2014-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031324/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie tot wijziging van het Brussels Gemeentelijk Kieswetboek betreffende de controle van de verkiezingsuitgaven voor de gemeenteraadsverkiezingen

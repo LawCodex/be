@@ -13,7 +13,7 @@ entry_into_force: 2016-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/20/2016035883/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2016. - Décret portant assentiment à l'accord de coopération du 16 février 2016 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses

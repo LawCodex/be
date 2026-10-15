@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/19/2006021359/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2006. - Loi transformant le Code des taxes assimilées au timbre en Code des droits et taxes divers, abrogeant le Code des droits de timbre et portant diverses autres modifications législatives.

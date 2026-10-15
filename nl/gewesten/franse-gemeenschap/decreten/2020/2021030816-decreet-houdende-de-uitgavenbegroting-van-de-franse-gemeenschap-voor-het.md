@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/09/2021030816/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-04-2021 en tekstbijwerking tot 02-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2020. - Decreet houdende de uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2021

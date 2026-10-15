@@ -12,7 +12,7 @@ entry_into_force: 2027-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/22/2026A05775/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2026. - Code civil, livre 7 " Les contrats spéciaux "

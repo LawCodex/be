@@ -11,7 +11,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/23/2021033838/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2021. - Wet houdende wijziging van de wetten betreffende de preventie van beroepsziekten en de vergoeding van de schade die uit die ziekten voortvloeit, gecoördineerd op 3 juni 1970 en tot wijziging van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers

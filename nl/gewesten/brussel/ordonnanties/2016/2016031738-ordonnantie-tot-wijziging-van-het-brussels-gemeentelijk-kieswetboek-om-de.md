@@ -11,7 +11,7 @@ date: 2016-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/10/27/2016031738/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2016. - Ordonnantie tot wijziging van het Brussels gemeentelijk kieswetboek om de pariteit tussen mannen en vrouwen op de kandidatenlijsten voor de in het Brussels Hoofdstedelijk Gewest georganiseerde gemeenteraadsverkiezingen te bevorderen

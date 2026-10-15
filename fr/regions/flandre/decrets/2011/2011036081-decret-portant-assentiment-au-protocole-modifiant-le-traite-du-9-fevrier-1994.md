@@ -13,7 +13,7 @@ entry_into_force: 2012-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/09/2011036081/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2011. - Décret portant assentiment au Protocole modifiant le traité du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, en vue de 1) satisfaire à la Directive 2006/38/CE du Parlement européen et du Conseil du 17 mai 2006 modifiant la Directive 1999/62/CE relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et 2) convenir l'introduction entre les gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du Grand-Duché de Luxembourg et du Royaume des Pays Bas et du Royaume de Suède d'un système de vignette sans papier dans leur système commun relatif au prélèvement de droits d'usage, signé à Bruxelles le 20 octobre 2010

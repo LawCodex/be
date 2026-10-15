@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203750/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Republiek Finland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 18 mei 1976, zoals gewijzigd door de aanvullende overeenkomst van 13 maart 1991 en het protocol van 15 september 2009; 2° de aanvullende overeenkomst tot wijziging van de overeenkomst, vermeld onder 1°, ondertekend te Brussel op 13 maart 1991; 3° het protocol, ondertekend te Brussel op 15 september 2009, tot wijziging van de overeenkomst, vermeld onder 1°, zoals gewijzigd door de aanvullende overeenkomst, vermeld onder 2°

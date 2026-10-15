@@ -13,7 +13,7 @@ last_amended: 2026-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/06/26/1963062602/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-05-1989 en tekstbijwerking tot 31-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1963. - Wet tot instelling van een orde van architecten.

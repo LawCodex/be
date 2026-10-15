@@ -13,7 +13,7 @@ entry_into_force: 2004-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004027017/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet tot instelling van de controle op de verkiezingsuitgaven aangegaan voor de verkiezingen van de Waalse Gewestraad alsmede van de controle op de communicaties van de voorzitter van de Waalse Gewestraad en van de leden van de Waalse Regering (VERTALING).

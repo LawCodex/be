@@ -13,7 +13,7 @@ entry_into_force: 2023-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/20/2023047261/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2023. - Decreet houdende instemming met het samenwerkingsakkoord van 7 juli 2023 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de veralgemening van de relationele, affectieve en seksuele opvoeding

@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004201981/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret rendant applicables aux impôts régionaux les conséquences de la loi du 31 décembre 2003 instaurant une déclaration libératoire unique

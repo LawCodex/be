@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/28/2004029053/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2004. - Decreet houdende organisatie binnen de " Université de Liège " van een afdeling Milieuwetenschappen en -beheer in de Provincie Luxemburg en tot toelating van de overdracht van het personeel en het patrimonium van de v.z.w. " Fondation universitaire luxembourgeoise " naar het patrimonium van de " Université de Liège " (VERTALING).

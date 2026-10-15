@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/17/2015205985/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2015 et mise à jour au 11-09-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2015. - Décret modifiant le décret du 15 décembre 2011 portant organisation du budget et de la comptabilité des services du Gouvernement wallon, le décret du 5 mars 2008 portant constitution de l'Agence wallonne de l'air et du climat et le Code wallon du Logement et de l'Habitat durable

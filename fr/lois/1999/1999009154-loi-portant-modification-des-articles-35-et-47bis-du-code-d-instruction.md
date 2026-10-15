@@ -12,7 +12,7 @@ entry_into_force: 1999-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/14/1999009154/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 1999. - Loi portant modification des articles 35 et 47bis du Code d'instruction criminelle, de l'article 31 de la loi du 12 mars 1998 relative à l'amélioration de la procédure pénale au stade de l'information et de l'instruction et des articles 3 et 5 de la loi du 15 mars 1874 sur les extraditions.

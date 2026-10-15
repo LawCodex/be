@@ -12,7 +12,7 @@ entry_into_force: 1999-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/15/2000011108/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2000. - Wet houdende wijziging van de wet van 5 augustus 1991 tot bescherming van de economische mededinging.

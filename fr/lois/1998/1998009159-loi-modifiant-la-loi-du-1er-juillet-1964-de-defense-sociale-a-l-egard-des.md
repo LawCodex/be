@@ -12,7 +12,7 @@ entry_into_force: 1998-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/10/1998009159/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1998. - Loi modifiant la loi du 1er juillet 1964 de défense sociale à l'égard des anormaux et des délinquants d'habitude en vue de conférer à l'avocat de l'interné un droit d'appel contre les décisions de la commission de défense sociale rejetant une demande de mise en liberté.

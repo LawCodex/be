@@ -12,7 +12,7 @@ entry_into_force: 2016-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/27/2016003144/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2016. - Wet tot aanpassing van de bepalingen tot toekenning van titels en graden in de fiscale wetboeken en de wettelijke bepalingen met betrekking tot de douane en accijnzen, en houdende diverse andere bepalingen

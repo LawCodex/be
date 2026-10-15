@@ -13,7 +13,7 @@ entry_into_force: 2015-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/12/2014027265/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2014. - Décret-programme portant des mesures diverses liées au budget en matière de santé

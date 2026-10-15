@@ -12,7 +12,7 @@ entry_into_force: 1991-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/01/09/1991009084/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 1991. - Wet betreffende de uitwissing van veroordelingen en het herstel in eer en rechten in strafzaken.

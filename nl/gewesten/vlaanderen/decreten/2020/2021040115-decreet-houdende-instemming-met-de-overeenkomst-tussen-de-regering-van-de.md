@@ -13,7 +13,7 @@ entry_into_force: 2021-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/03/2021040115/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2020. - Decreet houdende instemming met de overeenkomst tussen de regering van de Franse Republiek en de regering van de Vlaamse Gemeenschap inzake cinematografische coproductie, ondertekend te Brussel op 23 mei 2019. - Addendum

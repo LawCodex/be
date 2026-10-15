@@ -12,7 +12,7 @@ entry_into_force: 2011-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/26/2011003402/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2011. - Loi relative à la contribution de la Belgique à la seizième reconstitution des ressources de l'Association internationale de Développement

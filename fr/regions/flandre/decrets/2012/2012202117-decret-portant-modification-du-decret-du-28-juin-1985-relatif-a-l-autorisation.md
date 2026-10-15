@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/23/2012202117/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-04-2012 et mise à jour au 15-04-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2012. - Décret portant modification du décret du 28 juin 1985 relatif à l'autorisation écologique, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et du Code flamand de l'Aménagement du Territoire

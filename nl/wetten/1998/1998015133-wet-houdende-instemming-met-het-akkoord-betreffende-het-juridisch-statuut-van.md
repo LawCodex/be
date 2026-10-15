@@ -10,7 +10,7 @@ date: 1998-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/11/1998015133/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1998. - Wet houdende instemming met het Akkoord betreffende het juridisch statuut van de Internationale Opzoekingsdienst te Arolsen, gedaan te Bonn op 15 juli 1993.

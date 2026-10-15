@@ -12,7 +12,7 @@ entry_into_force: 2011-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2014015047/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Loi portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, aux Annexes 1re et 2, et aux Appendices I, II, III, IV et V, faits à Strasbourg le 9 septembre 1996. - Addendum

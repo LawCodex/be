@@ -13,7 +13,7 @@ last_amended: 2007-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/03/29/1963032913/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 17-09-1999 en tekstbijwerking tot 20-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 1963. - Wet ertoe strekkende de rendabiliteit in de landbouw op te voeren en zijn gelijkwaardigheid met de andere sectoren van het bedrijfsleven te bevorderen. (NOTA 1 : Opgeheven voor de Vlaamse Overheid bij DVR 2007-07-06/37 , art. 13, 003; En vigueur : 12-10-2008&gt;

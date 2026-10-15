@@ -13,7 +13,7 @@ last_amended: 1999-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/07/11/1978071106/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 08-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 111 JULI 1978. - [Wet tot regeling van de betrekkingen tussen de overheid en de vakbonden van het rijkswachtpersoneel van het operationeel korps]. (Opschrift gewijzigd bij W 1994-12-09/30, art. 53, 003; Inwerkingtreding : 01-01-1995)

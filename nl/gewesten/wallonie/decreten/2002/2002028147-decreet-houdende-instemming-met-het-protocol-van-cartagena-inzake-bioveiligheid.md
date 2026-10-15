@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028147/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet houdende instemming met het Protocol van Cartagena inzake bioveiligheid bij het Verdrag inzake biologische diversiteit, goedgekeurd te Montreal op 29 januari 2000 (VERTALING).

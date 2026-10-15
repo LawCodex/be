@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "Opgeheven bij DVR 2004-05-07/62, art. 32, 3°, 014 en 015; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 08-08-1990 en tekstbijwerking tot 31-05-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1990. - Decreet houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap.

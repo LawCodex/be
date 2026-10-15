@@ -13,7 +13,7 @@ entry_into_force: 1996-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/02/05/1996033083/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1996. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 1987. (TRADUCTION).

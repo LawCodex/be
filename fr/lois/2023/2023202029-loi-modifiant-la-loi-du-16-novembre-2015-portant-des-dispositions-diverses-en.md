@@ -12,7 +12,7 @@ entry_into_force: 2023-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/27/2023202029/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2023. - Loi modifiant la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale en ce qui concerne l'élargissement du champ d'application des flexi-jobs aux chocolatiers

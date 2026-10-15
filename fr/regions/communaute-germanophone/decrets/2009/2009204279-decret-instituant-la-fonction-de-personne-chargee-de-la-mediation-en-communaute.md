@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/26/2009204279/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 07-10-2009 et mise à jour au 25-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2009. - Décret instituant la fonction de [personne chargée de la médiation en Communauté germanophone] &lt;DCG 2022-02-21/10 , art. 43, 005; En vigueur : 01-09-2022&gt;

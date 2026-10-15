@@ -13,7 +13,7 @@ entry_into_force: 2021-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/01/2021020751/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2021. - Décret portant assentiment à l'accord de coopération du 12 mars 2021 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement de données relatives aux vaccinations contre la COVID-19

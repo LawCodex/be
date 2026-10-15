@@ -12,7 +12,7 @@ entry_into_force: 2021-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/08/29/2021033244/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AOUT 2021. - Loi modifiant diverses lois qui transposent partiellement la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles

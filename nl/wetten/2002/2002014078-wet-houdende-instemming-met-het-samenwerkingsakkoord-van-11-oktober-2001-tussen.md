@@ -12,7 +12,7 @@ entry_into_force: 2002-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/22/2002014078/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2002. - Wet houdende instemming met het samenwerkingsakkoord van 11 oktober 2001 tussen de federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest betreffende het meerjarig investeringsplan 2001-2002 van de N.M.B.S.

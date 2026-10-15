@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/07/2019041223/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2019. - Wet tot wijziging van de wet van 18 september 1986 tot instelling van het politiek verlof voor de personeelsleden van de overheidsdiensten

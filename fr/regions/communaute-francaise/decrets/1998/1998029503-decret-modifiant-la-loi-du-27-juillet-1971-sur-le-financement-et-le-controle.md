@@ -13,7 +13,7 @@ entry_into_force: 1998-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/10/01/1998029503/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 1998. - Décret modifiant la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires.

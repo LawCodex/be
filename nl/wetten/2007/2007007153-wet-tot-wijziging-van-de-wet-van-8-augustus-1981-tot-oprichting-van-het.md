@@ -12,7 +12,7 @@ entry_into_force: 2007-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007007153/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot wijziging van de wet van 8 augustus 1981 tot oprichting van het Nationaal Instituut voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers en van de Hoge Raad van oorlogsinvaliden, oud-strijders en oorlogsslachtoffers en van het koninklijk besluit van 22 juni 1983 houdende statuut van nationale erkentelijkheid ten gunste van de leden van het Expeditiekorps voor Korea, teneinde 27 juli 1953 te vervangen door 15 september 1954 in het statuut van nationale erkentelijkheid ten gunste van de leden van het Expeditiekorps voor Korea.

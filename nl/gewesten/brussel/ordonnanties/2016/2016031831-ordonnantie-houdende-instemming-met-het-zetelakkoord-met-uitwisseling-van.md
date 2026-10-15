@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031831/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie houdende instemming met : het Zetelakkoord, met uitwisseling van brieven, tussen het Koninkrijk België en de Internationale Organisatie voor Criminele Politie (OICP - INTERPOL), gedaan te Lyon op 14 oktober 2014 en te Brussel op 24 oktober 2014

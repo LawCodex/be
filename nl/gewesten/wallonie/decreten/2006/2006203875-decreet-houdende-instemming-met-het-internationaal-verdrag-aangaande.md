@@ -12,7 +12,7 @@ entry_into_force: 2006-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/10/2006203875/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2006. - Decreet houdende instemming met het Internationaal Verdrag aangaande plantgenetische hulpbronnen voor voeding en landbouw, gedaan te Rome op 3 november 2001 en ondertekend door België op 6 juni 2002 (VERTALING).

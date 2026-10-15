@@ -12,7 +12,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2014015103/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de Benelux-Staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen (Terug- en Overname-overeenkomst), en met het Uitvoeringsprotocol, gedaan te Brussel op 12 mei 2011

@@ -13,7 +13,7 @@ entry_into_force: 1997-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/24/1997029340/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1997. - Décret contenant le premier ajustement du budget des Voies et Moyens de la Communauté francaise pour l'année budgétaire 1997.

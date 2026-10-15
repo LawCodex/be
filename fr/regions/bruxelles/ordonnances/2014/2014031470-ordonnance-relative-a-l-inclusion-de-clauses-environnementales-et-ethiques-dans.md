@@ -13,7 +13,7 @@ entry_into_force: 2014-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031470/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance relative à l'inclusion de clauses environnementales et éthiques dans les marchés publics

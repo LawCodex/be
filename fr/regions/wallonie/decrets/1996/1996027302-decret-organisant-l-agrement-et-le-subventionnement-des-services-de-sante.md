@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/04/1996027302/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 23-05-1996 et mise à jour au 30-04-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 1996. - Décret organisant l'agrément et le subventionnement des services de santé mentale.

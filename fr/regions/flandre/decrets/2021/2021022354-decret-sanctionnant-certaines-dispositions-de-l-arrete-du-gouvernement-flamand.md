@@ -13,7 +13,7 @@ entry_into_force: 2021-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022354/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2021. - Décret sanctionnant certaines dispositions de l'arrêté du Gouvernement flamand du 28 mai 2021 portant agrément de travaux d'infrastructure MIA comme situation spécifique en matière de réglementation expérimentale et zone modérément réglementée pour l'élimination des situations d'insécurité routière et l'amélioration de l'infrastructure cyclable

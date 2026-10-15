@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/22/2003003367/justel"
 department: "Begroting en Beheerscontrole - Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-2003 en tekstbijwerking tot 02-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2003. - Wet houdende organisatie van de begroting en van de comptabiliteit van de federale Staat.

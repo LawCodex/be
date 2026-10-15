@@ -13,7 +13,7 @@ entry_into_force: 1998-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1998027132/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Decreet houdende de tweede aanpassing van de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 1997. (Vertaling)

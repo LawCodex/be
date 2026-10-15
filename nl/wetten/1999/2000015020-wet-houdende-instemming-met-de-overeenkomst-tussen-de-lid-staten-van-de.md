@@ -12,7 +12,7 @@ entry_into_force: 2000-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/13/2000015020/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1999. - Wet houdende instemming met de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen inzake de toepassing van het beginsel ne bis in idem, gedaan te Brussel op 25 mei 1987.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/02/1995021222/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-1995 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 1995. - Wet betreffende de verplichting om een lijst van mandaten, ambten en beroepen, alsmede een vermogensaangifte in te dienen. NOTA : Raadpleging van vroegere versies vanaf 26-07-1995 en tekstbijwerking tot 31-03-2009)

@@ -12,7 +12,7 @@ entry_into_force: 2024-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/09/2024003475/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2024. - Loi modifiant la loi du 22 décembre 2023 contenant le budget général des dépenses pour l'année budgétaire 2024

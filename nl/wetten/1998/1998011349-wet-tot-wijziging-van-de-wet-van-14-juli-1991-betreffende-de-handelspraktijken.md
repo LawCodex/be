@@ -12,7 +12,7 @@ entry_into_force: 1999-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/07/1998011349/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 1998. - Wet tot wijziging van de wet van 14 juli 1991 betreffende de handelspraktijken en de voorlichting en bescherming van de consument.

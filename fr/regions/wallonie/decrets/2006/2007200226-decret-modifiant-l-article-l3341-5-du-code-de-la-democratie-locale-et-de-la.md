@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2007200226/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret modifiant l'article L3341-5 du Code de la démocratie locale et de la décentralisation, relatif à une matière dont l'exercice de la compétence a été attribué par la Communauté française à la Région wallonne.

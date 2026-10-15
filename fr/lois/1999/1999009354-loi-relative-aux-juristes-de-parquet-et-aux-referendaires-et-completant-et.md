@@ -11,7 +11,7 @@ published: 1999-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/24/1999009354/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1999. - Loi relative aux juristes de parquet et aux référendaires et complétant et modifiant certaines dispositions du Code judiciaire et de la loi modifiant certaines dispositions de la deuxième Partie du Code judiciaire concernant le Conseil supérieur de la Justice, la nomination et la désignation de magistrats et instaurant un système d'évaluation pour les magistrats.

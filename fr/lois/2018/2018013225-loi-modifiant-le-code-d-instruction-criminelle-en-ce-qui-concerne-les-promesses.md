@@ -12,7 +12,7 @@ entry_into_force: 2018-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/22/2018013225/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2018. - Loi modifiant le Code d'instruction criminelle en ce qui concerne les promesses relatives à l'action publique, à l'exécution de la peine ou à la détention consenties à la suite d'une déclaration dans le cadre de la lutte contre la criminalité organisée et le terrorisme

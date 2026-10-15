@@ -12,7 +12,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/26/2024003972/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Wet tot wijziging van artikel 7undecies van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt met betrekking tot de verwerking van persoonsgegevens in het kader van het capaciteitsvergoedingsmechanisme

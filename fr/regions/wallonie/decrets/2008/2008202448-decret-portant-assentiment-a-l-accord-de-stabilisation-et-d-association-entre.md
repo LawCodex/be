@@ -13,7 +13,7 @@ entry_into_force: 2008-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/03/2008202448/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2008. - Décret portant assentiment à l'Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, et Acte final, faits à Luxembourg, le 12 juin 2006.

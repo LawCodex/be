@@ -13,7 +13,7 @@ entry_into_force: 2018-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/22/2018040111/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2018. - Decreet tot wijziging van het decreet van 24 oktober 2008 tot bepaling van de voorwaarden voor de subsidiëring van de tewerkstelling in de socioculturele sectoren van de Franse Gemeenschap

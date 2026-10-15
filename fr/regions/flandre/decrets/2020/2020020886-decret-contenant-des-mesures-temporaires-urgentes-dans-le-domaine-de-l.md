@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/08/2020020886/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2020 et mise à jour au 06-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2020. - Décret contenant des mesures temporaires urgentes dans le domaine de l'enseignement suite à la crise du coronavirus

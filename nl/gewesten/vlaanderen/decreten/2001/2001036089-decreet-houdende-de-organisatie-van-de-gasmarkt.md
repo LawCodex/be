@@ -16,7 +16,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "ook aangehaald als Aardgasdecreet; zie art. 54"
   - "Raadpleging van vroegere versies vanaf 19-09-2002 en tekstbijwerking tot 07-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet houdende de organisatie van de gasmarkt.

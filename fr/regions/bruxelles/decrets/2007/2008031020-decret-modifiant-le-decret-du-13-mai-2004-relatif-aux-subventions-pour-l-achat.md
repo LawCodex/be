@@ -13,7 +13,7 @@ entry_into_force: 2008-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/20/2008031020/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2007. - Décret modifiant le décret du 13 mai 2004 relatif aux subventions pour l'achat, la construction, l'aménagement, l'équipement, l'extension et l'ameublement de certains centres, services, maisons, organismes ou initiatives d'habitations protégées relevant de la politique de l'Action sociale, de la Famille et de la Santé et le décret du 16 juin 2005 relatif à l'agrément et à l'octroi de subventions aux organismes représentatifs de l'Action sociale et de la Famille.

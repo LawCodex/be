@@ -13,7 +13,7 @@ entry_into_force: 2022-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/18/2022203112/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2022. - Decreet tot wijziging van de decreten van 29 oktober 2015 houdende oprichting van begrotingsfondsen inzake wegen en waterwegen, van 4 april 2019 betreffende de administratieve geldboetes inzake verkeersveiligheid en van 19 maart 2009 de instandhouding van het gewestelijke openbaar wegen- en waterwegendomein

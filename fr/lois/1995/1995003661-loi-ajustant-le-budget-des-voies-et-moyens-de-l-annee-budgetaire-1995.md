@@ -12,7 +12,7 @@ entry_into_force: 1995-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/11/24/1995003661/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1995. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 1995.

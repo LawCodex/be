@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/23/2020030349/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 24-03-2020 et mise à jour au 17-10-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2020. - Loi modifiant la loi du 22 décembre 2016 instaurant un droit passerelle en faveur des travailleurs indépendants et introduisant les mesures temporaires dans le cadre du COVID-19 en faveur des travailleurs indépendants

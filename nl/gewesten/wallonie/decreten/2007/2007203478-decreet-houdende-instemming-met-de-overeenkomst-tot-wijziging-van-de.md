@@ -13,7 +13,7 @@ entry_into_force: 2007-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/22/2007203478/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2007. - Decreet houdende instemming met de Overeenkomst tot wijziging van de Partnerschapsovereenkomst tussen de leden van de Groep van Afrika, het Caribisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou, op 23 juni 2000, en de Slotakte, gedaan te Luxemburg, op 25 juni 2005 (VERTALING).

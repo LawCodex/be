@@ -12,7 +12,7 @@ entry_into_force: 1997-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/10/27/1997003632/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 1997. - Loi portant des mesures fiscales visant à stimuler les exportations et la recherche.

@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995003359/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet tot wijziging van artikel 7, § 1, 2°, van het Wetboek van de inkomstenbelastingen 1992.

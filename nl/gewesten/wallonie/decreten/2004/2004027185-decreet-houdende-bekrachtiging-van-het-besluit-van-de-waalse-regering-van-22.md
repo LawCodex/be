@@ -13,7 +13,7 @@ entry_into_force: 2004-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004027185/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet houdende bekrachtiging van het besluit van de Waalse Regering van 22 april 2004 waarbij de regering gemachtigd wordt om de wetgeving over de plaatselijke besturen te codificeren (VERTALING).

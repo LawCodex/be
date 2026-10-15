@@ -12,7 +12,7 @@ published: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024005702/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, wat betreft de taalafdeling Nederlands-Vlaamse Gebarentaal

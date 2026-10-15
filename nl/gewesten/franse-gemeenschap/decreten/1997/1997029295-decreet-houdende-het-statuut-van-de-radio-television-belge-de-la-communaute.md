@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/14/1997029295/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-1997 en tekstbijwerking tot 13-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1997. - Decreet houdende het statuut van de " Radio-Télévision belge de la Communauté francaise (RTBF) " (VERTALING)

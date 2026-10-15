@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/28/1999003141/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1999. - Loi portant modification de la loi du 28 décembre 1983 sur le débit de boissons spiritueuses et sur la taxe de patente en vue d'instaurer un Collège d'arbitres.

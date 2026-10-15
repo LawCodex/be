@@ -13,7 +13,7 @@ entry_into_force: 1998-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/01/22/1998027075/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 1998. - Decreet houdende wijziging van het decreet van 21 april 1994 betreffende de milieuplanning in het kader van de duurzame ontwikkeling (VERTALING).

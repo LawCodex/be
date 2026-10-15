@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024004947/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-05-2024 et mise à jour au 11-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le Décret Energie du 8 mai 2009, en ce qui concerne le transfert des tâches du régulateur de l'énergie à la VEKA dans le cadre de la réforme vers un seul régulateur flamand coordinateur des services d'utilité publique

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/14/1998011227/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 14-04-1999 en tekstbijwerking tot 21-06-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Wet houdende verplichting om informatie te verstrekken over de debetrente op de bij kredietinstellingen of andere rechtspersonen geopende rekeningen.

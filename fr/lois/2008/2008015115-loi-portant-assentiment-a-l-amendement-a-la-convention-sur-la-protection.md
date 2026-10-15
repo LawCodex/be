@@ -12,7 +12,7 @@ entry_into_force: 2013-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/15/2008015115/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Loi portant assentiment à l'Amendement à la Convention sur la protection physique des matières nucléaires, adopté à Vienne le 8 juillet 2005 par la Conférence des Etats parties à la Convention

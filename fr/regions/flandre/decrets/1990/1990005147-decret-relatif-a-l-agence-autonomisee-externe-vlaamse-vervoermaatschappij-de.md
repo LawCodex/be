@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/31/1990005147/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1992 et mise à jour au 05-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 1990. - [Décret relatif à l'agence autonomisée externe Vlaamse Vervoermaatschappij - De Lijn]. &lt;Traduction&gt; &lt;DCFL 2004-04-02/52, art. 2, 009; En vigueur : 15-03-2006&gt;

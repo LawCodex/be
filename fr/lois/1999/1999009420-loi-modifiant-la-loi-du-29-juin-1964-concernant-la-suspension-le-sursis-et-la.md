@@ -12,7 +12,7 @@ entry_into_force: 2000-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/22/1999009420/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1999. - Loi modifiant la loi du 29 juin 1964 concernant la suspension, le sursis et la probation.

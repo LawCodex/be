@@ -10,7 +10,7 @@ date: 2026-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/22/2026A05775/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2026. - Burgerlijk Wetboek , boek 7 "Bijzondere contracten"

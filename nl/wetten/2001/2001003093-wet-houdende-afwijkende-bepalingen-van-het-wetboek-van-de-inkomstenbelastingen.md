@@ -12,7 +12,7 @@ entry_into_force: 2003-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/02/2001003093/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2001. - Wet houdende afwijkende bepalingen van het Wetboek van de inkomstenbelastingen 1992, noodzakelijk voor de uitvoering van de te Brussel op 23 juni 1993 ondertekende Aanvullende Overeenkomst tot wijziging van de overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en van het Protocol, beide ondertekend te Brussel op 28 juni 1974.

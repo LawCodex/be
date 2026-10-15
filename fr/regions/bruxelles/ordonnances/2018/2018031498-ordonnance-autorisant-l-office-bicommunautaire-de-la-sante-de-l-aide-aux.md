@@ -13,7 +13,7 @@ entry_into_force: 2018-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/07/05/2018031498/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2018. - Ordonnance autorisant l'Office bicommunautaire de la santé, de l'aide aux personnes et des prestations familiales (Iriscare) à participer au régime de pension instauré par la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit

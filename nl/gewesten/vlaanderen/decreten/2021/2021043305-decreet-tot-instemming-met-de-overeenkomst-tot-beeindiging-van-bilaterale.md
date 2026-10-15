@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/26/2021043305/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Decreet tot instemming met de overeenkomst tot beëindiging van bilaterale investeringsverdragen tussen de lidstaten van de Europese Unie, ondertekend te Brussel op 5 mei 2020

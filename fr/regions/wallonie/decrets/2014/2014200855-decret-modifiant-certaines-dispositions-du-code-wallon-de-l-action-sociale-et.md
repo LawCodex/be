@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/23/2014200855/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2014. - Décret modifiant certaines dispositions du Code wallon de l'Action sociale et de la Santé relatives aux centres et aux fédérations de planning et de consultation familiale et conjugale

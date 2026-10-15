@@ -13,7 +13,7 @@ entry_into_force: 2013-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/03/2013035441/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2013. - Décret portant assentiment à l'accord euro-méditerranéen relatif aux services aériens entre l'Union européenne et ses Etats membres, d'une part, et le Royaume hachémite de Jordanie, d'autre part, signé à Bruxelles le 15 décembre 2010

@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/22/2021042613/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2021. - Ordonnantie met betrekking tot de belasting op de automatische ontspanningstoestellen verschuldigd voor het belastingjaar 2021 op grond van de gezondheidscrisis van de COVID-19

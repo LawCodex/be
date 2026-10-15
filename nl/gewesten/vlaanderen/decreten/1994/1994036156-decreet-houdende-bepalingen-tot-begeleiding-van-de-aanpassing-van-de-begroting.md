@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/06/1994036156/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1995 en tekstbijwerking tot 13-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1994. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 1994.

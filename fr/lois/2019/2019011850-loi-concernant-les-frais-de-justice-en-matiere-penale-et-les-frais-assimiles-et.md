@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019011850/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-04-2019 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi concernant les frais de justice en matière pénale et les frais assimilés et insérant un article 648 dans le Code d'instruction criminelle

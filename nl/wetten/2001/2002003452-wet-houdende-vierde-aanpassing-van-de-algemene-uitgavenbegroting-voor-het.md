@@ -10,7 +10,7 @@ date: 2001-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/24/2002003452/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2001. - Wet houdende vierde aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2001 - Sectie 16 " Landsverdediging ".

@@ -12,7 +12,7 @@ entry_into_force: 2023-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/02/2023030500/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Wet betreffende de werking en het gebruik van het Schengeninformatiesysteem (SIS) op het gebied van politiële en justitiële samenwerking in strafzaken, op het gebied van grenscontroles en voor de terugkeer van illegaal verblijvende onderdanen van derde landen

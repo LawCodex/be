@@ -12,7 +12,7 @@ published: 2013-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/04/29/2013203153/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2013. - Decreet tot wijziging van het decreet van 16 juni 2008 tot vaststelling van kerncompetenties en referentiekaders in het onderwijs

@@ -12,7 +12,7 @@ entry_into_force: 1978-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1978/07/12/1978071202/justel"
 department: "EDUCATION NATIONALE"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1978. - Decreet over de verdediging van de franse taal.

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004735/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet over de onderlinge afstemming van de Vlaamse Codex Wonen van 2021, het Instrumentendecreet van 26 mei 2023 en het decreet van 26 mei 2023 tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wat de woonreservegebieden betreft

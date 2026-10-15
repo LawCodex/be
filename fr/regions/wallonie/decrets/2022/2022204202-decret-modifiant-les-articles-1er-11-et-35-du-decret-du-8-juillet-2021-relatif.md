@@ -13,7 +13,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/16/2022204202/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2022. - Décret modifiant les articles 1er, 11°, et 35, du décret du 8 juillet 2021 relatif au cyclopartage en flotte libre et modifiant les articles 4 et 12 du décret du 1er avril 2004 relatif à la mobilité et à l'accessibilité locales

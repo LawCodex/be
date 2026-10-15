@@ -12,7 +12,7 @@ entry_into_force: 2019-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/10/2019011076/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2019. - Loi portant assentiment à l'Accord de coopération du 25 juin 2018 entre l'Etat fédéral, la Communauté française et la Communauté flamande relatif à la protection culturelle du livre

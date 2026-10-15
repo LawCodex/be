@@ -13,7 +13,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/23/2024002559/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2024. - Décret relatif aux objectifs finaux de remplacement dans les deuxième et troisième degrés de l'enseignement secondaire, en ce qui concerne les compétences clés " compétences en mathématiques, sciences exactes et technologie ", " compétences en matière de conscience historique " et " compétences en matière de conscience spatiale ", à l'initiative de la Federatie Steinerscholen Vlaanderen vzw

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029380/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 07-08-2014 et mise à jour au 22-02-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret modifiant notamment le décret du 30 juin 2006 relatif à l'organisation pédagogique du 1er degré de l'enseignement secondaire

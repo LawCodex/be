@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/05/28/2026003942/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2026. - Ordonnance contenant le Budget des Voies et Moyens de la Commission communautaire commune pour l'année budgétaire 2026

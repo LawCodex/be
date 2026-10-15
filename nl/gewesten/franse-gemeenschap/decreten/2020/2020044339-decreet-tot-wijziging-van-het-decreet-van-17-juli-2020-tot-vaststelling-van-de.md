@@ -13,7 +13,7 @@ entry_into_force: 2020-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/09/2020044339/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2020. - Decreet tot wijziging van het decreet van 17 juli 2020 tot vaststelling van de financierbaarheid van studenten voor het academiejaar 2020-2021

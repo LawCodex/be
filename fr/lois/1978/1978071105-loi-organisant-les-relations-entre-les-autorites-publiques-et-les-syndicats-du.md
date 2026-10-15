@@ -12,7 +12,7 @@ last_amended: 2010-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/07/11/1978071105/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-05-1994 et mise à jour au 07-05-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1978. - [Loi organisant les relations entre les autorités publiques et les syndicats du personnel militaire]. (loi syndicale) &lt;Intitulé remplacé par L 2003-01-16/33, art. 2, 005; En vigueur : 31-01-2003&gt;

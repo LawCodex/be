@@ -12,7 +12,7 @@ published: 1986-07-05
 entry_into_force: 1988-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/06/27/1985062750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1985. - Decreet inzake bijzondere jeugdbijstand.

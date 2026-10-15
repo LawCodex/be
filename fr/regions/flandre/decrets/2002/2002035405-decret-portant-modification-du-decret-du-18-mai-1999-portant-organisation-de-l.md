@@ -13,7 +13,7 @@ entry_into_force: 2002-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/08/2002035405/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2002. - Décret portant modification du décret du 18 mai 1999 portant organisation de l'aménagement du territoire et du décret relatif à l'aménagement du territoire, coordonné le 22 octobre 1996 (TRADUCTION).

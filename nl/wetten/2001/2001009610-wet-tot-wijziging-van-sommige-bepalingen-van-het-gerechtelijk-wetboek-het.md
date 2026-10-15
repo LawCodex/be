@@ -11,7 +11,7 @@ entry_into_force: 2001-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/10/2001009610/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2001. - Wet tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek, het Wetboek van strafvordering en het Wetboek der registratie-, hypotheek- en griffierechten, inzake onttrekking en wraking.

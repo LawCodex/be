@@ -11,7 +11,7 @@ published: 1977-12-24
 entry_into_force: 1978-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/12/22/1977122216/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1977. - Loi prorogeant la loi du 9 juillet 1975 abrogeant l'article 62 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier et instituant un régime de prix pour les spécialités pharmaceutiques et autres médicaments.

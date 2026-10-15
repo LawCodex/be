@@ -12,7 +12,7 @@ entry_into_force: 2017-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/30/2017012047/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2017. - Wet houdende instemming met het Benelux-Verdrag betreffende grensoverschrijdende samenwerking inzake wegvervoerinspectie, gedaan te Luik op 3 oktober 2014

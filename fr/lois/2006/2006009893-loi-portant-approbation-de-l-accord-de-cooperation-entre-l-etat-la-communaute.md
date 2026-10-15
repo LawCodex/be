@@ -12,7 +12,7 @@ entry_into_force: 2006-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/01/2006009893/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MAI 2006. - Loi portant approbation de l'accord de coopération entre l'Etat, la Communauté flamande, la Région flamande, la Communauté française, la Région wallonne, la Communauté germanophone, la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française portant création d'une Commission nationale pour les droits de l'enfant, conclu à Bruxelles, le 19 septembre 2005.

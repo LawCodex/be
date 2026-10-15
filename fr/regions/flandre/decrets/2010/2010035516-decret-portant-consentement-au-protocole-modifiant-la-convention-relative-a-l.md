@@ -13,7 +13,7 @@ entry_into_force: 2010-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/02/2010035516/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2010. - Décret portant consentement au Protocole modifiant la Convention relative à l'Organisation hydrographique internationale, adoptée à Monaco le 14 avril 2005

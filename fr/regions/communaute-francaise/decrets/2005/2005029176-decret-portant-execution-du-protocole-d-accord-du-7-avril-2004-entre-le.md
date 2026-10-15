@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/04/2005029176/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2005 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2005. - Décret portant exécution du Protocole d'accord du 7 avril 2004 entre le Gouvernement de la Communauté française et les organisations syndicales représentatives au sein du Comité de négociation de secteur IX et du Comité des services publics provinciaux et locaux - section II.

@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/20/2023045327/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Décret relatif à la numérisation et à l'opérationnalisation des procédures de maintien exceptionnel applicables durant le parcours de l'élève dans le tronc commun

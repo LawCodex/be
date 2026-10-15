@@ -12,7 +12,7 @@ published: 2015-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/29/2015031506/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 2015. - Ordonnantie tot wijziging van artikel 21, III, van het Wetboek der Successierechten van het Brussels Hoofdstedelijk Gewest

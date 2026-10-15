@@ -16,7 +16,7 @@ justel_notes:
   - "voor de lopende pachtovereenkomsten die in een pachtprijsverhoging voorzien overeenkomstig het vroegere artikel 4 van de wet tot beperking van pachtprijzen, blijft deze prijsverhoging verworven; binnen een jaar na de inwerkingtreding van de wet 7-11-1988 \"tot wijziging van de wetgeving betreffende de pacht en de beperking van de pachtprijzen\" stellen de pachtprijzencommissies de nodige coëfficiënten vast zoals bepaald in de artikelen 2 en 3."
   - "opgeheven voor het Waalse Gewest bij DWG 2019-05-02/90 , art. 54,1°, 005; Inwerkingtreding : 01-01-2020"
   - "Raadpleging van vroegere versies vanaf 06-12-1988 en tekstbijwerking tot 28-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBER 1969. - Wet tot beperking van de pachtprijzen.

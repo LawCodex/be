@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/01/2004011364/justel"
 department: "Economie, PME, Classes moyennes et Energie - Justice"
 justel_note: "Consultation des versions antérieures à partir du 21-09-2004 et mise à jour au 31-03-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 2004. - Loi relative à la protection des consommateurs en cas de vente de biens de consommation

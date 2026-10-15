@@ -11,7 +11,7 @@ published: 2025-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/12/11/2025000621/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1991. - Loi approuvant le Traité sur les forces armées conventionnelles en Europe et les protocoles annexés, faite à Paris le 19 novembre 1990 (1). - Addendum

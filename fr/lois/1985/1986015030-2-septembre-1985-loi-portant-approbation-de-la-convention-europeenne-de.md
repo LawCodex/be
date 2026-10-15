@@ -12,7 +12,7 @@ entry_into_force: 1986-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/09/02/1986015030/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 1985. \_ Loi portant approbation de la Convention européenne de sécurité sociale et de l'Accord complémentaire pour l'application de la Convention européenne de sécurité sociale, faits à Paris le 14 décembre 1972.

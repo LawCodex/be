@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/01/2008003294/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 04-07-2008 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2008. - Wet houdende de invoering van een belastingsvermindering voor aandelen in ontwikkelingsfondsen voor microfinanciering in ontwikkelingslanden en houdende de vaststelling van de voorwaarden voor de erkenning als ontwikkelingsfonds

@@ -17,7 +17,7 @@ justel_notes:
   - "Les articles 63, 64, 65, L1 et 106 abrogés pour la Communauté française, en ce qui concerne les hôpitaux universitaires, par DCFL 2015-12-10/18 , art. 48, §1, 012; En vigueur : 01-01-2016; voir aussi l'art. 48, §2 en ce qui concerne les articles 63 et 64"
   - "art. 10 modifié pour la Région flamande avec effet à une date indéterminée par DCFL 2016-07-15/17 , art. 38, 014; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 07-11-2008 et mise à jour au 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - [Loi coordonnée sur les hôpitaux et autres établissements de soins] &lt;Intitulé remplacé par L 2013-03-19/03 , art. 45, 007; En vigueur : 08-04-2013&gt;

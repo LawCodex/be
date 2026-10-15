@@ -16,7 +16,7 @@ department: "Tewerkstelling en Arbeid"
 justel_notes:
   - "art. 51, 52, 56 en 89 gewijzigd met ingang op een onbepaalde datum bij W 2005-12-23/30 , art. 42 tot 45, 002; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 09-08-2002 en tekstbijwerking tot 31-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2002. - Wet betreffende de sluiting van de ondernemingen.

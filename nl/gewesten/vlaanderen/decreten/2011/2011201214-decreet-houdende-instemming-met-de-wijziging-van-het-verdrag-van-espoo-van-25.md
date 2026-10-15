@@ -13,7 +13,7 @@ entry_into_force: 2011-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/02/25/2011201214/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2011. - Decreet houdende instemming met de wijziging van het Verdrag van Espoo van 25 februari 1991 inzake milieu-effectrapportage in grensoverschrijdend verband, aangenomen bij besluit III/7 in Cavtat op 4 juni 2004

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016027346/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment au Protocole à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, relatif à l'évaluation stratégique environnementale, signée à Espoo le 25 février 1991, fait à Kiev le 21 mai 2003

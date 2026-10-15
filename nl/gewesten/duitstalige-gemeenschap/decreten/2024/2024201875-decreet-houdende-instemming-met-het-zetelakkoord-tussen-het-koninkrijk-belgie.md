@@ -13,7 +13,7 @@ entry_into_force: 2024-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/25/2024201875/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2024. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de "Intergovernmental authority on development", gedaan te Brussel op 16 februari 2022

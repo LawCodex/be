@@ -10,7 +10,7 @@ date: 1964-06-01
 published: 1967-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/06/01/1964060101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1964. - Wet houdende goedkeuring van het Verdrag aangaande de uitlevering en de rechtshulp in strafzaken tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en van het Protocol betreffende de burgerrechtelijke aansprakelijkheid voor ambtenaren die optreden op het grondgebied van een andere partij, ondertekend op 27 juni 1962, te Brussel.

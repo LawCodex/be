@@ -12,7 +12,7 @@ published: 1995-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029302/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet houdende samenstelling van de Groep overheidsinstellingen voor jeugdbescherming in de Franse Gemeenschap. (VERTALING)

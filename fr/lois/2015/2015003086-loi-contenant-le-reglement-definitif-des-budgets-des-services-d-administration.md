@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/02/26/2015003086/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-03-2015 et mise à jour au 26-11-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2015. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat pour l'année 2008 et des Services de l'Etat à gestion séparée pour des années précédentes

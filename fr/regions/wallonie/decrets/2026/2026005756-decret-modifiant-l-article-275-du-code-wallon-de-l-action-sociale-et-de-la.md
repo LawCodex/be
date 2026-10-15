@@ -13,7 +13,7 @@ entry_into_force: 2026-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/16/2026005756/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2026. - Décret modifiant l'article 275 du Code wallon de l'Action sociale et de la Santé, transposant partiellement la directive 2024/1346 du 14 mai 2024 établissant des normes pour l'accueil des personnes demandant une protection internationale et clarifiant les conditions d'admissibilité aux prestations visées au Livre IV

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/04/2019201844/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 15-04-2019 et mise à jour au 20-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Décret relatif à la formation professionnelle individuelle

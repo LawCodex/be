@@ -13,7 +13,7 @@ entry_into_force: 2022-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/04/28/2022041025/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Ordonnantie houdende instemming met het Verdrag van de Raad van Europa inzake de toegang tot officiële documenten, opgemaakt in Tromso op 18 juni 2009

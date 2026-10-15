@@ -12,7 +12,7 @@ entry_into_force: 2000-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/30/2000009646/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2000. - Wet tot wijziging van de wet van 27 juni 1921 waarbij aan de verenigingen zonder winstgevend doel en aan de instellingen van openbaar nut rechtspersoonlijkheid wordt verleend.

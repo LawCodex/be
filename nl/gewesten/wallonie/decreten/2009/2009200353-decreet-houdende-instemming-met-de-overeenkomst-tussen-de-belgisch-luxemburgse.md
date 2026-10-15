@@ -13,7 +13,7 @@ entry_into_force: 2009-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/15/2009200353/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2009. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te Beijin op 6 juni 2005.

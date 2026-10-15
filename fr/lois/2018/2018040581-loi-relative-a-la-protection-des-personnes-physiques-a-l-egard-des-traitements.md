@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018040581/justel"
 department: "Justice - Intérieur - Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 05-09-2018 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel

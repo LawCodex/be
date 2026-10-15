@@ -12,7 +12,7 @@ entry_into_force: 1994-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/11/29/1994015091/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 1991. - Loi portant approbation du Protocole sur les privilèges et immunités de l'Organisation européenne de télécommunications par satellite (EUTELSAT), fait à Paris le 13 février 1987.

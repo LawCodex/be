@@ -12,7 +12,7 @@ published: 1999-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/16/1999035416/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1999. - Decreet tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden.

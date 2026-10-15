@@ -11,7 +11,7 @@ published: 1961-07-11
 entry_into_force: 1961-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/07/26/1960072602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 1960. - Wet houdende goedkeuring van de overeenkomst inzake de luchtdiensten tussen België en Japan en van de bijlage, ondertekend op 20 juni 1959, te Tokio.

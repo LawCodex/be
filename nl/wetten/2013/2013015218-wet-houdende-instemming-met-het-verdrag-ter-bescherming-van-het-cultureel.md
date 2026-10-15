@@ -11,7 +11,7 @@ published: 2013-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/06/2013015218/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2013. - Wet houdende instemming met het Verdrag ter bescherming van het cultureel erfgoed onder water, aangenomen te Parijs op 2 november 2001

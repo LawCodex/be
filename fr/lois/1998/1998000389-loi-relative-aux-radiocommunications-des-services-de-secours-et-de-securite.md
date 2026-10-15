@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/08/1998000389/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 13-06-1998 et mise à jour au 25-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1998. - Loi relative aux radiocommunications des services de secours et de sécurité.

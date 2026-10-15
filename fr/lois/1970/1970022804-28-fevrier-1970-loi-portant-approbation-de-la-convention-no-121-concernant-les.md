@@ -12,7 +12,7 @@ entry_into_force: 1970-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/02/28/1970022804/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1970. \_ Loi portant approbation de la Convention no 121 concernant les prestations en cas d'accidents du travail et de maladies professionnelles, adoptée à Genève le 8 juillet 1964, par la Conférence générale de l'Organisation internationale du Travail, au cours de sa quarante-huitième session.

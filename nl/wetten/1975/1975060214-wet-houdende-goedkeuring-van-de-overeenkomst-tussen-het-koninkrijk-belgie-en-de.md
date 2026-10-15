@@ -9,7 +9,7 @@ language: nl
 date: 1975-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/06/02/1975060214/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1975. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Staat Israël, tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 13 juli 1972.

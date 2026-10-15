@@ -11,7 +11,7 @@ date: 2012-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204828/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Decreet houdende instemming met 1° de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, en het Protocol, ondertekend te Brussel op 7 oktober 2009, en 2° de briefwisseling van 30 mei en 11 juli 2011

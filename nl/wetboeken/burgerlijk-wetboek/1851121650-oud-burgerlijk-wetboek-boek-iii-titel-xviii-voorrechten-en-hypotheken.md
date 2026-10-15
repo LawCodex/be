@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1851/12/16/1851121650/justel"
 justel_notes:
   - "art. 1 gewijzigd op een onbepaalde datum door W 1995-02-09/35 , art. 1, 012; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 16-04-1987 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1851. - [OUD] BURGERLIJK WETBOEK. - BOEK III - TITEL XVIII : Voorrechten en hypotheken. - HYPOTHEEKWET (Opschrift gewijzigd door W 2019-04-13/28 , art. 2, 066; Inwerkingtreding : 01-11-2020)

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/31/2011027163/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 18-10-2023 en tekstbijwerking tot 18-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2011. - Decreet houdende instemming met het samenwerkingsakkoord van 3 februari 2011 tussen de Franse Gemeenschap en het Waalse Gewest houdende oprichting van een gemeenschappelijke ombudsdienst voor de Franse Gemeenschap en het Waalse Gewest voor de aangelegenheden bedoeld in artikel 138 van de Grondwet

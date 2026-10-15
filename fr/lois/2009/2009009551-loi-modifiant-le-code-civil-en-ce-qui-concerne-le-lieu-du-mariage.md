@@ -12,7 +12,7 @@ entry_into_force: 2009-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/12/2009009551/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2009. - Loi modifiant le Code civil en ce qui concerne le lieu du mariage

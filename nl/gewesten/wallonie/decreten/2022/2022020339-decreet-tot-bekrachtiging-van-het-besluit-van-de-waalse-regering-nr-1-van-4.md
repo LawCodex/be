@@ -13,7 +13,7 @@ entry_into_force: 2022-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/17/2022020339/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2022. - Decreet tot bekrachtiging van het besluit van de Waalse Regering nr. 1 van 4 december 2021 tot wijziging van artikel 8, § 1, van het decreet van 21 oktober 2021 betreffende het gebruik van het COVID Safe Ticket en de mondmaskerplicht

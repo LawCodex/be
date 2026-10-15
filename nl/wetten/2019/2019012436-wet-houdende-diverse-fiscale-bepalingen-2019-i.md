@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019012436/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 15-05-2019 en tekstbijwerking tot 30-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet houdende diverse fiscale bepalingen 2019-I

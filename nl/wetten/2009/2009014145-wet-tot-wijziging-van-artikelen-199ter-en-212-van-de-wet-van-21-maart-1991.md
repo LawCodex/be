@@ -12,7 +12,7 @@ entry_into_force: 2009-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/31/2009014145/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2009. - Wet tot wijziging van artikelen 199ter en 212 van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/16/2010035550/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 06-09-2010 en tekstbijwerking tot 01-07-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2010. - Decreet houdende diverse bepalingen inzake het beleidsdomein Werk en Sociale Economie

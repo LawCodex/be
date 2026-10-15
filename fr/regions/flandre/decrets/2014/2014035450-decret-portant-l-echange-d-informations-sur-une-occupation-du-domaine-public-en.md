@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035450/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-07-2014 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret portant l'échange d'informations sur une occupation du domaine public en Région flamande (cité comme : Décret GIPOD du 4 avril 2014)

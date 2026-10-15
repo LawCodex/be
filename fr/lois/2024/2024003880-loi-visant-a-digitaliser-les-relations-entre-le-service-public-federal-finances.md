@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/12/2024003880/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2024 et mise à jour au 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2024. - Loi visant à digitaliser les relations entre le Service public fédéral Finances, les citoyens, les entreprises, les personnes morales et certains tiers et abrogeant la loi du 26 janvier 2021 sur la dématérialisation des relations entre le Service public fédéral Finances, les citoyens, personnes morales et certains tiers, et modifiant différents codes fiscaux et lois fiscales

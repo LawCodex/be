@@ -13,7 +13,7 @@ entry_into_force: 2014-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/12/2014200492/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2013. - Décret portant assentiment à la Convention concernant le travail décent pour les travailleurs et travailleuses domestiques, adoptée à Genève le 16 juin 2011 par la Conférence internationale du travail à sa 100 e session

@@ -12,7 +12,7 @@ entry_into_force: 2005-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/03/2005021084/justel"
 department: "Chancellerie du Premier Ministre - Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2005. - Loi modifiant les lois coordonnées sur la comptabilité de l'Etat afin d'assurer le respect des délais de dépôt des notes de politique générale auprès de la Chambre des représentants.

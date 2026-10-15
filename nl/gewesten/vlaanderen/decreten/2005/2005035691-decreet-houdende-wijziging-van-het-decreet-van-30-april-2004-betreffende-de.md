@@ -13,7 +13,7 @@ entry_into_force: 2005-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/05/20/2005035691/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2005. - Decreet houdende wijziging van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen.

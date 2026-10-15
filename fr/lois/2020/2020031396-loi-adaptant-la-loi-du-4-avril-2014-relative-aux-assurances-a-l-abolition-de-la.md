@@ -12,7 +12,7 @@ entry_into_force: 2020-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/19/2020031396/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2020. - Loi adaptant la loi du 4 avril 2014 relative aux assurances à l'abolition de la peine de mort

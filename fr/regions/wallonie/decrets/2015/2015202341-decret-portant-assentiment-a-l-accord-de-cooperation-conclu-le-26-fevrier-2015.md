@@ -13,7 +13,7 @@ entry_into_force: 2015-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/07/2015202341/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2015. - Décret portant assentiment à l'accord de coopération conclu le 26 février 2015 entre la Communauté française, la Région wallonne et la Commission communautaire française concernant la création et la gestion d'un Cadre francophone des certifications pour l'éducation et la formation tout au long de la vie, en abrégé "C.F.C."

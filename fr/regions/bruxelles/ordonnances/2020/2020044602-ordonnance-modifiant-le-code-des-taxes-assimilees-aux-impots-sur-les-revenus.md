@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/18/2020044602/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Ordonnance modifiant le Code des taxes assimilées aux impôts sur les revenus suite à la nouvelle réglementation fédérale relative à l'immatriculation des véhicules à moteurs et remorques

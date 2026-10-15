@@ -13,7 +13,7 @@ entry_into_force: 2009-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/19/2009201494/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Decreet houdende wijziging van het decreet van 11 maart 2004 betreffende de erkenning en de subsidiëring van de gewestelijke zendingen voor arbeidsbemiddeling

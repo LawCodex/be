@@ -13,7 +13,7 @@ entry_into_force: 2004-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/29/2004200365/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2004. - Decreet waarbij de Regering gemachtigd wordt om de wetgeving over de plaatselijke besturen te codificeren (VERTALING).

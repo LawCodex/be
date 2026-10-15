@@ -13,7 +13,7 @@ entry_into_force: 2022-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/03/31/2022031528/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2022. - Ordonnance relatif à l'octroi de droits de passage aux entreprises fournissant des réseaux de communications électroniques

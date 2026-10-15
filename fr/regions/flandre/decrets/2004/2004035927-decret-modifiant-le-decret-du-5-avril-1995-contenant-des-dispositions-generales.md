@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035927/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-06-2004 et mise à jour au 21-02-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, le complétant par un titre Agences et modifiant divers autres lois et décrets (TRADUCTION).

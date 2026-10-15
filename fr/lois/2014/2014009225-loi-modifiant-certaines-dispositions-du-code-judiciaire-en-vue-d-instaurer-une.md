@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014009225/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2014 et mise à jour au 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant certaines dispositions du Code judiciaire en vue d'instaurer une nouvelle carrière pécuniaire pour le personnel judiciaire ainsi qu'un système de mandats pour les greffiers en chef et les secrétaires en chef

@@ -12,7 +12,7 @@ entry_into_force: 2000-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/19/2000015075/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 1997. - Wet houdende instemming met het Akkoord over het wegvervoer tussen de Regering van het Koninkrijk België en de Regering van de Republiek Slovenië, ondertekend te Ljubljana op 23 maart 1994.

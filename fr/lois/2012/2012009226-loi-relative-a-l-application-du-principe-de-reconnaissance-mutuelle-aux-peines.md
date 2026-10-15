@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/05/15/2012009226/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2012 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2012. - Loi relative à l'application du principe de reconnaissance mutuelle aux peines ou mesures privatives de liberté prononcées dans un Etat membre de l'Union européenne

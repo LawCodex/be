@@ -12,7 +12,7 @@ entry_into_force: 1999-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/10/1999009378/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1999. - Loi modifiant la loi du 2 août 1974 relative aux traitements des titulaires de certaines fonctions publiques et des ministres des cultes.

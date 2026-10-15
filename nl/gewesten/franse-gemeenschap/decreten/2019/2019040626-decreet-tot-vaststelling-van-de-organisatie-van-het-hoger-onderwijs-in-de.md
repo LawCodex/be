@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/21/2019040626/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-03-2019 en tekstbijwerking tot 06-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2019. - Decreet tot vaststelling van de organisatie van het hoger onderwijs in de hogescholen

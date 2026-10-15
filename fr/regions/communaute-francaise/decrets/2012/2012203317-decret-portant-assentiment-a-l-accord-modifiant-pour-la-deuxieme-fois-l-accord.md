@@ -13,7 +13,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203317/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à l'Accord, modifiant, pour la deuxième fois, l'Accord de partenariat entre les membres du Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, signé à Cotonou le 23 juin 2000 et modifié une première fois à Luxembourg le 25 juin 2005, et à l'Acte final, faits à Ouagadougou, le 22 juin 2010

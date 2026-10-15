@@ -13,7 +13,7 @@ entry_into_force: 2008-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202217/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet betreffende de inwerkingtreding van de artikelen 1 tot 6 van het programmadecreet inzake de Waalse fiscaliteit van 18 december 2008

@@ -12,7 +12,7 @@ entry_into_force: 2005-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/10/2006203821/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2006. - Decreet tot wijziging van Boek I van het Milieuwetboek betreffende de evaluatie van de milieueffecten van projecten (VERTALING).

@@ -11,7 +11,7 @@ entry_into_force: 2003-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/14/2000015094/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2000. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek der Filippijnen inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Manilla op 14 januari 1998.

@@ -12,7 +12,7 @@ entry_into_force: 2017-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/06/2017011221/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2016. - Loi portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et l'Etat d'Israël, faite à Jérusalem le 24 mars 2014

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/22/2001021018/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2000. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap.

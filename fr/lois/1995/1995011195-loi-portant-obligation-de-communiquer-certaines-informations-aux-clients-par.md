@@ -12,7 +12,7 @@ entry_into_force: 1995-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/13/1995011195/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1995. - Loi portant obligation de communiquer certaines informations aux clients par les banques et sociétés de crédit.

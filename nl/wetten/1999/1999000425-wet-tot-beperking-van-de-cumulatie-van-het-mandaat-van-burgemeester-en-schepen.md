@@ -12,7 +12,7 @@ entry_into_force: 2001-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999000425/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot beperking van de cumulatie van het mandaat van burgemeester en schepen met andere ambten.

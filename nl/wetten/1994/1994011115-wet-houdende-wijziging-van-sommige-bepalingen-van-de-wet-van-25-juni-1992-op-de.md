@@ -12,7 +12,7 @@ entry_into_force: 1994-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/16/1994011115/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1994. - Wet houdende wijziging van sommige bepalingen van de wet van 25 juni 1992 op de landverzekeringsovereenkomst.

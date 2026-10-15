@@ -12,7 +12,7 @@ entry_into_force: 2003-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003015169/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République démocratique du Sri Lanka relatif au transport aérien, et l'Annexe, signés à Bruxelles le 15 décembre 1998.

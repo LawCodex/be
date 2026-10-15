@@ -13,7 +13,7 @@ entry_into_force: 2001-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/07/2001027158/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2001. - Decreet betreffende de openbaarheid van bestuur in de Waalse intercommunales (VERTALING).

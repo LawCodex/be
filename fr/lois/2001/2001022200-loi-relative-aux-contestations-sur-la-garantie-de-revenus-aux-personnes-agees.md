@@ -12,7 +12,7 @@ entry_into_force: 2001-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/22/2001022200/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2001. - Loi relative aux contestations sur la garantie de revenus aux personnes âgées.

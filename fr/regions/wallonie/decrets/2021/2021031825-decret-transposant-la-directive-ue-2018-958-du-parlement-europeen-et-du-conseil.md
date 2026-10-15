@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/08/2021031825/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-07-2021 et mise à jour au 03-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2021. - Décret transposant la directive (UE) 2018/958 du Parlement européen et du Conseil du 28 juin 2018 relative à un contrôle de proportionnalité avant l'adoption d'une nouvelle réglementation de professions

@@ -12,7 +12,7 @@ published: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/25/2007035960/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2007. - Decreet houdende de wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

@@ -12,7 +12,7 @@ published: 1999-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/10/18/1999033116/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 1999. - Decreet tot wijziging van het decreet van 14 december 1998 houdende het statuut van de gesubsidieerde personeelsleden van het gesubsidieerd vrij onderwijs en van het gesubsidieerd vrij PMS-centrum (VERTALING).

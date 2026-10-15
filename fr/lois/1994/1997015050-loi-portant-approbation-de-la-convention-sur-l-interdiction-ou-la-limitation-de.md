@@ -12,7 +12,7 @@ entry_into_force: 1995-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/06/1997015050/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1994. - Loi portant approbation de la Convention sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination, et Protocoles I, II et III, faits à Genève le 10 octobre 1980.

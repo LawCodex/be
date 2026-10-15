@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/11/02/2010003613/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-11-2010 en tekstbijwerking tot 30-09-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBER 2010. - Wet betreffende de deelneming van de Belgische Staat in de "European Financial Stability Facility" en het verlenen van de Staatswaarborg aan de door deze vennootschap uitgegeven financiële instrumenten

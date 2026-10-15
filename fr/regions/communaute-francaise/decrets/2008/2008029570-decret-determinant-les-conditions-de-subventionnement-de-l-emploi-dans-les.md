@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/10/24/2008029570/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-11-2008 et mise à jour au 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2008. - Décret déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française

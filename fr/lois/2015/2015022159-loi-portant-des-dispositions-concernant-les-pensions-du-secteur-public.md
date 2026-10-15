@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/04/28/2015022159/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2015 et mise à jour au 21-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2015. - Loi portant des dispositions concernant les pensions du secteur public

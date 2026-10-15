@@ -12,7 +12,7 @@ entry_into_force: 1995-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/27/1995009015/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 1994. - Loi modifiant les articles 318, 320 et 348 du Code civil et les articles 1306, 1309 et 1310 du Code judiciaire.

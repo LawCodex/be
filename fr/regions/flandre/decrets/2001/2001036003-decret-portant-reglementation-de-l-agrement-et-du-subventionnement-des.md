@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001036003/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2004 et mise à jour au 11-07-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Décret portant réglementation de l'agrément et du subventionnement des fédérations sportives flamandes, de l'organisation coordinatrice et des organisations des sports récréatifs (TRADUCTION).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/26/2016202969/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 09-06-2016 en tekstbijwerking tot 13-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2016. - Decreet betreffende de slepen van langere en zwaardere voertuigen ( LZV's of ecocombi's) in het kader van proefprojecten

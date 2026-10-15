@@ -13,7 +13,7 @@ entry_into_force: 2011-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/01/2011027224/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2011. - Décret portant confirmation de l'arrêté du Gouvernement wallon du 29 septembre 2011 portant codification de la législation en matière de santé et d'action sociale

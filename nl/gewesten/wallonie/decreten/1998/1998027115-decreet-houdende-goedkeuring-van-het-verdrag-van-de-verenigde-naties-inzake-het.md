@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/05/1998027115/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1998. - Decreet houdende goedkeuring van het Verdrag van de Verenigde Naties inzake het recht van de zee en van de Bijlagen, ondertekend te Montégo Bay op 10 december 1982, alsmede van de Overeenkomst betreffende de uitvoering van Deel XI van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982 en van de Bijlage, ondertekend te New York op 28 juli 1994 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2012-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/05/15/2012009230/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2012. - Wet tot wijziging van het Burgerlijk Wetboek wat de mede-eigendom betreft en van artikel 46, § 2, van het Gerechtelijk Wetboek

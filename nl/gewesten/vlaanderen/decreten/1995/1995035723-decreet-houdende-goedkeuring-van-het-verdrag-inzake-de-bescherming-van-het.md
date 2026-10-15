@@ -13,7 +13,7 @@ entry_into_force: 1995-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995035723/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Decreet houdende goedkeuring van het Verdrag inzake de bescherming van het mariene milieu van de Noordoostelijke Atlantische Oceaan, en van de bijlagen, opgemaakt in Parijs op 22 september 1992.

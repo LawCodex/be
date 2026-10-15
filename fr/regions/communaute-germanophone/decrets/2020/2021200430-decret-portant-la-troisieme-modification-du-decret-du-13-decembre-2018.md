@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/10/2021200430/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2020. - Décret portant la troisième modification du décret du 13 décembre 2018 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2019

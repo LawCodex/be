@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/04/2020044101/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 07-12-2020 en tekstbijwerking tot 18-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2020. - Ordonnantie tot toekenning van een uitzonderlijke vrijstelling van stedenbouwkundige vergunning en milieuvergunning aan de FOD Justitie voor het tijdelijke gebruik van de voormalige hoofdzetel van de NAVO voor gerechtelijke doeleinden

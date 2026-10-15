@@ -13,7 +13,7 @@ entry_into_force: 2016-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036209/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Décret modifiant l'article 99 de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales

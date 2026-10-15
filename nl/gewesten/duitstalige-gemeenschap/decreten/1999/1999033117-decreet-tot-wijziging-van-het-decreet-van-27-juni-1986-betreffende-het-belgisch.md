@@ -13,7 +13,7 @@ entry_into_force: 1999-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/10/18/1999033117/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 1999. - Decreet tot wijziging van het decreet van 27 juni 1986 betreffende het Belgisch Radio- en Televisiecentrum van de Duitstalige Gemeenschap (VERTALING).

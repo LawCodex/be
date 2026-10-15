@@ -12,7 +12,7 @@ entry_into_force: 2016-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/29/2016000434/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2016. - Loi supprimant le comité consultatif national des zones de secours de la sécurité civile

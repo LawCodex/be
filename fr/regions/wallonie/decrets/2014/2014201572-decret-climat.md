@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/20/2014201572/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 08-10-2018 et mise à jour au 29-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2014. - Décret "Climat"

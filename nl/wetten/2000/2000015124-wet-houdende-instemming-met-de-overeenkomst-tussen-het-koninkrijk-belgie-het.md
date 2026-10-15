@@ -12,7 +12,7 @@ entry_into_force: 2003-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/24/2000015124/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2000. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden ter uitvoering van het Europees Verdrag inzake Sociale Zekerheid van 14 december 1972, met de Bijlage bij de Overeenkomst en met de Administratieve Schikking voor de toepassing van de Overeenkomst, gedaan te Brussel op 24 juni 1996.

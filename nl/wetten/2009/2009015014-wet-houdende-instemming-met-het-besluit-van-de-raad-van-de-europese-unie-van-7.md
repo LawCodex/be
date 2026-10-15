@@ -12,7 +12,7 @@ entry_into_force: 2009-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/01/31/2009015014/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2009. - Wet houdende instemming met het Besluit van de Raad van de Europese Unie van 7 juni 2007 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen.

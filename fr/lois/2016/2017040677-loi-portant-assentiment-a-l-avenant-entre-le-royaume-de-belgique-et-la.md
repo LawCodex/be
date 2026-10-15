@@ -12,7 +12,7 @@ entry_into_force: 2017-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/03/18/2017040677/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2016. - Loi portant assentiment à l'Avenant entre le Royaume de Belgique et la Confédération suisse modifiant la Convention du 28 août 1978 entre le Royaume de Belgique et la Confédération suisse en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune, fait à Bruxelles le 10 avril 2014

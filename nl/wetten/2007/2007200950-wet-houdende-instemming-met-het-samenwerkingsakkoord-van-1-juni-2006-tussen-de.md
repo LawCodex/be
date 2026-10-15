@@ -12,7 +12,7 @@ entry_into_force: 2007-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/02/2007200950/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2007. - Wet houdende instemming met het samenwerkingsakkoord van 1 juni 2006 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken.

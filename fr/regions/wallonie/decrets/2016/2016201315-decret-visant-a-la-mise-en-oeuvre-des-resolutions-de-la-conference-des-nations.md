@@ -13,7 +13,7 @@ entry_into_force: 2016-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/03/2016201315/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2016. - Décret visant à la mise en oeuvre des résolutions de la Conférence des Nations unies sur les femmes à Pékin de septembre 1995 et intégrant la dimension du genre dans l'ensemble des politiques régionales, pour les matières réglées en vertu de l'article 138 de la Constitution

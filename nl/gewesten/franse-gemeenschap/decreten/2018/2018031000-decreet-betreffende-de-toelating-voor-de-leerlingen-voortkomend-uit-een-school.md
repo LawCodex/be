@@ -12,7 +12,7 @@ published: 2018-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/03/2018031000/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2018. - Decreet betreffende de toelating voor de leerlingen voortkomend uit een school van de Vlaamse of de Duitstalige Gemeenschap of voortkomend uit een school uit een vreemd land en waarvan de onderwijstaal dezelfde is als de taalbadtaal, om zich, buiten de studiejaren bepaald in het taalbadonderwijs, in te schrijven

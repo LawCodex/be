@@ -13,7 +13,7 @@ entry_into_force: 2010-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/04/01/2010031187/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2010. - Ordonnance " modifiant l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement pour faciliter la mise en oeuvre du droit de gestion publique " (n° A-74/1 et 2 - 2009/2010)

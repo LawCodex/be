@@ -12,7 +12,7 @@ entry_into_force: 1994-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/14/1994025259/justel"
 department: "Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1994. - Wet tot wijziging van de wet van 24 februari 1921 betreffende het verhandelen van de giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica.

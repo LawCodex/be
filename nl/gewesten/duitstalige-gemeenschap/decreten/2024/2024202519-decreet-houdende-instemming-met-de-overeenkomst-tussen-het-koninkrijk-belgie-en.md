@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/22/2024202519/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2024. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, gedaan te Brussel op 17 november 2021

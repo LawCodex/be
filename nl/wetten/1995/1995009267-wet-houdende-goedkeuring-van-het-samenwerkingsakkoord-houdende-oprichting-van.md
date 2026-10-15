@@ -12,7 +12,7 @@ entry_into_force: 1995-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/06/1995009267/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 1995. - Wet houdende goedkeuring van het samenwerkingsakkoord houdende oprichting van een Raadgevend Comité voor Bio-ethiek, gesloten te Brussel, op 15 januari 1993 tussen de Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie.

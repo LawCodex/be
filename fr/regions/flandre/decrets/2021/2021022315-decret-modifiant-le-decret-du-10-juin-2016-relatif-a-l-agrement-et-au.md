@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/15/2021022315/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2021. - Décret modifiant le décret du 10 juin 2016 relatif à l'agrément et au subventionnement du secteur du sport organisé, en ce qui concerne le handisport

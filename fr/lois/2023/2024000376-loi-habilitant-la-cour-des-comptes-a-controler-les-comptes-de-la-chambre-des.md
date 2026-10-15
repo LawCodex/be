@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/23/2024000376/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Loi habilitant la Cour des comptes à contrôler les comptes de la Chambre des représentants et les institutions à dotation et à assister ces institutions dans la confection des budgets

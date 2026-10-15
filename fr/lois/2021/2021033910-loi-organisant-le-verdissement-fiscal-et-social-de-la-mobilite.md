@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/25/2021033910/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 03-12-2021 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2021. - Loi organisant le verdissement fiscal et social de la mobilité

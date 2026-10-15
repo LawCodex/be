@@ -13,7 +13,7 @@ entry_into_force: 2011-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/05/19/2011031292/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2011. - Ordonnantie tot wijziging van de wet van 20 juli 1971 op de begraafplaatsen en de lijkbezorging

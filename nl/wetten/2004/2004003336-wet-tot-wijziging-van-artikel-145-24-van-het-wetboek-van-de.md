@@ -11,7 +11,7 @@ published: 2004-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/31/2004003336/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2004. - Wet tot wijziging van artikel 145/24 van het Wetboek van de inkomstenbelastingen 1992 teneinde het rationeel energieverbruik in woningen nog meer aan te moedigen.

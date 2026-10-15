@@ -13,7 +13,7 @@ entry_into_force: 2024-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005530/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret modifiant le décret du 6 février 2004 relatif aux garanties ad hoc pour entreprises et garanties pour fonds de financement et portefeuilles de crédit

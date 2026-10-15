@@ -12,7 +12,7 @@ entry_into_force: 2001-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999000426/justel"
 department: "Binnenlandse Zaken - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot beperking van de cumulatie van het ambt van bestendig afgevaardigde met andere ambten en tot harmonisering van het financieel en fiscaal statuut van de bestendig afgevaardigde.

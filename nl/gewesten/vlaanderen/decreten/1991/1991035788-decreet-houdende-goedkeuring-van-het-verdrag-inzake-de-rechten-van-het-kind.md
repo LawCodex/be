@@ -13,7 +13,7 @@ entry_into_force: 1991-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/05/15/1991035788/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 1991. - Decreet houdende goedkeuring van het Verdrag inzake de Rechten van het Kind, aangenomen te New York op 20 november 1989.

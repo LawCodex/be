@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/04/19/2002014105/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-2002 en tekstbijwerking tot 13-05-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2002. - Wet tot rationalisering van de werking en het beheer van de Nationale Loterij.

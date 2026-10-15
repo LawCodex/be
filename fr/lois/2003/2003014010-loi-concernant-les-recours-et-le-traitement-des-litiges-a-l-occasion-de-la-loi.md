@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/17/2003014010/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 24-01-2003 et mise à jour au 27-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2003. - Loi concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges.

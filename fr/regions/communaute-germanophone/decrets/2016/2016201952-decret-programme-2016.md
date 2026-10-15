@@ -13,7 +13,7 @@ entry_into_force: 2016-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/02/22/2016201952/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2016. - Décret-programme 2016

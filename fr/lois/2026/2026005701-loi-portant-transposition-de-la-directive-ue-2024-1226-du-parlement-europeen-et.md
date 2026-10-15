@@ -12,7 +12,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/15/2026005701/justel"
 department: "Economie, PME, Classes moyennes et Energie - Affaires étrangères, Commerce extérieur et Coopération au développement - Finances - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2026. - Loi portant transposition de la directive (UE) 2024/1226 du Parlement européen et du Conseil du 24 avril 2024 relative à la définition des infractions pénales et des sanctions en cas de violation des mesures restrictives de l'Union et modifiant la directive (UE) 2018/1673 et autres dispositions

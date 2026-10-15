@@ -13,7 +13,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004725/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet over de vrijwillige samenvoeging van de gemeenten Beveren, Kruibeke en Zwijndrecht, de wijziging van de grens tussen de provincies Antwerpen en Oost-Vlaanderen en tot wijziging van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, wat betreft de opheffing van de samen te voegen gemeenten en het invoegen van de nieuwe gemeente

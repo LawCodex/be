@@ -12,7 +12,7 @@ entry_into_force: 2004-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/03/26/2005003217/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2005. - Wet tot wijziging van de wet van 31 december 2003 houdende invoering van een eenmalige bevrijdende aangifte.

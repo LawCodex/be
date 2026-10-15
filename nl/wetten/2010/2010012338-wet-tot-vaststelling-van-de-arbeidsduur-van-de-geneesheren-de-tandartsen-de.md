@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/12/12/2010012338/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 22-12-2010 en tekstbijwerking tot 22-12-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2010. - Wet tot vaststelling van de arbeidsduur van de geneesheren, de tandartsen, de dierenartsen, kandidaat-geneesheren in opleiding, kandidaat-tandartsen in opleiding en studenten-stagiairs die zich voorbereiden op de uitoefening van deze beroepen

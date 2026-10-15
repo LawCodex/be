@@ -12,7 +12,7 @@ entry_into_force: 2024-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/25/2023048797/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2023. - Wet tot wijziging van de programmawet van 27 december 2021 voor wat betreft de maatregelen inzake het goederevervoer per spoor ter regeling van de modal shift

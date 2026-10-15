@@ -13,7 +13,7 @@ entry_into_force: 2022-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/06/2022206871/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2022. - Decreet tot wijziging van artikel 3 van het decreet van 12 februari 2004 betreffende het statuut van de overheidsbestuurder, artikel 3 van het decreet van 12 februari 2004 betreffende de Regeringscommissaris en de controleopdrachten van de revisoren binnen de instellingen van openbaar nut en artikelen 43, § 3, 45, § 2ter, 45bis en 45quater van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt

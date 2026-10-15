@@ -11,7 +11,7 @@ published: 1999-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/24/1999009354/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1999. - Wet met betrekking tot de parketjuristen en de referendarissen en tot aanvulling en wijziging van sommige bepalingen van het Gerechtelijk Wetboek en van de wet tot wijziging van sommige bepalingen van deel II van het Gerechtelijk Wetboek met betrekking tot de Hoge Raad voor de Justitie, de benoeming en aanwijzing van magistraten en tot invoering van een evaluatiesysteem van magistraten.

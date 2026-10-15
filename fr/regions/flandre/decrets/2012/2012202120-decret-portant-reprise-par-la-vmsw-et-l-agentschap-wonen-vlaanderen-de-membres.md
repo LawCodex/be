@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/23/2012202120/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-04-2012 et mise à jour au 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2012. - Décret portant reprise par la VMSW et l'" Agentschap Wonen-Vlaanderen " de membres du personnel de l'asbl " Vlaams Overleg Bewonersbelangen " et portant modification du décret du 15 juillet 1997 contenant le Code flamand du Logement, en ce qui concerne les services de location

@@ -13,7 +13,7 @@ entry_into_force: 2006-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/30/2006202768/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2006. - Décret spécial modifiant l'article 32, § 1er, alinéa 1er, de la loi spéciale de réformes institutionnelles du 8 août 1980 telle que modifiée organisant le régime des sessions du Parlement de la Communauté française.

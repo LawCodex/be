@@ -13,7 +13,7 @@ entry_into_force: 2013-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/29/2013029148/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2012. - Decreet tot wijziging van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd

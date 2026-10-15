@@ -12,7 +12,7 @@ entry_into_force: 2004-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/11/2002015011/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANVIER 2002. - Loi portant assentiment à l'Accord aux fins de l'application des dispositions de la Convention des Nations unies sur le droit de la mer du 10 décembre 1982 relatives à la conservation et à la gestion des stocks de poissons dont les déplacements s'effectuent tant à l'intérieur qu'au-delà de zones économiques exclusives (stocks chevauchants) et des stocks de poissons grands migrateurs, et aux Annexes I et II, ouverts à la signature à New York le 4 décembre 1995.

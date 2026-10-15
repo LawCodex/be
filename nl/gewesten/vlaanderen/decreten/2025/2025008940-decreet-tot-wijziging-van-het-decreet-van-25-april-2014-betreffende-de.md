@@ -11,7 +11,7 @@ date: 2025-11-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/21/2025008940/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2025. - Decreet tot wijziging van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat het vermijden van een belangenconflict betreft bij omgevingsvergunningen die door een gemeente of provincie zijn aangevraagd

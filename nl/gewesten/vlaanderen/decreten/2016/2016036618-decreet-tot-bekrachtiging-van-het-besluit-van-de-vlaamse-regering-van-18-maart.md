@@ -13,7 +13,7 @@ entry_into_force: 2016-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/18/2016036618/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2016. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 18 maart 2016 tot uitvoering van artikel 13 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen

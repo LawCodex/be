@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/09/21/2012029442/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-10-2012 et mise à jour au 14-03-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBRE 2012. - Décret relatif à la participation et la représentation étudiante dans l'enseignement supérieur

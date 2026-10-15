@@ -11,7 +11,7 @@ published: 1956-07-08
 entry_into_force: 1956-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1956/07/04/1956070404/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 1956. \_ Loi interprétative de l'arrêté du Régent du 28 septembre 1945 relatif à l'application de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, aux employeurs et aux travailleurs rémunérés au pourboire.

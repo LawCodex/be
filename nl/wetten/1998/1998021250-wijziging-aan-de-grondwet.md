@@ -12,7 +12,7 @@ entry_into_force: 1998-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/17/1998021250/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1998. - Wijziging aan de Grondwet.

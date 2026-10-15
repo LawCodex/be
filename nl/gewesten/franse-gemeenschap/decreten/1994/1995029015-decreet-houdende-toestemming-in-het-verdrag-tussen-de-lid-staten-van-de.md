@@ -13,7 +13,7 @@ entry_into_force: 1995-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995029015/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - Decreet houdende toestemming in het Verdrag tussen de Lid-Staten van de Europese Unie en het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden betreffende de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, in de Bijlagen, Protocollen en Slotakte, opgemaakt te Korfoe, op 24 mei 1994.

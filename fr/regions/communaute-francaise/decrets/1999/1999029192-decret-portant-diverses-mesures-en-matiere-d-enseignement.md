@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/08/1999029192/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-04-1999 et mise à jour au 03-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 1999. - Décret portant diverses mesures en matière d'enseignement.

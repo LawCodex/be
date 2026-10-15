@@ -12,7 +12,7 @@ entry_into_force: 2026-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/24/2026005231/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2026. - Wet tot wijziging van het bevel tot betalen voorzien in artikel 216bis/1 van het Wetboek van strafvordering

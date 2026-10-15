@@ -11,7 +11,7 @@ entry_into_force: 2017-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/19/2017031526/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2017. - Wet tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen en kandidaat-militairen van het actief kader van de Krijgsmacht wat de politieke activiteiten en mandaten van militairen betreft

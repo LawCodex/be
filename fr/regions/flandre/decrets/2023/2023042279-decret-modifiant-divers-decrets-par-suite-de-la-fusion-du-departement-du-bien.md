@@ -13,7 +13,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/21/2023042279/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2023. - Décret modifiant divers décrets par suite de la fusion du Département du Bien-être, de la Santé publique et de la Famille et de l'Agence autonomisée interne Soins et Santé pour former le Département Soins

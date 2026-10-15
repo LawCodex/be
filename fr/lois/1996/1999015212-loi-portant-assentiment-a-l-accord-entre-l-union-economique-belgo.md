@@ -12,7 +12,7 @@ entry_into_force: 2000-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/16/1999015212/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1996. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Mongolie concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 3 mars 1992.

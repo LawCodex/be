@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/11/2024201107/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2023. - Decreet tot wijziging van het wetboek van de plaatselijke democratie en decentralisatie en tot wijziging van het gemeentedecreet van 23 april 2018

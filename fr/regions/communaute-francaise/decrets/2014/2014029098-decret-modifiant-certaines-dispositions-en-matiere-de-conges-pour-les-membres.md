@@ -13,7 +13,7 @@ entry_into_force: 2014-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/16/2014029098/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2014. - Décret modifiant certaines dispositions en matière de congés pour les membres du personnel de l'enseignement organisé ou subventionné par la Communauté française

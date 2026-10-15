@@ -12,7 +12,7 @@ entry_into_force: 1998-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/02/28/1997015213/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1993. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Federale Republiek Nigeria tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar vermogenswinsten, ondertekend te Brussel op 20 november 1989.

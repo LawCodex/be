@@ -13,7 +13,7 @@ entry_into_force: 2021-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/04/15/2021020822/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2021. - Ordonnantie houdende instemming met de begrotingsberaadslaging nr. 1 van de Brusselse Hoofdstedelijke Regering houdende machtiging tot het vastleggen, vereffenen en betalen van uitgaven, aan te rekenen op de Algemene Uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2021

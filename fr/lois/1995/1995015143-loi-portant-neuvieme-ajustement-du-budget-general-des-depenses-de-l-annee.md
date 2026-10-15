@@ -12,7 +12,7 @@ entry_into_force: 1995-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/08/07/1995015143/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AOUT 1995. - Loi portant neuvième ajustement du budget général des dépenses de l'année budgétaire 1993 - Section " 14 - Affaires étrangères et Commerce extérieur ".

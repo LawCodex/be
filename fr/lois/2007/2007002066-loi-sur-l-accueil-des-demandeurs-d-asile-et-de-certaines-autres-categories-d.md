@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007002066/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
 justel_note: "Consultation des versions antérieures à partir du 07-05-2007 et mise à jour au 23-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2007. - Loi sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers

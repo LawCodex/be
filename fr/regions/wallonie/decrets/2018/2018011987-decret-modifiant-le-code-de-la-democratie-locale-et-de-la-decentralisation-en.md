@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018011987/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2018 et mise à jour au 14-05-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Décret modifiant le Code de la démocratie locale et de la décentralisation en vue de renforcer la gouvernance et la transparence dans l'exécution des mandats publics au sein des structures locales et supra-locales et de leurs filiales

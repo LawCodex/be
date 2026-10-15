@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026006021/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret modifiant le décret Enseignement fondamental du 25 février 1997, le Code de l'Enseignement secondaire du 17 décembre 2010 et la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016, en ce qui concerne le droit d'inscription à Bruxelles et dans l'enseignement spécialisé et le budget de fonctionnement supplémentaire pour la filière B dans l'enseignement secondaire ordinaire

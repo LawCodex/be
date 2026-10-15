@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1974/01/28/1974012805/justel"
 department: "Nationale Opvoeding en Nederlandse Cultuur"
 justel_note: "Raadpleging van vroegere versies vanaf 13-01-2010 en tekstbijwerking tot 13-01-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 1974. - Decreet betreffende het cultuurpact.

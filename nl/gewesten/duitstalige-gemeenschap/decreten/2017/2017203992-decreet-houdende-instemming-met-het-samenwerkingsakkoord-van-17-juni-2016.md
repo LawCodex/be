@@ -12,7 +12,7 @@ published: 2017-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/26/2017203992/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2017. - Decreet houdende instemming met het Samenwerkingsakkoord van 17 juni 2016 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap houdende omzetting in de gezinsbijslagwetgeving van de Richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat, alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven

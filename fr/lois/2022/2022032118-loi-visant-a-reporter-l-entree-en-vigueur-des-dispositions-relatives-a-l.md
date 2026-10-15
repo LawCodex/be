@@ -12,7 +12,7 @@ entry_into_force: 2022-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/18/2022032118/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2022. - Loi visant à reporter l'entrée en vigueur des dispositions relatives à l'exécution des peines privatives de liberté de trois ans ou moins

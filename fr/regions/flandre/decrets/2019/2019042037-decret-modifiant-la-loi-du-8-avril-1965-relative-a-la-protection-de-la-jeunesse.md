@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/09/24/2019042037/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2019. - DECRET modifiant la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié d'infraction et à la réparation du dommage causé par ce fait et le décret du 15 février 2019 sur le droit en matière de délinquance juvénile, en ce qui concerne les dispositions transitoires

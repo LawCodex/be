@@ -12,7 +12,7 @@ entry_into_force: 1987-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/07/1999012315/justel"
 department: "Emploi et Travail - Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1999. - Loi modifiant l'arrêté royal n° 499 du 31 décembre 1986 portant réglementation de la sécurité social de certains jeunes défavorisées.

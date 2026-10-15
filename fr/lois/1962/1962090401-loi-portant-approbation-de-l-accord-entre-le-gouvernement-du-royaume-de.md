@@ -11,7 +11,7 @@ published: 1963-09-03
 entry_into_force: 1963-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/09/04/1962090401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 1962. - Loi portant approbation de l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume Hachémite de Jordanie, relatif à l'établissement de services aériens réguliers entre leurs territoires respectifs et au-delà, et de l'annexe, signés à Amman, le 19 octobre 1960.

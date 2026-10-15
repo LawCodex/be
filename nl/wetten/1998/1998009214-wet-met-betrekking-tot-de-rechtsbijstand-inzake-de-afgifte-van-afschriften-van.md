@@ -12,7 +12,7 @@ entry_into_force: 1998-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/07/1998009214/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 1998. - Wet met betrekking tot de rechtsbijstand inzake de afgifte van afschriften van stukken uit het gerechtsdossier in strafzaken.

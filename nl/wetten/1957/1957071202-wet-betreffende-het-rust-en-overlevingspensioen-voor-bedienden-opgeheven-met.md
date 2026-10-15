@@ -13,7 +13,7 @@ last_amended: 2016-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1957/07/12/1957071202/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 14-02-1981 en tekstbijwerking tot 23-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1957. - Wet betreffende het rust- en overlevingspensioen voor bedienden (Opgeheven met uitzondering van art. 14bis, 20, 22, 25, en 28; bij KB nr. 50 van 24-10-1967, art. 75, §3, 4°; doch blijft verder de pensioenen beheersen die daadwerkelijk en voor de eerste maal ingaan vóór 01-01-1968).

@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/17/2023203842/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2023. - Wet tot wijziging van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten en de wet van 8 april 1965 tot instelling van de arbeidsreglementen met betrekking tot de samenloop van jaarlijkse vakantie en arbeidsongeschiktheid

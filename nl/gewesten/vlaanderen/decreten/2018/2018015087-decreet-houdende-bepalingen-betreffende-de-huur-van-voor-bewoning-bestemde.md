@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/09/2018015087/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 07-12-2018 en tekstbijwerking tot 30-05-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2018. - Decreet houdende bepalingen betreffende de huur van voor bewoning bestemde goederen of delen ervan. ["Vlaams Woninghuurdecreet"]

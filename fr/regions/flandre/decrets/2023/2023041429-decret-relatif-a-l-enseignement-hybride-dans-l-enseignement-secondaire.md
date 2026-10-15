@@ -13,7 +13,7 @@ entry_into_force: 2023-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/24/2023041429/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2023. - Décret relatif à l'enseignement hybride dans l'enseignement secondaire

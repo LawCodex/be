@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/20/2011204000/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Décret portant assentiment à la Convention n° 168 concernant la promotion de l'emploi et la protection contre le chômage adoptée par la Conférence internationale du Travail lors de sa soixante-quinzième session à Genève le 21 juin 1988

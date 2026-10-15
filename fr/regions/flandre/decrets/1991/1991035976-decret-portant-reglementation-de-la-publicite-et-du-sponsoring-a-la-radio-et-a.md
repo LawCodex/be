@@ -13,7 +13,7 @@ entry_into_force: 1991-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/06/12/1991035976/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 1991. - Décret portant réglementation de la publicité et du sponsoring à la radio et à la télévision. (Traduction).

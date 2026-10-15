@@ -13,7 +13,7 @@ entry_into_force: 2014-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/14/2014035375/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2014. - Décret portant assentiment à la Convention européenne en matière d'adoption des enfants (révisée), faite à Strasbourg le 27 novembre 2008 et signée le 1er décembre 2008

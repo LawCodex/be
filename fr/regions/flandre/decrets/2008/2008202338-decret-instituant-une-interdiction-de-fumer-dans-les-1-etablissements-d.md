@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/06/2008202338/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-07-2008 et mise à jour au 14-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2008. - Décret instituant une interdiction de fumer dans les [ 1 établissements d'enseignement, les internats de l'enseignement et les centres d'encadrement des élèves] 1 (TRADUCTION) ( 1 )&lt;DCFL 2023-06-16/12 , art.105 , 004; En vigueur : 01-09-2023&gt;

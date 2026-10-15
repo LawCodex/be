@@ -13,7 +13,7 @@ entry_into_force: 1991-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/06/27/1991027373/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1991. - Decreet betreffende de toekenning van subsidies aan de gemeenten voor de uitvoering van werken van openbare verlichting om energiebesparingen te verwezenlijken.

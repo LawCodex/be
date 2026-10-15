@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019013215/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à l'Accord de partenariat global et renforcé entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d'une part, et la République d'Arménie, d'autre part, signé à Bruxelles le 24 novembre 2017

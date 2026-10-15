@@ -13,7 +13,7 @@ entry_into_force: 2018-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202802/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet tot omzetting van Richtlijn 2014/52/EG van het Europees Parlement en de Raad van 16 april 2004 tot wijziging van Richtlijn 2011/92/EU betreffende de milieueffectbeoordeling van bepaalde openbare en particuliere projecten en tot wijziging van het decreet van 11 maart 1999 betreffende de milieuvergunning wat betreft de dematerialisatie en de administratieve vereenvoudiging en diverse bepalingen

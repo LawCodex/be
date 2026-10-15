@@ -13,7 +13,7 @@ entry_into_force: 2003-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/07/2003035258/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2003. - Décret modifiant l'article 15 du décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais (TRADUCTION).

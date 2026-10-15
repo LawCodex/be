@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/22/2018010200/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Décret modifiant diverses dispositions du décret du 31 janvier 2014 attribuant à la Province du Brabant flamand la compétence relative à la conduite d'une politique foncière et du logement spécifique pour le Brabant flamand, du décret de 15 juillet 1997 contenant le Code flamand du Logement et du décret du 27 mars 2009 relatif à la politique foncière et immobilière

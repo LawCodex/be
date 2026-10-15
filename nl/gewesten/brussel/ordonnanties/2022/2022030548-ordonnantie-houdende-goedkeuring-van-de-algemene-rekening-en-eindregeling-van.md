@@ -13,7 +13,7 @@ entry_into_force: 2022-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/01/27/2022030548/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2022. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van het Brussels Gewestelijk Herfinancieringsfonds van de Gemeentelijke Thesaurieën voor het jaar 2018

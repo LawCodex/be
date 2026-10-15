@@ -11,7 +11,7 @@ date: 2023-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/27/2023046927/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2023. - Decreet tot vervanging van artikel 5.68/1 en 6.3/1 en tot wijziging van artikel 5.73 van de Vlaamse Codex Wonen van 2021, en tot opheffing van artikel 218 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen

@@ -13,7 +13,7 @@ last_amended: 2024-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/02/1965040210/justel"
 justel_note: "Consultation des versions antérieures à partir du 25-01-1984 et mise à jour au 09-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1965. - [Loi relative à la prise en charge des secours accordés par les [centres publics d'aide sociale].] &lt;L 9-7-1971, art. 1&gt; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;

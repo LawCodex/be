@@ -13,7 +13,7 @@ entry_into_force: 2000-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/05/31/2000029243/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2000. - Décret portant confirmation du répertoire des options groupées.

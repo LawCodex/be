@@ -13,7 +13,7 @@ entry_into_force: 2021-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/22/2021205614/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2021. - Decreet houdende instemming met het Samenwerkingsakkoord van 7 mei 2021 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van het Samenwerkingsakkoord van 9 december 2011 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport

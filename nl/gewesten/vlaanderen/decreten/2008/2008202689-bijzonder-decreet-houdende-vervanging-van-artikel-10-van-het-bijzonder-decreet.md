@@ -13,7 +13,7 @@ entry_into_force: 2008-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202689/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Bijzonder decreet houdende vervanging van artikel 10 van het bijzonder decreet van 7 juli 2006 over de Vlaamse instellingen.

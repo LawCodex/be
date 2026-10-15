@@ -12,7 +12,7 @@ entry_into_force: 2009-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/09/2009003076/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2009. - Loi modifiant l'article 133, § 6, alinéa 1er, et l'article 526ter du Code des sociétés.

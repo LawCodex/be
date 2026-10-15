@@ -13,7 +13,7 @@ entry_into_force: 2007-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/15/2007200613/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2007. - Decreet houdende instemming met het samenwerkingsakkoord tot wijziging van artikel 3 van het samenwerkingsakkoord van 29 april 2004 tussen de Franse Gemeenschap en het Waalse Gewest betreffende de nadere regels voor de toekenning van tegemoetkomingen ter bevordering van de indienstneming van niet-werkende werkzoekenden door werkgevers van de onderwijssector overeenkomstig artikel 4 van het Waals decreet van 25 april 2002 betreffende de tegemoetkomingen ter bevordering van de indienstneming van niet-werkende werkzoekenden door de plaatselijke, gewestelijke en gemeenschapsoverheden, door bepaalde werkgevers in de niet-commerciële sector, het onderwijs en de commerciële sector (VERTALING).

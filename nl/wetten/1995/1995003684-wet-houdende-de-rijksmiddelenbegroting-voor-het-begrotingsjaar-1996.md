@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/11/24/1995003684/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1995. - Wet houdende de Rijksmiddelenbegroting voor het begrotingsjaar 1996.

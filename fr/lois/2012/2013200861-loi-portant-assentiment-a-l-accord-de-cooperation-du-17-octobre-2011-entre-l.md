@@ -12,7 +12,7 @@ entry_into_force: 2013-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/21/2013200861/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Loi portant assentiment à l'Accord de coopération du 17 octobre 2011 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi qu'aux restrictions applicables à ces substances (REACH)

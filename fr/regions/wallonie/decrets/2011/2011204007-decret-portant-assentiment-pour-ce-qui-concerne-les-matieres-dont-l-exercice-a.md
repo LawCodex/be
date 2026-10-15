@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/20/2011204007/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention n° 156 concernant l'égalité de chances et de traitement pour les travailleurs des deux sexes : travailleurs ayant des responsabilités familiales, adoptée par la Conférence générale de l'Organisation internationale du Travail à sa soixante-septième session, à Genève, le 23 juin 1981

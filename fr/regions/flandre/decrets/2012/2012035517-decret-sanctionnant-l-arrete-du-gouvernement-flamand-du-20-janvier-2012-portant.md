@@ -13,7 +13,7 @@ entry_into_force: 2012-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/20/2012035517/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2012. - Décret sanctionnant l'arrêté du Gouvernement flamand du 20 janvier 2012 portant adaptation des objectifs finaux du domaine d'apprentissage 'informatie- en communicatietechnologie' (technologie d'information et de communication) de l'éducation de base

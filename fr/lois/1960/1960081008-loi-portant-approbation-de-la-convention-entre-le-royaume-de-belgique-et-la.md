@@ -12,7 +12,7 @@ entry_into_force: 1960-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/08/10/1960081008/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1960. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République Fédérale d'Allemagne, concernant la reconnaissance et l'exécution réciproque, en matière civile ou commerciale, des décisions judiciaires, sentences arbitrales en actes authentiques, du protocole additionnel à cette Convention et de l'échange de lettres, signés à Bonn, le 30 juin 1958.

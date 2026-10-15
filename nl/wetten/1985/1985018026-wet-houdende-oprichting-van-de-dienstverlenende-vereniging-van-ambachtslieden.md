@@ -12,7 +12,7 @@ entry_into_force: 1985-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/02/08/1985018026/justel"
 department: "Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1985. - Wet houdende oprichting van de dienstverlenende vereniging van ambachtslieden.

@@ -13,7 +13,7 @@ entry_into_force: 2009-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/19/2009029272/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2009. - Décret portant diverses mesures, notamment en matière de statuts et de titres pour les membres des personnels de l'enseignement supérieur et créant des conseils des étudiants au sein des Instituts supérieurs d'Architecture

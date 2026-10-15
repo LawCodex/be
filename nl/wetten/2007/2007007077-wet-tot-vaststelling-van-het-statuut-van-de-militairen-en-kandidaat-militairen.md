@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/28/2007007077/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 10-04-2007 en tekstbijwerking tot 08-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2007. - [Wet tot vaststelling van het statuut van de militairen en kandidaat-militairen van het actief kader van de Krijgsmacht.] &lt;Opschrift vervangen door W 2013-07-31/04 , art. 15, 006; Inwerkingtreding : 30-09-2013&gt;

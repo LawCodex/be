@@ -12,7 +12,7 @@ entry_into_force: 2016-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/27/2016003242/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2016. - [Wet tot machtiging van de minister van Financïen om leningen aan de gemeenschappelijke afwikkelingsraad toe te staan]

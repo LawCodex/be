@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018011987/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2018 en tekstbijwerking tot 14-05-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot wijziging van het Wetboek van de Plaatselijke Democratie en de Decentralisering met het oog op een sterker bestuur en een sterkere transparantie in de uitvoering van de openbare mandaten in de lokale en bovenlokale structuren en hun filialen

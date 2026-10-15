@@ -13,7 +13,7 @@ last_amended: 2013-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/03/27/1969032710/justel"
 justel_note: "Consultation des versions antérieures à partir du 26-04-2013 et mise à jour au 29-11-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1969. - [Loi relative à la réglementation des transports maritimes et aériens.] &lt;Intitulé remplacé par L 21-06-1976, art. 1&gt;

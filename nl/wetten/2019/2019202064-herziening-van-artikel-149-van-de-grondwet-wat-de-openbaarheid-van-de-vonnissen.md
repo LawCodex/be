@@ -12,7 +12,7 @@ entry_into_force: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/22/2019202064/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2019. - Herziening van artikel 149 van de Grondwet wat de openbaarheid van de vonnissen en arresten betreft

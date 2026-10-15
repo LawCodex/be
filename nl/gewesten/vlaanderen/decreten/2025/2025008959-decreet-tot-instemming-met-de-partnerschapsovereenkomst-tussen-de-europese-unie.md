@@ -13,7 +13,7 @@ entry_into_force: 2025-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/14/2025008959/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2025. - Decreet tot instemming met de partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de leden van de Organisatie van Staten in Afrika, het Caribisch gebied en de Stille Oceaan, anderzijds, ondertekend te Apia, Samoa, op 15 november 2023

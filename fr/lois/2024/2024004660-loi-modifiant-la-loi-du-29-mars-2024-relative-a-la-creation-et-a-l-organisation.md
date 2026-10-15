@@ -12,7 +12,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/24/2024004660/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2024. - Loi modifiant la loi du 29 mars 2024 relative à la création et à l'organisation des missions de l'Unité nationale ETIAS (U.N.E.)

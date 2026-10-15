@@ -12,7 +12,7 @@ entry_into_force: 2014-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/27/2013003447/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2013. - Wet houdende vaststelling van de Civiele Lijst voor de duur van de regering van Koning Filip

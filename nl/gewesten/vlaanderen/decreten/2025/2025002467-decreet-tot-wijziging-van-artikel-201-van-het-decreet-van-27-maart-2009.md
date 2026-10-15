@@ -13,7 +13,7 @@ entry_into_force: 2025-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/21/2025002467/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2025. - Decreet tot wijziging van artikel 201 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat de uitzendingen via etheromroepnetwerken betreft

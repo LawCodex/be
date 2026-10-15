@@ -11,7 +11,7 @@ published: 2020-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/31/2020203566/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2020. - Wet tot wijziging van het koninklijk besluit van 16 september 2013 ter vaststelling van een specifieke tegemoetkoming in de kostprijs van contraceptiva voor vrouwen, jonger dan 25 jaar, teneinde de specifieke tegemoetkoming voor contraceptiva uit te breiden naar vrouwen met een verhoogde tegemoetkoming

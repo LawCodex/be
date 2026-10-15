@@ -11,7 +11,7 @@ published: 1865-03-19
 entry_into_force: 1865-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1865/03/16/1865031650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1865. \_ Wet houdende oprichting van een Algemene Spaar- en Lijfrentekas &lt;Nota : sinds de W. 21-2-1985 worden de woorden "raad van beheer" en "beheerder" vervangen door "raad van bestuur" en "bestuurder".&gt;

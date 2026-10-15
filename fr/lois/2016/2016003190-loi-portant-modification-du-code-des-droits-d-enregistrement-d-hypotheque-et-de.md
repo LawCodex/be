@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/26/2016003190/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Loi portant modification du Code des droits d'enregistrement, d'hypothèque et de greffe, suite au transfert du service des droits d'enregistrement régionaux à la Région flamande

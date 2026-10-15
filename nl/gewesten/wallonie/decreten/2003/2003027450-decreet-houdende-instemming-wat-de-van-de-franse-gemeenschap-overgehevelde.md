@@ -13,7 +13,7 @@ entry_into_force: 2003-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/06/2003027450/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2003. - Decreet houdende instemming, wat de van de Franse Gemeenschap overgehevelde aangelegen-heden betreft, met de Europees-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Democratische Volksrepubliek Algerije, anderzijds, en met de Slotakte, opgemaakt te Valence op 22 april 2002 (VERTALING).

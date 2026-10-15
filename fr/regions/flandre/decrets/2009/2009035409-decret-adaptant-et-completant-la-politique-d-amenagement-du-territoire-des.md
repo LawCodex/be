@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/27/2009035409/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2009. - Décret adaptant et complétant la politique d'aménagement du territoire, des autorisations et du maintien

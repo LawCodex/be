@@ -13,7 +13,7 @@ entry_into_force: 2023-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/06/22/2023043965/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2023. - Ordonnance insérant dans le Code bruxellois du Logement les règles de procédure applicables aux expulsions judiciaires et modifiant les moyens affectés par et au profit du Fonds budgétaire de solidarité

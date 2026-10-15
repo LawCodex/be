@@ -13,7 +13,7 @@ entry_into_force: 2025-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/09/25/2025007535/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBER 2025. - Decreet tot instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Kaapverdië betreffende het luchtvervoer, gedaan te Brussel op 26 oktober 2017

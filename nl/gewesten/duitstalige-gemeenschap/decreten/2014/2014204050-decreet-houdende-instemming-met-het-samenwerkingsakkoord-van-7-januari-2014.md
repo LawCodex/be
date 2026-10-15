@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/05/06/2014204050/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 7 januari 2014 tussen de federale staat, de gemeenschappen en de gewesten betreffende het strafrechtelijk beleid en het veiligheidsbeleid

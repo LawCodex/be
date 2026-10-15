@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035828/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2004 et mise à jour au 17-03-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant transformation de l'a.s.b.l. " de Rand " en une agence autonomisée externe de droit privé [et portant fixation les compétences de la province du Brabant flamand relatives à l'appui du " Vlaamse Rand "] &lt;Intitulé modifié par DCFL 2013-07-12/13 , art. 2, 002; En vigueur : 01-01-2014&gt; (TRADUCTION)

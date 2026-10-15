@@ -13,7 +13,7 @@ entry_into_force: 2022-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/12/2022041245/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2022. - Decreet houdende instemming met de overeenkomst van 17 mei 2008 tussen de Federale Bondsraad en de Regering van de Franse Gemeenschap van België op het gebied van de film, zoals gewijzigd op 24 april 2019 per Protocol

@@ -11,7 +11,7 @@ entry_into_force: 2004-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/08/2004015120/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2004. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Canada tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Ottawa op 23 mei 2002.

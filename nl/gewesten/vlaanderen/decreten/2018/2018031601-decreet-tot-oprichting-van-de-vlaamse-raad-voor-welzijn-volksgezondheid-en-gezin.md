@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/29/2018031601/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 03-08-2018 en tekstbijwerking tot 13-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2018. - Decreet tot oprichting van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin

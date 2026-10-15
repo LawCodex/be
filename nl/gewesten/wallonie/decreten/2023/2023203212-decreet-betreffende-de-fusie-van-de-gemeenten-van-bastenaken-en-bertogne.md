@@ -13,7 +13,7 @@ entry_into_force: 2023-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/19/2023203212/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2023. - Decreet betreffende de fusie van de gemeenten van Bastenaken en Bertogne

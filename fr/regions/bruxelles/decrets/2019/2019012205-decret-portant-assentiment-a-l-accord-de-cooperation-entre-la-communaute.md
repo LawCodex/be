@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019012205/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant assentiment à l'accord de coopération entre la Communauté flamande, la Commission communautaire française et la Commission communautaire commune relatif au guichet unique pour les aides à la mobilité dans la région bilingue de Bruxelles-Capitale

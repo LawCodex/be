@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/10/21/2010205649/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 03-11-2010 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2010. - Décret instituant Namur comme capitale de la Wallonie et siège des institutions politiques régionales

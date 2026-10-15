@@ -17,7 +17,7 @@ department: "Vlaamse Overheid"
 justel_notes:
   - "art. 2 ; 6 ; 14/1 ; 82 ; 82/1 ; 105 ; 111 ; 112 gewijzigd met ingang op een onbepaalde datum bij DVR 2019-04-26/31 , art. 134-150, 015; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 23-10-2014 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet betreffende de omgevingsvergunning

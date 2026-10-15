@@ -13,7 +13,7 @@ entry_into_force: 2006-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006036316/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de republiek Guatemala inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 14 april 2005.

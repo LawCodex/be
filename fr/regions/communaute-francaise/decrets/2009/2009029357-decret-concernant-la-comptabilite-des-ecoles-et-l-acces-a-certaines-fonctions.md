@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029357/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2009 et mise à jour au 25-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret concernant la comptabilité des écoles et l'accès à certaines fonctions de sélection et de promotion

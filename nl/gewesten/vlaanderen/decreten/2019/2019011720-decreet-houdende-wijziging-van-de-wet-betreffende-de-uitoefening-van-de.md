@@ -12,7 +12,7 @@ published: 2019-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/29/2019011720/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Decreet houdende wijziging van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015

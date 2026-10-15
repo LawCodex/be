@@ -13,7 +13,7 @@ entry_into_force: 2008-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/21/2008035176/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Decreet houdende uitvoering van de Verordening (EG) Nr. 1082/2006 van het Europees Parlement en de Raad van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS).

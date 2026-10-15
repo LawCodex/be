@@ -13,7 +13,7 @@ entry_into_force: 2007-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/08/2007035967/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2007. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van de Republiek Mozambique inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 18 juli 2006.

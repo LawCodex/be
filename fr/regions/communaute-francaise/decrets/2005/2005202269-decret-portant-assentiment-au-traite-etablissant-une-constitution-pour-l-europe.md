@@ -13,7 +13,7 @@ entry_into_force: 2005-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005202269/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret portant assentiment au Traité établissant une Constitution pour l'Europe, aux Protocoles annexés au Traité établissant une Constitution pour l'Europe, à ses Annexes et Acte final, faits à Rome, le 29 octobre 2004.

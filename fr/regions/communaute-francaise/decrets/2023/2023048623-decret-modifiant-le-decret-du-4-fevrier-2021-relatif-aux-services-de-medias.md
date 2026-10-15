@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/07/2023048623/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2023. - Décret modifiant le décret du 4 février 2021 relatif aux services de médias audiovisuels et aux services de partage de vidéos

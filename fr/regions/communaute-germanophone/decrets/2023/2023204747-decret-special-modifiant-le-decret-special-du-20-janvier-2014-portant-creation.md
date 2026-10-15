@@ -13,7 +13,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/26/2023204747/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2023. - Décret spécial modifiant le décret spécial du 20 janvier 2014 portant création d'un centre pour le développement sain des enfants et des jeunes

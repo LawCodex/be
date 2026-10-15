@@ -13,7 +13,7 @@ entry_into_force: 2022-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/12/2022032100/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2022. - Décret portant assentiment à l'Accord de coopération du 10 mars 2022 entre la Commission communautaire française et la Région wallonne créant FORMAFORM, Centre multi-partenarial de développement des compétences des professionnels de l'orientation, de la formation, de l'insertion socioprofessionnelle et de la validation des compétences

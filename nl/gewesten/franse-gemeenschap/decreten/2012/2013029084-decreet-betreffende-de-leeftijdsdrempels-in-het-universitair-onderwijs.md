@@ -12,7 +12,7 @@ published: 2013-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/20/2013029084/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2012. - Decreet betreffende de leeftijdsdrempels in het universitair onderwijs

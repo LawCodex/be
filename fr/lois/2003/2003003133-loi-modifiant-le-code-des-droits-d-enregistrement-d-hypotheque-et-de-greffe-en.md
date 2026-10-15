@@ -12,7 +12,7 @@ entry_into_force: 2003-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/26/2003003133/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2003. - Loi modifiant le Code des droits d'enregistrement, d'hypothèque et de greffe en ce qui concerne la réduction des droits d'expédition.

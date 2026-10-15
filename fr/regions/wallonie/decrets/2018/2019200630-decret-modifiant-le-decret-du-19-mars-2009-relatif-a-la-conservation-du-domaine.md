@@ -13,7 +13,7 @@ entry_into_force: 2019-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/20/2019200630/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2018. - Décret modifiant le décret du 19 mars 2009 relatif à la conservation du domaine public régional routier et des voies hydrauliques

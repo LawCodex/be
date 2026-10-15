@@ -12,7 +12,7 @@ published: 2009-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029400/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het decreet van 8 maart 2001 betreffende de promotie van de gezondheid bij de sportbeoefening, het dopingverbod en de preventie van doping in de Franse Gemeenschap

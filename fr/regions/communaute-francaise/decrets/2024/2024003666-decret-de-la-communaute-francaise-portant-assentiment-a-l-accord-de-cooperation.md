@@ -13,7 +13,7 @@ entry_into_force: 2024-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024003666/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Décret de la Communauté française portant assentiment à l'accord de coopération du 7 février 2024 modifiant l'accord de coopération du 19 mars 2020 entre l'Etat fédéral, la Communauté flamande, la Communauté française et la Communauté germanophone relatif aux compétences des Communautés et de l'Etat fédéral en matière de régime Tax Shelter pour les oeuvres audiovisuelles et les oeuvres scéniques et à l'échange d'informations

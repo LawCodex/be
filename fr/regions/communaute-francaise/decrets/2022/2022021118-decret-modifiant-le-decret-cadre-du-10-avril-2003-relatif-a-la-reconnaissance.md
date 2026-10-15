@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/20/2022021118/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-09-2022 et mise à jour au 27-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Décret modifiant le Décret-cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des Arts de la scène

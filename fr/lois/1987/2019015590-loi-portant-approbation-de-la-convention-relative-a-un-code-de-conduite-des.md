@@ -12,7 +12,7 @@ entry_into_force: 2020-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/07/17/2019015590/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1987. - Loi portant approbation de la Convention relative à un Code de conduite des conférences maritimes, et l'Annexe, faites à Genève, le 6 avril 1974

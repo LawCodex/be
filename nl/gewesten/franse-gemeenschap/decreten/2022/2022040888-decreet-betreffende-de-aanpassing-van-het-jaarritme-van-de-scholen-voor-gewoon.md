@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/31/2022040888/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2022 en tekstbijwerking tot 19-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2022. - Decreet betreffende de aanpassing van het jaarritme van de scholen voor gewoon, gespecialiseerd basis- en secundair onderwijs, secundair kunstonderwijs met beperkt leerplan en voor sociale promotie en betreffende de begeleidingsmaatregelen voor de vrijetijdsopvang

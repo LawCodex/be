@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/02/2021041519/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2021 et mise à jour au 25-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Décret modifiant le décret relatif à l'Energie du 8 mai 2009 transposant partiellement la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et transposant la directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité et modifiant la directive 2012/27/UE

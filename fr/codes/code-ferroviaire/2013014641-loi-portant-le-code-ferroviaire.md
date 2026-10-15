@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/30/2013014641/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2013 et mise à jour au 07-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2013. - Loi portant le Code ferroviaire

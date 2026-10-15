@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/03/2002033001/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2001. - Décret contenant le budget général de dépenses de la Communauté germanophone pour l'année budgétaire 2002. (Traduction). (ATTENTION : pour les modifications apportées par le 1er ajustement, voir (A HREF=article.pl?language=fr&lg\_txt=f&cn\_search=2004062440 target=\_blank)2004-06-24/40(/A)) (ATTENTION : pour les modifications apportées par le 2ieme ajustement, voir (A HREF=article.pl?language=fr&lg\_txt=f&cn\_search=2002111846 target=\_blank)2002-11-18/46(/A))

@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/12/2023206481/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2023. - Décret modifiant l'article 52 du décret du 2 mai 2019 modifiant diverses législations en matière de bail à ferme en ce qui concerne les dispositions transitoires

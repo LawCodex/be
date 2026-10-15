@@ -13,7 +13,7 @@ entry_into_force: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/29/2017203135/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2017. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition en matière d'impôts sur le revenu et à prévenir la fraude fiscale, et au protocole, faits à Oslo le 23 avril 2014

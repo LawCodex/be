@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019040588/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 07-03-2019 et mise à jour au 25-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2019. - Décret spécial portant création de l'organisme public chargé de la fonction de Pouvoir organisateur de l'Enseignement organisé par la Communauté française

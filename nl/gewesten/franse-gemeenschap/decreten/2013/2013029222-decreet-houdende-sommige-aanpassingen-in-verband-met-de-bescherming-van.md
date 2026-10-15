@@ -13,7 +13,7 @@ entry_into_force: 2013-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/07/2013029222/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2013. - Decreet houdende sommige aanpassingen, in verband met de bescherming van minderjarigen, van het gecoördineerde decreet van 26 maart 2009 betreffende de audiovisuele mediadiensten

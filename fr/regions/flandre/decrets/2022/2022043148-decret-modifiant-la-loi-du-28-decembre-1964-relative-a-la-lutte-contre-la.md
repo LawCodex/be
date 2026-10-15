@@ -13,7 +13,7 @@ entry_into_force: 2023-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/23/2022043148/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Décret modifiant la loi du 28 décembre 1964 relative à la lutte contre la pollution atmosphérique, le décret sur l'Energie du 8 mai 2009, le décret du 13 juillet 2012 contenant les dispositions accompagnant le deuxième ajustement du budget 2012 et le décret du 17 décembre 2021 modifiant le décret sur l'Energie du 8 mai 2009, en ce qui concerne les allocations au Fonds de l'Energie, les modifications relatives à la flexibilité et au partage d'énergie, le développement de la plateforme de données énergétiques et la révision des amendes administratives en matière d'exigences d'installation

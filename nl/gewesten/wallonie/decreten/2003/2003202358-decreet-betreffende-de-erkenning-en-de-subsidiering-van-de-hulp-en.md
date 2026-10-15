@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2003202358/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2008 en tekstbijwerking tot 25-06-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet betreffende de erkenning en de subsidiëring van de hulp- en zorgverleningsnetwerken en diensten gespecialiseerd in verslavingen. (Vertaling)

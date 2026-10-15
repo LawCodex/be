@@ -12,7 +12,7 @@ entry_into_force: 2025-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/01/14/2018030206/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2016. - Wet houdende instemming met de Samenwerkingsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, inzake de Europese satellietnavigatieprogramma's, gedaan te Brussel op 18 december 2013

@@ -13,7 +13,7 @@ entry_into_force: 2021-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/01/29/2021040398/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2021. - Décret modifiant les articles 5 et 42 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux

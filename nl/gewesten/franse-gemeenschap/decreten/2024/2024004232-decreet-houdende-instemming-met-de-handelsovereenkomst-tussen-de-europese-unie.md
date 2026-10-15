@@ -13,7 +13,7 @@ entry_into_force: 2024-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/18/2024004232/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Decreet houdende instemming met de handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, ondertekend in Brussel op 26 juni 2012

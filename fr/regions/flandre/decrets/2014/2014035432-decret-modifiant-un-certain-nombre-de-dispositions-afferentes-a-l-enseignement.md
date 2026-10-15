@@ -13,7 +13,7 @@ entry_into_force: 2014-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/21/2014035432/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2014. - Décret modifiant un certain nombre de dispositions afférentes à l'enseignement supérieur en vue de la facilitation de l'organisation et du contrôle de l'enseignement et de la réduction des charges de mise en oeuvre et de planning

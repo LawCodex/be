@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/05/28/2001033051/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2001. - Decreet tot eerste aanpassing van de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 2001 (VERTALING).

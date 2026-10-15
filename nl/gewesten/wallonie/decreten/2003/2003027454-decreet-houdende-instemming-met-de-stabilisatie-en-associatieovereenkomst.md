@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/06/2003027454/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2003. - Decreet houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en de Republiek Kroatië, anderzijds, en met de Slotakte, gedaan te Luxemburg, op 29 oktober 2001 (VERTALING).

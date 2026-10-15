@@ -13,7 +13,7 @@ entry_into_force: 2019-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/25/2019040207/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2019. - Décret portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, signée à Bruxelles le 18 février 2014

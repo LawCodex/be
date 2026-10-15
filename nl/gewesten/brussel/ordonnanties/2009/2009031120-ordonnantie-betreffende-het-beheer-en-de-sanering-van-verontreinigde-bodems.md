@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/05/2009031120/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2009 en tekstbijwerking tot 12-05-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2009. - Ordonnantie betreffende het beheer en de sanering van verontreinigde bodems

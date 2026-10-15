@@ -11,7 +11,7 @@ published: 1958-07-17
 entry_into_force: 1958-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/03/03/1958030310/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 1958. - Loi portant approbation de la Convention internationale (n° 96) concernant les bureaux de placement payants, adoptée à Genève, le 1er juillet 1949, par la Conférence générale de l'Organisation internationale du Travail, au cours de sa trente-deuxième session.

@@ -12,7 +12,7 @@ entry_into_force: 2005-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2005015104/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België, de Vlaamse Regering, de Regering van de Franse Gemeenschap en de Regering van het Waalse Gewest, enerzijds, en de Regering van de Franse Republiek, anderzijds, inzake de grensoverschrijdende samenwerking tussen territoriale gemeenschappen en lokale openbare lichamen, ondertekend te Brussel op 16 september 2002.

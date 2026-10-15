@@ -13,7 +13,7 @@ entry_into_force: 2004-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/17/2004029005/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2003. - Decreet houdende instemming met de wijziging van artikel 43, tweede lid, van het Verdrag inzake de rechten van het kind, aangenomen op de Conferentie van de Staten die Partij zijn bij het Verdrag op 12 december 1995. (Vertaling).

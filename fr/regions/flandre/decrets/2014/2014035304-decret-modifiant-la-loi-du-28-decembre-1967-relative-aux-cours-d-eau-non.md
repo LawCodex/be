@@ -13,7 +13,7 @@ entry_into_force: 2014-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/28/2014035304/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Décret modifiant la loi du 28 décembre 1967 relative aux cours d'eau non navigables, notamment la modification du classement et autres modifications diverses

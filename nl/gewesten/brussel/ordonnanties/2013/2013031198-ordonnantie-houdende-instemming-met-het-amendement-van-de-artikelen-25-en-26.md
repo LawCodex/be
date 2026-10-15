@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/03/28/2013031198/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2013. - Ordonnantie houdende instemming met : het Amendement van de artikelen 25 en 26 van het Verdrag van Helsinki van 17 maart 1992 inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, aangenomen op 28 november 2003 in Madrid

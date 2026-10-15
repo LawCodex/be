@@ -13,7 +13,7 @@ entry_into_force: 2022-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/09/29/2022042276/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBER 2022. - Decreet houdende diverse bepalingen betreffende sport, hulpverlening aan de jeugd en jeugd

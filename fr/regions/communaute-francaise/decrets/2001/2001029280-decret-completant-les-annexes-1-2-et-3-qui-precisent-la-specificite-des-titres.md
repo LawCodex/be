@@ -13,7 +13,7 @@ entry_into_force: 2001-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029280/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret complétant les annexes 1, 2 et 3 qui précisent la spécificité des titres requis prévus aux articles 5, 6 et 7 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française.

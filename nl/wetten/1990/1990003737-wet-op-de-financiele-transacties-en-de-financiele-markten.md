@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/12/04/1990003737/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 07-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 1990. - Wet op de financiële transacties en de financiële markten.

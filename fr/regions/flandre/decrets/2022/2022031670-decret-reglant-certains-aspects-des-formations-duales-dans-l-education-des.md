@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/25/2022031670/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-05-2022 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2022. - Décret réglant certains aspects des formations duales dans l'éducation des adultes

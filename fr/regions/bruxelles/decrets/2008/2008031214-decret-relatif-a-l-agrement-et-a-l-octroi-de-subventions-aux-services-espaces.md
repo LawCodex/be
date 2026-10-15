@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/04/17/2008031214/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 09-05-2008 et mise à jour au 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2008. - Décret relatif à l'agrément et à l'octroi de subventions aux services "Espaces-Rencontres".

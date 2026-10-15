@@ -12,7 +12,7 @@ entry_into_force: 2006-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/09/2006015017/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2006. - Loi portant assentiment à l'Accord sous forme d'échange de lettres relatif à la fiscalité des revenus de l'épargne entre le Royaume de Belgique et les îles Caymans, signé à Bruxelles le 5 octobre 2004 et à Grand Cayman le 12 avril 2005.

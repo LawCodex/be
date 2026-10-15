@@ -12,7 +12,7 @@ entry_into_force: 2025-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/06/21/2025004539/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2025. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et portant confirmation de deux arrêtés royaux sur l'énergie

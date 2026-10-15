@@ -13,7 +13,7 @@ entry_into_force: 2018-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/15/2018201401/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2018. - Decreet houdende instemming met het samenwerkingsakkoord gesloten te Brussel op 2 februari 2018 tussen de Federale Staat, het Waalse Gewest, het Vlaamse Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap over de coördinatie van het beleid voor de toekenning van arbeidsvergunningen en voor de toekenning van de verblijfsvergunning, alsook de normen betreffende de tewerkstelling en het verblijf van buitenlandse werknemers

@@ -13,7 +13,7 @@ entry_into_force: 2008-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/17/2008033024/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2008. - Décret portant assentiment au deuxième protocole relatif à la convention de La Haye de 1954 pour la protection des biens culturels en cas de conflit armé, fait à La Haye le 26 mars 1999 (TRADUCTION).

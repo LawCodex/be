@@ -13,7 +13,7 @@ entry_into_force: 2002-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/13/2002027594/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2002. - Decreet houdende instemming, wat betreft de overgedragen aangelegenheden, met het Samenwerkingsakkoord tussen, enerzijds, de Republiek Libanon en, anderzijds, de Franse Gemeenschap van België, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, opgemaakt te Brussel op 26 september 2000 (VERTALING).

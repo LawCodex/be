@@ -12,7 +12,7 @@ entry_into_force: 1998-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/05/1998003690/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 1997. - Wet houdende negende aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 1997 - Sectie 12 " Justitie ".

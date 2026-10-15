@@ -13,7 +13,7 @@ last_amended: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/12/28/1964122807/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 08-06-2004 en tekstbijwerking tot 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1964. - Wet betreffende de bestrijding van de luchtverontreiniging.

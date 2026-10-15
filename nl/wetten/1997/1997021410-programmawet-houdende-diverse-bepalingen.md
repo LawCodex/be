@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/12/1997021410/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-1997 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1997. - Programmawet houdende diverse bepalingen.

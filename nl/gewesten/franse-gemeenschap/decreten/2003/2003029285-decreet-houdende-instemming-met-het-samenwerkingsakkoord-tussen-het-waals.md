@@ -13,7 +13,7 @@ entry_into_force: 2003-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/08/2003029285/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Decreet houdende instemming met het Samenwerkingsakkoord tussen het Waals Gewest, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest betreffende de oprichting van de Waals-Brusselse Raad voor Internationale Samenwerking, gedaan te Namen op 1 juli 2002 (VERTALING).

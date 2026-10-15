@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014203606/justel"
 department: "Sécurité sociale - Intérieur - Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2014 et mise à jour au 26-07-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi portant création de l'Office des régimes particuliers de sécurité sociale

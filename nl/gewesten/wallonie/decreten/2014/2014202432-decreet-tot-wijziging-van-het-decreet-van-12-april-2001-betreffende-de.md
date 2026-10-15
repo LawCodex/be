@@ -13,7 +13,7 @@ entry_into_force: 2014-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202432/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt wat betreft de bevordering van hernieuwbare energiebronnen en kwaliteitswarmtekrachtkoppeling en tot wijziging van het decreet van 23 januari 2014 tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt

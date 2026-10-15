@@ -11,7 +11,7 @@ published: 1930-12-05
 entry_into_force: 1930-11-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1930/07/14/1930071450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1930. - Loi approuvant la Convention de conciliation, d'arbitrage et de règlement, judiciaire, conclue le 23 avril 1929 entre la Belgique et la Republique Tchécoslovaque.

@@ -13,7 +13,7 @@ entry_into_force: 2010-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/03/15/2010201918/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2010. - Décret-programme 2010

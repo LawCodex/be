@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/13/1995011196/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 07-06-1995 et mise à jour au 09-04-1998."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1995. - Loi modifiant la loi du 4 août 1992 relative au crédit hypothécaire. -

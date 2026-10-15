@@ -10,7 +10,7 @@ date: 2023-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/16/2023044302/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2023. - Wet tot wijziging van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid

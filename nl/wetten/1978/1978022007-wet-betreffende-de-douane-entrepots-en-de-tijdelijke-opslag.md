@@ -11,7 +11,7 @@ published: 1978-03-22
 entry_into_force: 1978-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/02/20/1978022007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1978. - Wet betreffende de douane-entrepots en de tijdelijke opslag.

@@ -12,7 +12,7 @@ entry_into_force: 2019-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/27/2019030253/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2019. - Loi ouvrant des crédits provisoires pour les mois d'avril, mai, juin et juillet 2019

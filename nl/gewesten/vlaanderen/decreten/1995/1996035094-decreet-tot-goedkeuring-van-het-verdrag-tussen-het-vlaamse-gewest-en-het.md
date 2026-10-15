@@ -13,7 +13,7 @@ entry_into_force: 1996-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996035094/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet tot goedkeuring van het Verdrag tussen het Vlaamse Gewest en het Koninkrijk der Nederlanden inzake de verruiming van de vaarweg in de Westerschelde en van de bijlagen A, B, C, D, E, F en G, ondertekend te Antwerpen op 17 januari 1995.

@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/21/2019040080/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Ordonnance modifiant le Code bruxellois du Logement afin de renforcer la lutte contre la discrimination dans l'accès au logement

@@ -12,7 +12,7 @@ entry_into_force: 2014-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2014011036/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet tot wijziging van de wet van 8 november 1993 tot bescherming van de titel van psycholoog (II)

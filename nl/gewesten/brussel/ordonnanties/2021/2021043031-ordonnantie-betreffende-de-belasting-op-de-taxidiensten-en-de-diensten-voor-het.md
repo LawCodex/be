@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/10/28/2021043031/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Ordonnantie betreffende de belasting op de taxidiensten en de diensten voor het verhuren van voertuigen met chauffeur op grond van de gezondheidscrisis van de COVID-19

@@ -16,7 +16,7 @@ department: "Service public de Wallonie"
 justel_notes:
   - "Entrée en vigueur fixée par DRW 2018-10-04/15 art. 28"
   - "Consultation des versions antérieures à partir du 31-12-2018 et mise à jour au 24-01-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 OCTOBRE 2018. - Code wallon du Bien-être des animaux

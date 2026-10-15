@@ -12,7 +12,7 @@ entry_into_force: 2007-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/27/2007015082/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Loi portant assentiment au Protocole portant amendement à la Convention européenne pour la répression du terrorisme, fait à Strasbourg le 15 mai 2003.

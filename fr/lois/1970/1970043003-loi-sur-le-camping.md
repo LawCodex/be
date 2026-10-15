@@ -13,7 +13,7 @@ last_amended: 1995-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/04/30/1970043003/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-01-1989 et mise à jour au 01-08-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 1970. - Loi sur le camping.

@@ -13,7 +13,7 @@ entry_into_force: 2007-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/22/2007203559/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2007. - Décret modifiant le Livre Ier du Code de l'Environnement en ce qui concerne la prévention et la réparation des dommages environnementaux.

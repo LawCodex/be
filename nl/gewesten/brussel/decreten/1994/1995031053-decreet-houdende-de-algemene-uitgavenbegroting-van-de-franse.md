@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/23/1995031053/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 18-02-1995 en tekstbijwerking tot 20-06-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1994. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1995 (VERTALING).

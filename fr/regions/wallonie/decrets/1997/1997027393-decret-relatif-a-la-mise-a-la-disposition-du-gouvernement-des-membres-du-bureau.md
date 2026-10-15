@@ -13,7 +13,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/24/1997027393/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1997. - Décret relatif à la mise à la disposition du Gouvernement des membres du Bureau du Plan et des membres du personnel administratif du Bureau du Plan transférés à la Région wallonne.

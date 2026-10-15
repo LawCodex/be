@@ -13,7 +13,7 @@ entry_into_force: 2015-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/20/2015036507/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2015. - Decreet tot wijziging van het Cultureel-erfgoeddecreet van 6 juli 2012 en het decreet van 20 december 2013 betreffende de Cultuurprijzen van de Vlaamse Gemeenschap

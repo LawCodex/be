@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/06/2022015326/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2022. - Ordonnantie tot invoering van een dotatie ter compensatie van de gemeentelasten verbonden aan de waterdistributie en aan de opvang van afvalwater

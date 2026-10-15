@@ -12,7 +12,7 @@ published: 2026-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/28/2026A00724/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2025. - Accord de coopération du 28 novembre 2025 entre la Région flamande et la Région wallonne pour l'échange d'informations sur le marché du travail et la promotion de la mobilité interrégionale des chercheurs d'emploi, pour les matières exercées en vertu de l'article 138 de la Constitution

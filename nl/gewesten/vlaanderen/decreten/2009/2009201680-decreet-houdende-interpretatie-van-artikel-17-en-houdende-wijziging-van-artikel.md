@@ -13,7 +13,7 @@ entry_into_force: 2009-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009201680/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende interpretatie van artikel 17 en houdende wijziging van artikel 48 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu

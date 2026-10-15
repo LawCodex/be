@@ -12,7 +12,7 @@ published: 2006-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/16/2006202777/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet betreffende de samenwerkingsovereenkomsten voor de organisatie van studies tussen universitaire instellingen en houdende diverse bepalingen inzake hoger onderwijs (VERTALING).

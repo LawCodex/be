@@ -13,7 +13,7 @@ entry_into_force: 2021-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/22/2021205615/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2021. - Décret portant assentiment au Traité instituant le Mécanisme européen de stabilité, signé à Bruxelles le 2 février 2012, et à l'Accord modifiant le Traité instituant le Mécanisme européen de Stabilité, signé à Bruxelles les 27 janvier et 8 février 2021

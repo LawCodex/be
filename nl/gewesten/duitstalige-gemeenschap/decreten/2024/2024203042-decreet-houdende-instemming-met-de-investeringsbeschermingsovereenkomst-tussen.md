@@ -13,7 +13,7 @@ entry_into_force: 2024-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/06/2024203042/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2024. - Decreet houdende instemming met de Investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, gedaan te Hanoi op 30 juni 2019

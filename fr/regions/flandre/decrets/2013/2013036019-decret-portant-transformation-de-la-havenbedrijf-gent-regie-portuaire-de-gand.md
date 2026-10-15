@@ -13,7 +13,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/11/2013036019/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 OCTOBRE 2013. - Décret portant transformation de la " Havenbedrijf Gent " (Régie portuaire de Gand) en une société anonyme de droit public

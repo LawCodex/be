@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014009214/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2014 en tekstbijwerking tot 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot wijziging van verschillende bepalingen met het oog op de oprichting van een nationaal register voor gerechtsdeskundigen en tot oprichting van een nationaal register voor beëdigd vertalers, tolken en vertalers-tolken

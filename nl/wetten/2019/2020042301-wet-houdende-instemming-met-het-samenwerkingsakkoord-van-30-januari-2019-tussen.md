@@ -12,7 +12,7 @@ entry_into_force: 2020-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/06/16/2020042301/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2019. - Wet houdende instemming met het Samenwerkingsakkoord van 30 januari 2019 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten

@@ -12,7 +12,7 @@ entry_into_force: 1994-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/12/1994009611/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1994. - Wet houdende aanvulling van artikel 792 van het Gerechtelijk Wetboek.

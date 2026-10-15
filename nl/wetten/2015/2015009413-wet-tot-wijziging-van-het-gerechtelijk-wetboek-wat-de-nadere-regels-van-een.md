@@ -12,7 +12,7 @@ entry_into_force: 2015-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015009413/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van het Gerechtelijk Wetboek wat de nadere regels van een opdracht van algemeen belang bij een internationale, supranationale of buitenlandse instelling betreft

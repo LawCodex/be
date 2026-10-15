@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/08/2019A12565/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 01-08-2019 et mise à jour au 11-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2019. - Code belge de la Navigation

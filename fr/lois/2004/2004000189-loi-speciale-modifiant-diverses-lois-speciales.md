@@ -12,7 +12,7 @@ entry_into_force: 2004-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/16/2004000189/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2004. - Loi spéciale modifiant diverses lois spéciales.

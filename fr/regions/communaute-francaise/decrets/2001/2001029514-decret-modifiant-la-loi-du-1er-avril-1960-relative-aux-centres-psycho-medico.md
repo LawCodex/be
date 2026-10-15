@@ -13,7 +13,7 @@ entry_into_force: 2001-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/15/2001029514/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2001. - Décret modifiant la loi du 1er avril 1960 relative aux centres psycho-médico-sociaux.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/28/2003022481/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 15-05-2003 et mise à jour au 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2003. - Loi relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale. (NOTE 1 : les termes "Office de Contrôle des Assurances", "Office de Contrôle" et "Office" sont remplacés par soit "CBFA", soit par "Commission bancaire, financière et des assurances", selon les art. 32 et 33 de l'AR 2003-03-25/34 ; En vigueur : 01-01-2004)

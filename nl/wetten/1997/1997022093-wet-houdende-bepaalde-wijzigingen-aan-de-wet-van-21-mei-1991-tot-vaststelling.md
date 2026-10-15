@@ -12,7 +12,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/17/1997022093/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1997. - Wet houdende bepaalde wijzigingen aan de wet van 21 mei 1991 tot vaststelling van een zeker verband tussen Belgische pensioenregelingen en die van instellingen van internationaal publiek recht.

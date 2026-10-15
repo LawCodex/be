@@ -12,7 +12,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/10/2006015016/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2006. - Loi portant assentiment à l'Accord conclu par échange de lettres entre les Gouvernements du Royaume de Belgique, du Royaume des Pays-Bas et du grand-duché de Luxembourg, d'une part, et le Gouvernement du Pérou, d'autre part, relatif à la suppression de l'obligation de visa concernant les passeports diplomatiques et spéciaux ou de service, signé à Lima les 12 et 23 février 2001.

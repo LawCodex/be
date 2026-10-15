@@ -12,7 +12,7 @@ published: 2025-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/16/2025005627/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2025. - Decreet tot wijziging van het decreet van 8 februari 1999 betreffende de ambten en bekwaamheidsbewijzen van de leden van het onderwijzend personeel in de Hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap

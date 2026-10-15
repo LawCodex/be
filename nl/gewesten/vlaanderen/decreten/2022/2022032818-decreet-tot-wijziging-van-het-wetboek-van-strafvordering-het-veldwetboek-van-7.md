@@ -13,7 +13,7 @@ entry_into_force: 2022-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/01/2022032818/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2022. - Decreet tot wijziging van het Wetboek van Strafvordering, het Veldwetboek van 7 oktober 1886, het Bosdecreet van 13 juni 1990, het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wat betreft het beschermen van de bossen en het natuurbeheer van openbare terreinen

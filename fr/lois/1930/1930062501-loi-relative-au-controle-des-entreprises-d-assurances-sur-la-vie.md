@@ -11,7 +11,7 @@ published: 1930-07-18
 entry_into_force: 1930-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1930/06/25/1930062501/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1930. - Loi relative au contrôle des entreprises d'assurances sur la vie.

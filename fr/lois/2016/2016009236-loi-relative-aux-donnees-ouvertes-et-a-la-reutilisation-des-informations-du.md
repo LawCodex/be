@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009236/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 03-06-2016 et mise à jour au 23-01-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2016. - [Loi relative aux données ouvertes et à la réutilisation des informations du secteur public] (Intitulé remplacé par L 2023-12-25/22 , art. 2, 003; En vigueur : 23-01-2024)

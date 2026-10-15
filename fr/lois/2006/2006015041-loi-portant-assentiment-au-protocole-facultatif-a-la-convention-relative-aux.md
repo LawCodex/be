@@ -12,7 +12,7 @@ entry_into_force: 2006-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/09/2006015041/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2006. - Loi portant assentiment au Protocole facultatif à la Convention relative aux droits de l'enfant, concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants, adopté à New York le 25 mai 2000, tel qu'il a été rectifié par le Secrétaire général de l'Organisation des Nations unies le 14 novembre 2000.

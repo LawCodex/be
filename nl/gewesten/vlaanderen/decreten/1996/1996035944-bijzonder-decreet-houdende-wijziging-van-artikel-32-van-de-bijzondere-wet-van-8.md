@@ -12,7 +12,7 @@ published: 1996-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996035944/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - Bijzonder decreet houdende wijziging van artikel 32 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

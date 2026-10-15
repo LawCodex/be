@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/03/1999021210/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-1999 en tekstbijwerking tot 10-09-1999"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 1999. - Wet houdende budgettaire en diverse bepalingen.

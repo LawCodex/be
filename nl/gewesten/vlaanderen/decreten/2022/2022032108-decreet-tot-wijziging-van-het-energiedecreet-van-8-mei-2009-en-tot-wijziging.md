@@ -13,7 +13,7 @@ entry_into_force: 2022-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/06/2022032108/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2022. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009 en tot wijziging van de Vlaamse Codex Wonen van 2021, wat de introductie van een geïntegreerde lening betreft

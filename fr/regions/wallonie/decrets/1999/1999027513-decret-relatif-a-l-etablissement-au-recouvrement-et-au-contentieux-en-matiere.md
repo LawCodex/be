@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027513/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 01-07-1999 et mise à jour au 03-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - [Décret relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes]. (Intitulé remplacé par DRW 2008-01-17/36 , art. 17, 004; En vigueur : 01-01-2008) (NOTE 1 : en ce qui concerne les modifications apportées par DRW 2009-12-10/27 ; voir dispositions transitoires : art. 103, alinéas 2 à 5) (NOTE 2 : les modifications apportées par DRW 2013-09-19/23 , art. 1, font partie de la réorganisation du présent CHAPITRE II)

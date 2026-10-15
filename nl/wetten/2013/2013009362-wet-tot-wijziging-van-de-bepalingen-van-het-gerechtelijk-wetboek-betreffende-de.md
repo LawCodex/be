@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/15/2013009362/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 25-07-2013 en tekstbijwerking tot 14-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2013. - Wet tot wijziging van de bepalingen van het Gerechtelijk Wetboek betreffende de tucht

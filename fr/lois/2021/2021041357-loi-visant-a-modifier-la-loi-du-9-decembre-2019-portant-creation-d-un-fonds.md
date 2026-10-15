@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/09/2021041357/justel"
 department: "Justice - Stratégie et Appui - Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2021. - Loi visant à modifier la loi du 9 décembre 2019 portant création d'un Fonds blouses blanches, afin d'en affecter les moyens à partir de l'année 2020

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/18/2010022158/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2010 et mise à jour au 10-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2009. - Loi modifiant la loi du 8 mars 2007 créant le Conseil consultatif fédéral des Aînés

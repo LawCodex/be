@@ -13,7 +13,7 @@ entry_into_force: 2023-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/03/2023015167/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2023. - Décret modifiant le décret du 22 décembre 2017 sur l'administration locale, en ce qui concerne la création d'une commission de déontologie auprès du conseil communal et du conseil de district

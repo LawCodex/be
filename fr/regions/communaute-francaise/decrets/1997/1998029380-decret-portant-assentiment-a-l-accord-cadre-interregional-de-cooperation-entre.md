@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1998029380/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant assentiment à l'Accord-cadre interrégional de coopération entre la Communauté européenne et ses Etats membres, d'une part, et le Marché commun du Sud (Mercosur) et ses Etats parties, d'autre part, y compris les annexes et déclarations des parties contractantes, faits à Madrid le 15 décembre 1995.

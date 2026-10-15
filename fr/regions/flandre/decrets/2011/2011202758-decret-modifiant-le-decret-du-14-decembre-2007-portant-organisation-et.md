@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/13/2011202758/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2011. - Décret modifiant le décret du 14 décembre 2007 portant organisation et fonctionnement des centres technologiques régionaux

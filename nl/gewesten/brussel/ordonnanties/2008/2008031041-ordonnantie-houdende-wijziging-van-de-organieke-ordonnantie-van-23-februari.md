@@ -13,7 +13,7 @@ entry_into_force: 2008-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/01/31/2008031041/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2008. - Ordonnantie houdende wijziging van de organieke ordonnantie van 23 februari 2006 houdende de bepalingen die van toepassing zijn op de begroting, de boekhouding en de controle.

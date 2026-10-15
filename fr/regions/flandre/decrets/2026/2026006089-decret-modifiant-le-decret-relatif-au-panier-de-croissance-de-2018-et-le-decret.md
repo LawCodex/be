@@ -13,7 +13,7 @@ entry_into_force: 2026-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/10/2026006089/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2026. - Décret modifiant le Décret relatif au Panier de croissance de 2018 et le décret du 7 juillet 2017 portant création d'une agence autonomisée externe de droit public Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale (" Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid "), établissant des normes d'autorisation pour les acteurs de paiement privés et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Enfance et Famille (" Kind en Gezin ")

@@ -12,7 +12,7 @@ entry_into_force: 2019-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/01/2019041027/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 1998. - Loi portant assentiment à la Convention n° 128 concernant les prestations d'invalidité, de vieillesse et de survivants, adoptée à Genève le 29 juin 1967 par la Conférence internationale du Travail lors de sa cinquante et unième session

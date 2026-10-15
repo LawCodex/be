@@ -13,7 +13,7 @@ entry_into_force: 2016-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/06/23/2016031471/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2016. - Ordonnantie houdende instemming met : de Overeenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en Georgië, anderzijds, betreffende een gemeenschappelijke luchtvaartruimte, gedaan te Brussel op 2 december 2010

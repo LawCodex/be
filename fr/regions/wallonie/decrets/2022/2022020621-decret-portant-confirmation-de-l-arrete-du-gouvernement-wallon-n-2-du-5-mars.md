@@ -13,7 +13,7 @@ entry_into_force: 2022-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/24/2022020621/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2022. - Décret portant confirmation de l'arrêté du Gouvernement wallon n° 2 du 5 mars 2022 mettant fin à l'utilisation du COVID Safe Ticket et limitant l'obligation du port du masque

@@ -12,7 +12,7 @@ entry_into_force: 2023-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/20/2023202193/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2023. - Wet tot wijziging van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten met het oog op de beperking van de duur van opeenvolgende arbeidsovereenkomsten voor een bepaalde tijd en vervangingsovereenkomsten

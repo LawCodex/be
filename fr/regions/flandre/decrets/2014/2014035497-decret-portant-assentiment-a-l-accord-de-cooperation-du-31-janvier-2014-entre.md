@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035497/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - DECRET portant assentiment à l'Accord de coopération du 31 janvier 2014 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'introduction du système de prélèvement kilométrique sur le territoire des trois régions et à la constitution d'un Partenariat interrégional de droit public Viapass sous forme d'une institution commune telle que visée à l'article 92bis, § 1er, de la loi spéciale du 8 août 1980 de réformes institutionnelles

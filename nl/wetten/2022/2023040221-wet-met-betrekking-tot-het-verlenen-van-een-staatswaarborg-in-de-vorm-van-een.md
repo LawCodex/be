@@ -12,7 +12,7 @@ entry_into_force: 2023-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/11/2023040221/justel"
 department: "Regie der Gebouwen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2022. - Wet met betrekking tot het verlenen van een staatswaarborg in de vorm van een borgstelling, in de context van een DBFM-overeenkomst, voor de bouw van twee nieuwe penitentiaire inrichtingen, respectievelijk te Leopoldsburg en Vresse-sur-Semois

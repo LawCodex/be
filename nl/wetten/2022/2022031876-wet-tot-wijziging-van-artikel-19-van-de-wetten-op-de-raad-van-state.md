@@ -12,7 +12,7 @@ entry_into_force: 2022-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/01/2022031876/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2022. - Wet tot wijziging van artikel 19 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973

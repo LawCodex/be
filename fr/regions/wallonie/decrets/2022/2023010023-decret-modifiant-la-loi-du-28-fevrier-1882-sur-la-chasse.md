@@ -13,7 +13,7 @@ entry_into_force: 2023-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/06/2023010023/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2022. - Décret modifiant la loi du 28 février 1882 sur la chasse

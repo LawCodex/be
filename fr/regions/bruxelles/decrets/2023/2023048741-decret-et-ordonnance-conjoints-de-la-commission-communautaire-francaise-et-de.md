@@ -13,7 +13,7 @@ entry_into_force: 2024-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/22/2023048741/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Décret et ordonnance conjoints de la Commission communautaire française et de la Commission communautaire commune relatifs à l'organisation de l'ambulatoire et de la première ligne social santé dans la région bilingue de Bruxelles-Capitale

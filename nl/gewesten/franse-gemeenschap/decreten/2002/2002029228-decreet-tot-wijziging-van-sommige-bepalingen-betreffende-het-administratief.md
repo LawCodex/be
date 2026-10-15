@@ -13,7 +13,7 @@ entry_into_force: 2002-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/27/2002029228/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2002. - Decreet tot wijziging van sommige bepalingen betreffende het administratief statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel, van het psychologisch personeel en van het sociaal personeel van de inrichtingen voor kleuter-, lager, bijzonder, middelbaar, technisch en kunstonderwijs van de Franse Gemeenschap, van de internaten die van deze instellingen afhangen en van de personeelsleden van de inspectiedienst belast met het toezicht op deze inrichtingen (VERTALING).

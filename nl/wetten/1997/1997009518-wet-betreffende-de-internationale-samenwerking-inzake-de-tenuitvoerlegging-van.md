@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/20/1997009518/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-1997 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1997. - Wet betreffende de internationale samenwerking inzake de tenuitvoerlegging van inbeslagnemingen en verbeurdverklaringen.

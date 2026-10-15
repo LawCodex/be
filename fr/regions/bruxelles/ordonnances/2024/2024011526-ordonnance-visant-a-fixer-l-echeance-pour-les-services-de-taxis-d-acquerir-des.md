@@ -13,7 +13,7 @@ entry_into_force: 2024-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/12/12/2024011526/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2024. - Ordonnance visant à fixer l'échéance pour les services de taxis d'acquérir des véhicules zéro émission au 1er janvier 2027

@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/02/17/1998015170/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1993. - Wet houdende goedkeuring van volgende Internationale Akten : 1. Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek inzake de afbakening van de territoriale zee, 2. Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek inzake de afbakening van het continentaal plat, ondertekend te Brussel op 8 oktober 1990. (NOTA 1 : deze wet is al gepubliceerd in het B.St. 01-12-1993, allen deze publicatie is authentiek ; de publicatie van 18-12-1998 dient beschouwd te worden als van onwaarde en zonder gevolg) (NOTA 2 : de wet werd onder de publicatiedatum van 01-12-1993 niet opgenomen; gelieve die wet te raadplegen onder de publicatiedatum van 18-12-1998).

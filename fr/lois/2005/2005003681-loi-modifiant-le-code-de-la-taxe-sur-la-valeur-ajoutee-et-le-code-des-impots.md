@@ -12,7 +12,7 @@ entry_into_force: 2005-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005003681/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi modifiant le Code de la taxe sur la valeur ajoutée et le Code des impôts sur les revenus 1992, en vue de lutter contre l'organisation d'insolvabilité dans le cadre de cessions frauduleuses d'un ensemble de biens.

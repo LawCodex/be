@@ -12,7 +12,7 @@ entry_into_force: 2000-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/24/2000015102/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2000. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République tchèque tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Bruxelles le 16 décembre 1996.

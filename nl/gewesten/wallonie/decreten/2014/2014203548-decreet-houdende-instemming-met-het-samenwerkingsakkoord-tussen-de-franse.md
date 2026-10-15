@@ -13,7 +13,7 @@ entry_into_force: 2014-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/24/2014203548/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, de Franse Gemeenschapscommissie en het Waalse Gewest betreffende de oprichting van een Commissie voor Beroepsregels en Ethiek voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

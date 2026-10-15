@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036322/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2006 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret relatif à l'enseignement XVI. (TRADUCTION)

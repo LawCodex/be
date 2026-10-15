@@ -12,7 +12,7 @@ entry_into_force: 2022-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/05/2022032713/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2022. - Loi portant des dispositions financières diverses

@@ -13,7 +13,7 @@ entry_into_force: 2023-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/19/2023203212/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2023. - Décret relatif à la fusion des communes de Bastogne et de Bertogne

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020042448/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Décret modifiant le décret du 15 février 2019 sur le droit en matière de délinquance juvénile, en ce qui concerne la procédure préparatoire

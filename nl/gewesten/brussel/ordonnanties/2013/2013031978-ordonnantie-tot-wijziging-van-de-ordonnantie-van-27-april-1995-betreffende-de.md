@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/11/21/2013031978/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 03-12-2013 en tekstbijwerking tot 16-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2013. - Ordonnantie tot wijziging van de ordonnantie van 27 april 1995 betreffende de taxidiensten en de diensten voor het verhuren van voertuigen met chauffeur

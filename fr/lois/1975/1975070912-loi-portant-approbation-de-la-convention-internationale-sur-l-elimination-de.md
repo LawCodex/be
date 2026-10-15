@@ -11,7 +11,7 @@ published: 1975-12-11
 entry_into_force: 1975-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/07/09/1975070912/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1975. - Loi portant approbation de la Convention internationale sur l'élimination de toutes les formes de discrimination raciale, faite à New York le 7 mars 1966.

@@ -12,7 +12,7 @@ entry_into_force: 2008-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2008022375/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Loi confirmant l'arrêté royal du 19 mars 2007 en application de l'article 46 de la loi du 13 décembre 2006 portant des dispositions diverses en matière de santé.

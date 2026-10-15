@@ -12,7 +12,7 @@ entry_into_force: 2015-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/26/2014015240/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2014. - Loi portant assentiment au Traité entre le Royaume de Belgique et le Royaume des Pays-Bas pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, fait à Bruxelles le 6 décembre 2010

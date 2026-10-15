@@ -13,7 +13,7 @@ entry_into_force: 2016-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/03/2016201315/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2016. - Decreet houdende uitvoering van de resoluties van de Vrouwenconferentie van de Verenigde Naties die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het geheel van de gewestelijke beleidslijnen, voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

@@ -13,7 +13,7 @@ entry_into_force: 2024-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024203549/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant le décret du 8 février 2018 relatif à la gestion et au paiement des prestations familiales

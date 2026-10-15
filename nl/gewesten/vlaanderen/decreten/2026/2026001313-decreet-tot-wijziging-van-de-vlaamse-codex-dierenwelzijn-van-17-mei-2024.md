@@ -13,7 +13,7 @@ entry_into_force: 2026-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/01/30/2026001313/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2026. - Decreet tot wijziging van de Vlaamse Codex Dierenwelzijn van 17 mei 2024

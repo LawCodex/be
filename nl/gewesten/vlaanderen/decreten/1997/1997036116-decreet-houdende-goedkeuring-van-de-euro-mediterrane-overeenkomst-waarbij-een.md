@@ -11,7 +11,7 @@ date: 1997-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997036116/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - Decreet houdende goedkeuring van de Euro-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten enerzijds, en de republiek Tunesië anderzijds, met de bijlagen I, II, III, IV, V, VI, VII, de protocollen 1, 2, 3, 4 en 5, en de slotakte, ondertekend in Brussel op 17 juli 1995.

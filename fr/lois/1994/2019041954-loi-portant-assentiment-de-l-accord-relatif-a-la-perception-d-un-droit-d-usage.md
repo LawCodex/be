@@ -11,7 +11,7 @@ published: 2019-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/27/2019041954/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 1994. - Loi portant assentiment de l'Accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994, entre les Gouvernements de la République fédérale d'Allemagne, du Royaume de Belgique, du Royaume du Danemark, du grand-duché de Luxembourg et du Royaume des Pays-Bas et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993. - Dénonciation par la Belgique

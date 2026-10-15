@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/07/10/1978071001/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2026 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1978. - Wet houdende goedkeuring van het Verdrag tot verbod van de ontwikkeling, de produktie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens, opgemaakt te Londen, Moskou en Washington op 10 april 1972. &lt;Zie CN : 1972-04-10/30&gt;

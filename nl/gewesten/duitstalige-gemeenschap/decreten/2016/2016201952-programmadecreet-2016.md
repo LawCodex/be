@@ -13,7 +13,7 @@ entry_into_force: 2016-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/02/22/2016201952/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2016. - Programmadecreet 2016

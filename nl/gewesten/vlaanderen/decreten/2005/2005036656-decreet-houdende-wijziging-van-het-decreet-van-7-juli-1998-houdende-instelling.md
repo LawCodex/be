@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/09/2005036656/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2005. - Decreet houdende wijziging van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst.

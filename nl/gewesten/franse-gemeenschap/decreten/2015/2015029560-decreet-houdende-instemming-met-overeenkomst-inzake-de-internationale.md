@@ -11,7 +11,7 @@ date: 2015-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/22/2015029560/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2015. - Decreet houdende instemming met Overeenkomst inzake de Internationale Opsporingsdienst en met de Partnerschapsovereenkomst inzake de relaties tussen de Federale Archieven van de Bondsrepubliek Duitsland en de Internationale Opsporingsdienst, ondertekend te Berlijn op 9 december 2011

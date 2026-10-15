@@ -12,7 +12,7 @@ published: 2024-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024008993/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant divers décrets relatifs à l'environnement

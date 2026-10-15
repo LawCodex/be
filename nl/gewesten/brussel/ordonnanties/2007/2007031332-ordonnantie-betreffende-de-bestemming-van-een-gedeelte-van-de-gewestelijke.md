@@ -12,7 +12,7 @@ published: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/19/2007031332/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Ordonnantie betreffende de bestemming van een gedeelte van de Gewestelijke grondreserves voor bepaalde uitrustingen.

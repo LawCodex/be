@@ -12,7 +12,7 @@ entry_into_force: 2006-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/01/2006009551/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2006. - Wet tot wijziging van het Gerechtelijk Wetboek met betrekking tot rechtsbijstand.

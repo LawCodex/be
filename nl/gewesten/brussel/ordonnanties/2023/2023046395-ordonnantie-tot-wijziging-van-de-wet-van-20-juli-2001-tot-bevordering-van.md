@@ -12,7 +12,7 @@ published: 2023-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/10/13/2023046395/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2023. - Ordonnantie tot wijziging van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen

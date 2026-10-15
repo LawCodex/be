@@ -13,7 +13,7 @@ entry_into_force: 2026-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026004916/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2026. - Décret visant à garantir la prévention, l'accompagnement et la protection des étudiantes et des étudiants contre toutes les formes de harcèlements, de violences sexistes et sexuelles et de discriminations dans les établissements d'enseignement supérieur de plein exercice

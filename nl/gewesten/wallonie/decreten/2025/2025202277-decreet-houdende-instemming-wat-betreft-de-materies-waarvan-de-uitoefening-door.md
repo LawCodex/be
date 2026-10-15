@@ -13,7 +13,7 @@ entry_into_force: 2025-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/09/2025202277/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2025. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met het Raamakkoord tussen de Regering van het Koninkrijk België en het Groothertogdom Luxemburg betreffende de grensoverschrijdende samenwerking inzake gezondheidszorg, ondertekend te Brussel op 29 maart 2023

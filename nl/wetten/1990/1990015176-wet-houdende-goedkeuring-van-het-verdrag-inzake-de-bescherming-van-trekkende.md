@@ -12,7 +12,7 @@ entry_into_force: 1991-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/04/27/1990015176/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1990. - Wet houdende goedkeuring van het Verdrag inzake de bescherming van trekkende wilde diersoorten, en van de Bijlagen I en II, opgemaakt te Bonn op 23 juni 1979.

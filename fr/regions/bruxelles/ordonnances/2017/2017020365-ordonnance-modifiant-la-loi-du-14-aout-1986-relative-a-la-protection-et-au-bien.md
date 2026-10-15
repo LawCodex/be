@@ -13,7 +13,7 @@ entry_into_force: 2017-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/05/11/2017020365/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2017. - Ordonnance modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux

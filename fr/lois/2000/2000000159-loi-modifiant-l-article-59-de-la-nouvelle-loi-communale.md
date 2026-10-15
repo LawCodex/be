@@ -12,7 +12,7 @@ entry_into_force: 2000-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/10/2000000159/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2000. - Loi modifiant l'article 59 de la nouvelle loi communale.

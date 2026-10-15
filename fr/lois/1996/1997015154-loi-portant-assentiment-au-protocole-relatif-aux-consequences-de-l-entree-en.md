@@ -12,7 +12,7 @@ entry_into_force: 1997-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/27/1997015154/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1996. - Loi portant assentiment au Protocole relatif aux conséquences de l'entrée en vigueur de la Convention de Dublin pour certaines dispositions de la Convention d'application de l'Accord de Schengen, fait à Bonn, le 26 avril 1994.

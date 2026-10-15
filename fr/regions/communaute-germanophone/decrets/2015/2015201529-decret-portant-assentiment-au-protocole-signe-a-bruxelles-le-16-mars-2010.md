@@ -13,7 +13,7 @@ entry_into_force: 2015-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/02/2015201529/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2015. - Décret portant assentiment au Protocole signé à Bruxelles le 16 mars 2010 modifiant la Convention entre le Royaume de Belgique et la République hellénique tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Athènes le 25 mai 2004

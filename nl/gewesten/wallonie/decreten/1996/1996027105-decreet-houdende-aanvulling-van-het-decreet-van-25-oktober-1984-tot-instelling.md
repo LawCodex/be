@@ -13,7 +13,7 @@ entry_into_force: 1996-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/01/25/1996027105/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 1996. - Decreet houdende aanvulling van het decreet van 25 oktober 1984 tot instelling van de "Société régionale wallonne du Logement" (Waalse Gewestelijke Huisvestingsmaatschappij) (VERTALING).

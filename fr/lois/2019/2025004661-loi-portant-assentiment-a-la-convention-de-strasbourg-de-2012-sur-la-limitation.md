@@ -12,7 +12,7 @@ entry_into_force: 2025-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/28/2025004661/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2019. - Loi portant assentiment à la Convention de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure (CLNI 2012), faite à Strasbourg le 27 septembre 2012. - Addendum

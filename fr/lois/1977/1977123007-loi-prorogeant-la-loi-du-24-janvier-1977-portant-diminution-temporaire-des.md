@@ -11,7 +11,7 @@ published: 1978-01-27
 entry_into_force: 1978-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/12/30/1977123007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1977. - Loi prorogeant la loi du 24 janvier 1977 portant diminution temporaire des cotisations patronales de sécurité sociale en vue de la promotion de l'emploi.

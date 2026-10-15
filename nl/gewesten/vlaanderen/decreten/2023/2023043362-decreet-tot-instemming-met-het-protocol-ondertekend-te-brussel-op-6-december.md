@@ -13,7 +13,7 @@ entry_into_force: 2023-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/23/2023043362/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2023. - Decreet tot instemming met het Protocol, ondertekend te Brussel op 6 december 2022 tot wijziging van het Protocol inzake voorrechten en immuniteiten van de Benelux Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen)

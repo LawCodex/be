@@ -13,7 +13,7 @@ entry_into_force: 2016-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/28/2016031357/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2016. - Decreet tot instemming met het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie betreffende de kosteloze detachering naar ministeriële kabinetten

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/22/2006037074/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2006. - Decreet tot wijziging van het decreet van 18 juli 2003 tot regeling van strategische adviesraden, van diverse oprichtingsdecreten van strategische adviesraden en van het kaderdecreet Bestuurlijk Beleid.

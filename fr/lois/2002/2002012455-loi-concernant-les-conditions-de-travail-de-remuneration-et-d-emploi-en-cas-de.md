@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/05/2002012455/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2002 et mise à jour au 11-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2002. - [Loi concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci.]&lt;L 2016-12-11/03 , art. 5, 004; En vigueur : 30-12-2016&gt;

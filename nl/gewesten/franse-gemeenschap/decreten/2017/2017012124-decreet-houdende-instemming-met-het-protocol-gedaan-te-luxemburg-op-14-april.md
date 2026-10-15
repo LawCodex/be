@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017012124/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende instemming met het Protocol, gedaan te Luxemburg op 14 april 2014, tussen de Republiek Polen en het Koninkrijk België houdende wijziging van de Overeenkomst tussen de Republiek Polen en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Warschau op 20 augustus 2001

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/06/2024001635/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 20-02-2024 et mise à jour au 20-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2024. - Loi modifiant le Code de la taxe sur la valeur ajoutée et le Code des impôts sur les revenus 1992 en ce qui concerne l'introduction de l'obligation de facturation électronique

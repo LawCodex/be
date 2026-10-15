@@ -13,7 +13,7 @@ entry_into_force: 2013-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/03/2013035443/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2013. - Décret portant assentiment à l'accord entre l'Union européenne et ses Etats membres, d'une part, et la Géorgie, d'autre part, sur la création d'un espace aérien commun, signé à Bruxelles le 2 décembre 2010

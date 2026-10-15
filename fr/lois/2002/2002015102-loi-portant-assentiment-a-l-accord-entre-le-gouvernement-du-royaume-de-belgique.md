@@ -12,7 +12,7 @@ entry_into_force: 2002-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/15/2002015102/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2002. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Fédération de Russie relatif au transport aérien, et à l'Annexe, signés à Bruxelles le 8 décembre 1993.

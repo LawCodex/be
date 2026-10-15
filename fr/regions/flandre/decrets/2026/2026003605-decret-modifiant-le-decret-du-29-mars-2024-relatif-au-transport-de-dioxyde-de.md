@@ -13,7 +13,7 @@ entry_into_force: 2026-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/24/2026003605/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2026. - Décret modifiant le décret du 29 mars 2024 relatif au transport de dioxyde de carbone par canalisations en Région flamande, en ce qui concerne la mise en service et la préparation à la commercialisation accélérées des infrastructures de canalisations

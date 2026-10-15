@@ -12,7 +12,7 @@ entry_into_force: 1997-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1997015142/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Arabische Republiek Egypte tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Kaïro op 3 januari 1991.

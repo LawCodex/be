@@ -14,7 +14,7 @@ end_of_validity: 2026-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026006162/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret contenant l'ajustement du budget des dépenses de la Communauté française pour l'année budgétaire 2026

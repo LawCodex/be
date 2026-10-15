@@ -12,7 +12,7 @@ entry_into_force: 1994-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/04/29/1994021224/justel"
 department: "Onderwijs - EDUCATION NATIONALE"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1994. - Wet tot uitvoering van de in toepassing van het Verdrag tot oprichting van de Europese Gemeenschap uitgevaardigde verordeningen, richtlijnen en beschikkingen inzake diploma's, getuigschriften en andere titels vereist voor het uitoefenen van een beroep of een beroepsactiviteit.

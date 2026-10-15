@@ -13,7 +13,7 @@ entry_into_force: 2025-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/04/17/2025201369/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2025. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en tot wijziging van het decreet van 19 januari 2017 betreffende de tariefmethodologie die van toepassing is op gas- en elektriciteitsdistributienetbeheerders, met het oog op de gedeeltelijke omzetting van Richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU

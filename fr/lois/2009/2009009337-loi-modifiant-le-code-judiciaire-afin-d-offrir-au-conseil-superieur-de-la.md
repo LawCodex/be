@@ -12,7 +12,7 @@ entry_into_force: 2009-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/28/2009009337/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2009. - Loi modifiant le Code judiciaire afin d'offrir au Conseil supérieur de la Justice la possibilité de confier à des experts externes la préparation et la correction de la partie écrite de l'examen d'aptitude professionnelle et du concours d'admission au stage judiciaire

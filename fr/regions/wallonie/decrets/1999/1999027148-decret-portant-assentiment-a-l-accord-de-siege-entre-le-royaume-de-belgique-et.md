@@ -13,7 +13,7 @@ entry_into_force: 1994-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027148/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1999. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'autorité de surveillance de l'Association européenne de Libre échange, fait à Bruxelles le 22 décembre 1994.

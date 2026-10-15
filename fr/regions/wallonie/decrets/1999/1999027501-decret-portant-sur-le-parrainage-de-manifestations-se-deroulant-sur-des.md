@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/06/10/1999027501/justel"
 department: "Région Wallonne"
 justel_note: "par son arrêt n° 36/2001 du 13-03-2001, M.B. 27-03-2001, p. 10019-26, la Cour d'arbitrage a annulé ledit décret ; Abrogé : 01-01-1999."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1999. - Décret portant sur le parrainage de manifestations se déroulant sur des infrastructures appartenant à la Région wallonne ou subsidiées par elle.

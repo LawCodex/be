@@ -13,7 +13,7 @@ entry_into_force: 2018-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/20/2018206487/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2018. - Bijzonder decreet tot interpretatie van het bijzonder decreet van 11 mei 2018 tot wijziging van artikel 28 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen met het oog op de verplichting van een gelijke alternerende vertegenwoordiging van mannen en vrouwen op de kandidatenlijsten voor de verkiezingen van de leden van het Waalse Parlement

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019041206/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2019 et mise à jour au 11-09-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret relatif aux organismes assureurs de la Communauté française

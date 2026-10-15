@@ -13,7 +13,7 @@ entry_into_force: 2004-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2004200063/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant assentiment à l'Accord établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part, et à l'Acte final, faits à Bruxelles le 18 novembre 2002.

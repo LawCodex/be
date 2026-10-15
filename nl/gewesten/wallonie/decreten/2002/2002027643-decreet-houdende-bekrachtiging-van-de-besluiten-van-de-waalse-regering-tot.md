@@ -13,7 +13,7 @@ entry_into_force: 2002-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/04/2002027643/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2002. - Decreet houdende bekrachtiging van de besluiten van de Waalse Regering tot uitvoering van artikel 4 van het decreet van 18 juli 2001 betreffende de invoering van dein de regelgeving en in de computerprogramma's van het Waalse Gewest, en houdende wijziging, met het oog op de invoering van de euro, van de economische wetgeving en de wetgeving inzake jacht en bossen (VERTALING).

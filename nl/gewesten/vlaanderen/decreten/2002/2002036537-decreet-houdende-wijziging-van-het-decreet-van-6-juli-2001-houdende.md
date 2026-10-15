@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/29/2002036537/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2002. - [Decreet houdende wijziging van het decreet van 6 juli 2001 houdende ondersteuning van de federatie van erkende organisaties voor volksontwikkelingswerk.] (Erratum, zie B.St. 22.01.2003, p. 2148)

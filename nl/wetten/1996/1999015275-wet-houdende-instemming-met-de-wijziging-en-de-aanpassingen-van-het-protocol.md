@@ -11,7 +11,7 @@ published: 2000-01-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/04/1999015275/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 1996. - Wet houdende instemming met de wijziging en de aanpassingen van het protocol van Montreal betreffende stoffen die de ozonlaag afbreken, aangenomen te Kopenhagen op 25 november 1992. - Addendum.

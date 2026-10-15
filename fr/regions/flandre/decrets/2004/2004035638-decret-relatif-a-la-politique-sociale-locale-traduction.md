@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035638/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2012 et mise à jour au 26-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret relatif à la politique sociale locale (TRADUCTION)

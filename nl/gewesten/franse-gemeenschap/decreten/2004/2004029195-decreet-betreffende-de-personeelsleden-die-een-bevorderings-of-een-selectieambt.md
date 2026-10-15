@@ -13,7 +13,7 @@ entry_into_force: 2004-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029195/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet betreffende de personeelsleden die een bevorderings- of een selectieambt tijdelijk uitoefenen zonder onderbreking sedert 1 januari 2004 in het onderwijs voor sociale promotie van de Franse Gemeenschap (VERTALING).

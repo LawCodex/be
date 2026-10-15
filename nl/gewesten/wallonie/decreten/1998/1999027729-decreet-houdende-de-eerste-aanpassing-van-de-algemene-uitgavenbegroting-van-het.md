@@ -13,7 +13,7 @@ entry_into_force: 1999-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/16/1999027729/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1998. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 1998 (VERTALING).

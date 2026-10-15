@@ -12,7 +12,7 @@ entry_into_force: 2003-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/11/18/2003015224/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2003. - Loi portant assentiment à la Convention additionnelle, signée à Bruxelles le 5 novembre 2002, à la Convention entre le Royaume de Belgique et la République fédérale d'Allemagne en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris la contribution des patentes et les impôts fonciers, et à son Protocole final, signés à Bruxelles le 11 avril 1967.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014003159/justel"
 department: "Budget et Contrôle de la gestion"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2014 et mise à jour au 02-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant, en vue de transposer partiellement la directive 2011/85/UE, la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral et contenant des dispositions diverses en matière de fonds budgétaires

@@ -13,7 +13,7 @@ entry_into_force: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/27/2007035775/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - Decreet tot wijziging van het decreet van 3 februari 1998 houdende vaststelling van het wapen van privé-personen en instellingen.

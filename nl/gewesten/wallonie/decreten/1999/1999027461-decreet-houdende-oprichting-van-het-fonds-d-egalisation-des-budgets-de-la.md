@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027461/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-2007 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet houdende oprichting van het " Fonds d'égalisation des budgets de la Région wallonne " (Egalisatiefonds voor begrotingen van het Waalse Gewest) (VERTALING)

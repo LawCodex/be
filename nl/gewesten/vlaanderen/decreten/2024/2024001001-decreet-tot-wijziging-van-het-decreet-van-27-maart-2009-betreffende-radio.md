@@ -13,7 +13,7 @@ entry_into_force: 2024-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/26/2024001001/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2024. - Decreet tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie tot gedeeltelijke uitvoering van de digitaledienstenverordening

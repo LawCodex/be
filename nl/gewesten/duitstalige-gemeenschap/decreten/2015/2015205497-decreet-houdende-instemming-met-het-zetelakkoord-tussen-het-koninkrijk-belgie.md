@@ -13,7 +13,7 @@ entry_into_force: 2015-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/02/2015205497/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBER 2015. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Benelux Unie, gedaan te Brussel op 3 februari 2012

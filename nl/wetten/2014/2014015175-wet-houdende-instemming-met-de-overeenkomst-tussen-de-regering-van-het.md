@@ -11,7 +11,7 @@ entry_into_force: 2015-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014015175/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet houdende instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Franse Republiek betreffende de grensoverschrijdende samenwerking in politie- en douanezaken, gedaan te Doornik, op 18 maart 2013

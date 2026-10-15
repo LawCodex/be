@@ -13,7 +13,7 @@ entry_into_force: 2012-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/29/2012201996/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2012. - Décret modifiant le décret du 11 mars 1999 relatif au permis d'environnement

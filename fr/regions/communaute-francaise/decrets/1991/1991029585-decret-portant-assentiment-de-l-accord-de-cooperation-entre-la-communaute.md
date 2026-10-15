@@ -13,7 +13,7 @@ entry_into_force: 1991-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/07/19/1991029585/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1991. - Décret portant assentiment de l'Accord de coopération entre la Communauté française de Belgique et la République du Burundi, fait à Bruxelles le 8 mai 1991.

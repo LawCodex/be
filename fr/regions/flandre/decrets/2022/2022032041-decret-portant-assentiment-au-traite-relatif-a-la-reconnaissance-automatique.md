@@ -13,7 +13,7 @@ entry_into_force: 2022-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/29/2022032041/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2022. - Décret portant assentiment au traité relatif à la reconnaissance automatique des diplômes dans l'enseignement supérieur, fait à Bruxelles le 14 septembre 2021

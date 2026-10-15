@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/17/2016036195/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-08-2016 et mise à jour au 18-08-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2016. - Décret relatif à l'enseignement XXVI

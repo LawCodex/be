@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/03/2019A30854/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-09-2019 et mise à jour au 10-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Code de l'enseignement fondamental et de l'enseignement secondaire

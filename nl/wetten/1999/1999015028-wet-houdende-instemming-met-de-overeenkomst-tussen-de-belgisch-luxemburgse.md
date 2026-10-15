@@ -11,7 +11,7 @@ published: 1999-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/18/1999015028/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 1999. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek van Letland inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 27 maart 1996.

@@ -13,7 +13,7 @@ entry_into_force: 2011-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/27/2011202960/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2011. - Decreet houdende wijziging van de wet van 5 mei 1936 tot vaststelling van het statuut der havenkapiteins

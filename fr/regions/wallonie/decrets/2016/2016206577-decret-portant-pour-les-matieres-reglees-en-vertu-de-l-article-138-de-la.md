@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016206577/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant, pour les matières réglées en vertu de l'article 138 de la Constitution, abrogation du décret du 19 décembre 2002 relatif aux chèques-formation à la création d'entreprise dans le cadre de l'octroi d'aides, au moyen d'un portefeuille intégré d'aides en Région wallonne, aux porteurs de projets et aux petites et moyennes entreprises pour rémunérer des services promouvant l'entrepreneuriat ou la croissance, et constituant une banque de données de sources authentiques liées à ce portefeuille intégré

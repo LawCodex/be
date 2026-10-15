@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/04/01/2021030918/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2021. - Decreet tot wijziging van artikelen 2 en 3 van het decreet van 1 oktober 2020 houdende de organisatie tot 31 maart 2021 van de vergaderingen van de organen van de openbare centra voor maatschappelijk welzijn

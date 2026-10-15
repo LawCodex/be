@@ -12,7 +12,7 @@ published: 2009-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/26/2009029295/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Decreet tot herwaardering van het kwalificatieonderwijs door de versterking van het verplicht karakter van kwalificatieproeven in verband met een opleidingsprofiel

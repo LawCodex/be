@@ -12,7 +12,7 @@ entry_into_force: 2005-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/28/2005011224/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2005. - Wet tot wijziging van de wet van 28 maart 1984 op de uitvindingsoctrooien, wat betreft de octrooieerbaarheid van de biotechnologische uitvindingen.

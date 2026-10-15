@@ -12,7 +12,7 @@ entry_into_force: 1996-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/18/1996003372/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1996. - Wet tot wijziging van de wet van 24 augustus 1939 op de Nationale Bank van België en van de wet van 2 januari 1991 betreffende de markt van de effecten van de overheidsschuld en het monetair beleidsinstrumentarium.

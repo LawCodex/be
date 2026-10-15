@@ -12,7 +12,7 @@ published: 2019-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/22/2019012255/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2019. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, de Codex Secundair Onderwijs van 17 december 2010, de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 en het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, wat betreft de afstemming op het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid

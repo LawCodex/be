@@ -11,7 +11,7 @@ date: 1996-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/08/1996036042/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1996. - Decreet houdende aanpassing van de Middelenbegroting om de Vlaamse Gemeenschap voor het begrotingsjaar 1996.

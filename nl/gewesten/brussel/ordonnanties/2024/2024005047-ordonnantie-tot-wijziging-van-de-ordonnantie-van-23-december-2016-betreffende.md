@@ -13,7 +13,7 @@ entry_into_force: 2024-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005047/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie tot wijziging van de ordonnantie van 23 december 2016 betreffende de gewestbelasting op de inrichtingen van toeristisch logies en de ordonnantie van 6 maart 2019 betreffende de Brusselse Codex Fiscale Procedure

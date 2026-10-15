@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/28/2002003192/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 03-05-2002 en tekstbijwerking tot 08-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2002. - [Wet ter regeling van het opstellen van de betalingsbalans, van de externe vermogenspositie en van de statistieken inzake de internationale handel in diensten en de buitenlandse directe investeringen van België en houdende wijziging van de besluitwet van 6 oktober 1944 betreffende de wisselcontrole en van verschillende wettelijke bepalingen.] &lt;W 2006-05-01/76, art. 2, 002; Inwerkingtreding : 17-07-2006&gt;

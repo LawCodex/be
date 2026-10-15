@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/17/1999029643/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-10-1999 et mise à jour au 06-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 1999. - Décret relatif à l'enseignement supérieur artistique.

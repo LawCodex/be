@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/10/2006035872/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2006 en tekstbijwerking tot 09-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2006. - Decreet houdende decretale aanpassingen inzake ruimtelijke ordening en onroerend erfgoed als gevolg van het bestuurlijk beleid

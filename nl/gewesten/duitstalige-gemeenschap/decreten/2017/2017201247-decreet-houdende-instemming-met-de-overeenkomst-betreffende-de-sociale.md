@@ -13,7 +13,7 @@ entry_into_force: 2017-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/20/2017201247/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2017. - Decreet houdende instemming met de overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek Tunesië, gedaan te Tunis op 28 maart 2013

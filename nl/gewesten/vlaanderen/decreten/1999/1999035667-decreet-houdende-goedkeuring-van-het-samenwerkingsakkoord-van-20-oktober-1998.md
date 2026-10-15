@@ -13,7 +13,7 @@ entry_into_force: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/11/1999035667/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 20 oktober 1998 tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de integratie van personen met een handicap.

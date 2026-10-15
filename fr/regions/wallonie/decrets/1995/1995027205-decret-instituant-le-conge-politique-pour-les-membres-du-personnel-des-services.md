@@ -12,7 +12,7 @@ published: 1995-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027205/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret instituant le congé politique pour les membres du personnel des services du Gouvernement en vue de l'exercice d'un mandat de membre du Conseil ou du Gouvernement.

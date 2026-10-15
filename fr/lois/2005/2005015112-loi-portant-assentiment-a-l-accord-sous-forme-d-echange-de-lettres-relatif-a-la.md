@@ -12,7 +12,7 @@ entry_into_force: 2005-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/20/2005015112/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Loi portant assentiment à l'Accord sous forme d'échange de lettres relatif à la fiscalité des revenus de l'épargne et à l'application à titre provisoire de l'Accord, entre le Royaume de Belgique et le Royaume des Pays-Bas pour ce qui est des Antilles néerlandaises, signé à Bruxelles le 18 mai 2004 et à La Haye le 27 août 2004.

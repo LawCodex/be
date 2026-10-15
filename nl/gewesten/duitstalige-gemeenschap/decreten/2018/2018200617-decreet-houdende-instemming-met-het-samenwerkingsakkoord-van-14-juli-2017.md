@@ -13,7 +13,7 @@ entry_into_force: 2018-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/29/2018200617/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 14 juli 2017 tussen de Federale Staat, de Gemeenschappen en de Gewesten in het kader van de omzetting van de Richtlijn 2014/61/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronischecommunicatienetwerken met hoge snelheid

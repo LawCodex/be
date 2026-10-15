@@ -12,7 +12,7 @@ entry_into_force: 2003-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/12/08/2003021238/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2003. - Loi relevant de caducité certains projets de loi réglant une matière visée à l'article 78 de la Constitution.

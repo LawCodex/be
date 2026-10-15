@@ -13,7 +13,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007029207/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Décret modifiant le décret du 24 novembre 2006 visant l'octroi d'une licence de tireur sportif.

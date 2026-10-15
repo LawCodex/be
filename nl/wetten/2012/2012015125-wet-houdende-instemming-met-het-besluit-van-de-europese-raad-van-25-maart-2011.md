@@ -12,7 +12,7 @@ entry_into_force: 2012-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/09/2012015125/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2012. - Wet houdende instemming met het besluit van de Europese Raad van 25 maart 2011 tot wijziging van artikel 136 van het Verdrag betreffende de werking van de Europese Unie met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben

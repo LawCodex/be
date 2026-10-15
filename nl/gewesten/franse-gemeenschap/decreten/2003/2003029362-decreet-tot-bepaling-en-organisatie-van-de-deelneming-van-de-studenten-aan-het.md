@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/12/2003029362/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2004 en tekstbijwerking tot 23-10-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2003. - Decreet tot bepaling en organisatie van de deelneming van de studenten aan het leven van de universitaire instellingen en tot instelling van de deelneming van de studenten aan het leven van de gemeenschap (VERTALING).

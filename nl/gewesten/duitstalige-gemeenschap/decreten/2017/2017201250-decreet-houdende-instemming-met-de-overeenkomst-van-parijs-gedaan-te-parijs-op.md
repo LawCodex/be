@@ -13,7 +13,7 @@ entry_into_force: 2017-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/20/2017201250/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2017. - Decreet houdende instemming met de Overeenkomst van Parijs, gedaan te Parijs op 12 december 2015

@@ -13,7 +13,7 @@ entry_into_force: 2015-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/02/26/2015031122/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2015. - Ordonnantie houdende instemming met de (Herziene) Europese Overeenkomst inzake de adoptie van kinderen, gedaan te Straatsburg op 27 november 2008

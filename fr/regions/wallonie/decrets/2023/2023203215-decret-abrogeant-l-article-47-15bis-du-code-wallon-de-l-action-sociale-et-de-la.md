@@ -13,7 +13,7 @@ entry_into_force: 2023-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/01/2023203215/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2023. - Décret abrogeant l'article 47/15bis du Code wallon de l'Action sociale et de la Santé en vue de mettre fin à l'obligation d'isolement automatique après un test de dépistage de la COVID-19 positif

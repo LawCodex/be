@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035838/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-06-2004 et mise à jour au 30-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant création de l'agence autonomisée externe de droit privé "Vlaams Centrum voor Agro- en Visserijmarketing" (Office flamand d'Agro-Marketing) (TRADUCTION)

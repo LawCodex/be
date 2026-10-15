@@ -13,7 +13,7 @@ entry_into_force: 2002-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/02/08/2002027163/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2002. - Décret modifiant le décret du 23 décembre 1993 complétant l'article 41 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine et modifiant le décret du 27 octobre 1988 sur les carrières.

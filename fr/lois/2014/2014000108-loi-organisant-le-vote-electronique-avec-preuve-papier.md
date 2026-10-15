@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/07/2014000108/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 14-02-2014 et mise à jour au 14-04-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2014. - Loi organisant le vote électronique avec preuve papier

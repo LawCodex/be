@@ -12,7 +12,7 @@ entry_into_force: 1997-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/14/1997000360/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 1997. - Loi modifiant l'article 67 de la nouvelle loi communale.

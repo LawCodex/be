@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/02/25/1991009354/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2000 en tekstbijwerking tot 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1991. - Wet betreffende de aansprakelijkheid voor produkten met gebreken.

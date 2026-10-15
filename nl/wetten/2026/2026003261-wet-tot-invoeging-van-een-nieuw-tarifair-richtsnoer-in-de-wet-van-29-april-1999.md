@@ -12,7 +12,7 @@ entry_into_force: 2026-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/04/24/2026003261/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2026. - Wet tot invoeging van een nieuw tarifair richtsnoer in de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt

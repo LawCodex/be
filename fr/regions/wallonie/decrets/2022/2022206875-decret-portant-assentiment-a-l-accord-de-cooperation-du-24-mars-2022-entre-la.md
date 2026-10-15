@@ -13,7 +13,7 @@ entry_into_force: 2022-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/24/2022206875/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2022. - Décret portant assentiment à l'accord de coopération du 24 mars 2022 entre la Région wallonne et la Communauté française relatif à l'abrogation des décrets conjoints du 12 juillet 2017 et du 19 juillet 2017 relatifs à la réutilisation des informations du secteur public et visant à l'établissement d'une politique de données ouvertes

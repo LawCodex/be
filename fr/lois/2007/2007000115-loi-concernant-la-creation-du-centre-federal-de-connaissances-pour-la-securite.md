@@ -12,7 +12,7 @@ entry_into_force: 2007-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/22/2007000115/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2007. - Loi concernant la création du Centre fédéral de Connaissances pour la Sécurité civile.

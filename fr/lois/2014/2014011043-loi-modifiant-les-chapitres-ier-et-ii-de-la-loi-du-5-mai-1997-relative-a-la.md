@@ -12,7 +12,7 @@ entry_into_force: 2014-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/15/2014011043/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2014. - Loi modifiant les chapitres Ier et II de la loi du 5 mai 1997 relative à la coordination de la politique fédérale de développement durable

@@ -10,7 +10,7 @@ date: 2014-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/29/2016015136/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2014. - Wet houdende instemming met het Verdrag nr. 189 betreffende waardig werk voor het huispersoneel, aangenomen te Genève op 16 juni 2011 door de Internationale Arbeidsconferentie tijdens haar 100e zitting

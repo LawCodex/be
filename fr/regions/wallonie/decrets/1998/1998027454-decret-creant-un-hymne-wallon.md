@@ -13,7 +13,7 @@ entry_into_force: 1998-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/23/1998027454/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1998. - Décret créant un hymne wallon.

@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/05/28/2026003942/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2026. - Ordonnantie houdende de Middelenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2026

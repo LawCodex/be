@@ -13,7 +13,7 @@ entry_into_force: 2011-11-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/10/13/2011027202/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2011. - Décret modifiant le Livre II du Code de l'Environnement, contenant le Code de l'Eau

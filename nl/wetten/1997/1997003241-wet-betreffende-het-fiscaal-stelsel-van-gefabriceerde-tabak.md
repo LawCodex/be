@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/1997003241/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 16-05-1997 en tekstbijwerking tot 31-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet betreffende het fiscaal stelsel van gefabriceerde tabak.

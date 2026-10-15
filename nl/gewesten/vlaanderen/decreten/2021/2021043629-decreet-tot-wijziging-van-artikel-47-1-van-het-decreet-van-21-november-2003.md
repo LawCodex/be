@@ -12,7 +12,7 @@ published: 2021-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/23/2021043629/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Decreet tot wijziging van artikel 47/1 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en tot verlenging van het decreet van 29 mei 2020 tot organisatie van het centrale contactonderzoek door een samenwerkingsverband van externe partners, het lokale contactonderzoek door lokale besturen of zorgraden en tot organisatie van de COVID-19-teams in het kader van COVID-19

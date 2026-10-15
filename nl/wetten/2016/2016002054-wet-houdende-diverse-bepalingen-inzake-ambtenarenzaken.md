@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/11/2016002054/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2016. - Wet houdende diverse bepalingen inzake ambtenarenzaken

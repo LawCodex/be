@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/08/2007022394/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 27-03-2007 et mise à jour au 10-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2007. - Loi créant un Conseil consultatif fédéral des Aînés

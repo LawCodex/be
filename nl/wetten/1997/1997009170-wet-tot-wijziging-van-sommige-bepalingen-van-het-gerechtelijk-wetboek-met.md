@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/17/1997009170/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-1997 en tekstbijwerking tot 15-01-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1997. - Wet tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek met betrekking tot het personeel van de griffies en parketten.

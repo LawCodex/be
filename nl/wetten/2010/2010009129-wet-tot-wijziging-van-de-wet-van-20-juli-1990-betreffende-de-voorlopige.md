@@ -12,7 +12,7 @@ entry_into_force: 2010-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/11/2010009129/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2010. - Wet tot wijziging van de wet van 20 juli 1990 betreffende de voorlopige hechtenis

@@ -13,7 +13,7 @@ entry_into_force: 2017-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/06/2017030747/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2017. - Décret modifiant le décret coordonné du 26 mars 2009 sur les services de médias audiovisuels visant à prolonger les autorisations des radios en réseau et des radios indépendantes

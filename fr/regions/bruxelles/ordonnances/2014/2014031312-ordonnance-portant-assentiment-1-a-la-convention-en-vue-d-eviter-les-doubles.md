@@ -13,7 +13,7 @@ entry_into_force: 2014-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031312/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment : 1° à la Convention en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971, telle que modifiée par le Protocole, fait à Bruxelles le 10 septembre 2009; et 2° au Protocole et au Protocole additionnel entre le Royaume de Belgique et la République d'Autriche, faits à Bruxelles le 10 septembre 2009, modifiant la Convention en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971

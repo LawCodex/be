@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/01/2021030918/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2021. - Décret modifiant les articles 2 et 3 du décret du 1er octobre 2020 organisant jusqu'au 31 mars 2021 la tenue des réunions des organes des centres publics d'action sociale

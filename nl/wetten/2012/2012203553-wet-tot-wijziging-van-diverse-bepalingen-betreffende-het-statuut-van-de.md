@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/06/20/2012203553/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 29-06-2012 en tekstbijwerking tot 14-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2012. - Wet tot wijziging van diverse bepalingen betreffende het statuut van de militairen

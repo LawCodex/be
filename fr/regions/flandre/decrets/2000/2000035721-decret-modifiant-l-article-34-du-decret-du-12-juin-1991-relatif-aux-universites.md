@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/30/2000035721/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2000. - Décret modifiant l'article 34 du décret du 12 juin 1991 relatif aux universités dans la Communauté flamande (TRADUCTION).

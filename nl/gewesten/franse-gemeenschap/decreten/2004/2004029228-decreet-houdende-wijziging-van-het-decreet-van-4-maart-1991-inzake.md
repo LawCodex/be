@@ -13,7 +13,7 @@ entry_into_force: 2004-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029228/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet houdende wijziging van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd (VERTALING).

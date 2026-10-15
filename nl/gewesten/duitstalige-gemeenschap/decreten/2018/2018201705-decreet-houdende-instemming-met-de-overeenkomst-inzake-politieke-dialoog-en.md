@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201705/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Decreet houdende instemming met de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de republiek Cuba, anderzijds, gedaan te Brussel op 12 december 2016

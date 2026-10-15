@@ -12,7 +12,7 @@ entry_into_force: 2004-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/01/2003015216/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 1998. - Loi portant assentiment à la Convention n° 141 concernant les organisations de travailleurs ruraux et leur rôle dans le développement économique et social adoptée à Genève le 23 juin 1975 par la Conférence internationale à sa soixantième session.

@@ -13,7 +13,7 @@ entry_into_force: 2008-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/25/2008031048/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2007. - Decreet houdende goedkeuring van het samenwerkingsakkoord, afgesloten tussen het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie betreffende de in het kader van de herwaardering van het kwalificatieonderwijs ter beschikking gestelde uitrusting en de samenwerking tussen de centra voor spitstechnologie en de beroepsreferentiecentra (VERTALING).

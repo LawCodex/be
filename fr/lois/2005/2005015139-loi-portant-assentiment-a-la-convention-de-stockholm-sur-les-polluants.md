@@ -12,7 +12,7 @@ entry_into_force: 2006-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/17/2005015139/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2005. - Loi portant assentiment à la Convention de Stockholm sur les polluants organiques persistants, et aux Annexes A, B, C, D, E et F, faites à Stockholm le 22 mai 2001.

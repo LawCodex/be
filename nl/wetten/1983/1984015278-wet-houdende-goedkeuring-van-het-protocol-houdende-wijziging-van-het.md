@@ -10,7 +10,7 @@ date: 1983-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/12/08/1984015278/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 1983. - Wet houdende goedkeuring van het Protocol houdende wijziging van het Enkelvoudig Verdrag inzake verdovende middelen van 1961, opgemaakt te Genève op 25 maart 1972.

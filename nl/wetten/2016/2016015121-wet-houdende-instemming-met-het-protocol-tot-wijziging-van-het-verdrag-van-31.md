@@ -11,7 +11,7 @@ entry_into_force: 2016-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/09/11/2016015121/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 2016. - Wet houdende instemming met het Protocol tot wijziging van het Verdrag van 31 maart 1965 betreffende de instelling en het statuut van een Benelux-Gerechtshof, gedaan te Luxemburg op 15 oktober 2012

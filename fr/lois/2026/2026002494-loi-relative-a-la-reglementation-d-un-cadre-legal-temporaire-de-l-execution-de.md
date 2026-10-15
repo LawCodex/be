@@ -13,7 +13,7 @@ end_of_validity: 2029-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/30/2026002494/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2026. - Loi relative à la réglementation d'un cadre légal temporaire de l'exécution de la peine de surveillance électronique, de la peine de probation, de la peine de travail, de la suspension et de la suspension probatoire, du sursis et du sursis probatoire, de la peine accessoire visée à l'article 50 du Code pénal et certaines peines imposées aux personnes morales et modifiant le Code d'instruction criminelle, la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine et la loi du 29 février 2024 introduisant le livre Ier du Code pénal, en vue de l'entrée en vigueur du nouveau Code pénal. (Intitulé abrégé officiel: "Loi fixant un cadre temporaire de l'exécution des peines")

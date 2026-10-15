@@ -13,7 +13,7 @@ entry_into_force: 2003-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/13/2003033101/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2003. - Décret portant assentiment au Protocole visant à prévenir, réprimer et punir la traite des personnes en particulier des femmes et des enfants, en addition à la Convention des Nations Unies contre la criminalité transnationale organisée, fait à New York, le 15 novembre 2000. (Traduction).

@@ -13,7 +13,7 @@ entry_into_force: 2009-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029391/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret visant au renforcement du dispositif d'évaluation externe des acquis des élèves de l'enseignement obligatoire

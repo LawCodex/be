@@ -12,7 +12,7 @@ entry_into_force: 2005-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/15/2005007049/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2005. - Loi modifiant les lois des 1er mars 1958 relative aux statuts des officiers de carrière des forces armées, 27 décembre 1961 relative au statut des sous-officiers du cadre actif des forces armées et 12 juillet 1973 relative au statut des volontaires du cadre actif des forces armées.

@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2025009876/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret modifiant le décret du 16 juin 2023 relatif aux internats de l'enseignement, en ce qui concerne la mise à disposition de moyens supplémentaires

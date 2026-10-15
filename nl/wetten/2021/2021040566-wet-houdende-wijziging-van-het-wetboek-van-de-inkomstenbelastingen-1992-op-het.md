@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/02/17/2021040566/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2021. - Wet houdende wijziging van het Wetboek van de inkomstenbelastingen 1992 op het vlak van de in het buitenlandgelegen onroerende goederen

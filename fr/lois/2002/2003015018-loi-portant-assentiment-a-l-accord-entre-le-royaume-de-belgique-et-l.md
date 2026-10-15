@@ -12,7 +12,7 @@ entry_into_force: 2003-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/24/2003015018/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2002. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation mondiale de la Santé sur l'établissement en Belgique d'un bureau de liaison de cette organisation, signé à Bruxelles le 6 janvier 1999.

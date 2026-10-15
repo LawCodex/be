@@ -13,7 +13,7 @@ entry_into_force: 2017-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/20/2017206385/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2017. - Décret portant assentiment à l'Accord instituant la Fondation internationale Union européenne - Amérique latine et Caraïbes, fait à Saint-Domingue le 25 octobre 2016

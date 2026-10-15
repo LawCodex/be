@@ -12,7 +12,7 @@ entry_into_force: 2002-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/22/2002022738/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AUGUSTUS 2002. - Wet strekkende tot de wettelijke erkenning van behandelingen met vervangingsmiddelen en tot wijziging van de wet van 24 februari 1921 betreffende het verhandelen van de giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica.

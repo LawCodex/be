@@ -13,7 +13,7 @@ entry_into_force: 2007-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/23/2007037146/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2007. - Decreet houdende wijziging van het Aardgasdecreet van 6 juli 2001 en van het decreet van 25 mei 2007 tot wijziging van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water, wat betreft elektriciteit en gas, van het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt, wat betreft de openbaredienstverplichtingen, en van het decreet van 6 juli 2001 houdende de organisatie van de gasmarkt, wat betreft de openbaredienstverplichtingen.

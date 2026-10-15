@@ -13,7 +13,7 @@ entry_into_force: 2002-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/22/2002035493/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2002. - Décret modifiant le décret du 13 juillet 1994 relatif aux " Vlaamse investeringsmaatschappijen ", le " Limburgfonds " et le groupe de travail permanent " Limburg " (TRADUCTION).

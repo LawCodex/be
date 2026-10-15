@@ -13,7 +13,7 @@ entry_into_force: 1989-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/07/20/1989027113/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1988. - Décret portant approbation de la Convention européenne sur la violence et les débordements de spectateurs lors de manifestations sportives et notamment de matches de football, faite à Strasbourg le 19 août 1985.

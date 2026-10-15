@@ -12,7 +12,7 @@ published: 2023-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/09/22/2023A47521/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBER 2023. - Samenwerkingsakkoord van 22 september 2023 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende sommige bepalingen van de verdeling van de Belgische klimaat- en energiedoelstellingen voor het begin van de periode 2021-2030 en de verdeling van de federale opbrengsten uit de veiling van emissierechten voor de jaren 2015 tot en met 2020

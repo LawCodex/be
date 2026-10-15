@@ -13,7 +13,7 @@ entry_into_force: 2008-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/20/2008204388/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2008. - Decreet houdende instemming met de wijziging in het Verdrag van Aarhus betreffende toegang tot informatie, inspraak bij milieubesluitvorming en toegang tot de rechter inzake milieuaangelegenheden, opgemaakt op 27 mei 2005, te Almaty (Kazakhstan).

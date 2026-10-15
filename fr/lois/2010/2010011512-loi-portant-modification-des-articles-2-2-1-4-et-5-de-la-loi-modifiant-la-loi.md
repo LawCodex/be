@@ -12,7 +12,7 @@ entry_into_force: 2010-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/13/2010011512/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2010. - Loi portant modification des articles 2, 2/1, 4 et 5 de la loi modifiant la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges

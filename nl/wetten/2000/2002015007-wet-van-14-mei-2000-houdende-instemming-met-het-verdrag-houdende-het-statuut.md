@@ -12,7 +12,7 @@ entry_into_force: 2002-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2002015007/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet van 14 mei 2000 houdende instemming met het Verdrag houdende het statuut van de Europese scholen en Bijlagen I en II, gedaan te Luxembourg op 21 juni 1994.

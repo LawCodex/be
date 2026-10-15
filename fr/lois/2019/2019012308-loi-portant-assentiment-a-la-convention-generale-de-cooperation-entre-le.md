@@ -12,7 +12,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/07/2019012308/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2019. - Loi portant assentiment à la Convention générale de coopération entre le Royaume de Belgique et la République du Sénégal, faite à Dakar le 1er mars 2018

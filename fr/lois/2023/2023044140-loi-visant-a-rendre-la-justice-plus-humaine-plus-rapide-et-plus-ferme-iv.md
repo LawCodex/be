@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/31/2023044140/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 09-08-2023 et mise à jour au 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2023. - Loi visant à rendre la justice plus humaine, plus rapide et plus ferme IV

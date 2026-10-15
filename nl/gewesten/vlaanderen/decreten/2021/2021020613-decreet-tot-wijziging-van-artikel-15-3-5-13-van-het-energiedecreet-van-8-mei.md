@@ -13,7 +13,7 @@ entry_into_force: 2021-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/19/2021020613/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2021. - Decreet tot wijziging van artikel 15.3.5/13 van het Energiedecreet van 8 mei 2009

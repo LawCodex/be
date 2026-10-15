@@ -12,7 +12,7 @@ entry_into_force: 2007-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/07/2007201530/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2007. - Herziening van de Grondwet.

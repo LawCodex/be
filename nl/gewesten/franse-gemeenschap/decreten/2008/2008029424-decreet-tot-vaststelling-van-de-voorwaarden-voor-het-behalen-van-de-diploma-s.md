@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008029424/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-09-2008 en tekstbijwerking tot 13-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet tot vaststelling van de voorwaarden voor het behalen van de diploma's van bachelor-vroedvrouw en [bachelor verantwoordelijk algemeen ziekenverpleger], ter versterking van de studentenmobiliteit en houdende diverse maatregelen inzake hoger onderwijs. &lt;DFG 2016-06-30/19 , art. 1, 003; Inwerkingtreding : 15-09-2016&gt; (Vertaling)

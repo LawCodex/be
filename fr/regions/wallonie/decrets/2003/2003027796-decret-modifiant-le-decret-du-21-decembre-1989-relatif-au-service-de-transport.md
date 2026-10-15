@@ -13,7 +13,7 @@ entry_into_force: 2004-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2003027796/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne.

@@ -12,7 +12,7 @@ entry_into_force: 2003-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/27/2003015049/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Loi portant assentiment à la Convention européenne sur l'imprescriptibilité des crimes contre l'humanité et des crimes de guerre, faite à Strasbourg le 25 janvier 1974.

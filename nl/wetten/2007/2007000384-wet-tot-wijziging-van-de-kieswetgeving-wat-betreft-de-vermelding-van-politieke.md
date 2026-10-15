@@ -12,7 +12,7 @@ entry_into_force: 2007-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007000384/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot wijziging van de kieswetgeving, wat betreft de vermelding van politieke partijen boven de kandidatenlijsten op de stembiljetten bij de verkiezingen van de federale wetgevende kamers, het Vlaams Parlement, het Waals Parlement, het Brussels Hoofdstedelijk Parlement en het Parlement van de Duitstalige Gemeenschap.

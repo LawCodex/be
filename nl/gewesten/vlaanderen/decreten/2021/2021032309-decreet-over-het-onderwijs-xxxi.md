@@ -12,7 +12,7 @@ published: 2021-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/09/2021032309/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2021. - Decreet over het onderwijs XXXI

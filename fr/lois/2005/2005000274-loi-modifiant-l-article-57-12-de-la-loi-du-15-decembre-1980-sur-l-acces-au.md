@@ -12,7 +12,7 @@ entry_into_force: 2005-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/03/16/2005000274/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2005. - Loi modifiant l'article 57/12 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

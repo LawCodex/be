@@ -13,7 +13,7 @@ entry_into_force: 2025-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/06/12/2025004420/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2025. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune modifiant l'article 6 de l'ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune du 14 décembre 2017 portant création d'une Commission bruxelloise de déontologie

@@ -13,7 +13,7 @@ entry_into_force: 2008-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008202901/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République du Rwanda, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Kigali le 16 avril 2007 (TRADUCTION).

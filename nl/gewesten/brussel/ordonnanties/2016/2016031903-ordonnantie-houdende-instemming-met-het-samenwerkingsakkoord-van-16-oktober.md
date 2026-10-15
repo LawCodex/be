@@ -13,7 +13,7 @@ entry_into_force: 2017-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031903/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 16 oktober 2015 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van het samenwerkingsakkoord van 2 september 2013 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende het opnemen van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap overeenkomstig Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap

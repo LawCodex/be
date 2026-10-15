@@ -12,7 +12,7 @@ entry_into_force: 2018-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/01/07/2017014377/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2018. - Wet tot wijziging van de wet van 8 juni 2006 houdende regeling van economische en individuele activiteiten met wapens en van het Burgerlijk Wetboek

@@ -12,7 +12,7 @@ entry_into_force: 2021-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/18/2021205150/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 2021. - Decreet houdende instemming met de overeenkomst inzake strategisch partnerschap tussen de Europese Unie en haar lidstaten, enerzijds, en Canada, anderzijds, ondertekend te Brussel op 30 oktober 2016

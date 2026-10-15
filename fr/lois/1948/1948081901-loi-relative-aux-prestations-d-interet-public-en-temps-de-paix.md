@@ -13,7 +13,7 @@ last_amended: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1948/08/19/1948081901/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 01-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 1948. - Loi relative aux prestations d'intérêt public en temps de paix. -

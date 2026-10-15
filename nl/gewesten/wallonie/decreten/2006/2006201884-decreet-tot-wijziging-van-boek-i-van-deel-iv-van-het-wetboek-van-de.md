@@ -13,7 +13,7 @@ entry_into_force: 2006-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/01/2006201884/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2006. - Decreet tot wijziging van Boek I van Deel IV van het Wetboek van de plaatselijke democratie en de decentralisatie (VERTALING).

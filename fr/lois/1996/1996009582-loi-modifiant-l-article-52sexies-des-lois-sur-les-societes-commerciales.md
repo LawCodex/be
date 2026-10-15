@@ -12,7 +12,7 @@ entry_into_force: 1996-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/10/1996009582/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1996. - Loi modifiant l'article 52sexies des lois sur les sociétés commerciales, coordonnées le 30 novembre 1935.

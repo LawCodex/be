@@ -13,7 +13,7 @@ entry_into_force: 2006-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/17/2006035621/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2006. - Décret portant approbation de l'accord de coopération du 8 juillet 2005 entre l'Etat fédéral et la Région flamande portant la création d'une structure de garde côtière et la coopération dans cette dernière. (Traduction).

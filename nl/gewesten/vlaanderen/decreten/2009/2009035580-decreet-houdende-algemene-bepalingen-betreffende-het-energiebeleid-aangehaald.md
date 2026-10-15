@@ -17,7 +17,7 @@ department: "Vlaamse Overheid"
 justel_notes:
   - "art. 7.4.2; 7.4.3 toegevoegd met ingang op een onbepaalde datum bij DVR 2019-04-26/11 , art. 10-11, 044; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 07-07-2009 en tekstbijwerking tot 03-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2009. - Decreet houdende algemene bepalingen betreffende het energiebeleid (aangehaald als het Energiedecreet)

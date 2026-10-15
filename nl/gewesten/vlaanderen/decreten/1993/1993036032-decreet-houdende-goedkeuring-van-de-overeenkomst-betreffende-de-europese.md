@@ -11,7 +11,7 @@ date: 1993-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/07/14/1993036032/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1993. - DECREET houdende goedkeuring van de Overeenkomst betreffende de Europese Economische Ruimte, van 49 Protocollen, van de Slotakte en van de Bijlagen I tot en met XXII, opgemaakt in Porto op 2 mei 1992, en van het Protocol tot aanpassing van de Overeenkomst betreffende de Europese Economische Ruimte, opgemaakt te Brussel op 17 maart 1993

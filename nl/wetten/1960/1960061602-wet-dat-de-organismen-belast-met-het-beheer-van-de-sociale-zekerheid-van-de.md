@@ -13,7 +13,7 @@ last_amended: 2012-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/06/16/1960061602/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 08-06-1983 en tekstbijwerking tot 28-06-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1960. - Wet dat de organismen belast met het beheer van de sociale zekerheid van de werknemers van Belgisch-Congo en Ruanda-Urundi onder de controle en de waarborg van de Belgische Staat plaatst, en dat waarborg draagt door de Belgische Staat van de maatschappelijke prestaties ten gunste van deze werknemers verzekerd.

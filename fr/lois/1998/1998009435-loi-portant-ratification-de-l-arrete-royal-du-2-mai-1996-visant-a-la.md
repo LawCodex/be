@@ -12,7 +12,7 @@ entry_into_force: 1998-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/15/1998009435/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1998. - Loi portant ratification de l'arrêté royal du 2 mai 1996 visant à la transposition, en ce qui concerne la profession d'avocat, de la directive 89/48/CEE du Conseil du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, complétée par la directive 92/51 du Conseil du 18 juin 1992 et de l'arrêté royal du 27 mars 1998 modifiant les articles 428bis à 428decies du Code judiciaire insérés par l'arrêté royal du 2 mai 1996 visant à la transposition, en ce qui concerne la profession d'avocat, de la directive 89/48/CEE du Conseil du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, complétée par la directive 92/51 du Conseil du 18 juin 1992.

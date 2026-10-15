@@ -13,7 +13,7 @@ entry_into_force: 1995-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/11/08/1995033094/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 1993. - DEKREET houdende goedkeuring van volgende internationale rechtsakten : 1. Overeenkomst inzake Europese Economische Ruimte, de protocollen, de bijlagen en de slotakte, gedaan te Porto op 2 mei 1992; 2. Protocol houdende aanpassing van de overeenkomst inzake Europese Economische Ruimte, de bijlage en de slotakte, gedaan te Brussel op 17 maart 1993

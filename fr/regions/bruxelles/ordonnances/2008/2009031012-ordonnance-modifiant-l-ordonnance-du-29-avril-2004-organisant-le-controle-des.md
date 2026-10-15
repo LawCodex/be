@@ -13,7 +13,7 @@ entry_into_force: 2009-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/12/18/2009031012/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2008. - Ordonnance modifiant l'ordonnance du 29 avril 2004 organisant le contrôle des dépenses électorales et des communications gouvernementales.

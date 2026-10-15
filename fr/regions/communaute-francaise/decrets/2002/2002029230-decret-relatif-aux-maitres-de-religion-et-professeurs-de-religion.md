@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/27/2002029230/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2002 et mise à jour au 01-12-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2002. - Décret relatif aux maîtres de religion et professeurs de religion.

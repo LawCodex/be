@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/08/05/1992000606/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-04-1998 en tekstbijwerking tot 27-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 1992. - Wet op het politieambt

@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1955/07/29/1955072903/justel"
 justel_notes:
   - "Opgeheven voor het Waalse Gewest bij WLW 2014-03-27/65 , art. D.418, 1°, 003; Inwerkingtreding : 15-06-2014"
   - "Raadpleging van vroegere versies vanaf 21-09-1999 en tekstbijwerking tot 05-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 1955. - Wet tot oprichting van een Landbouwfonds.

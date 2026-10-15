@@ -12,7 +12,7 @@ published: 2023-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/17/2023041391/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2023. - Decreet tot wijziging van de Codex Hoger Onderwijs van 11 oktober 2013 en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat betreft de Raad voor betwistingen inzake studievoortgangsbeslissingen en de rechtspositieregeling van de bestuursrechters

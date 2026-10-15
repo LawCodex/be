@@ -12,7 +12,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014015141/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi portant assentiment au Protocole facultatif se rapportant au Pacte international relatif aux droits économiques, sociaux et culturels, adopté à New York le 10 décembre 2008

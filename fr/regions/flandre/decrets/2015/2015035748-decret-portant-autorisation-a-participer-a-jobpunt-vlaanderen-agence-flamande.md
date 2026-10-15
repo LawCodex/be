@@ -13,7 +13,7 @@ entry_into_force: 2015-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/29/2015035748/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2015. - Décret portant autorisation à participer à Jobpunt Vlaanderen (Agence flamande de Recrutement et de Sélection) et modification de la mission de Jobpunt Vlaanderen

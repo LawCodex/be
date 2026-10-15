@@ -13,7 +13,7 @@ entry_into_force: 2019-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/28/2019200852/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2019. - Décret portant assentiment à l'Accord portant création de la Banque asiatique d'investissement dans les infrastructures ainsi qu'à la résolution, faits à Pékin le 29 juin 2015

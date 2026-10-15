@@ -13,7 +13,7 @@ entry_into_force: 2026-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/05/2026001244/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2026. - Décret spécial remplaçant le point B de l'annexe 1re du Livre 1er des annexes de la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat

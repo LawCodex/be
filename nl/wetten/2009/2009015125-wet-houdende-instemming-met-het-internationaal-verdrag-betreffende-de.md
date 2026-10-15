@@ -11,7 +11,7 @@ published: 2009-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/09/10/2009015125/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBER 2009. - Wet houdende instemming met het Internationaal Verdrag betreffende de bestrijding van daden van nucleair terrorisme, gedaan te New York op 14 september 2005

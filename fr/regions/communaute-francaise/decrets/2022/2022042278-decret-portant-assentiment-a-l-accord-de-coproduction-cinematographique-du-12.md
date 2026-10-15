@@ -13,7 +13,7 @@ entry_into_force: 2022-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/09/15/2022042278/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2022. - Décret portant assentiment à l'Accord de coproduction cinématographique du 12 avril 2021 entre le Gouvernement de la République du Sénégal et le Gouvernement de la Communauté française de Belgique

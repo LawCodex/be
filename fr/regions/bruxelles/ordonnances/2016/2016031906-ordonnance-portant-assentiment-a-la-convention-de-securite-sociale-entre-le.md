@@ -13,7 +13,7 @@ entry_into_force: 2017-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/23/2016031906/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Ordonnance portant assentiment à : la Convention de sécurité sociale entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Turquie, faite à Ankara le 11 avril 2014

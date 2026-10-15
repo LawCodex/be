@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/05/2016009064/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-02-2016 en tekstbijwerking tot 30-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2016. - Wet tot wijziging van het strafrecht en de strafvordering en houdende diverse bepalingen inzake justitie

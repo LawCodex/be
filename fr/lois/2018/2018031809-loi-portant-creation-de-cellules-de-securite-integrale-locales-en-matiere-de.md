@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018031809/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 14-09-2018 et mise à jour au 16-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi portant création de cellules de sécurité intégrale locales en matière de radicalisme, d'extrémisme et de terrorisme

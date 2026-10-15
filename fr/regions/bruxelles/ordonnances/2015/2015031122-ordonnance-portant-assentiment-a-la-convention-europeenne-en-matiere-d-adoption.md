@@ -13,7 +13,7 @@ entry_into_force: 2015-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/02/26/2015031122/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2015. - Ordonnance portant assentiment à la Convention européenne en matière d'adoption des enfants (révisée), faite à Strasbourg, le 27 novembre 2008

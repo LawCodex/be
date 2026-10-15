@@ -13,7 +13,7 @@ entry_into_force: 2004-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/03/2005035864/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2005. - Decreet tot wijziging van het decreet van 2 april 2004 houdende de subsidiëring van kunstenorganisaties, kunstenaars, organisaties voor kunsteducatie en organisaties voor sociaal-artistieke werking, internationale initiatieven, publicaties en steunpunten.

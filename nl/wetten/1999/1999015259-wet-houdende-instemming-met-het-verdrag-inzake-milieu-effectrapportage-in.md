@@ -12,7 +12,7 @@ entry_into_force: 2000-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/1999015259/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met het Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband, en met de Aanhangsels I, II, III, IV, V, VI en VII, gedaan te Espoo op 25 februari 1991.

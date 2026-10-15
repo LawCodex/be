@@ -13,7 +13,7 @@ entry_into_force: 2025-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/09/25/2025007333/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBRE 2025. - Décret modifiant la loi-programme du 10 février 1998 pour la promotion de l'entreprise indépendante

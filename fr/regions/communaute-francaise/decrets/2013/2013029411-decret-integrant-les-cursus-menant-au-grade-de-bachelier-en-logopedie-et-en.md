@@ -13,7 +13,7 @@ entry_into_force: 2013-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/04/2013029411/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2013. - Décret intégrant les cursus menant au grade de bachelier en logopédie et en audiologie dans le dispositif mis en place par le décret du 16 juin 2006 régulant le nombre d'étudiants dans certains cursus de premier cycle de l'enseignement supérieur

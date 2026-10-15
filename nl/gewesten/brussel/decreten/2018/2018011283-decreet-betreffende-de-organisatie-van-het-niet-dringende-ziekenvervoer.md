@@ -13,7 +13,7 @@ entry_into_force: 2019-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/22/2018011283/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2018. - Decreet betreffende de organisatie van het niet-dringende ziekenvervoer

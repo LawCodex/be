@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1870/03/04/1870C30450/justel"
 justel_notes:
   - "pour les versions antérieures, voir archives de la version fédérale : L 1870-03-04/30 "
   - "Consultation des versions antérieures à partir du 04-04-2014 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1870. - Loi sur le temporel des cultes (REGION WALLONNE)

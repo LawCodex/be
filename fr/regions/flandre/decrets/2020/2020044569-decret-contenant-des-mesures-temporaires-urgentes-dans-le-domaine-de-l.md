@@ -13,7 +13,7 @@ entry_into_force: 2020-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/18/2020044569/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Décret contenant des mesures temporaires urgentes dans le domaine de l'enseignement suite à la crise du coronavirus (V)

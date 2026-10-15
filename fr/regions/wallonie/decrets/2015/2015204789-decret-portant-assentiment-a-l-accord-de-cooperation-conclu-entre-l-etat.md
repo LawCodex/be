@@ -13,7 +13,7 @@ entry_into_force: 2015-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204789/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret portant assentiment à l'accord de coopération conclu entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au transfert d'unités de quantité attribuée aux Régions pour la période 2008-2012

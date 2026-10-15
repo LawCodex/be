@@ -13,7 +13,7 @@ entry_into_force: 2016-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/28/2016202438/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2016. - Décret portant mise en oeuvre de la sixième réforme de l'Etat et diverses dispositions relatives à la politique de l'emploi

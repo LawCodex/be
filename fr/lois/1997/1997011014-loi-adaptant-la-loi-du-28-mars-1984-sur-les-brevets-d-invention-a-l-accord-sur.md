@@ -12,7 +12,7 @@ entry_into_force: 1997-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/01/28/1997011014/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 1997. - Loi adaptant la loi du 28 mars 1984 sur les brevets d'invention à l'Accord sur les aspects des droits de propriété intellectuelle touchant au commerce (ADPIC) annexe à l'Accord instituant l'Organisation mondiale du commerce.

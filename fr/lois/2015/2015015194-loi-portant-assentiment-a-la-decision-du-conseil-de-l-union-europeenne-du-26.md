@@ -12,7 +12,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/14/2015015194/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2015. - Loi portant assentiment à la Décision du Conseil de l'Union européenne du 26 mai 2014 relative au système des ressources propres de l'Union européenne (2014/335/UE, Euratom)

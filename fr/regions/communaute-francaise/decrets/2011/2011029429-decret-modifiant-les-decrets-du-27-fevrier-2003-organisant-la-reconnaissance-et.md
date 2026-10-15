@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/19/2011029429/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2011. - Décret modifiant les décrets du 27 février 2003 organisant la reconnaissance et le subventionnement des centres sportifs locaux et des centres sportifs locaux intégrés et du 23 mai 2008 visant la reconnaissance et le subventionnement du Comité olympique et interfédéral belge

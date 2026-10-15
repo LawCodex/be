@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/24/2009202316/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-06-2009 en tekstbijwerking tot 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2009. - Decreet houdende een herfinancieringsgarantie en een doorbetalingsverbintenis met betrekking tot beschikbaarheidsvergoedingen en bepaalde beëindigingsvergoedingen, in het kader van bepaalde Vlaamse pps-projecten van de Vlaamse Vervoermaatschappij - De Lijn (\*)

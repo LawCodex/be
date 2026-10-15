@@ -13,7 +13,7 @@ entry_into_force: 1996-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/02/1997029054/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1996. - Decreet houdende toestemming in de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Oekraïne, anderzijds, en de bijlagen I, II, III, IV en V, het Aanhangsel, het Protocol en de Slotakte, ondertekend te Luxemburg op 14 juni 1994 (VERTALING).

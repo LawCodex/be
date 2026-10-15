@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/18/2015031917/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2015 et mise à jour au 30-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Ordonnance contenant le Budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 2016

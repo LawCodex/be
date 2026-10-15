@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/08/03/2016003276/justel"
 department: "Financiën"
 justel_note: "bij arrest nr.130/2023 van 21 september 2023 het Hof vernietigt de artikelen 2, 3, 5, 14 en 15 van de wet van 3 augustus 2016 in zoverre zij van toepassing zijn op het aanslagjaar 2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2016. - Wet tot invoering van een nieuwe jaarlijkse taks op de kredietinstellingen in de plaats van de bestaande jaarlijkse taksen, van de aftrekbeperkende maatregelen in de vennootschapsbelasting en van de bijdrage voor de financiële stabiliteit

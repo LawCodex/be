@@ -12,7 +12,7 @@ entry_into_force: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/30/2026005048/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2026. - Loi portant dispositions diverses concernant le traitement de données à caractère personnel, dans le cadre des médicaments et des produits de santé

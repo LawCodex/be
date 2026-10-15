@@ -12,7 +12,7 @@ entry_into_force: 2018-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/08/11/2017012998/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AOUT 2017. - Loi portant insertion du Livre XX "Insolvabilité des entreprises", dans le Code de droit économique, et portant insertion des définitions propres au livre XX, et des dispositions d'application au Livre XX, dans le Livre I du Code de droit économique

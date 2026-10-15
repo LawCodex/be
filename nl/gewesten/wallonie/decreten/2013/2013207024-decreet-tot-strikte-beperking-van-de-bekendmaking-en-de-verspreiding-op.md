@@ -13,7 +13,7 @@ entry_into_force: 2013-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/28/2013207024/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2013. - Decreet tot strikte beperking van de bekendmaking en de verspreiding op papieren drager van de jaarlijkse verslagen van de openbare diensten en van de instellingen van openbaar nut van het Waalse Gewest uit zorg voor het leefmilieu en voor een goed budgettair beheer

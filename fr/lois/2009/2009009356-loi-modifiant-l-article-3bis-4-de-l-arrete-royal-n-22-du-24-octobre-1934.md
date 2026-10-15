@@ -12,7 +12,7 @@ entry_into_force: 2009-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/28/2009009356/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2009. - Loi modifiant l'article 3bis, § 4, de l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités

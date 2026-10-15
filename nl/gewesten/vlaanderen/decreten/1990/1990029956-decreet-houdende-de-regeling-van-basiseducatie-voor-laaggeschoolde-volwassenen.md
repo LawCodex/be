@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/07/12/1990029956/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 15-08-1990 en tekstbijwerking tot 31-08-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1990. - Decreet houdende de regeling van basiseducatie voor laaggeschoolde volwassenen.

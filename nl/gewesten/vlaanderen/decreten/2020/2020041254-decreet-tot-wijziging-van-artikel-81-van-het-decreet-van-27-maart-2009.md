@@ -13,7 +13,7 @@ entry_into_force: 2020-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/08/2020041254/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2020. - Decreet tot wijziging van artikel 81 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat het aandeel televisiereclame- en telewinkelspots betreft

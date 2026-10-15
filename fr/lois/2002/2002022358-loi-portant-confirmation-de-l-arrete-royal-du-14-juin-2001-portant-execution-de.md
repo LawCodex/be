@@ -12,7 +12,7 @@ entry_into_force: 2002-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/15/2002022358/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2002. - Loi portant confirmation de l'arrêté royal du 14 juin 2001 portant exécution de l'article 168 de la loi du 12 août 2000 portant des dispositions sociales, budgétaires et diverses.

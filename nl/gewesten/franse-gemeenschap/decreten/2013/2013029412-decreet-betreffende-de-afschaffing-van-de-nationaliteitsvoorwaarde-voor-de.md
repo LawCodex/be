@@ -13,7 +13,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/20/2013029412/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2013. - Decreet betreffende de afschaffing van de nationaliteitsvoorwaarde voor de uitoefening van wervings- en selectieambten in het door de Franse Gemeenschap georganiseerde of gesubsidieerde onderwijs

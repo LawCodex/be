@@ -13,7 +13,7 @@ entry_into_force: 2020-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/10/22/2020015846/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2020. - Ordonnance modifiant l'ordonnance du 5 juillet 2018 relative aux modes spécifiques de gestion communale et à la coopération intercommunale

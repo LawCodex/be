@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/01/24/1984023228/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-12-1990 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 1984. - Décret portant des mesures en matière de gestion des eaux souterraines (TRADUCTION).

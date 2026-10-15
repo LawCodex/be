@@ -11,7 +11,7 @@ published: 1975-10-04
 entry_into_force: 1975-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/06/03/1975060304/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1975. \_ Wet betreffende de tijdelijke reglementering van vestigingen van kleinhandelsondernemingen waarvan de bruto gebouwde oppervlakte meer dan 3 000 m2 of de netto-verkoopsoppervlakte meer dan 1 500 m2 bedraagt.

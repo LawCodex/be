@@ -12,7 +12,7 @@ entry_into_force: 1998-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/26/1998003053/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1998. - Wet houdende vijfde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1997 - Sectie "Diensten van de Eerste Minister" (11).

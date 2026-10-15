@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/01/2022200946/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2022. - Loi confiant au Service fédéral des Pensions certaines missions en matière de pensions complémentaires des membres du personnel contractuel des administrations provinciales et locales

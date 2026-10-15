@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/17/2008202678/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 25-07-2008 en tekstbijwerking tot 26-01-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2008. - Decreet betreffende enkele vergunningen waarvoor er dringende redenen van algemeen belang bestaan (VERTALING)(DAR)

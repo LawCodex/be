@@ -12,7 +12,7 @@ entry_into_force: 2017-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/28/2017011955/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2017. - Wet tot oprichting van het "War Heritage Institute" en houdende integratie van de opdrachten, de middelen en het personeel van het Instituut voor veteranen - Nationaal Instituut voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers, het Koninklijk Museum voor het Leger en de Krijgsgeschiedenis, het Nationaal Gedenkteken van het Fort van Breendonk en de Historische Pool van Defensie

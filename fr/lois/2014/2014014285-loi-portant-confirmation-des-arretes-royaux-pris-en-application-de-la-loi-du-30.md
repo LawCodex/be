@@ -12,7 +12,7 @@ entry_into_force: 2014-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/24/2014014285/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Loi portant confirmation des arrêtés royaux pris en application de la loi du 30 août 2013 relative à la réforme des chemins de fer belges

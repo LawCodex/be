@@ -11,7 +11,7 @@ published: 2006-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/14/2006022815/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2006. - Loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes.

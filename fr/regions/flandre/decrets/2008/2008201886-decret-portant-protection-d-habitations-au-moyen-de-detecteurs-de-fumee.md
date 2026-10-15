@@ -13,7 +13,7 @@ entry_into_force: 2008-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008201886/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret portant protection d'habitations au moyen de détecteurs de fumée optiques (TRADUCTION).

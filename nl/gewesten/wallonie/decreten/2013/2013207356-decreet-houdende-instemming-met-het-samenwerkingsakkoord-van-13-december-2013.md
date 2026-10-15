@@ -13,7 +13,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/23/2013207356/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 13 december 2013 tussen de Federale Overheid, de Gemeenschappen, de Gewesten en de Gemeenschapscommissies betreffende de uitvoering van artikel 3, § 1, van het Verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie

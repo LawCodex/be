@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/10/26/1998033121/justel"
 department: "Communauté germanophone"
 justel_note: "suite à un erratum paru au M.B. 08.05.2006, P. 23622, les articles 1er à 4 doivent être lus comme ci-dessous :(NOTE : Consultation des versions antérieures à partir du 08-04-1999 et mise à jour au 04-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 1998. - Décret relatif à l'introduction de la nouvelle orthographe allemande (TRADUCTION).

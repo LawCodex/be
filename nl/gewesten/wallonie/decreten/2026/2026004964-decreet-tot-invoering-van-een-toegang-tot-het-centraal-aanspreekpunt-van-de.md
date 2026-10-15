@@ -13,7 +13,7 @@ entry_into_force: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/18/2026004964/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2026. - Decreet tot invoering van een toegang tot het centraal aanspreekpunt van de Nationale Bank van België voor ambtenaren van de Waalse Overheidsdienst Financiën die belast zijn met de invordering van fiscale schuldvorderingen

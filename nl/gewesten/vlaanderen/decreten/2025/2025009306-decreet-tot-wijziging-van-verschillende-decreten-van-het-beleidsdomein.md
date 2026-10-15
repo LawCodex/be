@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/21/2025009306/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2025. - Decreet tot wijziging van verschillende decreten van het beleidsdomein Onderwijs en Vorming, wat betreft de werking van de Vlaamse onderwijsinspectie

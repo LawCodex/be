@@ -10,7 +10,7 @@ date: 2007-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/08/2007015031/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2007. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Republiek Madagaskar, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Antananarivo op 29 september 2005

@@ -13,7 +13,7 @@ entry_into_force: 2009-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029532/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant le décret du 20 décembre 2001 fixant les règles spécifiques de l'enseignement supérieur artistique organisé en Ecoles supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants)

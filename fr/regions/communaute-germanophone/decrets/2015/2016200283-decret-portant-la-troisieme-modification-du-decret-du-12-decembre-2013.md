@@ -13,7 +13,7 @@ entry_into_force: 2016-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/17/2016200283/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2015. - Décret portant la troisième modification du décret du 12 décembre 2013 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2014

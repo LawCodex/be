@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/03/2001015130/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
 justel_note: "Consultation des versions antérieures à partir du 17-11-2001 et mise à jour au 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 NOVEMBRE 2001. - [Loi du 3 novembre 2001 relative à la création de la Société belge d'Investissement pour les Pays en Développement.]&lt;L 2017-11-23/16 , art. 48, 005; En vigueur : 01-01-2018&gt;

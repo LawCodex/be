@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/26/2010011190/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-2010 en tekstbijwerking tot 12-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2010. - [Dienstenwet] (ERRATUM, zie B.St. 01-12-2011, p. 70949)

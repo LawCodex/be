@@ -13,7 +13,7 @@ entry_into_force: 2000-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/11/30/2000029424/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2000. - Décret modifiant le décret du 5 septembre 1994 relatif au régime des études universitaires et des grades académiques.

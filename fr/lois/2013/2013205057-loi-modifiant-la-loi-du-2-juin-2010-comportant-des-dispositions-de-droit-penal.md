@@ -12,7 +12,7 @@ entry_into_force: 2013-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013205057/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2013. - Loi modifiant la loi du 2 juin 2010 comportant des dispositions de droit pénal social

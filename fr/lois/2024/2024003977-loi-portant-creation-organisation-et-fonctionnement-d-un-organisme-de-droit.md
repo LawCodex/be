@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024003977/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2024 et mise à jour au 31-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Loi portant création, organisation et fonctionnement d'un organisme de droit public ayant pour but d'assumer la responsabilité financière de certaines obligations nucléaires

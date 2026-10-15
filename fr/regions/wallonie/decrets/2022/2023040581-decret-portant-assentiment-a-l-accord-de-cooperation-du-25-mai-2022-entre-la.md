@@ -13,7 +13,7 @@ entry_into_force: 2023-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/30/2023040581/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2022. - Décret portant assentiment à l'accord de coopération du 25 mai 2022 entre la Région wallonne et la Communauté française concernant la création de places d'accueil de la petite enfance

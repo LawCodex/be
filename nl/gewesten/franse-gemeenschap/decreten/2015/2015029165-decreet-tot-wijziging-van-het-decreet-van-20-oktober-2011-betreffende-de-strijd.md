@@ -13,7 +13,7 @@ entry_into_force: 2015-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/19/2015029165/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2015. - Decreet tot wijziging van het decreet van 20 oktober 2011 betreffende de strijd tegen doping

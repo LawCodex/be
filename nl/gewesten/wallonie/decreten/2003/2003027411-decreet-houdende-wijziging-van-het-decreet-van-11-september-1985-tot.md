@@ -13,7 +13,7 @@ entry_into_force: 2003-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003027411/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet houdende wijziging van het decreet van 11 september 1985 tot organisatie van de milieueffectbeoordeling in het Waalse Gewest, het decreet van 27 juni 1996 betreffende de afvalstoffen en het decreet van 11 maart 1999 betreffende de milieuvergunning (VERTALING).

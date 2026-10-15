@@ -13,7 +13,7 @@ entry_into_force: 2022-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/23/2022021022/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2022. - Decreet tot wijziging van het decreet van 22 december 1994 betreffende de openbaarheid van het bestuur

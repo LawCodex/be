@@ -13,7 +13,7 @@ entry_into_force: 2018-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013017/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2018

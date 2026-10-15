@@ -13,7 +13,7 @@ entry_into_force: 2023-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/01/2023203214/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2023. - Decreet tot bekrachtiging van het besluit van de Waalse Regering nr. 3 van 13 april 2023 tot beëindiging van de mondmaskerplicht

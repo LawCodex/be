@@ -13,7 +13,7 @@ entry_into_force: 2023-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/06/2023045408/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2023. - Décret adaptant certaines dispositions régionales au Code des sociétés et des associations

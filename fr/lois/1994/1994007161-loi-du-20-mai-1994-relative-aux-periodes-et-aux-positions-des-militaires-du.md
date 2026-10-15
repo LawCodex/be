@@ -16,7 +16,7 @@ department: "Défense Nationale"
 justel_notes:
   - "L'article 221 à 224 de la L 28/02/2007 qui prévoyait à l'origine des modifications de la L 20/05/1994 a été remplacé, avant son entrée en vigueur, par l'article 311 à 313 de la loi du 31 juillet 2013 ( 2013-07-31/04 ) modifiant la loi du 28 février 2007 fixant le statut des militaires du cadre actif des Forces armées et modifiant certaines dispositions relatives au statut du personnel militaire. Ces articles remplacent les articles 221 à 224 de la L 28/02/2007 par une nouvelle disposition qui modifient les articles 3, 9, 1, 2, 3bis, 6, et 10 de la loi du 20/05/1994. Cela étant, la volonté d'abroger cette dernière loi que le législateur avait initialement exprimée. En d'autres mots, les articles 221 à 224 de la L 28/02/2007, tel que ces articles existaient avant leur remplacement par la loi précitée du 31/07/2013, n'entreront jamais en vigueur."
   - "Consultation des versions antérieures à partir du 07-04-2001 et mise à jour au 31-08-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1994. - [Loi du 20 mai 1994 relative aux périodes et aux positions des militaires du cadre de réserve, ainsi qu'à la mise en oeuvre et à la mise en condition des Forces armées] (Intitulé remplacé par L 2007-02-28/35 , art. 218, 005; En vigueur : 31-12-2013 (voir art. 272))

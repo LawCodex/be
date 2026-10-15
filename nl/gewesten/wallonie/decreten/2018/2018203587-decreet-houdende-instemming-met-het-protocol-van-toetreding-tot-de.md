@@ -13,7 +13,7 @@ entry_into_force: 2018-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/05/2018203587/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2018. - Decreet houdende instemming met het Protocol van toetreding tot de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van Ecuador, ondertekend te Brussel op 11 november 2016

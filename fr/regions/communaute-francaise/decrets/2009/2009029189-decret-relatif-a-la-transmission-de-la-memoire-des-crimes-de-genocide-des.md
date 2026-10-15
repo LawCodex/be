@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/13/2009029189/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2009 et mise à jour au 02-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Décret relatif à la transmission de la mémoire des crimes de génocide, des crimes contre l'humanité, des crimes de guerre et des faits de résistance ou des mouvements ayant résisté aux régimes qui ont suscité ces crimes

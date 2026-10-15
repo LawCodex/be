@@ -12,7 +12,7 @@ entry_into_force: 1967-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/04/01/1967040151/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1967. - Wet houdende goedkeuring van het Algemeen Verdrag tussen het Koninkrijk België en de Volksrepubliek Polen, betreffende de sociale zekerheid, ondertekend te Brussel, op 26 november 1965.

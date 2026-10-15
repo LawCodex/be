@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/02/2021034384/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Decreet tot wijziging van het kaderdecreet van 10 april 2003 betreffende de erkenning en subsidiëring van de professionele podiumkunstensector met het oog op de omkadering van de aanwervingsprocedures voor directieambten

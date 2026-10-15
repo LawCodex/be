@@ -12,7 +12,7 @@ entry_into_force: 2006-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/10/2006203881/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2006. - Decreet houdende instemming, wat de door de Franse Gemeenschap overgedragen materies betreft, met de partnerschap- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Tadzjikistan, anderzijds, ondertekend in Luxemburg op 11 oktober 2004 (VERTALING).

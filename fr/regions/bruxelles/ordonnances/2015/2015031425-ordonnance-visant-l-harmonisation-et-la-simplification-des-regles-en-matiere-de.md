@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/02/2015031425/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Ordonnance visant l'harmonisation et la simplification des règles en matière de procédures de recours en cas de refus ou de retrait d'une carte professionnelle à des indépendants étrangers et en cas de sanctions

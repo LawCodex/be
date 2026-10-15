@@ -13,7 +13,7 @@ entry_into_force: 2016-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/06/23/2016031465/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2016. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 24 maart 2016 tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest houdende oprichting van een bemiddelende instantie in het kader van de elektronische tolheffingssystemen op het grondgebied van de drie Gewesten

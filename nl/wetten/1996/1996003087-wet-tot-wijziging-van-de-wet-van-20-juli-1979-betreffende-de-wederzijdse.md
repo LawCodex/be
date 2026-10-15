@@ -12,7 +12,7 @@ entry_into_force: 1996-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/01/30/1996003087/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 1996. - WET tot wijziging van de wet van 20 juli 1979 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen in de Europese Economische Gemeenschap, die voortvloeien uit verrichtingen die deel uitmaken van het financieringsstelsel van het Europees Orientatie- en Garantiefonds voor de Landbouw, alsmede van landbouwheffingen, douanerechten en belasting over de toegevoegde waarde

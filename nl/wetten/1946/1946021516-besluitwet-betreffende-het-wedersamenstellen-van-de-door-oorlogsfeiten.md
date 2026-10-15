@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1946/02/15/1946021516/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-04-2018 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 1946. - BESLUITWET betreffende het wedersamenstellen van de door oorlogsfeiten vernielde handelsregister

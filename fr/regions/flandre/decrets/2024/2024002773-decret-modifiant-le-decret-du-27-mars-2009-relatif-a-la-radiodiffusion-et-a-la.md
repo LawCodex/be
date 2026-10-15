@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/01/2024002773/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2024. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne la promotion du secteur audiovisuel par le biais de contributions financières à la production d'oeuvres audiovisuelles

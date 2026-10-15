@@ -12,7 +12,7 @@ entry_into_force: 2003-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/17/2003015008/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2002. - Loi portant assentiment à la Convention sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, et aux Annexes Ire et II, faites à Aarhus le 25 juin 1998.

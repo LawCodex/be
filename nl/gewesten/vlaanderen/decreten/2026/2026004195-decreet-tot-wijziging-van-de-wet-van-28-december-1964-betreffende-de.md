@@ -13,7 +13,7 @@ entry_into_force: 2026-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/22/2026004195/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2026. - Decreet tot wijziging van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging en het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid

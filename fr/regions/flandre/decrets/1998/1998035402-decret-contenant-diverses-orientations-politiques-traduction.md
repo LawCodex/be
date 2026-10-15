@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/03/17/1998035402/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-04-1998 et mise à jour au 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1998. - Décret contenant diverses orientations politiques (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2009-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/19/2009201591/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Decreet tot wijziging, wat het toepassingsgebied betreft, van het decreet van 6 november 2008 ter bestrijding van bepaalde vormen van discriminatie, met inbegrip van de discriminatie tussen vrouwen en mannen inzake economie, tewerkstelling en beroepsopleiding

@@ -13,7 +13,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/05/2014203429/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Décret portant des mesures en matière d'enseignement - 2014

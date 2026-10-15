@@ -13,7 +13,7 @@ entry_into_force: 2008-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/07/10/2008031377/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2008. - Ordonnantie houdende instemming met het Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en van het Verdrag tot oprichting van de Europese Gemeenschap, en met de Slotakte, gedaan te Lissabon op 13 december 2007.

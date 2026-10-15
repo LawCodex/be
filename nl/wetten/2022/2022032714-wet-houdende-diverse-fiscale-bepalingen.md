@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/05/2022032714/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-2022 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2022. - Wet houdende diverse fiscale bepalingen

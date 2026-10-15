@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016027346/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met het Protocol bij het Verdrag inzake Milieueffectrapportage in grensoverschrijdend verband inzake strategische milieu-beoordeling, ondertekend te Espoo op 25 februari 1991, gedaan te Kiev op 21 mei 2003

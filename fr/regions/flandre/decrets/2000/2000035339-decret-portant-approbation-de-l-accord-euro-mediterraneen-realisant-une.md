@@ -13,7 +13,7 @@ entry_into_force: 2000-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/03/2000035339/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2000. - Décret portant approbation de l'Accord euro-méditerranéen réalisant une association entre les Communautés européennes et leurs Etats membres, d'une part, et l'Etat d'Israël, d'autre part, des Annexes Ire, II, III, IV, V, VI, VII, des Protocoles 1er à 5 et de l'Acte final, signé à Bruxelles le 20 novembre 1995. (TRADUCTION).

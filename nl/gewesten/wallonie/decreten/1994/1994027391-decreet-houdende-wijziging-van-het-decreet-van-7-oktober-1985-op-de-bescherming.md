@@ -13,7 +13,7 @@ entry_into_force: 1994-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/23/1994027391/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1994. - Decreet houdende wijziging van het decreet van 7 oktober 1985 op de bescherming van het oppervlaktewater tegen vervuiling.

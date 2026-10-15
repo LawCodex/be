@@ -12,7 +12,7 @@ entry_into_force: 2014-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/26/2014009133/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2014. - Loi modifiant la loi du 29 mars 2004 concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux

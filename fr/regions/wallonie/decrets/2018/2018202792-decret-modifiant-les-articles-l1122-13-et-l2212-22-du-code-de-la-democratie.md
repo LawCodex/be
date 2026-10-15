@@ -13,7 +13,7 @@ entry_into_force: 2018-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202792/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret modifiant les articles L1122-13 et L2212-22 du Code de la démocratie locale et de la décentralisation en vue d'instaurer le principe de la transmission par voie électronique des convocations et pièces relatives au point inscrit à l'ordre du jour du conseil communal et conseil provincial

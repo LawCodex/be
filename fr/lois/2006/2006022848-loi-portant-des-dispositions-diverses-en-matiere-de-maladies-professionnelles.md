@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/13/2006022848/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2006 et mise à jour au 02-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2006. - Loi portant des dispositions diverses en matière de maladies professionnelles et d'accidents du travail et en matière de réinsertion professionnelle.

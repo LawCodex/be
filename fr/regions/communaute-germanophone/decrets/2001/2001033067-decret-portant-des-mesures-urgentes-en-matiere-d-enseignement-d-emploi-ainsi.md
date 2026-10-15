@@ -13,7 +13,7 @@ entry_into_force: 2000-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/25/2001033067/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2001. - Décret portant des mesures urgentes en matière d'enseignement, d'emploi ainsi que de formation et de formation continue dans les classes moyennes (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2004-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/15/2003015245/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2002. - Wet houdende instemming met het herziene Europees Sociaal Handvest en met de Bijlage, gedaan te Straatsburg op 3 mei 1996.

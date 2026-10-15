@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200332/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2014 en tekstbijwerking tot 09-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Wet met betrekking tot de Zesde Staatshervorming inzake de aangelegenheden bedoeld in artikel 78 van de Grondwet

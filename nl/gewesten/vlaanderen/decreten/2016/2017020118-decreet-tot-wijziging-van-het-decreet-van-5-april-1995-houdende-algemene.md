@@ -13,7 +13,7 @@ entry_into_force: 2017-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/23/2017020118/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming, het decreet van 25 april 2014 betreffende de omgevingsvergunning en het decreet van 25 april 2014 betreffende complexe projecten, wat betreft de milieueffectrapportage van bepaalde openbare en particuliere projecten

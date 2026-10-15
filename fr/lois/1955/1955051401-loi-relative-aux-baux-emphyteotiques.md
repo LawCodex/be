@@ -11,7 +11,7 @@ published: 1955-05-18
 entry_into_force: 1955-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/05/14/1955051401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 1955. - Loi relative aux baux emphytéotiques.

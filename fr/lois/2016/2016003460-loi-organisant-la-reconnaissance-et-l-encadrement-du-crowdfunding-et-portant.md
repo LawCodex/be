@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/18/2016003460/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2016 et mise à jour au 28-04-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2016. - Loi organisant la reconnaissance et l'encadrement du crowdfunding et portant des dispositions diverses en matière de finances

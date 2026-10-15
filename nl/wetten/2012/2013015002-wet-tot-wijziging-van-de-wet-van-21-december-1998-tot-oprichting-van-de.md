@@ -12,7 +12,7 @@ entry_into_force: 2013-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/27/2013015002/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2012. - Wet tot wijziging van de wet van 21 december 1998 tot oprichting van de " Belgische Technische Coöperatie " in de vorm van een vennootschap van publiek recht

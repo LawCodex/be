@@ -13,7 +13,7 @@ entry_into_force: 2004-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036002/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet tot wijziging van het decreet van 3 maart 1993 houdende het statuut van de terreinen voor openluchtrecreatieve verblijven

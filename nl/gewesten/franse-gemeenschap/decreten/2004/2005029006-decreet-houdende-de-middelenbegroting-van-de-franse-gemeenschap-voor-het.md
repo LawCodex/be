@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/21/2005029006/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2004. - Decreet houdende de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2005 (VERTALING).

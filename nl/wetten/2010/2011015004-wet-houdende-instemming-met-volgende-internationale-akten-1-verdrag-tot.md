@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/12/15/2011015004/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2010. - Wet houdende instemming met volgende Internationale akten : 1° Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie, en Verklaring, gedaan te 's-Gravenhage op 17 juni 2008; 2° Protocol inzake de voorrechten en immuniteiten van de Benelux Unie, gedaan te 's-Gravenhage op 17 juni 2008

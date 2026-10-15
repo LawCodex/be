@@ -10,7 +10,7 @@ date: 1978-03-08
 entry_into_force: 1978-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/03/08/1978030807/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 1978. - Wet houdende goedkeuring van de Consulaire Overeenkomst tussen het Koninkrijk België en de Socialistische Republiek Tsjechoslowakije, ondertekend te Brussel op 15 juni 1976.

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/04/25/2024004157/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Ordonnantie tot wijziging van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen met betrekking tot het fiscaal regime dat van toepassing is op voertuigen van het type "pick-up" en tot indexering van de belasting op de inverkeerstelling

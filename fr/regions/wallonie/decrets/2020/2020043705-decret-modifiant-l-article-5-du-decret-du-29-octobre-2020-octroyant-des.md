@@ -13,7 +13,7 @@ entry_into_force: 2020-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/19/2020043705/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2020. - Décret modifiant l'article 5 du décret du 29 octobre 2020 octroyant des pouvoirs spéciaux au Gouvernement wallon en vue de faire face à la deuxième vague de la crise sanitaire de la COVID-19 pour les matières réglées par l'article 138 de la Constitution

@@ -12,7 +12,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/13/1998011071/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 1998. - Loi modifiant la loi du 4 août 1992 relative au crédit hypothécaire et modifiant la loi du 13 avril 1995 modifiant la loi du 4 août 1992 relative au crédit hypothécaire.

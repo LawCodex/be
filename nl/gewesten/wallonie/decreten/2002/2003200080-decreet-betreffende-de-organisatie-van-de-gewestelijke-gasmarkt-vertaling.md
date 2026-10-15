@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "art. 36 gewijzigd met uitwerking op een te bepalen datum. <DWG 2008-07-17/52 , art. 50, Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 11-02-2003 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet betreffende de organisatie van de gewestelijke gasmarkt (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013204600/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet houdende instemming met het internationaal verdrag van Nairobi betreffende de verwijdering van wrakken, 2007, en de bijlage, opgemaakt in Nairobi op 18 mei 2007

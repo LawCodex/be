@@ -13,7 +13,7 @@ entry_into_force: 2006-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/29/2006033065/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2006. - Décret portant assentiment à l'acte international suivant : échange de notes concernant l'accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du grand-duché de Luxembourg relatif à la coopération dans les régions frontalières (TRADUCTION).

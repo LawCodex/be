@@ -12,7 +12,7 @@ entry_into_force: 2010-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/08/2010009237/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2010. - Loi relative à la circonstance aggravante pour les auteurs de certaines infractions commises envers certaines personnes à caractère public

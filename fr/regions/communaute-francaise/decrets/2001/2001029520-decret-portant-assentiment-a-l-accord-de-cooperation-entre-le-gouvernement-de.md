@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/15/2001029520/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2001. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement de la Région wallonne et le Gouvernement de la Communauté française de Belgique et le Gouvernement de la République tunisienne et, à l'Annexe, faits à Tunis le 30 septembre 1998.

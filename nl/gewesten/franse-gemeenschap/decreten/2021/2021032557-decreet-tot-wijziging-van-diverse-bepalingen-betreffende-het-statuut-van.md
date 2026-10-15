@@ -12,7 +12,7 @@ published: 2021-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/19/2021032557/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2021. - Decreet tot wijziging van diverse bepalingen betreffende het statuut van onderwijzend personeel

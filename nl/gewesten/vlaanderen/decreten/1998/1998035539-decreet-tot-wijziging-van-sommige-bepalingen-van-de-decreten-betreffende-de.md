@@ -13,7 +13,7 @@ entry_into_force: 1998-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/28/1998035539/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 1998. - Decreet tot wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

@@ -12,7 +12,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/20/2004003323/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2004. - Wet tot wijziging van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben, en het verkeer daarvan en de controles daarop.

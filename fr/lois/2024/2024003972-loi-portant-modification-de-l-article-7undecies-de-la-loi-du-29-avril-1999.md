@@ -12,7 +12,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024003972/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Loi portant modification de l'article 7undecies de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité concernant le traitement des données à caractère personnel dans le cadre du mécanisme de rémunération de capacité

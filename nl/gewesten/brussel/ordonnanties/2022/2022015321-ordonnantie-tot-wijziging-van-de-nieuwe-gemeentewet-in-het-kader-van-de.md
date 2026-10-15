@@ -13,7 +13,7 @@ entry_into_force: 2024-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/06/2022015321/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2022. - Ordonnantie tot wijziging van de Nieuwe Gemeentewet in het kader van de hervorming van het lokaal bestuur

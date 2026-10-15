@@ -12,7 +12,7 @@ entry_into_force: 2007-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/07/2007015106/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2007. - Loi portant assentiment à la Résolution 997, adoptée par le Conseil de l'OIM dans sa 421e séance du 24 novembre 1998, apportant des amendements à la Constitution de l'Organisation internationale pour la Migration (OIM).

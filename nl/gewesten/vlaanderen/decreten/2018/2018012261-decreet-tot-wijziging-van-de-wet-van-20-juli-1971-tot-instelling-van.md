@@ -12,7 +12,7 @@ published: 2018-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/18/2018012261/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2018. - Decreet tot wijziging van de wet van 20 juli 1971 tot instelling van gewaarborgde gezinsbijslag

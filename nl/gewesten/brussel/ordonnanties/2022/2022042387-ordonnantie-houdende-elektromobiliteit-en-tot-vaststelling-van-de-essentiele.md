@@ -13,7 +13,7 @@ entry_into_force: 2022-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/10/13/2022042387/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2022. - Ordonnantie houdende elektromobiliteit en tot vaststelling van de essentiële elementen voor de verwerking van persoonsgegevens voor het toekennen van steunmaatregelen in het kader van de uitvoering van de lage-emissiezone

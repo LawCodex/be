@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/05/22/2001003254/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 09-06-2001 et mise à jour au 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2001. - [Loi relative à la participation des travailleurs au capital des sociétés et à l'établissement d'une prime bénéficiaire pour les travailleurs.] &lt;L 2017-12-25/01 , art. 45, 007; En vigueur : 01-01-2018&gt;

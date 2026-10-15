@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/21/2006014293/justel"
 department: "Economie, PME, Classes moyennes et Energie - Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2006 et mise à jour au 05-09-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2006. - Loi transposant la directive 2004/52/CE du Parlement européen et du Conseil du 29 avril 2004 concernant l'interopérabilité des systèmes de télépéage routier dans la Communauté

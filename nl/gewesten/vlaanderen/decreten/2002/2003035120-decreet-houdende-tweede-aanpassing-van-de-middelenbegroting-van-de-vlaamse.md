@@ -13,7 +13,7 @@ entry_into_force: 2003-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/20/2003035120/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2002. - Decreet houdende tweede aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2002.

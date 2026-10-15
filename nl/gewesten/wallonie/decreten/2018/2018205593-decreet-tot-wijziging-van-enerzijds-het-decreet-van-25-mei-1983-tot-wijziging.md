@@ -11,7 +11,7 @@ date: 2018-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/18/2018205593/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 2018. - Decreet tot wijziging van, enerzijds, het decreet van 25 mei 1983 tot wijziging, wat de Economische Raad van het Waalse Gewest betreft, van de kaderwet van 15 juli 1970, houdende organisatie van de planning en economische decentralisatie en tot oprichting van een Economische en Sociale Raad van het Waalse Gewest en, anderzijds, het decreet van 6 november 2008 houdende rationalisering van de adviesverlenende functie

@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029172/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant assentiment à l'Accord de coopération entre, d'une part, la Communauté française de Belgique, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale et, d'autre part, le Gouvernement de la République socialiste du Vietnam, fait à Bruxelles, le 26 septembre 2002.

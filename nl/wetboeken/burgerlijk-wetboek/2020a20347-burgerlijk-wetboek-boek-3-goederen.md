@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020A20347/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 17-03-2020 en tekstbijwerking tot 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2020. - BURGERLIJK WETBOEK - BOEK 3 : " Goederen "

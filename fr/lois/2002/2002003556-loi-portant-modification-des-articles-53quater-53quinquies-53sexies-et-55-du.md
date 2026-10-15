@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/20/2002003556/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2002. - Loi portant modification des articles 53quater , 53quinquies , 53sexies et 55 du Code de la taxe sur la valeur ajoutée.

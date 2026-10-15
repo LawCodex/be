@@ -13,7 +13,7 @@ entry_into_force: 2019-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/29/2019011718/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Decreet houdende wijziging van het decreet van 20 april 2018 houdende de invoering van sociale-impactobligaties, wat de evaluatie en ondersteuning van sociale-impactobligatieprojecten betreft

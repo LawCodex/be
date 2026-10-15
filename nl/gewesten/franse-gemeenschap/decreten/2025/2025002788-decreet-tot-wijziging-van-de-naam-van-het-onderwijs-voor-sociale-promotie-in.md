@@ -13,7 +13,7 @@ entry_into_force: 2025-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/27/2025002788/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2025. - Decreet tot wijziging van de naam van het Onderwijs voor Sociale Promotie in "Volwassenenonderwijs"

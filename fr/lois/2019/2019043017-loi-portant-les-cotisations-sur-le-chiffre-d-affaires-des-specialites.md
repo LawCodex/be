@@ -12,7 +12,7 @@ entry_into_force: 2020-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/20/2019043017/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Loi portant les cotisations sur le chiffre d'affaires des spécialités pharmaceutiques remboursables et une cotisation sur le marketing pour l'année 2020

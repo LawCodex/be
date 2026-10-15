@@ -13,7 +13,7 @@ entry_into_force: 2005-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/03/2005029147/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2005. - Décret créant le Conseil consultatif supérieur des cours philosophiques.

@@ -12,7 +12,7 @@ entry_into_force: 2000-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/18/2000007062/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2000. - Loi accordant à titre moral le prédicat militaire à certains civils belges.

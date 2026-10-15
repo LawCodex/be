@@ -13,7 +13,7 @@ entry_into_force: 2004-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029162/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Regering van de Republiek Slovenië, enerzijds, en de Franse Gemeenschap van België en het Waals Gewest, anderzijds, gedaan te Ljubljana op 21 maart 2003 (VERTALING).

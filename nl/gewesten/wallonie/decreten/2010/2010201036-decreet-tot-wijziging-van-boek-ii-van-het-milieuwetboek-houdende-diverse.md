@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/02/04/2010201036/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 04-03-2010 en tekstbijwerking tot 05-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Decreet tot wijziging van Boek II van het Milieuwetboek houdende diverse bepalingen met betrekking tot het waterbeleid

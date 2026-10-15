@@ -13,7 +13,7 @@ entry_into_force: 1996-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/25/1996033098/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1996. - Décret portant assentiment à l'accord de coopération relatif à la prise en charge des frais de placement et d'intégration sociale et professionnelle des personnes handicapées (TRADUCTION).

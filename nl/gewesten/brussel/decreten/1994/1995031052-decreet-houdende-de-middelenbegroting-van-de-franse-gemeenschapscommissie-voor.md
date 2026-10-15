@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/23/1995031052/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1994. - Decreet houdende de middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1995. (VERTALING)

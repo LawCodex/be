@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/29/2000009606/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 09-08-2000 et mise à jour au 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2000. - Loi portant création d'un fichier central des avis de saisie, de délégation, de cession et de règlement collectif de dettes et modifiant certaines dispositions du Code judiciaire.

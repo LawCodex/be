@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/07/15/1985013241/justel"
 department: "Volksgezondheid en Gezin"
 justel_note: "Raadpleging van vroegere versies vanaf 11-04-1992 en tekstbijwerking tot 28-02-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1985. - Wet betreffende het gebruik bij dieren van stoffen met hormonale, [anti-hormonale, beta-adrenergische of produktie-stimulerende werking]. &lt;W 1994-07-11/48, art. 1, 004; Inwerkingtreding : 1994-10-14&gt;

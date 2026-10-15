@@ -13,7 +13,7 @@ entry_into_force: 2017-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030871/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret modifiant le décret du 20 avril 2012 portant organisation de l'accueil de bébés et de bambins, en ce qui concerne l'attestation de capacité

@@ -13,7 +13,7 @@ entry_into_force: 2014-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/28/2014202554/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Decreet betreffende het verkeer van havenvoertuigen tussen de laad- en loskaaien, de opslagplaatsen, de hangars en de magazijnen die binnen het havengebied liggen

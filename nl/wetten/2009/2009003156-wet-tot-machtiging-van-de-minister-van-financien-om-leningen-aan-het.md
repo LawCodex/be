@@ -12,7 +12,7 @@ entry_into_force: 2009-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/14/2009003156/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2009. - Wet tot machtiging van de Minister van Financiën om leningen aan het Groothertogdom Luxemburg toe te staan

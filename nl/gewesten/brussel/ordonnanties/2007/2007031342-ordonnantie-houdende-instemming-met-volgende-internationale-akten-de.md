@@ -12,7 +12,7 @@ published: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/19/2007031342/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Ordonnantie houdende instemming met volgende internationale akten : de Overeenkomst tot wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van Afrika, het Caribisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000, en de Slotakte, gedaan te Luxemburg op 25 juni 2005, en het Intern Akkoord tussen de vertegenwoordigers van de Regeringen van de lidstaten, in het kader van de Raad bijeen, houdende wijziging van het Intern Akkoord van 18 september 2000 inzake maatregelen en procedures voor de uitvoering van de ACS-EG-Partnerschapsovereenkomst, gedaan te Luxemburg op 10 april 2006

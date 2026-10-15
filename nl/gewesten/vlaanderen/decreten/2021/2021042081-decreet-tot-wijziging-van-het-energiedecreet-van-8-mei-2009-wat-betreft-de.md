@@ -13,7 +13,7 @@ entry_into_force: 2021-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/04/2021042081/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2021. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de plaatsing van een elektronische meter zonder communicatiemiddel en het vermijden van het meermaals aanrekenen van elektriciteitsdistributienettarieven voor het gebruik van het elektriciteitsdistributienet

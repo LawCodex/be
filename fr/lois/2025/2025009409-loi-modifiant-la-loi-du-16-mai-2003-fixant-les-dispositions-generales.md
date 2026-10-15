@@ -12,7 +12,7 @@ entry_into_force: 2025-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/08/2025009409/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2025. - Loi modifiant la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes, en vue de transposer partiellement la directive (UE) 2024/1265

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/12/14/2023048156/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2023. - Ordonnance simplifiant les règles en matière d'accès à la profession

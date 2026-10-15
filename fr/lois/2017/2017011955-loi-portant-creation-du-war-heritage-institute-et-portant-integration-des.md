@@ -12,7 +12,7 @@ entry_into_force: 2017-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/28/2017011955/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2017. - Loi portant création du "War Heritage Institute" et portant intégration des missions, des moyens et du personnel de l'Institut des vétérans - Institut national des invalides de guerre, anciens combattants et victimes de guerre, du Musée royal de l'Armée et d'Histoire militaire, du Mémorial national du Fort de Breendonk, et du Pôle historique de la Défense

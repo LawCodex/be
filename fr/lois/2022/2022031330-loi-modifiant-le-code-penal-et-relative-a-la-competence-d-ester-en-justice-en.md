@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/21/2022031330/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-03-2022 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2022. - Loi modifiant le Code pénal [et relative à la compétence d'ester en justice,] en ce qui concerne le droit pénal sexuel &lt;L 2024-01-18/06 , art. 82, 002; En vigueur : 05-02-2024&gt;

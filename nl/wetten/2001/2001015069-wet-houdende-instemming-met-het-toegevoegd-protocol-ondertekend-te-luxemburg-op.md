@@ -12,7 +12,7 @@ entry_into_force: 2001-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/04/2001015069/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2001. - Wet houdende instemming met het toegevoegd Protocol, ondertekend te Luxemburg op 28 januari 1997, tot wijziging van de Belgisch-Frans-Luxemburgse Conventie betreffende de uitbating van de spoorwegen van het Groothertogdom, ondertekend te Luxemburg op 17 april 1946.

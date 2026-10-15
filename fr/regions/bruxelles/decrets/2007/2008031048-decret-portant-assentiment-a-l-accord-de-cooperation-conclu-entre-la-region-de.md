@@ -13,7 +13,7 @@ entry_into_force: 2008-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/25/2008031048/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2007. - Décret portant assentiment à l'accord de coopération conclu entre la Région de Bruxelles-Capitale, la Communauté française et la Commission communautaire française relatif à l'équipement mis à disposition dans le cadre de la revalorisation de l'enseignement qualifiant et à la collaboration entre les centres de technologies avancées et les centres de référence professionnelle.

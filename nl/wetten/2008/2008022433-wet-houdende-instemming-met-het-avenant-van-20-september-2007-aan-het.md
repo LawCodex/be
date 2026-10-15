@@ -12,7 +12,7 @@ entry_into_force: 2008-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/24/2008022433/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2008. - Wet houdende instemming met het avenant van 20 september 2007 aan het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie, bekrachtigd door de wet van 10 mei 2006.

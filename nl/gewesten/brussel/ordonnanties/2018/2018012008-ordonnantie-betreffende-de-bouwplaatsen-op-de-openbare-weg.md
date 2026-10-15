@@ -13,7 +13,7 @@ entry_into_force: 2019-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/03/2018012008/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2018. - Ordonnantie betreffende de bouwplaatsen op de openbare weg

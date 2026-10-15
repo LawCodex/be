@@ -13,7 +13,7 @@ entry_into_force: 2021-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/19/2021022580/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2021. - Decreet tot wijziging van artikel 37 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, wat betreft de langdurige gesloten begeleiding

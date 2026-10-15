@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/18/2020044595/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2020. - Ordonnantie houdende de Middelenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2021

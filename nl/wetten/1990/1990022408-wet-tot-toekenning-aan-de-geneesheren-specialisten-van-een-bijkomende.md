@@ -11,7 +11,7 @@ published: 1990-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/18/1990022408/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1990. - Wet tot toekenning aan de geneesheren-specialisten van een bijkomende bonificatie inzake pensioenen.

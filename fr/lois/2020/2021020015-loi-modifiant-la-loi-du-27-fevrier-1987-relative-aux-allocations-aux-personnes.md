@@ -12,7 +12,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/20/2021020015/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2020. - Loi modifiant la loi du 27 février 1987 relative aux allocations aux personnes handicapées, portant adaptation du critère d'âge de 21 à 18 ans

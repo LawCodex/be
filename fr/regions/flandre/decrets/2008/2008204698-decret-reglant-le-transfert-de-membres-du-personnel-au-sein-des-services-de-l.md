@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/28/2008204698/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-01-2009 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2008. - Décret réglant le transfert de membres du personnel au sein des services de l'Autorité flamande en cas de glissement de tâches ou de compétences (TRADUCTION)

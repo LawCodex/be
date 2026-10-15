@@ -12,7 +12,7 @@ entry_into_force: 2006-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/20/2006202143/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2006. - Loi modifiant l'article 13 de la loi du 5 septembre 2001 visant à améliorer le taux d'emploi des travailleurs.

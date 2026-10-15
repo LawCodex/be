@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007011352/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi modifiant la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances en ce qui concerne la fusion par absorption d'associations d'assurances mutuelles.

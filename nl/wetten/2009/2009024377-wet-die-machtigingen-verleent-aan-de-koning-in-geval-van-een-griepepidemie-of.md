@@ -12,7 +12,7 @@ entry_into_force: 2009-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/10/16/2009024377/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2009. - Wet die machtigingen verleent aan de Koning in geval van een griepepidemie of -pandemie

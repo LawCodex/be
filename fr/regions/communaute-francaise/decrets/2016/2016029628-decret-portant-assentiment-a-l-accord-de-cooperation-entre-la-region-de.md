@@ -13,7 +13,7 @@ entry_into_force: 2017-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/17/2016029628/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2016. - Décret portant assentiment à l'accord de coopération entre la Région de Bruxelles-Capitale, la Communauté française et la Commission communautaire française relatif à l'équipement mis à disposition dans le cadre de la refondation de l'enseignement qualifiant et à la collaboration entre les Centres de technologies avancées et les Centres de référence professionnelle

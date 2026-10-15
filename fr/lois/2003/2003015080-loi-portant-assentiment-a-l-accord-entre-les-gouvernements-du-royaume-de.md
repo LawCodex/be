@@ -12,7 +12,7 @@ entry_into_force: 2003-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003015080/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2003. - Loi portant assentiment à l'Accord entre les Gouvernements du Royaume de Belgique, du Grand-Duché de Luxembourg et du Royaume des Pays-Bas, d'une part, et le Gouvernement de la Roumanie, d'autre part, relatif à la Réadmission des personnes en situation irrégulière, et aux Annexes I et II, signés à Bucarest le 6 juin 1995.

@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/02/05/2015031097/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2015. - Ordonnance portant assentiment à : la Convention n° 184 concernant la sécurité et la santé dans l'agriculture, adoptée par la Conférence internationale du Travail au cours de sa 89 e session qui s'est tenue à Genève du 5 juin au 21 juin 2011

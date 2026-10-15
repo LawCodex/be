@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/09/03/2020203746/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 10-09-2020 en tekstbijwerking tot 12-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2020. - Decreet tot vaststelling van de modaliteiten van het recht voor de indiener van een verzoekschrift om te worden gehoord

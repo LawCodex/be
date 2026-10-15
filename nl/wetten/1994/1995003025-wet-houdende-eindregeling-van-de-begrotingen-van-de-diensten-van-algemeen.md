@@ -12,7 +12,7 @@ entry_into_force: 1995-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/01/1995003025/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 1994. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat en van instellingen van openbaar nut van het jaar 1985 of voorgaande jaren.

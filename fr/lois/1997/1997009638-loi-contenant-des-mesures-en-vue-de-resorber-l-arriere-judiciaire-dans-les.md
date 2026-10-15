@@ -12,7 +12,7 @@ entry_into_force: 1997-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/09/1997009638/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1997. - Loi contenant des mesures en vue de résorber l'arriéré judiciaire dans les cours d'appel.

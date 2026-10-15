@@ -13,7 +13,7 @@ entry_into_force: 1995-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035686/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Décret portant approbation de l'accord suivant : Accord concernant l'encouragement et la protection réciproques des investissements entre l'Union économique belgo-luxembourgeoise et la République de Mongolie, signé à Bruxelles le 3 mars 1992 (TRADUCTION)

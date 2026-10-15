@@ -13,7 +13,7 @@ entry_into_force: 2009-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/08/2009202910/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2009. - Decreet houdende wijziging van het decreet van 7 mei 2004 houdende oprichting van een Vlaams Instituut voor Vrede en Geweldpreventie bij het Vlaams Parlement, wat zijn adviesopdracht en de evenwichtige vertegenwoordiging van de raad van bestuur betreft

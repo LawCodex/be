@@ -16,7 +16,7 @@ department: "Intérieur"
 justel_notes:
   - "art. 13/1 inséré dans le futur par L 2023-06-11/08 , art. 2; En vigueur : 01-08-2024"
   - "Consultation des versions antérieures à partir du 07-05-2014 et mise à jour au 19-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2011. - Loi relative à la sécurité et la protection des infrastructures critiques

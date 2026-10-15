@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/20/2018030928/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2018. - Decreet houdende wijziging van het Wetboek van de Inkomstenbelastingen 1992, wat betreft de vermindering van de personenbelasting voor uitgaven voor beschermde goederen

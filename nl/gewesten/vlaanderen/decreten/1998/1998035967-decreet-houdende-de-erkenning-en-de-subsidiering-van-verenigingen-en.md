@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/14/1998035967/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-09-1999 en tekstbijwerking tot 17-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Decreet houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg.

@@ -13,7 +13,7 @@ entry_into_force: 2002-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/07/2001036509/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2001. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de Macédoine concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 17 février 1999 (TRADUCTION).

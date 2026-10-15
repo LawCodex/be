@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/14/2002029569/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2002. - Décret organisant la représentation des pouvoirs organisateurs d'enseignement subventionné et de centres psycho-médico-sociaux subventionnés.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/31/2003011096/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-02-2003 en tekstbijwerking tot 26-05-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2003. - [Wet betreffende kernenergie voor industriële elektriciteitsproductie]

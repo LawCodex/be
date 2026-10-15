@@ -12,7 +12,7 @@ entry_into_force: 2018-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/17/2017032063/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2017. - Wet tot wijziging van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten teneinde het beroep te regelen dat kan worden ingesteld tegen bepaalde beslissingen van de FSMA, genomen krachtens de wet over de infrastructuren voor de markten voor financiële instrumenten

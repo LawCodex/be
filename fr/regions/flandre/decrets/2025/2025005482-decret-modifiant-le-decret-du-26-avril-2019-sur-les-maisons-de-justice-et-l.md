@@ -13,7 +13,7 @@ entry_into_force: 2025-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/04/2025005482/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2025. - Décret modifiant le décret du 26 avril 2019 sur les maisons de justice et l'aide juridique de première ligne, en ce qui concerne l'optimisation des processus de travail du Centre flamand de surveillance électronique et des maisons de justice

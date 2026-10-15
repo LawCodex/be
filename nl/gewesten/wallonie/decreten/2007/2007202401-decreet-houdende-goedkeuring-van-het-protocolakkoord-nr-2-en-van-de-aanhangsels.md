@@ -13,7 +13,7 @@ entry_into_force: 2007-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/12/2007202401/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2007. - Decreet houdende goedkeuring van het protocolakkoord nr. 2 en van de aanhangsels erbij betreffende het te voeren ouderenzorgbeleid, gesloten tussen de Federale Regering en de overheden bedoeld in de artikelen 128, 130, 135 en 138 van de Grondwet (VERTALING).

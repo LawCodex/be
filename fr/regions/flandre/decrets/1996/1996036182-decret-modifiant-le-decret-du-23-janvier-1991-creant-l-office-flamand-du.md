@@ -13,7 +13,7 @@ entry_into_force: 1996-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996036182/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1996. - DECRET modifiant le décret du 23 janvier 1991 créant l'office flamand du Commerce extérieur

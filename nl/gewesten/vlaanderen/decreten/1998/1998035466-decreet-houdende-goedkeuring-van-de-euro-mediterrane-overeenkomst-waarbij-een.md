@@ -13,7 +13,7 @@ entry_into_force: 1998-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/31/1998035466/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 1998. - Decreet houdende goedkeuring van de Euro-Mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten enerzijds, en het koninkrijk Marokko anderzijds, bijlagen 1, 2, 3, 4, 5, 6 en 7, protocollen 1, 2, 3, 4 en 5, en slotakte, ondertekend in Brussel op 26 februari 1996.

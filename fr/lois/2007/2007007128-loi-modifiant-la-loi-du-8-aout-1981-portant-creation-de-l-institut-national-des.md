@@ -12,7 +12,7 @@ entry_into_force: 2007-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007007128/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant la loi du 8 août 1981 portant création de l'Institut national des invalides de guerre, anciens combattants et victimes de guerre ainsi que du Conseil supérieur des invalides de guerre, anciens combattants et victimes de guerre.

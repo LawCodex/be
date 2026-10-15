@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/13/2002027591/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Regering van de Franse Gemeenschap van België en de Regering van het Waalse Gewest, enerzijds, en de Regering van de Tsjechische Republiek, anderzijds, opgemaakt te Praag op 28 maart 2001 (VERTALING).

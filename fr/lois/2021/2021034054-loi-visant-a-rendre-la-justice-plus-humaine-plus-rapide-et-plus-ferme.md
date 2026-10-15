@@ -12,7 +12,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/28/2021034054/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2021. - Loi visant à rendre la justice plus humaine, plus rapide et plus ferme

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/10/2022030008/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-02-2022 et mise à jour au 29-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2021. - Décret relatif au DBFM Ecoles de Flandre

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/03/2020044211/justel"
 department: "Service public de Wallonie"
 justel_note: "par son arrêt n° 69/2022 du 19-05-2022 ( 2022-05-19/07 , M.B. 21-06-2022, p. 51785),la Cour constitutionnelle a annulé les articles 2 et 4 du présent décret"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2020. - Décret portant confirmation des arrêtés du Gouvernement wallon de pouvoirs spéciaux pris dans le cadre de la gestion de la crise sanitaire liée au COVID-19

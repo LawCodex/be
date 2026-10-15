@@ -12,7 +12,7 @@ entry_into_force: 2015-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/05/07/2010015114/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2010. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Regering van de Republiek Turkije inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, ondertekend te Istanboel op 31 oktober 2008

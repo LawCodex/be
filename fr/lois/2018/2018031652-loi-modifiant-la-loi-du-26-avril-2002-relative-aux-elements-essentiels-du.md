@@ -12,7 +12,7 @@ entry_into_force: 2018-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/19/2018031652/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Loi modifiant la loi du 26 avril 2002 relative aux éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police

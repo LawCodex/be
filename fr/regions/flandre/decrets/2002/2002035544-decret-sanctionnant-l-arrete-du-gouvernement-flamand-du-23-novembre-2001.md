@@ -13,7 +13,7 @@ entry_into_force: 2002-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/22/2002035544/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2002. - Décret sanctionnant l'arrêté du Gouvernement flamand du 23 novembre 2001 définissant les objectifs de développement de l'enseignement fondamental spécial de type 1 (TRADUCTION).

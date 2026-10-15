@@ -12,7 +12,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/15/2026005719/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2026. - Loi modifiant la loi du 12 juillet 2022 renforçant le cadre applicable aux provisions constituées pour le démantèlement des centrales nucléaires, pour la gestion du combustible usé et pour la gestion des déchets opérationnels et abrogeant partiellement et modifiant la loi du 11 avril 2003 sur les provisions constituées pour le démantèlement des centrales nucléaires et pour la gestion de matières fissiles irradiées dans ces centrales nucléaires

@@ -13,7 +13,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022041773/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Decreet over de instroom en het optimaliseren van de studie-efficiëntie in het hoger onderwijs en overige organisatorische aspecten van het hoger onderwijs

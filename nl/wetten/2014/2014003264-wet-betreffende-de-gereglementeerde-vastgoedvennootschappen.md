@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/12/2014003264/justel"
 department: "Economie, KMO, Middenstand en Energie - Justitie - Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-2014 en tekstbijwerking tot 01-06-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2014. - Wet betreffende de gereglementeerde vastgoedvennootschappen

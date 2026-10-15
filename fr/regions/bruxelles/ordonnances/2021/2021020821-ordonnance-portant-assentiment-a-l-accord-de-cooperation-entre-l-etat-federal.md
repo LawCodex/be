@@ -13,7 +13,7 @@ entry_into_force: 2021-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/04/15/2021020821/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2021. - Ordonnance portant assentiment à l'accord de coopération entre l'Etat Fédéral, la Communauté flamande, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté française et la Communauté germanophone concernant l'utilisation de SURE

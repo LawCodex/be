@@ -12,7 +12,7 @@ entry_into_force: 2026-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/18/2026201603/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2026. - Wet houdende de pensioenhervorming (II)

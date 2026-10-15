@@ -12,7 +12,7 @@ entry_into_force: 2022-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/01/2022203186/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2022. - Bijzondere wet tot wijziging van de bijzondere wetgeving inzake mandatenlijst en vermogensaangifte, wat de uitbreiding van het toepassingsgebied tot districtsburgemeesters en -schepenen betreft

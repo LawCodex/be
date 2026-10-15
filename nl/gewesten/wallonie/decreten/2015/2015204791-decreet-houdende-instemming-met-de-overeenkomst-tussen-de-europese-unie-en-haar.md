@@ -12,7 +12,7 @@ published: 2015-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/16/2015204791/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2015. - Decreet houdende instemming met de overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Unie, haar lidstaten, en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gedaan te Brussel op 1 april 2015

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035594/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-07-2009 et mise à jour au 02-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret portant établissement et réalisation des alignements [régionaux](Intitulé modifié par DCFL 2019-05-03/47 , art. 54, 009; En vigueur : 01-09-2019)

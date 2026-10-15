@@ -12,7 +12,7 @@ entry_into_force: 2012-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/19/2012009154/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2012. - Wet tot wijziging van de wet van 5 augustus 2006 inzake de toepassing van het beginsel van de wederzijdse erkenning van rechterlijke beslissingen in strafzaken tussen de lidstaten van de Europese Unie (I)

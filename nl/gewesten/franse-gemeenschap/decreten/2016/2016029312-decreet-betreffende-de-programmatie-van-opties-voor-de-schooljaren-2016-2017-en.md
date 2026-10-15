@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/16/2016029312/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2016. - Decreet betreffende de programmatie van opties, voor de schooljaren 2016-2017 en 2017 en 2018, in het gewoon secundair kwalificatieonderwijs, alsook in het gespecialiseerd onderwijs van vorm 4

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014009293/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-05-2014 en tekstbijwerking tot 02-07-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet tot wijziging van het Burgerlijk Wetboek met het oog op de invoering van de gelijkheid tussen mannen en vrouwen bij de wijze van naamsoverdracht aan het kind en aan de geadopteerde

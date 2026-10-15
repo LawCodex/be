@@ -13,7 +13,7 @@ entry_into_force: 2004-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/25/2004200924/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2004. - Decreet houdende instemming met het Protocol van het Verdrag van 1979 over de grensoverschrijdende luchtverontreiniging ter bestrijding van verzuring, eutrofiëring en ozon in de omgevingslucht, gedaan te Göteborg op 30 november 1999 (VERTALING).

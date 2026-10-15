@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/12/2024200490/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2023. - Decreet tot wijziging van het programmadecreet 1998 van 29 juni 1998 met betrekking tot de pensioenregeling van de vastbenoemde personeelsleden van het Belgisch Radio- en Televisiecentrum van de Duitstalige Gemeenschap

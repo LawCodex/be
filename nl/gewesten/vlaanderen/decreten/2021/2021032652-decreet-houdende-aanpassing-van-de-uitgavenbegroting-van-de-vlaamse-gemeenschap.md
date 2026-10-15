@@ -12,7 +12,7 @@ entry_into_force: 2021-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/09/2021032652/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2021. - Decreet houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021

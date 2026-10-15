@@ -13,7 +13,7 @@ entry_into_force: 2012-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/17/2012201307/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2012. - Décret portant modification du décret du 28 février 2003 relatif à la politique flamande d'intégration civique, en ce qui concerne l'intégration civique obligatoire des demandeurs d'asile

@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/17/2013029477/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Programmadecreet houdende verschillende maatregelen in verband met de begrotingsfondsen, gezondheid, cultuur, audiovisuele sector, leerplichtonderwijs en onderwijs voor sociale promotie, het agentschap voor de evaluatie van de kwaliteit van het hoger onderwijs, financiering van het universitair en niet universitair hoger onderwijs, schoolgebouwen, onderzoek en Etnic

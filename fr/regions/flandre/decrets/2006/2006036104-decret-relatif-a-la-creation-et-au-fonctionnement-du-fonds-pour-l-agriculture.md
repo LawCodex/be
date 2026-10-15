@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/19/2006036104/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-07-2006 et mise à jour au 30-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2006. - Décret relatif à la création et au fonctionnement du Fonds pour l'Agriculture et la Pêche (TRADUCTION).

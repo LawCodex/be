@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/21/2003015043/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2003. - Loi portant assentiment aux actes internationaux suivants : 1° Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif au financement et à la gestion des aides de la Communauté dans le cadre du protocole financier de l'accord de partenariat entre les Etats d'Afrique, des Caraïbes et du Pacifique et la Communauté européenne et ses Etats membres, signé à Cotonou (Bénin) le 23 juin 2000, et à l'affectation des aides financières destinées aux pays et territoires d'outre-mer auxquels s'appliquent les dispositions de la quatrième partie du traité CE, et Annexe; 2° Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE, et Annexe, faits à Bruxelles le 18 septembre 2000.

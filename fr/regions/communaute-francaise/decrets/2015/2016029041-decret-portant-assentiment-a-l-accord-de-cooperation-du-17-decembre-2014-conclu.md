@@ -13,7 +13,7 @@ entry_into_force: 2016-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/10/2016029041/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2015. - Décret portant assentiment à l'accord de coopération du 17 décembre 2014 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune modifiant l'accord de coopération du 9 décembre 2011 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport

@@ -13,7 +13,7 @@ entry_into_force: 2015-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/01/22/2015200350/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2015. - Décret portant assentiment à l'avenant du 15 mai 2014 modifiant l'entrée en vigueur de l'avenant du 27 mars 2014 relatif à l'accord de coopération-cadre relatif à la formation en alternance, conclu à Bruxelles le 24 octobre 2008, entre la Communauté française, la Région wallonne et la Commission communautaire française

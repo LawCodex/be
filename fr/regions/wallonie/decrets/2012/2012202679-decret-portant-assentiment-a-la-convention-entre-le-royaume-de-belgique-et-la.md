@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202679/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République de Finlande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur les revenus et sur la fortune, faite à Bruxelles le 18 mai 1976, telle que modifiée par l'Accord additionnel, fait à Bruxelles le 13 mars 1991, et par le Protocole, fait à Bruxelles le 15 septembre 2009

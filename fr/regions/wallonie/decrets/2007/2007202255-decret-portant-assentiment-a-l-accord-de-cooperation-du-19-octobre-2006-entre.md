@@ -13,7 +13,7 @@ entry_into_force: 2007-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/14/2007202255/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2007. - Décret portant assentiment à l'accord de coopération du 19 octobre 2006 entre la Communauté française, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale relatif à la mise en oeuvre et à la gestion du programme d'action communautaire intégré d'éducation et de formation tout au long de la vie et à la création de l'Agence francophone pour l'éducation et la formation tout au long de la vie.

@@ -13,7 +13,7 @@ entry_into_force: 1996-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/08/1996035885/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1996. - Decreet tot goedkeuring van het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, en van de bijlagen I, II, III en IV, ondertekend te Helsinki op 17 maart 1992.

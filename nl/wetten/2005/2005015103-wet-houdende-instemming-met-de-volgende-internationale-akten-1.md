@@ -11,7 +11,7 @@ entry_into_force: 2005-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/03/2005015103/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2005. - Wet houdende instemming met de volgende Internationale Akten : - 1° Kaderovereenkomst voor een multilateraal milieuprogramma op het vlak van kernenergie in de Russische Federatie; - 2° Protocol betreffende de rechtsvorderingen, de rechtsplegingen en de schadevergoeding bij de Kaderovereenkomst voor een multilateraal Milieuprogramma op het vlak van kernenergie in de Russische Federatie, gedaan te Stockholm op 21 mei 2003.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042511/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2021 et mise à jour au 31-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi portant des dispositions diverses en matière de taxe sur la valeur ajoutée

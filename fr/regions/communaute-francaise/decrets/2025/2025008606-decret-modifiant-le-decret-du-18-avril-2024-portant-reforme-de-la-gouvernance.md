@@ -13,7 +13,7 @@ entry_into_force: 2024-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/06/2025008606/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2025. - Décret modifiant le décret du 18 avril 2024 portant réforme de la gouvernance de l'Office de la Naissance et de l'Enfance

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/21/2013204060/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2013. - Decreet houdende wijziging van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, wat de beroepstermijnen betreft

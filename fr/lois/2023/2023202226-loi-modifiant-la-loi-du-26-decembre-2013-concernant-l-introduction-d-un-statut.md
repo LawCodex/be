@@ -12,7 +12,7 @@ entry_into_force: 2023-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/20/2023202226/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2023. - Loi modifiant la loi du 26 décembre 2013 concernant l'introduction d'un statut unique entre ouvriers et employés en ce qui concerne les délais de préavis et le jour de carence ainsi que de mesures d'accompagnement en ce qui concerne l'adaptation des délais de préavis légaux maximums en cas de congé donné par le travailleur

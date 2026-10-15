@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/05/2013035685/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-2013 en tekstbijwerking tot 31-05-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2013. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2013

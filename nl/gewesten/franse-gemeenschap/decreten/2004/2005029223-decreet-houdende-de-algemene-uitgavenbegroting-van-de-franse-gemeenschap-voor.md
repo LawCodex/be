@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/21/2005029223/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 27-10-2005 en tekstbijwerking tot 05-01-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2004. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2005 (VERTALING).

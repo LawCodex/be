@@ -13,7 +13,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/29/2024003816/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Decreet tot instemming met het verdrag van de Raad van Europa inzake een integrale benadering van veiligheid, beveiliging en gastvrijheid bij voetbalwedstrijden en andere sportevenementen, gedaan te Saint-Denis op 3 juli 2016

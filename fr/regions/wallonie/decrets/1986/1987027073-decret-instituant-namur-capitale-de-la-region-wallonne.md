@@ -13,7 +13,7 @@ entry_into_force: 1987-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1986/12/11/1987027073/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1986. - Décret instituant Namur capitale de la région wallonne

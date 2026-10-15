@@ -13,7 +13,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014203195/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création d'un comité de coordination et de facilitation pour l'octroi des autorisations pour des projets d'infrastructures énergétiques transeuropéennes, en exécution du Règlement (UE) n° 347/2013

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/24/1996029270/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-1996 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1996. - Decreet houdende regeling van de opdrachten, verloven wegens opdracht en terbeschikkingstelling wegens opdracht in het door de Franse Gemeenschap georganiseerd of gesubsidieerd onderwijs (VERTALING).

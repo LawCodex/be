@@ -13,7 +13,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/02/10/2022030851/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2022. - Ordonnantie tot wijziging van de ordonnantie van 1 maart 2012 betreffende het natuurbehoud en tot opheffing van het stelsel van afwijkingen waarbij het gebruik van verschillende middelen voor het vangen en doden van duiven wordt toegestaan

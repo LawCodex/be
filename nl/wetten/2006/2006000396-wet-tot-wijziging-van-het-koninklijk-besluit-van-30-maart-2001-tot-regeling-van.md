@@ -10,7 +10,7 @@ date: 2006-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/02/2006000396/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Wet tot wijziging van het koninklijk besluit van 30 maart 2001 tot regeling van de rechtspositie van het personeel van de politiediensten wat betreft de benoeming in de graad van aanstelling van bepaalde personeelsleden van de algemene directie van de gerechtelijke politie.

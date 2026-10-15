@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017012945/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Republiek Rwanda tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Kigali op 16 april 2007, zoals gewijzigd door het Protocol van 17 mei 2010; 2° het Protocol, gedaan te Brussel op 17 mei 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Rwanda tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Kigali op 16 april 2007

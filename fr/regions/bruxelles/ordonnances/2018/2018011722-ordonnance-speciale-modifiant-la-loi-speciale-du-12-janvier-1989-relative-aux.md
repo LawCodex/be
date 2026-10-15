@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/04/19/2018011722/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Ordonnance spéciale modifiant la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises et visant à renforcer la démocratie directe par la suppression de la liste des suppléants aux élections régionales

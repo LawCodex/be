@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/15/2001029519/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBER 2001. - Decreet houdende instemming met het Akkoord tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Zwitserse Confederatie, anderzijds, over het vrij verkeer van personen, met de Bijlagen I, II en III bij dit Akkoord, met het Protocol over de tweede verblijfplaatsen in Denemarken en met het Protocol betreffende de Aland-eilanden en met de Slotakte, opgemaakt te Luxemburg op 21 juni 1999 (VERTALING).

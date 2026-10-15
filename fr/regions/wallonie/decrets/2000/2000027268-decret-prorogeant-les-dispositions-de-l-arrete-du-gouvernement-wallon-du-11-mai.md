@@ -13,7 +13,7 @@ entry_into_force: 2000-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/28/2000027268/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2000. - Décret prorogeant les dispositions de l'arrêté du Gouvernement wallon du 11 mai 1995 fixant les dates de l'ouverture, de la clôture et de la suspension de la chasse, du 1er juillet 1995 au 30 juin 2000.

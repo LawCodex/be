@@ -13,7 +13,7 @@ entry_into_force: 2021-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/18/2021022502/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2021. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 40 du 10 décembre 2020 relatif au subventionnement exceptionnel des pouvoirs organisateurs de l'enseignement secondaire ordinaire et spécialisé ayant pour objet l'achat de matériel informatique, dans le cadre de la crise de la COVID-19

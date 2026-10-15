@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/24/2021043639/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2021. - Gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van de gezamenlijke ordonnantie van 27 juli 2017 van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie tot vaststelling van de regels voor de verdeling van de algemene dotatie aan de gemeenten en de OCMW's van het Brussels Hoofdstedelijk Gewest vanaf het jaar 2017

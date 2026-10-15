@@ -13,7 +13,7 @@ entry_into_force: 2021-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/28/2021203255/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2021. - Decreet inzake open data en het hergebruik van overheidsinformatie

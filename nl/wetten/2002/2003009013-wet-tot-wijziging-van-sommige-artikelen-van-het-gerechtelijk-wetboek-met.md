@@ -12,7 +12,7 @@ entry_into_force: 2003-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/19/2003009013/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Wet tot wijziging van sommige artikelen van het Gerechtelijk Wetboek met betrekking tot de werking van de Hoge Raad voor de Justitie.HI:??2,Parlementaire verwijzingen Stukken van de Senaat : 2-1153-2001/2002 Nr. 1 : Wetsvoorstel van de heer Dubié c.s. Nrs. 2 tot 4 : Amendementen Nr. 5 : Verslag Nr. 6 : Tekst aangenomen door de commissie Handelingen van de Senaat : 17 en 18 juli 2002 Stukken van de Kamer van volksvertegenwoordigers 50 - 1979 - 2001/2002 Nr. 1 : wetsontwerp Nrs 2 en 3 : amendementen Nr. 4 : verslag Nr. 5 : tekst aangenomen door de commissie Nr. 6 : tekst aangenomen in plenaire vergadering en teruggezonden naar de Senaat Integraal verslag : 24 oktober 2002 Stukken van de Senaat : 2-1153-2001/2002 Nr. 7 : ontwerp geamendeerd door de Kamer Nr. 8 : verslag Nr. 9 : tekst goedgekeurd door de commissie Nr. 10 : tekst aangenomen in plenaire vergadering en aan de Koning ter bekrachtiging voorgelegd Handelingen van de Senaat : 5 december 2002.

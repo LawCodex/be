@@ -13,7 +13,7 @@ entry_into_force: 2014-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014203439/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret modifiant le Livre III du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie portant les dispositions relatives au patrimoine

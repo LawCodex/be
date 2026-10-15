@@ -12,7 +12,7 @@ published: 2003-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/13/2003200613/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2003. - Decreet houdende wijziging van het decreet van 6 april 1995 betreffende het beheer van de psychiatrische ziekenhuizen in het Waalse Gewest (VERTALING).

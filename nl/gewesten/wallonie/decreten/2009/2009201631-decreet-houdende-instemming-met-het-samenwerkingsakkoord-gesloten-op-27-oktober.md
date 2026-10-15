@@ -13,7 +13,7 @@ entry_into_force: 2009-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/19/2009201631/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Decreet houdende instemming met het Samenwerkingsakkoord gesloten op 27 oktober 2008 tussen de Franse Gemeenschapscommissie van Brussel-Hoofdstad en het Waalse Gewest inzake het vrije verkeer van de gehandicapte personen

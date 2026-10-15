@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/24/2008003322/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 2008. - Loi confirmant l'établissement de certaines taxes communales additionnelles et de la taxe d'agglomération additionnelle à l'impôt des personnes physiques pour chacun des exercices d'imposition 2001 à 2007 et modifiant l'article 468 du Code des impôts sur les revenus 1992 à partir de l'exercice d'imposition 2009.

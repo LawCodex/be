@@ -12,7 +12,7 @@ entry_into_force: 2006-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/18/2006007168/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2006. - Loi complétant la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions, en ce qui concerne l'interdiction des sous-munitions.

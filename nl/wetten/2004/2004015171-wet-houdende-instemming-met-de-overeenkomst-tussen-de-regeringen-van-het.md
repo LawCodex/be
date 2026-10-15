@@ -11,7 +11,7 @@ entry_into_force: 2004-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/14/2004015171/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2004. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden en de Regering van de Republiek Kroatië betreffende de overname van onregelmatig binnengekomen of verblijvende personen, en met de Aanhangsels I en II, gedaan te Zagreb op 11 juni 1999.

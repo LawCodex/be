@@ -13,7 +13,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/19/2013032025/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 12 juni 2013 tussen de federale overheid, de Gewesten en de Gemeenschappen voor de oprichting van het interfederaal Centrum voor gelijke kansen en bestrijding van racisme en discriminatie onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis van de bijzondere wet tot hervorming der instellingen van 8 augustus 1980

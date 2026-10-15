@@ -13,7 +13,7 @@ entry_into_force: 2003-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/03/2003029412/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2003. - Decreet tot opheffing van de artikelen 1ter en 3bis van de wet van 15 juli 1960 tot zedelijke bescherming van de jeugd. (Vertaling).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/07/2001029235/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2001 et mise à jour au 09-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2001. - Décret relatif aux avantages sociaux

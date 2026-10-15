@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1998029381/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant assentiment à l'accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Moldavie, d'autre part, annexes I, II, III, IV, V, un Protocole, et l'Acte final, faits à Bruxelles le 28 novembre 1994.

@@ -13,7 +13,7 @@ entry_into_force: 1997-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/26/1997027358/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1997. - Décret modifiant le décret du 3 juin 1993 relatif aux principes généraux du plan de gestion des communes à finances obérées et le décret du 23 mars 1995 portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et d'apporter son concours au maintien de l'équilibre financier des communes de la Région wallonne.

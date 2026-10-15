@@ -12,7 +12,7 @@ entry_into_force: 2026-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/12/2026005367/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2026. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations et la loi du 25 août 2012 portant des dispositions diverses en matière d'énergie

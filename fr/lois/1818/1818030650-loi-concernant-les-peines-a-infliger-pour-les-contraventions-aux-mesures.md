@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1818/03/06/1818030650/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2026 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 1818. - LOI concernant les peines à infliger pour les contraventions aux mesures générales d'administration intérieure, ainsi que les peines qui pourront être statuées par les règlements des autorités provinciales ou communales

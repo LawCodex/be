@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/08/14/2021021663/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 20-08-2021 en tekstbijwerking tot 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AUGUSTUS 2021. - Wet betreffende de maatregelen van bestuurlijke politie tijdens een epidemische noodsituatie

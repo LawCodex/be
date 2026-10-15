@@ -13,7 +13,7 @@ entry_into_force: 2010-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/07/2010035403/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2010. - Décret portant assentiment à la Convention de Tampere sur la mise à disposition de ressources de télécommunication pour l'atténuation des effets de catastrophes et pour les opérations de secours en cas de catastrophe, faite à Tampere le 18 juin 1998

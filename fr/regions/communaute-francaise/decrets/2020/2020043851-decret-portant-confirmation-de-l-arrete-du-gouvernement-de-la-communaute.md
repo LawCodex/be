@@ -13,7 +13,7 @@ entry_into_force: 2020-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/26/2020043851/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 15 du 20 mai 2020 relatif au soutien des services agréés en aide à la jeunesse dans le cadre de la crise sanitaire du COVID-19

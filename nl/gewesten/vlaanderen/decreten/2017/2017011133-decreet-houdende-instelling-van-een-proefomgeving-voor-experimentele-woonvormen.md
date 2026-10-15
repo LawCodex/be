@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/24/2017011133/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 20-03-2017 en tekstbijwerking tot 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2017. - Decreet houdende instelling van een proefomgeving voor experimentele woonvormen en tot machtiging van een coördinatie van de regelgeving betreffende de woninghuurwetgeving

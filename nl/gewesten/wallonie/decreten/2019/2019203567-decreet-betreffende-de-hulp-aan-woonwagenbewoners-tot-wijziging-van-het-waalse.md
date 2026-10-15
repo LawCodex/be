@@ -13,7 +13,7 @@ entry_into_force: 2019-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203567/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet betreffende de hulp aan woonwagenbewoners tot wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid

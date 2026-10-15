@@ -13,7 +13,7 @@ entry_into_force: 2017-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/23/2017030134/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2017. - Decreet tot wijziging van het decreet van 10 november 2011 betreffende de ondersteuning van de filmsector en de audiovisuele creatie

@@ -13,7 +13,7 @@ entry_into_force: 1997-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/23/1997027578/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1997. - Décret portant assentiment au Traité sur la Charte de l'Energie, aux Annexes EM, NI, TRM, N, VC, ID, IA, P, G, TFU, D, B, PA, T, aux Décisions et au Protocole sur l'efficacité énergétique et les aspects environnementaux connexes et à l'Acte final, signés à Lisbonne le 17 décembre 1994.

@@ -13,7 +13,7 @@ entry_into_force: 2025-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/09/25/2025007264/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBRE 2025. - Décret modifiant le décret du 23 juin 1994 relatif à la création et à l'exploitation des aéroports et aérodromes relevant de la Région wallonne

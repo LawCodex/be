@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019012533/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-05-2019 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret relatif au Code flamand des Finances publiques

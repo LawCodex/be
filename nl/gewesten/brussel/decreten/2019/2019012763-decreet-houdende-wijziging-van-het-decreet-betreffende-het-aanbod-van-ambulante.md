@@ -13,7 +13,7 @@ entry_into_force: 2019-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/09/2019012763/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Decreet houdende wijziging van het decreet betreffende het aanbod van ambulante diensten in de domeinen van de sociale actie, het gezin en de gezondheid om de oprichting van consumptiezalen met laag risico toe te laten

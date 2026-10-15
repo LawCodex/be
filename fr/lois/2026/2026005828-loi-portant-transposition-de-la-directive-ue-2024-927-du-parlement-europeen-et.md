@@ -12,7 +12,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/22/2026005828/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2026. - Loi portant transposition de la directive (UE) 2024/927 du Parlement européen et du Conseil du 13 mars 2024 modifiant les directives 2011/61/UE et 2009/65/CE en ce qui concerne les modalités de délégation, la gestion du risque de liquidité, les déclarations à des fins de surveillance, la fourniture de services de dépositaire et de conservation ainsi que l'octroi de prêts par les fonds d'investissement alternatifs

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/02/1996029162/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-05-1996 et mis à jour au 23-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1996. - Décret modifiant la législation de l'enseignement.

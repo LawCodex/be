@@ -12,7 +12,7 @@ entry_into_force: 2004-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/12/2004003260/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat en van de Staatsdiensten met afzonderlijk beheer " Muntfonds " en " fed+ " van het jaar 2002.

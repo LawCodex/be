@@ -11,7 +11,7 @@ date: 2002-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/24/2002029536/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2002. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Comité van het Rode Kruis, opgemaakt te Brussel op 19 april 1999 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2007-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/04/2007203228/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OCTOBRE 2007. - Décret modifiant le décret du 12 avril 2001 relatif au marché régional de l'électricité

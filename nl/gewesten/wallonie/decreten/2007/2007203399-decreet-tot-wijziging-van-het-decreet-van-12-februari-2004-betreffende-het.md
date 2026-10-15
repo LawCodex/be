@@ -12,7 +12,7 @@ entry_into_force: 2007-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/07/2007203399/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2007. - Decreet tot wijziging van het decreet van 12 februari 2004 betreffende het statuut van de overheidsbestuurder met het oog op de bevordering van de evenwichtige aanwezigheid van mannen en vrouwen (VERTALING).

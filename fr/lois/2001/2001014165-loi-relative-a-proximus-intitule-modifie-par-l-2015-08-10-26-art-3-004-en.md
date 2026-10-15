@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2001014165/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2001 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi relative à [Proximus] &lt;Intitulé modifié par L 2015-08-10/26 , art. 3, 004; En vigueur : 22-06-2015 (voir AR 2015-09-11/02 , art. 1)&gt;

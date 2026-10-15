@@ -11,7 +11,7 @@ published: 2005-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/27/2005011324/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2005. - Wet tot organisatie van de mogelijkheden tot beroep tegen de beslissingen genomen door de Commissie voor de Regulering van de Elektriciteit en het Gas.

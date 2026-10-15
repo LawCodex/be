@@ -12,7 +12,7 @@ entry_into_force: 2021-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/04/2021041354/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2021. - Loi modifiant la loi du 15 mai 2014 portant exécution du pacte de compétitivité, d'emploi et de relance, en ce qui concerne la prolongation unique de la période d'application des zones d'aide

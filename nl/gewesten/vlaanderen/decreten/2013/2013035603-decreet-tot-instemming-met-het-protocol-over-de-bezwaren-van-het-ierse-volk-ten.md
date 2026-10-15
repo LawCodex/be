@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/31/2013035603/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2013. - Decreet tot instemming met het protocol over de bezwaren van het Ierse volk ten aanzien van het verdrag van Lissabon, ondertekend in Brussel op 13 juni 2012

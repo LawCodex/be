@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/19/1998027643/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 27-11-1998 et mise à jour au 12-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 1998. - Décret instaurant une taxe sur les automates en Région wallonne.

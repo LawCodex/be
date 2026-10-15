@@ -13,7 +13,7 @@ entry_into_force: 2014-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/16/2014031468/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2014. - Ordonnantie houdende instemming met het Samenwerkingsakkoord tussen de federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie betreffende de implementatie van de Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende de diensten op de interne markt

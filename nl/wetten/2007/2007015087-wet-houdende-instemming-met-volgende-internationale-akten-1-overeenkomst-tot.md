@@ -12,7 +12,7 @@ entry_into_force: 2008-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/08/2007015087/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2007. - Wet houdende instemming met volgende Internationale Akten : 1° Overeenkomst tot wijziging van de Partnerschapsovereenkomst tussen de leden van de Groep van Afrika, het Caribisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000, en Slotakte, gedaan te Luxemburg op 25 juni 2005, 2° Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, houdende wijziging van het Intern Akkoord van 18 september 2000 inzake maatregelen en procedures voor de uitvoering van de ACS-EG-Partnerschapsovereenkomst, gedaan te Luxemburg op 10 april 2006, 3° Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Gemeenschap binnen het meerjarig financieel kader voor 2008-2013 voor de ACS-EG-Partnerschapsovereenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van deel vier van het EG-Verdrag van toepassing zijn, gedaan te Brussel op 17 juli 2006.

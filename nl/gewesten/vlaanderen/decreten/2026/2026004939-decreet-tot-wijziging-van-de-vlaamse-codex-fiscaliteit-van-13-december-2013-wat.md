@@ -13,7 +13,7 @@ entry_into_force: 2026-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/26/2026004939/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2026. - Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de invoering van een externekostenheffing voor de kosten veroorzaakt door CO2-emissies

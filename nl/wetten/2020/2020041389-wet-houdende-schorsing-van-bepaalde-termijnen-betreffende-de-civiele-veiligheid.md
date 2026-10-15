@@ -12,7 +12,7 @@ entry_into_force: 2020-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/11/2020041389/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2020. - Wet houdende schorsing van bepaalde termijnen betreffende de civiele veiligheid

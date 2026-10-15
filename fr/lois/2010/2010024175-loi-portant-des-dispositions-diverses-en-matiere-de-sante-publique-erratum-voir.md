@@ -12,7 +12,7 @@ entry_into_force: 2010-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/19/2010024175/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2010. - [Loi portant des dispositions diverses en matière de santé publique] (ERRATUM, voir M.B. 08-06-2010, p. 36069)

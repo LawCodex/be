@@ -13,7 +13,7 @@ entry_into_force: 2014-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/14/2014035373/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2014. - Décret modifiant les articles 1er, 2, 4, 5, 12 et 16 du décret du 19 juillet 1973 réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprise prescrits par la loi et les règlements

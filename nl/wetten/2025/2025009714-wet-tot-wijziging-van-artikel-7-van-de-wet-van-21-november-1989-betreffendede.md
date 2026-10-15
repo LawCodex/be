@@ -12,7 +12,7 @@ entry_into_force: 2026-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/12/2025009714/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2025. - Wet tot wijziging van artikel 7 van de wet van 21 november 1989 betreffendede verplichte aansprakelijkheidsverzekering inzake motorrijtuigen

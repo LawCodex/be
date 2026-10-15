@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/30/2013204390/justel"
 department: "Kanselarij van de Eerste Minister - Binnenlandse Zaken - Sociale Zekerheid - Economie, KMO, Middenstand en Energie - Justitie - Werkgelegenheid, Arbeid en Sociaal Overleg - Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-2013 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2013. - Wet houdende diverse bepalingen

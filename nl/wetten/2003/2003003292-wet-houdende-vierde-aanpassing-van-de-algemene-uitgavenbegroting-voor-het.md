@@ -12,7 +12,7 @@ entry_into_force: 2003-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/05/2003003292/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2003. - Wet houdende vierde aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 2002, Sectie " Internationale Samenwerking ".

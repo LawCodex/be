@@ -13,7 +13,7 @@ last_amended: 2022-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/01/13/1977011305/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 19-05-2009 en tekstbijwerking tot 14-03-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 1977. - [Wet van 13 januari 1977 houdende goedkeuring van de overeenkomst inzake de vaststelling van een stelsel van registratie van testamenten, opgemaakt te Bazel op 16 mei 1972] (Opschrift vervangen door &lt;L 2022-01-19/18 , art. 51, 007; Inwerkingtreding : 01-07-2022&gt;)

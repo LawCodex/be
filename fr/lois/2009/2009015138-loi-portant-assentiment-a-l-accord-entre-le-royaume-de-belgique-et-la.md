@@ -12,7 +12,7 @@ entry_into_force: 2010-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/10/28/2009015138/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2009. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République du Chili sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 6 décembre 2007

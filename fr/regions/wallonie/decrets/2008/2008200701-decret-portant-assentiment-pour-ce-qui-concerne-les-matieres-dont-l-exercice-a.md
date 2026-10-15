@@ -13,7 +13,7 @@ entry_into_force: 2008-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/21/2008200701/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2008. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française, à l'Accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, et Acte final, faits à Luxembourg, le 26 octobre 2004.

@@ -13,7 +13,7 @@ entry_into_force: 2012-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/11/2013200156/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2012. - Décret visant à améliorer l'interruption de carrière pour congé parental dans l'enseignement

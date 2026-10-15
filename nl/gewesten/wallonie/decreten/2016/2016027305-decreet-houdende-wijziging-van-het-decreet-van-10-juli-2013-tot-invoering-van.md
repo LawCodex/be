@@ -11,7 +11,7 @@ date: 2016-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/20/2016027305/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2016. - Decreet houdende wijziging van het decreet van 10 juli 2013 tot invoering van een kader om te komen tot een pesticidengebruik dat verenigbaar is met duurzame ontwikkeling en tot wijziging van Boek I van het Milieuwetboek, Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, de wet van 28 december 1967 betreffende de onbevaarbare waterlopen en het decreet van 12 juli 2001 betreffende de beroepsopleiding in de landbouw

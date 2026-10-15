@@ -13,7 +13,7 @@ entry_into_force: 2024-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/23/2023047809/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Décret portant assentiment à la Convention du Conseil de l'Europe sur la manipulation de compétitions, faite à Macolin, le 18 septembre 2014

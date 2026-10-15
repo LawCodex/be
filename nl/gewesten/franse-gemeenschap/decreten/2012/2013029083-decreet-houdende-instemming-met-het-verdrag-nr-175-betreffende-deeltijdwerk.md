@@ -13,7 +13,7 @@ entry_into_force: 2013-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/13/2013029083/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2012. - Decreet houdende instemming met het verdrag nr. 175 betreffende deeltijdwerk, aangenomen door de Internationale Arbeidsconferentie tijdens haar eenentachtigste zitting in Genève op 24 juni 1994

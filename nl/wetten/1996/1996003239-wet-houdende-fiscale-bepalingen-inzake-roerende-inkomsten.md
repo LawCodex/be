@@ -12,7 +12,7 @@ entry_into_force: 1995-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/03/20/1996003239/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 1996. - Wet houdende fiscale bepalingen inzake roerende inkomsten.

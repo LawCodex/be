@@ -13,7 +13,7 @@ entry_into_force: 2007-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2006037096/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret portant assentiment à la Convention du Conseil de l'Europe et de l'UNESCO relative à la reconnaissance des diplômes de l'enseignement supérieur dans la Région européenne, établie à Lisbonne, le 11 avril 1997 (TRADUCTION).

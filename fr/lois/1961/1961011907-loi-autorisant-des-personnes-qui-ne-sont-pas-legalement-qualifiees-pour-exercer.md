@@ -11,7 +11,7 @@ published: 1961-07-31
 entry_into_force: 1961-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/01/19/1961011907/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 1961. - Loi autorisant des personnes qui ne sont pas légalement qualifiées pour exercer l'art de guérir à accomplir certains actes médicaux dans des circonstances exceptionnelles.

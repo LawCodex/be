@@ -13,7 +13,7 @@ entry_into_force: 2021-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/19/2021034017/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2021. - Décret du compte général de la Communauté flamande et des comptes des personnes morales sous l'autorité du Gouvernement flamand pour l'année budgétaire 2020

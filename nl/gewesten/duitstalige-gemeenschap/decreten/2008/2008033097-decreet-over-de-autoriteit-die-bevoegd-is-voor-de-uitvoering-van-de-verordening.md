@@ -13,7 +13,7 @@ entry_into_force: 2009-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/23/2008033097/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2008. - Decreet over de autoriteit die bevoegd is voor de uitvoering van de verordening (EG) nr. 1082/2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (VERTALING).

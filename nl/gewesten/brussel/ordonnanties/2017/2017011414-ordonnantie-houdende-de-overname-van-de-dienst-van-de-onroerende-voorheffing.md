@@ -13,7 +13,7 @@ entry_into_force: 2015-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/03/23/2017011414/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2017. - Ordonnantie houdende de overname van de dienst van de onroerende voorheffing

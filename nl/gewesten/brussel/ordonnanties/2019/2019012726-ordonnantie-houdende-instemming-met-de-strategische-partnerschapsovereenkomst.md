@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012726/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie houdende instemming met : de Strategische Partnerschapsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en Japan, anderzijds, gedaan te Tokio op 17 juli 2018

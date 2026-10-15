@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/12/31/1984023027/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 20-07-1990 et mise à jour au 29-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBRE 1983. - Loi de réformes institutionnelles pour la Communauté germanophone

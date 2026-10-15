@@ -13,7 +13,7 @@ entry_into_force: 2010-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/04/19/2010202450/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2010. - Décret portant assentiment aux Amendements à l'Accord du 20 août 1971 relatif à l'Organisation internationale de télécommunications par satellites, "INTELSAT", adoptés à Washington le 17 novembre 2000

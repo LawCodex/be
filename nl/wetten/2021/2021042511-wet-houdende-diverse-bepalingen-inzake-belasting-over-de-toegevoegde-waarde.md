@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/27/2021042511/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-2021 en tekstbijwerking tot 31-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2021. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde

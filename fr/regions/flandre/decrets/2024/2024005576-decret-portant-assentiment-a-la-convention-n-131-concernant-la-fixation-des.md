@@ -13,7 +13,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005576/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret portant assentiment à la Convention n° 131 concernant la fixation des salaires minima, en particulier en ce qui concerne les pays en voie de développement, adoptée à Genève le 22 juin 1970 par la Conférence internationale du travail lors de sa 54e session

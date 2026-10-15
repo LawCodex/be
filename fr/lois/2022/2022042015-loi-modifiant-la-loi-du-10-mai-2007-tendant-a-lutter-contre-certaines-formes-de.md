@@ -12,7 +12,7 @@ entry_into_force: 2022-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/20/2022042015/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Loi modifiant la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination en ce qui concerne le motif de discrimination fondé sur l'état de santé

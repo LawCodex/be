@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/08/2007036095/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 19-07-2007 et mise à jour au 26-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2007. - Décret relatif à l'aide financière aux études de la Communauté flamande (TRADUCTION)

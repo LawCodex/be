@@ -12,7 +12,7 @@ entry_into_force: 2010-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/06/02/2010003362/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2010. - Wet tot uitbreiding van de herstelmaatregelen voor de ondernemingen uit de bank- en financiële sector

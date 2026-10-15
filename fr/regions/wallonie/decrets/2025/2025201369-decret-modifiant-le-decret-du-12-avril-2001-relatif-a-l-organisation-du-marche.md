@@ -13,7 +13,7 @@ entry_into_force: 2025-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/04/17/2025201369/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2025. - Décret modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et modifiant le décret du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité, en vue de transposer partiellement la directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité et modifiant la directive 2012/27/UE

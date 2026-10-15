@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/04/2006014299/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2009 et mise à jour au 20-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2006. - Loi relative à l'utilisation de l'infrastructure ferroviaire.

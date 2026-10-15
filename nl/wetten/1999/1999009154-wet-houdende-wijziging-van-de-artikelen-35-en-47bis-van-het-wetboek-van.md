@@ -12,7 +12,7 @@ entry_into_force: 1999-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/14/1999009154/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 1999. - Wet houdende wijziging van de artikelen 35 en 47bis van het Wetboek van Strafvordering, van artikel 31 van de wet van 12 maart 1998 tot verbetering van de strafrechtspleging in het stadium van het opsporingsonderzoek en het gerechtelijk onderzoek en van de artikelen 3 en 5 van de wet van 15 maart 1874 op de uitlevering.

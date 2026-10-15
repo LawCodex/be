@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/24/1994003028/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-12-1994 et mise à jour au 14-06-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1993. - Loi créant des fonds budgétaires et modifiant la loi organique du 27 décembre 1990 créant des fonds budgétaires.

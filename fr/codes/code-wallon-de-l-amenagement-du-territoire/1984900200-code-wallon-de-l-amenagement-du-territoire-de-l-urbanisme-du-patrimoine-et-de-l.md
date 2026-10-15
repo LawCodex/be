@@ -17,7 +17,7 @@ justel_notes:
   - "intitulé modifié par DRW 2014-04-24/A1 , art. 2, En vigueur : indéterminée . Voir également l'art. 68, comme suit : \" Code wallon du Patrimoine \" "
   - "la consolidation de ce texte est suspendue"
   - "Consultation des versions antérieures à partir du 08-06-1989 et mise à jour au 03-09-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 1984. - [Code wallon de l'aménagement du territoire, de l'urbanisme, du patrimoine et de l'énergie] (CWATUPE) &lt;Intitulé remplacé par DRW 2007-04-19/34 , art. 2&gt;.

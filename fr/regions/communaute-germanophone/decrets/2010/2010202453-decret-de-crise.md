@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/04/19/2010202453/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2010 et mise à jour au 10-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2010. - Décret de crise

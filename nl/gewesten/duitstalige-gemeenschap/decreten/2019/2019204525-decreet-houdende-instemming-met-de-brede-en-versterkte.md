@@ -13,7 +13,7 @@ entry_into_force: 2019-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/09/23/2019204525/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2019. - Decreet houdende instemming met de brede en versterkte partnerschapsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Armenië, anderzijds, ondertekend te Brussel op 24 november 2017

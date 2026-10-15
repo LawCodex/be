@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019040889/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie tot wijziging van de ordonnantie van 30 november 2017 tot hervorming van het Brussels Wetboek van Ruimtelijke Ordening en van de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen en tot wijziging van aanverwante wetgevingen

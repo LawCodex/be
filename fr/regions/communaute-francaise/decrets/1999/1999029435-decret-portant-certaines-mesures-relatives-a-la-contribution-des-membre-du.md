@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/17/1999029435/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 06-01-2000 et mise à jour au 20-09-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 1999. - Décret portant certaines mesures relatives à la contribution des membre du personnel définitif de la Radio-Télévision belge de la Communauté française (RTBF) au paiement des pensions de survie. (Note : Abrogé dans le futur à une date indéterminée par DCFR 2002-06-20/38, art. 7)

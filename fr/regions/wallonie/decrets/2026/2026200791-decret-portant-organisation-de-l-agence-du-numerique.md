@@ -13,7 +13,7 @@ entry_into_force: 2026-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/26/2026200791/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2026. - Décret portant organisation de l'Agence du Numérique

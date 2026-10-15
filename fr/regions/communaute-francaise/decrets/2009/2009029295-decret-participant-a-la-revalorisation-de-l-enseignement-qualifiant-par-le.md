@@ -13,7 +13,7 @@ entry_into_force: 2010-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029295/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret participant à la revalorisation de l'enseignement qualifiant par le renforcement du caractère obligatoire des épreuves de qualification en lien avec un profil de formation

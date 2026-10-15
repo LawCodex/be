@@ -13,7 +13,7 @@ entry_into_force: 2022-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/25/2022034523/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2022. - Décret modifiant le décret sur l'Energie du 8 mai 2009, en ce qui concerne l'installation obligatoire de panneaux solaires photovoltaïques sur les superficies de toiture

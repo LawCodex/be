@@ -13,7 +13,7 @@ entry_into_force: 2017-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/12/2017020356/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2017. - Décret modifiant le décret du 8 juillet 2011 réglant le budget, la comptabilité, l'attribution de subventions et le contrôle de leur utilisation, et le contrôle par la Cour des Comptes, le décret du 30 mars 1999 portant organisation de l'assurance soins et le décret du 24 juin 2016 relatif à la protection sociale flamande, en ce qui concerne la date de dépôt du budget auprès du Parlement flamand

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/23/1998027454/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1998. - Decreet houdende vaststelling van het Waalse volkslied (VERTALING).

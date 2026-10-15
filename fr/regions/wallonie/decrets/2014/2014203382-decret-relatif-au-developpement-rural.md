@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014203382/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2014 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret relatif au développement rural

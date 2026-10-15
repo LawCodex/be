@@ -13,7 +13,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005042/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance modifiant l'article 12bis de la Nouvelle loi communale afin d'assurer l'inclusion des personnes atteintes d'un handicap intellectuel dans l'exercice de mandats communaux

@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/07/2024002044/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Ordonnance portant assentiment: 1° à la Convention entre le Royaume de Belgique et la République socialiste du Vietnam tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Hanoi le 28 février 1996, tels que modifiés par le Protocole du 12 mars 2012; et 2° au Protocole, fait à Hanoi le 12 mars 2012, modifiant la Convention entre le Royaume de Belgique et la République socialiste du Vietnam tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Hanoi le 28 février 1996

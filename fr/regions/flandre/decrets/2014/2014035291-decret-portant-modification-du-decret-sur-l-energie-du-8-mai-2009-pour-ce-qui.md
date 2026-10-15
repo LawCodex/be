@@ -13,7 +13,7 @@ entry_into_force: 2014-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/14/2014035291/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2014. - Décret portant modification du Décret sur l'Energie du 8 mai 2009, pour ce qui est des performances énergétiques des bâtiments

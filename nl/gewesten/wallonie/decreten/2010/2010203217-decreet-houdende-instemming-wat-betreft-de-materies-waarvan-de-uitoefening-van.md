@@ -13,7 +13,7 @@ entry_into_force: 2010-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/06/03/2010203217/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2010. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening van de Franse Gemeenschap is overgedragen, met het raamakkoord tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de grensoverschrijdende samenwerking inzake gezondheidszorg, ondertekend in Moeskroen op 30 september 2005

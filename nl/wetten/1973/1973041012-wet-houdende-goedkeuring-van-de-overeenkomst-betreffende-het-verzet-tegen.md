@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/04/10/1973041012/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-04-2018 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1973. - Wet houdende goedkeuring van de Overeenkomst betreffende het verzet tegen effecten aan toonder in internationaal verkeer en van het bijgevoegde reglement, opgemaakt te 's-Gravenhage op 28 mei 1970

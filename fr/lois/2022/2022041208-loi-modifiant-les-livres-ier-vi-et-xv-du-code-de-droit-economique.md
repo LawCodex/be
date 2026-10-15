@@ -12,7 +12,7 @@ entry_into_force: 2022-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/08/2022041208/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2022. - Loi modifiant les livres Ier, VI et XV du Code de droit économique

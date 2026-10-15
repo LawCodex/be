@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/20/2016035891/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2016 et mise à jour au 08-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2016. - Décret portant diverses dispositions dans les domaines politiques de la culture, de la jeunesse et de Bruxelles

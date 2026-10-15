@@ -13,7 +13,7 @@ entry_into_force: 2004-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004202447/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret portant règlement définitif du budget de la Région wallonne pour l'année 1999.

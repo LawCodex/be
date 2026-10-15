@@ -11,7 +11,7 @@ published: 1967-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101060/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - WET houdende wijzigingsbepalingen vormende het artikel 4 van de wet houdende het Gerechtelijk Wetboek

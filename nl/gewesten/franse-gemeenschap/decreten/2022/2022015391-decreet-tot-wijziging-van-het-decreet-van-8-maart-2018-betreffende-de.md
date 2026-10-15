@@ -13,7 +13,7 @@ entry_into_force: 2022-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/07/2022015391/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2022. - Decreet tot wijziging van het decreet van 8 maart 2018 betreffende de bevordering van burgerzin en interculturaliteit

@@ -13,7 +13,7 @@ entry_into_force: 2020-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/10/29/2020043469/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2020. - Ordonnance modifiant la Nouvelle Loi communale en vue d'assurer en cas de force majeure la tenue de réunions à distance du conseil communal, des commissions et des conseils consultatifs

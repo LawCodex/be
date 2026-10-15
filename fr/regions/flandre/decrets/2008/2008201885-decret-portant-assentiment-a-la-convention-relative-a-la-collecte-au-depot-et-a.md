@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008201885/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-06-2008 et mise à jour au 14-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, adoptée à Strasbourg le 9 septembre 1996, ainsi qu'à ses annexes 1re et 2 et les appendices I à V compris appartenant à l'annexe 2 (TRADUCTION)

@@ -12,7 +12,7 @@ entry_into_force: 2018-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/27/2016015135/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 SEPTEMBRE 2015. - Loi portant assentiment à la Convention n° 184 (OIT) concernant la sécurité et la santé dans l'agriculture, adoptée par la Conférence à sa 89 e session, Genève, 21 juin 2001

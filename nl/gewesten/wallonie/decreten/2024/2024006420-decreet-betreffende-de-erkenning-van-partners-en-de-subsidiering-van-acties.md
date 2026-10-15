@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/11/2024006420/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 22-07-2024 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2024. - Decreet betreffende de erkenning van partners en de subsidiëring van acties inzake duurzame mobiliteit, bewustmaking en voorlichting inzake verkeersveiligheid

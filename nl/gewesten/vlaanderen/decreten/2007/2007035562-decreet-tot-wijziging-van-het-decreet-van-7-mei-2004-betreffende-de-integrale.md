@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/30/2007035562/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2007. - Decreet tot wijziging van het decreet van 7 mei 2004 betreffende de integrale jeugdhulp en van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp, wat het bestuurlijk beleid betreft, en tot bekrachtiging van sommige bepalingen van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.HI:??2,Zitting 2006-2007. Stukken. - Ontwerp van decreet, nr. 1121/1. - Verslag, nr. 1121/2. - Tekst aangenomen door de plenaire vergadering, nr. 1121/3. Handelingen. - Bespreking en aanneming. Vergadering van 28 maart 2007.

@@ -12,7 +12,7 @@ entry_into_force: 2003-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003009497/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi modifiant l'article 92 du Code judiciaire.

@@ -12,7 +12,7 @@ entry_into_force: 2015-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015009415/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi modifiant l'article 272 de la loi du 30 juillet 2013 portant création d'un tribunal de la famille et de la jeunesse (I)

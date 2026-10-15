@@ -12,7 +12,7 @@ entry_into_force: 1998-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998003325/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet houdende aanpassing van de Rijksmiddelenbegroting van het begrotingsjaar 1998.

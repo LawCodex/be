@@ -13,7 +13,7 @@ entry_into_force: 1995-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/19/1995033004/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1994. - DECRET portant assentiment du traité d'adhésion de l'Autriche, de la Finlande, de la Norvège et de la Suède à l'Union européenne

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/20/2020015256/justel"
 department: "Finances"
 justel_note: "par arrêt de la Cour constitutionnelle n°166/2021 du 18-11-2021, 2021-11-18/21, M.B. 23-12-2021, p. 123228, les articles 153 à 170 ont été annulés"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2020. - Loi portant des dispositions diverses relatives à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces

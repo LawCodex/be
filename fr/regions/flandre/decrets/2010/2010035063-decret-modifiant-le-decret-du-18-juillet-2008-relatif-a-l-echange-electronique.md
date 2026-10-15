@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/01/08/2010035063/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2010. - Décret modifiant le décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, pour ce qui concerne l'encadrement administratif et l'indépendance de la commission de contrôle

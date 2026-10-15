@@ -12,7 +12,7 @@ entry_into_force: 2005-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/24/2005022587/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2004. - Wet tot wijziging van de wet van 22 augustus 2002 betreffende de rechten van de patiënt door de invoeging daarin van het voor eenieder geldend recht om op pijnbestrijding gerichte zorg toegediend te krijgen, alsmede van koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de gezondheidszorgberoepen.

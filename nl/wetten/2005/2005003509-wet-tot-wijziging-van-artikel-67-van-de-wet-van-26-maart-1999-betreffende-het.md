@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/22/2005003509/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2005. - Wet tot wijziging van artikel 67 van de wet van 26 maart 1999 betreffende het Belgisch actieplan voor werkgelegenheid 1998 en houdende diverse bepalingen.

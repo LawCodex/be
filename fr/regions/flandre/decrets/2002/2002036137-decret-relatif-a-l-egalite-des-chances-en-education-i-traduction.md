@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/28/2002036137/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-09-2002 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2002. - Décret relatif à l'égalité des chances en éducation-I. (TRADUCTION)

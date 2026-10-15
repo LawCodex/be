@@ -12,7 +12,7 @@ entry_into_force: 2014-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/18/2013011640/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2013. - Loi modifiant la loi du 31 janvier 2003 sur la sortie progressive de l'énergie nucléaire à des fins de production industrielle d'électricité et modifiant la loi du 11 avril 2003 sur les provisions constituées pour le démantèlement des centrales nucléaires et pour la gestion des matières fissiles irradiées dans ces centrales

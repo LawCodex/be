@@ -11,7 +11,7 @@ published: 2014-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014011325/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet tot organisatie van de verhaalmiddelen tegen sommige beslissingen van de FSMA genomen met toepassing van boek VII of van boek XV van het Wetboek van economisch recht, en tot wijziging van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten

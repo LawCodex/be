@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013035682/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet tot wijziging van diverse bepalingen van het decreet van 7 mei 2004 houdende omvorming van de VZW "de Rand" tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap

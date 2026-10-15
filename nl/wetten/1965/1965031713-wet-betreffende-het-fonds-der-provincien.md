@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1965/03/17/1965031713/justel"
 justel_notes:
   - "Voor het Vlaamse Gewest, opgeheven bij DVR 1991-04-29/31, art. 13, 1°, 002; Inwerkingtreding : 01-01-1991"
   - "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 08-06-1991"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1965. - Wet betreffende het Fonds der Provinciën.

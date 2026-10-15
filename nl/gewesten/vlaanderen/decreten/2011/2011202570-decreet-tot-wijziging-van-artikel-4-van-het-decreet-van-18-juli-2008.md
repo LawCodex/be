@@ -13,7 +13,7 @@ entry_into_force: 2011-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/06/2011202570/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2011. - Decreet tot wijziging van artikel 4 van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening

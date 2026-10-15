@@ -12,7 +12,7 @@ entry_into_force: 1984-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/06/28/1984924011/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 1984. - Loi relative à certains aspects de la condition des étrangers et instituant le Code de la Nationalité belge.

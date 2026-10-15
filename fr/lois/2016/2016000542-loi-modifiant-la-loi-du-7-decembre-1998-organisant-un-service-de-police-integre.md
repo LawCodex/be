@@ -12,7 +12,7 @@ entry_into_force: 2016-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/29/2016000542/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2016. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, en ce qui concerne la suppression du cautionnement pour les comptables spéciaux

@@ -13,7 +13,7 @@ entry_into_force: 2022-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/10/2021034448/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2021. - Decreet tot vervanging van artikel 3bis van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen

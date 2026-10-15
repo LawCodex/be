@@ -13,7 +13,7 @@ entry_into_force: 2014-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/28/2014203309/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2014. - Décret portant assentiment à l'Accord-cadre de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la Mongolie, d'autre part, fait à Oulan-Bator le 30 avril 2013

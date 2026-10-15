@@ -12,7 +12,7 @@ entry_into_force: 2016-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/01/26/2016015039/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2016. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif à la délimitation de la zone économique exclusive entre les deux pays, conclu par échange de lettres datées à Bruxelles du 25 juin 2013 et du 12 août 2013, portant amendement à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif à la délimitation du plateau continental entre les deux pays, signé à Bruxelles le 29 mai 1991, tel que modifié par l'échange de lettres datées à Bruxelles du 21 mars 2005 et du 7 juin 2005

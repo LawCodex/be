@@ -12,7 +12,7 @@ entry_into_force: 2004-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/28/2004003065/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2004. - Loi relative à l'exécution de l'Accord entre le Royaume de Belgique et le Royaume d'Arabie Saoudite portant sur des exemptions réciproques en matière d'impôts sur le revenu et sur les bénéfices, de droits d'importation et de sécurité sociale dans le cadre de l'exercice du transport aérien en trafic international, signé à Riyadh le 22 février 1997.

@@ -12,7 +12,7 @@ entry_into_force: 2011-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/02/22/2011003088/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2011. - Loi portant approbation de la Décision 14577 - (10/35) du conseil d'administration du Fonds monétaire international du 12 avril 2010 relative à l'amendement des Nouveaux Accords d'Emprunt

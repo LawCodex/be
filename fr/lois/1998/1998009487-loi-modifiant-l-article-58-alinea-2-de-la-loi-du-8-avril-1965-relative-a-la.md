@@ -12,7 +12,7 @@ entry_into_force: 1998-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/18/1998009487/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1998. - Loi modifiant l'article 58, alinéa 2, de la loi du 8 avril 1965 relative à la protection de la jeunesse.

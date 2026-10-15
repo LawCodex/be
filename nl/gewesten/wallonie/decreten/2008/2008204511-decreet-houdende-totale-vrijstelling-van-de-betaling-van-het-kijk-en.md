@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/05/2008204511/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2008. - Decreet houdende totale vrijstelling van de betaling van het kijk- en luistergeld ten gunste van de weduwen van de oorlog 1940-1945.

@@ -12,7 +12,7 @@ published: 2018-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/31/2018012642/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2018. - Decreet houdende diverse bepalingen betreffende de verbetering van de omkadering van het kleuteronderwijs

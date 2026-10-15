@@ -12,7 +12,7 @@ entry_into_force: 2018-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/21/2018014214/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2018. - Loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes en ce qui concerne les possibilités de s'enregistrer comme donneur d'organes post mortem

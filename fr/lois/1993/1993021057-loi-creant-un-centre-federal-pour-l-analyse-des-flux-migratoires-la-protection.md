@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/02/15/1993021057/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 25-04-1995 et mise à jour au 05-03-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 1993. - [Loi créant un Centre fédéral pour l'analyse des flux migratoires, la protection des droits fondamentaux des étrangers et la lutte contre la traite des êtres humains.] &lt;L 2013-08-17/43 , art. 2, 007; En vigueur : 15-03-2014&gt;

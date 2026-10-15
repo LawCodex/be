@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/03/04/2005A35350/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2005 et mise à jour au 30-04-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2005. - Décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005. (Erratum, M.B. 24.11.2005, p. 50576-50627)

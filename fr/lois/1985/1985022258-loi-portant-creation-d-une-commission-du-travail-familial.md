@@ -12,7 +12,7 @@ entry_into_force: 1985-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/08/02/1985022258/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 1985. - Loi portant création d'une Commission du Travail familial.

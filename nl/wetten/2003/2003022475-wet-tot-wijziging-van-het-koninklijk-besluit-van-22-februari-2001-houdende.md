@@ -12,7 +12,7 @@ entry_into_force: 2003-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/28/2003022475/justel"
 department: "FEDERALE AGENTSCHAP VOOR DE VEILIGHEID VAN DE VOEDSELKETEN"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2003. - Wet tot wijziging van het koninklijk besluit van 22 februari 2001 houdende organisatie van de controles die worden verricht door het Federaal Agentschap voor de Veiligheid van de Voedselketen en tot wijziging van diverse wettelijke bepalingen.

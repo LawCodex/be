@@ -12,7 +12,7 @@ entry_into_force: 2006-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/30/2006003227/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2006. - Loi spéciale attribuant une allocation spéciale unique en faveur de la Communauté française, la Communauté flamande, la Région wallonne et la Région de Bruxelles-Capitale.

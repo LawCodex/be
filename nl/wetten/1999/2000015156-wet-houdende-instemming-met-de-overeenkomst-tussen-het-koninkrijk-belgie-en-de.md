@@ -12,7 +12,7 @@ entry_into_force: 2000-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/13/2000015156/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1999. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Staat Koeweit tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen en tot de bevordering van de economische betrekkingen en het Protocol, ondertekend te Koeweit op 10 maart 1990.

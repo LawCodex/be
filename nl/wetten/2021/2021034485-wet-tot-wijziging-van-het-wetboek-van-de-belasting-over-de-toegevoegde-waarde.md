@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/20/2021034485/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2021. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde betreffende de vrijstellingen van de belasting ter uitvoering van activiteiten in het kader van het gemeenschappelijk veiligheids- en defensiebeleid binnen het Uniekader en betreffende tijdelijke vrijstellingen bij invoer en bepaalde leveringen van goederen en diensten in reactie op de COVID-19-pandemie

@@ -16,7 +16,7 @@ department: "Premier Ministre"
 justel_notes:
   - "les mots \" Caisse des soins de santé de la Société nationale des Chemins de fer belges \" sont remplacés par les mots \" Caisse des soins de santé de la S.N.C.B. Holding \" ; voir AR 2004-10-18/32, art. 38 ; En vigueur : 01-01-2005"
   - "Consultation des versions antérieures à partir du 01-08-1996 et mise à jour au 12-02-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1996. - Loi portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.

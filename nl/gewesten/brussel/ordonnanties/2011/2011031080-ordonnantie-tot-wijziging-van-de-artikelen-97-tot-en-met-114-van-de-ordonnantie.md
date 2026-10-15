@@ -13,7 +13,7 @@ entry_into_force: 2011-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/02/03/2011031080/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2011. - Ordonnantie tot wijziging van de artikelen 97 tot en met 114 van de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode, met betrekking tot de Adviesraad voor Huisvesting

@@ -13,7 +13,7 @@ entry_into_force: 2012-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/07/23/2012031647/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2012. - Ordonnance portant assentiment à : l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, modifiant l'accord sur le commerce, le développement et la coopération du 11 octobre 1999, signé à Kleinmond le 11 septembre 2009

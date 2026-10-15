@@ -17,7 +17,7 @@ department: "Commission communautaire commune"
 justel_notes:
   - "art. 32/1 modifié avec effet à une date indéterminée par ORD 2019-04-25/13 , art. 38; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 14-01-2019 et mise à jour au 01-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Ordonnance relative aux organismes assureurs bruxellois dans le domaine des soins de santé et de l'aide aux personnes

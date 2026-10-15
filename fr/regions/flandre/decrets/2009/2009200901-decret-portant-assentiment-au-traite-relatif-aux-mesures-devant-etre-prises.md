@@ -13,7 +13,7 @@ entry_into_force: 2009-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/06/2009200901/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2009. - Décret portant assentiment au traité relatif aux mesures devant être prises afin d'éviter l'importation, l'exportation et le transfert de propriété de bien culturels illégal, adopté par la Conférence générale de l'UNESCO lors de sa seizième séance à Paris le 14 novembre 1970

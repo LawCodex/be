@@ -12,7 +12,7 @@ entry_into_force: 2011-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/19/2011024192/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2011. - Wet tot wijziging van de wet van 5 juli 1994 betreffende bloed en bloedderivaten van menselijke oorsprong met het oog op de verhoging van de toegelaten maximumleeftijd voor de donatie van bloed en bloedderivaten

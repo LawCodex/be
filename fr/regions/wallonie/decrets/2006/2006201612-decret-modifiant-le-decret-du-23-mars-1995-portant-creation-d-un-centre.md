@@ -13,7 +13,7 @@ entry_into_force: 2006-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/27/2006201612/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2006. - Décret modifiant le décret du 23 mars 1995 portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne.

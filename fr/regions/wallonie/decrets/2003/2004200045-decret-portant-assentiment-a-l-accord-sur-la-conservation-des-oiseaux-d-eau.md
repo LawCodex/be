@@ -13,7 +13,7 @@ entry_into_force: 2004-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2004200045/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant assentiment à l'Accord sur la conservation des oiseaux d'eau migrateurs d'Afrique et d'Eurasie et ses annexes, fait à La Haye, le 15 août 1996.

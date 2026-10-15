@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/11/2018013341/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Décret portant diverses mesures en matière de statut des membres du personnel (de l'enseignement) (ERRATUM du 31-08-2018 p. 67518)

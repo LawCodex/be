@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/01/07/2000011521/justel"
 department: "Economische Zaken"
 justel_note: "raadpleging van vroegere versies vanaf 25-01-2001 en tekstbijwerking tot 02-05-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2001. - Wet tot wijziging van de wet van 12 juni 1991 op het consumentenkrediet.

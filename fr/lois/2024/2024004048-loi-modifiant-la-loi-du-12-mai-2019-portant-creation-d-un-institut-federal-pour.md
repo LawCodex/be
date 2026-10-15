@@ -12,7 +12,7 @@ entry_into_force: 2024-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/21/2024004048/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2024. - Loi modifiant la loi du 12 mai 2019 portant création d'un Institut fédéral pour la protection et la promotion des droits humains

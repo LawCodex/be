@@ -11,7 +11,7 @@ published: 1954-03-21
 entry_into_force: 1954-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1954/02/16/1954021604/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1954. - Loi relative à la protection de la canne blanche.

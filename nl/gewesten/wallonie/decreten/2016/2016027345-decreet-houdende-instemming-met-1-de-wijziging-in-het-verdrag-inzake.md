@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016027345/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met : 1) de wijziging in het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend te Sofia op 27 februari 2001 en 2) de wijziging in het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend te Cavtat op 4 juni 2004

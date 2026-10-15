@@ -13,7 +13,7 @@ entry_into_force: 1995-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/16/1995027163/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1995. - Décret modifiant la loi du 19 décembre 1854 contenant le Code forestier et instaurant un inventaire permanent des ressources ligneuses.

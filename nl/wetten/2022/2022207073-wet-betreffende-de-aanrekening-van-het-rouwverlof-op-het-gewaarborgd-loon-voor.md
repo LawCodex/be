@@ -12,7 +12,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/28/2022207073/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2022. - Wet betreffende de aanrekening van het rouwverlof op het gewaarborgd loon voor de werknemers die niet onder het toepassingsgebied vallen van het koninklijk besluit van 28 augustus 1963 betreffende het behoud van het normaal loon van werknemers voor afwezigheidsdagen ter gelegenheid van familiegebeurtenissen of voor de vervulling van staatsburgerlijke verplichtingen of van burgerlijke opdrachten

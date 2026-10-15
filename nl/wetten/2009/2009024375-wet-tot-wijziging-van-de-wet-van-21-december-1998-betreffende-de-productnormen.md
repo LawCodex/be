@@ -12,7 +12,7 @@ entry_into_force: 2009-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/09/10/2009024375/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBER 2009. - Wet tot wijziging van de wet van 21 december 1998 betreffende de productnormen ter bevordering van duurzame productie- en consumptiepatronen en ter bescherming van het leefmilieu en de volksgezondheid

@@ -12,7 +12,7 @@ entry_into_force: 2004-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/02/2004012092/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Wet houdende de bekrachtiging van de volgende koninklijke besluiten aangenomen : a) het koninklijk besluit van 15 mei 2003 betreffende de ondernemingsraden en de comités voor preventie en bescherming op het werk; b) het koninklijk besluit van 15 mei 2003 tot vaststelling van de datum van de verkiezingen voor de aanwijzing van de afgevaardigden van het personeel bij de ondernemingsraden en bij de comités voor preventie en bescherming op het werk; c) het koninklijk besluit van 15 mei 2003 tot vaststelling van de berekeningswijze van het gemiddelde van de uitzendkrachten die door een gebruiker worden tewerkgesteld

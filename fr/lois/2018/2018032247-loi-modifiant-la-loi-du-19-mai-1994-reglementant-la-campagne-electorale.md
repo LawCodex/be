@@ -12,7 +12,7 @@ entry_into_force: 2018-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/25/2018032247/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2018. - Loi modifiant la loi du 19 mai 1994 réglementant la campagne électorale, concernant la limitation et la déclaration des dépenses électorales engagées pour les élections du Parlement wallon, du Parlement flamand, du Parlement de la Région de Bruxelles-Capitale et du Parlement de la Communauté germanophone, et fixant le critère de contrôle des communications officielles des autorités publiques, en vue d'assurer la continuité en matière de limitation des dépenses électorales suite à la modification des circonscriptions électorales dans les provinces de Hainaut et de Luxembourg

@@ -13,7 +13,7 @@ entry_into_force: 2019-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/11/22/2019015603/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2019. - Decreet houdende instemming met de wijzigingen aan het protocol ter bestrijding van verzuring, eutrofiëring en ozon op leefniveau, met bijlagen, bij het verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, gedaan op 4 mei 2012 te Genève

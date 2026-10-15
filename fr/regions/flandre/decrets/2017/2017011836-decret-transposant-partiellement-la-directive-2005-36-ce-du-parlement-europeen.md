@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/24/2017011836/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-05-2017 et mise à jour au 31-05-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2017. - Décret transposant partiellement la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles

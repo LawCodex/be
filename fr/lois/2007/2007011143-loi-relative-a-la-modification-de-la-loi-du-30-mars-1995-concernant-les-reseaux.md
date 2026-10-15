@@ -12,7 +12,7 @@ entry_into_force: 2007-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/16/2007011143/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2007. - Loi relative à la modification de la loi du 30 mars 1995 concernant les réseaux de distribution d'émissions de radiodiffusion et l'exercice d'activités de radiodiffusion dans la région bilingue de Bruxelles-Capitale ainsi que la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges.

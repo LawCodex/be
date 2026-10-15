@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/27/1994021219/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1994. - Wet tot wijziging van de wet van 6 januari 1989 betreffende de wedden en pensioenen van de rechters, de referendarissen en de griffiers van het Arbitragehof.

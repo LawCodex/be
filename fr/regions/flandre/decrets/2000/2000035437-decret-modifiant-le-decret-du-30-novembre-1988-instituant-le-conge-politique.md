@@ -13,7 +13,7 @@ entry_into_force: 2000-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/04/07/2000035437/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2000. - Décret modifiant le décret du 30 novembre 1988 instituant le congé politique pour les membres du personnel des organismes d'intérêt public et des associations de droit public qui relèvent de la Région flamande. (Traduction).

@@ -12,7 +12,7 @@ published: 1997-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997036027/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - Decreet tot wijziging van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap.

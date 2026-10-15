@@ -13,7 +13,7 @@ entry_into_force: 1995-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1995027670/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet houdende de eerste begroting van de ontvangsten van het Waalse Gewest voor het 1995. (VERTALING).

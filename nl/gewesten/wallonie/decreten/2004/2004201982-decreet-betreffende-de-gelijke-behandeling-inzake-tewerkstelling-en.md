@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004201982/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 20-12-2007 en tekstbijwerking tot 19-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet betreffende de gelijke behandeling inzake tewerkstelling en beroepsopleiding (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2009-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/23/2009201428/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2009. - Decreet houdende instemming met de Consulaire Overeenkomst tussen het Koninkrijk België en de Russische Federatie, ondertekend in Moskou, op 22 december 2004

@@ -13,7 +13,7 @@ entry_into_force: 2020-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/08/2020041271/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2020. - Décret modifiant certaines dispositions relatives à la sélection et à l'évaluation du commissaire aux droits de l'enfant, du médiateur flamand et du directeur de l'Institut flamand pour la Paix, et instaurant auprès du Service de médiation flamand une mission de médiation liée au coronavirus en matière de baux d'habitation

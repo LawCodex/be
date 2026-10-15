@@ -12,7 +12,7 @@ entry_into_force: 2020-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020020361/justel"
 department: "Instituut voor de gelijkheid van vrouwen en mannen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2020. - Wet tot wijziging van de wet van 10 mei 2007 ter bestrijding van discriminatie tussen vrouwen en mannen wat het discriminatieverbod op vaderschap of meemoederschap betreft

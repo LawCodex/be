@@ -12,7 +12,7 @@ entry_into_force: 2007-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/20/2007000330/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2007. - Loi spéciale complétant l'article 31 de la loi ordinaire du 9 août 1980 de réformes institutionnelles, prévoyant la présence du Président du Gouvernement de la Communauté germanophone au sein du Comité de concertation, et abrogeant l'article 67 de la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone.

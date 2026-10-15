@@ -13,7 +13,7 @@ entry_into_force: 2002-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2002028206/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende instemming, wat betreft de aangelegenheden die door de Franse Gemeenschap overgeheveld zijn, met het Samenwerkingsakkoord tussen de leden van de ACS-groep (Afrika, Caraïben, Stille Zuidzee), enerzijds, en de Europese Gemeenschap en diens Lid-Staten, anderzijds, en met de Slotakte, beide ondertekend te Cotonou op 23 juni 2000 (VERTALING).

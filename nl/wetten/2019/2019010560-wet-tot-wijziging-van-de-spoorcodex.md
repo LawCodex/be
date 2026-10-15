@@ -12,7 +12,7 @@ entry_into_force: 2019-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/11/2019010560/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANUARI 2019. - Wet tot wijziging van de Spoorcodex

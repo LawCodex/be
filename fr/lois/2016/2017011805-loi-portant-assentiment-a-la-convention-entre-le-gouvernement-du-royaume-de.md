@@ -12,7 +12,7 @@ entry_into_force: 2017-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/24/2017011805/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2016. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Monténégro relative à la coopération policière, faite à Bruxelles le 9 décembre 2010

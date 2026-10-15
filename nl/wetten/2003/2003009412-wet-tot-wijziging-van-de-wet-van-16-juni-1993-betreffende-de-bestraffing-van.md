@@ -12,7 +12,7 @@ entry_into_force: 2003-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/23/2003009412/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2003. - Wet tot wijziging van de wet van 16 juni 1993 betreffende de bestraffing van ernstige schendingen van het internationaal humanitair recht en van artikel 144ter van het Gerechtelijk Wetboek.

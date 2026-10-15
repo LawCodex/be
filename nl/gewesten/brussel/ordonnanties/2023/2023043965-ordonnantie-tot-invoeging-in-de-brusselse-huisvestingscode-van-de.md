@@ -13,7 +13,7 @@ entry_into_force: 2023-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/06/22/2023043965/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2023. - Ordonnantie tot invoeging in de Brusselse Huisvestingscode van de procedureregels voor gerechtelijke uitzettingen en tot wijziging van de middelen gebruikt door en ten voordele van het Begrotingsfonds voor Solidariteit

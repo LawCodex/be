@@ -11,7 +11,7 @@ published: 2000-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/14/2000015083/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2000. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Russische Federatie tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Moskou op 16 juni 1995.

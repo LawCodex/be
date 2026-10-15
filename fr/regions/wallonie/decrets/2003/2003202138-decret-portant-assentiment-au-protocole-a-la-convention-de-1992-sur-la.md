@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2003202138/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant assentiment au Protocole à la Convention de 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, relatif à l'eau et à la santé, fait à Londres, le 17 juin 1999.

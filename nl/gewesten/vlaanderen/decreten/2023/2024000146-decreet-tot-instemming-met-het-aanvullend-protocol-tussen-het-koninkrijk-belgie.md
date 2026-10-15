@@ -13,7 +13,7 @@ entry_into_force: 2024-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/22/2024000146/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Decreet tot instemming met het Aanvullend Protocol tussen het Koninkrijk België en de Europese Vrijhandelsassociatie, ondertekend te Brussel op 24 november 2022

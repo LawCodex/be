@@ -11,7 +11,7 @@ published: 1970-01-06
 entry_into_force: 1970-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/12/03/1969120303/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 1969. - Wet waarbij de Koning gemachtigd wordt retributies te heffen bij toepassing van de reglementering betreffende de arbeidsbescherming, de gevaarlijke machines en de ioniserende stralingen.

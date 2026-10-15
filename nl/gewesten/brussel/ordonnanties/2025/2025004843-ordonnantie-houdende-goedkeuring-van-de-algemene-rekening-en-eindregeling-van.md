@@ -13,7 +13,7 @@ entry_into_force: 2025-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/06/20/2025004843/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2025. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van Leefmilieu Brussel voor het jaar 2023

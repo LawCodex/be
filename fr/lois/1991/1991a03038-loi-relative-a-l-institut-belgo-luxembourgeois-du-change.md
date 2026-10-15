@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/01/02/1991A03038/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 19-04-1993 et mise à jour au 11-08-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JANVIER 1991. - Loi relative à l'Institut belgo-luxembourgeois du change.

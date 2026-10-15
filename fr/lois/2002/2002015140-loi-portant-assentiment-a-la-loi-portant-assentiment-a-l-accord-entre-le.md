@@ -12,7 +12,7 @@ entry_into_force: 2003-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/12/2002015140/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2002. - Loi portant assentiment à la loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République Fédérale d'Allemagne relatif à la coopération entre les autorités de police et les administrations douanières dans les régions frontalières, fait à Bruxelles le 27 mars 2000.

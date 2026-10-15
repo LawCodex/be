@@ -12,7 +12,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/12/2022204591/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2022. - Wet betreffende een eenmalige vermindering van sociale bijdragen voor bepaalde startende zelfstandigen

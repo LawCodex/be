@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/20/2020042398/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 24-07-2020 en tekstbijwerking tot 09-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2020. - Wet tot verstrekking van een staatswaarborg voor bepaalde kredieten aan KMO's in de strijd tegen de gevolgen van het coronavirus en tot wijziging van de wet van 25 april 2014 op het statuut en toezicht op kredietinstellingen en beursvennootschappen

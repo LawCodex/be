@@ -18,7 +18,7 @@ justel_notes:
   - "art. 7ter gewijzigd met ingang op een onbepaalde datum bij <DVR 2013-06-21/17 , art. 75; Inwerkingtreding : onbepaald >"
   - "art. 6 gewijzigd met ingang op een onbepaalde datum bij DVR 2016-07-15/17 , art. 100; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 31-12-1996 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 1994. - Decreet inzake de infrastructuur voor persoonsgebonden aangelegenheden. -

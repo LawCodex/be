@@ -13,7 +13,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/23/2023020006/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Décret modifiant le décret sur l'Energie du 8 mai 2009, en ce qui concerne la vente d'électricité verte produite dans ou sur des immeubles à appartements ou des immeubles multifonctionnels

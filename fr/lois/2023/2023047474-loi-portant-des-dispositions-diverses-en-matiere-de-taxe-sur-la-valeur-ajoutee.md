@@ -12,7 +12,7 @@ entry_into_force: 2023-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/23/2023047474/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Loi portant des dispositions diverses en matière de taxe sur la valeur ajoutée et des règles particulières de recouvrement du Code des impôts sur les revenus 1992

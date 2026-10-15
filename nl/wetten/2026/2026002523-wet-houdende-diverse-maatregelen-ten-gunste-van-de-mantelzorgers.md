@@ -12,7 +12,7 @@ entry_into_force: 2026-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/22/2026002523/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2026. - Wet houdende diverse maatregelen ten gunste van de mantelzorgers

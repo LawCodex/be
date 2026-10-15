@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/13/2016035941/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2016. - DECREET tot wijziging van diverse bepalingen van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking en het Provinciedecreet van 9 december 2005

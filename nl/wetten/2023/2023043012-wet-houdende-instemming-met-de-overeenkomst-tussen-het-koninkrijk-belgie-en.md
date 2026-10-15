@@ -12,7 +12,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/30/2023043012/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2023. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Oekraïne inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, gedaan te Brussel op 10 februari 2021

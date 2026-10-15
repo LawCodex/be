@@ -12,7 +12,7 @@ entry_into_force: 2004-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/17/2004002075/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2004. - Loi modifiant la nouvelle loi communale.

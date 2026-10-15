@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/17/1997014079/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 02-04-1997 et mise à jour au 20-10-2004."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1997. - Loi relative au financement du projet TGV. -

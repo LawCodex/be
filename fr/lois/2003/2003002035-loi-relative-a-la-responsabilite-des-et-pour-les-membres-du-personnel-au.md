@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/10/2003002035/justel"
 department: "Personnel et Organisation"
 justel_note: "Consultation des versions antérieures à partir du 27-02-2003 et mise à jour au 01-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2003. - Loi relative à la responsabilité des et pour les membres du personnel au service des personnes publiques

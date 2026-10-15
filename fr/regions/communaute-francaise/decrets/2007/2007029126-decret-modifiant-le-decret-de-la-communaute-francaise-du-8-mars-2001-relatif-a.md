@@ -13,7 +13,7 @@ entry_into_force: 2007-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007029126/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2007. - Décret modifiant le décret de la Communauté française du 8 mars 2001 relatif à la promotion de la santé dans la pratique du sport, à l'interdiction du dopage et à sa prévention en Communauté française.

@@ -12,7 +12,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/09/04/2002009854/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2002. - Loi modifiant la loi du 8 août 1997 sur les faillites, le Code judiciaire et le Code des sociétés.

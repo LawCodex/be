@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996012650/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 18-09-1996 et mise à jour au 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi relative au bien-être des travailleurs lors de l'exécution de leur travail. (NOTE 1 : art. 3; 31bis à 31septies modifiés dans le futur par L 2012-12-27/12 , art. 2 à 10, 026; En vigueur : indéterminée . Articles 2 à 10 retirés par L 2013-12-08/07 , art. 15; En vigueur : 20-12-2013)

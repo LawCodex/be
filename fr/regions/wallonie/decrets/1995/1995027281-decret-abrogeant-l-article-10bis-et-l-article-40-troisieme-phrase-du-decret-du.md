@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027281/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret abrogeant l'article 10bis et l'article 40, troisième phrase, du décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne.

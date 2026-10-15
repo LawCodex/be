@@ -13,7 +13,7 @@ entry_into_force: 2010-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/02/04/2010031094/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2010. - Ordonnance portant assentiment à l'Accord relatif à la participation de la République de Bulgarie et de la Roumanie à l'Espace économique européen, et à l'Acte final, faits à Bruxelles le 25 juillet 2007

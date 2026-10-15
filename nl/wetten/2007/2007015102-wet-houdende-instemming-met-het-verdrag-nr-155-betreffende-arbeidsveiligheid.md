@@ -12,7 +12,7 @@ entry_into_force: 2012-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007015102/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet houdende instemming met het Verdrag nr. 155 betreffende arbeidsveiligheid, gezondheid en het arbeidsmilieu, aangenomen te Genève op 22 juni 1981 door de Algemene Conferentie van de Internationale Arbeidsorganisatie

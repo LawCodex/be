@@ -12,7 +12,7 @@ published: 2021-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/14/2021042672/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2021. - Decreet houdende wijziging van het decreet van 10 november 2011 betreffende de steun aan de filmsector en aan de creatie in de audiovisuele sector

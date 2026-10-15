@@ -11,7 +11,7 @@ published: 2025-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/05/2024004924/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2018. - Wet houdende instemming met het Protocol van toetreding tot de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van Ecuador, gedaan te Brussel op 11 november 2016

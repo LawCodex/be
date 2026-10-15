@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202672/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter la double imposition et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg, le 17 septembre 1970, tels que modifiés par l'avenant, fait à Bruxelles le 11 décembre 2002, et par l'avenant, fait à Bruxelles le 16 juillet 2009

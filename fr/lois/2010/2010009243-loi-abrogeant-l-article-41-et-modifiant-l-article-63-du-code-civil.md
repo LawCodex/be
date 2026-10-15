@@ -12,7 +12,7 @@ entry_into_force: 2010-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/10/2010009243/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2010. - Loi abrogeant l'article 41 et modifiant l'article 63 du Code civil

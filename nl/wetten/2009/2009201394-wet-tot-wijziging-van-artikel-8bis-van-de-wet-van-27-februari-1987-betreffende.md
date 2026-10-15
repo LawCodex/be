@@ -12,7 +12,7 @@ entry_into_force: 2009-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/13/2009201394/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2009. - Wet tot wijziging van artikel 8bis van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, om de wachttijd voor de vaststelling van een handicap in te korten

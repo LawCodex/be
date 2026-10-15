@@ -13,7 +13,7 @@ entry_into_force: 2017-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/09/2017031603/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2017. - Décret portant assentiment à la convention de Minamata sur le Mercure, faite à Kumamoto, le 10 octobre 2013

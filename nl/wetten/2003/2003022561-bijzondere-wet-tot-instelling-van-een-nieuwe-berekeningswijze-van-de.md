@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/05/2003022561/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2014 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2003. - Bijzondere wet tot instelling van een nieuwe berekeningswijze van de responsabiliseringsbijdrage ten laste van sommige werkgevers van de openbare sector

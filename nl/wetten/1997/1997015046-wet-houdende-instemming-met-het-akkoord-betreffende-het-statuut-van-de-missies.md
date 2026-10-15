@@ -12,7 +12,7 @@ entry_into_force: 1997-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/03/07/1997015046/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 1997. - Wet houdende instemming met het Akkoord betreffende het Statuut van de Missies en de Vertegenwoordigers van Derde Staten bij de Noordatlantische Verdragsorganisatie, ondertekend te Brussel op 14 september 1994.

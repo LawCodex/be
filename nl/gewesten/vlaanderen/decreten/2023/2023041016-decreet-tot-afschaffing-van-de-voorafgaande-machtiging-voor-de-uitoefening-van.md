@@ -13,7 +13,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/03/2023041016/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2023. - Decreet tot afschaffing van de voorafgaande machtiging voor de uitoefening van ambulante of kermisactiviteiten en tot wijziging van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten

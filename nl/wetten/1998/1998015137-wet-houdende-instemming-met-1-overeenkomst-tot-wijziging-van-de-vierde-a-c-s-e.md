@@ -12,7 +12,7 @@ entry_into_force: 1999-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/12/1998015137/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 1998. - Wet houdende instemming met : 1. Overeenkomst tot wijziging van de Vierde A.C.S.-E.G.-Overeenkomst van Lomé van 15 december 1989, Slotakte en Protocol bij de Vierde A.C.S.-E.G.-Overeenkomst van Lomé naar aanleiding van de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, ondertekend te Mauritius op 4 november 1995. - 2. Intern Akkoord betreffende de financiering en het beheer van de steun van de Gemeenschap in het kader van het Tweede Financieel Protocol bij de Vierde A.C.S.-E.G.-Overeenkomst, ondertekend te Brussel op 20 december 1995.

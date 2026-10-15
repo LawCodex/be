@@ -12,7 +12,7 @@ published: 2009-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/15/2009200861/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2009. - Décret portant assentiment à l'accord de coopération-cadre relatif à la formation en alternance, conclu à Bruxelles, le 24 octobre 2008, entre la Communauté française, la Région wallonne et la Commission communautaire française.

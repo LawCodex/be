@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202686/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret portant assentiment à l'Accord de partenariat économique entre les Etats du Cariforum, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, et l'Acte final, faits à Bridgetown, la Barbade, le 15 octobre 2008

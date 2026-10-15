@@ -12,7 +12,7 @@ entry_into_force: 2017-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/09/2017014082/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2017. - Bijzonder decreet tot wijziging van artikel 32, § 1, eerste lid van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, om de datum van het begin van het zittingsjaar van het Parlement van de Franse Gemeenschap vroeger vast te stellen

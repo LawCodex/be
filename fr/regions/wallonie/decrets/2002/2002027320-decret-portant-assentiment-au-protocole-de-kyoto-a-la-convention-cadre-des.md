@@ -13,7 +13,7 @@ entry_into_force: 2002-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/21/2002027320/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2002. - Décret portant assentiment au Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques ainsi qu'aux Annexes A et B, faits à Kyoto le 11 décembre 1997.

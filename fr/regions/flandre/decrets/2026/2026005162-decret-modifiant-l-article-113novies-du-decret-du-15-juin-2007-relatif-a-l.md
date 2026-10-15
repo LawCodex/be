@@ -13,7 +13,7 @@ entry_into_force: 2026-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/26/2026005162/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2026. - Décret modifiant l'article 113novies du décret du 15 juin 2007 relatif à l'éducation des adultes, en ce qui concerne les droits d'inscription pour la formation linguistique français, anglais et allemand, et modifiant l'article 8 de l'arrêté du Gouvernement flamand du 7 octobre 2022 relatif au test NT2 dans l'éducation des adultes, en ce qui concerne la mesure transitoire pour le développement des parties orales du test NT2 au niveau linguistique B1

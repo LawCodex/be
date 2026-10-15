@@ -12,7 +12,7 @@ entry_into_force: 1998-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/06/1998015001/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1994. - Loi portant assentiment à l'Accord de coopération et d'union douanière entre la Communauté européenne et la République de Saint-Marin, Annexe et cinq Déclarations, signé à Bruxelles le 16 décembre 1991.

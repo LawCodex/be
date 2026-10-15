@@ -11,7 +11,7 @@ date: 2016-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/08/2016036458/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2016. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016

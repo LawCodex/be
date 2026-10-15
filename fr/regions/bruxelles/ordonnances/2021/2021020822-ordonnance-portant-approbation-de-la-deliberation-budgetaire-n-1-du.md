@@ -13,7 +13,7 @@ entry_into_force: 2021-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/04/15/2021020822/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2021. - Ordonnance portant approbation de la délibération budgétaire n° 1 du Gouvernement de la Région de Bruxelles-Capitale autorisant l'engagement, la liquidation et le paiement des dépenses, à imputer au Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2021

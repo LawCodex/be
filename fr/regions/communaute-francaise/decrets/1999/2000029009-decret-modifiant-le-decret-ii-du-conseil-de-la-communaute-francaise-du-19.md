@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/23/2000029009/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1999. - Décret modifiant le décret II du Conseil de la Communauté française du 19 juillet 1993 attribuant l'exercice de certaines compétences de la Communauté française à la Région wallonne et à la Commission communautaire française.

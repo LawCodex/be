@@ -13,7 +13,7 @@ entry_into_force: 2026-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026005053/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2026. - Décret modifiant le décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des services du Gouvernement de la Communauté française

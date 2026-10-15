@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996027069/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 13-03-1996 en tekstbijwerking tot 18-04-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet houdende de algemene begroting van de uitgaven van het Waalse Gewest voor het begrotingsjaar 1996 (VERTALING).

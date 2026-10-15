@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/12/2000029461/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2000. - Programmadecreet houdende verschillende maatregelen betreffende de begrotingsfondsen, het onderwijs en de schoolgebouwen (VERTALING).HI:??2,Zitting 2000-2001. Documenten van de Raad. - Ontwerp van programmadecreet, nr. 130-1. - Amendementen van de commissie, nr. 130-2. - Advies van de commissies, nrs. 130-3 en 4. - Verslag, nr. 130-5. - Amendementen in de zitting, nr. 130-6. Integrale verslagen. - Bespreking. Zittingen van 11 en 12 december 2000. - Aanneming. Zitting van 12 december 2000.

@@ -13,7 +13,7 @@ entry_into_force: 2012-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202622/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation

@@ -13,7 +13,7 @@ last_amended: 2009-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/02/18/1977021801/justel"
 justel_note: "Consultation des versions antérieures à partir du 05-08-1986 et mise à jour au 14-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 1977. - Loi portant certaines dispositions relatives au service public de la Radiodiffusion et de la Télévision

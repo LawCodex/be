@@ -12,7 +12,7 @@ entry_into_force: 2019-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/13/2018032076/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2017. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en het Koninkrijk der Nederlanden, ten behoeve van Aruba, inzake de uitwisseling van inlichtingen met betrekking tot belastingen, gedaan te Den Haag op 24 april 2014

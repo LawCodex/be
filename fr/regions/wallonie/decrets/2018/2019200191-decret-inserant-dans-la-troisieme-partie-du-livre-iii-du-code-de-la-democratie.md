@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/20/2019200191/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2018. - Décret insérant dans la Troisième partie du Livre III du Code de la démocratie locale et de la décentralisation un Titre V relatif aux subventions octroyées aux grandes villes dans le cadre de leurs perspectives de développement urbain et modifiant l'article D.I.4 du Code du Développement territorial

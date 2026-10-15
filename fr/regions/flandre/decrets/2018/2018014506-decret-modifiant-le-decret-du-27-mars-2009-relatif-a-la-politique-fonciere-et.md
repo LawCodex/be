@@ -13,7 +13,7 @@ entry_into_force: 2018-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/12/2018014506/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2018. - Décret modifiant le décret du 27 mars 2009 relatif à la politique foncière et immobilière, en ce qui concerne la coordination avec la fusion volontaire de communes

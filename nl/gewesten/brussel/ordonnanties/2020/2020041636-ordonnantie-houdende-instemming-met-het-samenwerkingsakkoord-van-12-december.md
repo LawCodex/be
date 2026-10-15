@@ -13,7 +13,7 @@ entry_into_force: 2020-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/06/11/2020041636/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2020. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 12 december 2019 tussen het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende de aanstelling van een gemeenschappelijke dienstenintegrator voor de elektronische uitwisseling van gegevens

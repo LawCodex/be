@@ -13,7 +13,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/12/18/2025009748/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2025. - Ordonnantie tot wijziging van de ordonnantie van 24 april 2008 betreffende de voorzieningen voor ouderen

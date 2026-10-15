@@ -13,7 +13,7 @@ entry_into_force: 2014-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014201934/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de wijziging in artikel 8, § 7, van het Internationaal Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie, met de wijziging in artikel 20, § 1, van het Verdrag van 18 december 1979 inzake de uitbanning van alle vormen van discriminatie tegen vrouwen, en de wijzigingen in artikel 17, § 7, en in artikel 18, § 5, van het Internationaal Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of onterende behandelingen

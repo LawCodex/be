@@ -13,7 +13,7 @@ entry_into_force: 2019-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019011503/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret portant modification du décret du 31 janvier 2014 attribuant à la Province du Brabant flamand la compétence relative à la conduite d'une politique foncière et du logement spécifique et d'une politique d'aide sociale et d'infrastructure de santé spécifique pour le Brabant flamand

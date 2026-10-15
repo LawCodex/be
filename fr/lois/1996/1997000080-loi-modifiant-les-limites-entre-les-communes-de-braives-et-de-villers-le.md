@@ -12,7 +12,7 @@ entry_into_force: 1997-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/19/1997000080/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1996. - Loi modifiant les limites entre les communes de Braives et de Villers-le-Bouillet.

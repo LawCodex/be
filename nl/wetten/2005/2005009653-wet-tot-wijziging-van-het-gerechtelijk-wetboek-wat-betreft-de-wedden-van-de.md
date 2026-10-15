@@ -11,7 +11,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/08/10/2005009653/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2005. - Wet tot wijziging van het Gerechtelijk Wetboek wat betreft de wedden van de referendarissen en de parketjuristen bij de hoven van beroep en bij de rechtbanken van eerste aanleg, van de griffiers en de secretarissen van het parket en tot wijziging van de artikelen 259duodecies en 285bis van hetzelfde Wetboek.

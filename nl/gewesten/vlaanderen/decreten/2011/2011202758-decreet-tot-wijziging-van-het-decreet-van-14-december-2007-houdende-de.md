@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/13/2011202758/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2011. - Decreet tot wijziging van het decreet van 14 december 2007 houdende de organisatie en werking van de regionale technologische centra

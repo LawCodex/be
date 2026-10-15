@@ -12,7 +12,7 @@ entry_into_force: 1983-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/07/06/1983021106/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1983. - Loi attribuant certains pouvoirs spéciaux au Roi.

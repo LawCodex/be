@@ -12,7 +12,7 @@ entry_into_force: 2026-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/30/2026004263/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2026. - Loi transposant la directive (UE) 2024/1069 du Parlement européen et du Conseil du 11 avril 2024 sur la protection des personnes qui participent au débat public contre les demandes en justice manifestement infondées ou les procédures judiciaires abusives ("poursuites stratégiques altérant le débat public")

@@ -12,7 +12,7 @@ published: 2016-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/07/2016205994/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2016. - Decreet tot harmonisatie van de rechtsgronden van de adviesorganen in hun relaties met het Parlement van de Duitstalige Gemeenschap

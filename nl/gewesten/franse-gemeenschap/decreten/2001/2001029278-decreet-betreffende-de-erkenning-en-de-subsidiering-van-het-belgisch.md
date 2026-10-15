@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029278/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-2001 en tekstbijwerking tot 30-07-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet betreffende de erkenning en de subsidiëring van het Belgisch Interfederaal en Olympisch Comité (VERTALING).

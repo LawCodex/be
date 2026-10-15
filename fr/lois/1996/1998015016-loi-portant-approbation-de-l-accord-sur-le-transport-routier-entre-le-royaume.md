@@ -12,7 +12,7 @@ entry_into_force: 1998-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1998015016/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi portant approbation de l'Accord sur le Transport routier entre le Royaume de Belgique, la République d'Estonie, la République de Lettonie, la République de Lituanie, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas, signé à Athènes le 11 juin 1992.

@@ -12,7 +12,7 @@ entry_into_force: 1999-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/18/1999035822/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet houdende de eindregeling van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 1997.

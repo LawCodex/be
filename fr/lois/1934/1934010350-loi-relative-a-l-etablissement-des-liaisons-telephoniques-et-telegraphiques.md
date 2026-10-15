@@ -13,7 +13,7 @@ last_amended: 1995-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1934/01/03/1934010350/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 24-01-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JANVIER 1934. - LOI relative à l'établissement des liaisons téléphoniques et télégraphiques souterraines ou aériennes pour les besoins de l'organisations défensive du pays.

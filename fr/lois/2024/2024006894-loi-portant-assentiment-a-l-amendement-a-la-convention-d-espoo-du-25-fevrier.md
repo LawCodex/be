@@ -12,7 +12,7 @@ entry_into_force: 2024-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/11/2024006894/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2024. - Loi portant assentiment à l'Amendement à la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, adopté à Sofia le 27 février 2001

@@ -12,7 +12,7 @@ entry_into_force: 1999-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/04/1999003237/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1999. - Wet houdende maatregelen op het vlak van de met het zegel gelijkgestelde taksen ten gunste van autonome gemeentebedrijven, autonome provinciale bedrijven en de Maatschappij der Brugse Zeevaartinrichtingen.

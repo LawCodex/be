@@ -12,7 +12,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/17/2004003266/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2004. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde.

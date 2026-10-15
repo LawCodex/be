@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/07/30/1987021136/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 06-08-1987 et mise à jour au 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1987. - Loi portant confirmation des arrêtés royaux pris en exécution de l'article 1er de la loi du 27 mars 1986 attribuant certains pouvoirs spéciaux au Roi, et modifiant : 1° l'arrêté royal n° 458 du 10 septembre 1986 fixant le coefficient de comptabilisation pour certains élèves dans l'enseignement secondaire; 2° la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement; 3 ° la loi du 27 juin 1930 accordant la personnalité civile aux établissements scientifiques et artistiques dépendant du Ministère des Sciences et des Arts.

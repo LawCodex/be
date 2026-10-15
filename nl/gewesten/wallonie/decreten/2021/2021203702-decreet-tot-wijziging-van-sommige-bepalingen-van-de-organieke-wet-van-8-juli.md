@@ -13,7 +13,7 @@ entry_into_force: 2021-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/15/2021203702/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Decreet tot wijziging van sommige bepalingen van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn om de vergaderingen van de organen op afstand mogelijk te maken

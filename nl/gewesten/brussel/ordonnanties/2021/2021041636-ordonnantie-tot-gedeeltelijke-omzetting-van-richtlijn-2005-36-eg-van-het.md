@@ -13,7 +13,7 @@ entry_into_force: 2021-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/05/20/2021041636/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2021. - Ordonnantie tot gedeeltelijke omzetting van richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties en tot gedeeltelijke omzetting van richtlijn (EU) 2018/958 van het Europees Parlement en de Raad van 28 juni 2018 betreffende een evenredigheids-beoordeling voorafgaand aan een nieuwe reglementering van beroepen

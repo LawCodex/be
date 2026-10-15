@@ -12,7 +12,7 @@ entry_into_force: 1998-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/27/1998015218/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 1997. - Loi portant assentiment aux Actes internationaux, signés à Madrid le 6 novembre 1992, concernant l'adhésion de la République hellénique à l'Accord relatif à la suppression graduelle des contrôles aux frontières communes, signé à Schengen le 14 juin 1985 et à la Convention d'application de cet Accord, signée à Schengen le 19 juin 1990.

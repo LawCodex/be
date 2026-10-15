@@ -13,7 +13,7 @@ entry_into_force: 2008-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/15/2008029166/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2008. - Décret modifiant la loi du 28 avril 1953 sur l'organisation de l'enseignement universitaire par l'Etat.

@@ -12,7 +12,7 @@ entry_into_force: 2000-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/12/2000009285/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2000. - Wet tot uitlegging van artikel 101, derde lid, van de faillissementswet van 8 augustus 1997.

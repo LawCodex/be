@@ -13,7 +13,7 @@ entry_into_force: 2024-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/01/2024003034/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2024. - Décret modifiant la réglementation sur l'organisation des soins de première ligne pour la personne en besoin de soins et de soutien, les conseils des soins et le traitement des données à caractère personnel dans le cadre du plan de soins et de soutien numérique, du financement des prestataires de soins de première ligne et à des fins politiques

@@ -13,7 +13,7 @@ entry_into_force: 2018-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018201903/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Décret modifiant les articles 15, 22 et 27 de la loi organique du 8 juillet 1976 des Centres publics d'Action sociale

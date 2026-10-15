@@ -13,7 +13,7 @@ entry_into_force: 2013-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/03/2013035439/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2013. - Décret portant assentiment à 1° la convention en matière de transport aérien entre, premièrement, les Etats-Unis d'Amérique, deuxièmement, l'Union européenne et ses Etats membres, troisièmement, l'Islande, et quatrièmement, le Royaume de Norvège, signée au Luxembourg le 16 juin 2011 et à Oslo le 21 juin 2011, et 2° la convention complémentaire entre, premièrement, l'Union européenne et ses Etats membres, deuxièmement, l'Islande, et troisièmement, le Royaume de Norvège, relatif à l'application de la convention, visée sous 1°, signée au Luxembourg le 16 juin 2011 et à Oslo le 21 juin 2011

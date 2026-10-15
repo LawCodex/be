@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1851/12/16/1851121650/justel"
 justel_notes:
   - "art. 1 modifié à une date à déterminer par : L 1995-02-09/35 , art. 1, 012; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 16-04-1987 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1851. - [ANCIEN] CODE CIVIL. - LIVRE III - TITRE XVIII : Des privilèges et hypothèques. - LOI HYPOTHECAIRE (Intitulé modifié par L 2019-04-13/28 , art. 2, 066; En vigueur : 01-11-2020)

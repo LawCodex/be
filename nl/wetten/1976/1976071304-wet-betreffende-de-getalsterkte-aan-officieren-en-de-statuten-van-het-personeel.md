@@ -13,7 +13,7 @@ last_amended: 2025-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/13/1976071304/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 08-08-1990 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1976. - Wet betreffende de getalsterkte aan officieren en de statuten van het personeel van de krijgsmacht.

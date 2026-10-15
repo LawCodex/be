@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/01/2000036305/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er DECEMBRE 2000. - Décret portant assimilation des cohabitants aux couples mariés en matière de droits de succession (TRADUCTION).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203279/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-06-2012 en tekstbijwerking tot 18-07-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende uitbreiding van de voorwaarden inzake nationaliteit voor de toegang tot de betrekkingen van het Openbaar Ambt van de Franse Gemeenschap

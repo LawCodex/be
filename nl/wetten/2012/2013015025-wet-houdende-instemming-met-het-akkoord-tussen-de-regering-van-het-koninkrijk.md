@@ -10,7 +10,7 @@ date: 2012-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/07/2013015025/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2012. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Republiek Frankrijk voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, opgemaakt te Parijs op 17 november 2008

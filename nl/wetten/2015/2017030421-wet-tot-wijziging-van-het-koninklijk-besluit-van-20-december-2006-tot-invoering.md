@@ -12,7 +12,7 @@ entry_into_force: 2017-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/18/2017030421/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Wet tot wijziging van het koninklijk besluit van 20 december 2006 tot invoering van de toekenningsvoorwaarden van een adoptieuitkering ten gunste van zelfstandigen met het oog op wijziging van de aanvraagprocedure voor een adoptieuitkering

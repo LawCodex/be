@@ -12,7 +12,7 @@ entry_into_force: 2013-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/24/2013009323/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2013. - Wet tot wijziging van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen, wat de bijeenroeping van de algemene vergadering betreft

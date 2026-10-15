@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/10/2022015108/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2022. - Décret modifiant la réglementation sur l'apprentissage dual, la phase de démarrage et le système d'apprentissage et de travail

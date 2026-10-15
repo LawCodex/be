@@ -12,7 +12,7 @@ entry_into_force: 2003-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/10/2003007133/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Loi accordant le titre honorifique de vétéran à certains membres du personnel du département de la Défense.

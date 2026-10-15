@@ -13,7 +13,7 @@ entry_into_force: 1996-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/26/1996036471/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 1996. - Décret portant approbation de l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et l'Ukraine, d'autre part, des Annexes I à V, du Protocole, et de l'Acte final, signés à Luxembourg le 14 juin 1994. (TRADUCTION).

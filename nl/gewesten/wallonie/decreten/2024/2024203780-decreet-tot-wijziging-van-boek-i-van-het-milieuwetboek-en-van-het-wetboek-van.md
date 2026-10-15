@@ -13,7 +13,7 @@ entry_into_force: 2024-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/11/2024203780/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2024. - Decreet tot wijziging van Boek I van het Milieuwetboek en van het Wetboek van Ruimtelijke Ontwikkeling

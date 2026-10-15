@@ -12,7 +12,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/22/2006015067/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2006. - Wet houdende instemming met het Amendement op het Protocol van Montreal inzake substanties die de ozonlaag aantasten, gedaan te Beijing op 3 december 1999.

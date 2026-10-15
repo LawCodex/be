@@ -12,7 +12,7 @@ entry_into_force: 2006-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/10/2006022521/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2006. - Wet houdende instemming met het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie.

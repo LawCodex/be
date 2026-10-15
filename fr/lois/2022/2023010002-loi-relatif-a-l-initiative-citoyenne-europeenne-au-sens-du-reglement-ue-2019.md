@@ -12,7 +12,7 @@ entry_into_force: 2023-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/22/2023010002/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2022. - Loi relatif à l'initiative citoyenne européenne au sens du Règlement (UE) 2019/788 du Parlement européen et du Conseil du 17 avril 2019 relatif à l'initiative citoyenne européenne

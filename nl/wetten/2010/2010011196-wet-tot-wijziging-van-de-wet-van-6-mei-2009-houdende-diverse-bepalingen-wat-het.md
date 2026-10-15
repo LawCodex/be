@@ -12,7 +12,7 @@ entry_into_force: 2010-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/30/2010011196/justel"
 department: "Informatie- en Communicatietechnologie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2010. - Wet tot wijziging van de wet van 6 mei 2009 houdende diverse bepalingen wat het verder stimuleren van computerbezit betreft

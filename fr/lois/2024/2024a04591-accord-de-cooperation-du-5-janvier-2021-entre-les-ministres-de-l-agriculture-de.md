@@ -12,7 +12,7 @@ entry_into_force: 2020-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/03/2024A04591/justel"
 department: "Agence Fédérale pour la Sécurité de la Chaine Alimentaire"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2024. - Accord de coopération du 5 janvier 2021 entre les ministres de l'Agriculture de l'Etat fédéral et des Régions concernant la répartition des missions pour l'application des mesures de protection contre les organismes nuisibles aux végétaux

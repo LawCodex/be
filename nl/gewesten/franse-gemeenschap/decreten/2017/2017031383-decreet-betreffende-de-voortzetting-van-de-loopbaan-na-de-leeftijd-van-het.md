@@ -12,7 +12,7 @@ published: 2017-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/19/2017031383/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2017. - Decreet betreffende de voortzetting van de loopbaan na de leeftijd van het rustpensioen van het onderwijzend, wetenschappelijk, administratief en technisch personeel van de hogescholen, de hogere kunstscholen en de universiteiten

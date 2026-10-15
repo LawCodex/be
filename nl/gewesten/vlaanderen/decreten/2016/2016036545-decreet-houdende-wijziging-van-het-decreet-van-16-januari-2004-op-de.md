@@ -12,7 +12,7 @@ entry_into_force: 2016-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/28/2016036545/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2016. - DECREET houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging

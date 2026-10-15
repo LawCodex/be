@@ -13,7 +13,7 @@ entry_into_force: 2008-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008202893/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret modifiant le titre II des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

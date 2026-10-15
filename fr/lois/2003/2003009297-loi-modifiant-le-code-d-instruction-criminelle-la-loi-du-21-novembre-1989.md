@@ -12,7 +12,7 @@ entry_into_force: 2003-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/19/2003009297/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2003. - Loi modifiant le Code d'instruction criminelle, la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs et l'arrêté royal du 28 décembre 1950 portant règlement général sur les frais de justice en matière répressive.

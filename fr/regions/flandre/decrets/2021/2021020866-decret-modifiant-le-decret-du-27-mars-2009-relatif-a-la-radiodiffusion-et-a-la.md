@@ -13,7 +13,7 @@ entry_into_force: 2021-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/19/2021020866/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2021. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne la transposition partielle de la directive (UE) 2018/1808 du Parlement européen et du Conseil du 14 novembre 2018 modifiant la directive 2010/13/UE visant à la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à la fourniture de services de médias audiovisuels (directive " Services de médias audiovisuels "), compte tenu de l'évolution des réalités du marché

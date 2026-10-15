@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/05/15/1984022160/justel"
 department: "Finances - Prévoyance Sociale - Classes Moyennes"
 justel_note: "Consultation des versions antérieures à partir du 19-04-1985 et mise à jour au 31-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1984. - Loi portant mesures d'harmonisation dans les régimes de pensions.

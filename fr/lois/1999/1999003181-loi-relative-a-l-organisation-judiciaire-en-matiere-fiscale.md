@@ -12,7 +12,7 @@ entry_into_force: 1999-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/23/1999003181/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1999. - Loi relative à l'organisation judiciaire en matière fiscale.

@@ -12,7 +12,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/08/2013003236/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2013. - Wet betreffende de wijziging van de Overeenkomst tot oprichting van de Europese Bank voor Wederopbouw en Ontwikkeling

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/06/2013029454/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2013. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Commission communautaire française en matière d'intégration et d'inclusion scolaire pour les jeunes en situation de handicap

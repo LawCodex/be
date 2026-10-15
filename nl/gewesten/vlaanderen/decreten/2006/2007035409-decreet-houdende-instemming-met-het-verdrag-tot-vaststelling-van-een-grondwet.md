@@ -13,7 +13,7 @@ entry_into_force: 2007-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/09/2007035409/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2006. - Decreet houdende instemming met het Verdrag tot vaststelling van een Grondwet voor Europa en de Slotakte, ondertekend in Rome op 29 oktober 2004.

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/23/1998015080/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 1998. - Loi portant assentiment au Quatrième Protocole annexé à l'Accord général sur le Commerce des Services, fait à Genève le 15 avril 1997.

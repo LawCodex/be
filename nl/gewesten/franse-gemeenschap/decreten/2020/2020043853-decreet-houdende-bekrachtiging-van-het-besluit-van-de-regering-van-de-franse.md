@@ -13,7 +13,7 @@ entry_into_force: 2020-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/26/2020043853/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 17 du 28 mei 2020 inzake de steun voor ontmoetings- en opvangcentra in het kader van de gezondheidscrisis COVID-19

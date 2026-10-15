@@ -10,7 +10,7 @@ date: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015095/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Protocol, gedaan te Brussel op 7 juli 2009, tot wijziging van de Overeenkomst tussen België en Denemarken tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 16 oktober 1969, zoals gewijzigd en aangevuld door het op 27 september 1999 te Kopenhagen ondertekende Protocol, en houdende aanpassing van de Belgische belastingwetgeving aan sommige bepalingen van eerstgenoemd Protocol

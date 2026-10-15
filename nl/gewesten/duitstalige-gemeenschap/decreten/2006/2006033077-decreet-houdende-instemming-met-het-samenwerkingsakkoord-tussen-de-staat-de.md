@@ -11,7 +11,7 @@ date: 2006-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/26/2006033077/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2006. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Staat, de Vlaamse Gemeenschap, het Vlaams Gewest, de Franse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap, het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie inzake de oprichting van een Nationale Commissie voor de rechten van het kind, ondertekend op 16 september 2005 in Brussel (VERTALING).

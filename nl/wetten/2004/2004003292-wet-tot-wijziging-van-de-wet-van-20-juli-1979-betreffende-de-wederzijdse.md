@@ -12,7 +12,7 @@ entry_into_force: 2004-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/04/2004003292/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2004. - Wet tot wijziging van de wet van 20 juli 1979 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit bepaalde bijdragen, rechten, belastingen en andere maatregelen

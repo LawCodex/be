@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/26/2022043203/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2022. - Loi visant à neutraliser l'article 1.7 du livre 1er du Code civil en ce qui concerne le droit du travail et la sécurité sociale et l'assistance sociale

@@ -12,7 +12,7 @@ entry_into_force: 1991-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/18/1991009964/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1991. - Wet tot wijziging van de organisatie van het openbaar ministerie bij de politierechtbanken.

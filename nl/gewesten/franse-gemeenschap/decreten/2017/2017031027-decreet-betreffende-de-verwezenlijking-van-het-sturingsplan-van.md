@@ -13,7 +13,7 @@ entry_into_force: 2017-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017031027/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet betreffende de verwezenlijking van het sturingsplan van schoolinrichtingen, de specifieke hulpverlening aan de directies in het gewoon en gespecialiseerd kleuter-, lager en basisonderwijs, en een aanvullende omkadering voor het opvoedend en administratief personeel in het gespecialiseerde secundair onderwijs

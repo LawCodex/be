@@ -12,7 +12,7 @@ entry_into_force: 2024-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/25/2023048797/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2023. - Loi modifiant la loi-programme du 27 décembre 2021 en ce qui concerne les mesures relatives au transport de fret ferroviaire organisant le transfert modal

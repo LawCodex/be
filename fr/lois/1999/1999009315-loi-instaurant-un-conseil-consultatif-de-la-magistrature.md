@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/08/1999009315/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-03-1999 et mise à jour au 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 1999. - Loi instaurant un Conseil consultatif de la magistrature. -

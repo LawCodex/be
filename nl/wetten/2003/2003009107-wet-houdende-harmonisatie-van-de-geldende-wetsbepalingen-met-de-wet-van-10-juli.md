@@ -12,7 +12,7 @@ entry_into_force: 2003-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/23/2003009107/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2003. - Wet houdende harmonisatie van de geldende wetsbepalingen met de wet van 10 juli 1996 tot afschaffing van de doodstraf en tot wijziging van de criminele straffen.

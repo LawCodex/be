@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/29/2018011492/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 13-04-2018 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Wet tot uitbreiding van de opdrachten en versterking van de rol van de fiscale bemiddelingsdienst

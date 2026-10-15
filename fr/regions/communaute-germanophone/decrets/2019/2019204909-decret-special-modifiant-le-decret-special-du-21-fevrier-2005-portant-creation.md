@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/10/14/2019204909/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2019. - Décret spécial modifiant le décret spécial du 21 février 2005 portant création d'une haute école autonome et le décret spécial du 20 janvier 2014 portant création d'un centre pour le développement sain des enfants et des jeunes

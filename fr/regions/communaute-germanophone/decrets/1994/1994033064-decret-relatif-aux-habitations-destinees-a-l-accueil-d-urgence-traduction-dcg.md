@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/05/09/1994033064/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 18-04-1996 et mise à jour au 14-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 1994. - [Décret relatif aux habitations destinées à l'accueil d'urgence] &lt;Traduction&gt; &lt;DCG 2010-03-15/14 , art. 5, 008; En vigueur : 23-04-2010&gt;

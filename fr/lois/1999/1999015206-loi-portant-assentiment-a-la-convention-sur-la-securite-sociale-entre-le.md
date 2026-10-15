@@ -12,7 +12,7 @@ entry_into_force: 1999-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/13/1999015206/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1999. - Loi portant assentiment à la Convention sur la Sécurité sociale entre le Royaume de Belgique et la République du Chili, et l'Arrangement administratif relatif aux modalités d'application de la Convention sur la Sécurité sociale entre le Royaume de Belgique et la République du Chili, signés à Bruxelles le 9 septembre 1996.

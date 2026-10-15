@@ -13,7 +13,7 @@ entry_into_force: 2010-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/19/2010029468/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2010. - Décret relatif aux services en Communauté française

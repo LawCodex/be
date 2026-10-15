@@ -13,7 +13,7 @@ entry_into_force: 2025-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/15/2025201684/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2025. - Decreet houdende instemming met de Overeenkomst betreffende het luchtvervoer tussen de Regering van het Koninkrijk België en de Regering van de Republiek Mali, gedaan te Bamako op 29 augustus 2017

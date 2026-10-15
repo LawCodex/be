@@ -13,7 +13,7 @@ entry_into_force: 1995-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027219/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'aide sociale.

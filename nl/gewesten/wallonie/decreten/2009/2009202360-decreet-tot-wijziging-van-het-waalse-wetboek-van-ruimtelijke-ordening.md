@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202360/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 02-06-2009 en tekstbijwerking tot 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium, het decreet van 11 maart 1999 betreffende de milieuvergunning en het decreet van 11 maart 2004 betreffende de ontsluitingsinfrastructuur voor economische bedrijvigheid

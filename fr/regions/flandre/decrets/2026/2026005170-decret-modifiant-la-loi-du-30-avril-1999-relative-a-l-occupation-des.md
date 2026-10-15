@@ -13,7 +13,7 @@ entry_into_force: 2026-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/19/2026005170/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2026. - Décret modifiant la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers, la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, le décret relatif au contrôle des lois sociales du 30 avril 2004, le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle) et le décret du 10 juin 2016 réglant certains aspects des formations en alternance

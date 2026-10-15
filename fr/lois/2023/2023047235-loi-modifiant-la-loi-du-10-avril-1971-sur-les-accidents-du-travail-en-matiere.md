@@ -12,7 +12,7 @@ entry_into_force: 2023-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/13/2023047235/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2023. - Loi modifiant la loi du 10 avril 1971 sur les accidents du travail en matière de risques aggraves

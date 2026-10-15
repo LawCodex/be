@@ -13,7 +13,7 @@ entry_into_force: 2020-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/19/2020041884/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2020. - Décret portant assentiment à l'accord de coopération du 28 décembre 2018 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la collaboration entre les services d'inspection dans le cadre des compétences en matière des allocations familiales

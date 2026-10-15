@@ -13,7 +13,7 @@ entry_into_force: 2019-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/15/2019011509/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2019. - Décret modifiant divers décrets relatifs à la politique économique, scientifique et d'innovation

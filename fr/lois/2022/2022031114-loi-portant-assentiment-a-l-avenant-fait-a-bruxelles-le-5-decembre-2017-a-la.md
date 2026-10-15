@@ -12,7 +12,7 @@ entry_into_force: 2022-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/01/2022031114/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2022. - Loi portant assentiment à l'Avenant, fait à Bruxelles le 5 décembre 2017, à la Convention entre le Royaume de Belgique et le Grand-Duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par les Avenants du 11 décembre 2002 et du 16 juillet 2009

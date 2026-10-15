@@ -13,7 +13,7 @@ entry_into_force: 2022-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/16/2023040410/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2022. - Décret ajustant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2022. - Deuxième ajustement

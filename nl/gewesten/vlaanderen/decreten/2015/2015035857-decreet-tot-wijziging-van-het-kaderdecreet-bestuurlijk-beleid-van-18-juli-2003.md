@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/26/2015035857/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2015. - Decreet tot wijziging van het kaderdecreet bestuurlijk beleid van 18 juli 2003, wat betreft de organisatie van de beleidsuitvoering en de beleidsvoorbereiding, de ondernemingsplannen en de gemeenschappelijke dienstverlening

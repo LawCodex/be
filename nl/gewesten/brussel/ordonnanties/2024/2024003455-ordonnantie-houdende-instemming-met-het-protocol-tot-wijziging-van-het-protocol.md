@@ -13,7 +13,7 @@ entry_into_force: 2024-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/04/04/2024003455/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2024. - Ordonnantie houdende instemming met het Protocol tot wijziging van het Protocol inzake voorrechten en immuniteiten van de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), gedaan te Brussel op 6 december 2022

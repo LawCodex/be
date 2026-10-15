@@ -11,7 +11,7 @@ published: 2002-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/10/2002022641/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2002. - Loi modifiant, en ce qui concerne le budget global des moyens financiers en matière de biologie clinique et d'imagerie médicale, la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

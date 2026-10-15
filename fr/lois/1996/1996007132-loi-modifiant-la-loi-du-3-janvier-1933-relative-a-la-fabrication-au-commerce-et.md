@@ -12,7 +12,7 @@ entry_into_force: 1996-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/24/1996007132/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1996. - Loi modifiant la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions en vue d'interdire à l'Etat belge ou aux administrations publiques de tenir en dépôt des mines antipersonnel.

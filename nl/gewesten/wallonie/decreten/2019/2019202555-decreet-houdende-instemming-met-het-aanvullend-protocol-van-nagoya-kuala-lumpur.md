@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/31/2019202555/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2019. - Decreet houdende instemming met het Aanvullend Protocol van Nagoya-Kuala Lumpur inzake aansprakelijkheid en schadeloosstelling bij het Protocol van Cartagena inzake bioveiligheid, gedaan te Nagoya op 15 oktober 2010

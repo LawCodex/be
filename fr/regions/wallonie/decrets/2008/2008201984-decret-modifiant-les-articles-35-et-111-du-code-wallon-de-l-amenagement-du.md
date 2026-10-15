@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/22/2008201984/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2008 et mise à jour au 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2008. - Décret modifiant les articles 35 et 111 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie (CWATUPE)

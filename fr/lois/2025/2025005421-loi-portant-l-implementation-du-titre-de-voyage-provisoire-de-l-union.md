@@ -12,7 +12,7 @@ entry_into_force: 2025-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/16/2025005421/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2025. - Loi portant l'implémentation du titre de voyage provisoire de l'Union européenne tel que visé dans la directive (UE) 2019/997 du Conseil du 18 juin 2019 établissant un titre de voyage provisoire de l'Union européenne et abrogeant la décision 96/409/PESC

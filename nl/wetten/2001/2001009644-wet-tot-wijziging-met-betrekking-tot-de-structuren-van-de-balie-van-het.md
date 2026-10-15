@@ -12,7 +12,7 @@ entry_into_force: 2001-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/04/2001009644/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2001. - Wet tot wijziging, met betrekking tot de structuren van de balie, van het gerechtelijk Wetboek en van de wet van 13 maart 1973 betreffende de vergoeding voor onwerkzame voorlopige hechtenis.

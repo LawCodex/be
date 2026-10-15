@@ -13,7 +13,7 @@ entry_into_force: 2004-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004029097/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2004. - Décret relatif au statut administratif des membres des personnels des établissements organisés par la Communauté française qui exercent leurs fonctions dans l'enseignement de promotion sociale.

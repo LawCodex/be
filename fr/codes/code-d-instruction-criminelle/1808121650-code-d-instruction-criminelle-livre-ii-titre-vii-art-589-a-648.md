@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1808/12/16/1808121650/justel"
 justel_notes:
   - "Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre VII du deuxième Livre est la huitième"
   - "Consultation des versions antérieures à partir du 05-02-1991 et mise à jour au 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. - LIVRE II, TITRE VII. (Art. 589 à 648)

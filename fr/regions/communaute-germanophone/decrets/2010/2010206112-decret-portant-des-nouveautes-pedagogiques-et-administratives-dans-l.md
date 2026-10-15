@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/10/25/2010206112/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 01-02-2011 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2010. - Décret portant des nouveautés pédagogiques et administratives dans l'enseignement

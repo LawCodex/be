@@ -11,7 +11,7 @@ published: 2019-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019012244/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet tot wijziging van sommige bepalingen van het boek XI van het Wetboek van economisch recht inzake privékopie

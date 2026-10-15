@@ -11,7 +11,7 @@ published: 2023-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/07/2023031298/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2023. - Wet tot omzetting van Richtlijn (EU) 2019/1023 van het Europees Parlement en de Raad van 20 juni 2019 betreffende preventieve herstructureringsstelsels, betreffende kwijtschelding van schuld en beroepsverboden, en betreffende maatregelen ter verhoging van de efficiëntie van procedures inzake herstructurering, insolventie en kwijtschelding van schuld, en tot wijziging van Richtlijn (EU) 2017/1132 en houdende diverse bepalingen inzake insolvabiliteit

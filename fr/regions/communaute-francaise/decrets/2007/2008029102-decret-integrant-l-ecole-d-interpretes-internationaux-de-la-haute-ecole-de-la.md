@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/13/2008029102/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-03-2008 et mise à jour au 15-09-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2007. - Décret intégrant l'Ecole d'interprètes internationaux de la Haute Ecole de la Communauté française du Hainaut à l'Université de Mons-Hainaut et modifiant les habilitations universitaires

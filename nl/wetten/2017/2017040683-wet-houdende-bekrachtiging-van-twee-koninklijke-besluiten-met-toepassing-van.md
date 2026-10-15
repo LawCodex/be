@@ -10,7 +10,7 @@ date: 2017-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2017040683/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet houdende bekrachtiging van twee koninklijke besluiten met toepassing van artikel 71 van de wet van 15 mei 2007 betreffende de civiele veiligheid

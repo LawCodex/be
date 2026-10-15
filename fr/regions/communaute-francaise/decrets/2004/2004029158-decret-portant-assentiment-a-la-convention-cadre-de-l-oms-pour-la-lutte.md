@@ -13,7 +13,7 @@ entry_into_force: 2004-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029158/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant assentiment à la Convention-cadre de l'OMS pour la lutte antitabac, faite à Genève le 21 mai 2003.

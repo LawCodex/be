@@ -13,7 +13,7 @@ entry_into_force: 2009-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/23/2009201428/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2009. - Décret portant assentiment à la Convention consulaire entre le Royaume de Belgique et la Fédération de Russie, signée à Moscou, le 22 décembre 2004

@@ -17,7 +17,7 @@ justel_notes:
   - "art. 43 gewijzigd voor het Vlaamse Gewest met ingang op een onbepaalde datum bij DVR 2016-07-15/17 , art. 35; Inwerkingtreding : onbepaald "
   - "art. 4 ; 23 ; 122 ; 149 ; N4 gewijzigd met ingang op een onbepaalde datum bij W 2016-12-18/02 , art. 95, 008; Inwerkingtreding : onbepaald , heeft uitwerking met ingang van de dag dat de eerste graden master werden toegekend"
   - "Raadpleging van vroegere versies vanaf 18-06-2015 en tekstbijwerking tot 18-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2015. - Gecoördineerde wet betreffende de uitoefening van de gezondheidszorgberoepen

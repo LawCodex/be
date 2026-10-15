@@ -12,7 +12,7 @@ entry_into_force: 2007-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/27/2007201507/justel"
 department: "Chancellerie du Premier Ministre - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Loi modifiant la loi du 26 mars 2003 portant création d'un Organe central pour la Saisie et la Confiscation et portant des dispositions sur la gestion à valeur des biens saisis et sur l'exécution de certaines sanctions patrimoniales.

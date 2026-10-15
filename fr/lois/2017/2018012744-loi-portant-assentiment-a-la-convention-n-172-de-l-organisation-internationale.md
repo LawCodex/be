@@ -12,7 +12,7 @@ entry_into_force: 2018-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/15/2018012744/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2017. - Loi portant assentiment à la Convention n° 172 de l'Organisation internationale du Travail concernant les conditions de travail dans les hôtels, restaurants et établissements similaires, adoptée à Genève le 25 juin 1991

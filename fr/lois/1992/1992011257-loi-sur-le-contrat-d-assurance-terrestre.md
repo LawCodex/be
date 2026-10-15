@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/06/25/1992011257/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 04-05-1994 et mise à jour au 23-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1992. - Loi sur le contrat d'assurance terrestre.

@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/21/2017030904/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2017. - Wet inzake de onderwerping aan de belasting van bepaalde door Belgische zendingen lokaal aangeworven werknemers in landen waarmee België geen overeenkomst tot het vermijden van dubbele belasting heeft gesloten

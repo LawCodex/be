@@ -12,7 +12,7 @@ entry_into_force: 2016-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/22/2016003166/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2016. - Wet tot omzetting van richtlijn 2014/49/EU inzake depositogarantiestelsels en houdende diverse bepalingen

@@ -12,7 +12,7 @@ entry_into_force: 2000-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/05/1999015119/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1999. - Loi portant assentiment au Traité entre le Royaume de Belgique, la Région flamande et le Royaume des Pays-Bas portant révision du règlement sur l'exécution de l'article IX du Traité du 19 avril 1839 et du chapitre II, sections 1 et 2 du Traité du 5 novembre 1842, modifiés, relatif au pilotage et à la surveillance commune (règlement de l'Escaut) et annexe, faits à Middelburg le 11 janvier 1995.

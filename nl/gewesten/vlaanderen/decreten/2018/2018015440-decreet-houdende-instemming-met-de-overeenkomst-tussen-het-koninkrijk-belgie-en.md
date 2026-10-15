@@ -13,7 +13,7 @@ entry_into_force: 2019-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/30/2018015440/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2018. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Cookeilanden inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 21 augustus 2015 en te Rarotonga op 8 september 2015

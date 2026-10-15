@@ -13,7 +13,7 @@ last_amended: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/12/24/1970122402/justel"
 justel_note: "Consultation des versions antérieures à partir du 03-06-2024 et mise à jour au 03-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1970. - Loi relative aux mesures de sécurité à prendre lors de l'établissement et dans l'exploitation des installations de distribution de gaz

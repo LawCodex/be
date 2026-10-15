@@ -13,7 +13,7 @@ entry_into_force: 2009-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/05/14/2009031270/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2009. - Ordonnantie tot wijziging van artikel 13, § 3, tweede lid en artikel 14, eerste lid, van de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode

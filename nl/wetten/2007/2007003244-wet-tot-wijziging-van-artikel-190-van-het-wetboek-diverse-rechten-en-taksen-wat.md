@@ -12,7 +12,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/07/2007003244/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2007. - Wet tot wijziging van artikel 190 van het Wetboek diverse rechten en taksen, wat het bedrag betreft van de belasting voor aanplakking en de betaling ervan.

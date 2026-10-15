@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/17/2021040110/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2020. - Decreet houdende de wetgevende aanpassingen met het oog op de overname van de dienst van de onroerende voorheffing door het Waalse Gewest

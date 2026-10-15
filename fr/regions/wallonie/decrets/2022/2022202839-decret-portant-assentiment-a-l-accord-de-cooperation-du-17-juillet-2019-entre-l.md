@@ -13,7 +13,7 @@ entry_into_force: 2022-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/05/2022202839/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Décret portant assentiment à l'accord de coopération du 17 juillet 2019 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'unification de la manière de référencer les adresses et de la mise en relation des données d'adresses

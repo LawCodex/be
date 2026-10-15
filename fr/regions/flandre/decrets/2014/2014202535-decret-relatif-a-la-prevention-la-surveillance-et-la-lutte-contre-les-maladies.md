@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014202535/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-06-2014 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret relatif à la prévention, la surveillance et la lutte contre les maladies chez les animaux vivant à l'état sauvage (cité comme : le décret sur les maladies chez les animaux sauvages du 28 mars 2014)

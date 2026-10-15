@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/21/2016003265/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-2016 en tekstbijwerking tot 06-10-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2016. - Wet tot invoering van een permanent systeem inzake fiscale en sociale regularisatie

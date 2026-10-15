@@ -13,7 +13,7 @@ entry_into_force: 2025-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/11/2024011799/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2024. - Decreet houdende aanpassing van de ontvangstenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2024

@@ -12,7 +12,7 @@ entry_into_force: 2026-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025009854/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi relative à la majoration des décimes additionnels et à l'aggravation des amendes en cas d'infraction au Code pénal social commise avec un facteur aggravant

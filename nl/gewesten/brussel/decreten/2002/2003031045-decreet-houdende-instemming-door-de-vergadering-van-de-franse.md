@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/21/2003031045/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2002. - Decreet houdende instemming door de Vergadering van de Franse Gemeenschapscommissie met het Protocol bij het Samenwerkingsakkoord en de Douane-Unie tussen de Europese Economische Gemeenschap en de Republiek San Marino ingevolge de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie en de Slotakte (VERTALING).

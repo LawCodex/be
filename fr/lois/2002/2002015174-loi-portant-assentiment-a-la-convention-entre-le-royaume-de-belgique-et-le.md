@@ -12,7 +12,7 @@ entry_into_force: 2002-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/11/2002015174/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2002. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, aux Protocoles Ier et II et à l'échange de lettres, faits à Luxembourg le 5 juin 2001.

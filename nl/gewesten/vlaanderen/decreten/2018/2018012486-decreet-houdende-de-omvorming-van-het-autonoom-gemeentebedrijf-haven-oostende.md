@@ -13,7 +13,7 @@ entry_into_force: 2018-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/25/2018012486/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2018. - Decreet houdende de omvorming van het Autonoom Gemeentebedrijf Haven Oostende tot een naamloze vennootschap van publiek recht

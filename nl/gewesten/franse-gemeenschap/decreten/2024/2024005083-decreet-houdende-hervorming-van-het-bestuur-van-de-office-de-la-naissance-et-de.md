@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/18/2024005083/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2024 en tekstbijwerking tot 21-11-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Decreet houdende hervorming van het bestuur van de "Office de la Naissance et de l'Enfance"

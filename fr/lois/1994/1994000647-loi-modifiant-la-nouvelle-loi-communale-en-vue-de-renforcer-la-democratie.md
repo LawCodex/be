@@ -12,7 +12,7 @@ entry_into_force: 1994-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/11/1994000647/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1994. - Loi modifiant la nouvelle loi communale en vue de renforcer la démocratie communale.

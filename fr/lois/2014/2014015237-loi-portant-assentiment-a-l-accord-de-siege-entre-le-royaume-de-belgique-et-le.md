@@ -12,7 +12,7 @@ entry_into_force: 2008-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/29/2014015237/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2014. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Centre international pour le Développement des Politiques migratoires, signé à Bruxelles le 21 mai 2008

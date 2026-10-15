@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/14/2019201258/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 20-03-2019 et mise à jour au 09-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2019. - Décret modifiant le Chapitre II du Titre III du Livre II de la première partie du Code de la démocratie locale et de la décentralisation relatif aux funérailles et sépultures

@@ -12,7 +12,7 @@ entry_into_force: 2015-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/06/28/2015009302/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2015. - Loi modifiant la date d'entrée en vigueur de la loi du 21 décembre 2013 modifiant le Code d'instruction criminelle et la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, en vue de créer une banque de données ADN " Personnes disparues "

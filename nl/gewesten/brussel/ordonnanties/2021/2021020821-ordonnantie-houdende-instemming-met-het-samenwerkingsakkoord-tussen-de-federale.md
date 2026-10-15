@@ -13,7 +13,7 @@ entry_into_force: 2021-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/04/15/2021020821/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2021. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap inzake het gebruik van SURE

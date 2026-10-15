@@ -13,7 +13,7 @@ entry_into_force: 1999-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999036019/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret portant promotion de l'entretien du petit patrimoine historique immobilier non protégé (TRADUCTION).

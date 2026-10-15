@@ -12,7 +12,7 @@ entry_into_force: 2009-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/14/2009009304/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2009. - Loi modifiant l'article 27 de la loi du 8 août 1997 sur les faillites

@@ -11,7 +11,7 @@ published: 2018-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/11/2018205458/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 OKTOBER 2018. - Wet tot wijziging van de arbeidswet van 16 maart 1971 voor wat het zondagswerk betreft

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009201897/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2009 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Décret habilitant le Gouvernement à codifier la législation relative à l'aide aux personnes et à la santé

@@ -12,7 +12,7 @@ entry_into_force: 2019-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/14/2018205389/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2018. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der Instellingen, wat de cumulatie van publieke vergoedingen betreft

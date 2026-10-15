@@ -12,7 +12,7 @@ entry_into_force: 2022-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/14/2022032469/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2022. - Wet tot wijziging van de programmawet (I) van 27 december 2006, teneinde eierstokkanker toe te voegen aan de lijst van de ziekten die door het Asbestfonds worden vergoed.

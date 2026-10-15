@@ -12,7 +12,7 @@ entry_into_force: 2010-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/06/2010011259/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2010. - Wet met betrekking tot de verplichte bewaring door een spoorwegvervoerder van verloren, achtergelaten of niet afgehaalde bagage en goederen

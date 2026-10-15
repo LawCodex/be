@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/19/2008018385/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2008 en tekstbijwerking tot 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Wet inzake het verkrijgen en het gebruik van menselijk lichaamsmateriaal met het oog op de geneeskundige toepassing op de mens of het wetenschappelijk onderzoek.

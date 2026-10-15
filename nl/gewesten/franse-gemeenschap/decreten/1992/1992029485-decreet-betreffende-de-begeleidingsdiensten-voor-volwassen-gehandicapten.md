@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1992/07/28/1992029485/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-09-1992 en tekstbijwerking tot 03-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 1992. - Decreet betreffende de begeleidingsdiensten voor volwassen gehandicapten.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/30/2007202058/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-2007 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2007. - Decreet tot organisatie van de erkenning en de subsidiëring van een vereniging van Franstalige sportfederaties, recreatieve sportfederaties en sportverenigingen (VERTALING).

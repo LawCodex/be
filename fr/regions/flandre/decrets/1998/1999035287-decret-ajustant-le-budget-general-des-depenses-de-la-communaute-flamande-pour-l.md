@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/07/1999035287/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-07-1999 et mis à jour au 08-09-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1998. - Décret ajustant le budget général des dépenses de la Communauté flamande pour l'exercice budgétaire 1998 (Traduction).

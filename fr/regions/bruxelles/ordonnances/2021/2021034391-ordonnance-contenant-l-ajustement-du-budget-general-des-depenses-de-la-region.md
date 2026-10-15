@@ -13,7 +13,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/10/2021034391/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2021. - Ordonnance contenant l'ajustement du Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2021

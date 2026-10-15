@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/25/2018014991/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2018. - Wet tot wijziging van Boek I "Definities" en Boek XI "Intellectuele Eigendom" van het Wetboek van economisch recht betreffende de audiovisuele sector

@@ -13,7 +13,7 @@ entry_into_force: 2016-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/20/2016035883/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2016. - Decreet houdende instemming met het samenwerkingsakkoord van 16 februari 2016 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken

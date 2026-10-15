@@ -12,7 +12,7 @@ entry_into_force: 1989-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/07/06/1989021109/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1989. - Programmawet.

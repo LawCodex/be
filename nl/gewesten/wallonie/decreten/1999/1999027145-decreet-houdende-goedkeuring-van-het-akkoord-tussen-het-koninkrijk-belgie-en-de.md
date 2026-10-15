@@ -13,7 +13,7 @@ entry_into_force: 1995-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/25/1999027145/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1999. - Decreet houdende goedkeuring van het Akkoord tussen het Koninkrijk België en de Conferentie van het Energiehandvest, opgemaakt te Brussel op 26 oktober 1995 (VERTALING).

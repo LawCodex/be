@@ -12,7 +12,7 @@ entry_into_force: 1996-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/17/2007002093/justel"
 department: "Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2007. - Loi modifiant la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public et la loi du 10 avril 1971 sur les accidents du travail.

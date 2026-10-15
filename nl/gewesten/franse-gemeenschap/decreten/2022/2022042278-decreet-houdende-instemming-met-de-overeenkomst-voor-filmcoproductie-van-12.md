@@ -13,7 +13,7 @@ entry_into_force: 2022-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/09/15/2022042278/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBER 2022. - Decreet houdende instemming met de overeenkomst voor Filmcoproductie van 12 april 2021 tussen de Regering van de Republiek Senegal en de Regering van de Franse Gemeenschap

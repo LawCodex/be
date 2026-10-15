@@ -12,7 +12,7 @@ entry_into_force: 2019-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/18/2019012284/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Wet houdende instemming met het Verdrag nr 167 betreffende de veiligheid en de gezondheid in de bouwnijverheid, aangenomen te Genève op 20 juni 1988 door de Internationale Arbeidsconferentie tijdens haar vijfenzeventigste zitting

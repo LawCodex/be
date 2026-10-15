@@ -13,7 +13,7 @@ entry_into_force: 2019-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019030509/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret sanctionnant l'arrêté du Gouvernement flamand du 1er février 2019 relatif à la participation d'organismes privés de radiodiffusion télévisuelle non linéaire à la production d'oeuvres audiovisuelles flamandes

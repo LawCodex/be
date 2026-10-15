@@ -12,7 +12,7 @@ entry_into_force: 1986-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/04/25/1986015237/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 1983. - Loi portant approbation du Protocole avec annexes à l'Accord du 22 novembre 1950 pour l'importation d'objets de caractère éducatif, scientifique ou culturel, fait a New York le 1er mars 1977.

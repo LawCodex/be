@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204849/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 05-09-2013 et mise à jour au 10-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret instaurant un cadre pour parvenir à une utilisation des pesticides compatible avec le développement durable et modifiant le Livre Ier du Code de l'Environnement, le Livre II du Code de l'Environnement, contenant le Code de l'Eau, la loi du 28 décembre 1967 relative aux cours d'eau non navigables et le décret du 12 juillet 2001 relatif à la formation professionnelle en agriculture

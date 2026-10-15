@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/17/2022020530/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 25-03-2022 et mise à jour au 15-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2022. - Loi portant des dispositions fiscales diverses et de lutte contre la fraude

@@ -12,7 +12,7 @@ entry_into_force: 2017-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/30/2017030467/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Wet houdende maatregelen in de strijd tegen de fiscale fraude

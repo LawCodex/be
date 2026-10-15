@@ -12,7 +12,7 @@ entry_into_force: 2017-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/06/2017010854/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2017. - Loi modifiant la loi du 3 juin 2007 portant des dispositions diverses relatives au travail et la loi du 13 juin 2014 d'exécution et de contrôle de l'application de la Convention du travail maritime 2006

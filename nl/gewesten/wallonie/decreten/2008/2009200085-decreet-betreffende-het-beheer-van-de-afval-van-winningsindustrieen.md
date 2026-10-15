@@ -13,7 +13,7 @@ entry_into_force: 2009-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/18/2009200085/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2008. - Decreet betreffende het beheer van de afval van winningsindustrieën.

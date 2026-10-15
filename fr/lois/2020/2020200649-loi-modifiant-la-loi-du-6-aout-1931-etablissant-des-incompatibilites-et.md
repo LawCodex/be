@@ -12,7 +12,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/09/2020200649/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2020. - Loi modifiant la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives, en ce qui concerne l'indemnité de sortie des anciens membres du Parlement

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023030910/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi relative à la création, aux missions et à la composition d'un commissariat national drogue

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/22/2023043383/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 13-10-2023 et mise à jour au 25-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2023. - Décret relatif à la gouvernance de l'offre d'options de base groupées dans l'enseignement secondaire qualifiant de plein exercice et en alternance

@@ -12,7 +12,7 @@ entry_into_force: 2010-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/18/2010000359/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2010. - Loi modifiant la loi organique du 18 juillet 1991 du contrôle des services de police et de renseignements et de l'Organe de coordination pour l'analyse de la menace

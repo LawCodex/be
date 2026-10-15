@@ -13,7 +13,7 @@ entry_into_force: 1996-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/11/26/1996036481/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 1996. - Decreet houdende tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1996.

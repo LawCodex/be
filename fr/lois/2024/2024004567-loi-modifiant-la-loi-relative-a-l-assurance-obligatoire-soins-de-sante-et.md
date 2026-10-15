@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/12/2024004567/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 21-05-2024 et mise à jour au 11-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2024. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée Ie 14 juillet 1994, en ce qui concerne la modernisation des procédures de remboursement en vue d'un accès rapide et durable aux médicaments

@@ -12,7 +12,7 @@ entry_into_force: 2024-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/18/2024000413/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2024. - Loi visant à rendre la justice plus humaine, plus rapide et plus ferme III

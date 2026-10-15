@@ -13,7 +13,7 @@ entry_into_force: 2000-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/05/2000029263/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2000. - Decreet tot wijziging van het decreet van 17 juli 1987 betreffende de audiovisuele sector (VERTALING).

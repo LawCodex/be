@@ -13,7 +13,7 @@ entry_into_force: 2022-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/20/2022200572/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2022. - Décret relatif au traitement de données à caractère personnel dans le cadre de la constitution par le Parlement de commissions délibératives entre députés et citoyens tirés au sort

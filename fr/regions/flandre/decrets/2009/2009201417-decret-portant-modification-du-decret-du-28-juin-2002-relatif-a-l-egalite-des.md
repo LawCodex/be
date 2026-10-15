@@ -13,7 +13,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/06/2009201417/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2009. - Décret portant modification du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I

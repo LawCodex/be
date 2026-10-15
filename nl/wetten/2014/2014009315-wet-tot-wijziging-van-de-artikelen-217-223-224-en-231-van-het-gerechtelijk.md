@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014009315/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-06-2014 en tekstbijwerking tot 30-11-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet tot wijziging van de artikelen 217, 223, 224 en 231 van het Gerechtelijk Wetboek

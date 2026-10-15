@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/18/2020044525/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Décret modifiant le décret du 6 juillet 2012 portant subventionnement d'hôtels pour jeunes, de centres de séjour pour jeunes, de structures d'appui et de l'a.s.b.l. " Algemene Dienst voor Jeugdtoerisme " (Service général pour le Tourisme des jeunes), en ce qui concerne la prolongation de la durée des conventions de subvention

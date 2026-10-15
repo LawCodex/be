@@ -12,7 +12,7 @@ entry_into_force: 2007-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/10/2014015248/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2014. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Gemeenschappelijke Markt voor Oostelijk en Zuidelijk Afrika, ondertekend te Brussel op 2 maart 2007

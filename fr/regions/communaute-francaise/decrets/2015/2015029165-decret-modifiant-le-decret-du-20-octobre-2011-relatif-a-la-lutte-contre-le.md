@@ -13,7 +13,7 @@ entry_into_force: 2015-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/19/2015029165/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2015. - Décret modifiant le décret du 20 octobre 2011 relatif à la lutte contre le dopage

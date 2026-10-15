@@ -12,7 +12,7 @@ entry_into_force: 2000-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/04/06/2000003236/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2000. - Wet tot wijziging, wat de interesten op het terug te betalen gedeelte van de onteigeningsvergoeding betreft, van artikel 18 van de wet van 17 april 1835 op de onteigening ten algemene nutte en artikel 21 van de wet van 26 juli 1962 betreffende de rechtspleging bij hoogdringende omstandigheden inzake onteigening ten algemene nutte.

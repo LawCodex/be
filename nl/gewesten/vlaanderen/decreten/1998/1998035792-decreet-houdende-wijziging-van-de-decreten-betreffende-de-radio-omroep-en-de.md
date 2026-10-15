@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/07/1998035792/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-07-1998 en tekstbijwerking tot 30-01-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1998. - Decreet houdende wijziging van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

@@ -13,7 +13,7 @@ entry_into_force: 2023-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/14/2023048158/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2023. - Ordonnantie tot verlenging van de gevolgen van de ordonnantie van 4 december 2020 tot toekenning van een uitzonderlijke vrijstelling van stedenbouwkundige vergunning en milieuvergunning aan de FOD Justitie voor het tijdelijke gebruik van de voormalige hoofdzetel van de NAVO voor gerechtelijke doeleinden

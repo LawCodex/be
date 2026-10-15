@@ -13,7 +13,7 @@ entry_into_force: 2018-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/14/2017032094/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2017. - Ordonnantie houdende instemming met : het Samenwerkingsakkoord tot wijziging van het Samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest, betreffende de uitvoering van de Overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993, ondertekend te Brussel op 17 december 2015

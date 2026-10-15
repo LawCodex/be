@@ -12,7 +12,7 @@ entry_into_force: 1990-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/12/22/1989010647/justel"
 department: "Affaires économiques - Justice - Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1989. - Loi relative à la protection du logement familial.

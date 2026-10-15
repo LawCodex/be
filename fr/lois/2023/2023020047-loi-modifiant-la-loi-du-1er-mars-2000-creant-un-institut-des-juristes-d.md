@@ -12,7 +12,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023020047/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi modifiant la loi du 1er mars 2000 créant un Institut des juristes d'entreprise en ce qui concerne les sanctions disciplinaires et les frais de la procédure disciplinaire

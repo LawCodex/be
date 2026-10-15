@@ -13,7 +13,7 @@ entry_into_force: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/28/2017020382/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2017. - Décret introduisant des mesures d'accompagnement pour améliorer le fonctionnement performant des organisations de logement social

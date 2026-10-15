@@ -12,7 +12,7 @@ entry_into_force: 2012-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/29/2012015093/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2012. - Loi portant assentiment à l'Accord entre les Etats du Benelux (le Royaume de Belgique, le grand-duché de Luxembourg, le Royaume des Pays-Bas) et la République d'Arménie relatif à la réadmission des personnes en séjour irrégulier, et au Protocole d'application, faits à Bruxelles le 3 juin 2009

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/17/1998035401/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-04-1998 en tekstbijwerking tot 17-08-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1998. - Decreet houdende regeling van het recht op vrije nieuwsgaring en de uitzending van korte berichtgeving door de omroepen.

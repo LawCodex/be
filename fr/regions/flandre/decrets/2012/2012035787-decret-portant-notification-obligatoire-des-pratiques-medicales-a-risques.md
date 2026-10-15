@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/22/2012035787/justel"
 department: "Autorité flamande"
 justel_note: "par son arrêt n° 170/2013 du 19-12-2013 (M.B. 13-03-2014, p. 21455-21460), la Cour constitutionnelle a annulé le présent décret"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2012. - Décret portant notification obligatoire des pratiques médicales à risques

@@ -12,7 +12,7 @@ published: 2000-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/24/2000027142/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2000. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement wallon et le Gouvernement de la Communauté française de Belgique, d'une part, et le Gouvernement de la République de Bulgarie, d'autre part, et ses annexes, faits à Bruxelles le 8 octobre 1998.

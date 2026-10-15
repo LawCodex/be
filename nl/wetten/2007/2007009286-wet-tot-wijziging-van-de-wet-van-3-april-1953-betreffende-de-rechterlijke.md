@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/12/2007009286/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2007 en tekstbijwerking tot 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2007. - Wet tot wijziging van de wet van 3 april 1953 betreffende de rechterlijke inrichting voor wat het hof van beroep te Bergen en de rechtbank van eerste aanleg te Gent betreft en tot tijdelijke toelating tot overtallige benoemingen van magistraten, wat het hof van beroep te Bergen betreft

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1986/12/15/1986021230/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-1986 en tekstbijwerking tot 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1986. - Wet tot bekrachtiging van de koninklijke besluiten vastgesteld ter uitvoering van artikel 1 van de wet van 27 maart 1986 tot toekenning van bepaalde bijzondere machten aan de Koning.

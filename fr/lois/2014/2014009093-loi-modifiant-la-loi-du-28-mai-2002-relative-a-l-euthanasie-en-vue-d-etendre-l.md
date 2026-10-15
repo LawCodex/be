@@ -12,7 +12,7 @@ entry_into_force: 2014-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014009093/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi modifiant la loi du 28 mai 2002 relative à l'euthanasie, en vue d'étendre l'euthanasie aux mineurs

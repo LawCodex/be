@@ -11,7 +11,7 @@ entry_into_force: 2022-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/30/2022041629/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2022. - Wet betreffende het gebruik van onbemande automatisch werkende toestellen ter controle op de inbreuken op het verbodsbord C23

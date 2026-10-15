@@ -13,7 +13,7 @@ entry_into_force: 2019-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/09/18/2019030882/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2019. - Décret modifiant le décret du 14 juillet 1997 portant statut de la RTBF

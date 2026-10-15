@@ -12,7 +12,7 @@ entry_into_force: 1995-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/01/09/1995022084/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 1995. - Loi confirmant l'arrêté royal du 14 juillet 1994 portant coordination de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire soins de santé et indemnités et abrogeant certaines dispositions non reproduites dans la coordination.

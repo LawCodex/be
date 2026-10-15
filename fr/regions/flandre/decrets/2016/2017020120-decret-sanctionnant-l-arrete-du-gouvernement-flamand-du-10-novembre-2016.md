@@ -13,7 +13,7 @@ entry_into_force: 2017-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017020120/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret sanctionnant l'arrêté du Gouvernement flamand du 10 novembre 2016 relatif au projet temporaire " transport scolaire enseignement spécial "

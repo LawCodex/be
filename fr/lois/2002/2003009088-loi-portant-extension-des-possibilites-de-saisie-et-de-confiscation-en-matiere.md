@@ -12,7 +12,7 @@ entry_into_force: 2003-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/19/2003009088/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Loi portant extension des possibilités de saisie et de confiscation en matière pénale.

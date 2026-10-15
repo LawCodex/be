@@ -13,7 +13,7 @@ entry_into_force: 2017-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017204932/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2017. - Décret portant assentiment à l'Accord multilatéral entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers, signé à Berlin le 29 octobre 2014

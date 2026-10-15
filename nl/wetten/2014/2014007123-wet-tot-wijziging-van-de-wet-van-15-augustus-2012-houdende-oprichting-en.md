@@ -12,7 +12,7 @@ entry_into_force: 2014-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/14/2014007123/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Wet tot wijziging van de wet van 15 augustus 2012 houdende oprichting en organisatie van een federale dienstenintegrator

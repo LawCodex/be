@@ -12,7 +12,7 @@ entry_into_force: 2016-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/01/2016009070/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2016. - Wet tot wijziging van diverse bepalingen wat de aanranding van de eerbaarheid en het voyeurisme betreft

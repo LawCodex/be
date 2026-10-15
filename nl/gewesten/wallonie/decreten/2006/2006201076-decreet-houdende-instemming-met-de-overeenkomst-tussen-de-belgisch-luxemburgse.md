@@ -13,7 +13,7 @@ entry_into_force: 2006-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/16/2006201076/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2006. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Republiek Nicaragua, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Luxemburg op 27 mei 2005 (VERTALING).

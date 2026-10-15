@@ -11,7 +11,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/13/2004011439/justel"
 department: "Begroting en Beheerscontrole - Financiën - Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2004. - Bijzondere wet tot wijziging van artikel 6, § 1, VIII, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

@@ -11,7 +11,7 @@ published: 1973-04-10
 entry_into_force: 1973-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/03/13/1973031309/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 1973. - Wet tot wijziging van de wet van 20 april 1874 op de voorlopige hechtenis en tot aanvulling van artikel 447 van het Wetboek van Strafvordering.

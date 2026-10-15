@@ -13,7 +13,7 @@ entry_into_force: 2001-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/15/2001027517/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2001. - Décret contenant le premier feuilleton d'ajustement du budget des recettes de la Région wallonne pour l'année budgétaire 2001.

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/09/2020015277/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2020. - Décret portant assentiment à l'Accord de partenariat global et renforcé entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d'une part, et la République d'Arménie, d'autre part, signé à Bruxelles le 24.11.2017

@@ -12,7 +12,7 @@ published: 2019-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019030741/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - decreet houdende diverse maatregelen betreffende de "Académie de Recherche et d'Enseignement supérieur"

@@ -13,7 +13,7 @@ entry_into_force: 2006-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/14/2007202071/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2007. - Decreet tot wijziging van het decreet van 10 april 2003 betreffende de financiële incentives voor de opleiding van werknemers die bij een onderneming in dienst zijn (VERTALING).

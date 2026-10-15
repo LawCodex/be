@@ -13,7 +13,7 @@ entry_into_force: 2023-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/01/19/2023010170/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2023. - Décret modifiant le décret du 9 mai 2019 de la Commission communautaire française relatif à l'accessibilité des sites internet et des applications mobiles des institutions publiques de la Commission communautaire française

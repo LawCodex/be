@@ -13,7 +13,7 @@ entry_into_force: 2014-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/12/15/2015031058/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2014. - Ordonnantie houdende de aanpassing van de Algemene Uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2014, dat het Brussels Hoofdstedelijk Parlement in zijn vergadering van vrijdag 12 december 2014 aangenomen heeft, ter bekrachtiging voor te leggen aan de Brusselse Hoofdstedelijke Regering

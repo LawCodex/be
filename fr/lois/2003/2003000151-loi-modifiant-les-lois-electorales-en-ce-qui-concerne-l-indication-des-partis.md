@@ -12,7 +12,7 @@ entry_into_force: 2003-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/19/2003000151/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2003. - Loi modifiant les lois électorales en ce qui concerne l'indication des partis politiques au-dessus des listes de candidats sur les bulletins de vote pour les élections des Chambres législatives fédérales, du Conseil régional wallon, du Conseil flamand, du Conseil de la Région de Bruxelles-Capitale et du Conseil de la Communauté germanophone.

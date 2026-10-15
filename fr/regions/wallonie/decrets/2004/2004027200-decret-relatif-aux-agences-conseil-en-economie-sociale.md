@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004027200/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 01-03-2005 et mise à jour au 24-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret relatif aux Agences-Conseil en économie sociale.

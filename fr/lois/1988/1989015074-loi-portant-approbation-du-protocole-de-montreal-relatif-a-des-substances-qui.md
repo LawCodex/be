@@ -12,7 +12,7 @@ entry_into_force: 1989-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1988/12/29/1989015074/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 DECEMBRE 1988. - Loi portant approbation du Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone et de l'Annexe A, faite à Montréal le 16 septembre 1987.

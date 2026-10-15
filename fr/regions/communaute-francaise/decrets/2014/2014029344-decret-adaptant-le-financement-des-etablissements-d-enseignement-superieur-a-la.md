@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029344/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2014 et mise à jour au 06-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret adaptant le financement des établissements d'enseignement supérieur à la nouvelle organisation des études

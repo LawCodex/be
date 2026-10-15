@@ -13,7 +13,7 @@ entry_into_force: 2019-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019013097/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à l'Accord de partenariat sur les relations et la coopération entre l'Union européenne et ses Etats membres, d'une part, et la Nouvelle-Zélande, d'autre part, fait à Bruxelles le 5 octobre 2016

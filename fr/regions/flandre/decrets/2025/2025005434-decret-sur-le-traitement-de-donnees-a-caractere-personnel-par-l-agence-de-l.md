@@ -13,7 +13,7 @@ entry_into_force: 2025-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/27/2025005434/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2025. - Décret sur le traitement de données à caractère personnel par l'Agence de l'Innovation et de l'Entrepreneuriat et ses organisations partenaires, en ce qui concerne l'exécution des tâches de l'Agence de l'Innovation et de l'Entrepreneuriat

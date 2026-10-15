@@ -11,7 +11,7 @@ published: 2012-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012204202/justel"
 department: "Kanselarij van de Eerste Minister - Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Wet houdende wijziging van de wet van 10 augustus 2001 tot oprichting van een Fonds ter financiering van de internationale rol en de hoofdstedelijke functie van Brussel en tot wijziging van de organieke wet van 27 december 1990 houdende oprichting van begrotingsfondsen, en van de organieke wet van 27 december 1990 tot oprichting van begrotingsfondsen

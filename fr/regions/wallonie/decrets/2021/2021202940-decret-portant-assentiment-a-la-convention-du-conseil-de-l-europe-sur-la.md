@@ -13,7 +13,7 @@ entry_into_force: 2021-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/10/2021202940/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2021. - Décret portant assentiment à la Convention du Conseil de l'Europe sur la coproduction cinématographique (révisée), faite à Rotterdam, le 30 janvier 2017

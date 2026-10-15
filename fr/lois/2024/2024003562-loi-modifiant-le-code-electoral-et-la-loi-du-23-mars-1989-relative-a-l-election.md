@@ -12,7 +12,7 @@ entry_into_force: 2023-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/14/2024003562/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2024. - Loi modifiant le Code électoral et la loi du 23 mars 1989 relative à l'élection du Parlement européen

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/20/2005003063/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 09-03-2005 et mise à jour au 19-10-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2004. - Loi relative à certaines formes de gestion collective de portefeuilles d'investissement.

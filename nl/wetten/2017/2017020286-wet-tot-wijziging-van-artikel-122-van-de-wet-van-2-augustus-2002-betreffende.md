@@ -12,7 +12,7 @@ entry_into_force: 2016-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/18/2017020286/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2017. - Wet tot wijziging van artikel 122 van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten teneinde het beroep te regelen dat kan worden ingesteld tegen bepaalde beslissingen van de FSMA, genomen krachtens de wet van 158 december 2016 tot regeling van de erkenning en de afbakening van crowdfunding en houdende diverse bepalingen inzake financiën

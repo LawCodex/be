@@ -12,7 +12,7 @@ entry_into_force: 2005-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/02/2005009113/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2005. - Herziening van de Grondwet. - Herziening van titel II van de Grondwet om er een nieuw artikel in te voegen betreffende de afschaffing van de doodstraf.

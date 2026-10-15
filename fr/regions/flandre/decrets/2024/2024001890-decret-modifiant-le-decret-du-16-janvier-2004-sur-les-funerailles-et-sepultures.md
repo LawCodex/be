@@ -13,7 +13,7 @@ entry_into_force: 2024-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/09/2024001890/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2024. - Décret modifiant le décret du 16 janvier 2004 sur les funérailles et sépultures, le décret du 12 juillet 2013 portant octroi de subsides pour bâtiments du culte, bâtiments destinés à l'exercice public de l'assistance morale non confessionnelle et crématoriums et le décret du 22 décembre 2017 sur l'administration locale

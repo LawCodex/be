@@ -12,7 +12,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/16/2016015123/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AOUT 2016. - Loi portant assentiment au Protocole portant modification de la Convention Benelux en matière de propriété intellectuelle (marques et dessins ou modèles), en ce qui concerne l'opposition et l'instauration d'une procédure administrative de nullité ou de déchéance des marques, fait à Bruxelles le 16 décembre 2014

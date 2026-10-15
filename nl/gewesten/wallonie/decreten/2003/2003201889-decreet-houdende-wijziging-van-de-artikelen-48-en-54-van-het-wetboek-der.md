@@ -11,7 +11,7 @@ date: 2003-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003201889/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet houdende wijziging van de artikelen 48 en 54 van het Wetboek der successierechten (VERTALING).

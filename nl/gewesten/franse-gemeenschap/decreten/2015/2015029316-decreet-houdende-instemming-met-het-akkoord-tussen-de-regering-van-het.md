@@ -13,7 +13,7 @@ entry_into_force: 2015-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029316/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet houdende instemming met het akkoord tussen de Regering van het Koninkrijk België en de Regering van Montserrat, zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Londen op 16 februari 2010

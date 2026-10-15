@@ -12,7 +12,7 @@ entry_into_force: 2000-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/05/1999015079/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1999. - Wet houdende instemming met de Overeenkomst tussen Mongolië en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 26 september 1995.

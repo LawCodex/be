@@ -12,7 +12,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/14/2024003588/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2024. - Wet houdende diverse wijzigingen van het Wetboek van strafvordering II

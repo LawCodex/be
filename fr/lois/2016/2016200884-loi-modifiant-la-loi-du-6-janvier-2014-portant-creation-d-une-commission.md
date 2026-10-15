@@ -12,7 +12,7 @@ entry_into_force: 2016-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/19/2016200884/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2016. - Loi modifiant la loi du 6 janvier 2014 portant création d'une Commission fédérale de déontologie

@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1935/11/30/1935113052/justel"
 justel_notes:
   - "tekstbijwerking tot 04-05-1999"
   - "Raadpleging van vroegere versies vanaf 27-04-2018 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1935. - Gecoördineerde wetten op de handelsvennootschappen. (2de deel : art. 165 tot en met 219 - Om technische redenen betreffende de CD-ROM, is dit het vervolg van de tekst 1935-11-30/31)

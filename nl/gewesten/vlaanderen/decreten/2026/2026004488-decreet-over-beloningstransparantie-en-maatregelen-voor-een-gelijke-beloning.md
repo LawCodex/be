@@ -13,7 +13,7 @@ entry_into_force: 2026-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/12/2026004488/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2026. - Decreet over beloningstransparantie en maatregelen voor een gelijke beloning

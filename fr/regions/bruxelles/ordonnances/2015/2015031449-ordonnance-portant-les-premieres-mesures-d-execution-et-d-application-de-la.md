@@ -12,7 +12,7 @@ published: 2015-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/09/2015031449/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2015. - Ordonnance portant les premières mesures d'exécution et d'application de la sixième réforme de l'Etat relatives à la surveillance et au contrôle en matière d'emploi

@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/10/05/2023046186/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OKTOBER 2023. - Ordonnantie tot wijziging van de ordonnantie van 4 april 2019 betreffende de oprichting, de erkenning, de programmatie en de erkenningsprocedures van de ziekenhuizen, vormen van samenwerkingsverbanden tussen ziekenhuizen of ziekenhuis-activiteiten, met betrekking tot de representatieve organisaties van de ziekenhuissector

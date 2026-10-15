@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/04/2014035450/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 07-07-2014 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Decreet houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest (aangehaald als : GIPOD-decreet van 4 april 2014)

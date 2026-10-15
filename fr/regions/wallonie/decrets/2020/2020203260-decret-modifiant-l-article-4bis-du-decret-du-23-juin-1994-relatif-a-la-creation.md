@@ -13,7 +13,7 @@ entry_into_force: 2020-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/16/2020203260/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2020. - Décret modifiant l'article 4bis du décret du 23 juin 1994 relatif à la création et à l'exploitation des aéroports et aérodromes relevant de la Région wallonne

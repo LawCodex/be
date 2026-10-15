@@ -13,7 +13,7 @@ entry_into_force: 2019-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019013418/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant assentiment à l'Accord de coopération du 31 décembre 2018 entre la Communauté flamande, la Région wallonne, la Communauté française, la Commission communautaire commune, la Commission communautaire française et la Communauté germanophone concernant le financement des soins en cas de recours à des institutions de soins en dehors des limites de l'entité fédérée

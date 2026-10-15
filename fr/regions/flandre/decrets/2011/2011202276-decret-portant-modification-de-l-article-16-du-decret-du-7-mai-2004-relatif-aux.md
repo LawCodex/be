@@ -13,7 +13,7 @@ entry_into_force: 2011-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/04/29/2011202276/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2011. - Décret portant modification de l'article 16 du décret du 7 mai 2004 relatif aux subventions additionnelles à l'emploi dans le secteur culturel

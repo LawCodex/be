@@ -12,7 +12,7 @@ published: 2026-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/28/2026A00724/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2025. - Samenwerkingsovereenkomst van 28 november 2025 tussen het Vlaams Gewest en het Waals Gewest voor de uitwisseling van arbeidsmarktinformatie en de bevordering van de interregionale mobiliteit van werkzoekenden, voor de aangelegenheden uitgevoerd krachtens artikel 138 van de Grondwet

@@ -13,7 +13,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/10/2006201313/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2006. - Décret modifiant le décret du 27 février 2003 organisant la reconnaissance et le subventionnement des centres sportifs locaux et des centres sportifs locaux intégrés.

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008029389/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-09-2008 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - [Decreet betreffende de administratieve personeelsleden van de door de Franse Gemeenschap georganiseerde of gesubsidieerde Hogescholen, Hogere Kunstscholen en Hogere Instituten voor architectuur.] (VERTALING) &lt;Opschrift vervangen door DFG 2009-02-19/51 , art. 1, 002; Inwerkingtreding : 15-09-2009&gt;

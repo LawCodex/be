@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/09/2016203148/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2016. - Decreet tot instemming met het Akkoord tussen het Koninkrijk België en "Bioversity International", ondertekend te Brussel op 3 december 2012, tot wijziging van het Zetelakkoord tussen het Koninkrijk België en het "International Plant Genetics Resources Institute", ondertekend te Brussel op 15 oktober 2003

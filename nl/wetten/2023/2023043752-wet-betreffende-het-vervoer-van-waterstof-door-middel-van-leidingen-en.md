@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/11/2023043752/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 25-07-2023 en tekstbijwerking tot 10-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2023. - Wet betreffende het vervoer van waterstof door middel van leidingen [en betreffende de productie van waterstof in de zeegebieden onder de rechtsbevoegdheid van België] &lt;W 2024-04-26/50 , art. 6, 002; Inwerkingtreding : 20-06-2024&gt;

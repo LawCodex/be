@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/18/1991009959/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1991 et mise à jour au 02-06-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1991. - Loi modifiant les règles du Code judiciaire relatives à la formation et au recrutement des magistrats.

@@ -13,7 +13,7 @@ entry_into_force: 2011-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/02/25/2011201213/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2011. - Decreet houdende bekrachtiging van het besluit van de Vlaamse Regering van 17 december 2010 tot definitieve vaststelling van een gedeeltelijke herziening van het Ruimtelijk Structuurplan Vlaanderen, wat wijzigingen aan de bindende bepalingen van dat Ruimtelijk Structuurplan Vlaanderen betreft

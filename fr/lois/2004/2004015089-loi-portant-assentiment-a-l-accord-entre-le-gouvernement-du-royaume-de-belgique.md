@@ -12,7 +12,7 @@ entry_into_force: 2004-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/25/2004015089/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2004. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique, le Gouvernement du grand-duché de Luxembourg et le Gouvernement du Royaume des Pays-Bas et le Gouvernement fédéral de la République fédérale de Yougoslavie relatif à la reprise et à la réadmission de personnes qui ne remplissent pas ou ne remplissent plus les conditions d'entrée ou de séjour sur le territoire de l'autre Etat contractant, et au Protocole d'application et ses Annexes 1 à 8, faits à Belgrade le 19 juillet 2002.

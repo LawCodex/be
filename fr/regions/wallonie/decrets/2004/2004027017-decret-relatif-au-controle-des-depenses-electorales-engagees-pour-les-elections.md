@@ -13,7 +13,7 @@ entry_into_force: 2004-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004027017/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2004. - Décret relatif au contrôle des dépenses électorales engagées pour les élections du Conseil régional wallon, ainsi qu'au contrôle des communications du président du Conseil régional wallon et des membres du Gouvernement wallon.

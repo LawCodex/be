@@ -12,7 +12,7 @@ entry_into_force: 2004-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/24/2002015036/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2000. - Loi portant assentiment à la Charte européenne de l'autonomie locale, faite à Strasbourg le 15 octobre 1985.

@@ -12,7 +12,7 @@ published: 2025-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/06/2024206139/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2024. - Decreet houdende wijziging van het Waalse Wetboek van Duurzaam Wonen en het decreet van 18 maart 2002 betreffende de Infrastructuur

@@ -18,7 +18,7 @@ justel_notes:
   - "Art. 36 en 68 zijn gewijzigd in de toekomst bij DVR 2013-06-21/17 , art. 46 en 52, 004; Inwerkingtreding : onbepaald "
   - "art. 2 gewijzigd in de toekomst en art. 49/1 en 59/1 ingevoegd bij DVR 2016-07-15/17 , art. 40, 41-42, 005; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 14-05-2009 en tekstbijwerking tot 28-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2009. - Woonzorgdecreet

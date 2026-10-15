@@ -13,7 +13,7 @@ entry_into_force: 2014-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035651/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant divers articles du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision

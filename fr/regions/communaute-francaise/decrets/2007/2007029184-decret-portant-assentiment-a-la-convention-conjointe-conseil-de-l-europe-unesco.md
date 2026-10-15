@@ -13,7 +13,7 @@ entry_into_force: 2007-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/19/2007029184/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Décret portant assentiment à la Convention conjointe Conseil de l'Europe/Unesco sur la reconnaissance des qualifications relatives à l'enseignement supérieur dans la Région européenne, adoptée à Lisbonne le 11 avril 1997 et signée par la Belgique le 7 mars 2005.

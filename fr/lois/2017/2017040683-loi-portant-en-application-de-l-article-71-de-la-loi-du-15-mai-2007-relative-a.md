@@ -12,7 +12,7 @@ entry_into_force: 2017-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017040683/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi portant, en application de l'article 71 de la loi du 15 mai 2007 relative à la sécurité civile, confirmation de deux arrêtés royaux

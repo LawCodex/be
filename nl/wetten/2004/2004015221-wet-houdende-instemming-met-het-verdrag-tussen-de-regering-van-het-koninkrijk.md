@@ -12,7 +12,7 @@ entry_into_force: 2009-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/10/2004015221/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2004. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Estland betreffende de politiesamenwerking, ondertekend te Talinn op 11 juni 2001.

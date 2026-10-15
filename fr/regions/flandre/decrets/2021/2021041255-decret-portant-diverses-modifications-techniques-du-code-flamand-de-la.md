@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/02/2021041255/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-04-2021 et mise à jour au 03-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Décret portant diverses modifications techniques du Code flamand de la Fiscalité du 13 décembre 2013 et dispositions connexes

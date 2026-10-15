@@ -10,7 +10,7 @@ date: 1975-07-19
 published: 1975-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/07/19/1975071903/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1975. - Wet houdende goedkeuring van het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken, opgemaakt te Straatsburg op 20 april 1959.

@@ -12,7 +12,7 @@ published: 2005-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005202132/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret visant à modifier l'article 14, § 2, 3°, du Code wallon du Logement pour les matières réglées en vertu de l'article 138 de la Constitution.

@@ -13,7 +13,7 @@ entry_into_force: 2022-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/06/30/2022015140/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2022. - Ordonnantie tot wijziging van artikel 30 van de ordonnantie van 29 november 2018 op de begraafplaatsen en de lijkbezorging

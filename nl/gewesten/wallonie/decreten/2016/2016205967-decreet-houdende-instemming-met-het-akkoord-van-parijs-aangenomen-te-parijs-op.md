@@ -13,7 +13,7 @@ entry_into_force: 2016-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/24/2016205967/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2016. - Decreet houdende instemming met het Akkoord van Parijs, aangenomen te Parijs, op 12 december 2015

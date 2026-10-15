@@ -13,7 +13,7 @@ entry_into_force: 2005-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/04/11/2005033043/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2005. - Décret portant assentiment à l'avenant du 12 février 2004 à l'Accord de Coopération entre l'Etat, les Régions et la Communauté germanophone du 4 juillet 2000 relatif à l'économie sociale (TRADUCTION).

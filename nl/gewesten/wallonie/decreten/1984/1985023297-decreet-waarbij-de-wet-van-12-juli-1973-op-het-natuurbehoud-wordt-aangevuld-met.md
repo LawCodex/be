@@ -13,7 +13,7 @@ entry_into_force: 1985-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1984/04/11/1985023297/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1984. - Decreet waarbij de wet van 12 juli 1973 op het natuurbehoud wordt aangevuld met bepalingen eigen aan het Waalse Gewest.

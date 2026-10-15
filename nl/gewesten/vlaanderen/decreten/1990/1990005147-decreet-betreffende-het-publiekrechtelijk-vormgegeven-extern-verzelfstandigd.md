@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/07/31/1990005147/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-1992 en tekstbijwerking tot 05-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 1990. - [Decreet betreffende het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De Lijn]. &lt;Opschrift vervangen door DVR 2004-04-02/52, art. 2, 009; Inwerkingtreding : 15-03-2006&gt;

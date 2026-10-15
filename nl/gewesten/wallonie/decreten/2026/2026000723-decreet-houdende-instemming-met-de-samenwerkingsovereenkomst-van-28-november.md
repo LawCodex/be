@@ -13,7 +13,7 @@ entry_into_force: 2026-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/01/22/2026000723/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2026. - Decreet houdende instemming met de samenwerkingsovereenkomst van 28 november 2025 tussen het Vlaams Gewest en het Waals Gewest voor de uitwisseling van arbeidsmarktinformatie en de bevordering van de interregionale mobiliteit van werkzoekenden

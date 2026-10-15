@@ -13,7 +13,7 @@ entry_into_force: 2011-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/01/20/2011027011/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2011. - Décret modifiant le décret du 17 juillet 2008 relatif à quelques permis pour lesquels il existe des motifs impérieux d'intérêt général

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/05/2023A46510/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-01-2024 en tekstbijwerking tot 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OKTOBER 2023. - Wetboek voor gemeenschapsjustitie

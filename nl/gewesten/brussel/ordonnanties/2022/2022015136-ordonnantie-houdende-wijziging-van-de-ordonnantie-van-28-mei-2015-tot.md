@@ -13,7 +13,7 @@ entry_into_force: 2022-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/06/30/2022015136/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2022. - Ordonnantie houdende wijziging van de ordonnantie van 28 mei 2015 tot oprichting van een instelling van openbaar nut waarin het beheer van het preventie- en veiligheidsbeleid in het Brussels Hoofdstedelijk Gewest is samengebracht en tot oprichting van de gewestelijke school voor de veiligheids-, preventie- en hulpdienstberoepen. - Brusafe om de uitoefening van de taken van de hoge ambtenaar bedoeld in artikel 48, derde lid, van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen toe te vertrouwen aan de leidend ambtenaar van die instelling

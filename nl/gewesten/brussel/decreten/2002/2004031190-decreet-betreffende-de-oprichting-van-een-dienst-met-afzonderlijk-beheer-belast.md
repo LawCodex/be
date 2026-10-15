@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/06/2004031190/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2002. - Decreet betreffende de oprichting van een dienst met afzonderlijk beheer belast met het beheer van de instellingen voor gehandicapte personen waarvan de Franse Gemeenschapscommissie de inrichtende macht is (VERTALING).

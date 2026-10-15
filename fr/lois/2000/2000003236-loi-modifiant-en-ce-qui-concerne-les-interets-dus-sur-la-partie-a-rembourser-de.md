@@ -12,7 +12,7 @@ entry_into_force: 2000-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/04/06/2000003236/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2000. - Loi modifiant, en ce qui concerne les intérêts dus sur la partie à rembourser de l'indemnité d'expropriation, l'article 18 de la loi du 17 avril 1835 sur l'expropriation pour cause d'utilité publique et l'article 21 de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique.

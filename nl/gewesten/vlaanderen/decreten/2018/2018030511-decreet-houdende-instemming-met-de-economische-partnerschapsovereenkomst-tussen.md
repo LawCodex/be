@@ -13,7 +13,7 @@ entry_into_force: 2018-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/02/2018030511/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2018. - Decreet houdende instemming met de economische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de SADC-EPO-Staten, anderzijds, ondertekend te Kasane op 10 juni 2016

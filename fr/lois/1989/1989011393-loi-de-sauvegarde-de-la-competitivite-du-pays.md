@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/01/06/1989011393/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 31-09-1989 et mise à jour au 01-08-1996."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 1989. - Loi de sauvegarde de la compétitivité du pays. -

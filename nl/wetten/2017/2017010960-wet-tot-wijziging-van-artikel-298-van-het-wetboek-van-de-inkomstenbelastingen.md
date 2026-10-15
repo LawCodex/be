@@ -12,7 +12,7 @@ entry_into_force: 2017-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/20/2017010960/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2017. - Wet tot wijziging van artikel 298 van het Wetboek van de inkomstenbelastingen 1992 wat betreft de herinneringsbrieven voor onbetaalde inkomstenbelastingen

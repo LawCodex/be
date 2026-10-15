@@ -10,7 +10,7 @@ date: 1967-10-10
 published: 1967-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - Loi portant les dispositions prises à titre transitoire formant l'article 4 de la loi contenant le Code judiciaire.

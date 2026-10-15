@@ -11,7 +11,7 @@ entry_into_force: 1995-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/07/1995016131/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 1995. - Wet houdende zevende aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 1994 Sectie 31 - "Landbouw".

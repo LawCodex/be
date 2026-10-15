@@ -12,7 +12,7 @@ entry_into_force: 2012-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/08/2012011000/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2012. - Loi portant des dispositions diverses en matière d'énergie et de développement durable

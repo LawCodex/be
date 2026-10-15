@@ -12,7 +12,7 @@ entry_into_force: 2024-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/17/2024000709/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2023. - Loi portant assentiment au Traité entre le Royaume de Belgique et le Grand-Duché de Luxembourg concernant l'exploitation commune des aéronefs de transport A400M au sein d'une unité binationale, fait à Luxembourg le 31 août 2021

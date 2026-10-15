@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/21/2025009306/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2025. - Décret modifiant divers décrets du domaine politique Enseignement et Formation, en ce qui concerne le fonctionnement de l'inspection de l'enseignement flamande

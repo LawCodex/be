@@ -11,7 +11,7 @@ published: 2014-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014009326/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet houdende invoeging van artikel 624/1 in het Burgerlijk Wetboek en tot wijziging van artikel 745sexies van hetzelfde wetboek teneinde de regels vast te leggen voor de waardering van het vruchtgebruik in geval van omzetting van het vruchtgebruik van de langstlevende echtgenoot en van de langstlevende wettelijk samenwonende

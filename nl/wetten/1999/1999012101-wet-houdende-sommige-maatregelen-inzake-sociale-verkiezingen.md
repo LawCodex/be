@@ -12,7 +12,7 @@ entry_into_force: 1999-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/28/1999012101/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1999. - Wet houdende sommige maatregelen inzake sociale verkiezingen.

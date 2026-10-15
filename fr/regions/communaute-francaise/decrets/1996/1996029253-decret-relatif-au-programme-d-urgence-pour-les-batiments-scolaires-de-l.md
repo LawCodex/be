@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/24/1996029253/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-08-1996 et mise à jour au 12-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1996. - Décret relatif au programme d'urgence pour les bâtiments scolaires de l'enseignement fondamental et de l'enseignement secondaire organisé ou subventionné par la Communauté française. (NOTE 1 : Abrogé avec effet à une date indéterminée par DCFR 2001-06-14/53 , art. 13, 004; En vigueur : indéterminée )

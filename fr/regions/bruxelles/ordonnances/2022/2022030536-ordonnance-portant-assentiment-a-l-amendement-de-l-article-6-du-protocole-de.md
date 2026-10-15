@@ -13,7 +13,7 @@ entry_into_force: 2022-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/01/27/2022030536/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2022. - Ordonnance portant assentiment à l'amendement de l'article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et d'autres matières et à l'amendement des annexes II et III de la Convention d'Ospar de 1992 pour la protection du milieu marin de l'Atlantique du Nord-Est

@@ -13,7 +13,7 @@ entry_into_force: 2012-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/12/2012029323/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2012. - Décret intégrant les cursus de médecine et de sciences dentaires dans le dispositif mis en place par le décret du 16 juin 2006 régulant le nombre d'étudiants dans certains cursus de premier cycle de l'enseignement supérieur

@@ -12,7 +12,7 @@ entry_into_force: 2002-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/09/20/2002003451/justel"
 department: "Intérieur - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2002. - Loi relative à l'adhésion de la Belgique à la Société interaméricaine d'Investissement.

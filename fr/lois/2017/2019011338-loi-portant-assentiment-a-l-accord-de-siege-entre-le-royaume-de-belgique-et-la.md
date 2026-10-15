@@ -12,7 +12,7 @@ entry_into_force: 2022-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/09/2019011338/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2017. - Loi portant assentiment à l'Accord de Siège entre le Royaume de Belgique et la Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge, fait à Bruxelles le 29 juin 2012 et à Genève le 9 juillet 2012

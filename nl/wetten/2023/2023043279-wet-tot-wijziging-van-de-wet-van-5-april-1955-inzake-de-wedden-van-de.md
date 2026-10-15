@@ -12,7 +12,7 @@ entry_into_force: 2023-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/29/2023043279/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2023. - Wet tot wijziging van de wet van 5 april 1955 inzake de wedden van de ambtsdragers bij de Raad van State en de magistraten en leden van de griffie van de Raad voor Vreemdelingenbetwistingen

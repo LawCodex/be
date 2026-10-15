@@ -12,7 +12,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/17/2017012502/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2017. - Loi modifiant la loi du 15 mai 2007 relative à la sécurité civile en vue de créer des conseils de formation et un Conseil supérieur de formation

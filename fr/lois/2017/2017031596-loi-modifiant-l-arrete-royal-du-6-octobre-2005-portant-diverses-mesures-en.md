@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/03/2017031596/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2017. - Loi modifiant l'arrêté royal du 6 octobre 2005 portant diverses mesures en matière de sélection comparative de recrutement et en matière de stage en vue d'optimiser le quota en matière d'emploi de personnes handicapées dans les services publics fédéraux

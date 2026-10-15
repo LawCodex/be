@@ -13,7 +13,7 @@ entry_into_force: 2026-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/27/2026003695/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2026. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Europese Bank voor Wederopbouw en Ontwikkeling tot oprichting van een operationeel coördinatiebureau van deze organisatie in België, gedaan te Brussel op 14 maart 2025

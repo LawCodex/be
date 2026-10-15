@@ -12,7 +12,7 @@ entry_into_force: 2023-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/14/2024003562/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2024. - Wet tot wijziging van het Kieswetboek en de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement

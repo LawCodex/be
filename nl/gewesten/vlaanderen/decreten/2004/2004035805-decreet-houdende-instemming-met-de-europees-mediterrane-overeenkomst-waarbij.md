@@ -13,7 +13,7 @@ entry_into_force: 2004-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/23/2004035805/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2004. - Decreet houdende instemming met de Europees-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Democratische Republiek Libanon, anderzijds, en de Slotakte, ondertekend in Luxemburg op 17 juni 2002.

@@ -12,7 +12,7 @@ entry_into_force: 2023-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/06/2023047093/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2023. - Loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes

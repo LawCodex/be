@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/12/20/2019031116/justel"
 department: "Beleid en Ondersteuning"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2019 en tekstbijwerking tot 30-07-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2019. - Financiewet voor het begrotingsjaar 2020

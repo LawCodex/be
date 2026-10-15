@@ -13,7 +13,7 @@ entry_into_force: 2007-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/22/2007035303/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2006. - Decreet houdende instemming met de overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden, en de slotakte, ondertekend in Luxemburg op 26 oktober 2004.

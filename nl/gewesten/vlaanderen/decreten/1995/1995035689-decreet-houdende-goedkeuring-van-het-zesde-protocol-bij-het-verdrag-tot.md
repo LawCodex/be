@@ -13,7 +13,7 @@ entry_into_force: 1995-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/05/1995035689/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Decreet houdende goedkeuring van het zesde protocol bij het verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden inzake de afschaffing van de doodstraf ondertekend te Straatsburg op 28 april 1983.

@@ -13,7 +13,7 @@ entry_into_force: 2025-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/03/30/2023041614/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2023. - Ordonnance relative à l'accessibilité des terminaux en libre-service interactifs des transports urbains et régionaux

@@ -12,7 +12,7 @@ entry_into_force: 1984-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/01/26/1984015024/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1984. - Loi portant approbation du Protocole concernant la personnalité juridique du Bureau Benelux des marques et du Bureau Benelux des dessins ou modèles, signé à Bruxelles, le 6 novembre 1981.

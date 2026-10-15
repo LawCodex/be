@@ -12,7 +12,7 @@ entry_into_force: 2010-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/02/21/2010015041/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2010. - Loi portant assentiment à l'Accord d'assistance administrative mutuelle en matière douanière entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Maurice, fait à Bruxelles le 10 avril 2007

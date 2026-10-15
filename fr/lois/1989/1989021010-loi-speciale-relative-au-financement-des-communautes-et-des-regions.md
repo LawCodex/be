@@ -16,7 +16,7 @@ department: "Premier Ministre"
 justel_notes:
   - "les articles 3, 4, 5 et 11, 2° modifiés avec effet à une date indéterminée par L 2013-12-26/12 , art. 3, 4, 5 et 6, 2°; En vigueur : à partir de la cessation de la perception du droit d'usage visé à l'article 17, 2°, de l'Accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994, entre les gouvernements de la République fédérale d'Allemagne, du Royaume de Belgique, du Royaume du Danemark, du Grand-Duché de Luxembourg et du Royaume des Pays-Bas et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993, et au plus tôt le 1er janvier 2016"
   - "Consultation des versions antérieures à partir du 20-07-1993 et mise à jour au 15-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 1989. - Loi spéciale relative au financement des Communautés et des Régions.

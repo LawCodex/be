@@ -13,7 +13,7 @@ entry_into_force: 2009-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/19/2009033014/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2009. - Décret portant assentiment au Protocole n° 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998

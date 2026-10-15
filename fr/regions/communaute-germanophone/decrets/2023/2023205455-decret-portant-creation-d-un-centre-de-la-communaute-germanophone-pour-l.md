@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/22/2023205455/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 03-11-2023 et mise à jour au 12-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2023. - Décret portant création d'un Centre de la Communauté germanophone pour l'accueil d'enfants

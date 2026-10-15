@@ -13,7 +13,7 @@ entry_into_force: 2014-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/09/22/2014206166/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBER 2014. - Decreet houdende instemming met het Verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, en de bijlagen A, B en C, gedaan te Straatsburg op 25 januari 1988 en met het Protocol tot wijziging van het Verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, gedaan te Parijs op 27 mei 2010

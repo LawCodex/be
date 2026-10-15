@@ -13,7 +13,7 @@ entry_into_force: 2006-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/08/2005203373/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2005. - Décret modifiant le Code de la démocratie locale et de la décentralisation en ce qui concerne les subventions à certains investissements d'intérêt public.

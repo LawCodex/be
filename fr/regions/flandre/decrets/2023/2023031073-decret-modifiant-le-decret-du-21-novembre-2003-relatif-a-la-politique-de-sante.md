@@ -13,7 +13,7 @@ entry_into_force: 2023-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/28/2023031073/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2023. - Décret modifiant le décret du 21 novembre 2003 relatif à la politique de santé préventive, en ce qui concerne l'abrogation des dispositions relatives à l'isolement temporaire dans le cadre de COVID-19

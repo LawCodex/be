@@ -12,7 +12,7 @@ entry_into_force: 2009-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/01/21/2009009101/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 2009. - Wet tot wijziging van artikel 116 van de wet van 21 april 2007 betreffende de internering van personen met een geestesstoornis.

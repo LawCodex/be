@@ -13,7 +13,7 @@ entry_into_force: 2019-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/12/17/2019015880/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2019. - Ordonnantie houdende de wijziging van de procedurele bepalingen in het kader van de overname van de dienst van de verkeersbelastingen en houdende diverse bepalingen

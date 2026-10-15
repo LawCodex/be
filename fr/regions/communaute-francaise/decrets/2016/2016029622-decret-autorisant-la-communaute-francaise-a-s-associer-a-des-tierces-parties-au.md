@@ -13,7 +13,7 @@ entry_into_force: 2016-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/17/2016029622/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2016. - Décret autorisant la Communauté française à s'associer à des tierces parties au sein d'une personne morale de droit public et en fixant la création, la composition, la compétence, le fonctionnement et le contrôle

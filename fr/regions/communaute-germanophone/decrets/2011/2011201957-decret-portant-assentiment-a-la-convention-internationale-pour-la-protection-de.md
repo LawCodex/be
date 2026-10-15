@@ -13,7 +13,7 @@ entry_into_force: 2011-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/28/2011201957/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2011. - Décret portant assentiment à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées, adoptée à New York le 20 décembre 2006

@@ -12,7 +12,7 @@ entry_into_force: 2012-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/05/2012009282/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2012. - Loi modifiant le Code pénal en vue d'instaurer une circonstance aggravante pour les infractions commises à l'encontre des arbitres de manifestations sportives

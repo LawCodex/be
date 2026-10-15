@@ -12,7 +12,7 @@ entry_into_force: 1996-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/04/15/1996003299/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 1996. - Loi relative à la participation de la Belgique à la huitième augmentation générale des ressources de la Banque interaméricaine de Développement.

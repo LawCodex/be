@@ -12,7 +12,7 @@ entry_into_force: 2014-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/26/2014015000/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2013. - Wet houdende instemming met het Protocol tot wijziging van de Overeenkomst tussen het Koninkrijk België en Japan tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, gedaan te Brussel op 26 januari 2010

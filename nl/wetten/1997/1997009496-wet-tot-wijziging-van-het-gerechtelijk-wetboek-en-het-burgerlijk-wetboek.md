@@ -12,7 +12,7 @@ entry_into_force: 1997-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/20/1997009496/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1997. - Wet tot wijziging van het Gerechtelijk Wetboek en het Burgerlijk Wetboek betreffende de procedures tot echtscheiding.

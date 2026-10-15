@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035516/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant la réparation en droit de plans d'exécution spatiaux dont le plan-évaluation des incidences sur l'environnement a été établi en application de l'arrêté du Gouvernement flamand du 18 avril 2008 relatif au mode d'intégration de l'évaluation des incidences sur l'environnement dans le cadre d'un plan d'exécution spatial

@@ -13,7 +13,7 @@ entry_into_force: 2021-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/29/2021202204/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2021. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation en vue d'étendre la tutelle ordinaire régionale aux zones de secours

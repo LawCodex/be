@@ -12,7 +12,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019202414/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi relative à l'octroi d'une somme forfaitaire en faveur des personnes atteintes de malformations congénitales dues à l'ingestion par leur mère pendant la grossesse de médicaments contenant de la thalidomide

@@ -11,7 +11,7 @@ published: 2025-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/09/23/2025007896/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2025. - Wet tot wijziging van verscheidene bepalingen met het oog op de uitvoering van sommige bepalingen van Verordening (EU) 2024/886 tot wijziging van Verordeningen (EU) nr. 260/2012 en (EU) 2021/1230 en Richtlijnen 98/26/EG en (EU) 2015/2366 wat betreft instantovermakingen in euro's, en de omzetting van Richtlijn (EU) 2024/1174 tot wijziging van Richtlijn 2014/59/EU en Verordening (EU) nr. 806/2014 met betrekking tot bepaalde aspecten van het minimumvereiste voor eigen vermogen en in aanmerking komende passiva (1) - Rechtzetting

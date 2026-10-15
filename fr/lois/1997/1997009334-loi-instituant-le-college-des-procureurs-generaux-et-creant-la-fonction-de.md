@@ -12,7 +12,7 @@ entry_into_force: 1997-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/04/1997009334/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1997. - Loi instituant le collège des procureurs généraux et créant la fonction de magistrat national.

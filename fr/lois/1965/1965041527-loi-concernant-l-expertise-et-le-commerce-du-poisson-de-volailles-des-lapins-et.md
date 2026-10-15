@@ -13,7 +13,7 @@ last_amended: 2002-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/15/1965041527/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 29-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 1965. - Loi concernant l'expertise et le commerce du poisson, de volailles, des lapins et du gibier et modifiant la loi du 5 septembre 1952 relative à l'expertise et au commerce des viandes.

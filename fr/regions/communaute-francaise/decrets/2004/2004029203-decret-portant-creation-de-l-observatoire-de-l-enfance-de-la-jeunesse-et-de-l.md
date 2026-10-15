@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029203/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2004 et mise à jour au 12-05-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant création de l'Observatoire de l'Enfance, de la Jeunesse et de l'Aide à la Jeunesse

@@ -12,7 +12,7 @@ entry_into_force: 2008-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/10/15/2008003425/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2008. - Loi portant des mesures visant à promouvoir la stabilité financière et instituant en particulier une garantie d'Etat relative aux crédits octroyés et autres opérations effectuées dans le cadre de la stabilité financière.

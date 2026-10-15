@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/22/2017032268/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2017 en tekstbijwerking tot 30-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2017. - Decreet houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2018

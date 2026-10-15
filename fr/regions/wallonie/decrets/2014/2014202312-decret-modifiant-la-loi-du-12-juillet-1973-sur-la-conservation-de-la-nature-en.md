@@ -13,7 +13,7 @@ entry_into_force: 2014-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014202312/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Décret modifiant la loi du 12 juillet 1973 sur la conservation de la nature en ce qui concerne le remboursement des frais de parcours et de séjour et la durée de la nomination des membres des Commissions de conservation des sites Natura 2000 ainsi que les annexes IIa, IIb, VIa, VIII, IX et XI

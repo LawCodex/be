@@ -11,7 +11,7 @@ date: 1999-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/02/1999021310/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1999. - Decreet houdende de goedkeuring van het samenwerkingsakkoord van 8 oktober 1998 tussen de federale Staat en de Vlaamse Gemeenschap inzake de begeleiding en behandeling van daders van seksueel misbruik.

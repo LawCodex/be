@@ -13,7 +13,7 @@ entry_into_force: 1985-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/05/02/1985024408/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 1985. - Décret relatif au régime de pensions des membres du personnel de certains organismes régionaux.

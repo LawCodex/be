@@ -13,7 +13,7 @@ entry_into_force: 2012-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/22/2012206783/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2012. - Décret modifiant le Livre II du Code de l'Environnement, contenant le Code de l'Eau

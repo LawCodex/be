@@ -11,7 +11,7 @@ date: 2003-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003201887/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet houdende aanvulling van artikel 48 van het Wetboek der successierechten, vastgelegd bij het koninklijk besluit nr. 308 van 31 maart 1936, met het oog op de vermindering van de ongelijkheden i.v.m. de te betalen successierechten bestaande tussen de meerder- of minderjarige kinderen opgevoed binnen een wedersamengesteld gezin (VERTALING).

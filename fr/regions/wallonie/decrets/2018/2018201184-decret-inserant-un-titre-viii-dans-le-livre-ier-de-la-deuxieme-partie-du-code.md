@@ -13,7 +13,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/01/2018201184/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2018. - Décret insérant un Titre VIII dans le Livre Ier de la Deuxième partie du Code wallon de l'Action sociale et de la Santé relatif à l'agrément des Services et dispositifs d'accompagnement des violences entre partenaires et des violences fondées sur le genre

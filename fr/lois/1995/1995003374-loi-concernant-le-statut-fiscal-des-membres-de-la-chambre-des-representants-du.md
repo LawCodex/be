@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/07/1995003374/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1995. - Loi concernant le statut fiscal des membres de la Chambre des représentants, du Sénat, des Conseils de Communauté et de Région et du Parlement européen.

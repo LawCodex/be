@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002029028/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-01-2002 et mise à jour au 19-04-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret fixant le cadastre initial de référence de la Communauté française pour la radiodiffusion sonore en modulation de fréquence dans la bande 87.5-108 MHz et modifiant le décret du 24 juillet 1997 relatif au Conseil supérieur de l'audiovisuel et aux services privés de radiodiffusion sonore de la Communauté française.

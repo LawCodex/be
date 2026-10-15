@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/01/2002035446/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2002. - Decreet betreffende de wijziging aan het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, wat de invoering van de euro betreft.

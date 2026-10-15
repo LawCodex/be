@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/04/24/2008031213/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 16-05-2008 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2008. - Ordonnance relative aux établissements [...] pour [ aînés]. &lt;Erratum, voir M.B. 13-06-2008, p. 29910&gt; &lt;Intitule modifié par ORD 2022-12-15/30 , art. 1, 005; En vigueur : 01-01-2023&gt; &lt;Intitule modifié par ORD 2022-12-15/30 , art. 2, 005; En vigueur : 01-01-2023&gt;

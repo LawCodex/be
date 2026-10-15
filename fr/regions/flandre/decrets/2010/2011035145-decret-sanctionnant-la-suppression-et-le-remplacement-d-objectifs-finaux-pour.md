@@ -13,7 +13,7 @@ entry_into_force: 2010-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/10/2011035145/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2010. - Décret sanctionnant la suppression et le remplacement d'objectifs finaux pour le domaine d'apprentissage 'wiskunde' de l'éducation de base

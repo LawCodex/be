@@ -13,7 +13,7 @@ entry_into_force: 2001-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035833/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret portant des dispositions de restructuration de la S.A. Gimvindus (TRADUCTION).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/26/2007029399/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2007 en tekstbijwerking tot 16-06-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2007. - Decreet tot bevestiging van sommige opleidingsprofielen bepaald overeenkomstig artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs (VERTALING).

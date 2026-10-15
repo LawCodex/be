@@ -13,7 +13,7 @@ entry_into_force: 2021-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/04/2021042081/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2021. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne l'installation d'un compteur électronique sans moyen de communication et la prévention de la facturation multiple des tarifs de distribution d'électricité pour l'utilisation du réseau de distribution d'électricité

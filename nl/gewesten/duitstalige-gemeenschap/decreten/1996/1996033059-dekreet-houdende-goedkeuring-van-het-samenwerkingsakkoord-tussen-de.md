@@ -13,7 +13,7 @@ entry_into_force: 1994-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/10/1996033059/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1996. - Dekreet houdende goedkeuring van het samenwerkingsakkoord tussen de Federaalstaat, de Gemeenschappen en de Gewesten betreffende de nadere regelen voor het sluiten van gemengde verdragen, ondertekend te Brussel op 8 maart 1994 (VERTALING).

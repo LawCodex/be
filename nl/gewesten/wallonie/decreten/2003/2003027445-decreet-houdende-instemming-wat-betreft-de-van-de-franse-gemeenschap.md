@@ -13,7 +13,7 @@ entry_into_force: 2003-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/06/2003027445/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2003. - Decreet houdende instemming, wat betreft de van de Franse Gemeenschap overgehevelde aangelegenheden, met het Akkoord tussen de Regering van het Koninkrijk België, de Regering van de Franse Gemeenschap, de Regering van het Waalse Gewest en de Vlaamse regering, enerzijds, en de Regering van de Republiek Frankrijk, anderzijds, inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen en plaatselijke openbare instellingen, gedaan te Brussel op 16 september 2002 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/21/2016029206/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2016. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Marché commun d'Afrique orientale et australe, fait à Bruxelles le 2 mars 2007

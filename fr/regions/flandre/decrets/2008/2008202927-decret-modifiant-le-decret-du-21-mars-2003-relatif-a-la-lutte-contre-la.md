@@ -13,7 +13,7 @@ entry_into_force: 2009-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008202927/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret modifiant le décret du 21 mars 2003 relatif à la lutte contre la pauvreté (TRADUCTION)

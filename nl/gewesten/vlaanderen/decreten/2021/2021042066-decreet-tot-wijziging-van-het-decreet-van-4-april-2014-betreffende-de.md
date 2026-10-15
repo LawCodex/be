@@ -13,7 +13,7 @@ entry_into_force: 2021-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/21/2021042066/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2021. - Decreet tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat betreft de optimalisatie van de procedures

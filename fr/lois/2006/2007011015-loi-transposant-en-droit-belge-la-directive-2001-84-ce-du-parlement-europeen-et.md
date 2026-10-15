@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/04/2007011015/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2007 et mise à jour au 19-05-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2006. - Loi transposant en droit belge la directive 2001/84/CE du Parlement européen et du Conseil du 27 septembre 2001 relative au droit de suite au profit de l'auteur d'une oeuvre d'art originale.

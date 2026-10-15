@@ -12,7 +12,7 @@ entry_into_force: 2004-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/27/2004015105/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2004. - Wet houdende instemming met het Verdrag inzake de voorkoming en bestraffing van misdrijven tegen internationaal beschermde personen, met inbegrip van diplomaten, gedaan te New York op 14 december 1973.

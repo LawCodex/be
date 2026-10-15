@@ -13,7 +13,7 @@ entry_into_force: 1994-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/04/21/1994027281/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1994. - Décret modifiant le décret du 9 mai 1985 concernant la valorisation des terrils.

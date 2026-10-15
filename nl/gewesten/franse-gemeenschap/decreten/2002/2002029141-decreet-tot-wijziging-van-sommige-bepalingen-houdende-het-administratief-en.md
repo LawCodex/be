@@ -13,7 +13,7 @@ entry_into_force: 2002-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/01/31/2002029141/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2002. - Decreet tot wijziging van sommige bepalingen houdende het administratief en geldelijk statuut van de leden van het technisch personeel van de psycho-medisch-sociale centra van de Franse Gemeenschap alsook van de personeelsleden van de inspectiedienst belast met het toezicht op deze psycho-medisch-sociale centra (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998035223/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 25-02-1998 et mise à jour au 28-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Décret relatif aux pensions de retraite allouées aux agents définitifs et admis au stage de la " Vlaamse Maatschappij voor Watervoorziening " (Société flamande de Distribution d'Eau) et aux pensions de survie allouées aux ayants droit de ces membres du personnel (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2019-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/28/2019200853/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2019. - Decreet houdende instemming met de Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Australië, anderzijds, gedaan te Manila op 7 augustus 2017

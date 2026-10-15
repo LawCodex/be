@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/01/2019030334/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-04-2019 en tekstbijwerking tot 11-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2019. - Wet houdende bepalingen betreffende de terugbetaling van pharmaceutische specialiteiten alsook de administratiekosten, de efficiëntie en de transparantie van de verzekeringsinstellingen

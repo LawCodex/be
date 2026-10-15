@@ -12,7 +12,7 @@ entry_into_force: 1997-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1997015137/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet houdende instemming met de Protocollen nrs. 1 en 2 bij het Europees Verdrag ter voorkoming van foltering en onmenselijke of vernederende behandeling of bestraffing, gedaan te Straatsburg op 4 november 1993.

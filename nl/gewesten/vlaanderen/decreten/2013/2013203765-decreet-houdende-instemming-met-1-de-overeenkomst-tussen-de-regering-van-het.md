@@ -13,7 +13,7 @@ entry_into_force: 2013-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203765/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met : 1° de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Singapore tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en het protocol, beide ondertekend te Singapore op 6 november 2006, zoals gewijzigd door het protocol van 16 juli 2009; 2° het protocol tot wijziging van de onder 1° vermelde overeenkomst, ondertekend te Brussel op 16 juli 2009

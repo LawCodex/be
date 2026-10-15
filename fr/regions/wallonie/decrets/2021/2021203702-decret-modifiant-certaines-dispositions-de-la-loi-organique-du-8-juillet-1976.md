@@ -13,7 +13,7 @@ entry_into_force: 2021-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/15/2021203702/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2021. - Décret modifiant certaines dispositions de la loi organique du 8 juillet 1976 des centres publics d'action sociale en vue de permettre les réunions à distance des organes

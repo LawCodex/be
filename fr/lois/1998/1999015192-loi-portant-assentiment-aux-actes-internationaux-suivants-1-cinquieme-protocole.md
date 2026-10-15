@@ -12,7 +12,7 @@ entry_into_force: 1999-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015192/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment aux Actes internationaux suivants : 1. Cinquième Protocole additionnel à la Constitution de l'Union postale universelle; 2. Règlement général de l'Union postale universelle, et Annexe; 3. Convention postale universelle, et Protocole final; 4. Arrangement concernant les colis postaux, et Protocole final; 5. Arrangement concernant les mandats de poste; 6. Arrangement concernant le service des chèques postaux; et 7. Arrangement concernant les envois contre remboursement; faits à Séoul le 14 septembre 1994.

@@ -12,7 +12,7 @@ entry_into_force: 2005-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005003641/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi insérant un article 314bis dans le Code des impôts sur les revenus 1992.

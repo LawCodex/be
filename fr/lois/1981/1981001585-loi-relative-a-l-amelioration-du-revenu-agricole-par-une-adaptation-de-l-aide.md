@@ -12,7 +12,7 @@ entry_into_force: 1981-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/08/03/1981001585/justel"
 department: "Agriculture - Classes Moyennes"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 1981. - Loi relative à l'amélioration du revenu agricole par une adaptation de l'aide en matière financière.

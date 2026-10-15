@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/13/2018014116/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 09-10-2018 et mise à jour au 16-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2018. - Décret modifiant le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre afin de déployer un nouveau cadre de pilotage, contractualisant les relations entre la Communauté française et les établissements scolaires

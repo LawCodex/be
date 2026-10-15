@@ -13,7 +13,7 @@ entry_into_force: 2019-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012915/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie houdende instemming met het Verdrag betreffende de Aziatische Infrastructuurinvesteringsbank, evenals het verslag, gedaan te Beijing op 29 juni 2015

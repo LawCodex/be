@@ -13,7 +13,7 @@ entry_into_force: 1997-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/02/04/1997035199/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1997. - Decreet houdende wijziging van het decreet van 28 januari 1977 tot bescherming van de namen van de openbare wegen en pleinen.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/17/1998003685/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1998 en tekstbijwerking tot 12-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1998. - Wet tot oprichting van een beschermingsfonds voor deposito's en financiële instrumenten en tot reorganisatie van de beschermingsregelingen voor deposito's en financiële instrumenten

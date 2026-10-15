@@ -11,7 +11,7 @@ published: 1965-08-10
 entry_into_force: 1966-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/01/15/1965011517/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 1965. - Loi portant approbation de la Convention (n° 115) concernant la protection des travailleurs contre les radiations ionisantes, adoptée à Genève, le 22 juin 1960, par la Conférence internationale du Travail, au cours de sa quarante-quatrième session.

@@ -13,7 +13,7 @@ entry_into_force: 2011-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/23/2011204713/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2011. - Décret portant assentiment au protocole facultatif se rapportant au pacte international relatif aux droits économiques, sociaux et culturels, fait à New-York le 10 décembre 2008

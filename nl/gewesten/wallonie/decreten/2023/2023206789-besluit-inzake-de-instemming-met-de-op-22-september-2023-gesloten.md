@@ -13,7 +13,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/16/2023206789/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2023. - Besluit inzake de instemming met de op 22 september 2023 gesloten Samenwerkingsovereenkomst tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende een aantal bepalingen met betrekking tot de verdeling van de Belgische klimaat- en energiedoelstellingen voor het begin van de periode 2021-2030 en de verdeling van de federale opbrengsten uit de veiling van emissierechten over de jaren 2015 tot en met 2020

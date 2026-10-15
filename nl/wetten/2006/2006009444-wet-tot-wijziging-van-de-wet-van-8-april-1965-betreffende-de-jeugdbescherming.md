@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/15/2006009444/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-06-2006 en tekstbijwerking tot 07-08-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2006. - Wet tot wijziging van de wet van 8 april 1965 betreffende de jeugdbescherming, het Wetboek van strafvordering, het Strafwetboek, het Burgerlijk Wetboek, de nieuwe gemeentewet en de wet van 24 april 2003 tot hervorming van de adoptie

@@ -13,7 +13,7 @@ last_amended: 2018-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/07/09/1951070906/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 12-06-2018 en tekstbijwerking tot 12-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1951. - WET houdende vergoeding ten behoeve van de gezinnen van soldijtrekkende militairen

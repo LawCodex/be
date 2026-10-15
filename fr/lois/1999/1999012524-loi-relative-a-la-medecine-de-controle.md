@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/13/1999012524/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 13-07-1999 et mise à jour au 05-02-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1999. - Loi relative à la médecine de contrôle

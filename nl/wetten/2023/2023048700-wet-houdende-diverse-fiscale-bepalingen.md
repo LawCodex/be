@@ -12,7 +12,7 @@ entry_into_force: 2024-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/22/2023048700/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Wet houdende diverse fiscale bepalingen

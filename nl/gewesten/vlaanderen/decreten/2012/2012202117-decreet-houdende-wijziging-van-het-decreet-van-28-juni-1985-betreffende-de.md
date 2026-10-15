@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/23/2012202117/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 20-04-2012 en tekstbijwerking tot 15-04-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2012. - Decreet houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van de Vlaamse Codex Ruimtelijke Ordening

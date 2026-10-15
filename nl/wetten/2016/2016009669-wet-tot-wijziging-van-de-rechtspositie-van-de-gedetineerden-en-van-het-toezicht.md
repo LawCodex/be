@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/25/2016009669/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2016 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Wet tot wijziging van de rechtspositie van de gedetineerden en van het toezicht op de gevangenissen en houdende diverse bepalingen inzake justitie

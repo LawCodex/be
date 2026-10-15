@@ -12,7 +12,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/12/2009000233/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2009. - Wet tot wijziging van de wet van 19 mei 1994 tot regeling van de verkiezingscampagne en tot beperking en aangifte van de verkiezingsuitgaven voor de verkiezingen van het Vlaams Parlement, het Waals Parlement, het Brussels Hoofdstedelijk Parlement en het Parlement van de Duitstalige Gemeenschap, alsmede tot vaststelling van de toetsingsnorm inzake officiële mededelingen van de overheid

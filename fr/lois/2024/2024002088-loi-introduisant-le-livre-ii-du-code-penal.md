@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/29/2024002088/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 08-04-2024 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2024. - Loi introduisant le livre II du Code pénal

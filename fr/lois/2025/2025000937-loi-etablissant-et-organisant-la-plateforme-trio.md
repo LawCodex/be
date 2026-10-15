@@ -12,7 +12,7 @@ entry_into_force: 2025-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/01/31/2025000937/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2025. - Loi établissant et organisant la plateforme TRIO

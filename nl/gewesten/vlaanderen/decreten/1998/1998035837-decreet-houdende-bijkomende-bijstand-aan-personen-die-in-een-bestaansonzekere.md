@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/23/1998035837/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Bij arrest nr 110/99 van 14 oktober 1999 (B.St. 09-12-1999, p.45764) heeft het Arbitragehof dit decreet vernietigd; Opheffing : 01-01-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1998. - Decreet houdende bijkomende bijstand aan personen die in een bestaansonzekere toestand verkeren ten gevolge van oorlogsomstandigheden, repressie en epuratie.

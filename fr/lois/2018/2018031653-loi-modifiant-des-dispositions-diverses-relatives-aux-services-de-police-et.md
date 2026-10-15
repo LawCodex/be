@@ -12,7 +12,7 @@ entry_into_force: 2018-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/19/2018031653/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Loi modifiant des dispositions diverses relatives aux services de police et relatif aux institutions romaines

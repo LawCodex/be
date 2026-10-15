@@ -13,7 +13,7 @@ entry_into_force: 2020-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/13/2019042930/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2019. - Programmadecreet bij de aanpassing van de begroting 2019

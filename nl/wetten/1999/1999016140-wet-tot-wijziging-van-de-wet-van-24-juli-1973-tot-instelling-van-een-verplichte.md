@@ -12,7 +12,7 @@ entry_into_force: 1999-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/29/1999016140/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 1999. - Wet tot wijziging van de wet van 24 juli 1973 tot instelling van een verplichte avondsluiting in handel, ambacht en dienstverlening.

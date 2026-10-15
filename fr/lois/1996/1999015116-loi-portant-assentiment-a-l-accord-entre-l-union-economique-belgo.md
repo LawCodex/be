@@ -12,7 +12,7 @@ entry_into_force: 1999-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/18/1999015116/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 1996. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République socialiste du Viêt-nam concernant l'encouragement et la protection réciproques des investissements, signé à Hanoi le 24 janvier 1991.

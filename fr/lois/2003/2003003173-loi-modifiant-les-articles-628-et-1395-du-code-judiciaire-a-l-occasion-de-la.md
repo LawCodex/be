@@ -12,7 +12,7 @@ entry_into_force: 2003-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/17/2003003173/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2003. - Loi modifiant les articles 628 et 1395 du Code judiciaire à l'occasion de la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances.

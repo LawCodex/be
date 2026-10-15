@@ -13,7 +13,7 @@ entry_into_force: 2014-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014203449/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet houdende wijziging van diverse bepalingen van het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen

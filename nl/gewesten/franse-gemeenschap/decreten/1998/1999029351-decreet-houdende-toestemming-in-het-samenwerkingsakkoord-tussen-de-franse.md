@@ -11,7 +11,7 @@ date: 1998-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/30/1999029351/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Decreet houdende toestemming in het samenwerkingsakkoord tussen de Franse Gemeenschap en de Duitstalige Gemeenschap (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2005-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/11/10/2005023052/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2005. - Loi complétant la loi du 28 mai 2002 relative à l'euthanasie par des dispositions concernant le rôle du pharmacien et l'utilisation et la disponibilité des substances euthanasiantes.

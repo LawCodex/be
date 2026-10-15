@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031832/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie houdende instemming met : het Akkoord tussen het Koninkrijk België en het Europees Instituut voor Bosbouw betreffende de voorrechten en immuniteiten van het Verbindingsbureau van het Europees Instituut voor de Bosbouw, ondertekend te Brussel op 9 oktober 2013

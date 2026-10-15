@@ -13,7 +13,7 @@ entry_into_force: 1982-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1982/06/16/1982001238/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1982. - Décret relatif aux conséquences du renouvellement du Conseil Régional Wallon sur les projets et propositions de décret pendants devant ce Conseil.

@@ -13,7 +13,7 @@ entry_into_force: 1996-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/19/1996035447/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 1996. - Décret portant approbation du Traité entre la Communauté flamande dans le Royaume de Belgique et le Royaume des Pays-Bas relatif à la coopération en matière de culture, d'enseignement, de sciences et d'aide sociale, signé à Anvers le 17 janvier 1995 (TRADUCTION).

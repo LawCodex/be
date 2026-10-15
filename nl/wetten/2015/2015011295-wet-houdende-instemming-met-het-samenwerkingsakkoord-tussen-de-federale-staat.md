@@ -12,7 +12,7 @@ entry_into_force: 2015-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/17/2015011295/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Wet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad en de Franse Gemeenschapscommissie betreffende de nadere regels voor de werking van het Interfederaal Instituut voor de statistiek, van de raad van bestuur en de Wetenschappelijke comités van het Instituut voor de nationale rekeningen, gedaan te Brussel op 15 juli 2014

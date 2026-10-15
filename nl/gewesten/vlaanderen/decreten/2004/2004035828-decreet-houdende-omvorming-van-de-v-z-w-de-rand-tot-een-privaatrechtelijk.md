@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035828/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2004 en tekstbijwerking tot 17-03-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende omvorming van de v.z.w. " de Rand " tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap [en houdende vaststelling van de bevoegdheden van de provincie Vlaams-Brabant inzake de ondersteuning van de Vlaamse Rand] &lt;Opschrift gewijzigd door DVR 2013-07-12/13 , art. 2, 002; Inwerkingtreding : 01-01-2014&gt;

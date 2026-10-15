@@ -13,7 +13,7 @@ entry_into_force: 2014-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/14/2014035375/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Decreet houdende instemming met de (herziene) Europese overeenkomst inzake de adoptie van kinderen, opgemaakt in Straatsburg op 27 november 2008 en ondertekend op 1 december 2008

@@ -13,7 +13,7 @@ entry_into_force: 2019-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204162/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant certaines dispositions de la loi du 8 juillet 1976 organique des centres publics d'action sociale relatives aux receveurs régionaux

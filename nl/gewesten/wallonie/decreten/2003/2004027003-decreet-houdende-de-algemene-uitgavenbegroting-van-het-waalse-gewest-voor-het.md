@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/18/2004027003/justel"
 department: "Waalse Gewest"
 justel_note: "raadpleging van vroegere versies vanaf 22-04-2004 en tekstbijwerking tot 08-02-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2003. - Decreet houdende de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2004 (VERTALING).

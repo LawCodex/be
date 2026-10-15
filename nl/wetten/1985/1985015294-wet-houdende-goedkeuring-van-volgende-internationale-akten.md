@@ -10,7 +10,7 @@ date: 1985-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/06/20/1985015294/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 1985. - Wet houdende goedkeuring van volgende Internationale Akten.

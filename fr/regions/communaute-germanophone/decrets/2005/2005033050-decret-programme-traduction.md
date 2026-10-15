@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/03/21/2005033050/justel"
 department: "Communauté germanophone"
 justel_note: "consultation des versions antérieures à partir du 27-06-2005 et mise à jour au 26-10-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2005. - Décret -programme (TRADUCTION).

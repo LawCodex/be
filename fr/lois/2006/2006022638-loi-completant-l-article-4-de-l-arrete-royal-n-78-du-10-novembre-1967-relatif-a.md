@@ -12,7 +12,7 @@ entry_into_force: 2006-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/01/2006022638/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MAI 2006. - Loi complétant l'article 4 de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé en vue de garantir la qualité des produits vendus en pharmacie.

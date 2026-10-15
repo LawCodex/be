@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/04/03/2020020684/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-04-2020 en tekstbijwerking tot 29-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2020. - Decreet tot afwijking van diverse bepalingen van het Energiedecreet van 8 mei 2009, het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en de uitvoeringsbesluiten ervan, en tot dekking van de kosten voor elektriciteitsverbruik, verwarming of waterverbruik voor de eerste maand van tijdelijke werkloosheid ten gevolge van de coronacrisis

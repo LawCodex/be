@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/27/2016009204/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-05-2016 en tekstbijwerking tot 27-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2016. - Wet tot wijziging van de wet van 25 ventôse jaar XI op het notarisambt met betrekking tot de benoemingscommissies voor het notariaat

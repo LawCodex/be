@@ -13,7 +13,7 @@ entry_into_force: 2024-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/25/2024001060/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2024. - Gezamenlijk decreet en ordonnantie van de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot de goedkeuring en de uitvoering van het Brussels Geïntegreerd Welzijns- en Gezondheidsplan

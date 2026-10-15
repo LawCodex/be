@@ -12,7 +12,7 @@ entry_into_force: 2000-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015052/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met de Statuten van de Internationale Studiegroep voor Koper, en Bijlage, aangenomen door de Conferentie van de Verenigde Naties op 24 februari 1989.

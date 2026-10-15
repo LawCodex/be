@@ -12,7 +12,7 @@ entry_into_force: 2014-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/04/11/2014015079/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1989. - Loi portant approbation de la Convention d'Athènes relative au transport par mer de passagers et de leurs bagages, faite à Athènes le 13 décembre 1974 (Dénonciation de la Convention d'Athènes par la Belgique)

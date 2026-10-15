@@ -13,7 +13,7 @@ entry_into_force: 2021-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/01/28/2021200458/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2021. - Décret modifiant l'article 17 de la loi du 15 juillet 2013 relative au transport de voyageurs par route et portant exécution du Règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la Directive 96/26/CE du Conseil, et portant exécution du Règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché international des services de transport par autocars et autobus, et modifiant le Règlement (CE) n° 561/2006

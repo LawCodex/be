@@ -13,7 +13,7 @@ entry_into_force: 2012-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/20/2012035517/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2012. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 20 januari 2012 tot aanpassing van de eindtermen voor het leergebied informatie- en communicatietechnologie van de basiseducatie

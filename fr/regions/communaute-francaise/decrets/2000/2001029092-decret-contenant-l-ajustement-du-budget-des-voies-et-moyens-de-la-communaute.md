@@ -13,7 +13,7 @@ entry_into_force: 2001-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/12/2001029092/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2000. - Décret contenant l'ajustement du budget des voies et moyens de la Communauté française pour l'année budgétaire 2000.

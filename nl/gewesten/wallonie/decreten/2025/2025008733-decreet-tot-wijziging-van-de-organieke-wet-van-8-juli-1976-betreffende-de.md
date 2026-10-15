@@ -12,7 +12,7 @@ entry_into_force: 2025-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/13/2025008733/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2025. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn teneinde de personeelsleden op het vlak van bevordering op gelijke voet te plaatsen

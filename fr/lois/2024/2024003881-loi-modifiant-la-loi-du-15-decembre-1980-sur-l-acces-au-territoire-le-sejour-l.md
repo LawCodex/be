@@ -12,7 +12,7 @@ entry_into_force: 2025-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/18/2024003881/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne l'octroi de la qualité d'officier de police judiciaire à des fonctionnaires de l'Office des étrangers

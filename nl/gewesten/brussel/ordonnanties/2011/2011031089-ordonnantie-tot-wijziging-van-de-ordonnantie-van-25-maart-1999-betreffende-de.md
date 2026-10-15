@@ -13,7 +13,7 @@ entry_into_force: 2011-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/02/10/2011031089/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2011. - Ordonnantie tot wijziging van de ordonnantie van 25 maart 1999 betreffende de beoordeling en de verbetering van de luchtkwaliteit

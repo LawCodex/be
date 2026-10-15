@@ -13,7 +13,7 @@ entry_into_force: 2019-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/29/2019012144/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Decreet houdende instemming met het samenwerkingsakkoord gesloten tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie betreffende de erkenning van competenties

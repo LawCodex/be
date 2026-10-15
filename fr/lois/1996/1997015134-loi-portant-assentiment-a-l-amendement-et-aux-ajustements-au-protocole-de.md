@@ -12,7 +12,7 @@ entry_into_force: 1997-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/04/1997015134/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 1996. - Loi portant assentiment à l'Amendement et aux Ajustements au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, adoptés à Copenhague le 25 novembre 1992.

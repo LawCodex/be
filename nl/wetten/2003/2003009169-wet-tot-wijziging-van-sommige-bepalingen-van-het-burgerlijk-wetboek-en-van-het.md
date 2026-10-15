@@ -12,7 +12,7 @@ entry_into_force: 2003-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/13/2003009169/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2003. - Wet tot wijziging van sommige bepalingen van het Burgerlijk Wetboek en van het Gerechtelijk Wetboek met betrekking tot de bescherming van de goederen van de minderjarigen.

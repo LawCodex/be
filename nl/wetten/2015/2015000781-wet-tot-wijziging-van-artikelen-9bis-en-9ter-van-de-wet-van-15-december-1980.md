@@ -12,7 +12,7 @@ entry_into_force: 2016-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/14/2015000781/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2015. - Wet tot wijziging van artikelen 9bis en 9ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen

@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029171/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement wallon, le Gouvernement de la Communauté française et le Collège de la Commission communautaire française de la Région de Bruxelles-Capitale, d'une part, et le Gouvernement du Québec, d'autre part, et la Déclaration commune, faits à Bruxelles, le 22 mars 1999.

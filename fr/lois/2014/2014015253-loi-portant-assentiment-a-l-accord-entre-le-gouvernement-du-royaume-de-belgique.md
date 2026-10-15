@@ -12,7 +12,7 @@ entry_into_force: 2015-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014015253/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de Montserrat, tel que mandaté par le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, en vue de l'échange de renseignements en matière fiscale, fait à Londres le 16 février 2010

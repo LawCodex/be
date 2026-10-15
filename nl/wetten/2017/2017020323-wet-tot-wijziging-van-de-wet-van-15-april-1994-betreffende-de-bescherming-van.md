@@ -12,7 +12,7 @@ entry_into_force: 2017-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/07/2017020323/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2017. - Wet tot wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle, aangaande de financiering van de bestuurs-, werkings-, studie- en investeringskosten, voortvloeiend uit het noodplan voor nucleaire risico's

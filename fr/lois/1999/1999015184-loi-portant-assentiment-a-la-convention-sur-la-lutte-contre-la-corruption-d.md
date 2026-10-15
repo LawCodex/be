@@ -12,7 +12,7 @@ entry_into_force: 1999-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015184/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment à la Convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, faite à Paris le 17 décembre 1997.

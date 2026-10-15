@@ -12,7 +12,7 @@ published: 2008-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/04/2008202905/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2008. - Decreet houdende instemming met het Verdrag nr. 130 betreffende de geneeskundige verzorging en de uitkeringen bij ziekte, en de Bijlage, aangenomen door de Internationale Arbeidsconferentie tijdens haar drieënvijftigste zitting in Genève, op 25 juni 1969.

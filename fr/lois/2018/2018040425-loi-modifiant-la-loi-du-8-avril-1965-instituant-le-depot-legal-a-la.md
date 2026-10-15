@@ -12,7 +12,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/08/2018040425/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2018. - Loi modifiant la loi du 8 avril 1965 instituant le dépôt légal à la Bibliothèque royale de Belgique

@@ -12,7 +12,7 @@ entry_into_force: 1999-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/18/1999015103/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 1998. - Loi portant assentiment à la Convention des Nations Unies sur le droit de la Mer, faite à Montego Bay le 10 décembre 1982 et l'Accord relatif à l'application de la partie XI de la Convention des Nations Unies sur le droit de la Mer du 10 décembre 1982, fait à New York le 28 juillet 1994.

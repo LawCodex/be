@@ -13,7 +13,7 @@ last_amended: 2024-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/02/1962040203/justel"
 justel_note: "Consultation des versions antérieures à partir du 05-01-1989 et mise à jour au 15-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1962. - [Loi relative à la Société fédérale de Participations et d'Investissement et les sociétés régionales d'investissement]&lt;Intitulé remplacé par L 2006-08-26/30 , art. 6, 009; En vigueur : 01-11-2006&gt;

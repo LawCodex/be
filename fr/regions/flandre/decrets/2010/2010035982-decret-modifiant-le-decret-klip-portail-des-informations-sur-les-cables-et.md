@@ -13,7 +13,7 @@ entry_into_force: 2011-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/10/2010035982/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2010. - Décret modifiant le décret KLIP (Portail des Informations sur les Câbles et Canalisations) du 14 mars 2008, en ce qui concerne l'introduction et le traitement d'une demande de plan ainsi que les dispositions pénales

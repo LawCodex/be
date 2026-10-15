@@ -9,7 +9,7 @@ language: nl
 date: 1967-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/08/06/1967080602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1967. - Wet betreffende de tenuitvoerlegging van de arresten en beschikkingen van de Europese Gemeenschappen.

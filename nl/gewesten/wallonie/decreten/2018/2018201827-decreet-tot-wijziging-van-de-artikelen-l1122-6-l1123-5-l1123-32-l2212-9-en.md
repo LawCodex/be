@@ -13,7 +13,7 @@ entry_into_force: 2018-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018201827/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot wijziging van de artikelen L1122-6, L1123-5, L1123-32, L2212-9 en L2212-42 van het Wetboek van de plaatselijke democratie en de decentralisatie en tot invoeging van een artikel L2212-50bis

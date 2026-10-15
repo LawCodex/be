@@ -13,7 +13,7 @@ entry_into_force: 2017-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/19/2017200511/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2017. - Décret modifiant le Livre II du Code de l'Environnement contenant le Code de l'Eau en ce qui concerne le Fonds social de l'eau en vertu de l'article 138 de la Constitution

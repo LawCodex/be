@@ -12,7 +12,7 @@ entry_into_force: 2001-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/04/19/2001007121/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2001. - Wet tot opheffing van de wet van 19 februari 1954 tot vaststelling van een termijn van verval voor indienen van aanvragen of voorstellen betreffende de toekenning van het Kruis der Ontsnapten.

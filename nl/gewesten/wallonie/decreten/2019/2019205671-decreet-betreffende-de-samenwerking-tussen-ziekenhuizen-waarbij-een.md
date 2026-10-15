@@ -13,7 +13,7 @@ entry_into_force: 2019-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/11/28/2019205671/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2019. - Decreet betreffende de samenwerking tussen ziekenhuizen waarbij een publiekrechtelijke rechtspersoon die onderworpen is aan het Wetboek van plaatselijke democratie en decentralisatie betrokken is

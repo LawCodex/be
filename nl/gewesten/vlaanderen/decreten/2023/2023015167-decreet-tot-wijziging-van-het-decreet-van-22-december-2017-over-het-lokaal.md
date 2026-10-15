@@ -13,7 +13,7 @@ entry_into_force: 2023-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/02/03/2023015167/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2023. - Decreet tot wijziging van het decreet van 22 december 2017 over het lokaal bestuur, wat betreft de oprichting van een deontologische commissie bij de gemeenteraad en de districtsraad

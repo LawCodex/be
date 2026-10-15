@@ -13,7 +13,7 @@ entry_into_force: 2018-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013038/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Décret portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République de Turquie tendant à éliminer la double imposition en matière d'impôts sur le revenu et au Protocole y annexé, faits à Ankara le 2 juin 1987, tels que modifiés par le Protocole, fait à Bruxelles le 9 juillet 2013 ; 2° au Protocole modifiant la convention visée sous 1°, fait à Bruxelles le 9 juillet 2013

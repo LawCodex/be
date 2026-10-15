@@ -12,7 +12,7 @@ entry_into_force: 2022-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/20/2022032836/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Ordonnantie houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Vlaamse Gemeenschap, de Regering van de Franse Gemeenschap, de Regering van de Duitstalige Gemeenschap, de Regering van het Vlaams Gewest, de Regering van het Waals Gewest, de Regering van het Brussels Hoofdstedelijk Gewest en de Regering van de Franse Republiek inzake het vervoer van lijken over land, gedaan te Parijs op 9 maart 2020

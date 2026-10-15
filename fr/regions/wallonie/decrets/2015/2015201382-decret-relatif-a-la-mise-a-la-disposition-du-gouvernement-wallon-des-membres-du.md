@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/12/2015201382/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2015. - Décret relatif à la mise à la disposition du Gouvernement wallon des membres du personnel d'organismes d'intérêt public et d'autres services de l'Etat transférés à la Région wallonne en exécution de la sixième réforme de l'Etat

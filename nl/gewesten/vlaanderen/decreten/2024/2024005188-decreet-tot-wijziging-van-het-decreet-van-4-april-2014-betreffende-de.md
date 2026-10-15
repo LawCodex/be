@@ -13,7 +13,7 @@ entry_into_force: 2024-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024005188/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges en het decreet van 25 april 2014 betreffende complexe projecten, wat betreft het optimaliseren van de regelgeving inzake complexe projecten

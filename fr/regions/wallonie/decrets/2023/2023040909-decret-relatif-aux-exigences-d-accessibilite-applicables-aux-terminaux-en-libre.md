@@ -13,7 +13,7 @@ entry_into_force: 2025-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/16/2023040909/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2023. - Décret relatif aux exigences d'accessibilité applicables aux terminaux en libre-service interactifs des transports urbains, suburbains et régionaux

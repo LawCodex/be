@@ -12,7 +12,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019011564/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne les dispositions fiscales relatives au deal pour l'emploi

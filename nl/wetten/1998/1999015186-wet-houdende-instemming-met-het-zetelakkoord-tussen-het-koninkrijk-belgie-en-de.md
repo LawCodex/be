@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/01/1999015186/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1998. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Toezichthoudende Autoriteit van de Europese Vrijhandelsassociatie, getekend te Brussel op 22 december 1994

@@ -12,7 +12,7 @@ entry_into_force: 2024-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/22/2023048742/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Loi modifiant la réglementation relative aux marchés publics en vue de promouvoir l'accès des PME auxdits marchés

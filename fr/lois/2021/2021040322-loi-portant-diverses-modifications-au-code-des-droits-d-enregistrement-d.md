@@ -12,7 +12,7 @@ entry_into_force: 2021-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/07/2021040322/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2021. - Loi portant diverses modifications au Code des droits d'enregistrement, d'hypothèque et de greffe, au Code des droits de succession, au Code des droits et taxes divers et à la loi hypothécaire du 16 décembre 1851, ainsi qu'au Code du recouvrement amiable et forcé des créances fiscales et non fiscales

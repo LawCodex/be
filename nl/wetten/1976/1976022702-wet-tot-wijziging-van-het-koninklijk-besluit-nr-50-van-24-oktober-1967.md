@@ -11,7 +11,7 @@ published: 1976-03-09
 entry_into_force: 1976-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/02/27/1976022702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 1976. - Wet tot wijziging van het koninklijk besluit nr 50 van 24 oktober 1967 betreffende het rust- en overlevingspenspeioen voor werknemers.

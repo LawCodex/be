@@ -13,7 +13,7 @@ entry_into_force: 2015-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/12/2014027265/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2014. - Programmadecreet houdende verschillende maatregelen betreffende de begroting inzake gezondheidsbeleid

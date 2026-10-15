@@ -13,7 +13,7 @@ entry_into_force: 2021-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/17/2020044497/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2020. - Ordonnance modifiant l'ordonnance du 22 décembre 1994 relative à la reprise de la fiscalité provinciale

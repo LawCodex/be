@@ -12,7 +12,7 @@ entry_into_force: 2017-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/08/2017012531/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2017. - Loi transposant en droit belge la directive 2014/26/UE du Parlement européen et du Conseil du 26 février 2014 concernant la gestion collective du droit d'auteur et des droits voisins et l'octroi de licences multiterritoriales de droits sur des oeuvres musicales en vue de leur utilisation en ligne dans le marché intérieur

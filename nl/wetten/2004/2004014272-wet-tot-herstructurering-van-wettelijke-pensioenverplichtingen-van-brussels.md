@@ -12,7 +12,7 @@ entry_into_force: 2004-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/05/2004014272/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2004. - Wet tot herstructurering van wettelijke pensioenverplichtingen van Brussels International Airport Company en Belgocontrol.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/29/2004200661/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2004 en tekstbijwerking tot 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2004. - Decreet betreffende het [plan voor anticipatieve begeleiding en de tewerkstellingscel] (VERTALING) &lt;DWG 2026-03-26/05 , art. 29, 004; Inwerkingtreding : 01-07-2026&gt;

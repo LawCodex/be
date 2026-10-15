@@ -13,7 +13,7 @@ entry_into_force: 2008-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008203084/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Décret modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine, en ce qui concerne l'objet et les missions de l'Institut du Patrimoine wallon.

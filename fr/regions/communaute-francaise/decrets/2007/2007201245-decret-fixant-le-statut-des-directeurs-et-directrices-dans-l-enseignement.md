@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/02/2007201245/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 15-05-2007 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2007. - Décret fixant le statut des directeurs [et directrices dans l'enseignement]. (Intitulé modifié par DCFR 2019-03-14/20 , art. 102, 027; En vigueur : 01-09-2019)

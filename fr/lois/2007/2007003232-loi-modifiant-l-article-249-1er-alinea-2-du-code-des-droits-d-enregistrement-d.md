@@ -12,7 +12,7 @@ entry_into_force: 2007-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/04/2007003232/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2007. - Loi modifiant l'article 249, § 1er, alinéa 2, du Code des droits d'enregistrement, d'hypothèque et de greffe, en ce qui concerne les droits liés à un changement de prénom.

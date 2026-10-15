@@ -12,7 +12,7 @@ entry_into_force: 2011-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/08/30/2008015144/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2008. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Korea inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 12 december 2006

@@ -12,7 +12,7 @@ entry_into_force: 2001-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/01/19/2001011008/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2001. - Loi modifiant la loi du 11 avril 1999 relative aux contrats portant sur l'acquisition d'un droit d'utilisation d'immeubles à temps partagé.

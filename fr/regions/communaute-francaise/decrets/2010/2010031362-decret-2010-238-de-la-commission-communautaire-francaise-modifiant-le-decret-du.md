@@ -13,7 +13,7 @@ entry_into_force: 2010-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/16/2010031362/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2010. - Décret 2010/238 de la Commission communautaire française modifiant le décret du 22 mars 2007 relatif à la politique d'hébergement et d'accueil à mener envers les personnes âgées

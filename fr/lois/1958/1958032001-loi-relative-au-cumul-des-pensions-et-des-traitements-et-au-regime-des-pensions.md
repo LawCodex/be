@@ -11,7 +11,7 @@ published: 1958-03-29
 entry_into_force: 1955-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/03/20/1958032001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 1958. - Loi relative au cumul des pensions et des traitements et au régime des pensions de retraite afférentes à des fonctions multiples.

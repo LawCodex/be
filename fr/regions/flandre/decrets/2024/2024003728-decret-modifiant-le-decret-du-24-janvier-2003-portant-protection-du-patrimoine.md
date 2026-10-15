@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024003728/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Décret modifiant le décret du 24 janvier 2003 portant protection du patrimoine culturel mobilier présentant un intérêt exceptionnel, en ce qui concerne un droit de préemption pour le patrimoine culturel mobilier, et le Décret relatif au Patrimoine immobilier du 12 juillet 2013, en ce qui concerne la protection d'oeuvres majeures protégées par la législation relative aux monuments

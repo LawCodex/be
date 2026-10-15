@@ -13,7 +13,7 @@ entry_into_force: 2016-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/25/2016036630/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2016. - Decreet houdende instemming met de Overeenkomst die is aangenomen op de 21ste Conferentie van Partijen bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gedaan te Parijs op 12 december 2015

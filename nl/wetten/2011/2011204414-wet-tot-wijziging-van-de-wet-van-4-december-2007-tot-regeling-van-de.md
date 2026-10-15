@@ -10,7 +10,7 @@ date: 2011-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/28/2011204414/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 2011. - Wet tot wijziging van de wet van 4 december 2007 tot regeling van de gerechtelijke beroepen ingesteld in het kader van de procedure aangaande de sociale verkiezingen van het jaar 2008

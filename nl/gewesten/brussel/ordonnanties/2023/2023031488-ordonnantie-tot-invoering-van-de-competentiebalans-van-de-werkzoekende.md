@@ -12,7 +12,7 @@ published: 2023-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/07/06/2023031488/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2023. - Ordonnantie tot invoering van de competentiebalans van de werkzoekende

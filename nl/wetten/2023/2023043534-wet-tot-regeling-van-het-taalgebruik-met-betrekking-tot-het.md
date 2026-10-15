@@ -12,7 +12,7 @@ entry_into_force: 2023-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/04/2023043534/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2023. - Wet tot regeling van het taalgebruik met betrekking tot het screeningsmechanisme ingesteld bij het samenwerkingsakkoord van 30 november 2022 tot het invoeren van een mechanisme voor de screening van buitenlandse directe investeringen

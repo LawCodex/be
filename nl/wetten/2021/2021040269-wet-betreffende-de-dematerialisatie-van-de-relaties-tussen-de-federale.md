@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/01/26/2021040269/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 10-02-2021 en tekstbijwerking tot 01-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2021. - Wet betreffende de dematerialisatie van de relaties tussen de Federale Overheidsdienst Financiën, de burgers, rechtspersonen en bepaalde derden en tot wijziging van diverse fiscale wetboeken en wetten

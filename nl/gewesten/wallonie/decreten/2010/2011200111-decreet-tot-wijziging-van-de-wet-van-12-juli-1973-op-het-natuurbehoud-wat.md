@@ -13,7 +13,7 @@ entry_into_force: 2011-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/22/2011200111/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2010. - Decreet tot wijziging van de wet van 12 juli 1973 op het natuurbehoud wat betreft de uitvoering van het stelsel Natura 2000

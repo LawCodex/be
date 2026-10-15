@@ -13,7 +13,7 @@ entry_into_force: 2019-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/18/2020040083/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2019. - Décret relatif à la collaboration entre les hôpitaux universitaires et une personne morale de droit privé et/ou de droit public ainsi qu'à l'agrément des hôpitaux universitaires

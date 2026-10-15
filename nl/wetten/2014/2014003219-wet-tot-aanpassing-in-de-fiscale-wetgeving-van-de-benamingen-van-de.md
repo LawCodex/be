@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/25/2014003219/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 16-05-2014 en tekstbijwerking tot 06-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet tot aanpassing in de fiscale wetgeving van de benamingen van de administraties van de Federale Overheidsdienst Financiën en houdende verscheidene andere wetswijzigingen

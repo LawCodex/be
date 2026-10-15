@@ -12,7 +12,7 @@ entry_into_force: 2020-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020040325/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2020. - Wet tot wijziging van het Wetboek van strafvordering wat het gebruik van de polygraaf betreft

@@ -13,7 +13,7 @@ entry_into_force: 2001-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/29/2001029184/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2001. - Decreet tot wijziging van het decreet van 30 juni 1998 dat erop gericht is alle leerlingen gelijke kansen op sociale emancipatie te geven, inzonderheid door de invoering van maatregelen voor positieve discriminatie. (VERTALING).

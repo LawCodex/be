@@ -13,7 +13,7 @@ entry_into_force: 2025-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/02/24/2025201531/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2025. - Programmadecreet 2025

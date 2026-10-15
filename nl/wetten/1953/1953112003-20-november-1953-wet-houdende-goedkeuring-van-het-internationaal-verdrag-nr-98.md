@@ -11,7 +11,7 @@ published: 1953-12-30
 entry_into_force: 1954-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/11/20/1953112003/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 1953. \_ Wet houdende goedkeuring van het Internationaal Verdrag (nr 98) betreffende de toepassing van de grondbeginselen van het recht van organisatie en collectief overleg, aangenomen op 1 juli 1949, te Genève, door de Internationale Arbeidsconferentie, tijdens haar twee en dertigste zittijd.

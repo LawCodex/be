@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 21, 45, 46, 47QUINQUIES, 50, gewijzigd bij <DVR 2007-12-21/82 , art. 36 tot 40; Inwerkingtreding : 01-05-2009>"
   - "Raadpleging van vroegere versies vanaf 29-04-1995 en tekstbijwerking tot 22-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1995. - Decreet betreffende de bodemsanering.

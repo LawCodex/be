@@ -12,7 +12,7 @@ entry_into_force: 2020-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/11/22/2020043770/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2020. - Loi modifiant la loi du 25 mars 1964 sur les médicaments en ce qui concerne les programmes d'usage compassionnel et les programmes médicaux d'urgence

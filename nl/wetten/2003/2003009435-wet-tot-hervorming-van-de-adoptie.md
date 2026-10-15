@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/24/2003009435/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 16-05-2003 en tekstbijwerking tot 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2003. - Wet tot hervorming van de adoptie.

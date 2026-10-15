@@ -13,7 +13,7 @@ entry_into_force: 2004-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036109/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment à la Convention internationale de 1989 sur l'assistance, faite à Londres le 28 avril 1989 (TRADUCTION).

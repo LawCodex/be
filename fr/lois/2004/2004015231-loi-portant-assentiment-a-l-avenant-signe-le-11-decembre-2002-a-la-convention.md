@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/17/2004015231/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2004. - Loi portant assentiment à l'Avenant, signé le 11 décembre 2002, à la Convention entre le [Royaume de Belgique] et le Grand-Duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le protocole final y relatif, signés à Luxembourg, le 17 septembre 1970. &lt;Erratum, voir M.B. 23-02-2006, p. 9263&gt;

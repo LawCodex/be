@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/11/27/2008031617/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 15-12-2008 en tekstbijwerking tot 23-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2008. - Ordonnantie betreffende de ondersteuning van de " missions locales pour l'emploi " en de lokale werkwinkels

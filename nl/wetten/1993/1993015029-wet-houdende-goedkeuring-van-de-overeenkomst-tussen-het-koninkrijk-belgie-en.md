@@ -12,7 +12,7 @@ entry_into_force: 1993-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/01/26/1993015029/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1993. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Zweden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Stockholm op 5 februari 1991.

@@ -12,7 +12,7 @@ entry_into_force: 2020-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/09/29/2020043284/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBRE 2020. - Loi modifiant le Code de droit économique et d'autres lois en vue de renforcer les compétences de recherche et d'application conformément au règlement (UE) 2017/2394 du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l'application de la législation en matière de protection des consommateurs et abrogeant le règlement (CE) n° 2006/2004 et en exécution de celui-ci

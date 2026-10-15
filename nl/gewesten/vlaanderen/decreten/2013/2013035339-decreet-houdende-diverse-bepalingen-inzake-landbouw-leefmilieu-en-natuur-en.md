@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/01/2013035339/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2013. - Decreet houdende diverse bepalingen inzake landbouw, leefmilieu en natuur en ruimtelijke ordening

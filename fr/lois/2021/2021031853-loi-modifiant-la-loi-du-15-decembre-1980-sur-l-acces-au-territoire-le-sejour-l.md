@@ -12,7 +12,7 @@ entry_into_force: 2021-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/11/2021031853/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2021. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne les étudiants

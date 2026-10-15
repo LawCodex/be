@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/10/02/2025007526/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 OKTOBER 2025. - Decreet tot wijziging van het Wetboek voor het basis- en secundair onderwijs betreffende bepalingen met betrekking tot de inschrijvingen in het eerste jaar secundair onderwijs

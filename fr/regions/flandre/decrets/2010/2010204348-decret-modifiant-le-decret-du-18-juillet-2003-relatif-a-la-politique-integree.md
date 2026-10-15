@@ -13,7 +13,7 @@ entry_into_force: 2010-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/16/2010204348/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2010. - Décret modifiant le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau

@@ -13,7 +13,7 @@ entry_into_force: 1997-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1997029327/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret modifiant la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.

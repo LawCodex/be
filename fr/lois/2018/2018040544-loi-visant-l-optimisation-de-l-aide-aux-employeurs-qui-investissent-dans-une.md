@@ -12,7 +12,7 @@ entry_into_force: 2018-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018040544/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi visant l'optimisation de l'aide aux employeurs qui investissent dans une zone en difficulté

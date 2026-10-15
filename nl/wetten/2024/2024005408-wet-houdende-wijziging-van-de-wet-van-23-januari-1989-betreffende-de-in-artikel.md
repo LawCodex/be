@@ -12,7 +12,7 @@ entry_into_force: 2024-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/02/2024005408/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2024. - Wet houdende wijziging van de wet van 23 januari 1989 betreffende de in artikel 110, §§ 1 en 2, van de Grondwet bedoelde belastingbevoegdheid

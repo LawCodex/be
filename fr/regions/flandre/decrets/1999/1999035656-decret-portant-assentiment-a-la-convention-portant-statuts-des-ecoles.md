@@ -13,7 +13,7 @@ entry_into_force: 1999-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/11/1999035656/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1999. - Décret portant assentiment à la Convention portant statuts des écoles européennes et aux annexes I et II, signées à Luxembourg le 21 juin 1994 (TRADUCTION).

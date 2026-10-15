@@ -13,7 +13,7 @@ entry_into_force: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/06/14/2018031301/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2018. - Ordonnantie betreffende de noodhulp aan en de inschakeling van daklozen

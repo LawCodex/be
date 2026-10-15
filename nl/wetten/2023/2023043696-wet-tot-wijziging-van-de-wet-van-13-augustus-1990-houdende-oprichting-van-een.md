@@ -10,7 +10,7 @@ date: 2023-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/19/2023043696/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2023. - Wet tot wijziging van de wet van 13 augustus 1990 houdende oprichting van een commissie voor de evaluatie van de wet van 3 april 1990 betreffende de zwangerschapsafbreking, tot wijziging van de artikelen 348, 350, 351 en 352 van het Strafwetboek en tot opheffing van artikel 353 van hetzelfde Wetboek, wat de samenstelling van de Nationale Evaluatiecommissie zwangerschapsafbreking betreft

@@ -12,7 +12,7 @@ published: 2019-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/03/06/2019030196/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2019. - Ordonnance modifiant l'article 191 du Code bruxellois du Logement

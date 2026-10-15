@@ -13,7 +13,7 @@ entry_into_force: 2009-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/11/2009202755/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2009. - Decreet houdende instemming met de overeenkomst betreffende de deelname van de Republieken Bulgarije en Roemenië aan de Europese Economische Ruimte, en de Slotakte, gedaan te Brussel op 25 juli 2007

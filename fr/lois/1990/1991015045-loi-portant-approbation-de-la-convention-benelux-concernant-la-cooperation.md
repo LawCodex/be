@@ -12,7 +12,7 @@ entry_into_force: 1991-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/03/23/1991015045/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1990. - Loi portant approbation de la Convention Benelux concernant la coopération transfrontalière entre collectivités ou autorités territoriales, faite à Bruxelles le 12 septembre 1986.

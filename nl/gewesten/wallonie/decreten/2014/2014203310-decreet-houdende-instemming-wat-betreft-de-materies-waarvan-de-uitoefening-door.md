@@ -13,7 +13,7 @@ entry_into_force: 2014-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/28/2014203310/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2014. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Mongolië, anderzijds, opgemaakt te Oulan-Bator op 30 april 2013

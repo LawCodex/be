@@ -13,7 +13,7 @@ entry_into_force: 2009-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2009035929/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret portant troisième ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 2008

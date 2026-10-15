@@ -13,7 +13,7 @@ entry_into_force: 2010-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/06/17/2010031324/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2010. - Ordonnantie houdende instemming met : de Overeenkomst tussen het Koninkrijk België en de Republiek Albanië, Bosnië en Herzegovina, de Republiek Kroatië, de Voormalige Joegoslavische Republiek Macedonië, de Republiek Moldavië, Montenegro, de Republiek Servië en de "United Nations Interim Administration Mission in Kosovo" namens Kosovo in overeenstemming met Resolutie 1244 van de VN-Veiligheidsraad betreffende de voorrechten en immuniteiten van het Secretariaat van het "Central European Free Trade Agreement", ondertekend te Brussel op 26 juni 2008

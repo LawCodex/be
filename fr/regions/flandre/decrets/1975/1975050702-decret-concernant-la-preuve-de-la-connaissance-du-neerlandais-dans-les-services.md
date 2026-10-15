@@ -12,7 +12,7 @@ published: 1975-05-24
 entry_into_force: 1975-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1975/05/07/1975050702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1975. - Décret concernant la preuve de la connaissance du néerlandais dans les services médicaux du travail.

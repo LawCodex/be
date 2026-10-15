@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/29/2020043484/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 03-11-2020 en tekstbijwerking tot 23-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2020. - Decreet tot toekenning van bijzondere machten aan de Waalse Regering om te reageren op de tweede golf van de gezondheidscrisis door COVID-19

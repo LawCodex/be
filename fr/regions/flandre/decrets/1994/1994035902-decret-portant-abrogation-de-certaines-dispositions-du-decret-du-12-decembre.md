@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/15/1994035902/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 1994. - Décret portant abrogation de certaines dispositions du décret du 12 décembre 1990 relatif à la politique administrative et de certaines dispositions de l'arrêté royal n° 46 du 10 juin 1982 relatif aux cumuls d'activités professionnelles dans certains services publics et portant abrogation de dispositions légales concernant le recrutement prioritaire auprès des services du Gouvernement flamand.

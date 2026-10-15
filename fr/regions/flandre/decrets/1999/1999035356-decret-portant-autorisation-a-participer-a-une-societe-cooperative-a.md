@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/02/1999035356/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-03-1999 et mise à jour au 02-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1999. - Décret [portant autorisation à participer à] une société coopérative à responsabilité limitée [compétente pour] l'accomplissement des missions en matière de recrutement et de sélection du personnel de la fonction publique (TRADUCTION). &lt;DCFL 2015-05-29/16 , art. 2, 005; En vigueur : 01-05-2015&gt;

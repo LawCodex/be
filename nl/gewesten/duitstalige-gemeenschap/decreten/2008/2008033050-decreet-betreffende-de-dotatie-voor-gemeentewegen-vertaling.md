@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/17/2008033050/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-06-2008 en tekstbijwerking tot 27-01-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2008. - Decreet betreffende de dotatie voor gemeentewegen. (Vertaling)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/18/2024011848/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2024 et mise à jour au 22-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2024. - Décret contenant le budget des recettes de la Région wallonne pour l'année budgétaire 2025

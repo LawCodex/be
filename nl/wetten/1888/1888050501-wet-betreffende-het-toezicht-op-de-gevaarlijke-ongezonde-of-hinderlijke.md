@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1888/05/05/1888050501/justel"
 justel_notes:
   - "Deze wet zal worden opgeheven, voor de Vlaamse Gemeenschap, door DVR 1985-06-28/36, (art. 42), 002, op het ogenblik van zijn inwerkingtreding (zie art. 46)"
   - "Raadpleging van vroegere versies vanaf 17-09-1985 en tekstbijwerking tot 21-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1888. - Wet betreffende het toezicht op de gevaarlijke, ongezonde of hinderlijke inrichtingen en op de stoomtuigen en stoomketels.

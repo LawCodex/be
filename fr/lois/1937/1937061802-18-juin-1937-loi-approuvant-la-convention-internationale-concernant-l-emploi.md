@@ -11,7 +11,7 @@ published: 1937-10-20
 entry_into_force: 1937-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1937/06/18/1937061802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 1937. \_ Loi approuvant la Convention internationale concernant l'emploi des femmes aux travaux souterrains dans les mines de toutes catégories, adoptée à Genève, le 21 juin 1935, par la Conférence internationale du Travail au cours de sa 19° session.

@@ -12,7 +12,7 @@ published: 2004-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/31/2004029138/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2004. - Decreet houdende instemming met het Samenwerkingsakkoord van 10 december 2003 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest, voor de samenwerking tussen de beleidsdomeinen van milieu en gezondheid (VERTALING)

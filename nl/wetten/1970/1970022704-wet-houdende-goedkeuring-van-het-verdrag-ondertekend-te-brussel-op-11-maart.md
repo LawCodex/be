@@ -11,7 +11,7 @@ published: 1970-05-20
 entry_into_force: 1970-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/02/27/1970022704/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 1970. - Wet houdende goedkeuring van het Verdrag ondertekend te Brussel op 11 maart 1968, houdende herziening van het Verdrag tussen België en Joegoslavië betreffende de sociale zekerheid, gesloten te Belgrado op 1 november 1954 .

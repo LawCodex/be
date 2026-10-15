@@ -11,7 +11,7 @@ published: 1972-08-19
 entry_into_force: 1972-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1972/03/15/1972031503/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 1972. - Loi portant approbation du protocole additionnel à la Convention internationale de coopération pour la sécurité de la navigation aérienne " Eurocontrol ", fait à Bruxelles le 6 juillet 1970.

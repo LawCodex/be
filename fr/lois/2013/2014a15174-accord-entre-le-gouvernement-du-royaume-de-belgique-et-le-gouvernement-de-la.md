@@ -12,7 +12,7 @@ entry_into_force: 2014-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/25/2014A15174/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2013. - Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française relatif au traitement de combustibles usés belges à La Hague, fait à Paris le 25 avril 2013

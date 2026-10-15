@@ -11,7 +11,7 @@ date: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003031401/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Ontwerpdecreet tot goedkeuring van het aanhangsel van het samenwerkingsakkoord dat gesloten werd op 20 februari 1995 door de Franse Gemeenschapscommissie, de Franse Gemeenschap en het Waals Gewest, betreffende de Permanente Vorming voor de Middenklasse en de kleine en middelgrote ondernemingen (VERTALING).

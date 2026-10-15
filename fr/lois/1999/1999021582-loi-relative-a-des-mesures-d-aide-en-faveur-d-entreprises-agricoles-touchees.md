@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/03/1999021582/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 11-12-1999 et mise à jour au 30-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 1999. - Loi relative à des mesures d'aide en faveur d'entreprises agricoles touchées par la crise de la dioxine. -

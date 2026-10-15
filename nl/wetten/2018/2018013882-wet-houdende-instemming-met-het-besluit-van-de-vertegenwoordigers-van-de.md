@@ -11,7 +11,7 @@ entry_into_force: 2020-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/11/2018013882/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2018. - Wet houdende instemming met het Besluit van de Vertegenwoordigers van de Regeringen der Lidstaten, in het kader van de Raad bijeen, van 28 april 2004, betreffende de voorrechten en immuniteiten die aan ATHENA worden verleend, gedaan te Brussel op 28 april 2004

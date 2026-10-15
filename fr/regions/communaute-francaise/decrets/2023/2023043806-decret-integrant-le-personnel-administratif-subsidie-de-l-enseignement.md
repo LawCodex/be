@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/06/2023043806/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2023. - Décret intégrant le personnel administratif subsidié de l'enseignement subventionné aux décrets du 6 juin 1994 fixant le statut des membres du personnel subsidiés de l'enseignement officiel subventionné et du 1er février 1993 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné

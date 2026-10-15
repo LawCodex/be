@@ -13,7 +13,7 @@ entry_into_force: 2017-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/16/2017206317/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2017. - Decreet tot wijziging van de artikelen D.II.23, D.II.64, D.VI.17, D.VI.49 en D.VII.1 van het Wetboek van Ruimtelijke Ontwikkeling en waarin een artikel D.II.25bis wordt ingevoegd

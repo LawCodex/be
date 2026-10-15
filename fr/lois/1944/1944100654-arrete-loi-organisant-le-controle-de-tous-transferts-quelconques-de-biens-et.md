@@ -13,7 +13,7 @@ last_amended: 2026-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1944/10/06/1944100654/justel"
 justel_note: "Consultation des versions antérieures à partir du 25-01-1991 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 1944. - [Arrêté-loi organisant le contrôle de tous transferts quelconques de biens et valeurs entre la Belgique et l'étranger.] (L 2002-02-28/51, art. 8, 004; En vigueur : 05-03-2002) -

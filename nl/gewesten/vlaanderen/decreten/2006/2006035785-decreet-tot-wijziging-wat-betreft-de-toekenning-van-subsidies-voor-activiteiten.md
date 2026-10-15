@@ -13,7 +13,7 @@ entry_into_force: 2006-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/28/2006035785/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2006. - Decreet tot wijziging, wat betreft de toekenning van subsidies voor activiteiten ter bevordering van het internationaal ondernemen, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Internationaal Ondernemen.

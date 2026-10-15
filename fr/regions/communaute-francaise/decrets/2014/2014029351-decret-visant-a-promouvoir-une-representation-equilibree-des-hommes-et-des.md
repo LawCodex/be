@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/03/2014029351/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2014 et mise à jour au 30-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Décret visant à promouvoir une représentation équilibrée des hommes et des femmes dans les organes consultatifs

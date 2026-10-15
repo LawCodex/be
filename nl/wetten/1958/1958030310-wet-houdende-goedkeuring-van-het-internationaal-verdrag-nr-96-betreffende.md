@@ -11,7 +11,7 @@ published: 1958-07-17
 entry_into_force: 1958-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/03/03/1958030310/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 1958. - Wet houdende goedkeuring van het Internationaal Verdrag (nr. 96) betreffende bureaus voor arbeidsbemiddeling welke voor hun bemiddeling betaling vragen, aangenomen op 1 juli 1949, te Genève, door de Algemene Conferentie van de Internationale Arbeidsorganisatie, tijdens haar twee en dertigste zittijd.

@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/28/2022042793/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2022. - Décret modifiant le Code de l'Enseignement secondaire du 17 décembre 2010, en ce qui concerne les groupes prioritaires pour les élèves ayant suivi un parcours préalable dans l'enseignement fondamental néerlandophone lors des inscriptions dans l'enseignement secondaire ordinaire

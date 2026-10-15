@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/02/07/1994033028/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 18-07-1998 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 1994. - DECRET relatif à l'aide accordée à la presse quotidienne

@@ -13,7 +13,7 @@ entry_into_force: 2007-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/19/2007036906/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2007. - Décret portant assentiment à l'Accord modifiant l'accord de partenariat, signé à Cotonou le 23 juin 2000 entre les membres du Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et de la Communauté européenne et ses Etats membres, d'autre part, et à l'Acte final signé à Luxembourg le 25 juin 2005 (TRADUCTION).

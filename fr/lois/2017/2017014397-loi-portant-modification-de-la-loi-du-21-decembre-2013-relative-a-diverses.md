@@ -12,7 +12,7 @@ entry_into_force: 2018-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/21/2017014397/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2017. - Loi portant modification de la loi du 21 décembre 2013 relative à diverses dispositions concernant le financement des petites et moyennes entreprises

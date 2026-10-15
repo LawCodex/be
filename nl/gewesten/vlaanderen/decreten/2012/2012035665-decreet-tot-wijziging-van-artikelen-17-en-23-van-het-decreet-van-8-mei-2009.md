@@ -13,7 +13,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/25/2012035665/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2012. - Decreet tot wijziging van artikelen 17 en 23 van het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk

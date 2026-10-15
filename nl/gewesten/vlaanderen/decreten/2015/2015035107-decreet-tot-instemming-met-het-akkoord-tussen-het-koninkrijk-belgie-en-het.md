@@ -13,7 +13,7 @@ entry_into_force: 2013-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/16/2015035107/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2015. - Decreet tot instemming met het akkoord tussen het Koninkrijk België en het Europees Instituut voor Bosbouw betreffende de voorrechten en immuniteiten van het Verbindingsbureau van het Europees Instituut voor de Bosbouw, ondertekend te Brussel op 9 oktober 2013

@@ -13,7 +13,7 @@ entry_into_force: 2019-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019011718/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret modifiant le décret du 20 avril 2018 instaurant les obligations à impact social, en ce qui concerne l'évaluation et le soutien des projets d'obligation à impact social

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017020437/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie tot wijziging van de ordonnantie van 29 juli 2015 tot invoering van een kilometerheffing in het Brussels Hoofdstedelijk Gewest voor zware voertuigen bedoeld of gebruikt voor het vervoer van goederen over de weg, ter vervanging van het Eurovignet

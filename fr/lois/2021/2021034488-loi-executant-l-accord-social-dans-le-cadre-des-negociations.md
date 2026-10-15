@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/12/2021034488/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2021 et mise à jour au 23-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2021. - Loi exécutant l'accord social dans le cadre des négociations interprofessionnelles pour la période 2021-2022

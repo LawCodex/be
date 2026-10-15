@@ -13,7 +13,7 @@ entry_into_force: 2000-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/23/2000029007/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1999. - Decreet houdende de goedkeuring van het Samenwerkingsakkoord tussen de Regering van Burkina Faso en de Franse Gemeenschapsregering van België, ondertekend op 7 december 1994 te Ouagadougou, en van het Samenwerkingsakkoord tussen de Franse Gemeenschapsregering van België en de Waalse Regering en de Regering van Burkina Faso, ondertekend op 4 februari 1998 te Ouagadougou (VERTALING).

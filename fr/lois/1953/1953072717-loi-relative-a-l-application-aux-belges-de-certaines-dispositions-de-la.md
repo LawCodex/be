@@ -11,7 +11,7 @@ published: 1953-09-17
 entry_into_force: 1953-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/07/27/1953072717/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 1953. - Loi relative à l'application aux Belges de certaines dispositions de la convention internationale du 26 juin 1948 pour la protection des oeuvres littéraires et artistiques.

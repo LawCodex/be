@@ -12,7 +12,7 @@ entry_into_force: 2001-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/11/2009003004/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2008. - Wet houdende wijziging van het Wetboek van de inkomstenbelastingen 1992 teneinde het in overeenstemming te brengen met de Richtlijn 90/434/EEG van de Raad van 23 juli 1990 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, gedeeltelijke splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende lidstaten en voor de verplaatsing van de statutaire zetel van een SE of een SCE van een lidstaat naar een andere lidstaat, gewijzigd bij de Richtlijn 2005/19/EEG van de Raad van 17 februari 2005.

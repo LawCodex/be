@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/31/2023044201/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2023 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2023. - Wet houdende wijzigingen van het Wetboek der successierechten en van het Wetboek der registratie-, hypotheek- en griffierechten betreffende de aflevering van inlichtingen door de ambtenaren van de Algemene administratie van de patrimoniumdocumentatie

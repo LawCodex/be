@@ -12,7 +12,7 @@ published: 2026-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/05/2026004895/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2026. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs en de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat betreft taalmaatregelen

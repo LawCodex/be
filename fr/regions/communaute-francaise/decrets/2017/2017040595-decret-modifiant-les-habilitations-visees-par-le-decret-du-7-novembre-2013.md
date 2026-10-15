@@ -13,7 +13,7 @@ entry_into_force: 2017-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017040595/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret modifiant les habilitations visées par le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études et modifiant le décret du 12 décembre 2000 définissant la formation initiale des instituteurs et des régents

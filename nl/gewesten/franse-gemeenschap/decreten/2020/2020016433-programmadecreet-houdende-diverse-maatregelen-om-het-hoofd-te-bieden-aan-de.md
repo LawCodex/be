@@ -13,7 +13,7 @@ entry_into_force: 2020-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/09/2020016433/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2020. - Programmadecreet houdende diverse maatregelen om het hoofd te bieden aan de gevolgen van de Coronaviruscrisis inzake Schoolgebouwen, Begrotingsfondsen, het Fonds Ecureuil, WBE, Gezondheid, Media, Permanente Opvoeding, Studiebeurzen, het Wetenschappelijk Onderzoek en het Leerplichtonderwijs

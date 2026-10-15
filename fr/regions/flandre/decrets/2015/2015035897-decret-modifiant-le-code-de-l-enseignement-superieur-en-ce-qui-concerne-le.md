@@ -13,7 +13,7 @@ entry_into_force: 2014-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/19/2015035897/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2015. - Décret modifiant le Code de l'Enseignement supérieur en ce qui concerne le système de gestion de la qualité et d'accréditation dans l'enseignement supérieur

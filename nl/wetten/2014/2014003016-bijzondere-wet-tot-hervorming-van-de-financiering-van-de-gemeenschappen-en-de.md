@@ -12,7 +12,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014003016/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Bijzondere wet tot hervorming van de financiering van de gemeenschappen en de gewesten, tot uitbreiding van de fiscale autonomie van de gewesten en tot financiering van de nieuwe bevoegdheden

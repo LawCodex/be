@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/03/17/2011031158/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2011. - Ordonnance modifiant l'ordonnance du 23 juillet 1992 relative à la taxe régionale à charge des occupants d'immeubles bâtis et de titulaires de droits réels sur certains immeubles

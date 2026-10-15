@@ -11,7 +11,7 @@ entry_into_force: 2007-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/09/2007015059/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2007. - Wet houdende instemming met het Akkoord, gesloten bij uitwisseling van brieven op 23 mei 2005, tussen de Regering van het Koninkrijk België met het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap, de Regering van de Bondsrepubliek Duitsland, de Regering van de Republiek Frankrijk en de Regering van het Groothertogdom Luxemburg inzake de samenwerking in de grensgebieden.

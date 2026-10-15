@@ -13,7 +13,7 @@ entry_into_force: 2006-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/21/2006033010/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2005. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie (VERTALING).

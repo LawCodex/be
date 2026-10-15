@@ -13,7 +13,7 @@ entry_into_force: 2011-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/01/2011203759/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2011. - Décret portant assentiment à la Convention portant la deuxième modification de l'accord de partenariat entre les membres du Groupe de l'Afrique, des Caraïbes et du Pacifique, d'une part, et de la Communauté européenne et ses Etats membres, d'autre part, signée à Cotonou le 23 juin 2000, telle que modifiée le 25 juin 2005 à Luxembourg, et l'acte final, signé à Ouagadougou le 22 juin 2010

@@ -13,7 +13,7 @@ last_amended: 2018-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/04/28/1958042814/justel"
 justel_note: "Consultation des versions antérieures à partir du 15-06-1985 et mise à jour au 12-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 1958. - Loi relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit

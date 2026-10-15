@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/21/2022033988/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2022. - Décret modifiant le décret du 27 avril 2018 réglant les allocations dans le cadre de la politique familiale, en ce qui concerne l'introduction du supplément de soutien

@@ -13,7 +13,7 @@ entry_into_force: 2019-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/22/2019011580/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2019. - Decreet houdende wijziging van artikel 18, 19, 157, 184/1 en 218 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie

@@ -13,7 +13,7 @@ entry_into_force: 2019-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019013095/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant mesures diverses visant à réduire certains obstacles à l'engagement ou au maintien de membres du personnel de l'enseignement dans un contexte de pénurie

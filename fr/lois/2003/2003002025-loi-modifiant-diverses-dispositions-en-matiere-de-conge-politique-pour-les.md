@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/04/2003002025/justel"
 department: "Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2003. - Loi modifiant diverses dispositions en matière de congé politique pour les membres du personnel des services publics.

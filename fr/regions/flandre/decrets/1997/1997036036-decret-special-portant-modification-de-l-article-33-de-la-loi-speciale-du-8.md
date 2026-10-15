@@ -13,7 +13,7 @@ entry_into_force: 1997-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036036/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - [Décret spécial portant modification de l'article 33 de la loi spéciale du 8 août 1980 de réformes institutionnelles] (TRADUCTION). (ERR. M.B. 06-09-1997 p. 23164).

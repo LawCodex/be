@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014003217/justel"
 department: "Regie der Gebouwen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet tot wijziging van de artikelen 1 en 5 van de wet van 1 april 1971 houdende oprichting van een Regie der Gebouwen

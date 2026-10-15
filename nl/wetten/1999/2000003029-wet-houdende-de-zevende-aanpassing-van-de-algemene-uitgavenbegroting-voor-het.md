@@ -12,7 +12,7 @@ entry_into_force: 2000-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/22/2000003029/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1999. - Wet houdende de zevende aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 1999, sectie 33 en 51.

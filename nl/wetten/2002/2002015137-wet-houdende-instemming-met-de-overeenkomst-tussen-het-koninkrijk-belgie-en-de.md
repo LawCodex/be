@@ -12,7 +12,7 @@ entry_into_force: 2004-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002015137/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Verenigde Arabische Emiraten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en met het Protocol, ondertekend te Washington op 30 september 1996.

@@ -13,7 +13,7 @@ entry_into_force: 2014-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/06/2013207316/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2013. - Decreet houdende wijziging van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, wat de vaststelling van de toezicht- en handhavingsbevoegdheden van de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer betreft

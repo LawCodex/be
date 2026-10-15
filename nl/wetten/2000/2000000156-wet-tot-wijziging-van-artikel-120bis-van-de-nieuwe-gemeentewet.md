@@ -12,7 +12,7 @@ entry_into_force: 2000-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/10/2000000156/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2000. - Wet tot wijziging van artikel 120bis van de nieuwe gemeentewet.

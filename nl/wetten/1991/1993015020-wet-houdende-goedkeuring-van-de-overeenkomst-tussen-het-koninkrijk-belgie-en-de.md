@@ -12,7 +12,7 @@ entry_into_force: 1993-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/05/03/1993015020/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 1991. - Wet houdende goedkeuring van de Overeenkomst tussen het koninkrijk België en de Republiek Senegal tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 29 september 1987.

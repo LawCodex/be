@@ -12,7 +12,7 @@ entry_into_force: 1997-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/19/1997915122/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 1996. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Verenigde Mexicaanse staten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en van het Protocol, ondertekend te Mexico op 24 november 1992.

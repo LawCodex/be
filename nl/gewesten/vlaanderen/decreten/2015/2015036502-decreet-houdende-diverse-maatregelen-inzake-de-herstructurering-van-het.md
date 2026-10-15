@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/20/2015036502/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-12-2015 en tekstbijwerking tot 08-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2015. - Decreet houdende diverse maatregelen inzake de herstructurering van het beleidsdomein Economie, Wetenschap en Innovatie

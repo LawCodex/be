@@ -12,7 +12,7 @@ entry_into_force: 2020-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/10/13/2020015995/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2020. - Loi portant approbation de la décision 16645-(20/5) du Conseil d'Administration du Fonds Monétaire International relative à l'amendement des Nouveaux Accords d'Emprunt

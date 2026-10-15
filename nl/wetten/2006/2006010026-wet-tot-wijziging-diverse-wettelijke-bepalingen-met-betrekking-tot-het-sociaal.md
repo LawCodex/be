@@ -12,7 +12,7 @@ entry_into_force: 2006-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/03/2006010026/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2006. - Wet tot wijziging diverse wettelijke bepalingen met betrekking tot het sociaal strafrecht.

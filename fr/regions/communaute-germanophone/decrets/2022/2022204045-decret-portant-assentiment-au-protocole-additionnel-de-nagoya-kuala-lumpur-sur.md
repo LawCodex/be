@@ -13,7 +13,7 @@ entry_into_force: 2022-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/25/2022204045/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2022. - Décret portant assentiment au protocole additionnel de Nagoya-Kuala Lumpur sur la responsabilité et la réparation relatif au protocole de Cartagena sur la prévention des risques biotechnologiques, fait à Nagoya le 15 octobre 2010

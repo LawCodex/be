@@ -13,7 +13,7 @@ entry_into_force: 1995-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035995/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret portant le premier ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 1995. (Traduction)

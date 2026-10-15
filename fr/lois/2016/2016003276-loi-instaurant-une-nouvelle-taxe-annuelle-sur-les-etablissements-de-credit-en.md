@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/03/2016003276/justel"
 department: "Finances"
 justel_note: "par son arrêt n°130/2023 du 21 septembre 2023, la Cour Constitutionnelle annule les articles 2, 3, 5, 14 et 15 de la loi du 3 août 2016 en ce quils sappliquent à lexercice dimposition 2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2016. - Loi instaurant une nouvelle taxe annuelle sur les établissements de crédit en remplacement des taxes annuelles existantes, des mesures de limitation de déductions à l'impôt des sociétés et de la contribution à la stabilité financière

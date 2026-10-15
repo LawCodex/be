@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/03/23/1989000145/justel"
 department: "Affaires étrangères - Coopération au Développement - Intérieur - Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2016 et mise à jour au 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1989. - LOI relative à l'élection du Parlement européen

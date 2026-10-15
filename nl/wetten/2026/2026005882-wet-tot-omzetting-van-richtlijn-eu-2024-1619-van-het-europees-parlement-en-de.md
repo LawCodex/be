@@ -12,7 +12,7 @@ entry_into_force: 2026-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/22/2026005882/justel"
 department: "Economie, KMO, Middenstand en Energie - Financiën - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2026. - Wet tot omzetting van Richtlijn (EU) 2024/1619 van het Europees Parlement en de Raad van 31 mei 2024 tot wijziging van Richtlijn 2013/36/EU wat betreft toezichtsbevoegdheden, sancties, bijkantoren uit derde landen en ecologische, sociale en governancerisico's, Richtlijn (EU) 2023/2864 van het Europees Parlement en de Raad van 13 december 2023 tot wijziging van bepaalde richtlijnen wat betreft de oprichting en het functioneren van het Europees centraal toegangspunt, Richtlijn (EU) 2024/2994 van het Europees Parlement en de Raad van 27 november 2024 tot wijziging van de Richtlijnen 2009/65/EG, 2013/36/EU en (EU) 2019/2034 wat betreft de behandeling van het concentratierisico dat voortvloeit uit blootstellingen aan centrale tegenpartijen en het risico van tegenpartijen bij centraal geclearde derivatentransacties, en houdende diverse bepalingen

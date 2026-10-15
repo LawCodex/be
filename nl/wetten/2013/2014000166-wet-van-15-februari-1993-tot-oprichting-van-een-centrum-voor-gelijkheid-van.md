@@ -12,7 +12,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/08/17/2014000166/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AUGUSTUS 2013. - Wet van 15 februari 1993 tot oprichting van een Centrum voor gelijkheid van kansen en voor racismebestrijding met het oog op de omvorming ervan tot een federaal Centrum voor de analyse van de migratiestromen, de bescherming van de grondrechten van de vreemdelingen en de strijd tegen de mensenhandel

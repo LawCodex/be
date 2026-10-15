@@ -10,7 +10,7 @@ date: 1960-06-20
 published: 1960-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/06/20/1960062006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 1960. \_ Wet houdende goedkeuring van het Verdrag tot instelling van de Benelux Economische Unie, van de Overgangsovereenkomst en van de Bijgevoegde lijsten, van het Uitvoeringsprotocol, van het Protocol van ondertekening en van de briefwisseling met betrekking tot de kwestie der rijnvaartpremies, ondertekend op 3 februari 1958, te 's-Gravenhage.

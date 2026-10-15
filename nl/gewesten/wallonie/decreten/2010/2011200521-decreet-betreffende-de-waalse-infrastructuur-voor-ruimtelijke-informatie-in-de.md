@@ -13,7 +13,7 @@ entry_into_force: 2011-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/22/2011200521/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2010. - Decreet betreffende de Waalse infrastructuur voor ruimtelijke informatie in de Gemeenschap, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap is overgedragen

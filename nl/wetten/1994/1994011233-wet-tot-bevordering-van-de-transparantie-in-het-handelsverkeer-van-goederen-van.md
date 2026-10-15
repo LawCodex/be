@@ -10,7 +10,7 @@ date: 1994-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/29/1994011233/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 1994. - Wet tot bevordering van de transparantie in het handelsverkeer van goederen van oorsprong uit een land dat geen lidstaat van de Europese Unie is.

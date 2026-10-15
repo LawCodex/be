@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202295/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap is overgedragen, met het Samenwerkingsakkoord tussen de Republiek Burundi, enerzijds, en de Franse Gemeenschap en het Waals Gewest, anderzijds, ondertekend te Bujumbura, op 31 januari 2006

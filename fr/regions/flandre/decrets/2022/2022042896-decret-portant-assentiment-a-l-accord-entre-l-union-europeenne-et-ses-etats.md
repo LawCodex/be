@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/10/2022042896/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2022. - Décret portant assentiment à l'accord entre l'Union européenne et ses Etats membres, d'une part, et l'Ukraine, d'autre part, sur la création d'un espace aérien commun, fait à Kiev le 12 octobre 2021

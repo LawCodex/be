@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/25/2024201388/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 15-03-2024 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2024. - Décret relatif aux centres de formation et d'insertion socioprofessionnelle adaptés et modifiant le Code wallon de l'Action sociale et de la Santé, le décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi et le Code judiciaire

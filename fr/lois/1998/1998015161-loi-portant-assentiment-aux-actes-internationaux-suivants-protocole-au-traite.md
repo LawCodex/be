@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1998015161/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment aux actes internationaux suivants : Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Hongrie. - Protocole au Traité de l'Atlantique Nord sur l'accession de la République de Pologne. - Protocole au Traité de l'Atlantique Nord sur l'accession de la République tchèque, signés à Bruxelles le 16 décembre 1997

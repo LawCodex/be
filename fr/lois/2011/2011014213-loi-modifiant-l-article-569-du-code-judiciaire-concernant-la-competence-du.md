@@ -12,7 +12,7 @@ entry_into_force: 2010-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/15/2011014213/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2011. - Loi modifiant l'article 569 du Code judiciaire, concernant la compétence du tribunal de première instance en matière d'accueil de navire ayant besoin d'assistance

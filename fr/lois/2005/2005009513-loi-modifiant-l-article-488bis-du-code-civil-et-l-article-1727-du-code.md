@@ -12,7 +12,7 @@ entry_into_force: 2005-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/15/2005009513/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2005. - Loi modifiant l'article 488bis du Code civil et l'article 1727 du Code judiciaire.

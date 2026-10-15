@@ -13,7 +13,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/19/2009031157/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Ordonnantie tot wijziging van de ordonnantie van 17 juli 2003 houdende de Brusselse huisvestingscode

@@ -13,7 +13,7 @@ entry_into_force: 2009-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202299/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming met het Protocol tot wijziging van de Conventie voor het Europees Centrum voor weersvoorspellingen op middellange termijn, alsook van het Protocol over de voorrechten en immuniteiten van het Europees Centrum voor weersvoorspellingen op middellange termijn, ondertekend te Brussel, op 11 oktober 1973, aangenomen op 22 april 2005

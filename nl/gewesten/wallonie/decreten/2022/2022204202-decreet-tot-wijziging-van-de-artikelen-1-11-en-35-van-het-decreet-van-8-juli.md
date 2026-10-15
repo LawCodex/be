@@ -13,7 +13,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/16/2022204202/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2022. - Decreet tot wijziging van de artikelen 1, 11°, en 35, van het decreet van 8 juli 2021 betreffende het vrije vloot fietsdelen en tot wijziging van de artikelen 4 en 12 van het decreet van 1 april 2004 betreffende de plaatselijke mobiliteit en toegankelijkheid

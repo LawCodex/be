@@ -13,7 +13,7 @@ entry_into_force: 2002-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/01/18/2002035183/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2002. - Décret modifiant la loi du 12 juillet 1973 portant la conservation de la nature (TRADUCTION).

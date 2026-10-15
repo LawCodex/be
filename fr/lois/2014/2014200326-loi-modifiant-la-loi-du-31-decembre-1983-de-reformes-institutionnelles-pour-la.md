@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200326/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2014 et mise à jour au 02-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2014. - Loi modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone suite à la réforme du Sénat

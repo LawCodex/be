@@ -12,7 +12,7 @@ entry_into_force: 1990-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/02/20/1990000113/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1990. - Loi relative aux agents des administrations et de certains organismes d'intérêt public. -

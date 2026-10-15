@@ -13,7 +13,7 @@ entry_into_force: 2009-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029498/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant assentiment à l'Accord instituant la Conférence européenne de Biologie moléculaire et annexe, fait à Genève le 13 février 1963 et à l'Accord instituant le Laboratoire européen de Biologie moléculaire et annexe, fait à Genève le 10 mai 1973

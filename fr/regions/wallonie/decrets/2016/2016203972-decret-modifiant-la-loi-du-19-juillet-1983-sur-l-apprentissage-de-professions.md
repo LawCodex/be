@@ -13,7 +13,7 @@ entry_into_force: 2016-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016203972/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Décret modifiant la loi du 19 juillet 1983 sur l'apprentissage de professions exercées par des travailleurs salariés

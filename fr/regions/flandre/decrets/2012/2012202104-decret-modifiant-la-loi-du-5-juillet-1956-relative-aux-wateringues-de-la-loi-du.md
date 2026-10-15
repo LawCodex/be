@@ -13,7 +13,7 @@ entry_into_force: 2012-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/23/2012202104/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2012. - Décret modifiant la loi du 5 juillet 1956 relative aux wateringues, de la loi du 3 juin 1957 relative aux polders, de la loi du 28 décembre 1967 relative aux cours d'eau non navigables, en ce qui concerne l'intégration des permissions et autorisations dans la délivrance d'autorisations urbanistiques et modifiant le décret du 8 mai 2009 portant établissement et réalisation des alignements, en ce qui concerne le règlement relatif à la zone de recul et à l'alignement pas encore réalisé

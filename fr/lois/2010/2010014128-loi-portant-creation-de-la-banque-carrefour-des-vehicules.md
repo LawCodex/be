@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/19/2010014128/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 28-06-2010 et mise à jour au 26-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2010. - Loi portant création de la Banque-Carrefour des véhicules

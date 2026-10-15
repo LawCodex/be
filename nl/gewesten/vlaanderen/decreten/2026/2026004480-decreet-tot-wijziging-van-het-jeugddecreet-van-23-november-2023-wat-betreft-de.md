@@ -13,7 +13,7 @@ entry_into_force: 2026-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/05/2026004480/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2026. - Decreet tot wijziging van het Jeugddecreet van 23 november 2023, wat betreft de luisterlijn, het JoKER, de subsidievoorwaarden, de werkingssubsidies en de projectsubsidies voor jeugdverenigingen

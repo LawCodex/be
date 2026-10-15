@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/01/28/2021020408/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2021. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van het Brussels Gewestelijk Herfinancieringsfonds van de Gemeentelijke Thesaurieën voor het jaar 2019

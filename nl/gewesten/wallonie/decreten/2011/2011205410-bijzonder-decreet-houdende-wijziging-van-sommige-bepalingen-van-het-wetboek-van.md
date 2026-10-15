@@ -12,7 +12,7 @@ published: 2011-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/10/13/2011205410/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2011. - Bijzonder decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie inzake de samensteling van de provinciecolleges en raden

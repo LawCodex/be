@@ -12,7 +12,7 @@ entry_into_force: 2014-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/04/2014011245/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Loi portant insertion du Livre XVI, "Règlement extrajudiciaire des litiges de consommation" dans le Code de droit économique

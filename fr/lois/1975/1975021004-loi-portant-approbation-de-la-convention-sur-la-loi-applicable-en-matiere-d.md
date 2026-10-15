@@ -11,7 +11,7 @@ published: 1975-05-07
 entry_into_force: 1975-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/02/10/1975021004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1975. - Loi portant approbation de la Convention sur la loi applicable en matière d'accidents de la circulation routière, faite à La Haye le 4 mai 1971.

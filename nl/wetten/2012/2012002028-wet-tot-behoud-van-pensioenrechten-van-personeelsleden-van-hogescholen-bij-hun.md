@@ -12,7 +12,7 @@ entry_into_force: 2012-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/04/22/2012002028/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2012. - Wet tot behoud van pensioenrechten van personeelsleden van hogescholen bij hun integratie in universiteiten

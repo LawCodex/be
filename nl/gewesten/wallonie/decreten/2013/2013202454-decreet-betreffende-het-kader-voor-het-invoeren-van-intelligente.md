@@ -13,7 +13,7 @@ entry_into_force: 2013-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/04/18/2013202454/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2013. - Decreet betreffende het kader voor het invoeren van intelligente vervoerssystemen op het gebied van wegvervoer en voor interfaces met andere vervoerswijzen

@@ -12,7 +12,7 @@ entry_into_force: 2015-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/04/28/2015012133/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2015. - Loi instaurant la marge maximale pour l'évolution du coût salarial pour les années 2015 et 2016

@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/14/2015003412/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2015. - Wet tot wijziging van artikelen 419, i), iii), 420 en 432, § 3, van de programmawet van 27 december 2004

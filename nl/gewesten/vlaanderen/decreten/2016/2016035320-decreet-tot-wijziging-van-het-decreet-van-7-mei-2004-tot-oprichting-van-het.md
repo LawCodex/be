@@ -13,7 +13,7 @@ entry_into_force: 2016-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/04/2016035320/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2016. - Decreet tot wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Internationaal Ondernemen", wat betreft de beginselen van het deugdelijk bestuur in de Vlaamse publieke sector

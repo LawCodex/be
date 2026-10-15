@@ -12,7 +12,7 @@ entry_into_force: 2006-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006011411/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2006. - Loi portant modification de la loi du 13 juillet 1976 portant approbation de l'Accord relatif à un programme international de l'énergie, et de l'Annexe, faits à Paris le 18 novembre 1974.

@@ -12,7 +12,7 @@ entry_into_force: 2017-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/01/2016206165/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2016. - Wet tot wijziging van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders en tot opheffing van hoofdstuk III, afdeling 3, van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, wat betreft de invordering door middel van dwangbevel door de Rijksdienst voor Sociale Zekerheid en tot wijziging van de wet van 24 februari 2003 betreffende de modernisering van het beheer van de sociale zekerheid en betreffende de elektronische communicatie tussen ondernemingen en de federale overheid

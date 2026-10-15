@@ -12,7 +12,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/28/2024003380/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2024. - Wet houdende goedkeuring van het Samenwerkingsakkoord tussen de Federale Staat, de Franse Gemeenschap, de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie inzake slachtofferzorg voor het tweetalige gebied Brussel-Hoofdstad

@@ -13,7 +13,7 @@ entry_into_force: 2017-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/20/2017020179/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2017. - Décret modifiant le Décret sur les soins résidentiels du 13 mars 2009 en ce qui concerne le subventionnement de l'infrastructure des centres de soins résidentiels et des centres de court séjour

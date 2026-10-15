@@ -12,7 +12,7 @@ entry_into_force: 2013-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/28/2016014138/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2016. - Loi modifiant la loi relative à la police de la circulation routière, coordonnée le 16 mars 1968, et la loi du 19 mai 2010 portant création de la Banque-Carrefour des véhicules

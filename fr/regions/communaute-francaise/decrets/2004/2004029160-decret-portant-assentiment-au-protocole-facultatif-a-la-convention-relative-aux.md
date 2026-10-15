@@ -13,7 +13,7 @@ entry_into_force: 2004-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029160/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant assentiment au Protocole facultatif à la Convention relative aux Droits de l'Enfant, concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants, adopté à New York le 25 mai 2000.

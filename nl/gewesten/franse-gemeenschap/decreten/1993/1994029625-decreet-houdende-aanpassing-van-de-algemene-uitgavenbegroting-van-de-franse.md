@@ -13,7 +13,7 @@ entry_into_force: 1993-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/02/1994029625/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1993. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1993 (Vertaling).

@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1891/08/19/1891081950/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-05-1999 et mise à jour au 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 1891. - [Loi relative à la pêche maritime dans la mer territoriale]. (Intitulé remplacé par &lt;L 1999-04-22/47, art. 16, 003; En vigueur : 20-07-1999&gt;)

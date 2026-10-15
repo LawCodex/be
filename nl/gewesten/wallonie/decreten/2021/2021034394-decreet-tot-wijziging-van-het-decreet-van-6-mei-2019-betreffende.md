@@ -13,7 +13,7 @@ entry_into_force: 2021-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/24/2021034394/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2021. - Decreet tot wijziging van het decreet van 6 mei 2019 betreffende milieudeliquentie en van diverse andere decreten

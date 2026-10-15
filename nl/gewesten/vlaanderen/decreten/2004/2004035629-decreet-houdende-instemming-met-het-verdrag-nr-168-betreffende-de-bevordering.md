@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035629/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet houdende instemming met het verdrag nr. 168 betreffende de bevordering van werkgelegenheid en de bescherming tegen werkloosheid, aangenomen door de Internationale Arbeidsconferentie tijdens haar vijfenzeventigste zitting in Genève op 21 juni 1988.

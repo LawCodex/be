@@ -13,7 +13,7 @@ entry_into_force: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024005594/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat betreft de lokale besturen, de initiatieven met betrekking tot biotische factoren, de initiatieven met betrekking tot fysische en chemische factoren, de initiatieven met betrekking tot gezondheidsimpact door klimaatverandering en de verwerking van persoonsgegevens

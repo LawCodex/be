@@ -12,7 +12,7 @@ entry_into_force: 2011-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/06/19/2011015063/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2011. - Wet tot wijziging van de organieke [wet van 27 december 1990] tot oprichting van begrotingsfondsen

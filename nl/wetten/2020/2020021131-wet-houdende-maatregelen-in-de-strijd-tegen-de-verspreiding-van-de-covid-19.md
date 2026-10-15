@@ -12,7 +12,7 @@ entry_into_force: 2020-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/20/2020021131/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2020. - Wet houdende maatregelen in de strijd tegen de verspreiding van de COVID-19 pandemie voor wat betreft de administratieve geldboeten met betrekking tot het luchtvervoer en de luchtvaartnavigatie en het tariefsysteem van de luchthaven Brussels Airport

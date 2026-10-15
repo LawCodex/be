@@ -12,7 +12,7 @@ entry_into_force: 2003-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/06/2003009347/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2003. - Loi concernant les méthodes particulières de recherche et quelques autres méthodes d'enquête.

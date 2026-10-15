@@ -13,7 +13,7 @@ entry_into_force: 2012-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204828/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret portant assentiment 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu, et au Protocole, signé à Bruxelles le 7 octobre 2009, et 2° à la correspondance des 30 mai et 11 juillet 2011

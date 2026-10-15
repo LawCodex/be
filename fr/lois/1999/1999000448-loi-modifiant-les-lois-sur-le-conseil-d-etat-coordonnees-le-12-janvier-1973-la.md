@@ -12,7 +12,7 @@ entry_into_force: 1999-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/25/1999000448/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 1999. - Loi modifiant les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, la loi du 5 avril 1955 relative aux traitements des titulaires d'une fonction au Conseil d'Etat, ainsi que le Code judiciaire.

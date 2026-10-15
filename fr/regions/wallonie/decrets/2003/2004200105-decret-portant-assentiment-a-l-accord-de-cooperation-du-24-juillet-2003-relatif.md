@@ -13,7 +13,7 @@ entry_into_force: 2003-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/13/2004200105/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2003. - Décret portant assentiment à l'Accord de coopération du 24 juillet 2003, relatif à la validation des compétences dans le champ de la formation professionnelle continue, conclu entre la Communauté française, la Région wallonne et la Commission communautaire française.

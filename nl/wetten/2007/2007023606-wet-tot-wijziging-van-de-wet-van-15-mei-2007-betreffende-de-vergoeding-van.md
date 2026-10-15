@@ -12,7 +12,7 @@ entry_into_force: 2007-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/12/21/2007023606/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de vergoeding van schade als gevolg van gezondheidszorg wat betreft de datum van inwerkingtreding.

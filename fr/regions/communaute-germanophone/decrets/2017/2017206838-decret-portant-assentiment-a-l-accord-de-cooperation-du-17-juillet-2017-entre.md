@@ -13,7 +13,7 @@ entry_into_force: 2018-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/12/2017206838/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2017. - Décret portant assentiment à l'accord de coopération du 17 juillet 2017 entre la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone, relatif aux communautés religieuses locales reconnues de cultes reconnus, dont le ressort territorial s'étend sur le territoire de plus d'une entité fédérée

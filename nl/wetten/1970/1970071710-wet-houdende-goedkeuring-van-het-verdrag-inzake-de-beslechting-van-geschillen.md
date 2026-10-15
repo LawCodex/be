@@ -10,7 +10,7 @@ date: 1970-07-17
 entry_into_force: 1970-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/17/1970071710/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1970. - Wet houdende goedkeuring van het verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen staten en onderdanen van andere staten, Washington 18 maart 1965.

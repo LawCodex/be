@@ -13,7 +13,7 @@ entry_into_force: 1996-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/16/1996035891/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1996. - Decreet houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud.

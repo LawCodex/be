@@ -13,7 +13,7 @@ entry_into_force: 2018-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/02/2018030511/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2018. - Décret portant assentiment à l'accord de partenariat économique entre l'Union européenne et ses Etats membres, d'une part, et les Etats de l'APE CDAA, d'autre part, signé à Kasane le 10 juin 2016

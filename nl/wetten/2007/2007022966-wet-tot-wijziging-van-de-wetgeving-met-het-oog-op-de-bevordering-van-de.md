@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/04/2007022966/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 25-07-2007 en tekstbijwerking tot 29-03-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2007. - Wet tot wijziging van de wetgeving met het oog op de bevordering van de patiëntenmobiliteit.

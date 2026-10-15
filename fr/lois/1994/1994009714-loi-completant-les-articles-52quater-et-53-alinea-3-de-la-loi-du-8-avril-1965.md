@@ -12,7 +12,7 @@ entry_into_force: 1994-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/30/1994009714/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1994. - Loi complétant les articles 52quater et 53, alinéa 3, de la loi du 8 avril 1965 relative à la protection de la jeunesse, modifiée par la loi du 2 février 1994 et y insérant un article 100bis.

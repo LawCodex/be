@@ -13,7 +13,7 @@ entry_into_force: 2024-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/05/2023046241/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OKTOBER 2023. - Decreet met betrekking tot het verbod op geweld tegen kinderen in voorzieningen die toegelaten, erkend, gesubsidieerd of georganiseerd worden door de Franse Gemeenschap

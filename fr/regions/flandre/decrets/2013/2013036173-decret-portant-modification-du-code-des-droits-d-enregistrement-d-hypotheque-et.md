@@ -13,7 +13,7 @@ entry_into_force: 2014-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/06/2013036173/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2013. - Décret portant modification du Code des droits d'enregistrement, d'hypothèque et de greffe, en ce qui concerne l'assimilation des acquisitions entre beaux-enfants et beaux-parents et entre enfants d'accueil et parents d'accueil

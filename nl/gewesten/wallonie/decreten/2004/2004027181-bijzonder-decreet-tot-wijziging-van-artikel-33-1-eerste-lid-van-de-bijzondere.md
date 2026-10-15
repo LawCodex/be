@@ -13,7 +13,7 @@ entry_into_force: 2004-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/07/27/2004027181/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2004. - Bijzonder decreet tot wijziging van artikel 33, § 1, eerste lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, zoals gewijzigd, waarbij de openingen van de parlementaire zittingen worden georganiseerd (VERTALING).

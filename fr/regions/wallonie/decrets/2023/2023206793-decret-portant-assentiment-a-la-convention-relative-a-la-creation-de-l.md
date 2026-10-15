@@ -13,7 +13,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/30/2023206793/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2023. - Décret portant assentiment à la Convention relative à la création de l'Organisation internationale pour les aides à la navigation maritime, faite à Paris le 27 janvier 2021

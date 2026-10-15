@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036275/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013 en ce qui concerne l'exonération du précompte immobilier pour les organisations d'animation des jeunes et les centres de séjour pour jeunes

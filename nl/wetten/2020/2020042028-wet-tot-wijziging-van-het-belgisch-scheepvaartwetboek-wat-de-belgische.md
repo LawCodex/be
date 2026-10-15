@@ -12,7 +12,7 @@ entry_into_force: 2020-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/18/2020042028/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2020. - Wet tot wijziging van het Belgisch Scheepvaartwetboek wat de Belgische gezagsschepen betreft

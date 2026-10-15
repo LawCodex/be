@@ -13,7 +13,7 @@ entry_into_force: 2026-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/02/2026002835/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2026. - Decreet van 4 februari 2021 betreffende audiovisuele mediadiensten en videoplatformdiensten

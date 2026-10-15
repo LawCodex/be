@@ -11,7 +11,7 @@ published: 1952-05-30
 entry_into_force: 1952-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1952/05/27/1952052701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 mai 1952. \_ Loi modifiant les lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 9 mars 1951, et octroyant des vacances supplémentaires d'ancienneté.

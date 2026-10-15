@@ -12,7 +12,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/01/2006007232/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er AOUT 2006. - Loi modifiant certaines dispositions diverses relative à l'Ecole royale militaire.

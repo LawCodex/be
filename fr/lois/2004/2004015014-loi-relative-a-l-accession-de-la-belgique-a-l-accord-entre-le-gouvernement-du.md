@@ -12,7 +12,7 @@ entry_into_force: 2004-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/08/2004015014/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2004. - Loi relative à l'accession de la Belgique à l'Accord entre le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord et le Gouvernement de la République française relatif au Groupe aérien européen, fait à Londres le 6 juillet 1998 et au Protocole amendant l'Accord relatif au Groupe aérien européen, fait à Londres le 16 juin 1999.

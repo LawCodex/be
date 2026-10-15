@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/20/2016204375/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2016. - Décret portant la première modification du décret du 17 décembre 2015 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2016

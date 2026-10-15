@@ -13,7 +13,7 @@ entry_into_force: 2020-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2020044340/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 12 du 20 mai 2020 dérogeant au décret du 18 janvier 2018 établissant un cadastre des subventions en Communauté française dans le cadre de la crise sanitaire du COVID-19

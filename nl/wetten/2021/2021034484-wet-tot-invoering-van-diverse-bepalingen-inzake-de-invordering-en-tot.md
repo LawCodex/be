@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/20/2021034484/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2021. - Wet tot invoering van diverse bepalingen inzake de invordering en tot aanpassing van bepalingen ten gevolge van de invoering van het wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen

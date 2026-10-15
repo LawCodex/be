@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/15/2018014460/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 29-10-2018 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2018. - Loi relative à l'interruption volontaire de grossesse, abrogeant les articles 350 et 351 du Code pénal et modifiant les articles 352 et 383 du même Code et modifiant diverses dispositions législatives

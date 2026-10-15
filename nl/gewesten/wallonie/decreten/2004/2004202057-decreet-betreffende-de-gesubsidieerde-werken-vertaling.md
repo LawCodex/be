@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/29/2004202057/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2004 en tekstbijwerking tot 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2004. - Decreet betreffende de gesubsidieerde werken (VERTALING)

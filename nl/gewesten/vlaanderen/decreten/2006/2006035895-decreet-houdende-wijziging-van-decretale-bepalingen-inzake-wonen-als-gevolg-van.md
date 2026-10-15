@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/24/2006035895/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-06-2006 en tekstbijwerking tot 04-05-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2006. - Decreet houdende wijziging van decretale bepalingen inzake wonen als gevolg van het bestuurlijk beleid

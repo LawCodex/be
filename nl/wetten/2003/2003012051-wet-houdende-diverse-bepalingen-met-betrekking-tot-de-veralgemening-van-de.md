@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/24/2003012051/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2003. - Wet houdende diverse bepalingen met betrekking tot de veralgemening van de onmiddellijke aangifte van tewerkstelling.

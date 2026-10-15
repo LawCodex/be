@@ -13,7 +13,7 @@ entry_into_force: 2004-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035791/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende bekrachtiging van de stedenbouwkundige vergunningen verleend door de Vlaamse regering op 2 april 2004 in toepassing van het decreet van 14 december 2001 voor enkele bouwvergunningen waarvoor dwingende redenen van groot algemeen belang gelden.

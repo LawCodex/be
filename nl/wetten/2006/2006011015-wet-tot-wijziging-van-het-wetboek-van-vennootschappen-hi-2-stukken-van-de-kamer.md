@@ -12,7 +12,7 @@ entry_into_force: 2006-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/13/2006011015/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2006. - Wet tot wijziging van het Wetboek van vennootschappen.HI:??2,Stukken van de Kamer van volksvertegenwoordigers : 51-2017 - 2004/2005 : Nr. 1 : Wetsontwerp. 51-2017 - 2005/2006 : Nr. 2 : Verslag. - Nr. 3 : Tekst verbeterd door de commissie. - Nr. 4 : Tekst aangenomen in plenaire vergadering en overgezonden aan de Senaat. Integraal Verslag : 1 december 2005. Stukken van de Senaat : 3-1464 - 2005/2006 : Nr. 1 : Ontwerp niet geëvoceerd door de Senaat.

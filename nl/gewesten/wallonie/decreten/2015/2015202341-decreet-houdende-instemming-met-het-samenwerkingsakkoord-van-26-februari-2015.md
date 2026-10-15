@@ -13,7 +13,7 @@ entry_into_force: 2015-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/07/2015202341/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 26 februari 2015 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapcommissie betreffende de vaststelling en het beheer van een Franstalig kwalificatiekader voor een levenslange opvoeding en vorming, afgekort " C.F.C. "

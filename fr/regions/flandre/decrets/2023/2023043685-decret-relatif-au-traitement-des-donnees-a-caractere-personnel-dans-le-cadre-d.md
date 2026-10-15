@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/30/2023043685/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-08-2023 et mise à jour au 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2023. - Décret relatif au traitement des données à caractère personnel dans le cadre d'une collaboration multidisciplinaire lors de la participation à une concertation de cas sur la base de [l'article 353, § 2,] du Code pénal (Intitulé modifié par DCFL 2026-07-17/28 , art. 59, 002; En vigueur : 01-09-2026)

@@ -13,7 +13,7 @@ entry_into_force: 2025-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/24/2025201050/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2025. - Décret portant assentiment au Protocole additionnel entre le Royaume de Belgique et l'Association européenne de libre-échange, fait à Bruxelles le 24 novembre 2022

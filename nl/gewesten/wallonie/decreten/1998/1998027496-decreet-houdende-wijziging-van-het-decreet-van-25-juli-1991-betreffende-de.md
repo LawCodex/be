@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/16/1998027496/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1998. - Decreet houdende wijziging van het decreet van 25 juli 1991 betreffende de belasting op de afvalstoffen in het Waalse Gewest (VERTALING).HI:??2,Zitting 1997-1998 : Stukken van de Raad. - 377 (1997-1998), nrs. 1 tot 15. Volledig verslag. - Openbare vergadering van 8 juli 1998. Bespreking. Stemming.

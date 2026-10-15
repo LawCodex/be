@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/18/2016036627/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2016. - Decreet houdende instemming met het verdrag nr. 187 inzake het promotioneel kader voor de veiligheid en gezondheid op het werk, aangenomen door de Internationale Arbeidsconferentie in haar vijfennegentigste zitting in Genève op 15 juni 2006

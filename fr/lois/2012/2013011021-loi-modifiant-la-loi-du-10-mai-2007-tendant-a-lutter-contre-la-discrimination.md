@@ -12,7 +12,7 @@ entry_into_force: 2012-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/19/2013011021/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2012. - Loi modifiant la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes, pour ce qui est de l'appartenance sexuelle en matière de biens et services et en matière de régimes complémentaires de sécurité sociale

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/20/2020044510/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2020 en tekstbijwerking tot 23-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2020. - Wet houdende tijdelijke ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie

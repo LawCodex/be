@@ -13,7 +13,7 @@ entry_into_force: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/27/2007027093/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2007. - Décret modifiant les articles L1123-1 et L1123-4 du Code de la démocratie locale et de la décentralisation.

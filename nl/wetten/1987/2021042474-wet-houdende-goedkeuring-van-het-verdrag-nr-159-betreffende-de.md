@@ -12,7 +12,7 @@ entry_into_force: 2022-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/06/11/2021042474/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1987. - Wet houdende goedkeuring van het Verdrag nr 159 betreffende de beroepsrevalidatie en de werkgelegenheid van gehandicapten, aangenomen te Genève op 20 juni 1983 door de Internationale Arbeidsconferentie tijdens haar negenenzestigste zitting.

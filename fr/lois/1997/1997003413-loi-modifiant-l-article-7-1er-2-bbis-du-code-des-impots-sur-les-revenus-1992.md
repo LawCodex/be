@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/06/1997003413/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1997. - Loi modifiant l'article 7, § 1er, 2°, bbis, du Code des impôts sur les revenus 1992.

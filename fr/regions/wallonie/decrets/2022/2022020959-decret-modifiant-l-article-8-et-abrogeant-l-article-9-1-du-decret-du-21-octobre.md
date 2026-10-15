@@ -13,7 +13,7 @@ entry_into_force: 2022-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/02/2022020959/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2022. - Décret modifiant l'article 8 et abrogeant l'article 9/1 du décret du 21 octobre 2021 relatif à l'usage du COVID Safe Ticket et à l'obligation du port du masque en ce qui concerne l'obligation du port du masque

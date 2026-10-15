@@ -10,7 +10,7 @@ date: 2004-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/13/2004015167/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2004. - Wet houdende instemming met het Europees Verdrag inzake cinematografische coproductie, en de Bijlagen I en II, gedaan te Straatsburg op 2 oktober 1992.

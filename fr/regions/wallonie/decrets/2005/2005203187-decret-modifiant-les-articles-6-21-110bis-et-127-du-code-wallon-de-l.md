@@ -13,7 +13,7 @@ entry_into_force: 2005-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/10/27/2005203187/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2005. - Décret modifiant les articles 6, 21, 110bis et 127 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.

@@ -12,7 +12,7 @@ entry_into_force: 2019-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/27/2019011169/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2019. - Loi modifiant l'arrêté royal n° 20 du 20 juillet 1970 fixant les taux de la taxe sur la valeur ajoutée et déterminant la répartition des biens et des services selon ces taux en ce qui concerne le taux de T.V.A. applicable à la fourniture de plantes et de fleurs destinées à l'aménagement et à l'entretien de jardins

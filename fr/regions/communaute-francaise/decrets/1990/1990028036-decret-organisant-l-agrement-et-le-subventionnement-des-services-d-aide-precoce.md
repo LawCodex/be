@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/12/1990028036/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-08-1990 et mise à jour au 03-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1990. - Décret organisant l'agrément et le subventionnement des services d'aide précoce aux enfants handicapés.

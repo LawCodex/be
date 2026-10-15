@@ -12,7 +12,7 @@ entry_into_force: 1999-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/05/1999015157/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Loi portant assentiment à l'Accord européen sur les grandes lignes de transport international combiné et les installations connexes (AGTC), et Annexes I, II, III et IV, faits à Genève le 1er février 1991.

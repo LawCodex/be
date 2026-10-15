@@ -12,7 +12,7 @@ entry_into_force: 2023-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/31/2023045428/justel"
 department: "Instituut voor de gelijkheid van vrouwen en mannen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2023. - Wet tot wijziging van het Strafwetboek met het oog op het strafbaar stellen van conversiepraktijken

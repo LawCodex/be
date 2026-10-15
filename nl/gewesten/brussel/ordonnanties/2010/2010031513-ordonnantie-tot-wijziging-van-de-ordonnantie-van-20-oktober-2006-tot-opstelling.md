@@ -11,7 +11,7 @@ date: 2010-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/10/28/2010031513/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2010. - Ordonnantie tot wijziging van de ordonnantie van 20 oktober 2006 tot opstelling van een kader voor het waterbeleid en tot wijziging van de ordonnantie van 25 maart 1999 betreffende de opsporing, de vaststelling, de vervolging en de bestraffing van misdrijven inzake leefmilieu

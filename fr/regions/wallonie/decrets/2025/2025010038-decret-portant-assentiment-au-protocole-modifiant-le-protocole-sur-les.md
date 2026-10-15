@@ -13,7 +13,7 @@ entry_into_force: 2026-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/11/2025010038/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2025. - Décret portant assentiment au Protocole modifiant le Protocole sur les privilèges et immunités de l'Organisation Benelux de la propriété intellectuelle (marques et dessins ou modèles), fait à Bruxelles le 6 décembre 2022

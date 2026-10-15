@@ -13,7 +13,7 @@ entry_into_force: 2013-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/03/2013035442/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2013. - Décret portant assentiment à la convention multilatérale entre la Communauté européenne et ses Etats membres, la République d'Albanie, la Bosnie-Herzégovine, la République de Bulgarie, la République de Croatie, la République d'Islande, la République du Monténégro, l'ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Roumanie et la Mission d'administration intérimaire des Nations unies au Kosovo (MINUK) relatif à la création d'un espace aérien commun avec l'Union européenne, signée au Luxembourg le 9 juin 2006

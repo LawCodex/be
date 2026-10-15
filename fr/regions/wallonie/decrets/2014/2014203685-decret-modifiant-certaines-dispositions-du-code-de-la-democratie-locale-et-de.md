@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/28/2014203685/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2014. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation en vue d'améliorer le fonctionnement et la transparence des intercommunales

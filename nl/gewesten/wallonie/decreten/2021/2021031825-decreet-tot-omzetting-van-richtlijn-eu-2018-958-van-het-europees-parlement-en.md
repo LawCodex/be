@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/08/2021031825/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 14-07-2021 en tekstbijwerking tot 03-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2021. - Decreet tot omzetting van richtlijn (EU) 2018/958 van het Europees Parlement en de Raad van 28 juni 2018 betreffende een evenredigheidsbeoordeling voorafgaand aan een nieuwe reglementering van beroepen

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031845/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant assentiment à : l'Accord entre le Royaume de Belgique et la République de Colombie sur l'exercice d'activités à but lucratif par des membres de la famille du personnel diplomatique et consulaire, signé à Bogota le 25 août 2015

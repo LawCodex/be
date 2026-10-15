@@ -11,7 +11,7 @@ date: 2012-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204745/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - DECREET houdende instemming met : 1° het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met protocollen I en II, ondertekend te Luxemburg op 5 juni 2001, zoals gewijzigd door het protocol, ondertekend te Berlijn op 23 juni 2009, 2° het protocol tot wijziging van het Verdrag en de protocollen, vermeld onder 1°, ondertekend te Berlijn op 23 juni 2009

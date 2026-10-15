@@ -11,7 +11,7 @@ published: 1965-03-24
 entry_into_force: 1965-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/01/15/1965011516/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 1965. \_ Loi portant approbation de la Convention européenne relative aux formalités prescrites pour les demandes de brevets et des annexes, signées à Paris, le 11 décembre 1953.

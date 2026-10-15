@@ -12,7 +12,7 @@ entry_into_force: 2023-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014203464/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet tot wijziging van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, wat de dienstboden en het huispersoneel betreft

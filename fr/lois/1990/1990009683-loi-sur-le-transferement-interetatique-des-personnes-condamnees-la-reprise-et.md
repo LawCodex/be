@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/05/23/1990009683/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2005 et mise à jour au 16-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 1990. - [Loi sur le transfèrement interétatique des personnes condamnées, la reprise et le transfert de la surveillance de personnes condamnées sous condition ou libérées sous condition ainsi que la reprise et le transfert de l'exécution de peines et de mesures privatives de liberté.] &lt;Intitulé remplacé par L 2005-05-26/33 , art. 2, 002; En vigueur : 10-06-2005&gt;

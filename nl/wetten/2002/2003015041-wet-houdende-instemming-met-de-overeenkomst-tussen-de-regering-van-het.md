@@ -12,7 +12,7 @@ entry_into_force: 2003-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/11/05/2003015041/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBER 2002. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek Bangladesh inzake luchtvervoer, en met de Bijlage, ondertekend te Brussel op 20 januari 1995.

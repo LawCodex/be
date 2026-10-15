@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017040495/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-08-2017 et mise à jour au 13-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant création d'une agence autonomisée externe de droit public " Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid " (Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale), établissant des normes d'autorisation pour des acteurs de paiement privés et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Kind en Gezin " (Enfance et Famille)

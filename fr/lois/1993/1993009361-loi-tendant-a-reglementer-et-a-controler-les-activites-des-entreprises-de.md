@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/03/09/1993009361/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-04-1999 et mise à jour au 11-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 1993. - Loi tendant à réglementer et à contrôler les activités des entreprises de courtage matrimonial.

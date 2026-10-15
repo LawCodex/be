@@ -13,7 +13,7 @@ entry_into_force: 2022-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/24/2022031948/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2022. - Décret portant assentiment à la modification de la Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (CDNI), adoptée le 22 juin 2017 et modifiant le décret du 15 juillet 2008 portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, faite à Strasbourg, le 9 septembre 1996

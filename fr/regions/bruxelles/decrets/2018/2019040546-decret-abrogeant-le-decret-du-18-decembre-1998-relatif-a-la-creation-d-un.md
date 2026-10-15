@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/17/2019040546/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2018. - Décret abrogeant le décret du 18 décembre 1998 relatif à la création d'un service à gestion séparée mettant en oeuvre la politique d'intégration sociale et professionnelle des personnes handicapées et modifiant diverses autres dispositions- 3ème lecture

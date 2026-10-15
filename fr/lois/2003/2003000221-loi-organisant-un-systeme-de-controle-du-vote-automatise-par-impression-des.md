@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/11/2003000221/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 28-03-2003 et mise à jour au 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2003. - Loi organisant un système de contrôle du vote automatisé par impression des suffrages émis sur support papier et modifiant la loi du 11 avril 1994 organisant le vote automatisé, la loi du 18 décembre 1998 organisant le dépouillement automatisé des votes au moyen d'un système de lecture optique et modifiant la loi du 11 avril 1994 organisant le vote automatisé, ainsi que le Code électoral

@@ -11,7 +11,7 @@ published: 1927-05-25
 entry_into_force: 1927-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1927/05/12/1927051251/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 1927. - Wet op de militaire opeisingen.

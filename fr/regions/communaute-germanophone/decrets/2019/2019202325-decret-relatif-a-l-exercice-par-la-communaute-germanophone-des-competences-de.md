@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/29/2019202325/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2019. - Décret relatif à l'exercice, par la Communauté germanophone, des compétences de la Région wallonne en matière d'aménagement du territoire et de certaines matières connexes

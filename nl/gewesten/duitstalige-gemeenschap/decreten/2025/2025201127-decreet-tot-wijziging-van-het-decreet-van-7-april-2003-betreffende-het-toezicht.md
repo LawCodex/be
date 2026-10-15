@@ -13,7 +13,7 @@ entry_into_force: 2025-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/02/03/2025201127/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2025. - Decreet tot wijziging van het decreet van 7 april 2003 betreffende het toezicht op de verkiezingsuitgaven en de herkomst van de geldmiddelen voor de verkiezing van het Parlement en van de gemeenteraden, alsook betreffende het toezicht op de mededelingen van de overheden van de Duitstalige Gemeenschap

@@ -11,7 +11,7 @@ published: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/20/2026005536/justel"
 department: "Kanselarij van de Eerste Minister - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2026. - Bijzondere wet tot wijziging van artikel 479 van het Wetboek van strafvordering en houdende harmonisatie van de bijzondere wet van 25 juni 1998 tot regeling van de strafrechtelijke verantwoordelijkheid van leden van een gemeenschaps- of gewestregering met het Strafwetboek van 29 februari 2024

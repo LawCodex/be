@@ -12,7 +12,7 @@ entry_into_force: 2009-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/16/2009018261/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2009. - Wet tot uitstel van de datum van inwerkingtreding van de wet van 19 december 2008 inzake het verkrijgen en het gebruik van menselijk lichaamsmateriaal met het oog op de geneeskundige toepassing op de mens of het wetenschappelijk onderzoek

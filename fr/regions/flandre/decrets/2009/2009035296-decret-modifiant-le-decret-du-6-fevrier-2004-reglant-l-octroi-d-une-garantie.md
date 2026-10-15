@@ -13,7 +13,7 @@ entry_into_force: 2009-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/20/2009035296/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2009. - Décret modifiant le décret du 6 février 2004 réglant l'octroi d'une garantie aux petites et moyennes entreprises

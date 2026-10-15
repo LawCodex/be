@@ -11,7 +11,7 @@ date: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019204062/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van Boek II van het Milieuwetboek dat het Waterwetboek inhoudt met het oog op de toekenning van een voorkeurstarief in geval van verborgen waterlekkage in een private distributie-installatie die een woning bevoorraadt

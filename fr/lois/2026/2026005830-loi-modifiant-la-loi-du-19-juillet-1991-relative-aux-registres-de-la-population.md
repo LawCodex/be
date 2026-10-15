@@ -12,7 +12,7 @@ entry_into_force: 2026-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/19/2026005830/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2026. - Loi modifiant la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour, en vue de la création d'un registre central de délivrance des attestations d'immatriculation

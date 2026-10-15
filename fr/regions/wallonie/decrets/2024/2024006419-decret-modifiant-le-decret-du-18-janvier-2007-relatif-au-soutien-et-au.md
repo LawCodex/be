@@ -13,7 +13,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/11/2024006419/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2024. - Décret modifiant le décret du 18 janvier 2007 relatif au soutien et au développement des réseaux d'entreprises ou clusters et le décret du 11 mars 2004 relatif aux incitants régionaux en faveur des petites ou moyennes entreprises

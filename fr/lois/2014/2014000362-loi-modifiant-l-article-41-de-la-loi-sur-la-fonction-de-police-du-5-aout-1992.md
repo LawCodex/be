@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/04/2014000362/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2014 et mise à jour au 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Loi modifiant l'article 41 de la loi sur la fonction de police du 5 août 1992, en vue de garantir l'identification des fonctionnaires de police et agents de police tout en améliorant la protection de leur vie privée

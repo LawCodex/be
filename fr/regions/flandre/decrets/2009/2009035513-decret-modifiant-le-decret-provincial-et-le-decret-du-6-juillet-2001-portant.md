@@ -13,7 +13,7 @@ entry_into_force: 2009-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009035513/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant le décret provincial et le décret du 6 juillet 2001 portant réglementation de la coopération intercommunale

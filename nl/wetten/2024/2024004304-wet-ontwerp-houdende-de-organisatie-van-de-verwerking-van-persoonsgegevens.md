@@ -12,7 +12,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/09/2024004304/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2024. - Wet ontwerp houdende de organisatie van de verwerking van persoonsgegevens nodig voor de inspectie- en controleopdrachten van het Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten

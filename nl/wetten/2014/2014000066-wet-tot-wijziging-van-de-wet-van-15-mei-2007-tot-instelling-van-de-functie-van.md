@@ -12,7 +12,7 @@ entry_into_force: 2014-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/13/2014000066/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2014. - Wet tot wijziging van de wet van 15 mei 2007 tot instelling van de functie van gemeenschapswacht, tot instelling van de dienst gemeenschapswachten en tot wijziging van artikel 119bis van de nieuwe gemeentewet

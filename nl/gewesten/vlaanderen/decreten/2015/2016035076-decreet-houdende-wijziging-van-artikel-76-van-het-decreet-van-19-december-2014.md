@@ -13,7 +13,7 @@ entry_into_force: 2015-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/18/2016035076/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Decreet houdende wijziging van artikel 76 van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015, wat de regularisatie van gesubsidieerde contractuelen betreft

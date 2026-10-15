@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/22/2018206245/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 18-12-2018 et mise à jour au 10-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2018. - Décret relatif au plan de cohésion sociale pour ce qui concerne les matières dont l'exercice a été transféré [de la Communauté française]

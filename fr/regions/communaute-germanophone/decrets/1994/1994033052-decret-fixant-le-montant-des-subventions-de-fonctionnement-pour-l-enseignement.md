@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/04/18/1994033052/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 18-04-1996 et mise à jour au 09-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 1994. - Décret fixant le montant des subventions de fonctionnement pour l'enseignement subventionné. &lt;Traduction&gt; (NOTE 1 : Abrogé, en ce qui concerne l'enseignement fondamental ordinaire par DCG 1999-04-26/67, art. 83, § 2, 2°; En vigueur : 20-08-1999)

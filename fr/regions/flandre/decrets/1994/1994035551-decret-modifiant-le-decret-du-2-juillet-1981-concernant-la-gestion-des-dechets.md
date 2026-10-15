@@ -13,7 +13,7 @@ entry_into_force: 1994-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/04/20/1994035551/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 1994. - Décret modifiant le décret du 2 juillet 1981 concernant la gestion des déchets. &lt;Traduction&gt;

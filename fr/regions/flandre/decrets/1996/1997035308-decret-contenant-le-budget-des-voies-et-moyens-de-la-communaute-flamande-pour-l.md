@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997035308/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-03-1997 et mise à jour au 27-08-1997."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Décret contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 1997. (TRADUCTION). -

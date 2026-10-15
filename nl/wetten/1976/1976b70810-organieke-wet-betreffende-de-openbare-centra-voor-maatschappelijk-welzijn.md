@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/08/1976B70810/justel"
 justel_notes:
   - "voor de aan 30-08-2006 voorafgaande versies, zie de archieven van de federale vorm W 1976-07-08/01 "
   - "Raadpleging van vroegere versies vanaf 30-08-2006 en tekstbijwerking tot 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1976. - ORGANIEKE WET betreffende de openbare centra voor maatschappelijk welzijn (VLAAMSE GMEENSCHAP)

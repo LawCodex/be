@@ -12,7 +12,7 @@ entry_into_force: 2001-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/13/2001021539/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2001. - Loi modifiant la loi du 7 mai 2000 attribuant une dotation annuelle à Son Altesse Royale le Prince Philippe et une dotation annuelle à Son Altesse Royale la Princesse Astrid.

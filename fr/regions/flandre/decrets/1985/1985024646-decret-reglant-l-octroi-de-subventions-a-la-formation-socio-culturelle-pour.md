@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/06/27/1985024646/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mis à jour au 11-04-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1985. - Décret réglant l'octroi de subventions à la formation socio-culturelle pour adultes dans des institutions de formation à caractère politique.

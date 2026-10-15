@@ -12,7 +12,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/09/2016015104/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AOUT 2016. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant le contrôle d'immigration effectué sur les trains circulant entre la Belgique et le Royaume-Uni empruntant la liaison fixe transmanche, fait à Londres le 3 décembre 2013 et à Bruxelles le 18 décembre 2013

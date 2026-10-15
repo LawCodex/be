@@ -13,7 +13,7 @@ entry_into_force: 2019-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/01/2019040678/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Décret réalisant des missions artistiques pour les bâtiments des services publics et services assimilés et des établissements, associations et institutions subventionnés par les pouvoirs publics et relevant de la Communauté flamande ou de la Région flamande

@@ -12,7 +12,7 @@ entry_into_force: 2020-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/09/2020202624/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2020. - Loi visant à introduire un droit à des allocations de chômage temporaires pour les pensionnés de 65 ans et plus en raison du virus COVID-19

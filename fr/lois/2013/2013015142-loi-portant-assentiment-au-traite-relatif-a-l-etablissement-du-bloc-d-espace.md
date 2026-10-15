@@ -12,7 +12,7 @@ entry_into_force: 2013-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/29/2013015142/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2013. - Loi portant assentiment au Traité relatif à l'établissement du Bloc d'espace aérien fonctionnel " Europe Central " entre la République fédérale d'Allemagne, le Royaume de Belgique, la République française, le grand-duché de Luxembourg, le Royaume des Pays-Bas et la Confédération suisse

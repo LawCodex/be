@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/24/2015031101/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Decreet houdende bepalingen die van toepassing zijn op de begroting, de boekhouding en de controle van de administratieve diensten van de Franse Gemeenschapscommissie en de administratieve openbare instellingen die daarvan afhangen

@@ -12,7 +12,7 @@ entry_into_force: 2013-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/21/2013200861/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2012. - Wet houdende instemming met het Samenwerkingsakkoord van 17 oktober 2011 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/29/2007A23133/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 24-07-2007 et mise à jour au 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2007. - Loi réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré, coordonnée le 29 juin 2007

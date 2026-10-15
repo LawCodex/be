@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/08/2001029153/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-05-2001 en tekstbijwerking tot 17-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2001. - Decreet tot bekrachtiging van de eindtermen en vereiste kennis inzake wetenschappen op het einde de overgangsafdeling. (Vertaling)

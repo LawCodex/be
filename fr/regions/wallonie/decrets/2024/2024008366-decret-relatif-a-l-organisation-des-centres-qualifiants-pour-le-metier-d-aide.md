@@ -13,7 +13,7 @@ entry_into_force: 2024-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/29/2024008366/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2024. - Décret relatif à l'organisation des centres qualifiants pour le métier d'aide familiale

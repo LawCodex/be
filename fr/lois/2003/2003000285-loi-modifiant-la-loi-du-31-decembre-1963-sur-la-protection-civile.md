@@ -12,7 +12,7 @@ entry_into_force: 2003-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/28/2003000285/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2003. - Loi modifiant la loi du 31 décembre 1963 sur la protection civile.

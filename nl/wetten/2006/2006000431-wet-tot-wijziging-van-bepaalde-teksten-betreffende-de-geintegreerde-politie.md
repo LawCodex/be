@@ -12,7 +12,7 @@ entry_into_force: 2006-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/20/2006000431/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2006. - Wet tot wijziging van bepaalde teksten betreffende de geïntegreerde politie.

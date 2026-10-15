@@ -12,7 +12,7 @@ entry_into_force: 1997-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/05/21/1997015114/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 1990. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Malte relatif à l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 5 mars 1987.

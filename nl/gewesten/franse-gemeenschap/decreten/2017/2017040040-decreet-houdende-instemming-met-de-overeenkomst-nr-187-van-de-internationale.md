@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/26/2017040040/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2017. - Decreet houdende instemming met de overeenkomst nr. 187 van de Internationale Arbeidsorganisatie inzake het promotioneel kader voor de veiligheid en gezondheid op het werk, aangenomen te Genève op 15 juni 2006

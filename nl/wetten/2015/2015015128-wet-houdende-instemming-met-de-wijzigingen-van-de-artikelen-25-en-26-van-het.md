@@ -10,7 +10,7 @@ date: 2015-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/05/21/2015015128/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2015. - Wet houdende instemming met de Wijzigingen van de artikelen 25 en 26 van het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, aangenomen te Madrid op 28 november 2003

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/19/1998035067/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-01-1998 et mis à jour au 31-12-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Décret relatif à une réduction du précompte immobilier, en vue d'encourager les investissements créateurs d'emplois [en matière de formation] (DCFL 1998-12-19/30, art. 36, 002; En vigueur : 01-01-1999) (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2002-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/13/2002028119/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2002. - Décret modifiant le décret du 1er avril 1999 portant création de la S.A. de droit public SARSI.

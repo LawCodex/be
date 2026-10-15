@@ -13,7 +13,7 @@ entry_into_force: 2006-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/22/2006200260/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2005. - Decreet tot wijziging van het decreet van 27 februari 2003 betreffende de radio-omroep (VERTALING).

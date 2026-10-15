@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/12/2007011013/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 15-01-2007 en tekstbijwerking tot 31-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2006. - Wet betreffende GSM-R. &lt;Erratum. Zie B.St. 19-01-2007, p. 2366&gt;

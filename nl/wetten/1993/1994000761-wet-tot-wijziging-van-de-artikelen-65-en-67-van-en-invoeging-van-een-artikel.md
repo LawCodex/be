@@ -12,7 +12,7 @@ entry_into_force: 1994-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/15/1994000761/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1993. - Wet tot wijziging van de artikelen 65 en 67 van en invoeging van een artikel 136bis in de nieuwe gemeentewet.

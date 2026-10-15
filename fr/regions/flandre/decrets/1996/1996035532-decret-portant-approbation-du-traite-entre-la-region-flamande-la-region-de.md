@@ -13,7 +13,7 @@ entry_into_force: 1996-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/16/1996035532/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1996. - Décret portant approbation du Traité entre la Région flamande, la Région de Bruxelles-Capitale, la Région wallonne, la République francaise et le Royaume des Pays-Bas relatif à la protection de l'Escaut, signé à Charleville-Mézières le 26 avril 1994 et à Anvers le 17 janvier 1995 (TRADUCTION).

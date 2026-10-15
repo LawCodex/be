@@ -13,7 +13,7 @@ entry_into_force: 2017-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/16/2017206318/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2017. - Decreet tot wijziging van artikel D.IV.99 en Boek VII van het Wetboek van Ruimtelijke Ontwikkeling met het oog om er een artikel D.VII.1bis in te voegen tot invoering van een stedenbouwkundig conformiteitsvermoeden voor sommige overtredingen

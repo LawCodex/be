@@ -13,7 +13,7 @@ entry_into_force: 2024-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/18/2024005348/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Decreet tot wijziging van het decreet van 11 april 2014 waarbij de pedagogische uitrusting van het kwalificerend onderwijs wordt gewaarborgd en tot organisatie van de centra voor geavanceerde technologie

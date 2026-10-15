@@ -13,7 +13,7 @@ entry_into_force: 2017-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201628/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret visant à modifier l'article 97 du décret du 11 mars 1999 relatif au permis d'environnement et l'article 30 du décret du 20 juillet 2016 abrogeant le décret du 24 avril 2014 abrogeant les articles 1er à 128 et 129quater à 184 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie, abrogeant les articles 1er à 128 et 129quater à 184 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine et formant le Code du Développement territorial

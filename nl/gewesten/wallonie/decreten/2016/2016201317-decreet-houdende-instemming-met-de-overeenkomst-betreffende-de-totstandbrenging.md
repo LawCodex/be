@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/03/2016201317/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2016. - Decreet houdende instemming met de Overeenkomst betreffende de totstandbrenging van een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar lidstaten, enerzijds, en Georgië, anderzijds, gedaan te Brussel op 2 december 2010

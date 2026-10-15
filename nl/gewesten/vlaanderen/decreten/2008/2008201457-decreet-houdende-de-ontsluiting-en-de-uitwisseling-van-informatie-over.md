@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/14/2008201457/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 06-05-2008 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2008. - Decreet houdende de ontsluiting en de uitwisseling van informatie over ondergrondse kabels en leidingen. (aangehaald als : KLIP-decreet)

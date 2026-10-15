@@ -11,7 +11,7 @@ published: 2015-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015009431/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van de wet van 13 januari 1977 houdende goedkeuring van de overeenkomst inzake de vaststelling van een stelsel van registratie van testamenten, opgemaakt te Bazel op 16 mei 1972 en tot invoering van een centraal huwelijksovereenkomstenregister

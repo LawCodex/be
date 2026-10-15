@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019011352/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2019 en tekstbijwerking tot 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet houdende diverse bepalingen betreffende de werkorganisatie van de onderwijspersoneelsleden en tot toekenning van meer organisatieflexibiliteit aan de Inrichtende machten

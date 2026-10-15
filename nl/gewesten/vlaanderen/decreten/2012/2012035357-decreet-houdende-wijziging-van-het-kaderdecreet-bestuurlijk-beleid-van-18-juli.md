@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/16/2012035357/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2012. - Decreet houdende wijziging van het kaderdecreet bestuurlijk beleid van 18 juli 2003 wat betreft beleidsondersteunende taken binnen een intern verzelfstandigd agentschap

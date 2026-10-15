@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "par son arrêt n° 135/2012 du 30-10-2012 (M.B. 20-11-2012, p. 68993-68995), la Cour Constitutionnelle a annulé les articles 38 et 39, en ce que les obligations qu'ils contiennent ne s'appliquent pas de manière comparable au gestionnaire du réseau de transmission"
   - "Consultation des versions antérieures à partir du 16-08-2011 et mise à jour au 02-04-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2011. - Décret portant modification de la loi du 10 mars 1925 sur les distributions d'énergie électrique et du décret Energie du 8 mai 2009, concernant la transposition de la Directive 2009/72/CE et de la Directive 2009/73/CE

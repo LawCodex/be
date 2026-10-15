@@ -12,7 +12,7 @@ entry_into_force: 2019-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/19/2019030490/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2019. - Wet houdende instemming met het Amendement op artikel 124 van het Statuut van Rome van het Internationaal Strafhof, aangenomen te Den Haag op 26 november 2015 op de elfde plenaire vergadering van de Vergadering van staten die partij zijn bij het Statuut van Rome

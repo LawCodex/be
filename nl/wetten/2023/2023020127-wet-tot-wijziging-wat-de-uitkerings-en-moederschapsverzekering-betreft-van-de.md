@@ -12,7 +12,7 @@ entry_into_force: 2023-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/04/2023020127/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2023. - Wet tot wijziging, wat de uitkerings- en moederschapsverzekering betreft, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994

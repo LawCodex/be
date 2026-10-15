@@ -13,7 +13,7 @@ entry_into_force: 2015-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/11/2015036581/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2015. - Decreet houdende de invoering van een nieuwe regeling voor de financiering van de Vlaamse Maatschappij voor Sociaal Wonen en het Vlaams Woningfonds

@@ -16,7 +16,7 @@ department: "Prévoyance Sociale"
 justel_notes:
   - "remplacement de l'article 25 partiellement annulé par l'arrêt de la Cour constitutionnelle 121/2023 du 14/09/2023: annulation de l'article 54 de la loi 18/05/2022 en ce que cet article remplace l'article 25, §1er, alinéa 2 de la loi 06/08/1990"
   - "Consultation des versions antérieures à partir du 09-01-1991 et mise à jour au 08-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1990. - Loi relative aux mutualités et aux unions nationales de mutualités. (NOTE 1 : les mots " Caisse des soins de santé de la Société nationale des Chemins de fer belges " sont remplacés par les mots " Caisse des soins de santé de la S.N.C.B. Holding " ; voir AR 2004-10-18/32, art. 38 ; En vigueur : 01-01-2005)

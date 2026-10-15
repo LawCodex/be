@@ -12,7 +12,7 @@ published: 2019-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203885/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van het decreet van 30 maart 1995 betreffende de openbaarheid van bestuur en het Wetboek van de Plaatselijke Democratie en de Decentralisatie met het oog op het toewijzen van een sterkere rol aan de Commissie voor de toegang tot de bestuursdocumenten (Franse afkorting "CADA") van het Waalse Gewest

@@ -13,7 +13,7 @@ entry_into_force: 2022-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/20/2022041530/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2022. - Décret modifiant diverses dispositions du décret relatif au sol du 27 octobre 2006 et du décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets

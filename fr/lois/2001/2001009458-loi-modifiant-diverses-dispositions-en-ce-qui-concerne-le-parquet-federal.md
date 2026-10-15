@@ -12,7 +12,7 @@ entry_into_force: 2001-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/21/2001009458/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2001. - Loi modifiant diverses dispositions en ce qui concerne le parquet fédéral.

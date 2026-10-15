@@ -12,7 +12,7 @@ entry_into_force: 2019-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019040988/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2019. - Wet tot wijziging van de wet van 21 februari 2003 tot oprichting van een Dienst voor alimentatievorderingen bij de FOD Financiën, teneinde het bedrag op te trekken dat als inkomensbovengrens dient om aanspraak te maken op een voorschot op het onderhoudsgeld

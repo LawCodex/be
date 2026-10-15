@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029427/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-08-2003 et mise à jour au 01-02-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret organisant des activités de psychomotricité dans l'enseignement maternel ordinaire.

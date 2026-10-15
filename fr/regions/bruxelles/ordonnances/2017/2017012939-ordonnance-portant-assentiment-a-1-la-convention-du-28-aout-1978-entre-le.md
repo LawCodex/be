@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012939/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment à : 1° la Convention du 28 août 1978 entre le Royaume de Belgique et la Confédération suisse en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune, telle que modifiée par l'Avenant entre le Royaume de Belgique et la Confédération suisse, signé à Bruxelles le 10 avril 2014; 2° l'Avenant entre le Royaume de Belgique et la Confédération suisse modifiant la Convention du 28 août 1978 entre le Royaume de Belgique et la Confédération suisse en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune, signé à Bruxelles le 10 avril 2014

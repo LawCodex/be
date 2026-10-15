@@ -13,7 +13,7 @@ entry_into_force: 2026-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004480/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2026. - Décret modifiant le décret Jeunesse du 23 novembre 2023, en ce qui concerne la ligne d'écoute, le JoKER, les conditions de subvention, les subventions de fonctionnement et les subventions de projet pour associations de jeunesse

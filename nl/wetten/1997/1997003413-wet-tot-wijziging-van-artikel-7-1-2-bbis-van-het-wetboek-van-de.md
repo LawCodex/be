@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/06/1997003413/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1997. - Wet tot wijziging van artikel 7, § 1, 2°, bbis, van het Wetboek van de inkomstenbelastingen 1992.

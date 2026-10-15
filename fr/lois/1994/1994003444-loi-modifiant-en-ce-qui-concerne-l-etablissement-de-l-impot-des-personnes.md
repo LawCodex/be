@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/05/1994003444/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1994. - Loi modifiant en ce qui concerne l'établissement de l'impôt des personnes physiques, le Code des impôts sur les revenus 1992.

@@ -13,7 +13,7 @@ entry_into_force: 2003-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/28/2003035304/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2003. - Decreet houdende wijziging van artikel 80, § 3, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

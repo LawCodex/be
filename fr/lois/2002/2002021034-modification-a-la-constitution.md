@@ -12,7 +12,7 @@ entry_into_force: 2002-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/21/2002021034/justel"
 department: "Chancellerie et Services généraux"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2002. - Modification à la Constitution.

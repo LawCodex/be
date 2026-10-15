@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/02/2013031348/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Canberra le 13 octobre 1977, telle que modifiée par le Protocole, signé à Canberra le 20 mars 1984, et le second Protocole, fait à Paris le 24 juin 2009; 2° au second Protocole, fait à Paris le 24 juin 2009, modifiant la Convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Canberra le 13 octobre 1977, telle que modifiée par le Protocole, signé à Canberra le 20 mars 1984

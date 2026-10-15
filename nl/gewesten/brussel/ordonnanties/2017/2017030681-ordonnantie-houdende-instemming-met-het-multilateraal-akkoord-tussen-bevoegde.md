@@ -13,7 +13,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/13/2017030681/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2017. - Ordonnantie houdende instemming met: het Multilateraal Akkoord tussen bevoegde autoriteiten betreffende de automatische uitwisseling van inlichtingen inzake financiële rekeningen, ondertekend te Berlijn op 29 oktober 2014

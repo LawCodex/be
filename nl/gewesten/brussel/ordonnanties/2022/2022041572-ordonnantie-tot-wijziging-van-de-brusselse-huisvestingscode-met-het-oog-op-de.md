@@ -11,7 +11,7 @@ date: 2022-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/06/09/2022041572/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2022. - Ordonnantie tot wijziging van de Brusselse Huisvestingscode met het oog op de gelijke behandeling van vrouwen en mannen en discriminatiebestrijding

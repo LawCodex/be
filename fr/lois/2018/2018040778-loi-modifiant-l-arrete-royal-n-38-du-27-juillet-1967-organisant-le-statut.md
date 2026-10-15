@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/02/2018040778/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2018. - Loi modifiant l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, afin de réformer le fonctionnement de la Commission des dispenses de cotisations

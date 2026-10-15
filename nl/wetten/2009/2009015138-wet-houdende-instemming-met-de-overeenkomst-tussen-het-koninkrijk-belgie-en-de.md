@@ -12,7 +12,7 @@ entry_into_force: 2010-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/10/28/2009015138/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2009. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Chili inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, gedaan te Brussel op 6 december 2007

@@ -13,7 +13,7 @@ entry_into_force: 2018-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/05/2018203588/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2018. - Decreet houdende instemming met de Handelsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en Colombia en Peru, anderzijds, ondertekend te Brussel op 26 juni 2012

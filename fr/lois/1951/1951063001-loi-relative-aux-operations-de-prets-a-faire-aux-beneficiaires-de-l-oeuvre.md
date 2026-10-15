@@ -10,7 +10,7 @@ date: 1951-06-30
 published: 1952-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1951/06/30/1951063001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1951. - [Loi relative aux opérations de prêts à faire aux bénéficiaires de l'Oeuvre nationale des invalides de guerre et de l'Oeuvre nationale des anciens combattants et victimes de la guerre.]

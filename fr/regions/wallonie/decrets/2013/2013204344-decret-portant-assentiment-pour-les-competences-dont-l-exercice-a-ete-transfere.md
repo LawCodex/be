@@ -13,7 +13,7 @@ entry_into_force: 2013-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204344/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret portant assentiment, pour les compétences dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention du travail maritime, adoptée à Genève le 23 février 2006 par la Conférence générale de l'Organisation internationale du Travail

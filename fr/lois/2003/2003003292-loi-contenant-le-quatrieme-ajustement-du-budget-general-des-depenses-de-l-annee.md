@@ -12,7 +12,7 @@ entry_into_force: 2003-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/05/2003003292/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2003. - Loi contenant le quatrième ajustement du Budget général des dépenses de l'année budgétaire 2002, Section " Coopération internationale ".

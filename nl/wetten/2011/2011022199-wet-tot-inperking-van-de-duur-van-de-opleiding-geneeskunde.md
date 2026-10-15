@@ -11,7 +11,7 @@ published: 2011-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/05/12/2011022199/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2011. - Wet tot inperking van de duur van de opleiding geneeskunde

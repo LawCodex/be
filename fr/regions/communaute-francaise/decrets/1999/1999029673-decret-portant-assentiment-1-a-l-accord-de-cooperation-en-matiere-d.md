@@ -13,7 +13,7 @@ entry_into_force: 1999-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029673/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Décret portant assentiment : 1. à l'Accord de coopération en matière d'astrophysique et à son annexe, fait à Santa Cruz de la Palma le 26 mai 1979; 2. au Protocole d'Amendement à l'Accord de coopération en matière d'astrophysique, fait à Madrid le 18 avril 1988; 3. au Protocole de coopération en matière de recherche astrophysique en Espagne, fait à Santa Cruz de Palma le 26 mai 1979; 4. au Protocole d'Amendement du Protocole de coopération en matière d'astrophysique, fait à Madrid le 18 avril 1988; 5. à l'Addendum au Protocole de coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord et du Royaume de Suède, fait à Madrid le 8 avril 1983; 6. au Protocole d'Amendement à l'Addendum au Protocole de coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord et du Royaume de Suède et de la République fédérale d'Allemagne, fait à Madrid le 18 avril 1988.

@@ -13,7 +13,7 @@ entry_into_force: 2015-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/02/12/2015031112/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2015. - Ordonnantie tot wijziging van de ordonnantie van 3 april 2014 betreffende de vestiging, de invordering en de geschillen inzake gemeentebelastingen

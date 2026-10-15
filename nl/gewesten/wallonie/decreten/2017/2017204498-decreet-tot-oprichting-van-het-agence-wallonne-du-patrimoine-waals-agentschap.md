@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/12/2017204498/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2017. - Decreet tot oprichting van het "Agence wallonne du Patrimoine" (Waals Agentschap voor het patrimonium) als administratieve dienst met een autonome boekhouding en houdende ontbinding van het "Institut du Patrimoine wallon" (Instituut van het Waals patrimonium)

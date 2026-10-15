@@ -13,7 +13,7 @@ entry_into_force: 2015-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/18/2015031902/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Ordonnance modifiant l'ordonnance du 16 juillet 1998 relative à l'octroi de subsides destinés à encourager la réalisation d'investissements d'intérêt public

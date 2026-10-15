@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009201938/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2009 et mise à jour au 24-11-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Décret portant création de la Caisse d'Investissement de Wallonie et instituant une réduction de l'impôt des personnes physiques en cas de souscription d'actions ou d'obligations de la Caisse

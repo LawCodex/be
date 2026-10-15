@@ -12,7 +12,7 @@ entry_into_force: 1999-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/03/1999015176/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1999. - Loi portant assentiment au Protocole portant modification de la loi uniforme Benelux en matière de dessins ou modèles, fait à Bruxelles le 7 août 1996.

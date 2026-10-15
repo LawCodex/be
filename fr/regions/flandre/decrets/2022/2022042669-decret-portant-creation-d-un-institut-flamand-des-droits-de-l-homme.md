@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/28/2022042669/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-11-2022 et mise à jour au 17-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2022. - Décret portant création d'un Institut flamand des droits de l'homme

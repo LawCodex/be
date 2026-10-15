@@ -12,7 +12,7 @@ entry_into_force: 2007-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/09/2007011238/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2007. - Loi relative aux aspects civils de la protection des droits de propriété intellectuelle. &lt;Erratum, voir M.B. 15-05-2007, p. 26677&gt;

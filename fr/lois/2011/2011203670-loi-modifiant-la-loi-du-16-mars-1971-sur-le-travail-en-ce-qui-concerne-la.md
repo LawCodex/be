@@ -12,7 +12,7 @@ entry_into_force: 2011-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/06/11/2011203670/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2011. - Loi modifiant la loi du 16 mars 1971 sur le travail en ce qui concerne la protection contre le licenciement en cas de conversion du congé de maternité en congé de paternité

@@ -13,7 +13,7 @@ entry_into_force: 2011-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/01/2011203761/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2011. - Decreet houdende instemming met de Internationale Overeenkomst van 2006 inzake tropisch hout, gedaan te Genève op 27 januari 2006

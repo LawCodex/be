@@ -12,7 +12,7 @@ entry_into_force: 1995-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/02/09/1995003150/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1995. - Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat.

@@ -12,7 +12,7 @@ entry_into_force: 1984-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/03/30/1984015112/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1984. - Loi portant approbation du Protocole entre le Royaume de Belgique et le Grand-Duché de Luxembourg, relatif à l'association monétaire et du Protocole d'exécution, signés à Bruxelles le 9 mars 1981, et de l'Amendement, signé à Bruxelles le 6 septembre 1983.

@@ -11,7 +11,7 @@ published: 1972-07-18
 entry_into_force: 1972-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1972/07/10/1972071005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1972. - Wet houdende overgangsbepalingen met betrekking tot artikel 1293 van het Gerechtelijk Wetboek.

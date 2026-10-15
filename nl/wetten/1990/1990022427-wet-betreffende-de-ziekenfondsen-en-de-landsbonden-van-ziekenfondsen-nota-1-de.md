@@ -15,7 +15,7 @@ department: "Sociale Voorzorg"
 justel_notes:
   - "vervanging van artikel 25 gedeeltelijk nietig verklaard door arrest 121/2023 van het Grondwettelijk Hof van 14/09/2023: vernietiging van artikel 54 van Wet 18/05/2022, aangezien dit artikel artikel 25, §1, lid 2 van Wet 06/08/1990 vervangt"
   - "Raadpleging van vroegere versies vanaf 09-01-1991 en tekstbijwerking tot 08-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1990. - Wet betreffende de ziekenfondsen en de landsbonden van ziekenfondsen. (NOTA 1 : De woorden " Kas der geneeskundige verzorging van de Nationale Maatschappij der Belgische Spoorwegen " worden vervangen door de woorden " Kas der geneeskundige verzorging van N.M.B.S. Holding " ; zie KB 2004-10-18/32 , art. 38 ; Inwerkingtreding : 01-01-2005)

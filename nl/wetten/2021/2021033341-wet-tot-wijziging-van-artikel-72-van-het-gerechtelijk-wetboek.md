@@ -12,7 +12,7 @@ entry_into_force: 2021-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/09/28/2021033341/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2021. - Wet tot wijziging van artikel 72 van het Gerechtelijk Wetboek

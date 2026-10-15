@@ -12,7 +12,7 @@ entry_into_force: 2022-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/02/2022041547/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2022. - Wet betreffende de tussenkomsten van de Staat tot dekking van bepaalde uitgesloten risico's in schuldsaldoverzekeringen afgesloten door militairen of burgers, ingeval van overlijden door de dienst

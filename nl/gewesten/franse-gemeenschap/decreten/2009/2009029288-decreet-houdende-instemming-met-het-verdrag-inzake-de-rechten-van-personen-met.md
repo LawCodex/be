@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/26/2009029288/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Decreet houdende instemming met het Verdrag inzake de rechten van personen met een handicap en met het Facultatief Protocol bij het Verdrag inzake de rechten van personen met een handicap, aangenomen te New York op 13 december 2006

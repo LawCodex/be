@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029173/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende toestemming in het Aanvullend Protocol tussen het Koninkrijk België en de Toezichthoudende Autoriteit van de Europese Vrijhandelsassociatie, gedaan te Brussel op 6 juli 2001 (VERTALING).

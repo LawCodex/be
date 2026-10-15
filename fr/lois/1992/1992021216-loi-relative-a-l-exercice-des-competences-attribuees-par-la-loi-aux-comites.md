@@ -12,7 +12,7 @@ entry_into_force: 1992-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/07/08/1992021216/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1992. - Loi relative à l'exercice des compétences attribuées par la loi aux Comités ministériels et aux Ministres.

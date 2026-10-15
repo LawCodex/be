@@ -13,7 +13,7 @@ entry_into_force: 2021-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021021327/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2021. - Décret portant assentiment à l'accord de coopération du 7 mai 2021 modifiant l'accord de coopération du 9 décembre 2011 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport

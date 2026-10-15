@@ -13,7 +13,7 @@ entry_into_force: 2006-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/22/2006202147/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2006. - Decreet tot wijziging van het decreet van 10 november 2004 tot invoering van een regeling voor de handel in broeikasgasemissierechten, tot oprichting van een "Fonds wallon Kyoto" (Waals Kyotofonds) en betreffende de flexibiliteitsmechanismen van het Protocol van Kyoto (VERTALING).

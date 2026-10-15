@@ -13,7 +13,7 @@ entry_into_force: 2018-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/03/2018031099/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2018. - Decreet houdende instemming met het samenwerkingsakkoord gesloten te Brussel op 28 april 2017 tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie betreffende het `Agence francophone pour l'éducation et la formation tout au long de la vie', afgekort `AEF-Europe'

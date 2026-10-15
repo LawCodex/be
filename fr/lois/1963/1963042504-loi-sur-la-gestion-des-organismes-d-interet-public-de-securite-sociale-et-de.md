@@ -13,7 +13,7 @@ last_amended: 2018-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/04/25/1963042504/justel"
 justel_note: "Consultation des versions antérieures à partir du 14-02-1981 et mise à jour au 26-09-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 1963. - Loi sur la gestion des organismes d'intérêt public de sécurité sociale et de prévoyance sociale

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/08/2013206603/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-12-2013 en tekstbijwerking tot 13-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2013. - Decreet houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector

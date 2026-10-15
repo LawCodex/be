@@ -13,7 +13,7 @@ last_amended: 2003-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1968/12/24/1968122422/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 31-12-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1968. - Wet tot voorlopige uitbreiding van de bevoegdheid van het gemeenschappelijk waarborgfonds, toegelaten bij het koninklijk besluit van 31 januari 1957.

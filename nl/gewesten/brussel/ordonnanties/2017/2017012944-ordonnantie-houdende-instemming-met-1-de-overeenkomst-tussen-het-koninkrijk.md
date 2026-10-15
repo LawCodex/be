@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017012944/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en met het Protocol, ondertekend te Brussel op 28 juni 1974, zoals gewijzigd door de Aanvullende Overeenkomst van 23 juni 1993 en het Protocol van 19 januari 2010; 2° de Aanvullende Overeenkomst, ondertekend te Brussel op 23 juni 1993, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en van het Protocol, ondertekend te Brussel op 28 juni 1974; 3° het Protocol, ondertekend te Brussel op 19 januari 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en van het Protocol, ondertekend te Brussel op 28 juni 1974, zoals gewijzigd door de Aanvullende Overeenkomst, ondertekend te Brussel op 23 juni 1993

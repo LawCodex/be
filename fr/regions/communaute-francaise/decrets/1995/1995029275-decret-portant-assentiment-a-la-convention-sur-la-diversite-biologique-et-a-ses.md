@@ -13,7 +13,7 @@ entry_into_force: 1995-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/27/1995029275/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1995. - Décret portant assentiment à la Convention sur la diversité biologique et à ses annexes I et II, faites à Rio de Janeiro, le 5 juin 1992.

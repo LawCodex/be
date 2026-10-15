@@ -13,7 +13,7 @@ entry_into_force: 2007-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/01/2006036993/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er DECEMBRE 2006. - Décret portant assentiment à l'accord de coopération du 1er juin 2006 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale, modifiant l'accord de coopération du 21 juin 1999 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses (TRADUCTION).

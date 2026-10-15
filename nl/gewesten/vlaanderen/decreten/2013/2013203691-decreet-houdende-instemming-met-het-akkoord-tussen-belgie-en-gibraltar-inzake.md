@@ -13,7 +13,7 @@ entry_into_force: 2013-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203691/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met het akkoord tussen België en Gibraltar inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Parijs op 16 december 2009

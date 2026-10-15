@@ -12,7 +12,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/08/17/2013015216/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AUGUSTUS 2013. - Wet houdende instemming met het Verdrag betreffende maritieme arbeid, aangenomen te Genève op 23 februari 2006 door de Internationale Arbeidsconferentie tijdens haar 94ste zitting

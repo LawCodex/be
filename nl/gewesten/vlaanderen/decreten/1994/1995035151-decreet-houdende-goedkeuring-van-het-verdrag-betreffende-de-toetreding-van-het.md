@@ -13,7 +13,7 @@ entry_into_force: 1995-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/21/1995035151/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1994. - DECREET houdende goedkeuring van het Verdrag betreffende de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie en van de Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen met de erbij horende Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII en XIX, de Protocollen 1, 2, 3, 4, 5, 6, 7, 8, 9 en 10 en de Gemeenschappelijke Verklaringen 1, 2, 3, 4, 5, 6, 7, 8 en 9

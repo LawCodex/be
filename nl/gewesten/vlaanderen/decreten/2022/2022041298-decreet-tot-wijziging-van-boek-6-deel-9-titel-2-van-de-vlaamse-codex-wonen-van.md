@@ -13,7 +13,7 @@ entry_into_force: 2021-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/06/2022041298/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2022. - Decreet tot wijziging van boek 6, deel 9, titel 2, van de Vlaamse Codex Wonen van 2021, wat het gebruik van hernieuwbare energie door sociale huurders betreft, en tot wijziging van artikel 6.3/1, 6.16, 6.17 en 6.19 van dezelfde codex

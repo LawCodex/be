@@ -11,7 +11,7 @@ published: 1938-09-14
 entry_into_force: 1938-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1938/03/07/1938030750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 1938. - Loi approuvant les Conventions adoptées à Genève, le 24 octobre 1936, par la Conférence internationale du Travail, au cours de ses 21e et 22e sessions.

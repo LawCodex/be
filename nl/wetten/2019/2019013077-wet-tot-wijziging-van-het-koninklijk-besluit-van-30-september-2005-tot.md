@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/08/2019013077/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2019. - Wet tot wijziging van het koninklijk besluit van 30 september 2005 tot aanwijzing van de overtredingen per graad van de algemene reglementen genomen ter uitvoering van de wet betreffende de politie over het wegverkeer, wat betreft het niet opnieuw rechts invoegen na het inhalen

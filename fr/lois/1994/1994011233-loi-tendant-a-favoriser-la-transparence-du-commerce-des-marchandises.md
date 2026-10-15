@@ -12,7 +12,7 @@ entry_into_force: 1994-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/29/1994011233/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 1994. - Loi tendant à favoriser la transparence du commerce des marchandises originaires d'un pays non membre de l'Union européenne.

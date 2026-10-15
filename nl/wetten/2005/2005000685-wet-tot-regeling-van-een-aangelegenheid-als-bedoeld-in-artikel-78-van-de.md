@@ -10,7 +10,7 @@ date: 2005-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/19/2005000685/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2005. - Wet tot regeling van een aangelegenheid als bedoeld in artikel 78 van de Grondwet.

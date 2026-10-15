@@ -13,7 +13,7 @@ entry_into_force: 2016-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/07/20/2016031600/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Ordonnance modifiant la Nouvelle loi communale afin d'appliquer aux conseillers communaux le même régime que celui des bourgmestres et échevins en matière de somme de traitements

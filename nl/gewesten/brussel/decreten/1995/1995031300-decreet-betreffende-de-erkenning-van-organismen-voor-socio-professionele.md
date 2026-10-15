@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/27/1995031300/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "art. 2 EN 8 gewijzigd met ingang op een onbepaalde datum bij DEC 2016-04-28/21 , art. 33; Inwerkingtreding : onbepaald "
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1995. - Decreet betreffende de erkenning van organismen voor socio-professionele inschakeling en de subsidiëring van hun beroepsopleidingsactiviteiten voor werklozen en laag geschoolde werkzoekenden gericht op het vergroten van hun kans op het vinden of terugvinden van werk in het raam van gecoördineerde voorzieningen voor socio-professionele inschakeling. (VERTALING)

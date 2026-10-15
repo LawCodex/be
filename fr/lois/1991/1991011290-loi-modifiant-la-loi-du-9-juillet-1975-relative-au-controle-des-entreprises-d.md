@@ -12,7 +12,7 @@ entry_into_force: 1991-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/19/1991011290/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1991. - Loi modifiant la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances et fixant certaines dispositions relatives au fonctionnement de l'Office de Contrôle des Assurances.

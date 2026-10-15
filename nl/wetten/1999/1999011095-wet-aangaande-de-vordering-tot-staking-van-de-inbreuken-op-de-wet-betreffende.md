@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/1999011095/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-1999 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - [Wet aangaande de vordering tot staking van de inbreuken op de wet betreffende de bescherming van de consumenten inzake overeenkomsten betreffende het gebruik van goederen in deeltijd, vakantieproducten van lange duur, doorverkoop en uitwisseling] &lt;W 2011-08-13/18 , art. 2, 002; Inwerkingtreding : 26-09-2011&gt;

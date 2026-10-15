@@ -16,7 +16,7 @@ department: "Kanselarij van de Eerste Minister"
 justel_notes:
   - "Voor een opdracht of een concessie waarvan de geraamde waarde gelijk is aan of hoger is dan de drempels voor de Europese bekendmaking, moet rekening worden gehouden, wat de datum van bekendmaking betreft, met de datum van bekendmaking in het Bulletin der Aanbestedingen."
   - "Raadpleging van vroegere versies vanaf 21-06-2013 en tekstbijwerking tot 20-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2013. - Wet betreffende de motivering, de informatie en de rechtsmiddelen inzake [overheidsopdrachten, bepaalde opdrachten voor werken, leveringen en diensten en concessies]. (Opschrift gewijzigd door W 2017-02-16/19 , art. 2, 003; Inwerkingtreding : 30-06-2017)

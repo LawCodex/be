@@ -13,7 +13,7 @@ entry_into_force: 2015-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/17/2015036007/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune de Bruxelles-Capitale et la Commission communautaire française concernant les modalités de fonctionnement de l'Institut interfédéral de statistique, du conseil d'administration et des Comités scientifiques de l'Institut des comptes nationaux

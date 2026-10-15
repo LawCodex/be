@@ -13,7 +13,7 @@ entry_into_force: 2021-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/23/2021204651/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2021. - Décret portant assentiment à l'Accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Japon, d'autre part, fait à Tokyo le 17 juillet 2018

@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/22/2017031761/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1998. - Wet houdende sociale bepalingen. - Bekendmaking overeenkomstig artikel 224, § 3, van de geïndexeerde bedragen van de retributies

@@ -11,7 +11,7 @@ published: 2019-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/08/2019013078/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2019. - Wet tot wijziging van de op 16 maart 1968 gecoördineerde wet betreffende de politie over het wegverkeer en tot wijziging van het Wetboek van Strafvordering

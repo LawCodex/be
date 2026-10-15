@@ -12,7 +12,7 @@ entry_into_force: 1997-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/16/1996021354/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1996. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap.

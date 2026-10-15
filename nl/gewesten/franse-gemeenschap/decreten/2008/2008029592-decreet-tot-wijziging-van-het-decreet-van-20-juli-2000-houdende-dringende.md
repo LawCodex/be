@@ -13,7 +13,7 @@ entry_into_force: 2008-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/10/24/2008029592/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2008. - Decreet tot wijziging van het decreet van 20 juli 2000 houdende dringende maatregelen inzake het hoger onderwijs en het wetenschappelijk onderzoek betreffende het " Fonds pour la Formation à la Recherche dans l'Industrie et dans l'Agriculture (FRIA) " (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2016-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/01/2016003418/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2016. - Wet houdende fiscale bepalingen

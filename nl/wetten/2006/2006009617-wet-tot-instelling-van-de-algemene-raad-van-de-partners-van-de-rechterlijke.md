@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/20/2006009617/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2006 en tekstbijwerking tot 14-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2006. - [Wet tot instelling van de Algemene Raad van de partners van de Rechterlijke Orde]&lt;Opschrift vervangen bij W 2014-05-08/02 , art. 132, 002; Inwerkingtreding : 01-07-2014&gt;

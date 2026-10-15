@@ -13,7 +13,7 @@ entry_into_force: 2021-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/14/2021033676/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2021. - Décret modifiant le décret du 18 janvier 2018 portant le code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse et le décret du 14 mars 2019 relatif à la prise en charge en centre communautaire des jeunes ayant fait l'objet d'un dessaisissement

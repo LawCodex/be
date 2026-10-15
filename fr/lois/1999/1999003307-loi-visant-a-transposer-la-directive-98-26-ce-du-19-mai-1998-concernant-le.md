@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/28/1999003307/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 01-06-1999 et mise à jour au 06-10-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 1999. - Loi visant à transposer la Directive 98/26/CE du 19 mai 1998 concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres.

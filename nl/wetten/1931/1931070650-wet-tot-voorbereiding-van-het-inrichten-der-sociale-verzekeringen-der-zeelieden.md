@@ -11,7 +11,7 @@ published: 1931-07-16
 entry_into_force: 1931-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1931/07/06/1931070650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1931. - Wet tot voorbereiding van het inrichten der sociale verzekeringen der zeelieden van allen rang der koopvaardij.

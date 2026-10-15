@@ -12,7 +12,7 @@ entry_into_force: 2014-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/22/2014015001/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2013. - Loi portant assentiment à l'Amendement à l'article 8 du Statut de Rome de la Cour pénale internationale, adopté à Kampala le 10 juin 2010 lors de la Conférence de révision du Statut de Rome

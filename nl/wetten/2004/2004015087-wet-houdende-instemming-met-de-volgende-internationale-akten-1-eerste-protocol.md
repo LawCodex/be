@@ -12,7 +12,7 @@ entry_into_force: 2004-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004015087/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet houdende instemming met de volgende Internationale Akten : 1° Eerste Protocol betreffende de uitlegging door het Hof van Justitie van de Europese Gemeenschappen van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, voor ondertekening opengesteld te Rome op 19 juni 1980, en Gemeenschappelijke Verklaringen; 2° Tweede Protocol waarbij aan het Hof van Justitie van de Europese Gemeenschappen bepaalde bevoegdheden worden toegekend inzake de uitlegging van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, voor ondertekening opengesteld te Rome op 19 juni 1980, gedaan te Brussel op 19 december 1988.

@@ -13,7 +13,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/25/2018200535/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2018. - Décret spécial modifiant le point B, visant l'élection du Parlement wallon, du tableau déterminant les circonscriptions électorales et leur composition, constituant l'annexe 1 du livre 1er des annexes à la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat

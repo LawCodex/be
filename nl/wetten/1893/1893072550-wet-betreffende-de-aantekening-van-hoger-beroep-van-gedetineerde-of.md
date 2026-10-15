@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1893/07/25/1893072550/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-02-2014 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1893. - [Wet betreffende de aantekening van [hoger] beroep van [gedetineerde] of geïnterneerde personen](Vertaling)&lt;Opschrift vervangen door W 2014-02-14/02 , art. 45, 002; Inwerkingtreding : 01-02-2015&gt; &lt;Opschrift gewijzigd door W 2016-12-25/14 , art. 33, 003; Inwerkingtreding : 09-01-2017

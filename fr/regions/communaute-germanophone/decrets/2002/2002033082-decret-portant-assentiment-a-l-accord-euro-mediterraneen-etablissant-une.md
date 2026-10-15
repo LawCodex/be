@@ -13,7 +13,7 @@ entry_into_force: 2002-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/24/2002033082/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2002. - Décret portant assentiment à l'Accord Euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République Arabe d'Egypte, d'autre part, ses Annexes I, II, III, IV, V et VI, ses Protocoles 1, 2, 3, 4 et 5 ainsi que l'acte final, faits à Luxembourg le 25 juin 2001 (TRADUCTION).

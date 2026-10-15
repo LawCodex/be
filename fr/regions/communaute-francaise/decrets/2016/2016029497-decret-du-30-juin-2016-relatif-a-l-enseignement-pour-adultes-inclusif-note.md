@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/30/2016029497/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-10-2016 et mise à jour au 18-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2016. - Décret du 30 juin 2016 relatif à l'Enseignement pour Adultes inclusif (NOTE Intitulé remplacé par ACF 2025-07-18/42 , art. 45, 006; En vigueur : 25-08-2025)

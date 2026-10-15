@@ -12,7 +12,7 @@ entry_into_force: 1994-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/07/1994012586/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1994. - Wet tot wijziging van de wet van 20 september 1948 houdende organisatie van het bedrijfsleven en van de wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers, alsmede van de salubriteit van het werk en van de werkplaatsen.

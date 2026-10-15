@@ -13,7 +13,7 @@ entry_into_force: 2010-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/06/11/2010035482/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2010. - Décret modifiant le décret du 28 juin 1985 relatif à l'autorisation écologique, pour ce qui est des mesures pour faire face à l'afflux des demandes d'autorisations écologiques

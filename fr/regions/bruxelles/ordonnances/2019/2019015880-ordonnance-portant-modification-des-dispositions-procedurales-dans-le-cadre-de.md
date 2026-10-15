@@ -13,7 +13,7 @@ entry_into_force: 2019-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/12/17/2019015880/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2019. - Ordonnance portant modification des dispositions procédurales dans le cadre de la reprise du service des taxes de circulation et portant dispositions diverses

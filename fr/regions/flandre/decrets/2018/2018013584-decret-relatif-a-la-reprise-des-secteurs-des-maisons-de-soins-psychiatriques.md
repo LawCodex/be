@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013584/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-09-2018 et mise à jour au 27-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Décret relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs

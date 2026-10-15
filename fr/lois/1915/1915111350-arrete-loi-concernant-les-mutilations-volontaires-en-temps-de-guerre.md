@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1915/11/13/1915111350/justel"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2003 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 1915. - Arrêté-loi concernant les mutilations volontaires en temps de guerre.

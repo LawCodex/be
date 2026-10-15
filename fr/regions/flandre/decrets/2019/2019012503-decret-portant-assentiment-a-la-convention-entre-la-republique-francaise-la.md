@@ -13,7 +13,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012503/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant assentiment à la Convention entre la République française, la Région flamande et la Région wallonne relative à l'aménagement de la Lys mitoyenne entre Deûlémont en France et Menin en Belgique, signée à Bruxelles le 19 novembre 2018

@@ -12,7 +12,7 @@ entry_into_force: 2010-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/25/2007015038/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2007. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Maurice concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 30 novembre 2005

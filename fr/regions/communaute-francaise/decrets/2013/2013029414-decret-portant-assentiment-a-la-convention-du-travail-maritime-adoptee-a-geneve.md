@@ -13,7 +13,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/04/2013029414/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2013. - Décret portant assentiment à la Convention du travail maritime, adoptée à Genève le 23 février 2006 par la Conférence générale de l'Organisation internationale du Travail

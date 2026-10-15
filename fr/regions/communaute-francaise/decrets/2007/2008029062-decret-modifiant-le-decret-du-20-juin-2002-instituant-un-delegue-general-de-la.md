@@ -13,7 +13,7 @@ entry_into_force: 2008-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2008029062/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - Décret modifiant le décret du 20 juin 2002 instituant un délégué général de la Communauté française aux droits de l'enfant en vue de renforcer l'indépendance et l'impartialité de ce dernier.

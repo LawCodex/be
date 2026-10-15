@@ -13,7 +13,7 @@ entry_into_force: 1998-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1998035093/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet houdende wijziging van artikel 42 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.

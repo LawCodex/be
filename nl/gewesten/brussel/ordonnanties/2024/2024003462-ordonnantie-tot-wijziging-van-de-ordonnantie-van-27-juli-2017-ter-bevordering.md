@@ -13,7 +13,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/04/04/2024003462/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2024. - Ordonnantie tot wijziging van de ordonnantie van 27 juli 2017 ter bevordering van onderzoek, ontwikkeling en innovatie door de toekenning van steun met economische finaliteit ten voordele van ondernemingen en onderzoeksorganisaties gelijkgesteld met ondernemingen en van de ordonnantie van 27 juli 2017 ter bevordering van onderzoek, ontwikkeling en innovatie door de toekenning van steun met niet-economische finaliteit ten voordele van non-profitorganisaties, onderzoeksorganisaties en ondernemingen

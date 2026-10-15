@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/28/2014202535/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-2014 en tekstbijwerking tot 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Decreet betreffende de preventie-, surveillance en bestrijding van ziekten bij in het wild levende dieren (aangehaald als : het Wildedierenziektedecreet van 28 maart 2014)

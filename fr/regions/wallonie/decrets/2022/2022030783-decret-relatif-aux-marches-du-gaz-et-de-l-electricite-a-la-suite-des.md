@@ -13,7 +13,7 @@ entry_into_force: 2022-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/03/2022030783/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2022. - Décret relatif aux marchés du gaz et de l'électricité à la suite des inondations du mois de juillet 2021

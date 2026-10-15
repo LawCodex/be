@@ -12,7 +12,7 @@ published: 2008-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/23/2007037155/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2007. - Decreet houdende invoering van een bijzonder vast recht voor minnelijke ontbinding of vernietiging van koopovereenkomsten.

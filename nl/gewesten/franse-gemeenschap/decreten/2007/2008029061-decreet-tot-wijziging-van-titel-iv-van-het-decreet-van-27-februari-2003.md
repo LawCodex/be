@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2008029061/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet tot wijziging van titel IV van het decreet van 27 februari 2003 betreffende de radio-omroep en van de titels I en II van het decreet van 17 december 2003 betreffende de werkgelegenheid in de sociaal-culturele sectoren houdende diverse bepalingen (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2001-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/22/2001035017/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2000. - Decreet houdende wijziging van het decreet van 17 december 1997 houdende subsidiëring van provinciebesturen inzake het voeren van een jeugdwerkbeleid.

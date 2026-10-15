@@ -13,7 +13,7 @@ last_amended: 1996-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/04/16/1963041604/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 31-12-1996."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1963. - [Loi relative au contrôle de la S.A. Holding communal]. -

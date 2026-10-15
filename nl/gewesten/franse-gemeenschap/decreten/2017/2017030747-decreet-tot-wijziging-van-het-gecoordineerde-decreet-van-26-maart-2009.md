@@ -13,7 +13,7 @@ entry_into_force: 2017-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/06/2017030747/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2017. - Decreet tot wijziging van het gecoördineerde decreet van 26 maart 2009 betreffende de audiovisuele mediadiensten met het oog op de verlenging van de vergunningen voor de netwerkradio's en de onafhankelijke radio's

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/23/2005036660/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2005 en tekstbijwerking tot 16-10-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2005. - Decreet houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006.

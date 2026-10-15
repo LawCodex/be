@@ -11,7 +11,7 @@ published: 1978-10-06
 entry_into_force: 1978-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/02/08/1978020829/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 1978. \_ Loi portant approbation de la Convention internationale des télécommunications, des Actes annexes et du Protocole additionnel facultatif relatif au règlement obligatoire des différends, faits à Malaga-Torremolinos, le 25 octobre 1973.

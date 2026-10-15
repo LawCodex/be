@@ -13,7 +13,7 @@ entry_into_force: 1997-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/01/1998029086/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 1997. - Decreet houdende toestemming in het samenwerkingsakkoord van 25 juli 1997 tussen de Franse Gemeenschap, de Vlaamse Gemeenschap en de Duitstalige Gemeenschap betreffende de heffing van het kijk- en luistergeld (VERTALING).

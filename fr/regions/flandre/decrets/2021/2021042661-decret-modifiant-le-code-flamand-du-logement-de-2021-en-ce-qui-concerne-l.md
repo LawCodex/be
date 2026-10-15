@@ -13,7 +13,7 @@ entry_into_force: 2021-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/16/2021042661/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2021. - Décret modifiant le Code flamand du Logement de 2021, en ce qui concerne l'ordonnance communale rendant obligatoire l'attestation de conformité

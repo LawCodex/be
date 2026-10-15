@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/27/2000001125/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 06-01-2001 en tekstbijwerking tot 31-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2000. - Wet houdende diverse bepalingen met betrekking tot de rechtspositie van het personeel van de politiediensten.

@@ -11,7 +11,7 @@ published: 1935-07-31
 entry_into_force: 1936-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1935/07/08/1935070801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1935. - Loi relative aux beurres, margarines, graisses préparées et autres matières grasses comestibles.

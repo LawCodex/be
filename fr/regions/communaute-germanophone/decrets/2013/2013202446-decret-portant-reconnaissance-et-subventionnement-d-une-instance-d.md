@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/25/2013202446/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 07-05-2013 et mise à jour au 02-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2013. - Décret portant reconnaissance et subventionnement d'une instance d'autorégulation de la déontologie journalistique

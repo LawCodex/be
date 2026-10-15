@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/02/2007035421/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2007 et mise à jour au 11-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2007. - Décret abrogeant le décret du 5 avril 1995 portant création du " Vlaamse Opera " et réglant la succession en droits (TRADUCTION)

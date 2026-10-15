@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/06/2022030908/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2022. - Loi modifiant la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral

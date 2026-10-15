@@ -13,7 +13,7 @@ entry_into_force: 2019-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/01/2019011142/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Decreet houdende instemming met het Protocol inzake de voorrechten en immuniteiten van het Eengemaakt Octrooigerecht, ondertekend te Brussel op 29 juni 2016

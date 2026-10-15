@@ -13,7 +13,7 @@ entry_into_force: 2016-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/10/2016029007/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2015. - Decreet tot instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, het Waalse Gewest, en de Franse Gemeenschapscommissie betreffende de "Service francophone des métiers et des qualifications (SFMQ)( Franstalige Dienst voor beroepen en kwalificaties)

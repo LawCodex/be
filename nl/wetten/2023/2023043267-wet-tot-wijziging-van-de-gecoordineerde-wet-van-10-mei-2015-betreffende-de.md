@@ -12,7 +12,7 @@ entry_into_force: 2023-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/28/2023043267/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2023. - Wet tot wijziging van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen, voor wat betreft de aanbodsbeheersing

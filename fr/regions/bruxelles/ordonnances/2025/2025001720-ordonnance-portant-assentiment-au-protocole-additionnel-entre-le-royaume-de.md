@@ -13,7 +13,7 @@ entry_into_force: 2025-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/02/19/2025001720/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2025. - Ordonnance portant assentiment au protocole additionnel entre le Royaume de Belgique et l'Association européenne de libre-échange, fait à Bruxelles le 24 novembre 2022

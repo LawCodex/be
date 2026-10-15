@@ -10,7 +10,7 @@ date: 1994-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/07/1994012645/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1994. - Wet tot wijziging van hoofdstuk IV van titel IX van de wet van 30 maart 1994 houdende sociale bepalingen.

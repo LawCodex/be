@@ -12,7 +12,7 @@ entry_into_force: 2003-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/14/2003003067/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2003. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat en van de Staatsdienst met afzonderlijk beheer " Muntfonds " van het jaar 1999.

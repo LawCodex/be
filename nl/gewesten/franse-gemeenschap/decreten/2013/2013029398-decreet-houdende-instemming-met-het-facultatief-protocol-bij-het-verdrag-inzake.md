@@ -13,7 +13,7 @@ entry_into_force: 2013-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/06/2013029398/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2013. - Decreet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de Rechten van het Kind inzake een mededelingsprocedure, aangenomen in New York op 19 december 2011

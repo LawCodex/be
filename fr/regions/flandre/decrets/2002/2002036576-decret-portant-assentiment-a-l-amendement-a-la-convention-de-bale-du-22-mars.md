@@ -13,7 +13,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/06/2002036576/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2002. - Décret portant assentiment à l'amendement à la Convention de Bâle du 22 mars 1989 sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination, adopté à la troisième réunion de la Conférence des Parties à Genève le 22 septembre 1995 (TRADUCTION).

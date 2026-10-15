@@ -12,7 +12,7 @@ entry_into_force: 1997-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/20/1997021156/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1997. - Wijziging aan de Grondwet.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/02/04/2018030424/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-02-2018 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2018. - Wet houdende de opdrachten en de samenstelling van het Centraal Orgaan voor de Inbeslagneming en de Verbeurdverklaring (genoemd "COIV-wet")

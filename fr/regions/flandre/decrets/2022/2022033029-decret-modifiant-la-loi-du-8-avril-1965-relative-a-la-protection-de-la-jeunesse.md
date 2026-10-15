@@ -13,7 +13,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022033029/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret modifiant la loi du 8 avril 1965 relative à la protection de la jeunesse, le décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse et le décret du 15 février 2019 sur le droit en matière de délinquance juvénile en vue de l'entrée en vigueur de l'orientation en milieu fermé et de l'encadrement en milieu fermé dans les institutions communautaires

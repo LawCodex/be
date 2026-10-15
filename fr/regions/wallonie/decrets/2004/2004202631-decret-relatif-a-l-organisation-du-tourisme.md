@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "Les articles 19, 24, 25, 30, 35 et 46 sont modifiés et art. 65bis et 65ter sont insérés avec effet à une date indéterminée par DRW 2005-07-20/66 , art. 28 à 35, 002; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 06-09-2005 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret relatif à l'organisation du tourisme.

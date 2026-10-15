@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/12/18/1992036312/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-05-1993 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1992. - Décret contenant des mesures d'accompagnement du budget 1993. (TRADUCTION)

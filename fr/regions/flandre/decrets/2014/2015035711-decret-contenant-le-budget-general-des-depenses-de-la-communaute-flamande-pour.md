@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/19/2015035711/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-07-2015 et mise à jour au 28-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2014. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2015

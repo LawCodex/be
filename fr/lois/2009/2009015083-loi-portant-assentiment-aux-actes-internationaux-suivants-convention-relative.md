@@ -12,7 +12,7 @@ entry_into_force: 2009-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/13/2009015083/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2009. - Loi portant assentiment aux Actes internationaux suivants : -Convention relative aux droits des personnes handicapées, -Protocole facultatif se rapportant à la Convention relative aux droits des personnes handicapées, adoptés à New York le 13 décembre 2006

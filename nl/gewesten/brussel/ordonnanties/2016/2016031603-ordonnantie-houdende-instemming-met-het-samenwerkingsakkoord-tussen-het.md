@@ -12,7 +12,7 @@ entry_into_force: 2016-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/07/20/2016031603/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie betreffende de terbeschikkingstelling van voorzieningen in het kader van de herziening van het kwalificerend onderwijs en de samenwerking tussen de centra voor gevorderde technologieën en de beroepsreferentiecentra

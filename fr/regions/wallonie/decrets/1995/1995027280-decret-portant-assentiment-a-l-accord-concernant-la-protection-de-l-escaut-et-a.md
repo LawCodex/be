@@ -13,7 +13,7 @@ entry_into_force: 1995-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027280/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret portant assentiment à l'accord concernant la protection de l'Escaut et à l'accord concernant la protection de la Meuse, faits à Charleville-Mézières le 26 avril 1994.

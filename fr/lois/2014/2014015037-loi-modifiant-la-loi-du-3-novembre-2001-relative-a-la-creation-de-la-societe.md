@@ -12,7 +12,7 @@ entry_into_force: 2014-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/20/2014015037/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2014. - Loi modifiant la loi du 3 novembre 2001 relative à la création de la Société belge d'Investissement pour les pays en développement et modifiant la loi du 21 décembre 1998 portant création de la "Coopération technique belge" sous la forme d'une société de droit public

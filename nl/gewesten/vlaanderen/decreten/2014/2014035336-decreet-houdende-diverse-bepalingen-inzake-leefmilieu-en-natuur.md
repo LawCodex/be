@@ -13,7 +13,7 @@ entry_into_force: 2014-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/28/2014035336/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Decreet houdende diverse bepalingen inzake leefmilieu en natuur

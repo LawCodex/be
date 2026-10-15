@@ -12,7 +12,7 @@ entry_into_force: 2009-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/17/2009003129/justel"
 department: "Financiën - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2009. - Wet houdende goedkeuring van de Resoluties 63-2 en 63-3 van de Raad van Gouverneurs van het Internationaal Monetair Fonds betreffende de amendering van de statuten van het Internationaal Monetair Fonds

@@ -13,7 +13,7 @@ entry_into_force: 2024-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/06/2024011305/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2024. - Décret modifiant l'article 6 du décret du 22 décembre 2017 sur l'administration locale, en ce qui concerne un acte rectificatif à la suite d'un arrêt modifiant le résultat de l'élection

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/01/1994036563/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-09-2004 et mise à jour au 20-09-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 1993. - Décret portant agrément et subventionnement de la Fondation pour le sport scolaire flamand (TRADUCTION).

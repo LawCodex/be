@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/05/2023043429/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2023 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2023. - Décret relatif au soutien à l'apprentissage

@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013313/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Décret modifiant le décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres d'encadrement des élèves subventionnés, le décret du 25 février 1997 relatif à l'enseignement fondamental et le Code de l'Enseignement secondaire du 17 décembre 2010, en ce qui concerne des mesures pour élèves à besoins éducatifs spécifiques

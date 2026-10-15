@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/11/10/2006023306/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2006 en tekstbijwerking tot 03-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2006. - [Wet betreffende de openingsuren] (Opschrift vervangen door &lt;W 2026-07-20/04 , art. 2; Inwerkingtreding : 13-08-2026&gt;)

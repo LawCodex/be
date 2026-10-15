@@ -17,7 +17,7 @@ department: "Brussels Hoofdstedelijk Gewest"
 justel_notes:
   - "bij arrest nr. van 16-01-2025 ( 2025-01-16/12 , B.St. 07-02-2025, p. 24641), heeft het Grondwettelijk Hof deze Ordonnantie vernietigd. - Het Hof handhaaft de gevolgen van de vernietigde ordonnantie."
   - "Raadpleging van vroegere versies vanaf 11-10-2023 en tekstbijwerking tot 07-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OKTOBER 2023. - Ordonnantie tot instelling van een specifieke behandelingsprocedure van een stedenbouwkundige vergunningsaanvraag voor de ontmanteling van het interieur van het Zuidpaleis en voor de wijziging van de vergunning die op 24 mei 2019 door de gemachtigde ambtenaar van het Brussels Hoofdstedelijk Gewest aan de Maatschappij voor het Intercommunaal Vervoer te Brussel werd afgeleverd

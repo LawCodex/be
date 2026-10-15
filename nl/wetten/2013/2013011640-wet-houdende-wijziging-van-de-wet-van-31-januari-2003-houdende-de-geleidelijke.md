@@ -12,7 +12,7 @@ entry_into_force: 2014-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/18/2013011640/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2013. - Wet houdende wijziging van de wet van 31 januari 2003 houdende de geleidelijke uitstap uit kernenergie voor industriële elektriciteitsproductie en houdende wijziging van de wet van 11 april 2003 betreffende de voorzieningen aangelegd voor de ontmanteling van de kerncentrales en voor het beheer van splijtstoffen bestraald in deze kerncentrales

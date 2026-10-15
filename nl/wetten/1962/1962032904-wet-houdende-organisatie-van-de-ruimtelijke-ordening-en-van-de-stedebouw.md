@@ -15,7 +15,7 @@ justel_notes:
   - "Voor het Waalse Gewest worden de art. 1 t/m 69, 70bis en 73 t/m 76 gecodificeerd in het WWROS 1984-05-14/35, art. 1 t/m 78 en 148 t/m 150"
   - "voor de Vlaamse Gemeenschap werd deze wet vervangen bij DVR 1996-10-22/40."
   - "de meeste beschikkingen van deze wet zijn niet langer van toepassing op het Brussels Hoofdstedelijk Gewest; zie ORD 1991-08-29/31, art. 195, Inwerkingtreding : onbepaald , uiterlijk op 01-07-1992; ORD 2002-07-18/37, art. 63, Inwerkingtreding : 07-08-2002; ORD 2004-05-13/31, art. 33, Inwerkingtreding : 05-06-2004. Krachtens BWRO 2004-04-09/35, art. 315, Inwerkingtreding : 05-06-2004, is de hele wet met uitzondering van art. 70 niet langer van toepassing op het Brussels Hoofdstedelijk Gewest."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 1962. - Wet houdende organisatie van de ruimtelijke ordening en van de stedebouw.

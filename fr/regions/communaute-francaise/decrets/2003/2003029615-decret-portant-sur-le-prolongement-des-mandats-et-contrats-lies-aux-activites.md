@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/17/2003029615/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2003 et mise à jour au 01-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2003. - [Décret portant sur le prolongement des mandats et contrats liés aux activités de recherche suite à un repos pré et postnatal.] &lt;Intitulé modifié par DCFR 2012-07-12/18 , art. 63, 002; En vigueur : 11-08-2012&gt;

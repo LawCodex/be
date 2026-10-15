@@ -12,7 +12,7 @@ entry_into_force: 2005-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/01/2005000438/justel"
 department: "Agence Fédérale de Contrôle nucléaire"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2005. - Loi relative à l'application du Protocole additionnel du 22 septembre 1998 à l'Accord international du 5 avril 1973 pris en application de l'article III, paragraphes 1er et 4, du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaires.

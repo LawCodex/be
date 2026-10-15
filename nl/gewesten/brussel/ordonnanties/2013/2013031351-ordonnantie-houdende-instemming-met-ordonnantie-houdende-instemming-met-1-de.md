@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/05/02/2013031351/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2013. - Ordonnantie houdende instemming met : Ordonnantie houdende instemming met : 1° de Overeenkomst tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen, ondertekend te Brussel op 10 maart 1964, en gewijzigd door de Avenanten van 15 februari 1971, 8 februari 1999, 12 december 2008 en 7 juli 2009; 2° de Avenant, gedaan te Brussel op 7 juli 2009, bij de Overeenkomst tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen, ondertekend te Brussel op 10 maart 1964, en gewijzigd door de Avenanten van 15 februari 1971, 8 februari 1999 en 12 december 2008

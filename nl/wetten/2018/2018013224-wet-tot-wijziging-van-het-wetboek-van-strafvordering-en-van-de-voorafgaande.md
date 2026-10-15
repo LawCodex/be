@@ -12,7 +12,7 @@ entry_into_force: 2018-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/22/2018013224/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2018. - Wet tot wijziging van het Wetboek van strafvordering en van de voorafgaande titel van het Wetboek van strafvordering met het oog op het invoeren van de bijzondere opsporingsmethode burgerinfiltratie

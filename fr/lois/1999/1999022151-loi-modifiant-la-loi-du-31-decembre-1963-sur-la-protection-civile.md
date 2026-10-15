@@ -12,7 +12,7 @@ entry_into_force: 1999-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/28/1999022151/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1999. - Loi modifiant la loi du 31 décembre 1963 sur la protection civile.

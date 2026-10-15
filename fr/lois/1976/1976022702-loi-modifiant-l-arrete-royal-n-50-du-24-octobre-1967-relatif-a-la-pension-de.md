@@ -11,7 +11,7 @@ published: 1976-03-09
 entry_into_force: 1976-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/02/27/1976022702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 1976. - Loi modifiant l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés.

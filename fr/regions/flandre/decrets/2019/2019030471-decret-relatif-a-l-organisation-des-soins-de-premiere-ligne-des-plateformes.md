@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019030471/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-05-2019 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret relatif à l'organisation des soins de première ligne, des plateformes régionales de soins, et du soutien des prestataires de soins de première ligne

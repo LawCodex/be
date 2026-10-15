@@ -10,7 +10,7 @@ date: 2007-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/11/08/2007012719/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2007. - Wet tot bepaling van de drempel van toepassing voor de instelling van de ondernemingsraden of de vernieuwing van hun leden ter gelegenheid van de sociale verkiezingen van het jaar 2008

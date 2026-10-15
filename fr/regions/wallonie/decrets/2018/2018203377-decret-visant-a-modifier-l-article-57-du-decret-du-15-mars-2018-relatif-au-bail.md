@@ -13,7 +13,7 @@ entry_into_force: 2018-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/21/2018203377/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2018. - Décret visant à modifier l'article 57 du décret du 15 mars 2018 relatif au bail d'habitation en vue de supprimer la formule d'indexation de loyers applicable aux baux à résidence principale en cours au 1er avril 2016

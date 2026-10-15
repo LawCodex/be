@@ -12,7 +12,7 @@ published: 2022-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/24/2022015166/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2022. - Decreet over de relancemaatregelen in het onderwijs

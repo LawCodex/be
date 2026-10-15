@@ -11,7 +11,7 @@ date: 2011-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/27/2011204402/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2011. - Decreet houdende maatregelen inzake onderwijs en opleiding 2011

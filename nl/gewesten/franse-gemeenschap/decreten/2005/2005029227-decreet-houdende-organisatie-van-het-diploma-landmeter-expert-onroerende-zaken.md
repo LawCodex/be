@@ -12,7 +12,7 @@ published: 2005-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005029227/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende organisatie van het diploma landmeter-expert onroerende zaken zoals uitgereikt door de inrichtingen voor hoger onderwijs van het korte type voor sociale promotie (VERTALING).

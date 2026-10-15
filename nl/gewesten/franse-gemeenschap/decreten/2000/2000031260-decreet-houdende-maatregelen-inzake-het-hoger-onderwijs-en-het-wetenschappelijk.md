@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/20/2000031260/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-08-2000 en tekstbijwerking tot 25-03-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2000. - Decreet houdende [...] maatregelen inzake het hoger onderwijs en het wetenschappelijk onderzoek (VERTALING) &lt;DFG 2011-06-23/12 , art. 1, 007; Inwerkingtreding : 19-08-2011&gt;

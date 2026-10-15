@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/16/2003003343/justel"
 department: "Budget et Contrôle de la gestion - Finances"
 justel_note: "Consultation des versions antérieures à partir du 25-06-2003 et mise à jour au 16-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2003. - Loi fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes.

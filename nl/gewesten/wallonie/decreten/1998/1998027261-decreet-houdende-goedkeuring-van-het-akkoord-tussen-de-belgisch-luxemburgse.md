@@ -13,7 +13,7 @@ entry_into_force: 1998-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/09/1998027261/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 1998. - Decreet houdende goedkeuring van het Akkoord tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Cyprus inzake de wederzijdse bevordering en bescherming van investeringen en de briefwisseling, opgemaakt te Nicosia op 26 februari 1991.

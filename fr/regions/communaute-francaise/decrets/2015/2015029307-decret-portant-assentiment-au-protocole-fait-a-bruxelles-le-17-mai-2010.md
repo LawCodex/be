@@ -13,7 +13,7 @@ entry_into_force: 2015-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/25/2015029307/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2015. - Décret portant assentiment au Protocole, fait à Bruxelles le 17 mai 2010, modifiant la Convention entre le Royaume de Belgique et la République du Rwanda tendant à éviter la double imposition et à prévenir la fraude et l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Kigali le 16 avril 2007

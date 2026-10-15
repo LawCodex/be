@@ -12,7 +12,7 @@ entry_into_force: 2014-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/26/2013015214/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2013. - Loi portant assentiment à l'Accord-cadre global de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République socialiste du Viêt Nam, d'autre part, fait à Bruxelles le 27 juin 2012

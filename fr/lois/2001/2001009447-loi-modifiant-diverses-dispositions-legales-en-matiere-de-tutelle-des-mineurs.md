@@ -12,7 +12,7 @@ entry_into_force: 2001-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/04/29/2001009447/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2001. - Loi modifiant diverses dispositions légales en matière de tutelle des mineurs.

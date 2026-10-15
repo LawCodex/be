@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/10/27/2006037062/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-01-2007 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2006. - Décret relatif à l'assainissement du sol et à la protection du sol (cité comme : Décret relatif au sol du 27 octobre 2006) (TRADUCTION)

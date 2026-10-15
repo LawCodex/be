@@ -11,7 +11,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/12/2014009398/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2014. - Wet tot wijziging van titel XIII, hoofdstuk VI, van de programmawet (I) van 24 december 2002 wat de voogdij over niet-begeleide minderjarige vreemdelingen betreft

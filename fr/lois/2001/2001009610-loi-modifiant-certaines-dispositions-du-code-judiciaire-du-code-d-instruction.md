@@ -12,7 +12,7 @@ entry_into_force: 2001-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/10/2001009610/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2001. - Loi modifiant certaines dispositions du Code judiciaire, du Code d'instruction criminelle et du Code des droits d'enregistrement, d'hypothèque et de greffe, en ce qui concerne le dessaisissement et la récusation.

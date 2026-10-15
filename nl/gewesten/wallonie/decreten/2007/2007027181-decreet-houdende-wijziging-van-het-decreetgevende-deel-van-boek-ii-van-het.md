@@ -13,7 +13,7 @@ entry_into_force: 2007-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/07/2007027181/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2007. - Decreet houdende wijziging van het decreetgevende deel van Boek II van het Milieuwetboek (VERTALING).

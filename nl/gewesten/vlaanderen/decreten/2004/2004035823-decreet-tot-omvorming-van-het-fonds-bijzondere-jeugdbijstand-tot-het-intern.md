@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035823/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-06-2004 en tekstbijwerking tot 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet tot omvorming van het " Fonds Bijzondere Jeugdbijstand " tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid " Fonds Jongerenwelzijn " en tot wijziging van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990.

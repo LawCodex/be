@@ -12,7 +12,7 @@ entry_into_force: 2020-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/12/2020202545/justel"
 department: "Emploi, Travail et Concertation sociale - Sécurité sociale - Justice - Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2020. - Loi relative au travail dans la pêche

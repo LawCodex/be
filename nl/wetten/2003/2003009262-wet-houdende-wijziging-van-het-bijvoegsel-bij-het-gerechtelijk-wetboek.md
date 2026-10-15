@@ -12,7 +12,7 @@ entry_into_force: 2003-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/11/2003009262/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2003. - Wet houdende wijziging van het bijvoegsel bij het Gerechtelijk Wetboek. - Gebiedsomschrijving en zetel van hoven en rechtbanken.

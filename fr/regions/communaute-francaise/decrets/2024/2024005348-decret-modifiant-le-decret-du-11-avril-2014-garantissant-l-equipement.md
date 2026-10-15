@@ -13,7 +13,7 @@ entry_into_force: 2024-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/18/2024005348/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Décret modifiant le décret du 11 avril 2014 garantissant l'équipement pédagogique de l'enseignement qualifiant et fixant l'organisation des centres de technologies avancées

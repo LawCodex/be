@@ -12,7 +12,7 @@ entry_into_force: 1985-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/07/15/1985011232/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1985. - Loi portant modification de la loi du 24 mai 1854 sur les brevets d'invention et la loi du 30 décembre 1925 portant modification des lois relatives aux brevets d'invention, aux marques de fabrique et de commerce, aux dessins et modèles industriels et à la propriété industrielle en général.

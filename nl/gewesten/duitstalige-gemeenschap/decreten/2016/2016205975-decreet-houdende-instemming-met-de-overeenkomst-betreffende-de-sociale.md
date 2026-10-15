@@ -13,7 +13,7 @@ entry_into_force: 2016-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/07/2016205975/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2016. - Decreet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Staat Israël, gedaan te Jeruzalem op 24 maart 2014

@@ -12,7 +12,7 @@ entry_into_force: 2007-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/27/2007002124/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Franse Gemeenschap en het Waals Gewest betreffende het administratieve en financiële beheer van de provinciale coördinaties voor de gelijkheid van vrouwen en mannen.

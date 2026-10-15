@@ -13,7 +13,7 @@ entry_into_force: 2023-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/07/06/2023045579/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2023. - Ordonnance modifiant le Code des droits de succession et le Code des droits d'enregistrement, d'hypothèque et de greffe en vue d'adapter le droit fiscal bruxellois aux nouvelles structures familiales et de faciliter les transmissions entre générations

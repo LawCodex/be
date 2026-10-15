@@ -13,7 +13,7 @@ entry_into_force: 2003-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2003027232/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende goedkeuring, wat de van de Franse Gemeenschap overgehevelde aangelegenheden betreft, van het Samenwerkingsverdrag tussen het Waalse Gewest, de Franse Gemeenschap van België en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, enerzijds, en het Koninkrijk der Nederlanden, anderzijds, opgemaakt te Charleroi op 28 maart 2002 (VERTALING).HI:??2,Zitting 2002-2003. Stukken van de Raad 454 (2002-2003) nrs. 1 en 2. Volledig verslag, openbare vergadering van 2 april 2003. Bespreking - Stemming.

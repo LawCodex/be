@@ -12,7 +12,7 @@ published: 2019-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/06/2018032453/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2018. - Ordonnantie tot wijziging van de ordonnantie van 7 november 2002 betreffende de centra en diensten voor bijstand aan personen

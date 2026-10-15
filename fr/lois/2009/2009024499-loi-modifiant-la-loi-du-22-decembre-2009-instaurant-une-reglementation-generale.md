@@ -12,7 +12,7 @@ entry_into_force: 2010-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009024499/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2009. - Loi modifiant la loi du 22 décembre 2009 instaurant une réglementation générale relative à l'interdiction de fumer dans les lieux fermés accessibles au public et à la proctection des travailleurs contre la fumée du tabac

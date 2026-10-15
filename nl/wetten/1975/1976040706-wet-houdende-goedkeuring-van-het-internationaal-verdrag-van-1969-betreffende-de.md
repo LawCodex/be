@@ -13,7 +13,7 @@ last_amended: 2014-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/04/07/1976040706/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-2014 en tekstbijwerking tot 17-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1975. - Wet houdende goedkeuring van het Internationaal Verdrag van 1969 betreffende de meting van schepen, en van de Bijlagen, opgemaakt te Londen op 23 juni 1969

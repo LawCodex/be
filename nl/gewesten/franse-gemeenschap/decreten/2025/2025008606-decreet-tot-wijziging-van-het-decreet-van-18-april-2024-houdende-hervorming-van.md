@@ -12,7 +12,7 @@ entry_into_force: 2024-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/06/2025008606/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2025. - Decreet tot wijziging van het decreet van 18 april 2024 houdende hervorming van het bestuur van de "Office de la Naissance et de l'Enfance"

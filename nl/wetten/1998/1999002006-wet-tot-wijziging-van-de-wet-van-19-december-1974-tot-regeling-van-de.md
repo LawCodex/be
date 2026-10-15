@@ -12,7 +12,7 @@ entry_into_force: 1999-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/15/1999002006/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1998. - Wet tot wijziging van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en van de wet van 1 september 1980 betreffende de toekenning en de uitbetaling van een vakbondspremie aan sommige personeelsleden van de overheidssector en aan de in die sector tewerkgestelde werklozen.

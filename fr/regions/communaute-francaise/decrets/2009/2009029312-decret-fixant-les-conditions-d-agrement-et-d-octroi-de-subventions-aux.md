@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029312/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2009 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret fixant les conditions d'agrément et d'octroi de subventions aux organisations de jeunesse

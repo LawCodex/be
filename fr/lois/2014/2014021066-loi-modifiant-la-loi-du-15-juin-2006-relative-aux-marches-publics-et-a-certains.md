@@ -12,7 +12,7 @@ entry_into_force: 2014-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014021066/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi modifiant la loi du 15 juin 2006 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services et de la loi du 13 août 2011 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité

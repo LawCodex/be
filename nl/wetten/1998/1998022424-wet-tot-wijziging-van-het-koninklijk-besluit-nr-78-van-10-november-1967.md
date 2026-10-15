@@ -12,7 +12,7 @@ entry_into_force: 1998-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/04/16/1998022424/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1998. - Wet tot wijziging van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de geneeskunst, de verpleegkunde, de paramedische beroepen en de geneeskundige commissies.

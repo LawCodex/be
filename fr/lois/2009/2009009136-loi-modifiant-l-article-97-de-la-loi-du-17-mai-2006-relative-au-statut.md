@@ -12,7 +12,7 @@ entry_into_force: 2009-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/06/2009009136/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2009. - Loi modifiant l'article 97 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine.

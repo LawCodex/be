@@ -12,7 +12,7 @@ published: 2005-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/15/2005036025/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Decreet houdende de toevoeging van een derde lid aan artikel 157 en houdende wijziging van de artikelen 159 en 161 van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

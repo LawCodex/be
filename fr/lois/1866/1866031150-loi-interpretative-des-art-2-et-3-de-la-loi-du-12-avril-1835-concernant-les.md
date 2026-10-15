@@ -11,7 +11,7 @@ published: 1866-03-15
 entry_into_force: 1866-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1866/03/11/1866031150/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 1866. - LOI interprétative des art. 2 et 3 de la loi du 12 avril 1835 concernant les péages et les règlements de police sur les chemins de fer.

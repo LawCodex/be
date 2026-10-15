@@ -13,7 +13,7 @@ entry_into_force: 2017-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/20/2017206385/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2017. - Decreet houdende instemming met de Overeenkomst tot oprichting van de internationale EU-LAC-Stichting, gedaan te Santo Domingo op 25 oktober 2016

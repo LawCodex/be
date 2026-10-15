@@ -13,7 +13,7 @@ entry_into_force: 2021-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/25/2021021451/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2021. - Décret modifiant le décret du 20 décembre 2013 relatif aux Prix de la Culture de la Communauté flamande

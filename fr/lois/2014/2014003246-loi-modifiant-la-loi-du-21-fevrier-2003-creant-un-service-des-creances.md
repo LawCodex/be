@@ -12,7 +12,7 @@ entry_into_force: 2014-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014003246/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi modifiant la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances et le Code judiciaire, en vue d'assurer le recouvrement effectif des créances alimentaires

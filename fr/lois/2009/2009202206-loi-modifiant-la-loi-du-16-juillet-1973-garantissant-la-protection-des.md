@@ -12,7 +12,7 @@ entry_into_force: 2009-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/12/2009202206/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2009. - Loi modifiant la loi du 16 juillet 1973 garantissant la protection des tendances idéologiques et philosophiques

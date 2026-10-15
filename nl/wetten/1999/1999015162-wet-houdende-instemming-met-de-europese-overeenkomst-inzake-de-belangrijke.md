@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/05/1999015162/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Wet houdende instemming met de Europese Overeenkomst inzake de belangrijke internationale spoorlijnen (AGC), en Bijlagen I en II, gedaan te Genève op 31 mei 1985.

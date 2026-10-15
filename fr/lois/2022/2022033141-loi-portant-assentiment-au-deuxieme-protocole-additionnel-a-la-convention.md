@@ -12,7 +12,7 @@ entry_into_force: 2022-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/24/2022033141/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2022. - Loi portant assentiment au Deuxième Protocole additionnel à la Convention postale universelle de 2016, fait à Genève le 26 septembre 2019

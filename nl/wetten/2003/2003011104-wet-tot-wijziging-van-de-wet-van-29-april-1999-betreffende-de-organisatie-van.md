@@ -12,7 +12,7 @@ entry_into_force: 2003-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/14/2003011104/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2003. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt.

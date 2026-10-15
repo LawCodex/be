@@ -12,7 +12,7 @@ published: 2019-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019202443/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret spécial modifiant les articles 60 et 64 de la loi spéciale du 8 août 1980 de réformes institutionnelles en vue de garantir une présence équilibrée de femmes et d'hommes au sein du Gouvernement wallon

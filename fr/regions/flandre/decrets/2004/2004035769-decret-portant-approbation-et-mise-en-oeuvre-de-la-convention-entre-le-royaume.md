@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004035769/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-05-2004 et mise à jour au 03-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret portant approbation et mise en oeuvre de la convention entre le Royaume des Pays-Bas et la Communauté flamande de la Belgique concernant l'accréditation des formations au sein de l'enseignement supérieur néerlandais et flamand, signée à La Haye le 3 septembre 2003 (TRADUCTION)

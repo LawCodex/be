@@ -12,7 +12,7 @@ entry_into_force: 2023-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/23/2023047343/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2023. - Wet tot wijziging van de wet van 21 augustus 2008 houdende oprichting en organisatie van het ehealth-platform en diverse bepalingen en tot wijziging van de wet van 29 januari 2014 houdende bepalingen inzake de sociale identiteitskaart en de isi+-kaart

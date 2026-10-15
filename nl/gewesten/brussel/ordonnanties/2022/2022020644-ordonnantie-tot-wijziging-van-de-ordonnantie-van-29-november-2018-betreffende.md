@@ -13,7 +13,7 @@ entry_into_force: 2022-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/03/17/2022020644/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2022. - Ordonnantie tot wijziging van de ordonnantie van 29 november 2018 betreffende het delen van vrije vloot vervoersmodi die een alternatief zijn voor de auto

@@ -12,7 +12,7 @@ entry_into_force: 2002-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/27/2002003659/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2001. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat pour l'année 1996.

@@ -13,7 +13,7 @@ last_amended: 2001-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1924/05/08/1924050850/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 20-12-2001."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 1924. - Wet betreffende den handel in en het smelten van geldstukken. -

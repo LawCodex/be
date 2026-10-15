@@ -12,7 +12,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/09/2020200649/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2020. - Wet tot wijziging van de wet van 6 augustus 1931 houdende vaststelling van de onverenigbaarheden en ontzeggingen betreffende de ministers, gewezen ministers en ministers van Staat, alsmede de leden en gewezen leden van de wetgevende kamers, wat de uittredingsvergoeding van gewezen parlementsleden betreft

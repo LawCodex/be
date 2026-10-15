@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011779/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 15-04-2019 et mise à jour au 15-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Ordonnance relative à la politique de [ première ligne social santé ] &lt;DEC 2023-12-22/34 , art. 30, 002; En vigueur : 25-01-2024&gt; &lt;DEC 2024-01-25/07 , art. 30, 003; En vigueur : 15-02-2024&gt;

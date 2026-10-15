@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/25/2001033069/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 02-10-2001 et mise à jour au 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2001. - Décret [ 1 contenant] 1 des mesures spéciales quant aux fonctions d'enseignant et portant adaptation du statut pécuniaire (TRADUCTION). - ( 1 )&lt;DCG 2024-05-08/14 , art. 84, 006; En vigueur : 01-09-2024&gt;

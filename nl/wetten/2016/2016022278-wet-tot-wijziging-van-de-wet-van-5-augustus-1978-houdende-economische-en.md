@@ -12,7 +12,7 @@ entry_into_force: 2016-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/27/2016022278/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2016. - Wet tot wijziging van de wet van 5 augustus 1978 houdende economische en budgettaire hervormingen in verband met de ambtshalve opruststelling na dagen afwezigheid wegens ziekte

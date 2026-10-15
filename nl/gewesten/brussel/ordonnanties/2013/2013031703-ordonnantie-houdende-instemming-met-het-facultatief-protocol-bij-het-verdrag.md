@@ -11,7 +11,7 @@ date: 2013-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031703/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie houdende instemming met het Facultatief Protocol bij het Verdrag inzake de rechten van het kind inzake een mededelingsprocedure, aangenomen in New York op 19 december 2011 en ondertekend in Genève op 28 februari 2012

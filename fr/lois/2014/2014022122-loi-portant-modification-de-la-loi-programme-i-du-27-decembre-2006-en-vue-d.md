@@ -12,7 +12,7 @@ entry_into_force: 2014-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/26/2014022122/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2014. - Loi portant modification de la loi-programme (I) du 27 décembre 2006 en vue d'étendre les interventions du Fonds amiante

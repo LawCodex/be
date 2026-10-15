@@ -12,7 +12,7 @@ entry_into_force: 2003-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003003254/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi visant à modifier l'article 63bis du Code de la taxe sur la valeur ajoutée.

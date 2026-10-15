@@ -12,7 +12,7 @@ entry_into_force: 2004-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/07/2004000264/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Loi modifiant la loi du 10 avril 1990 sur les entreprises de gardiennage, les entreprises de sécurité et les services internes de gardiennage, la loi du 29 juillet 1934 interdisant les milices privées et la loi du 19 juillet 1991 organisant la profession de détective privé.

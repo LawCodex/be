@@ -12,7 +12,7 @@ entry_into_force: 1999-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/09/1999015012/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 1998. - Loi portant assentiment l'Accord de Partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Ouzbékistan, d'autre part, Annexes I, II, III, IV et V, Protocole, et Acte final, faits à Florence le 21 juin 1996.

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024004412/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le décret Reconnaissance des Communautés religieuses locales du 22 octobre 2021

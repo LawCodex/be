@@ -13,7 +13,7 @@ entry_into_force: 2012-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/19/2012201966/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2012. - Decreet houdende instemming met het statuut van het Internationaal Agentschap voor hernieuwbare energie, gedaan te Bonn op 26 januari 2009

@@ -13,7 +13,7 @@ last_amended: 2015-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1957/06/03/1957060301/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 14-11-2003 en tekstbijwerking tot 29-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1957. - Wet betreffende de polders.

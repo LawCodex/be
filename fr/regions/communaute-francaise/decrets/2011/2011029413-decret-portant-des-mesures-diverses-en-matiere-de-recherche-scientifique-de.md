@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/23/2011029413/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2011. - Décret portant des mesures diverses en matière de recherche scientifique, de bâtiments scolaires et de fonction publique

@@ -13,7 +13,7 @@ entry_into_force: 2023-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/24/2023031129/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2023. - Décret portant assentiment à l'accord de coopération du 30 novembre 2022 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Commission communautaire française, la Commission communautaire commune et la Communauté germanophone visant à instaurer un mécanisme de filtrage des investissements directs étrangers

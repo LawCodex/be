@@ -12,7 +12,7 @@ entry_into_force: 2019-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019012121/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2019. - Wet tot wijziging van artikel 25, § 1, van de wet van 27 april 2018 op de politie van de spoorwegen

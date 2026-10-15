@@ -12,7 +12,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024004620/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet betreffende de bijdrage van België aan het instrument vastgesteld bij Verordening (EU) 2022/2463 van het Europees Parlement en de Raad van 14 december 2022 tot vaststelling van een instrument voor toekenning van steun aan Oekraïne voor 2023 (macrofinanciële bijstand +).

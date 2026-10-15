@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012003296/justel"
 department: "Finances - Economie, PME, Classes moyennes et Energie - Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-10-2012 et mise à jour au 04-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - [Loi relative aux organismes de placement collectif qui répondent aux conditions de la Directive 2009/65/CE et aux organismes de placement en créances] &lt;Intitulé remplacé par L 2014-04-19/62 , art. 414, 005; En vigueur : 27-06-2014&gt; (NOTE 1 : art. 23 modifié avec effet à une date indéterminée par L 2013-07-11/19 , art. 99; En vigueur : indéterminée (plus applicable, voir art. 23))

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/04/25/2008029287/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-06-2008 en tekstbijwerking tot 19-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2008. - Decreet tot vaststelling van de voorwaarden om te kunnen voldoen aan de leerplicht buiten het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap (VERTALING)

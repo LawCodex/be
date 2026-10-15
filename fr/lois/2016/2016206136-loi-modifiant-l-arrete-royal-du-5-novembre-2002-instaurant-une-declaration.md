@@ -12,7 +12,7 @@ entry_into_force: 2016-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/01/2016206136/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2016. - Loi modifiant l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions

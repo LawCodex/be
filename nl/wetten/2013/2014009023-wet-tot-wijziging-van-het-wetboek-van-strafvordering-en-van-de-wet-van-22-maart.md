@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2014009023/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-01-2014 en tekstbijwerking tot 30-06-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet tot wijziging van het Wetboek van strafvordering en van de wet van 22 maart 1999 betreffende de identificatieprocedure via DNA-onderzoek in strafzaken, met het oog op de oprichting van een DNA-gegevensbank " Vermiste personen (1) "

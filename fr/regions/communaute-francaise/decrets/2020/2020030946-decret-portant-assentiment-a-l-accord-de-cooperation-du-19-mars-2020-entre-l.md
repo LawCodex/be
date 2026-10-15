@@ -13,7 +13,7 @@ entry_into_force: 2020-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/28/2020030946/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2020. - Décret portant assentiment à l'accord de coopération du 19 mars 2020 entre l'Etat fédéral, la Communauté flamande, la Communauté française et la Communauté germanophone relatif aux compétences des communautés et de l'Etat fédéral en matière du régime Tax Shelter pour les oeuvres audiovisuelles et les oeuvres scéniques et à l'échange d'informations

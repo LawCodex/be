@@ -12,7 +12,7 @@ entry_into_force: 2024-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/24/2024202097/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2024. - Loi modifiant les lois du 16 mars 1971 sur le travail et du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes en vue d'instituer une protection pour les travailleuses et travailleurs qui s'absentent du travail pour un traitement d'infertilité ou pour une procréation médicalement assistée

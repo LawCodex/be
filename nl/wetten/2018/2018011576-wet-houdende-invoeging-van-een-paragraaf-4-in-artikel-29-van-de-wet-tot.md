@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/21/2018011576/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2018. - Wet houdende invoeging van een paragraaf 4 in artikel 29 van de wet tot oprichting van Sciensano (II)

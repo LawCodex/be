@@ -12,7 +12,7 @@ entry_into_force: 2004-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/07/2004009427/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Wet tot wijziging van de wet van 8 april 1965 betreffende de jeugdbescherming en de nieuwe gemeentewet.

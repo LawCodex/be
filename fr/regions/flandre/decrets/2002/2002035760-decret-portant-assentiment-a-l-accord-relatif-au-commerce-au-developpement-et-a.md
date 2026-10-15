@@ -13,7 +13,7 @@ entry_into_force: 2002-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/03/2002035760/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2002. - Décret portant assentiment à l'accord relatif au commerce, au développement et à la coopération entre la Communauté européenne et ses Etats membres d'une part, et la République de l'Afrique du Sud d'autre part, aux Annexes Ire à X, aux Protocoles 1er et 2, et à l'Acte final, signés à Pretoria le 11 octobre 1999 (TRADUCTION).

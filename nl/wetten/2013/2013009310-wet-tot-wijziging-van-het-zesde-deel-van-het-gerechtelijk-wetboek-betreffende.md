@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/24/2013009310/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-06-2013 en tekstbijwerking tot 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2013. - Wet tot wijziging van het zesde deel van het Gerechtelijk Wetboek betreffende de arbitrage

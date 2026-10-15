@@ -13,7 +13,7 @@ entry_into_force: 2015-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/08/2015035617/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2015. - Décret modifiant le Décret sur les Arts du 13 décembre 2013

@@ -13,7 +13,7 @@ entry_into_force: 2022-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/03/17/2022020645/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2022. - Ordonnance supprimant l'organisme d'intérêt public Fonds pour le financement de la politique de l'eau

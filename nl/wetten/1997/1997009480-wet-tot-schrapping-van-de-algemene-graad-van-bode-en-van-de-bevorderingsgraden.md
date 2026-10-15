@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/20/1997009480/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1997. - Wet tot schrapping van de algemene graad van bode en van de bevorderingsgraden van eerstaanwezend bode, hoofdbode en eerstaanwezend hoofdbode in de griffies en de parketten bij de hoven en rechtbanken en tot wijziging van de voorwaarden om als vertaler bij het parket te worden benoemd.

@@ -12,7 +12,7 @@ entry_into_force: 2022-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/01/2022202054/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2022. - Loi abrogeant la loi du 16 mai 1938 portant réglementation de la durée du travail dans l'industrie diamantaire, modifiant le Code pénal social et abrogeant deux arrêtés relatifs au registre de présence dans l'industrie diamantaire

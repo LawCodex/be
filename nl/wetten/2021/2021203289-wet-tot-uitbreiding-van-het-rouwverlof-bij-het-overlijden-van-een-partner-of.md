@@ -12,7 +12,7 @@ entry_into_force: 2021-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/27/2021203289/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2021. - Wet tot uitbreiding van het rouwverlof bij het overlijden van een partner of een kind en tot het flexibiliseren van de opname van het rouwverlof

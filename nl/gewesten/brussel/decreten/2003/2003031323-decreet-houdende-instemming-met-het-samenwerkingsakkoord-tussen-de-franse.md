@@ -13,7 +13,7 @@ entry_into_force: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/16/2003031323/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2003. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest en de Republiek Bulgarije (VERTALING).

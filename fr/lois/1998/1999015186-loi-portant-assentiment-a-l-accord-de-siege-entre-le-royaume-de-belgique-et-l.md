@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/01/1999015186/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 1998. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'autorité de surveillance de l'Association Européenne de Libre Echange, signé à Bruxelles le 22 décembre 1994

@@ -13,7 +13,7 @@ entry_into_force: 2015-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/04/2014029806/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2014. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en Grenada inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 15 maart 2010 en 18 maart 2010

@@ -12,7 +12,7 @@ entry_into_force: 2014-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/17/2013011345/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - Loi portant insertion du Livre III " Liberté d'établissement, de prestation de service et obligations générales des entreprises ", dans le Code de droit économique et portant insertion des définitions propres au livre III et des dispositions d'application de la loi propres au livre III, dans les livres I et XV du Code de droit économique

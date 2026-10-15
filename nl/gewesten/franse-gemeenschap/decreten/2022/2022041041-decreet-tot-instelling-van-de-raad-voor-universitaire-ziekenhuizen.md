@@ -13,7 +13,7 @@ entry_into_force: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/28/2022041041/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Decreet tot instelling van de Raad voor Universitaire ziekenhuizen

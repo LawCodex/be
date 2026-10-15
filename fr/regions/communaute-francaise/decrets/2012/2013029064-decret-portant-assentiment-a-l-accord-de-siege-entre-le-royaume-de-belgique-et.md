@@ -13,7 +13,7 @@ entry_into_force: 2013-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/13/2013029064/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2012. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Organisation de la Conférence islamique, fait à Bruxelles le 4 février 2011

@@ -12,7 +12,7 @@ published: 2017-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/12/2017205397/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2017. - Gelet op het bijzonder decreet houdende wijziging van artikel 32, § 1, tweede lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, om de openingsvergadering van het Waals Parlement te vervroegen

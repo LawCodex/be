@@ -12,7 +12,7 @@ entry_into_force: 1989-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/18/1990021166/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1990. - Loi modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone.

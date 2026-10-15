@@ -12,7 +12,7 @@ entry_into_force: 2003-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/16/2003003061/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2003. - Loi contenant le troisième ajustement du Budget général des dépenses de l'année budgétaire 2002.

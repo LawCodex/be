@@ -12,7 +12,7 @@ entry_into_force: 1999-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/23/1999011093/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1999. - Loi complétant l'article 2 de la loi du 14 juillet 1998 portant obligation d'information quant aux taux d'intérêts débiteurs dus sur les comptes ouverts auprès des établissements de crédit ou d'autres personnes morales.

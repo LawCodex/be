@@ -12,7 +12,7 @@ entry_into_force: 2017-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/08/2017012718/justel"
 department: "Binnenlandse Zaken - Justitie - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2017. - Wet tot wijziging van de artikelen 52 en 53 van de programmawet van 25 december 2016

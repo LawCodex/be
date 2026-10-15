@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/02/27/2014031202/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Ordonnantie houdende instemming met : de Kaderovereenkomst inzake Partnerschap en Samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filippijnen, anderzijds, gedaan te Phnom Penh op 11 juli 2012

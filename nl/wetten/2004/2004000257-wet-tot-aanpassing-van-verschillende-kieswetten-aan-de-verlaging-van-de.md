@@ -12,7 +12,7 @@ entry_into_force: 2004-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004000257/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet tot aanpassing van verschillende kieswetten aan de verlaging van de verkiesbaarheidsleeftijd voor de Gewesten Gemeenschapsraden.

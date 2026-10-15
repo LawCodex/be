@@ -12,7 +12,7 @@ entry_into_force: 2017-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/03/2017020300/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2015. - Loi portant assentiment à la Convention établissant l'Institut international pour la démocratie et l'assistance électorale, et à l'Acte final, faits à Stockholm le 27 février 1995, tels qu'amendés le 24 janvier 2006

@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/16/1999027838/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1999. - Decreet tot wijziging van het decreet II van de Waalse Gewestraad van 22 juli 1993 betreffende de overheveling van sommige bevoegdheden van de Franse Gemeenschap naar het Waalse Gewest en de Franse Gemeenschapscommissie (VERTALING).

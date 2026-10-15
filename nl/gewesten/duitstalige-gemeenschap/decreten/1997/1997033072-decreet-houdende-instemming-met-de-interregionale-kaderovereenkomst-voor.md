@@ -11,7 +11,7 @@ date: 1997-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/30/1997033072/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1997. - Decreet houdende instemming met de interregionale kaderovereenkomst voor samenwerking tussen de europese gemeenschap en haar lid-Staten, enerzijds, en de mercado comun del sur en zijn deelnemende staten, anderzijds, de gezamelijke verklaring, de briefwisseling en het proces-verbaal van ondertekening, gedaan te Madrid op 15 december 1995 (VERTALING).

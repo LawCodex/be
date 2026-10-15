@@ -13,7 +13,7 @@ entry_into_force: 2015-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/22/2015200344/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2015. - Decreet houdende oprichting van de "Conseil wallon du bien-être des animaux" (Waalse Raad voor dierenwelzijn)

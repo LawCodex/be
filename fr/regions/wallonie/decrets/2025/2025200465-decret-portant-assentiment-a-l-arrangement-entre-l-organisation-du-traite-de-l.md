@@ -13,7 +13,7 @@ entry_into_force: 2025-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/01/16/2025200465/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2025. - Décret portant assentiment à l'Arrangement entre l'Organisation du Traité de l'Atlantique Nord et le Royaume de Belgique concernant le statut du personnel temporaire engagé par, et mis en fonction dans, un organisme OTAN situé sur le territoire du Royaume de Belgique, fait à Bruxelles le 7 février 2022

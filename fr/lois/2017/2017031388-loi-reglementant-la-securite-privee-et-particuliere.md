@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/02/2017031388/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 31-10-2017 et mise à jour au 30-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 OCTOBRE 2017. - Loi réglementant la sécurité privée et particulière

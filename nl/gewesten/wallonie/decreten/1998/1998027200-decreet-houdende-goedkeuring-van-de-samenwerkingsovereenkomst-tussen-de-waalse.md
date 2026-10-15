@@ -13,7 +13,7 @@ entry_into_force: 1998-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/19/1998027200/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 1998. - Decreet houdende goedkeuring van de Samenwerkingsovereenkomst tussen de Waalse Regering en de Regering van de Franse Gemeenschap van België, enerzijds, en de Regering van de Republiek Polen, anderzijds, met inbegrip van de uitleggende verklaringen, opgemaakt te Brussel op 10 oktober 1996 (VERTALING).

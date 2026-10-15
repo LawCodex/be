@@ -13,7 +13,7 @@ entry_into_force: 2020-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/25/2020015079/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2020. - Decreet tot wijziging van het decreet van 28 maart 2019 betreffende het nieuwe beheerskader inzake cultuur

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/18/1998002079/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1998. - Loi modifiant la loi du 8 août 1981 portant création de l'Institut national des invalides de guerre, anciens combattants et victimes de guerre, ainsi que du Conseil Supérieur des invalides de guerre, anciens combattants et victimes de guerre.

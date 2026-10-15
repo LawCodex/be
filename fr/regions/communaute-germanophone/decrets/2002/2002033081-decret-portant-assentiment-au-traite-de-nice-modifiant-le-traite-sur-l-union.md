@@ -13,7 +13,7 @@ entry_into_force: 2002-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/24/2002033081/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2002. - Décret portant assentiment au Traité de Nice modifiant le traité sur l'Union européenne, les traités instituant les Communautés européennes et certains actes connexes, ses Protocoles ainsi que l'Acte final, faits à Nice le 26 février 2001 (TRADUCTION).

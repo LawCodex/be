@@ -13,7 +13,7 @@ entry_into_force: 1993-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029343/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Europees Ruimte-Agentschap, opgemaakt in Parijs op 26 januari 1993 (VERTALING).

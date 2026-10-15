@@ -13,7 +13,7 @@ entry_into_force: 2025-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/04/03/2025201278/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2025. - Decreet houdende instemming met het samenwerkingsakkoord van 10 januari 2024 tussen de federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de toewijzing en de verdeling van het bedrag dat is vastgelegd in artikel 2 van de beslissing van het Comité van Ministers van de Belgisch-Luxemburgse Economische Unie (BLEU) van 14 december 2001, zoals gewijzigd bij de beslissing van het Comité van Ministers van de BLEU van 31 augustus 2021

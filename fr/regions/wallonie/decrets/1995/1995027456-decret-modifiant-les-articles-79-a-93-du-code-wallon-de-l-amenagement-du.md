@@ -13,7 +13,7 @@ entry_into_force: 1995-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/05/04/1995027456/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1995. - Décret modifiant les articles 79 à 93 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine relatif à la rénovation des sites wallons d'activité économique désaffectés.

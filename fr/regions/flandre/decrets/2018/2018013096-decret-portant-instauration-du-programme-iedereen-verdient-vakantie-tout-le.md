@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/29/2018013096/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-08-2018 et mise à jour au 29-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2018. - Décret portant instauration du programme " Iedereen verdient vakantie " (Tout le monde mérite des vacances) dans le tourisme social

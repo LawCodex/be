@@ -13,7 +13,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/17/1998061751/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 1998. - Décret contenant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 1998. (TRADUCTION)

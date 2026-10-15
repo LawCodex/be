@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/02/12/2009031090/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2009. - Ordonnance modifiant l'ordonnance du 12 novembre 1992 fixant le taux du précompte immobilier pour certaines sociétés de logement de la Région de Bruxelles-Capitale.

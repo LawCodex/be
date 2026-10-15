@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "Ce texte est abrogé par DRW 2004-05-27/63, art. 2, 2°, 003; En vigueur : indéterminée ; voir M.B. 09-07-2004, p. 54668"
   - "Consultation des versions antérieures à partir du 11-10-1991 et mise à jour au 09-07-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1991. - Décret concernant la liberté d'accès des citoyens à l'information relative à l'environnement.

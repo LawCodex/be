@@ -13,7 +13,7 @@ last_amended: 2024-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/06/1976070601/justel"
 justel_note: "Consultation des versions antérieures à partir du 22-05-2019 et mise à jour au 21-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1976. - Loi sur la répression du travail frauduleux à caractère commercial ou artisanal

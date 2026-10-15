@@ -13,7 +13,7 @@ entry_into_force: 2018-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/07/23/2018014101/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2018. - Ordonnance modifiant l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie

@@ -12,7 +12,7 @@ entry_into_force: 1999-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/01/1999016243/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1999. - Wet tot bekrachtiging van sommige bepalingen van het koninklijk besluit van 19 augustus 1998 tot vaststelling van de retributies en bijdragen verschuldigd aan het Begrotingsfonds voor de grondstoffen en tot wijziging van artikel 25 van de wet van 13 april 1995 betreffende de handelsagentuurovereenkomst.

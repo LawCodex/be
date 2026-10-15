@@ -13,7 +13,7 @@ entry_into_force: 2015-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/19/2015205486/justel"
 department: "Communauté française - Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2015. - Décret portant assentiment à l'accord de coopération entre la Région wallonne, la Communauté française et la Commission communautaire française en matière de gratuité des détachements dans les cabinets ministériels

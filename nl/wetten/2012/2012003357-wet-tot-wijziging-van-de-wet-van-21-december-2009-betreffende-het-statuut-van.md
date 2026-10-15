@@ -10,7 +10,7 @@ date: 2012-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/11/27/2012003357/justel"
 department: "Financiën - Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2012. - Wet tot wijziging van de wet van 21 december 2009 betreffende het statuut van de betalingsinstellingen, de toegang tot het bedrijf van betalingsdienstaanbieder en de toegang tot betalingssystemen, en van andere wetgeving die betrekking heeft op het statuut van de betalingsinstellingen en van de instellingen voor elektronisch geld en van de kredietverenigingen uit het net van het Beroepskrediet

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/02/05/1996033041/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 11-06-1996 en tekstbijwerking tot 14-09-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1996. - Decreet betreffende de controle van de afwezigheden wegens ziekte voor de personeelsleden van de door de Duitstalige Gemeenschap georganiseerde of gesubsidieerde onderwijsinrichtingen en PMS-Centra (VERTALING).

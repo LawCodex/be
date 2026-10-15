@@ -13,7 +13,7 @@ entry_into_force: 2026-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/03/05/2026002005/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2026. - Decreet tot wijziging van het gecoördineerd decreet houdende instelling van een prijs van het Parlement van de Franse Gemeenschap tot bekroning van een werk ten bate van het onderwijs en van de permanente opvoeding dat het patrimonium van de Franse Gemeenschap herwaardeert, zoals gewijzigd bij de decreten van 4 mei 2016 en 11 juni 2020

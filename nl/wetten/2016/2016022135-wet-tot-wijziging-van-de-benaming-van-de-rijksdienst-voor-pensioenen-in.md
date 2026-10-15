@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/18/2016022135/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 30-03-2016 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2016. - [Wet tot wijziging van de benaming van de Rijksdienst voor Pensioenen in Federale Pensioendienst, tot integratie van de bevoegdheden en het personeel van de Pensioendienst voor de Overheidssector, van een deel van de bevoegdheden en van het personeel van de Directie-generaal Oorlogsslachtoffers, van de opdrachten "Pensioenen" van de lokale en provinciale sectoren van de Dienst voor de Bijzondere socialezekerheidsstelsels en van HR Rail en tot overname van de gemeenschappelijke sociale dienst van de Dienst voor de Bijzondere socialezekerheidsstelsels] (aangehaald als : Wet betreffende de Federale Pensioendienst") &lt;W 2017-12-22/33 , art. 2, 002; Inwerkingtreding : 01-01-2018&gt;

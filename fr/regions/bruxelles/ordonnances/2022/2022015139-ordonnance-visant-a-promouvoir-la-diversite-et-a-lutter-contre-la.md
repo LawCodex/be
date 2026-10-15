@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/06/30/2022015139/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2024 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2022. - Ordonnance visant à promouvoir la diversité et à lutter contre la discrimination dans les institutions, centres et services relevant de la compétence de la Commission communautaire commune ainsi que dans les Services du Collège réuni de la Commission communautaire commune

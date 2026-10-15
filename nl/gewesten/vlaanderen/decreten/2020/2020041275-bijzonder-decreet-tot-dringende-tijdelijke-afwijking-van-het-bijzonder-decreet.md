@@ -13,7 +13,7 @@ entry_into_force: 2020-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/08/2020041275/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2020. - Bijzonder decreet tot dringende, tijdelijke afwijking van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs naar aanleiding van de coronacrisis, wat de leerlingenevaluatie betreft

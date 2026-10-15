@@ -13,7 +13,7 @@ last_amended: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032153/justel"
 justel_note: "Consultation des versions antérieures à partir du 15-07-1994 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1804. - [ANCIEN] CODE CIVIL. - LIVRE III : Manières dont on acquiert la propriété. - TITRE III à V (art. 1101-1581) (Intitulé modifié par L 2019-04-13/28 , art. 2, 045; En vigueur : 01-11-2020)

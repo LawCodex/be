@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/08/05/1995029481/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-08-1995 et mise à jour au 05-12-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1995. - Décret portant diverses mesures en matière d'enseignement supérieur. -

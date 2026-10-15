@@ -12,7 +12,7 @@ entry_into_force: 2004-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/24/2004015166/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2004. - Wet houdende instemming met de volgende internationale akten : 1° het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad; 2° het Aanvullend Protocol tegen de smokkel van migranten over land, over de zee en in de lucht, bij het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad; 3° het Aanvullend Protocol inzake de preventie, bestrijding en bestraffing van mensenhandel, in het bijzonder vrouwenhandel en kinderhandel, bij het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad, gedaan te New York op 15 november 2000; 4° het Aanvullend Protocol tegen de ongeoorloofde vervaardiging van en handel in vuurwapens, de onderdelen, componenten en munitie ervan, bij het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad, gedaan te New York op 31 mei 2001.

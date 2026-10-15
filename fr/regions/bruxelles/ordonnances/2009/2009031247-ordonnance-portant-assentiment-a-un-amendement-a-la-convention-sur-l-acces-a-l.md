@@ -13,7 +13,7 @@ entry_into_force: 2009-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/04/30/2009031247/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Ordonnance portant assentiment à un amendement à la convention sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, fait à Almaty, Kazakhstan, le 27 mai 2005

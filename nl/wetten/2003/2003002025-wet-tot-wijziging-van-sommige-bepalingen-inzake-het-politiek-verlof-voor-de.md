@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/04/2003002025/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2003. - Wet tot wijziging van sommige bepalingen inzake het politiek verlof voor de personeelsleden van de overheidsdiensten.

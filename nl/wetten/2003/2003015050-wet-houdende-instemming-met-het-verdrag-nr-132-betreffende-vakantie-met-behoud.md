@@ -12,7 +12,7 @@ entry_into_force: 2003-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/09/2003015050/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2003. - Wet houdende instemming met het Verdrag nr. 132 betreffende vakantie met behoud van loon (herzien in 1970), aangenomen te Genève op 24 juni 1970.

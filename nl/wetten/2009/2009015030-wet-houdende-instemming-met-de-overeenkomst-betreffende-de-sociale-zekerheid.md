@@ -12,7 +12,7 @@ entry_into_force: 2009-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/12/2009015030/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2009. - Wet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek India, ondertekend te New Delhi op 3 november 2006

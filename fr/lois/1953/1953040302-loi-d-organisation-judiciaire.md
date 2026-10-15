@@ -13,7 +13,7 @@ last_amended: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/04/03/1953040302/justel"
 justel_note: "Consultation des versions antérieures à partir du 06-08-1985 et mise à jour au 23-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1953. - Loi d'organisation judiciaire.

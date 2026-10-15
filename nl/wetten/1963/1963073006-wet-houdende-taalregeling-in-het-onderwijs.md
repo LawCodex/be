@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1963/07/30/1963073006/justel"
 justel_notes:
   - "opgeheven voor de Duitstalige Gemeenschap bij DDG 2004-04-19/36, art. 50, Inwerkingtreding : 01-09-2004"
   - "Raadpleging van vroegere versies vanaf 10-03-2009 en tekstbijwerking tot 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1963. - Wet houdende taalregeling in het onderwijs.

@@ -11,7 +11,7 @@ published: 1866-02-16
 entry_into_force: 1866-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1866/02/10/1866021050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1866. - WET, welke wijzigingen toebrengt aan het Wetboek van lijfstraffelijke instructie en aan de wet van 8 mei 1848 op de burgerwacht.

@@ -12,7 +12,7 @@ entry_into_force: 2009-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/13/2009011242/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2009. - Loi relative aux concours officiels d'excellence professionnelle

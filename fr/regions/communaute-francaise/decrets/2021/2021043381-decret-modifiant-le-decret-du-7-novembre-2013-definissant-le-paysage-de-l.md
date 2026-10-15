@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/02/2021043381/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-12-2021 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2021. - Décret modifiant le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études et d'autres législations en matière d'enseignement supérieur

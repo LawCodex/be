@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/02/12/2009031091/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2009. - Ordonnantie betreffende de erkenning en de subsidiëring van de bedrijvencentra en de lokale economieloketten.

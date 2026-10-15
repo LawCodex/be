@@ -12,7 +12,7 @@ entry_into_force: 2005-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/10/20/2004015216/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2004. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de grensoverschrijdende samenwerking in politie- en douanezaken, ondertekend te Doornik op 5 maart 2001, en met de Uitwisseling van brieven ter aanvulling van de Overeenkomst, gedaan te Parijs en Brussel op 10 juni 2002.

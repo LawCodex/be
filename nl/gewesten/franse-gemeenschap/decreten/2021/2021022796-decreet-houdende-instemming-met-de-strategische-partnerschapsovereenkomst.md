@@ -13,7 +13,7 @@ entry_into_force: 2022-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/15/2021022796/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2021. - Decreet houdende instemming met de Strategische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Japan, anderzijds, gedaan te Tokyo op 17 juli 2018

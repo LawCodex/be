@@ -13,7 +13,7 @@ entry_into_force: 2021-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/11/2021030646/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2021. - Décret modifiant le décret du 4 février 2021 portant organisation du budget, de la comptabilité et du rapportage des organismes administratifs publics de la communauté française

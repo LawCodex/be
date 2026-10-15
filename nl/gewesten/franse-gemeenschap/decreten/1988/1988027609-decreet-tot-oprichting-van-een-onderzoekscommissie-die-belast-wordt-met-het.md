@@ -13,7 +13,7 @@ entry_into_force: 1988-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/06/17/1988027609/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1988. - Decreet tot oprichting van een onderzoekscommissie die belast wordt met het onderzoek van de toestand van de minderjarigen die in de toepassingssfeer vallen van de wet van 8 april 1965 betreffende de jeugdbescherming en van de verbeteringen die aan die wet aangebracht zouden kunnen worden.

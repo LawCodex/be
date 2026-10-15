@@ -12,7 +12,7 @@ entry_into_force: 2019-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019012142/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet tot wijziging van de wet van 25 maart 1964 op de geneesmiddelen wat de onbeschikbaarheden van geneesmiddelen betreft

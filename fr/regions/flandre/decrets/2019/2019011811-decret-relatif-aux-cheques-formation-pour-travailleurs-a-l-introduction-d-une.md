@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019011811/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2019 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret relatif aux chèques-formation pour travailleurs, à l'introduction d'une obligation d'enregistrement pour agents sportifs et modifiant diverses autres dispositions relatives au [domaine politique de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale](Intitulé modifié par DCFL 2026-06-26/19 , art. 50, 003; En vigueur : 07-08-2026)

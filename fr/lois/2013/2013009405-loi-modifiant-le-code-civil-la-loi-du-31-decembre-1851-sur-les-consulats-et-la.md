@@ -12,7 +12,7 @@ entry_into_force: 2013-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/02/2013009405/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2013. - Loi modifiant le Code civil, la loi du 31 décembre 1851 sur les consulats et la juridiction consulaire, le Code pénal, le Code judiciaire et la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, en vue de la lutte contre les mariages de complaisance et les cohabitations légales de complaisance

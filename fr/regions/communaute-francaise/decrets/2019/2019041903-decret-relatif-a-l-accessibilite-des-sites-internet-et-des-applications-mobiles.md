@@ -13,7 +13,7 @@ entry_into_force: 2019-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019041903/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret relatif à l'accessibilité des sites internet et des applications mobiles des organismes publics

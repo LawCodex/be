@@ -12,7 +12,7 @@ entry_into_force: 2000-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/04/28/2000015066/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2000. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden inzake grensoverschrijdend politieoptreden ter handhaving van de openbare orde en veiligheid tijdens het Europees Kampioenschap Voetbal voor Landenteams in het jaar 2000, ondertekend te Bergen op-Zoom op 26 april 1999.

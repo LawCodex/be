@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/31/2019202557/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2019. - Decreet houdende instemming met de Overeenkomst tussen Koninkrijk België en het Europees Ruimteagentschap ter aanvulling van het Verdrag tot oprichting van een Europees Ruimteagentschap van 30 mei 1975, over de voorrechten en immuniteiten van het Europees Ruimteagentschap in België, gedaan te Brussel op 24 mei 2017

@@ -13,7 +13,7 @@ entry_into_force: 2020-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/04/17/2020020846/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2020. - Decreet tot tijdelijke afwijking van de Vlaamse Codex Fiscaliteit als gevolg van de coronacrisis

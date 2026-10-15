@@ -12,7 +12,7 @@ entry_into_force: 2004-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004015091/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet houdende instemming met het Verdrag inzake de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, en tot het Eerste en Tweede Protocol betreffende de uitlegging ervan door het Hof van Justitie, en met de Gemeenschappelijke Verklaring, gedaan te Brussel op 29 november 1996.

@@ -12,7 +12,7 @@ entry_into_force: 2006-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/22/2006011087/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2006. - Wet tot wijziging van de wet van 25 juni 1992 op de landverzekeringsovereenkomst en van de wet van 27 maart 1995 betreffende de verzekeringsbemiddeling en de distributie van verzekeringen.

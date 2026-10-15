@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/02/2019012209/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Loi modifiant la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et la loi-programme du 27 avril 2007

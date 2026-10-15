@@ -13,7 +13,7 @@ entry_into_force: 2019-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203762/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet betreffende de bescherming van de watervoorraad, het bestuur en tot wijziging van Boek II van het Milieuwetboek dat het Waterwetboek inhoudt en artikel 100 van het programmadecreet van 12 december 2014 houdende verschillende maatregelen betreffende de begroting inzake natuurrampen, verkeersveiligheid, openbare werken, energie, huisvesting, leefmilieu, ruimtelijke ordening, dierenwelzijn, landbouw en fiscaliteit

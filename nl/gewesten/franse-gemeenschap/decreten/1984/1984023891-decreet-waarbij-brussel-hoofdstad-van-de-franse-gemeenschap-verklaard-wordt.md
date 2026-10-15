@@ -13,7 +13,7 @@ entry_into_force: 1984-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1984/05/10/1984023891/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 1984. - Decreet waarbij Brussel hoofdstad van de Franse Gemeenschap verklaard wordt. (Vertaling).

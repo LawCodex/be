@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/07/20/2011031388/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Entrée en vigueur de l'art. 55 fixée au 01-05-2016, par ARR 2016-04-21/29 , art. 2"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Ordonnance modifiant l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale et l'ordonnance du 12 décembre 1991 créant des fonds budgétaires.

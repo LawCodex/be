@@ -13,7 +13,7 @@ entry_into_force: 1999-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027329/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1999. - Décret limitant le cumul du mandat de président d'un Conseil de l'aide sociale avec d'autres fonctions.

@@ -12,7 +12,7 @@ entry_into_force: 2016-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/15/2012015155/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AUGUSTUS 2012. - Wet houdende instemming met de Internationale Overeenkomst van 2006 inzake tropisch hout, gedaan te Genève op 27 januari 2006

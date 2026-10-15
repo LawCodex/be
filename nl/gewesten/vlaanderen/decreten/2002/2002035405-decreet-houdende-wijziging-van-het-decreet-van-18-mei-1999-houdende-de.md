@@ -13,7 +13,7 @@ entry_into_force: 2002-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/08/2002035405/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2002. - Decreet houdende wijziging van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening en van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996.

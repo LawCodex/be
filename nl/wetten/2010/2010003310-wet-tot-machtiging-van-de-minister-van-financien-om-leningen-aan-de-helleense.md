@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/05/12/2010003310/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 25-05-2010 en tekstbijwerking tot 31-12-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2010. - Wet tot machtiging van de Minister van Financiën om leningen aan de Helleense Republiek toe te staan

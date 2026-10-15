@@ -11,7 +11,7 @@ published: 1998-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/09/20/1998000628/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 1998. - Wet tot wijziging van de wet van 20 juli 1971 op de begraafplaatsen en de lijkbezorging.

@@ -13,7 +13,7 @@ entry_into_force: 2021-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/30/2021020933/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2021. - Décret portant assentiment à la convention n° 190 concernant l'élimination de la violence et du harcèlement dans le monde du travail, adoptée par l'Organisation internationale du Travail à sa cent huitième session le 21 juin 2019

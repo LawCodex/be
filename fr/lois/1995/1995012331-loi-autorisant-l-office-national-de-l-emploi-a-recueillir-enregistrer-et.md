@@ -12,7 +12,7 @@ entry_into_force: 1995-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/06/1995012331/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Loi autorisant l'Office national de l'emploi à recueillir, enregistrer et traiter certaines données sociales à caractère personnel.

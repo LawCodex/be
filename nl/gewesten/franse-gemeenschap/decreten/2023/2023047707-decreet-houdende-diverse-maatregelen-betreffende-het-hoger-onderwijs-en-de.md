@@ -12,7 +12,7 @@ published: 2024-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/09/2023047707/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2023. - Decreet houdende diverse maatregelen betreffende het hoger onderwijs en de initiële opleiding van de leerkrachten

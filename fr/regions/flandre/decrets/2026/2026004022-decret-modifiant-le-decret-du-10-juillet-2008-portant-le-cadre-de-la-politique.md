@@ -13,7 +13,7 @@ entry_into_force: 2026-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/05/22/2026004022/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2026. - Décret modifiant le décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement et le décret du 28 octobre 2022 portant création d'un Institut flamand des droits humains, en ce qui concerne la transposition partielle des directives européennes relatives aux organismes pour l'égalité de traitement et la transparence des rémunérations

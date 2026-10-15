@@ -13,7 +13,7 @@ entry_into_force: 2004-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/26/2004035668/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2004. - Décret modifiant la loi du 10 mars 1980 relative à l'octroi du titre honorifique de leurs fonctions aux bourgmestres, aux échevins et aux présidents des conseils des centres publics d'aide sociale ou des anciennes commissions d'assistance publique (TRADUCTION).

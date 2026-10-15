@@ -13,7 +13,7 @@ entry_into_force: 2025-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/07/17/2025005505/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2025. - Ordonnantie houdende diverse wijzigingen aan het Wetboek der successierechten en aan het Wetboek der registratie-, hypotheek- en griffierechten

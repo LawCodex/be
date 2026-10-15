@@ -11,7 +11,7 @@ published: 2026-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/20/2026005817/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2026. - Wet tot omzetting van Richtlijn (EU) 2023/2225 van het Europees Parlement en de Raad van 18 oktober 2023 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 2008/48/EG en tot wijziging van sommige bepalingen van het Wetboek van economisch recht

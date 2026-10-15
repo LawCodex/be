@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/25/2018014697/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2018. - Loi modifiant la loi du 3 novembre 2001 relative à la création de la Société belge d'Investissement pour les Pays en Développement et la loi du 23 novembre 2017 portant modification du nom de la Coopération technique belge et définition des missions et du fonctionnement de Enabel, Agence belge de Développement

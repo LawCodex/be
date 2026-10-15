@@ -13,7 +13,7 @@ entry_into_force: 2010-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/08/2010029436/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2010. - Décret modifiant le décret du 14 juillet 1997 portant organisation de la promotion de la santé en Communauté française

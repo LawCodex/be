@@ -11,7 +11,7 @@ published: 1947-02-07
 entry_into_force: 1947-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/02/01/1947020102/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 1947. - ARRETE-LOI attribuant la qualité d'officier de police judiciaire auxiliaire du procureur du Roi à certains agents-inspecteurs principaux et à certains sous-officiers du corps de gendarmerie.

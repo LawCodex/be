@@ -12,7 +12,7 @@ entry_into_force: 2024-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/25/2024000103/justel"
 department: "Mobiliteit en Vervoer - Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2023. - Wet tot wijziging van de wet van 6 december 2005 betreffende de verdeling van een deel van de federale ontvangsten inzake verkeersveiligheid

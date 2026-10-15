@@ -12,7 +12,7 @@ published: 2021-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/12/2021031270/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2021. - Decreet betreffende de onderwijsdoelen voor de tweede en de derde graad van het secundair onderwijs en diverse andere verwante maatregelen

@@ -11,7 +11,7 @@ entry_into_force: 2011-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/13/2011022402/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2011. - Wet tot verlenging van de pensioenbonus voor werknemers en zelfstandigen

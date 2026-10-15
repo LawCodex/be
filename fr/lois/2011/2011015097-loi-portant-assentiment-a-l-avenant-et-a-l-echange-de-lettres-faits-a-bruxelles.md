@@ -12,7 +12,7 @@ entry_into_force: 2013-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015097/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 2011. - Loi portant assentiment à l'Avenant et à l'Echange de lettres, faits à Bruxelles le 16 juillet 2009, à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par l'Avenant, signé à Bruxelles le 11 décembre 2002

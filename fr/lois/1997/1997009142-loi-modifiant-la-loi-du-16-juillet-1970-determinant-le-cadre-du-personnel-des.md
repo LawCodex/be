@@ -12,7 +12,7 @@ entry_into_force: 1997-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/17/1997009142/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1997. - Loi modifiant la loi du 16 juillet 1970 déterminant le cadre du personnel des tribunaux de police et la loi du 20 juillet 1971 déterminant le cadre du personnel des justices de paix.

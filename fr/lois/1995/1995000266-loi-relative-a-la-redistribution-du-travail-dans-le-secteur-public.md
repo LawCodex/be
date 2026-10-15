@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995000266/justel"
 department: "Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 20-04-1995 et mise à jour au 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi relative à la redistribution du travail dans le secteur public.

@@ -12,7 +12,7 @@ entry_into_force: 2002-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/28/2002003157/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2002. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat pour l'année 1997.

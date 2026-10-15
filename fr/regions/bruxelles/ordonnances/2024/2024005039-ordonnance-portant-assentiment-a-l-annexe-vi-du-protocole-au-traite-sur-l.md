@@ -13,7 +13,7 @@ entry_into_force: 2024-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005039/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance portant assentiment à l'annexe VI du Protocole au Traité sur l'Antarctique relatif à la protection de l'environnement, faite à Stockholm le 17 juin 2005

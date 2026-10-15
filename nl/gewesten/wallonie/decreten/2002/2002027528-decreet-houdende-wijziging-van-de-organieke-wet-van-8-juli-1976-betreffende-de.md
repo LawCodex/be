@@ -13,7 +13,7 @@ entry_into_force: 2002-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/30/2002027528/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2002. - Decreet houdende wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn (VERTALING).

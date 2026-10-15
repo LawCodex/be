@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024204585/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant le décret du 11 mars 2004 relatif aux incitants régionaux destinés à favoriser la protection de l'environnement et l'utilisation durable de l'énergie

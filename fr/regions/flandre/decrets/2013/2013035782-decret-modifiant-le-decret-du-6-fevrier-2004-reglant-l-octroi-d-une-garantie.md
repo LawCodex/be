@@ -13,7 +13,7 @@ entry_into_force: 2013-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013035782/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret modifiant le décret du 6 février 2004 réglant l'octroi d'une garantie aux petites, moyennes et grandes entreprises, et modifiant le décret du 19 mai 2006 relatif au Prêt Gagnant-Gagnant

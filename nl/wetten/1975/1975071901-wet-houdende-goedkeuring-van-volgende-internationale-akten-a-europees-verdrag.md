@@ -11,7 +11,7 @@ published: 1976-02-17
 entry_into_force: 1976-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/07/19/1975071901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1975. - Wet houdende goedkeuring van volgende internationale akten : a) Europees Verdrag inzake de internationale handelsarbitrage, en Bijlage, opgemaakt te Genève op 21 april 1961; b) Overeenkomst betreffende de toepassing van het Europees Verdrag inzake de internationale handelsarbitrage, opgemaakt te Parijs op 17 december 1962.

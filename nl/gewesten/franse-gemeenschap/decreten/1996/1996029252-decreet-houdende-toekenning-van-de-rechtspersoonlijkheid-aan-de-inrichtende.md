@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/24/1996029252/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 23-10-1996 en tekstbijwerking tot 02-04-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1996. - Decreet houdende toekenning van de rechtspersoonlijkheid aan de inrichtende macht van de Hogeschool Lucia de Brouckère. (VERTALING).

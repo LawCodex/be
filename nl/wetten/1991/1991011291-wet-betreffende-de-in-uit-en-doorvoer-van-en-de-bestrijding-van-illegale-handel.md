@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/08/05/1991011291/justel"
 department: "Economische Zaken - Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 07-07-2003 en tekstbijwerking tot 21-06-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 1991. - Wet betreffende de in-, uit- en doorvoer van [en de bestrijding van illegale handel in] wapens, munitie en speciaal [voor militair gebruik of voor ordehandhaving] dienstig materieel en daaraan verbonden technologie. (W 2003-03-25/49, art. 2, 002; Inwerkingtreding : 17-07-2003) (W 2003-03-26/73, art. 4, 002; Inwerkingtreding : 17-07-2003, met bijzonderheden in de wijzigende beschikking)

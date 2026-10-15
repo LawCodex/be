@@ -13,7 +13,7 @@ entry_into_force: 1989-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/24/1997027391/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - Decreet waarbij de naar het Waalse Gewest overgeplaatste personeelsleden van het Rijksstation voor bos- en hydrobiologisch onderzoek en van het Rijkscentrum voor landbouwkundig onderzoek van Gembloux - Rijksstation voor bostechnologie ter beschikking worden gesteld van de Regering (VERTALING).

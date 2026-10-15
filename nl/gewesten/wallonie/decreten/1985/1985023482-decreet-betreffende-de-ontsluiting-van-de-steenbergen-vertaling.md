@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/05/09/1985023482/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 07-01-1989 en tekstbijwerking tot 19-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 1985. - Decreet betreffende de ontsluiting van de steenbergen. (Vertaling)

@@ -13,7 +13,7 @@ entry_into_force: 2017-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/05/11/2017020364/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2017. - Ordonnantie houdende instemming met : de Kaderconventie van de Raad van Europa over de bijdrage van cultureel erfgoed aan de samenleving, opgemaakt te Faro op 27 oktober 2005

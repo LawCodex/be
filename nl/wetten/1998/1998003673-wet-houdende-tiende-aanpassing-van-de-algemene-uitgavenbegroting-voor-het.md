@@ -12,7 +12,7 @@ entry_into_force: 1999-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/07/1998003673/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 1998. - Wet houdende tiende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1998. - Secties 13 - "Ministerie van Binnenlandse Zaken", 18 - "Ministerie van Financiën" en 19 - "Ministerie van Ambtenarenzaken".

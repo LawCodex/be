@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029289/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2001 et mise à jour au 21-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret visant à améliorer les conditions matérielles des établissements de l'enseignement fondamental et secondaire.

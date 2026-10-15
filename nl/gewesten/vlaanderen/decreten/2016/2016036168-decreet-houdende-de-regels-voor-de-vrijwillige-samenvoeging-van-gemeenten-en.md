@@ -17,7 +17,7 @@ department: "Vlaamse Overheid"
 justel_notes:
   - "art. 57 opgeheven in de toekomst door DVR 2017-12-22/55 , art. 579,10°, 002; Inwerkingtreding : 01-01-2021"
   - "Raadpleging van vroegere versies vanaf 19-08-2016 en tekstbijwerking tot 15-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2016. - Decreet houdende de regels voor de vrijwillige samenvoeging van gemeenten en tot wijziging van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, van het Gemeentedecreet van 15 juli 2005, van het Provinciedecreet van 9 december 2005 en van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 (aangehaald als : het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016)

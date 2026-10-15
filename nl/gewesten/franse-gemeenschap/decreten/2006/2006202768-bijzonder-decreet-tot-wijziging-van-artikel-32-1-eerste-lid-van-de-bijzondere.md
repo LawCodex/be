@@ -13,7 +13,7 @@ entry_into_force: 2006-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/30/2006202768/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2006. - Bijzonder decreet tot wijziging van artikel 32, § 1, eerste lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen zoals gewijzigd, tot organisatie van het stelsel van de zittingen van het Parlement van de Franse Gemeenschap (VERTALING).

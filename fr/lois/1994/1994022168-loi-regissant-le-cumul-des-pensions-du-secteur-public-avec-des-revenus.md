@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/05/1994022168/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 20-07-1996 et mise à jour au 01-07-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1994. - Loi régissant le cumul des pensions du secteur public avec des revenus provenant de l'exercice d'une activité professionnelle ou avec un revenu de remplacement. -

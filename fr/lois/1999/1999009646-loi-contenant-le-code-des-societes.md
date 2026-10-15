@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999009646/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 06-08-1999 et mise à jour au 19-03-2004."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi contenant le Code des sociétés. -

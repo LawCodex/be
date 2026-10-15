@@ -11,7 +11,7 @@ published: 1965-05-20
 entry_into_force: 1965-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/08/1965040826/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 1965. - Loi modifiant la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, modifiée par les lois des 24 décembre 1963 et 6 juillet 1964.

@@ -12,7 +12,7 @@ entry_into_force: 2016-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/01/2016011497/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2016. - Loi portant des mesures d'exécution du Règlement (UE) n° 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange pour les opérations de paiement liées à une carte

@@ -13,7 +13,7 @@ entry_into_force: 2025-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/15/2025003949/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2025. - Décret modifiant le décret du 8 juillet 2021 transposant la directive (UE) 2018/958 du Parlement européen et du Conseil du 28 juin 2018 relative à un contrôle de proportionnalité avant l'adoption d'une nouvelle réglementation de professions pour les matières réglées par l'article 138 de la Constitution

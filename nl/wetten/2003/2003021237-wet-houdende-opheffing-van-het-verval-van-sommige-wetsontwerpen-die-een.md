@@ -12,7 +12,7 @@ entry_into_force: 2003-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/12/08/2003021237/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2003. - Wet houdende opheffing van het verval van sommige wetsontwerpen die een aangelegenheid regelen als bedoeld in artikel 77 van de Grondwet.

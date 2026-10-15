@@ -12,7 +12,7 @@ entry_into_force: 1998-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/08/1999021044/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 1999. - Loi spéciale modifiant l'article 24bis de la loi spéciale du 8 août 1980 de réformes institutionnelles.

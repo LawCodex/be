@@ -12,7 +12,7 @@ entry_into_force: 2019-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/28/2019011927/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2019. - Wet houdende instemming met het Samenwerkingsakkoord van 25 juli 2018 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van de bodemsanering van tankstations en gasolietanks voor verwarmingsdoeleinden

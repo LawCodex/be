@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/07/2005003413/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2005. - Loi modifiant l'article 3 de la loi du 10 décembre 2001 concernant le passage définitif à l'euro.

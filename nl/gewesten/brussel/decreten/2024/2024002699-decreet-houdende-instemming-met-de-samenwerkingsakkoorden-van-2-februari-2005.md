@@ -13,7 +13,7 @@ entry_into_force: 2024-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/14/2024002699/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2024. - Decreet houdende instemming met de samenwerkingsakkoorden van 2 februari 2005 en 20 oktober 2023 betreffende de ontwikkeling van een overlegd beleid inzake alfabetisering van volwassenen, gesloten tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest

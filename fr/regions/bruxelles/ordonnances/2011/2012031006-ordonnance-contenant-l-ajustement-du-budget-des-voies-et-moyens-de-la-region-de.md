@@ -13,7 +13,7 @@ entry_into_force: 2011-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/12/16/2012031006/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2011. - Ordonnance contenant l'ajustement du Budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 2011

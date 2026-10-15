@@ -12,7 +12,7 @@ entry_into_force: 2008-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/22/2007015009/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2007. - Loi portant assentiment à l'Accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, et à l'Acte final, faits à Luxembourg le 26 octobre 2004.

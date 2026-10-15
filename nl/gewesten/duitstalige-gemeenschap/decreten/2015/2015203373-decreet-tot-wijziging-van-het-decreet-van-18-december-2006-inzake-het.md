@@ -13,7 +13,7 @@ entry_into_force: 2015-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/29/2015203373/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2015. - Decreet tot wijziging van het decreet van 18 december 2006 inzake het hergebruik van overheidsdocumenten

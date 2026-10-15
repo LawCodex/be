@@ -13,7 +13,7 @@ entry_into_force: 2007-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/22/2007201248/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2007. - Decreet tot wijziging van het decreet van 27 juni 1996 betreffende de afvalstoffen (VERTALING)

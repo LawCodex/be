@@ -12,7 +12,7 @@ entry_into_force: 1996-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/03/06/1996012817/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 1996. - Loi visant au contrôle de l'application des résolutions de la Conférence mondiale sur les femmes réunie à Pékin du 4 au 14 septembre 1995.

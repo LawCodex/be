@@ -13,7 +13,7 @@ entry_into_force: 2011-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/08/2011035546/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2011. - Décret modifiant diverses dispositions du Code flamand de l'Aménagement du Territoire

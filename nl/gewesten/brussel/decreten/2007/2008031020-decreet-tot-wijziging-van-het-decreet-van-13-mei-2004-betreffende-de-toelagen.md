@@ -13,7 +13,7 @@ entry_into_force: 2008-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/20/2008031020/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2007. - Decreet tot wijziging van het decreet van 13 mei 2004 betreffende de toelagen voor de aankoop, de bouw, de renovatie, de inrichting, de uitrusting, de uitbreiding en de meubilering van sommige centra, diensten, huizen, instellingen of initiatieven van beschut wonen die ressorteren onder het beleid van Sociale Acties, het Gezin en Gezondheid (VERTALING) .

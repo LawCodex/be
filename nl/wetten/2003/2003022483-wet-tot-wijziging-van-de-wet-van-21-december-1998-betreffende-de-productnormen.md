@@ -12,7 +12,7 @@ entry_into_force: 2003-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/28/2003022483/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2003. - Wet tot wijziging van de wet van 21 december 1998 betreffende de productnormen ter bevordering van duurzame productie- en consumptiepatronen en ter bescherming van het leefmilieu en de volksgezondheid.

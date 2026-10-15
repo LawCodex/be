@@ -12,7 +12,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/13/2012022458/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2012. - Loi portant diverses dispositions modificatives relatives aux pensions du secteur public

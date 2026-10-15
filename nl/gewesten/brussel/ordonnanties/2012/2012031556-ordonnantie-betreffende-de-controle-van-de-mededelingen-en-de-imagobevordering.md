@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/07/12/2012031556/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-07-2012 en tekstbijwerking tot 28-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Ordonnantie betreffende de controle van de mededelingen en de imagobevordering van de plaatselijke overheden tijdens de verkiezingsperiode

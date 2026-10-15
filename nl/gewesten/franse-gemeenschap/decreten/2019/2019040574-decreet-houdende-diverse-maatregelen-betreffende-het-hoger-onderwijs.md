@@ -12,7 +12,7 @@ published: 2019-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/07/2019040574/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2019. - Decreet houdende diverse maatregelen betreffende het hoger onderwijs

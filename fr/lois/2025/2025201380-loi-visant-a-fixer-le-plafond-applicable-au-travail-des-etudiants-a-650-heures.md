@@ -12,7 +12,7 @@ entry_into_force: 2025-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/04/10/2025201380/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2025. - Loi visant à fixer le plafond applicable au travail des étudiants à 650 heures

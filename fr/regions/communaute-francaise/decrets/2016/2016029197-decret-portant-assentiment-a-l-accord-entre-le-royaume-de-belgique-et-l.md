@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/21/2016029197/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2016. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et l'Institut européen de la forêt sur les privilèges et immunités du Bureau de Liaison de l'Institut européen de la forêt, fait à Bruxelles le 9 octobre 2013

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/25/1998021268/justel"
 department: "Eerste Minister - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-06-1998 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1998. - Wet tot regeling van de strafrechtelijke verantwoordelijkheid van ministers

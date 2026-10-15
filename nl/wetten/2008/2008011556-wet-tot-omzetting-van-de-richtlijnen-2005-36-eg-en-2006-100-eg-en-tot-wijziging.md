@@ -12,7 +12,7 @@ entry_into_force: 2009-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/11/21/2008011556/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2008. - Wet tot omzetting van de Richtlijnen 2005/36/EG en 2006/100/EG en tot wijziging van de wetten van 20 februari 1939 op de bescherming van de titel en van het beroep van architect en 26 juni 1963 tot instelling van een Orde van Architecten.

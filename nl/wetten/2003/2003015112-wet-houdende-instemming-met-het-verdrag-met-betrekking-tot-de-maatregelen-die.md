@@ -12,7 +12,7 @@ entry_into_force: 2009-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015112/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met het Verdrag met betrekking tot de maatregelen die moeten worden genomen om de ongeoorloofde invoer, uitvoer en overdracht van eigendom van cultuurgoederen te voorkomen, aangenomen te Parijs op 14 november 1970

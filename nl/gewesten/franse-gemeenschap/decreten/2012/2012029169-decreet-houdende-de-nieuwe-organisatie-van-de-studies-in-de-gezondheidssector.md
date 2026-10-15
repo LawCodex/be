@@ -12,7 +12,7 @@ published: 2012-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/23/2012029169/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2012. - Decreet houdende de nieuwe organisatie van de studies in de gezondheidssector

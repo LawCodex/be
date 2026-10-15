@@ -12,7 +12,7 @@ entry_into_force: 2012-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012009326/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi modifiant la loi du 17 mai 2006 instaurant des tribunaux d'application des peines et la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, en ce qui concerne l'entrée en vigueur

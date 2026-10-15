@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/21/2022040128/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 2022. - Decreet tot invoering van een waarborg bij inkomende bruiklenen voor tijdelijke tentoonstellingen(het Indemniteitsdecreet van 21 januari 2022)

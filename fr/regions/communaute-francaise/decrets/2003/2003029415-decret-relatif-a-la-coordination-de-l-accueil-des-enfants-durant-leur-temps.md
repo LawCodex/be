@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029415/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-08-2003 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret relatif à la coordination de l'accueil des enfants durant leur temps libre et au soutien de l'accueil extrascolaire.

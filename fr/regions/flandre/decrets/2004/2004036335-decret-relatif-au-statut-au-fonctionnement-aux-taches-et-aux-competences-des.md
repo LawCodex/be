@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036335/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2004 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret relatif au statut, au fonctionnement, aux tâches et aux compétences des partenariats régionaux agréés, des conseils socio-économiques de la région et des comités de concertation socio-économiques régionaux (TRADUCTION)

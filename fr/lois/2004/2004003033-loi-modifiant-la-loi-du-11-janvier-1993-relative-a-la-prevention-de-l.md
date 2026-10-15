@@ -12,7 +12,7 @@ entry_into_force: 2004-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/12/2004003033/justel"
 department: "Justice - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2004. - Loi modifiant la loi du 11 janvier 1993 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux, la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit, et la loi du 6 avril 1995 relative au statut des entreprises d'investissement et à leur contrôle, aux intermédiaires financiers et conseillers en placements.

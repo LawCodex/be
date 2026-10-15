@@ -12,7 +12,7 @@ entry_into_force: 2015-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/06/2015003426/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2015. - Loi modifiant le Code des impôts sur les revenus 1992 en matière de titres-repas et d'avantages non-récurrents liés aux résultats

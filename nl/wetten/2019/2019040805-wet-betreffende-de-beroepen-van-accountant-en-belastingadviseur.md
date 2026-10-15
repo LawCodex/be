@@ -15,7 +15,7 @@ department: "Economie, KMO, Middenstand en Energie"
 justel_notes:
   - "de wijzigingen aangebracht door art. 153 tot 170 van de wet van 20 juli 2020 ( 2020-07-20/12 ) op de kunsten. 6, 29, 30, 31, 33, 34, 37, 39, 50, 51 52, 54, 62, 72, 77, 85, 98 en 117 werden vernietigd bij arrest nr. 166/2021 van 18 november 2021 van de Grondwettelijk Hof ( 2021-11-18/21 ) met handhaving van effecten tot en met 31 maart 2022"
   - "Raadpleging van vroegere versies vanaf 27-03-2019 en tekstbijwerking tot 20-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2019. - Wet betreffende de beroepen van accountant en belastingadviseur

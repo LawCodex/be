@@ -13,7 +13,7 @@ entry_into_force: 2016-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/08/2016036139/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2016. - Décret portant assentiment à l'accord de coopération du 24 mars 2016 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création d'un organe de conciliation dans le cadre des systèmes de télépéage sur le territoire des trois Régions

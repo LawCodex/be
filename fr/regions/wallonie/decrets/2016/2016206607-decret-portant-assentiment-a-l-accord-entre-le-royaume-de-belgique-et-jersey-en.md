@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016206607/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et Jersey en vue de l'échange de renseignements en matière fiscale, fait à Londres le 13 mars 2014

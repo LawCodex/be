@@ -13,7 +13,7 @@ entry_into_force: 1998-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/05/26/1998035662/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 1998. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Cyprus inzake de wederzijdse bevordering en bescherming van investeringen en uitwisseling van brieven, ondertekend in Nicosia op 26 februari 1991.

@@ -13,7 +13,7 @@ last_amended: 2019-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1928/06/05/1928060550/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 03-08-1995 en tekstbijwerking tot 01-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 1928. - Wet houdende herziening van het Tucht- en Strafwetboek voor de koopvaardij en de zeevisscherij.

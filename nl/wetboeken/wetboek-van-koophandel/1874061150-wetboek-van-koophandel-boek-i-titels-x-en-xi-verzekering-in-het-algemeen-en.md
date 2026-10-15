@@ -13,7 +13,7 @@ last_amended: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1874/06/11/1874061150/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-08-1992 en tekstbijwerking tot 30-04-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1874. - WETBOEK VAN KOOPHANDEL : BOEK I \_ TITELS X en XI \_ Verzekering in het algemeen en Verzekeringen in het algemeen. (WET houdende de titels X en XI van Boek I van het Wetboek van Koophandel.)

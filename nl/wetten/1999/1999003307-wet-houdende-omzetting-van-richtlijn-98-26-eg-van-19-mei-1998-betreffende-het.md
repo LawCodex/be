@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/28/1999003307/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 01-06-1999 en tekstbijwerking tot 06-10-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 1999. - Wet houdende omzetting van Richtlijn 98/26/EG van 19 mei 1998 betreffende het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen.

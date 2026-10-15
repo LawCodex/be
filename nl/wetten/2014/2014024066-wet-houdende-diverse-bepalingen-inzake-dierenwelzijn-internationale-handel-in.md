@@ -12,7 +12,7 @@ entry_into_force: 2014-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/07/2014024066/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2014. - Wet houdende diverse bepalingen inzake dierenwelzijn, internationale handel in bedreigde in het wild levende dier- en plantensoorten en dierengezondheid

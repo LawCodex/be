@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995022266/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi modifiant la loi du 30 mars 1994 portant des dispositions sociales en ce qui concerne les travailleurs frontaliers.

@@ -13,7 +13,7 @@ entry_into_force: 2008-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/04/25/2008029288/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2008. - Decreet tot bevordering van de kosteloosheid in het onderwijs van de Franse Gemeenschap door de afschaffing van de homologatierechten voor diploma's en door de vereenvoudiging van de procedures voor hun uitreiking (VERTALING).

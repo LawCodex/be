@@ -12,7 +12,7 @@ entry_into_force: 2000-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015052/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment aux Statuts du Groupe d'Etude international du Cuivre, et Annexe, adoptés par la Conférence des Nations Unies le 24 février 1989.

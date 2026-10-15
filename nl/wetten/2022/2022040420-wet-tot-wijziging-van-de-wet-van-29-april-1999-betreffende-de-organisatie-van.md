@@ -12,7 +12,7 @@ entry_into_force: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/28/2022040420/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2022. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt teneinde een bijkomende toewijzing in het kader van de veiling georganiseerd in 2021 mogelijk te maken

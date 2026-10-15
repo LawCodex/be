@@ -11,7 +11,7 @@ published: 1965-05-20
 entry_into_force: 1965-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/08/1965040826/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 1965. - Wet tot wijziging van de wet van 9 augustus 1963 tot instelling en organisatie van een regeling voor verplichte ziekte- en invaliditeitsverzekering, gewijzigd bij de wetten van 24 december 1963 en 6 juli 1964.

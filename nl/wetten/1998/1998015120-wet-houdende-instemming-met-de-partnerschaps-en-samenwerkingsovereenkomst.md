@@ -11,7 +11,7 @@ published: 1998-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/09/1998015120/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 1998. - Wet houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Kazachstan, anderzijds, Bijlagen I tot III en Slotakte, gedaan te Brussel op 23 januari 1995.

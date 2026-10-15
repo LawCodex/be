@@ -12,7 +12,7 @@ entry_into_force: 1991-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/19/1991011290/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1991. - Wet tot wijziging van de wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen en tot vaststelling van een aantal bepalingen betreffende de werking van de Controledienst voor de Verzekeringen.

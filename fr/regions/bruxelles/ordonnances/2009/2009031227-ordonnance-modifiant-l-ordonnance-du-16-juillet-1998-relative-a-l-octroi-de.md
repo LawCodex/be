@@ -13,7 +13,7 @@ entry_into_force: 2009-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/04/30/2009031227/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Ordonnance modifiant l'ordonnance du 16 juillet 1998 relative à l'octroi de subsides destinés à encourager la réalisation d'investissements d'intérêt public et l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capital e

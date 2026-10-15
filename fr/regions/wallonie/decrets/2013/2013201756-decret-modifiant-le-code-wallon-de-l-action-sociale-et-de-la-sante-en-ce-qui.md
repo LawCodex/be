@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/07/2013201756/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2013. - Décret modifiant le Code wallon de l'Action sociale et de la Santé en ce qui concerne les "Espaces-Rencontres" (1)

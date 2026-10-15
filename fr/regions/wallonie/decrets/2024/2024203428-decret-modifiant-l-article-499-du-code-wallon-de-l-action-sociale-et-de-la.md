@@ -13,7 +13,7 @@ entry_into_force: 2011-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024203428/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant l'article 499 du Code wallon de l'Action sociale et de la Santé concernant le statut des administrateurs du Centre régional de soins psychiatriques " Les Marronniers "

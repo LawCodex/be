@@ -13,7 +13,7 @@ entry_into_force: 2017-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/16/2017201538/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Decreet houdende instemming met de Euro-Mediterrane luchtvaartovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Regering van de Staat Israël, anderzijds, gedaan te Luxemburg op 10 juni 2013

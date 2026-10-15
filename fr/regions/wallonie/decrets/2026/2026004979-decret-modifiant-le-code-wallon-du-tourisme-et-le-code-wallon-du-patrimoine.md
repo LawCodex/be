@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/18/2026004979/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2026. - Décret modifiant le Code wallon du Tourisme et le Code wallon du Patrimoine afin d'assurer leur conformité au nouveau Code pénal

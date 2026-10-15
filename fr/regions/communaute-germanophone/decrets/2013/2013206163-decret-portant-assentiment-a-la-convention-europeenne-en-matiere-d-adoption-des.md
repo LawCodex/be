@@ -13,7 +13,7 @@ entry_into_force: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/14/2013206163/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2013. - Décret portant assentiment à la Convention européenne en matière d'adoption des enfants (révisée), faite à Strasbourg le 27 novembre 2008

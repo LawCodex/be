@@ -13,7 +13,7 @@ entry_into_force: 2004-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004036104/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret modifiant le décret du 15 juillet 1997 contenant le Code flamand du Logement et du décret du 4 février 1997 portant les normes de qualité et de sécurité pour chambres et chambres d'étudiants (TRADUCTION).

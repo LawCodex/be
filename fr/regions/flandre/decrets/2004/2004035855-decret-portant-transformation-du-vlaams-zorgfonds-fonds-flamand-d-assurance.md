@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035855/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2005 et mise à jour au 06-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant transformation du " Vlaams Zorgfonds " (Fonds flamand d'Assurance Soins) en une agence autonomisée interne dotée de la personnalité juridique et modifiant le décret du 30 mars 1999 portant organisation de l'assurance soins (TRADUCTION)

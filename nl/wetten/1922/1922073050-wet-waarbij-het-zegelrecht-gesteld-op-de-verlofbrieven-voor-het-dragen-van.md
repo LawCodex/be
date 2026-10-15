@@ -11,7 +11,7 @@ published: 1922-07-31
 entry_into_force: 1922-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1922/07/30/1922073050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1922. - Wet waarbij het zegelrecht gesteld op de verlofbrieven voor het dragen van jachtwapens en voor het jagen met den hazenwind verhoogd wordt en waarbij een verlofbrief voor het vogelvangen met netten en eene taxe op de inrichtingen van eendenkooien ingevoerd wordt.

@@ -12,7 +12,7 @@ entry_into_force: 2001-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/23/2001012204/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2001. - Wet tot wijziging van de wetgeving betreffende het verlof voor de uitoefening van een politiek mandaat, wat de burgemeester, schepenen, de voorzitter en de leden van het bureau van de districtsraden en OCMW-voorzitter betreft en tot invoering van een suppletief sociaal statuut voor de OCMW-voorzitter.

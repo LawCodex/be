@@ -12,7 +12,7 @@ entry_into_force: 1994-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000000649/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi modifiant la loi du 11 avril 1994 organisant le vote automatisé, ainsi que le Code électoral.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/13/2018031743/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-08-2018 et mise à jour au 19-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2018. - Décret portant modification du décret relatif au patrimoine immobilier du 12 juillet 2013 à la suite de l'évaluation ex-post

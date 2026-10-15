@@ -13,7 +13,7 @@ entry_into_force: 2023-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/15/2022043032/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2022. - Ordonnance modifiant l'ordonnance du 4 avril 2019 établissant le circuit de paiement des prestations familiales et l'ordonnance du 25 avril 2019 réglant l'octroi des prestations familiales

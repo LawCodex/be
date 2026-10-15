@@ -10,7 +10,7 @@ date: 2021-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/05/2021021619/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2021. - Wet tot harmonisering van de procedure inzake verkeersovertredingen binnen het toepassingsgebied van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties

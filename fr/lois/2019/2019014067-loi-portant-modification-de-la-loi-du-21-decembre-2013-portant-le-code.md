@@ -12,7 +12,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/07/03/2019014067/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2019. - Loi portant modification de la loi du 21 décembre 2013 portant le Code consulaire et de la loi du 10 février 2015 relative aux traitements automatisés de données à caractère personnel nécessaires aux passeports et titres de voyage belges

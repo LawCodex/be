@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/22/2002022684/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "raadpleging van vroegere versies vanaf 10-09-2002 en tekstbijwerking tot 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AUGUSTUS 2002. - Wet houdende maatregelen inzake gezondheidszorg. (NOTA 1 : De woorden " Kas der geneeskundige verzorging van de Nationale Maatschappij der Belgische Spoorwegen " worden vervangen door de woorden " Kas der geneeskundige verzorging van N.M.B.S. Holding " ; zie KB 2004-10-18/32, art. 38 ; Inwerkingtreding : 01-01-2005)

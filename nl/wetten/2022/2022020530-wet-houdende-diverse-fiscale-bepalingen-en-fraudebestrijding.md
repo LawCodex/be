@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/17/2022020530/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 25-03-2022 en tekstbijwerking tot 15-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2022. - Wet houdende diverse fiscale bepalingen en fraudebestrijding

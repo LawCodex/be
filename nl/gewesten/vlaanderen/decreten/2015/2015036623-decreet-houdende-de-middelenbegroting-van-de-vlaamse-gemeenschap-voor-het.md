@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/18/2015036623/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2015 en tekstbijwerking tot 02-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - DECREET houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016

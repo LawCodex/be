@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/20/2004009524/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-07-2004 et mise à jour au 26-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2004. - Loi portant création d'une Commission chargée du renouvellement des organes du culte musulman.

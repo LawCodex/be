@@ -12,7 +12,7 @@ entry_into_force: 1998-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/25/1998000203/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1998. - Loi portant modification du statut syndical du personnel du corps opérationnel de la gendarmerie.

@@ -12,7 +12,7 @@ entry_into_force: 1996-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/19/1996022346/justel"
 department: "Sociale Voorzorg - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 1996. - Wet tot interpretatie van de wet van 20 juli 1990 tot instelling van een flexibele pensioenleeftijd voor werknemers en tot aanpassing van de werknemerspensioenen aan de evolutie van het algemeen welzijn.

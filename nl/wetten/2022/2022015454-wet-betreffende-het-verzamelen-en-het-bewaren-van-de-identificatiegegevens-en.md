@@ -12,7 +12,7 @@ entry_into_force: 2022-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022015454/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet betreffende het verzamelen en het bewaren van de identificatiegegevens en van metagegevens in de sector van de elektronische communicatie en de verstrekking ervan aan de autoriteiten

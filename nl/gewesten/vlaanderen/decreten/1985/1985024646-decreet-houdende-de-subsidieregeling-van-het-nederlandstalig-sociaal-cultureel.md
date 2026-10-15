@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/06/27/1985024646/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 11-04-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1985. - Decreet houdende de subsidieregeling van het nederlandstalig sociaal-cultureel vormingswerk met volwassenen in politieke vormingsinstellingen.

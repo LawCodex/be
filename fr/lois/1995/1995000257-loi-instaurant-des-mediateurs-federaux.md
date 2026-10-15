@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/22/1995000257/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 07-04-1995 et mise à jour au 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1995. - Loi instaurant des médiateurs fédéraux. -

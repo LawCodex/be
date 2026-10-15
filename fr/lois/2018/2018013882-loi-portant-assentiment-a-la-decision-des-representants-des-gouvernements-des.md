@@ -12,7 +12,7 @@ entry_into_force: 2020-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/11/2018013882/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2018. - Loi portant assentiment à la Décision des Représentants des Gouvernements des Etats membres, réunis au sein du Conseil, du 28 avril 2004 concernant les privilèges et immunités accordés à ATHENA, faite à Bruxelles le 28 avril 2004

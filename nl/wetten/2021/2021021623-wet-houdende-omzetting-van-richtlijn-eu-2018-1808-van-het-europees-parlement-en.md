@@ -12,7 +12,7 @@ entry_into_force: 2021-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/21/2021021623/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2021. - Wet houdende omzetting van Richtlijn (EU) 2018/1808 van het Europees Parlement en de Raad van 14 november 2018 tot wijziging van Richtlijn 2010/13/EU betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn "audiovisuele mediadiensten") in het licht van een veranderende marktsituatie

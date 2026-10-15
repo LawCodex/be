@@ -12,7 +12,7 @@ entry_into_force: 2015-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015009416/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi modifiant l'article 145 de la loi du 1er décembre 2013 portant réforme des arrondissements judiciaires et modifiant le Code judiciaire en vue de renforcer la mobilité des membres de l'Ordre judiciaire (I)

@@ -12,7 +12,7 @@ entry_into_force: 2018-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/15/2018012998/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2018. - Loi modifiant l'article 375bis du Code civil, et les articles 1253ter/1, 1253ter/3 et 1253quater du Code civil

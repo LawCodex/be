@@ -12,7 +12,7 @@ entry_into_force: 2009-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/24/2009201398/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2009. - Loi relevant de caducité certains projets de loi réglant une matière visée à l'article 77 de la Constitution

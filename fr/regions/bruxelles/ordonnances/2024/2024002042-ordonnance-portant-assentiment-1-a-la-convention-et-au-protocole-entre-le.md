@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/07/2024002042/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Ordonnance portant assentiment: 1° à la Convention et au Protocole entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de l'Inde tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faits à Bruxelles le 26 avril 1993; et 2° au Protocole, fait à New Delhi le 9 mars 2017, modifiant la Convention et le Protocole entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de l'Inde tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faits à Bruxelles le 26 avril 1993

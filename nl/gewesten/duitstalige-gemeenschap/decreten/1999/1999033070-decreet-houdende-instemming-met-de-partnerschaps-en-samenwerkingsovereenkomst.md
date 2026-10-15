@@ -13,7 +13,7 @@ entry_into_force: 2000-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/10/1999033070/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 1999. - Decreet houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en Turkmenistan, anderzijds, de Bijlagen I, II, III, IV en V, het Protocol over administratieve hulp in douanebeleid en de Slotakte, gedaan te Brussel, op 25 mei 1998 (VERTALING).

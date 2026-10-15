@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029282/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 21-07-2001 en tekstbijwerking tot 24-08-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet waarbij toestemming wordt verleend voor de oprichting van de technische centra van de Franse Gemeenschap van Strée en Gembloux (VERTALING).

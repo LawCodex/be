@@ -12,7 +12,7 @@ entry_into_force: 1999-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/27/1999021253/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 1999. - Wet houdende goedkeuring van het samenwerkingsakkoord tussen de federale Staat, de Gemeenschappen en de Gewesten betreffende de bestendiging van het armoedebeleid, ondertekend te Brussel, op 5 mei 1998.

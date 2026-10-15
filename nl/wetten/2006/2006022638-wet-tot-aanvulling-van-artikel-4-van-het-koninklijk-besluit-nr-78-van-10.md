@@ -12,7 +12,7 @@ entry_into_force: 2006-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006022638/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet tot aanvulling van artikel 4 van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de gezondheidszorgberoepen, teneinde de kwaliteit van de in de apotheken verkochte producten te waarborgen.

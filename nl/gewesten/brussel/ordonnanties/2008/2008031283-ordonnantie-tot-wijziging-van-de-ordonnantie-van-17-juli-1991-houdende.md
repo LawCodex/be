@@ -13,7 +13,7 @@ entry_into_force: 2009-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/06/05/2008031283/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2008. - Ordonnantie tot wijziging van de ordonnantie van 17 juli 1991 houdende oprichting van een Adviesraad voor Gezondheids- en Welzijnszorg van de Gemeenschappelijke Gemeenschapscommissie.

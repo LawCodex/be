@@ -13,7 +13,7 @@ entry_into_force: 2010-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/22/2010027256/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2010. - Décret modifiant l'article 20 du décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz

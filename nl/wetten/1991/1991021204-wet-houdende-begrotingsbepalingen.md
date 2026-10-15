@@ -12,7 +12,7 @@ entry_into_force: 1990-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/20/1991021204/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1991. - Wet houdende begrotingsbepalingen.

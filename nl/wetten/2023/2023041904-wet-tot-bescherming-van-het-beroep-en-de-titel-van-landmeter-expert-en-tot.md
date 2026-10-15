@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/27/2023041904/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-06-2023 en tekstbijwerking tot 07-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2023. - Wet tot bescherming van het beroep en de titel van landmeter-expert en tot oprichting van een Orde van landmeters-experten

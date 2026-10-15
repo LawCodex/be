@@ -11,7 +11,7 @@ published: 1971-09-03
 entry_into_force: 1971-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/08/16/1971081607/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AOUT 1971. - Loi relative à la reprise par d'autres organismes des attributions, des tâches et du personnel de l'Etablissement des assurances sociales d'Eupen-Malmédy, de l'Institut d'assurance contre l'invalidité de Malmédy et de l'Institut d'assurance des employés privés de Malmédy.

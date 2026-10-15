@@ -13,7 +13,7 @@ entry_into_force: 1987-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/06/01/1983023313/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 1983. - Décret portant création du Fonds flamand de Construction d'Institutions hospitalières et médico-sociales .

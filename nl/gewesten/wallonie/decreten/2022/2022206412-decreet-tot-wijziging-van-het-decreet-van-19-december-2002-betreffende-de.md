@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/06/2022206412/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2022. - Decreet tot wijziging van het decreet van 19 december 2002 betreffende de organisatie van de gewestelijke gasmarkt en tot vervanging van artikel 9 van het decreet van 17 februari 2022 tot wijziging van de artikelen 2, 33bis/1, 34 en 35 van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en tot invoeging van de artikelen 33bis/3 en 33bis/4

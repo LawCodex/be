@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/06/28/2015011262/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "bij arrest nr 34/2020 van 05 maart 2020 (nog niet gepubliceerd in het Belgisch Staatblad) heeft het Grondwettelijk hof dit wet vernietigd handhaaft de gevolgen van de vernietigde wet tot het aannemen, door de wetgever, van een nieuwe wet die is voorafgegaan door de vereiste milieueffectbeoordeling en passende beoordeling, met inspraak van het publiek en een grensoverschrijdende raadpleging, en uiterlijk tot en met 31 december 2022."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2015. - Wet tot wijziging van de wet van 31 januari 2003 houdende de geleidelijke uitstap uit kernenergie voor industriële elektriciteitsproductie met het oog op het verzekeren van de bevoorradingszekerheid op het gebied van energie

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/08/2017012883/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2017. - Decreet betreffende op uiterlijk gebaseerde wedstrijden voor kinderen

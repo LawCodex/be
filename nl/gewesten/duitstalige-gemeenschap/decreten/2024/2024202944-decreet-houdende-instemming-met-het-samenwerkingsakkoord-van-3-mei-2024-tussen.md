@@ -13,7 +13,7 @@ entry_into_force: 2024-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/08/2024202944/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2024. - Decreet houdende instemming met het Samenwerkingsakkoord van 3 mei 2024 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap inzake de gecoördineerde gedeeltelijke tenuitvoerlegging van Verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (digitaledienstenverordening)

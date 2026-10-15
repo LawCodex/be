@@ -12,7 +12,7 @@ entry_into_force: 1998-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/12/2001015032/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 1998. - Wet houdende instemming met volgende internationale akten : a) de Overeenkomst op grond van artikel K.3 van het Verdrag betreffende de Europese Unie tot oprichting van een Europese Politiedienst (Europol Overeenkomst), Bijlage en Verklaringen, gedaan te Brussel op 26 juli 1995; b) het Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst tot oprichting van een Europese Politiedienst, gedaan te Brussel op 24 juli 1996; c) en het Protocol opgesteld op basis van artikel K.3 van het verdrag betreffende de Europese Unie en artikel 41, lid 3, van de Europol-Overeenkomst, betreffende de voorrechten en immuniteiten van Europol, de leden van zijn organen, zijn adjunct-directeuren en zijn personeelsleden, gedaan te Brussel op 19 juni 1997. - Addendum.

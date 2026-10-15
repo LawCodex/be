@@ -13,7 +13,7 @@ entry_into_force: 2018-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/02/2018011271/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2018. - Decreet houdende wijziging van artikel 5.1.4, eerste lid, van het Energiedecreet, wat de preventie, detectie, vaststelling en bestraffing van energiefraude betreft

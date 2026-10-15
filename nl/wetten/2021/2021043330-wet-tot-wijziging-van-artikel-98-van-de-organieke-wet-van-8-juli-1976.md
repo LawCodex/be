@@ -12,7 +12,7 @@ entry_into_force: 2021-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/26/2021043330/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Wet tot wijziging van artikel 98 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

@@ -13,7 +13,7 @@ entry_into_force: 2004-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004202464/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet houdende goedkeuring van de Samenwerkingsovereenkomst tussen de Franse Gemeenschap en het Waalse Gewest betreffende de modaliteiten voor de toekenning van middelen ter bevordering van de indienstneming van niet-werkende werkzoekenden door de werkgevers van de onderwijssector overeenkomstig artikel 4 van het Waalse decreet van 25 april 2002 betreffende de tegemoetkomingen ter bevordering van de indienstneming van niet-werkende werkzoekenden door de plaatselijke, gewestelijke en gemeenschapsoverheden en door bepaalde werkgevers in de niet-commerciële sector, het onderwijs en de commerciële sector (VERTALING).

@@ -11,7 +11,7 @@ entry_into_force: 1990-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/06/06/1990014220/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 1990. - Wet betreffende de luchtvaartondernemingen.

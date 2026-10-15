@@ -13,7 +13,7 @@ entry_into_force: 2014-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/09/2014200394/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2014. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Benelux Unie, ondertekend te Brussel op 3 februari 2012

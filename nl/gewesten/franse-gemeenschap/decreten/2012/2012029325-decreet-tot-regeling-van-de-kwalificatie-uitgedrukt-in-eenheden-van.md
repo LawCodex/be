@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/12/2012029325/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-02-2016 en tekstbijwerking tot 23-09-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Decreet tot regeling van de kwalificatie uitgedrukt in eenheden van leerresultaten (KEL) in het secundair kwalificatieonderwijs en tot wijziging van verschillende bepalingen betreffende het secundair onderwijs

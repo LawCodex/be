@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/12/2015035963/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2015. - Décret modifiant le décret du 22 décembre 2006 concernant la protection des eaux contre la pollution par les nitrates à partir de sources agricoles

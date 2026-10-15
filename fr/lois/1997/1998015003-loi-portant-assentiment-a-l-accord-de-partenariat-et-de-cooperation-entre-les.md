@@ -12,7 +12,7 @@ entry_into_force: 1998-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/03/1998015003/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1997. - Loi portant assentiment à l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Moldavie, d'autre part, Annexes I, II, III, IV et V, et Protocole et Acte final, faits à Bruxelles le 28 novembre 1994.

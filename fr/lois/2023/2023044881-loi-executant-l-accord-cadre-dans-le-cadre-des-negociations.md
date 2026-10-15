@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/31/2023044881/justel"
 department: "Emploi, Travail et Concertation sociale - Finances"
 justel_note: "Consultation des versions antérieures à partir du 05-09-2023 et mise à jour au 27-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2023. - Loi exécutant l'accord cadre dans le cadre des négociations interprofessionnelles pour la période 2023-2024

@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/15/2005203367/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2005. - Decreet houdende verschillende wijzigingen in het Wetboek der registratie-, hypotheek- en griffierechten en in het Wetboek der successierechten. (Nota : Erratum ingenomen in het decreet en vanaf artikel 6 tot en met 30; B.S. 30/01/2006, p. 4984 en volgende). (Vertaling).

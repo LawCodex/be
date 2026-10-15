@@ -13,7 +13,7 @@ entry_into_force: 2016-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/02/2016036637/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2016. - Décret portant assentiment à l'accord de partenariat et de coopération renforcé entre l'Union européenne et ses Etats membres, d'une part, et la République du Kazakhstan, d'autre part, signé à Astana le 21 décembre 2015

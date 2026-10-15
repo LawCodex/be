@@ -13,7 +13,7 @@ entry_into_force: 1999-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029346/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Décret portant assentiment au Protocole portant amendement à la Charte sociale européenne, fait à Turin le 21 octobre 1991.

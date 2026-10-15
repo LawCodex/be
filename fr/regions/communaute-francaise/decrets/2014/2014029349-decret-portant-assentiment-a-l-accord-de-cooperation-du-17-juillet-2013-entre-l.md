@@ -13,7 +13,7 @@ entry_into_force: 2014-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/03/2014029349/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Décret portant assentiment à l'accord de coopération du 17 juillet 2013 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Commission communautaire française et la Commission communautaire commune relatif à la mise en oeuvre de la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux Services dans le marché intérieur

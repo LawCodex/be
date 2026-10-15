@@ -12,7 +12,7 @@ entry_into_force: 1964-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/03/06/1964030605/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 1964. - Wet tot organisatie van de Middenstand.

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/16/2020203295/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2020. - Decreet houdende instemming met het samenwerkingsakkoord van 20 mei 2020 tussen de Duitse Gemeenschap en het Waalse Gewest betreffende het bereiken van de Europese energie- en klimaatdoelstellingen

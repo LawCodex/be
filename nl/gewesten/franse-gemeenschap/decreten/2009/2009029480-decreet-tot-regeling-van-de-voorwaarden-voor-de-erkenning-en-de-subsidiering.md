@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029480/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-09-2009 en tekstbijwerking tot 27-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot regeling van de voorwaarden voor de erkenning en de subsidiëring van een instantie voor de zelfregulering van journalistieke deontologie

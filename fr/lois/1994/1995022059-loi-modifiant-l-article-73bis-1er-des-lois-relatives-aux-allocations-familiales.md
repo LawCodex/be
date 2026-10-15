@@ -12,7 +12,7 @@ entry_into_force: 1995-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/09/1995022059/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1994. - LOI modifiant l'article 73bis, § 1er, des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939

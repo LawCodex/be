@@ -13,7 +13,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/25/2021021408/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2021. - Décret portant modification de décrets suite à la réorganisation du domaine politique Chancellerie et Gouvernance publique et fusion du domaine politique Chancellerie et Gouvernance publique avec le domaine politique Affaires étrangères de la Flandre

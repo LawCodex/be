@@ -12,7 +12,7 @@ published: 2011-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/07/20/2011031386/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Ordonnance modifiant diverses ordonnances dans le cadre de la création d'une administration fiscale au sein du Ministère de la Région de Bruxelles-Capitale

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/17/2021031888/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-07-2021 et mise à jour au 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2021. - Décret portant le Livre 6 du Code de l'enseignement fondamental et de l'enseignement secondaire et portant le titre relatif à la formation professionnelle continue des membres de l'équipe éducative des écoles et des membres du personnel de l'équipe pluridisciplinaire des Centres PMS

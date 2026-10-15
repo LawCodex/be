@@ -12,7 +12,7 @@ entry_into_force: 1994-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1993000461/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet houdende wijziging van de artikelen 10, 11, 12 en 14 van en invoeging van een artikel 12bis in de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

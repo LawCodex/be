@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/17/2014031571/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 03-10-2014 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2014. - Décret relatif à l'inclusion de la personne handicapée

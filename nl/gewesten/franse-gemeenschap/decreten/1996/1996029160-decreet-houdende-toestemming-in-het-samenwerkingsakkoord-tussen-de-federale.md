@@ -13,7 +13,7 @@ entry_into_force: 1994-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/18/1996029160/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1996. - Decreet houdende toestemming in het Samenwerkingsakkoord tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de nadere regelen voor het sluiten van gemengde verdragen (VERTALING).

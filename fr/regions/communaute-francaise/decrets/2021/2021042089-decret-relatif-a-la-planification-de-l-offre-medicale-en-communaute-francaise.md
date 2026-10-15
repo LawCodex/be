@@ -13,7 +13,7 @@ entry_into_force: 2021-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/03/2021042089/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2021. - Décret relatif à la planification de l'offre médicale en Communauté française

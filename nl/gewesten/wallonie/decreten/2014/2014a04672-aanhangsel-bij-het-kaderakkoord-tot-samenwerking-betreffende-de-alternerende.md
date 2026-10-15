@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014A04672/justel"
 department: "Franse Gemeenschap - Franse Gemeenschapscommissie - Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-2014 en tekstbijwerking tot 24-03-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Aanhangsel bij het kaderakkoord tot samenwerking betreffende de alternerende opleiding, gesloten te Brussel op 24 oktober 2008 tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie

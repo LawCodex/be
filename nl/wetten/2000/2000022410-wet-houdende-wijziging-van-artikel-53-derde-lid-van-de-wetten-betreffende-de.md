@@ -12,7 +12,7 @@ entry_into_force: 2000-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/04/06/2000022410/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2000. - Wet houdende wijziging van artikel 53, derde lid, van de wetten betreffende de schadeloosstelling voor beroepsziekten gecoördineerd op 3 juni 1970.

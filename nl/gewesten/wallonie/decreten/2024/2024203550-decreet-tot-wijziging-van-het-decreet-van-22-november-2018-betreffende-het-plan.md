@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024203550/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 22-07-2024 en tekstbijwerking tot 10-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van het decreet van 22 november 2018 betreffende het plan voor maatschappelijke cohesie wat betreft de aangelegenheden waarvan de uitoefening van de Franse Gemeenschap is overgedragen

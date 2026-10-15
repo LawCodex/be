@@ -12,7 +12,7 @@ published: 2018-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/12/2018014505/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2018. - Décret relatif à la " Koninklijke Academie voor Nederlandse Taal en Letteren "

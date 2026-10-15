@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/04/2015029006/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-01-2015 en tekstbijwerking tot 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2014. - Decreet tot bevestiging van de gemeenschappelijke eindcompetenties en de kennis vereist op het einde van de doorstromingsafdeling van de algemene en technologische humaniora in wetenschappelijke opvoeding en van de minimale competenties in wiskunde op het einde van de kwalificatie-afdeling indien het aanleren van wiskunde in het studieprogramma voorkomt

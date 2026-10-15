@@ -12,7 +12,7 @@ entry_into_force: 2017-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/18/2017020539/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2017. - Loi relative à l'identification électronique

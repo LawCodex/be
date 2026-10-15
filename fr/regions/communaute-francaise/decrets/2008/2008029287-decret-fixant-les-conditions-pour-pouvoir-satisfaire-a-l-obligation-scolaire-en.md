@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/04/25/2008029287/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-06-2008 et mise à jour au 19-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2008. - Décret fixant les conditions pour pouvoir satisfaire à l'obligation scolaire en dehors de l'enseignement organisé ou subventionné par la Communauté française

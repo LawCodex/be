@@ -13,7 +13,7 @@ entry_into_force: 1996-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/26/1996036481/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 1996. - Décret portant le deuxième ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 1996. (TRADUCTION).

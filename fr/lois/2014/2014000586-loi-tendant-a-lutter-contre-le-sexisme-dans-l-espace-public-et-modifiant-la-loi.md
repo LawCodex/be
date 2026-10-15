@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2014000586/justel"
 department: "Institut pour l'égalité des femmes et des hommes - Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 02-04-2026 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi tendant à lutter contre le sexisme dans l'espace public et modifiant la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes afin de pénaliser l'acte de discrimination

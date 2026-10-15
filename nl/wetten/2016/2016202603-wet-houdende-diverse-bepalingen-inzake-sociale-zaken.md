@@ -12,7 +12,7 @@ entry_into_force: 2016-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/16/2016202603/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2016. - Wet houdende diverse bepalingen inzake sociale zaken

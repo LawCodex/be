@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036127/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République du Costa Rica concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 26 avril 2002 (TRADUCTION).

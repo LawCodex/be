@@ -13,7 +13,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/02/21/1991027161/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 1991. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende het gezamenlijk uitoefenen van bevoegdheden door de Franse Gemeenschap en het Waalse Gewest.

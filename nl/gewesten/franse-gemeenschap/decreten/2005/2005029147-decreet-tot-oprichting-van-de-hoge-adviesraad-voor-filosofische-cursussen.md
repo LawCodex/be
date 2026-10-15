@@ -13,7 +13,7 @@ entry_into_force: 2005-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/03/2005029147/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2005. - Decreet tot oprichting van de Hoge Adviesraad voor filosofische cursussen. (Vertaling).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/10/27/2006023149/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 10-11-2006 et mise à jour au 28-04-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2006. - Loi relative au contrôle des institutions de retraite professionnelle.

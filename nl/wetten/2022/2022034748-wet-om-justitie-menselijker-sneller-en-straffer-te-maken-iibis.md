@@ -12,7 +12,7 @@ entry_into_force: 2022-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/06/2022034748/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2022. - Wet om justitie menselijker, sneller en straffer te maken IIbis

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/13/2006022171/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2006 et mise à jour au 18-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2006. - Loi relative à l'évaluation des incidences de certains plans et programmes sur l'environnement et à la participation du public dans l'élaboration des plans et des programmes relatifs à l'environnement

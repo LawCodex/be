@@ -13,7 +13,7 @@ entry_into_force: 2013-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/11/2013031614/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2013. - Ordonnance modifiant l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement (texte remplacé par erratum publié aux pages 47151-47212 du M.B. du 26-07-2013)

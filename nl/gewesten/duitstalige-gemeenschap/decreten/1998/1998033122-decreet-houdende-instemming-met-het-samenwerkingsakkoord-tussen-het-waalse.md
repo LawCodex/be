@@ -13,7 +13,7 @@ entry_into_force: 1998-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/10/26/1998033122/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 1998. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap tot wijziging van het samenwerkingsakkoord van 3 juli 1997 tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap omtrent het doorstromingsprogramma (VERTALING).

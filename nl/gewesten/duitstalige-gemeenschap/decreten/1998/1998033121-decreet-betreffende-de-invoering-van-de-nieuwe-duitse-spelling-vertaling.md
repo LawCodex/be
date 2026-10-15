@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/10/26/1998033121/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "de artikelen 1 tot 4 dienen als hierover gelezen te worden :(NOTA : Raadpleging van vroegere versies vanaf 08-04-1999 en tekstbijwerking tot 04-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 1998. - Decreet betreffende de invoering van de nieuwe Duitse spelling (VERTALING).

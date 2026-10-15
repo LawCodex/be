@@ -11,7 +11,7 @@ published: 1969-05-03
 entry_into_force: 1969-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/02/27/1969022703/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 1969. - Loi portant approbation du Protocole relatif au statut des réfugiés, fait à New York le 31 janvier 1967.

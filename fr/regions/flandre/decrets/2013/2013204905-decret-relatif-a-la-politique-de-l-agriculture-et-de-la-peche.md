@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/28/2013204905/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-09-2013 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2013. - Décret relatif à la politique de l'agriculture et de la pêche

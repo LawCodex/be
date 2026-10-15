@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/04/1996027270/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 14-06-1996 en tekstbijwerking tot 10-04-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 1996. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Franse Gemeenschapscommissie van Brussel-Hoofdstad en het Waalse Gewest waarbij het vrije verkeer van gehandicapte personen wordt gewaarborgd (VERTALING)

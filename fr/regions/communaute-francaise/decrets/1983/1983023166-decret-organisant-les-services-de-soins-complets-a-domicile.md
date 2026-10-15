@@ -12,7 +12,7 @@ published: 1983-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/03/30/1983023166/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1983. - Décret organisant les services de soins complets à domicile.

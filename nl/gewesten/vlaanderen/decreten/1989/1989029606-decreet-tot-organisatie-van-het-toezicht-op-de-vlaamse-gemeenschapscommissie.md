@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1989/07/05/1989029606/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-03-2021 en tekstbijwerking tot 17-03-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1989. - Decreet tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie

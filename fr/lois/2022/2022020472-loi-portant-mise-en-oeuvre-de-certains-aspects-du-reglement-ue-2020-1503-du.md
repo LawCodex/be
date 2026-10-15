@@ -12,7 +12,7 @@ entry_into_force: 2022-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/09/2022020472/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2022. - Loi portant mise en oeuvre de certains aspects du règlement (UE) 2020/1503 du Parlement européen et du Conseil du 7 octobre 2020 relatif aux prestataires européens de services de financement participatif pour les entrepreneurs, et modifiant le règlement (UE) 2017/1129 et la directive (UE) 2019/1937 (I)

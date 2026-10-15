@@ -11,7 +11,7 @@ published: 1944-09-02
 entry_into_force: 1944-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1944/05/27/1944052750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 1944. - ARRETE-LOI étendant la compétence des conseils de guerre et abrégeant la procédure pour certaines infractions.

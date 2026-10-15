@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035823/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-06-2004 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant réforme du " " Fonds Bijzondere Jeugdbijstand " (Fonds d'Assistance spéciale à la Jeunesse) en l'agence autonomisée interne dotée de la personnalité juridique " Fonds Jongerenwelzijn " (Fonds d'Aide sociale aux Jeunes) (TRADUCTION).

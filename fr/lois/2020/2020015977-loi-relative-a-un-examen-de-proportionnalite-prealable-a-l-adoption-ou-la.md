@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/10/27/2020015977/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 13-11-2020 et mise à jour au 12-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2020. - Loi relative à un examen de proportionnalité préalable à l'adoption ou la modification d'une réglementation de profession

@@ -12,7 +12,7 @@ entry_into_force: 2020-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/07/17/2019015590/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1987. - Wet houdende goedkeuring van het Verdrag inzake een Gedragscode voor lijnvaartconferences, en van de Bijlage, opgemaakt te Genève op 6 april 1974

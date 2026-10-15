@@ -12,7 +12,7 @@ entry_into_force: 2013-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/31/2012009532/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 2012. - Wet houdende diverse bepalingen, inzonderheid betreffende justitie

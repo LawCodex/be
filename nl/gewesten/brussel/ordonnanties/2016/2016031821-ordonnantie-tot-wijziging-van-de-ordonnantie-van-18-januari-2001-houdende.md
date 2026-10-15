@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031821/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie tot wijziging van de ordonnantie van 18 januari 2001 houdende organisatie en werking van de Brusselse Gewestelijke Dienst voor Arbeidsbemiddeling met het oog op de verwezenlijking van de Zesde Staatshervorming en de wijziging van de naam van deze dienst

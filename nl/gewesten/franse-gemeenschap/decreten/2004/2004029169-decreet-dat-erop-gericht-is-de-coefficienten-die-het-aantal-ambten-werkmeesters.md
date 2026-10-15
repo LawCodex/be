@@ -13,7 +13,7 @@ entry_into_force: 2004-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029169/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet dat erop gericht is de coëfficiënten die het aantal ambten werkmeesters en werkleiders in de CEFA bepalen, in overeenstemming te brengen met de coëfficiënten van het technisch en beroepsonderwijs met volledig leerplan (VERTALING).

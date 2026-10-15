@@ -13,7 +13,7 @@ entry_into_force: 2010-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/06/11/2010035480/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2010. - Decreet houdende instemming met het Europees verdrag inzake de bescherming van het archeologisch erfgoed (herzien), opgemaakt in Valletta op 16 januari 1992

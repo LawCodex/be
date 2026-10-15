@@ -13,7 +13,7 @@ entry_into_force: 2013-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/30/2013031440/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2013. - Decreet van de Franse Gemeenschapscommissie houdende instemming met het Verdrag betreffende de toetreding van de Republiek Kroatië tot de Europese Unie met Slotakte, verklaringen en briefwisseling, gedaan te Brussel op 9 december 2011

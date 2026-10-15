@@ -13,7 +13,7 @@ entry_into_force: 2019-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/11/22/2019015604/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 7 september 2018 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de uitvoering van een aantal bepalingen van het protocol bij het verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, ter bestrijding van verzuring, eutrofiëring en ozon op leefniveau, met bijlagen, ondertekend in Göteborg op 30 november 1999, zoals gewijzigd op 4 mei 2012 te Genève

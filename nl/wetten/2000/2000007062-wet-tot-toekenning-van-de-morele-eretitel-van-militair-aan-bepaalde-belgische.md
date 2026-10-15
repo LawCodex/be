@@ -12,7 +12,7 @@ entry_into_force: 2000-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/18/2000007062/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2000. - Wet tot toekenning van de morele eretitel van militair aan bepaalde Belgische burgers.

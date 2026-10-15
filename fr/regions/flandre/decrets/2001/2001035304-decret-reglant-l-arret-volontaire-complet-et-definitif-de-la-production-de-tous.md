@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/09/2001035304/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-03-2001 et mise à jour au 30-12-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2001. - Décret réglant l'arrêt volontaire, complet et définitif de la production de tous les effluents d'élevage provenant d'une ou plusieurs espèces animales (TRADUCTION).

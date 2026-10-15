@@ -12,7 +12,7 @@ entry_into_force: 2017-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/06/2017020543/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2017. - Loi modifiant la loi du 2 mars 1954 tendant à prévenir et réprimer les atteintes au libre exercice des pouvoirs souverains établis par la Constitution

@@ -12,7 +12,7 @@ published: 2008-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008202893/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet houdende wijziging van titel II van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

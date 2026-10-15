@@ -12,7 +12,7 @@ entry_into_force: 2015-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015000440/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en vue d'une meilleure prise en compte des menaces contre la société et la sécurité nationale dans les demandes de protection internationale

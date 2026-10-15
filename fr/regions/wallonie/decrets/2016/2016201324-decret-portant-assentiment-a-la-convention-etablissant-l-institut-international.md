@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/03/2016201324/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2016. - Décret portant assentiment à la Convention établissant l'Institut international pour la démocratie et l'assistance électorale et à l'Acte final, faits à Stockholm le 27 février 1995, tels qu'amendés le 24 janvier 2006

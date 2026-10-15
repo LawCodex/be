@@ -10,7 +10,7 @@ date: 2007-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007015067/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet houdende instemming met de Akte van herziening van het Verdrag inzake de verlening van Europese octrooien (Verdrag inzake het Europees octrooi) van 5 oktober 1973, laatst gewijzigd op 17 december 1991, gedaan te München op 29 november 2000.

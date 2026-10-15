@@ -13,7 +13,7 @@ last_amended: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/05/31/1958053112/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 24-08-2007."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 1958. - Loi réglementant les combats et exhibitions de boxe. (NOTE 1 : Abrogé pour la Communauté flamande par DCFL 1991-03-27/35 , art.45, 1°, 002; En vigueur : 13-04-2007) - (NOTE 2 : Abrogé pour la Communauté française par DCFR 2001-03-08/33 , art. 22; En vigueur : 24-12-2002) - (NOTE 3 : Abrogé pour la Communauté germanophone par DCG 2006-01-30/40 , art. 41, 2°; En vigueur : 22-04-2006) - (NOTE 4 : Abrogé pour la Région de Bruxelles-Capitale par ORD 2007-07-19/69 , art. 18, 1°; En vigueur : indéterminée ) -

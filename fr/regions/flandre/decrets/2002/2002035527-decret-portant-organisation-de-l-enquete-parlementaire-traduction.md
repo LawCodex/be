@@ -13,7 +13,7 @@ entry_into_force: 2002-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/01/2002035527/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2002. - Décret portant organisation de l'enquête parlementaire (TRADUCTION).

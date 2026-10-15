@@ -12,7 +12,7 @@ entry_into_force: 1998-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/02/1998003169/justel"
 department: "Finances - Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1998. - Loi relative à la participation de la Belgique à la sixième reconstitution des ressources du Fonds asiatique de Développement.

@@ -12,7 +12,7 @@ entry_into_force: 2004-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/03/2002015062/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2000. - Wetsontwerp houdende instemming met het Aanvullend Protocol, gedaan te Brussel op 27 september 1999, bij de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Togo inzake de handelsscheepvaart, ondertekend te Brussel op 19 oktober 1984.

@@ -12,7 +12,7 @@ entry_into_force: 1992-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/07/24/1992015021/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1984. - Wet houdende goedkeuring van het Verdrag inzake externe beveiliging van kernmateriaal, en van de Bijlagen, opgemaakt te Wenen en te New York op 3 maart 1980.

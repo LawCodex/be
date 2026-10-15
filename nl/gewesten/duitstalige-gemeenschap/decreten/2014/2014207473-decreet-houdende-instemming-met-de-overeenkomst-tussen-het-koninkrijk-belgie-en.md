@@ -13,7 +13,7 @@ entry_into_force: 2014-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/24/2014207473/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2014. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Bahrein tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen en met het Protocol, gedaan te Manamah op 4 november 2007

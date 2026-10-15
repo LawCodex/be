@@ -12,7 +12,7 @@ entry_into_force: 2009-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/10/2008015123/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - Loi portant assentiment à la Convention sur la reconnaissance des qualifications relatives à l'enseignement supérieur dans la Région européenne, faite à Lisbonne le 11 avril 1997

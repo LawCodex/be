@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2020044371/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-12-2020 et mise à jour au 12-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret portant confirmation de divers arrêtés de pouvoirs spéciaux du Gouvernement de la Communauté française en matière d'enseignement obligatoire conformément à l'article 4, alinéa 1er, du décret du 17 mars 2020 octroyant des pouvoirs spéciaux au Gouvernement dans le cadre de la crise sanitaire du COVID-19 et portant modification des arrêtés de pouvoirs spéciaux du Gouvernement de la Communauté française n° 33 du 18 juin 2020 relatif à l'aménagement du calendrier des évaluations externes non certificatives pour l'année scolaire 2020-2021 dans le cadre de la crise sanitaire du COVID-19 et n° 34 du 18 juin 2020 dérogeant à certaines dispositions relatives au pilotage du système éducatif dans le cadre de la crise sanitaire du COVID-19

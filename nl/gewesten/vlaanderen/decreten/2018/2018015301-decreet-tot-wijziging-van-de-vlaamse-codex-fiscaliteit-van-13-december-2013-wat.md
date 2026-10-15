@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/07/2018015301/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2018. - Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de belasting op de spelen en weddenschappen en op de automatische ontspanningstoestellen

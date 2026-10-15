@@ -13,7 +13,7 @@ entry_into_force: 2016-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/28/2016202431/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2016. - Décret modifiant le décret du 2 avril 1998 créant l'Agence wallonne à l'exportation et aux investissements étrangers

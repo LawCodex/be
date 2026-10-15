@@ -12,7 +12,7 @@ entry_into_force: 1994-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/11/29/1994015091/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 1991. - Wet houdende goedkeuring van het Protocol betreffende de voorrechten en immuniteiten van de Europese Organisatie voor telecommunicatiesatellieten (EUTELSAT), opgemaakt te Parijs op 13 februari 1987.

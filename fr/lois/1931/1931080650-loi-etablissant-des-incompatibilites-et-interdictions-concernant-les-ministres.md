@@ -13,7 +13,7 @@ last_amended: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1931/08/06/1931080650/justel"
 justel_note: "Consultation des versions antérieures à partir du 19-02-2003 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1931. - Loi établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives.

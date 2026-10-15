@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/27/2017040704/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-09-2017 en tekstbijwerking tot 25-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2017. - Ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie tot vaststelling van de regels voor de verdeling van de algemene dotatie aan de gemeenten en de OCMW's van het Brussels Hoofdstedelijk Gewest vanaf het jaar 2017

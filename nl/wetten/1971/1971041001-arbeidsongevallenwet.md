@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1971/04/10/1971041001/justel"
 justel_notes:
   - "art. 22bis, 22ter, 23, 25, 32bis, 73, 77bis gewijzigd met ingang op een onbepaalde datum bij W 2006-07-13/68 , art. 72 tot 79, 052; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 08-07-1981 en tekstbijwerking tot 05-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1971. - Arbeidsongevallenwet.

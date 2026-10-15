@@ -11,7 +11,7 @@ published: 2014-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/09/2014024102/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2014. - Wet houdende wijziging van artikel 25octies/2 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994

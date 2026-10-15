@@ -13,7 +13,7 @@ entry_into_force: 2005-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/17/2005203286/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2005. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Azerbeidzjan inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 18 mei 2004. (Vertaling).

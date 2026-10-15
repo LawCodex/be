@@ -13,7 +13,7 @@ entry_into_force: 2020-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/03/17/2020040696/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2020. - Décret octroyant des pouvoirs spéciaux au Gouvernement dans le cadre de la crise sanitaire du Covid-19

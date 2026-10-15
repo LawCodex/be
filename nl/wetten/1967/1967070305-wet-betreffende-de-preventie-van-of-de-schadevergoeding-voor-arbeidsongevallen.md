@@ -13,7 +13,7 @@ last_amended: 2024-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/07/03/1967070305/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 06-04-1984 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 1967. - WET betreffende [de preventie van of] de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector. (opschrift gewijzigd bij W 1998-10-19/37 , art. 2, 013; Inwerkingtreding : 25-11-1998)

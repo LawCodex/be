@@ -13,7 +13,7 @@ entry_into_force: 2024-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/11/23/2023047511/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2023. - Ordonnantie houdende instemming met de Overeenkomst tussen het Koninkrijk België en Oekraïne inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, gedaan te Brussel, op 10 februari 2021

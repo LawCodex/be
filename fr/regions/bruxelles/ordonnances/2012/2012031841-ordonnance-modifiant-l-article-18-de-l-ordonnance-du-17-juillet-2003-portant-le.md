@@ -13,7 +13,7 @@ entry_into_force: 2012-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/12/06/2012031841/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2012. - Ordonnance modifiant l'article 18 de l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement

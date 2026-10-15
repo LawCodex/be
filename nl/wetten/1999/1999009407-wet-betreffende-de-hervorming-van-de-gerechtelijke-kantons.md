@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/25/1999009407/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-1999 en tekstbijwerking tot 28-04-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1999. - Wet betreffende de hervorming van de gerechtelijke kantons.

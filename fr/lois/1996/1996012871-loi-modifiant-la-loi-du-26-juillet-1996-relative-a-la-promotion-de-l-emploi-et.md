@@ -12,7 +12,7 @@ entry_into_force: 1997-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/06/1996012871/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1996. - Loi modifiant la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité, modifiant l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays et modifiant la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.

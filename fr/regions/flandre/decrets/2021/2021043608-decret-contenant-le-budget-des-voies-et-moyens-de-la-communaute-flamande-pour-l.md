@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/23/2021043608/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2021 et mise à jour au 29-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Décret contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2022

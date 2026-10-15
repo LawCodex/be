@@ -12,7 +12,7 @@ entry_into_force: 1999-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/29/1999011161/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1999. - Loi relative à l'organisation du marché du gaz et au statut fiscal des producteurs d'électricité.

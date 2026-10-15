@@ -13,7 +13,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004731/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret relatif à la fusion volontaire des communes de Melle et Merelbeke et portant modification de l'annexe au Décret électoral local et provincial du 8 juillet 2011, en ce qui concerne la dissolution des communes à fusionner et l'insertion de la nouvelle commune

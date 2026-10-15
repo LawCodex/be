@@ -13,7 +13,7 @@ entry_into_force: 2021-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/02/2021030929/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Décret portant assentiment à l'accord de coopération du 22 décembre 2020 entre l'Etat fédéral, la Communauté flamande, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté française et la communauté germanophone concernant l'utilisation de SURE

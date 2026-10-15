@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/26/1999029312/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 27-08-1999 en tekstbijwerking tot 08-05-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1999. - Decreet houdende bevestiging van het referentiesysteem voor de basisvaardigheden en houdende wijziging van de terminologie betreffende de bevoegdheid uitgeoefend door het Parlement met toepassing van de artikelen 16, 25, 26, 35 en 43 van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren (VERTALING).

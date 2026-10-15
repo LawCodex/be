@@ -12,7 +12,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/19/2012031603/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Decreet houdende instemming met het Verdrag inzake de bevoegdheid, het toepasselijk recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen, opgemaakt in Den Haag op 19 oktober 1996

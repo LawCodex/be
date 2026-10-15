@@ -13,7 +13,7 @@ last_amended: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/05/31/1958053112/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 24-08-2007."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 1958. - Wet tot reglementering van de bokswedstrijden en -exhibities. (NOTA 1 : Opgeheven voor de Vlaamse Gemeenschap bij DVR 1991-03-27/35 , art. 45, 1°, 002; Inwerkingtreding : 13-04-2007) - (NOTA 2 : Opgeheven voor de Franse Gemeenschap door DFG 2001-03-08/33 , art. 22; Inwerkingtreding : 24-12-2002) - (NOTA 3 : Opgeheven voor de Duitstalige Gemeenschap door DDG 2006-01-30/40 , art. 41, 2°; Inwerkingtreding : 22-04-2006) - (NOTA 4 : Opgeheven voor het Brussels Hoofdstedelijk Gewest door ORD 2007-07-19/69 , 18, 1°; Inwerkingtreding : onbepaald ) -

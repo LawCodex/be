@@ -13,7 +13,7 @@ entry_into_force: 2007-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007202053/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2007. - Décret portant assentiment à la modification de l'accord de coopération du 29 avril 2004 entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret wallon du 25 avril 2002 relatif aux aides visant à favoriser l'engagement des demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand.

@@ -13,7 +13,7 @@ entry_into_force: 2001-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/04/17/2001033037/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2001. - Decreet houdende instemming met de Overeenkomst tot herziening van de overeenkomst houdende oprichting van een Europees Universitair Instituut, en met de Slotakte, gedaan te Florence op 18 juni 1992 en 17 september 1992 (VERTALING).

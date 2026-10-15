@@ -12,7 +12,7 @@ entry_into_force: 2008-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/09/18/2008015149/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2008. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Ghana tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar vermogenswinst, ondertekend te Brussel op 22 juni 2005.

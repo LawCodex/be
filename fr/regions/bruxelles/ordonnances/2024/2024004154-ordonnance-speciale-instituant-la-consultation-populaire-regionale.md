@@ -13,7 +13,7 @@ entry_into_force: 2024-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/25/2024004154/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Ordonnance spéciale instituant la consultation populaire régionale

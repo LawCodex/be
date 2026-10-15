@@ -12,7 +12,7 @@ entry_into_force: 1998-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/12/2001015039/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 1998. - Loi portant assentiment aux actes internationaux suivants : a) de l'Accord portant modification de la quatrième Convention ACP-CE de Lomé, Acte final, et Protocole à la quatrième Convention ACP-CE de Lomé à la suite de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, faits à Maurice le 4 novembre 1995; b) et de l'Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif au financement et à la gestion des aides de la Communauté dans le cadre du second Protocole financier de la quatrième Convention ACP-CE, fait à Bruxelles le 20 décembre 1995. - Addendum.

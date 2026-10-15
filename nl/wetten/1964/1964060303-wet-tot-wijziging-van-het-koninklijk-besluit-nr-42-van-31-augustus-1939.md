@@ -13,7 +13,7 @@ last_amended: 2019-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/06/03/1964060303/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-03-1990 en tekstbijwerking tot 14-01-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1964. - Wet tot wijziging van het koninklijk besluit nr. 42 van 31 augustus 1939 houdende reorganisatie van de nationale delcrederedienst en tot machtiging van de Minister van Financiën [en van de Minister die de Buitenlandse Handelsbetrekkingen in zijn bevoegdheid heeft, leningen aan staten of Buitenlandse organismen toe te staan]. &lt;KB 75 10-11-1975, art. 3&gt; -

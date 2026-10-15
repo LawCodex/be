@@ -12,7 +12,7 @@ entry_into_force: 2016-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/26/2016003181/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Loi modifiant l'article 194ter du Code des impôts sur les revenus 1992 relatif au régime de Tax Shelter pour la production audiovisuelle

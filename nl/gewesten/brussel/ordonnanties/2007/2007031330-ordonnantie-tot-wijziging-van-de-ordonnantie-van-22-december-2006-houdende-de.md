@@ -13,7 +13,7 @@ entry_into_force: 2007-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/19/2007031330/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Ordonnantie tot wijziging van de ordonnantie van 22 december 2006 houdende de algemene uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2007.

@@ -13,7 +13,7 @@ entry_into_force: 2018-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/17/2018205069/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2018. - Decreet houdende instemming met het Protocol van toetreding tot de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van Ecuador, gedaan te Brussel op 11 november 2016

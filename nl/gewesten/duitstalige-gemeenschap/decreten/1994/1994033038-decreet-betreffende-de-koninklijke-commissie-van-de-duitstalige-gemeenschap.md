@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/14/1994033038/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 02-06-1994 en tekstbijwerking tot 14-11-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 1994. - Decreet betreffende de Koninklijke Commissie van de Duitstalige Gemeenschap voor de Bescherming van Monumenten en Landschappen. &lt;Vertaling&gt;

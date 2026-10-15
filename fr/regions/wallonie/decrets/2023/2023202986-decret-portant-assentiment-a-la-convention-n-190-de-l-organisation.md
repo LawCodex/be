@@ -13,7 +13,7 @@ entry_into_force: 2023-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/19/2023202986/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2023. - Décret portant assentiment à la Convention n° 190 de l'Organisation internationale du Travail concernant l'élimination de la violence et du harcèlement dans le monde du travail, adoptée par la Conférence internationale du Travail à sa cent huitième session, à Genève le 21 juin 2019

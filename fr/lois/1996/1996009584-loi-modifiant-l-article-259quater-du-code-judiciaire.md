@@ -12,7 +12,7 @@ entry_into_force: 1996-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/19/1996009584/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1996. - Loi modifiant l'article 259quater du Code judiciaire.

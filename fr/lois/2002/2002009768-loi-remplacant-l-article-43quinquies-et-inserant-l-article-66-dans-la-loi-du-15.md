@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/18/2002009768/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2002. - Loi remplaçant l'article 43quinquies et insérant l'article 66 dans la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire.

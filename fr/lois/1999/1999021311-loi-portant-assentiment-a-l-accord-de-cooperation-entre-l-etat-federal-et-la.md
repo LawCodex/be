@@ -12,7 +12,7 @@ entry_into_force: 1999-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999021311/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral et la Communauté flamande relatif à la guidance et au traitement d'auteurs d'infractions à caractère sexuel.

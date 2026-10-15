@@ -12,7 +12,7 @@ entry_into_force: 1990-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/04/05/1991015038/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1984. - Loi portant approbation de l'Avenant, signé à Bruxelles le 14 février 1983, modifiant et complétant la Convention et le Protocole final entre la Belgique et le Maroc tendant à éviter les doubles impositions et à régler certaines autres questions en matière d'impôts sur le revenu, signés à Rabat le 4 mai 1972.

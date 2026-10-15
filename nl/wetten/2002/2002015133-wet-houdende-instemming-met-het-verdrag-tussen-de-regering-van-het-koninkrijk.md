@@ -10,7 +10,7 @@ date: 2002-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002015133/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Republiek Roemenië inzake politiesamenwerking, en ondertekende Bijlage, gedaan te Boekarest op 14 april 1999.

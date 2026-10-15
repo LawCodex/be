@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/20/2022021118/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-09-2022 en tekstbijwerking tot 27-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Decreet tot wijziging van het Kaderdecreet van 10 april 2003 betreffende de erkenning en subsidiëring van de beroepssector van de Podiumkunsten

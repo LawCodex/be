@@ -12,7 +12,7 @@ entry_into_force: 2017-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/09/2017014086/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2017. - Decreet tot wijziging van het decreet van 8 december 2006 houdende organisatie en subsidiëring van de sport in de Franse Gemeenschap

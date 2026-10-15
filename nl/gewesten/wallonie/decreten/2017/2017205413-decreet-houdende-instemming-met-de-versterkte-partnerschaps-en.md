@@ -12,7 +12,7 @@ published: 2017-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/12/2017205413/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2017. - Decreet houdende instemming met de versterkte partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Kazachstan, anderzijds, ondertekend te Astana op 21 december 2015

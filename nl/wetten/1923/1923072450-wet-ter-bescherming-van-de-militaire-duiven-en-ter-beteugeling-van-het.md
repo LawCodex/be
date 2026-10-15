@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1923/07/24/1923072450/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-02-2005 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1923. - WET ter bescherming van de militaire duiven en ter beteugeling van het aanwenden van duiven voor bespieding.

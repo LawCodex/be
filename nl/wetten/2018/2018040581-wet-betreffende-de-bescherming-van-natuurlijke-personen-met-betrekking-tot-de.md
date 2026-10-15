@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018040581/justel"
 department: "Justitie - Binnenlandse Zaken - Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 05-09-2018 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Wet betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens

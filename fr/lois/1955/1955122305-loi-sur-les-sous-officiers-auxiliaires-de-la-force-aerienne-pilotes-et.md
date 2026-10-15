@@ -13,7 +13,7 @@ last_amended: 2007-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/12/23/1955122305/justel"
 justel_note: "Consultation des versions antérieures à partir du 12-03-1987 et mise à jour au 10-04-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1955. - Loi sur les sous-officiers auxiliaires de la Force aérienne, pilotes et navigateurs.

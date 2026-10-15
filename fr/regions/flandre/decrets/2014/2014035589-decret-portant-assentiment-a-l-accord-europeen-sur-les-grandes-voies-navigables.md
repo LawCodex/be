@@ -13,7 +13,7 @@ entry_into_force: 2014-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035589/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996

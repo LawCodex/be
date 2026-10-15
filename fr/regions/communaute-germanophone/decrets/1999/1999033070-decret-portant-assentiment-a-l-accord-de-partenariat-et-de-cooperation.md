@@ -13,7 +13,7 @@ entry_into_force: 2000-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/10/1999033070/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 1999. - Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la Turkménistan, d'autre part, les Annexes I, II, III, IV et V, le protocole d'entraide administrative en matière douanière et l'Acte final, faits à Bruxelles, le 25 mai 1998 (TRADUCTION).

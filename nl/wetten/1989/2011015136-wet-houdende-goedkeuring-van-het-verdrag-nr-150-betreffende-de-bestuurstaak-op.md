@@ -12,7 +12,7 @@ entry_into_force: 2012-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/05/23/2011015136/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 1989. - Wet houdende goedkeuring van het Verdrag nr. 150 betreffende de bestuurstaak op het gebied van de arbeid : taak, functies en organisatie, aangenomen te Genève op 26 juni 1978 door de Internationale Arbeidsconferentie tijdens haar vierenzestigste zitting

@@ -13,7 +13,7 @@ entry_into_force: 2007-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/31/2007201966/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2007. - Decreet houdende instemming met het Protocol bij het Verdrag van 1998 betreffende toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden, betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen, opgemaakt in Kiev op 21 mei 2003 (VERTALING).

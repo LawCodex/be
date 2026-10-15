@@ -13,7 +13,7 @@ entry_into_force: 2022-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/14/2022030456/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2022. - Decreet tot wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding"

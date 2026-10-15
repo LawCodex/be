@@ -13,7 +13,7 @@ entry_into_force: 2011-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/01/2011027224/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2011. - Decreet houdende bevestiging van het besluit van de Waalse Regering van 29 september 2011 houdende codificatie van de wetgeving over de gezondheid en de sociale actie

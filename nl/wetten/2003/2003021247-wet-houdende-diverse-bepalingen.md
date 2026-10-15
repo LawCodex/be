@@ -12,7 +12,7 @@ entry_into_force: 2004-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/12/22/2003021247/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2003. - Wet houdende diverse bepalingen.

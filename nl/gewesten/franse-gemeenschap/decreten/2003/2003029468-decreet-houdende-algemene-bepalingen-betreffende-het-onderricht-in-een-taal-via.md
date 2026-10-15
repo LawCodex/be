@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029468/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2003 en tekstbijwerking tot 05-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet houdende algemene bepalingen betreffende het onderricht in een taal via onderdompeling en verschillende maatregelen inzake onderwijs. (VERTALING)

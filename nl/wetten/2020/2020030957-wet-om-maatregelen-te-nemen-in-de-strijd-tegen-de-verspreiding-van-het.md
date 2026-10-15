@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/20/2020030957/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2020. - Wet om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus SARS-CoV-2 inzake spoorvervoer (II)

@@ -13,7 +13,7 @@ entry_into_force: 2023-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/23/2023043360/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2023. - Decreet tot instemming met de regeling tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de rechtspositie van tijdelijk personeel dat wordt aangeworven door en tewerkgesteld in een orgaan van de NAVO dat op het grondgebied van het Koninkrijk België gevestigd is, ondertekend te Brussel op 7 februari 2022

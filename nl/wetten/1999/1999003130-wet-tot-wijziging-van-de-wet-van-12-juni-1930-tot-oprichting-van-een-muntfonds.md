@@ -12,7 +12,7 @@ entry_into_force: 1999-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/04/1999003130/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1999. - Wet tot wijziging van de wet van 12 juni 1930 tot oprichting van een Muntfonds en de wet van 4 april 1995 houdende fiscale en financiële bepalingen.

@@ -12,7 +12,7 @@ entry_into_force: 1997-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/12/1997003061/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1996. - Wet tot wijziging van de wet van 4 december 1990 op de financiële transacties en de financiële markten, artikel 2075 van het Burgerlijk Wetboek, artikel 2 van Titel VI, Boek I van het Wetboek van koophandel, artikel 22 van de wet van 10 juni 1964 op het openbaar aantrekken van spaargelden, artikel 44 van het BTW-Wetboek en artikel 265 van het Wetboek van de inkomstenbelastingen 1992.

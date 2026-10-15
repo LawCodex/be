@@ -12,7 +12,7 @@ entry_into_force: 1998-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/11/27/1998015126/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1996. - Wet houdende instemming met het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, het Protocol nr. 1 betreffende enkele onderwerpen van bevoegdheid, wijze van procederen en tenuitvoerlegging, het Protocol nr. 2 betreffende de eenheid in de uitlegging van het Verdrag, het Protocol nr. 3 betreffende de toepassing van artikel 57, de drie Verklaringen, en de Slotaktie, opgemaakt te Lugano op 16 september 1988.

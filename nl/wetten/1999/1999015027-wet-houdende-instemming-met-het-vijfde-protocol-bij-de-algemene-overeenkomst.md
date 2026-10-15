@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/12/1999015027/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 1999. - Wet houdende instemming met het Vijfde Protocol bij de Algemene Overeenkomst betreffende de Handel in Diensten, gedaan te Genève op 27 februari 1998.

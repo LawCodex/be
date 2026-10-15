@@ -13,7 +13,7 @@ entry_into_force: 2017-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/10/06/2016031667/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2016. - Ordonnantie houdende organisatie van de stedelijke herwaardering

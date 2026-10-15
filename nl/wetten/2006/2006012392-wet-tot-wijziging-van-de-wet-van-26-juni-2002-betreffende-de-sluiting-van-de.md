@@ -11,7 +11,7 @@ published: 2006-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/11/2006012392/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2006. - Wet tot wijziging van de wet van 26 juni 2002 betreffende de sluiting van de ondernemingen.

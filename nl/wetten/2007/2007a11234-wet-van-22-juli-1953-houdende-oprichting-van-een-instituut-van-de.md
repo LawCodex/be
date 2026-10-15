@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/30/2007A11234/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-05-2007 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2007. - Wet van 22 juli 1953 houdende oprichting van een instituut van de Bedrijfsrevisoren en organisatie van het publiek toezicht op het beroep van bedrijfsrevisor, gecoördineerd op 30 april 2007.

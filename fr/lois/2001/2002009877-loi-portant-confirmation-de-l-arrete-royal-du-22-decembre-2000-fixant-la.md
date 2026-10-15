@@ -12,7 +12,7 @@ entry_into_force: 2002-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/18/2002009877/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2001. - Loi portant confirmation de l'arrêté royal du 22 décembre 2000 fixant la contribution aux frais de fonctionnement, de personnel et d'installation de la commission des jeux de hasard due par les titulaires de licences de classe A, B, C et E.

@@ -12,7 +12,7 @@ entry_into_force: 2020-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/19/2020016195/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2020. - Decreet houdende instemming met het samenwerkingsakkoord van 24 april 2020 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de uitvoering van een aantal bepalingen van Richtlijn 2016/2284 van het Europees Parlement en de Raad van 14 december 2016 betreffende de vermindering van de nationale emissies van bepaalde luchtverontreinigende stoffen, tot wijziging van Richtlijn 2003/35/EG en tot intrekking van Richtlijn 2001/81/EG

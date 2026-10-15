@@ -12,7 +12,7 @@ entry_into_force: 2017-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/18/2017010404/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2016. - [Loi modifiant la] Loi du 14 mars 1968 abrogeant les lois relatives aux taxes de séjour des étrangers, coordonnées le 12 octobre 1953

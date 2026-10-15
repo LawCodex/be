@@ -13,7 +13,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/28/2008036409/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2008. - Décret modifiant le décret du 23 mai 2003 relatif à la répartition en régions de soins et relatif à la coopération et la programmation de structures de santé et de structures d'aide sociale. (Traduction).

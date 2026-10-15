@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/02/1998009893/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 25-11-1998 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1998. - Loi portant création d'un Centre d'Information et d'Avis sur les organisations sectaires nuisibles et d'une Cellule administrative de Coordination de la lutte contre les organisations sectaires nuisibles.

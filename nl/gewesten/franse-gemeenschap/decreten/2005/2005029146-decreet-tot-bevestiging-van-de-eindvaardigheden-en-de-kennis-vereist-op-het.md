@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/03/2005029146/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-08-2005 en tekstbijwerking tot 08-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2005. - Decreet tot bevestiging van de eindvaardigheden en de kennis vereist op het einde van de doorstromingsafdeling van de algemene en technologische humaniora op het gebied van kunstopvoeding, lichamelijke opvoeding (aanvullingen), technologie, technische en technologische opvoeding (VERTALING)

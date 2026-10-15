@@ -13,7 +13,7 @@ entry_into_force: 2019-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/25/2019040208/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2019. - Decreet houdende instemming met het Verdrag betreffende de Aziatische Infrastructuurinvesteringsbank, evenals het rapport, gedaan te Beijing op 29 juni 2015

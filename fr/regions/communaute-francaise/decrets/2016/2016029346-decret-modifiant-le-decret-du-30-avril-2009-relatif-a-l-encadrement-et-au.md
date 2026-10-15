@@ -13,7 +13,7 @@ entry_into_force: 2016-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/13/2016029346/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2016. - Décret modifiant le décret du 30 avril 2009 relatif à l'encadrement et au subventionnement des fédérations de pratiques artistiques en amateur, des Fédérations représentatives de Centres d'expression et de créativité et des centres d'expression et de créativité

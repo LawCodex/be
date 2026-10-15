@@ -13,7 +13,7 @@ entry_into_force: 2006-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/01/2006031399/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUIN 2006. - Décret portant assentiment à l'accord de coopération entre la Commission communautaire française de la Région de Bruxelles-Capitale et le Gouvernement de la Roumanie, signé à Bruxelles le 25 mai 2005.

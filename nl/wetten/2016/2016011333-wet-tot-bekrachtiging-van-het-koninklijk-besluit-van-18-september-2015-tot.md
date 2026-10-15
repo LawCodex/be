@@ -12,7 +12,7 @@ entry_into_force: 2016-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/21/2016011333/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2016. - Wet tot bekrachtiging van het koninklijk besluit van 18 september 2015 tot bepaling van de nadere regels voor de berekening van de ombudsbijdrage tot financiering van de ombudsdienst voor energie, voor het begrotingsjaar 2016 en volgende

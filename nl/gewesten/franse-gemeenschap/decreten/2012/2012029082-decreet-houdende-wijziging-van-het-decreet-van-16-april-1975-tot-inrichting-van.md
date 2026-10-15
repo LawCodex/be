@@ -13,7 +13,7 @@ entry_into_force: 2012-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/01/2012029082/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2012. - Decreet houdende wijziging van het decreet van 16 april 1975 tot inrichting van een letterkundige prijs van de Cultuurraad voor de Franse Gemeenschap

@@ -12,7 +12,7 @@ entry_into_force: 2000-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/30/2000009647/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2000. - Loi modifiant la loi du 25 octobre 1919 accordant la personnalité civile aux associations internationales poursuivant un but philanthropique, religieux, scientifique, artistique ou pédagogique.

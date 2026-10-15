@@ -12,7 +12,7 @@ entry_into_force: 2016-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/11/21/2016009565/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2016. - Loi relative à certains droits des personnes soumises à un interrogatoire

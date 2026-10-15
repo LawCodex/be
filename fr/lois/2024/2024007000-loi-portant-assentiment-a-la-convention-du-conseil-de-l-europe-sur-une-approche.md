@@ -12,7 +12,7 @@ entry_into_force: 2024-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/02/2024007000/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2024. - Loi portant assentiment à la Convention du Conseil de l'Europe sur une approche intégrée de la sécurité, de la sûreté et des services lors des matches de football et autres manifestations sportives, faite à Saint-Denis le 3 juillet 2016

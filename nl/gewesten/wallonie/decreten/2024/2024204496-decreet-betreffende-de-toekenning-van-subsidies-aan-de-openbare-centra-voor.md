@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/29/2024204496/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 09-09-2024 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2024. - Decreet betreffende de toekenning van subsidies aan de openbare centra voor maatschappelijk welzijn in het kader van de tewerkstelling van gerechtigden op maatschappelijke integratie of van daarmee gelijkgestelde maatschappelijke hulp

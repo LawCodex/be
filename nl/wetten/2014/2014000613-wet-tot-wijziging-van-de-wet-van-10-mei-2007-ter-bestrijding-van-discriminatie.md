@@ -12,7 +12,7 @@ entry_into_force: 2014-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014000613/justel"
 department: "Binnenlandse Zaken - Instituut voor de gelijkheid van vrouwen en mannen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet tot wijziging van de wet van 10 mei 2007 ter bestrijding van discriminatie tussen vrouwen en mannen met het oog op de uitbreiding ervan naar genderidentiteit en genderexpressie

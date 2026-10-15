@@ -13,7 +13,7 @@ last_amended: 2021-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1949/12/22/1949122210/justel"
 justel_note: "Consultation des versions antérieures à partir du 06-05-2016 et mise à jour au 28-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1949. - Loi domaniale

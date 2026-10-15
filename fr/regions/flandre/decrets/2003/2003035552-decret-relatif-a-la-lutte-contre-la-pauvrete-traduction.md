@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/21/2003035552/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-06-2003 et mise à jour au 29-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2003. - Décret relatif à la lutte contre la pauvreté (TRADUCTION).

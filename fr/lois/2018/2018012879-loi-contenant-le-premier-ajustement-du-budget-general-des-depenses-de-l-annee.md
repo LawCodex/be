@@ -12,7 +12,7 @@ entry_into_force: 2018-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018012879/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Loi contenant le premier ajustement du budget général des dépenses de l'année budgétaire 2018

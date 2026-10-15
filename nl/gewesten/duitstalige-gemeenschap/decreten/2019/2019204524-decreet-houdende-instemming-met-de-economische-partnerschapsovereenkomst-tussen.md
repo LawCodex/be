@@ -13,7 +13,7 @@ entry_into_force: 2019-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/09/23/2019204524/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2019. - Decreet houdende instemming met de economische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de SADC-EPO-Staten, anderzijds, gedaan te Kasane op 10 juni 2016

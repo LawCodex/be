@@ -12,7 +12,7 @@ entry_into_force: 2015-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/03/27/2015011134/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2015. - Wet tot bekrachtiging van het koninklijk besluit van 2 april 2014 tot vaststelling van de nadere regels betreffende een federale bijdrage bestemd voor de financiering van bepaalde openbare dienstverplichtingen en van de kosten verbonden aan de regulering van en controle op de aardgasmarkt

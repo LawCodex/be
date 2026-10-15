@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/21/2022202206/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2022 et mise à jour au 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2022. - Décret établissant différents instruments relatifs à la gestion des informations et des réclamations en Communauté germanophone

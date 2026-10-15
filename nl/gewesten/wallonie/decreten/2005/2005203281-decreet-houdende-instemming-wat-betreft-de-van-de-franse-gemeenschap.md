@@ -13,7 +13,7 @@ entry_into_force: 2005-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/17/2005203281/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2005. - Decreet houdende instemming, wat betreft de van de Franse Gemeenschap overgehevelde aangelegenheden, met de Samenwerkingsovereenkomst tussen het Waalse Gewest en de Regering van de Republiek Frankrijk, opgemaakt te Brussel op 10 mei 2004 (VERTALING).

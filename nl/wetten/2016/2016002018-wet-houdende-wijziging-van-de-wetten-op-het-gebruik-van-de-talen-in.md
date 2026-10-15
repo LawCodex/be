@@ -12,7 +12,7 @@ entry_into_force: 2016-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/21/2016002018/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2016. - Wet houdende wijziging van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966

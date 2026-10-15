@@ -12,7 +12,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/16/2024006481/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Wet tot wijziging van het Belgisch Scheepvaartwetboek en diverse wetten betreffende de scheepvaartregelgeving

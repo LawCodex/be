@@ -12,7 +12,7 @@ entry_into_force: 2002-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/03/2000015146/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2000. - Wet houdende instemming met het Aanvullend Protocol, gedaan te Abidjan op 28 september 1999, bij de Scheepvaartovereenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Ivoorkust, ondertekend te Abidjan op 25 november 1977.

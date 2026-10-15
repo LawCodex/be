@@ -13,7 +13,7 @@ entry_into_force: 2005-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036111/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant les décrets relatifs à l'assistance spéciale à la jeunesse, coordonnés le 4 avril 1990, pour ce qui concerne l'assistance judiciaire à la jeunesse en vue de la protection contre la maltraitance et la négligence dans des cas urgents

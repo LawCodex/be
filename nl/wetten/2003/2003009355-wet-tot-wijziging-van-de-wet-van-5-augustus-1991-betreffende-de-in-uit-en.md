@@ -12,7 +12,7 @@ entry_into_force: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/25/2003009355/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2003. - Wet tot wijziging van de wet van 5 augustus 1991 betreffende de in-, uit- en doorvoer van wapens, munitie en speciaal voor militair gebruik dienstig materieel en daaraan verbonden technologie.

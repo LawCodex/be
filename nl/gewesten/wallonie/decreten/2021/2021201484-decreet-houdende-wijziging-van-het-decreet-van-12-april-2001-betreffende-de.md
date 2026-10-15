@@ -13,7 +13,7 @@ entry_into_force: 2021-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/18/2021201484/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2021. - Decreet houdende wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt met het oog op de kwartaalsgewijze activering van het temporisatiemechanisme

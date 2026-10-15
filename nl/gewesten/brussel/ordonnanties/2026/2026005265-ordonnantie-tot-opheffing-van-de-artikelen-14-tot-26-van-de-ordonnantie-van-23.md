@@ -13,7 +13,7 @@ entry_into_force: 2026-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/07/09/2026005265/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2026. - Ordonnantie tot opheffing van de artikelen 14 tot 26 van de ordonnantie van 23 juni 2017 betreffende de tewerkstellingssteun in het Brussels Hoofdstedelijk Gewest en van de artikelen 3 tot 17 van het besluit van de Brusselse Hoofdstedelijke Regering van 14 september 2017 betreffende de activeringsmaatregelen van de werkzoekenden

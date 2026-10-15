@@ -12,7 +12,7 @@ entry_into_force: 2012-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/05/12/2011022199/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2011. - Loi réduisant la durée des études de médecine

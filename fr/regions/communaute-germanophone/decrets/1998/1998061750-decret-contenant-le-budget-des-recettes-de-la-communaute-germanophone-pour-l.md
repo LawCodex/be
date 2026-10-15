@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/17/1998061750/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 20-10-1998 et mise à jour au 19-05-2000."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 1998. - Décret contenant le budget des recettes de la Communauté germanophone pour l'année budgétaire 1999. (Traduction) -

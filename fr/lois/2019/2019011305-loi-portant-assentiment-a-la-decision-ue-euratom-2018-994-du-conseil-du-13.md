@@ -12,7 +12,7 @@ entry_into_force: 2019-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/19/2019011305/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2019. - Loi portant assentiment à la Décision (UE, Euratom) 2018/994 du Conseil du 13 juillet 2018 modifiant l'acte portant élection des membres du Parlement européen au suffrage universel direct, annexe à la Décision 76/787/CECA, CEE, Euratom du Conseil du 20 septembre 1976, et portant modification de la loi du 23 mars 1989 relative à l'élection du Parlement européen

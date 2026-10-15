@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2001012825/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "raadpleging van vroegere versies vanaf 15-09-2001 en tekstbijwerking tot 15-09-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet betreffende de verzoening van werkgelegenheid en kwaliteit van het leven.

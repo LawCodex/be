@@ -13,7 +13,7 @@ entry_into_force: 2014-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031339/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie houdende oprichting van een Observatorium van de referentieprijzen voor de overheidsopdrachten binnen de Economische en Sociale Raad van het Brussels Hoofdstedelijk Gewest

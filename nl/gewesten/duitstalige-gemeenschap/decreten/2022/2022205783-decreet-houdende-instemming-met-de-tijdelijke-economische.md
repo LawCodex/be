@@ -13,7 +13,7 @@ entry_into_force: 2022-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/25/2022205783/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2022. - Decreet houdende instemming met de Tijdelijke Economische Partnerschapsovereenkomst tussen Ghana, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, gedaan te Brussel op 28 juli 2016

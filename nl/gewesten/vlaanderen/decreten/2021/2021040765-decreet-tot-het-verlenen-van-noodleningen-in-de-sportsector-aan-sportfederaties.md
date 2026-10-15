@@ -13,7 +13,7 @@ entry_into_force: 2021-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/26/2021040765/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2021. - Decreet tot het verlenen van noodleningen in de sportsector aan sportfederaties, sportclubs en sportgerelateerde rechtspersonen naar aanleiding van de coronacrisis

@@ -13,7 +13,7 @@ entry_into_force: 2021-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/17/2020044495/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2020. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 17 juli 2019 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de eenmaking van de wijze waarop gerefereerd wordt aan adressen en de koppeling van adresgegevens

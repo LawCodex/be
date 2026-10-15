@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "art. 2 ; 6 ; 14/1 ; 82 ; 82/1 ; 105 ; 111 ; 112 modifiés avec effet à une date indéterminée par DCFL 2019-04-26/31 , art. 134-150, 015; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 23-10-2014 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret relatif au permis d'environnement

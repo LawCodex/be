@@ -12,7 +12,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/26/2011003403/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2011. - Wet tot wijziging van artikel 138bis-6 van de wet van 25 juni 1992 op de landverzekeringsovereenkomst

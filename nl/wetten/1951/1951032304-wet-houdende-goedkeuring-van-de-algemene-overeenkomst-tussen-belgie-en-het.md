@@ -11,7 +11,7 @@ published: 1951-04-05
 entry_into_force: 1951-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/03/23/1951032304/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1951. - Wet houdende goedkeuring van de Algemene Overeenkomst tussen België en het Groothertogdom Luxemburg, betreffende de maatschappelijke zekerheid en het Aanvullend Akkoord betreffende het regime van maatschappelijke zekerheid dat van toepassing is op de arbeiders in de mijnen en ondergrondse groeven, ondertekend te Luxemburg, op 3 December 1949.

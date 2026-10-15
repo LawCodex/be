@@ -11,7 +11,7 @@ entry_into_force: 2002-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2002015034/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Slovenië tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Ljubljana op 22 juni 1998.

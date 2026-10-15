@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/12/2010012338/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 22-12-2010 et mise à jour au 22-12-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2010. - Loi fixant la durée du travail des médecins, dentistes, vétérinaires, des candidats-médecins en formation, des candidats-dentistes en formation et étudiants stagiaires se préparant à ces professions

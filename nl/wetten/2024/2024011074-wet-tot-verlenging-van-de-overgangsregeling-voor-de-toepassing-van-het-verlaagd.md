@@ -12,7 +12,7 @@ entry_into_force: 2024-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/10/2024011074/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2024. - Wet tot verlenging van de overgangsregeling voor de toepassing van het verlaagd btw-tarief van 6 % bij afbraak en heropbouw van een woning

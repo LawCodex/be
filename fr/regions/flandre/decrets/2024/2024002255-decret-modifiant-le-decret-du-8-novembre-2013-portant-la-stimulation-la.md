@@ -12,7 +12,7 @@ published: 2024-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/23/2024002255/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2024. - Décret modifiant le décret du 8 novembre 2013 portant la stimulation, la coordination et le subventionnement de l'emploi dans le secteur du sport

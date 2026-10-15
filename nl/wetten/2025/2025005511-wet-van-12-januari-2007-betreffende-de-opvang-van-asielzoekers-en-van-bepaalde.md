@@ -11,7 +11,7 @@ published: 2025-07-23
 entry_into_force: 2025-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/14/2025005511/justel"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2025. - Wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen

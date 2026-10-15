@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019012206/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet betreffende de instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap, het Waals Gewest, de Franse Gemeenschapscommissie, Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de mobiliteitshulpmiddelen

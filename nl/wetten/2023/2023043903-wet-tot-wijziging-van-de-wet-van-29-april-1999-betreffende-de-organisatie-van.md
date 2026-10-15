@@ -11,7 +11,7 @@ published: 2023-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/20/2023043903/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt met betrekking tot de kabeltoeslag

@@ -12,7 +12,7 @@ entry_into_force: 1937-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1936/09/11/1936091150/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 1936. - Wet tot goedkeuring van het Internationaal Verdrag tot het brengen van eenheid in eenige bepalingen in zake conservatoir beslag op luchtvaartuigen, en van het Internationaal Verdrag tot het brengen van eenheid in eenige bepalingen in zake schade door luchtvaartuigen aan derden op het aardoppervlak veroorzaakt, geteekend te Rome op 29 Mei 1933.

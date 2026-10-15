@@ -11,7 +11,7 @@ published: 2013-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/03/2013011191/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2013. - Loi portant insertion des dispositions réglant des matières visées à l'article 77 de la Constitution, dans le livre IV " Protection de la concurrence " et le livre V " La concurrence et les évolutions de prix " du Code de droit économique

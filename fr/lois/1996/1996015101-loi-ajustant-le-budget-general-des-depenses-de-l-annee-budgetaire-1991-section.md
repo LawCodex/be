@@ -12,7 +12,7 @@ entry_into_force: 1996-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/12/1996015101/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 1996. - Loi ajustant le budget général des dépenses de l'année budgétaire 1991 - Section 15 - Coopération au Développement et les Services du Premier Ministre - Section 11 - Politique scientifique.

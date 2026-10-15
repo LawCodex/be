@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/04/10/1973041012/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-04-2018 et mise à jour au 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1973. - Loi portant approbation de la Convention relative à l'opposition sur titres au porteur à circulation internationale et du règlement annexe, faits à La Haye le 28 mai 1970

@@ -13,7 +13,7 @@ entry_into_force: 2002-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/01/18/2002035166/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2002. - Décret sanctionnant l'arrêté du Gouvernement flamand du 27 avril 2001 définissant les objectifs de développement de l'enseignement fondamental spécial de type 8 (TRADUCTION).

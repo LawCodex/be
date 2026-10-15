@@ -12,7 +12,7 @@ entry_into_force: 2015-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/27/2014011438/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2014. - Loi portant assentiment à l'accord de coopération du 17 juillet 2013 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Commission communautaire française et la Commission communautaire commune relatif à la mise en oeuvre de la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur

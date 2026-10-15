@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/10/2009011134/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "bij arrest nr. 84/2010 van 08-07-2010 (B.St. 17-08-2010, p. 53441-53446), Heeft het Grondwettelijk Hof deze Wet vernietigd"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2009. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen.

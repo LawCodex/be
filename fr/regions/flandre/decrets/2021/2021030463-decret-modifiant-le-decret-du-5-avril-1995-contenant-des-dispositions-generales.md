@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/26/2021030463/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2021. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le Code flamand de l'Aménagement du Territoire, en ce qui concerne la suppression du Conseil supérieur flamand pour le Maintien de l'Environnement et le transfert de tâches relatives au maintien de l'environnement

@@ -12,7 +12,7 @@ entry_into_force: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/30/2026005048/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2026. - Wet houdende diverse bepalingen inzake de verwerking van persoonsgegevens, met betrekking tot geneesmiddelen en gezondheidsproducten

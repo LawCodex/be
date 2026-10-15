@@ -12,7 +12,7 @@ entry_into_force: 1994-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/04/29/1994000229/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1994. - Wet tot wijziging van artikel 30, tweede lid, van de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement en tot aanvulling van de wet van 11 april 1994 tot wijziging van de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement en tot uitvoering van richtlijn nr. 93/109/EG dd 6 december 1993 van de Raad van de Europese Gemeenschappen.

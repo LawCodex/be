@@ -11,7 +11,7 @@ published: 1952-05-30
 entry_into_force: 1952-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1952/05/27/1952052701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 Mei 1952. \_ Wet tot wijziging van de wetten betreffende het jaarlijks verlof der loonarbeiders, samengeordend de 9 Maart 1951, en toekenning van aanvullend anciënniteitsverlof.

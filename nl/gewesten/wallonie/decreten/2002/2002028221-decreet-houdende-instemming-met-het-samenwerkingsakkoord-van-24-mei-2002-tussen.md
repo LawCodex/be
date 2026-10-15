@@ -13,7 +13,7 @@ entry_into_force: 2003-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2002028221/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende instemming met het samenwerkingsakkoord van 24 mei 2002 tussen de federale overheid en de Gewesten met betrekking tot de oprichting van een Agentschap voor buitenlandse handel (VERTALING).

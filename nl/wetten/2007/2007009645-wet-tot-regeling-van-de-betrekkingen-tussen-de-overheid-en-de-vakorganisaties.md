@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/25/2007009645/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2007 en tekstbijwerking tot 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - [Wet tot regeling van de betrekkingen tussen de overheid en de vakorganisaties van de griffiers van de Rechterlijke Orde, de referendarissen bij het Hof van Cassatie, de referendarissen, de parketjuristen en de criminologen bij de hoven en rechtbanken] &lt;W 2024-05-07/04 , art. 57, 003; Inwerkingtreding : 26-05-2024&gt;

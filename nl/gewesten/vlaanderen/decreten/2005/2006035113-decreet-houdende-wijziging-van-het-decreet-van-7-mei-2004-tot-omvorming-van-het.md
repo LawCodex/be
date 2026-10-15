@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/23/2006035113/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2005. - Decreet houdende wijziging van het decreet van 7 mei 2004 tot omvorming van het "Vlaams Zorgfonds" tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid en tot wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering

@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/23/2022015073/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2022. - Decreet tot wijziging en bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 9 september 2021 tot bepaling van het referentiekader voor de Franse en de oude talen, het referentiekader voor de culturele en artistieke opvoeding, het referentiekader voor de moderne talen, het referentiekader voor de wiskunde, het referentiekader voor de wetenschappen, het referentiekader voor de manuele, technische, technologische en numerieke opleiding, het referentiekader voor de opleiding tot filosofie en burgerschap en het referentiekader voor de lichamelijke en gezondheidsopvoeding en tot aanneming het referentiekader voor de opleiding geschiedenis, aardrijkskunde, economie en sociale wetenschappen en tot invoering van een procedure voor afwijking van deze referentiekaders

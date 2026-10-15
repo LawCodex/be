@@ -12,7 +12,7 @@ entry_into_force: 2016-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/29/2016009139/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2016. - Loi complétant et modifiant le Code pénal social et portant des dispositions diverses de droit pénal social

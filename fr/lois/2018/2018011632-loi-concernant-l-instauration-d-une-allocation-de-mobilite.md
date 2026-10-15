@@ -16,7 +16,7 @@ department: "Finances"
 justel_notes:
   - "par son arrêt n° 11/2020 du 13 janvier 2020 (M.B. 24-02-2020, p. 10483) la Cour constitutionnelle annule la loi et maintient les effets de la loi annulée jusqu'à ce que, le cas échéant, de nouvelles dispositions législatives entrent en vigueur, et au plus tard jusqu'au 31 décembre2020 inclus"
   - "Consultation des versions antérieures à partir du 07-05-2018 et mise à jour au 29-03-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2018. - Loi concernant l'instauration d'une allocation de mobilité

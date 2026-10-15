@@ -12,7 +12,7 @@ entry_into_force: 2007-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007009609/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi modifiant le Code civil et le Code judiciaire en ce qui concerne la rectification d'erreurs matérielles dans les actes de l'état civil.

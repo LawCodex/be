@@ -12,7 +12,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/12/2022204591/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2022. - Loi relative à une réduction unique de cotisations sociales pour certains travailleurs indépendants débutants

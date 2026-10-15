@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/20/1998033102/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 1997. - Decreet houdende instemming met de kader-overeenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-staten, enerzijds, en de Republiek Chili, anderzijds en met de bijlage, gedaan te Florence op 21 juni 1996 (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/18/1996031220/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-07-1996 en tekstbijwerking tot 05-03-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1995. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschapscommissie vooer het begrotingsjaar 1996. (Vertaling).

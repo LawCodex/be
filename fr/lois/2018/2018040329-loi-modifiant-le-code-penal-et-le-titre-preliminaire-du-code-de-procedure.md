@@ -12,7 +12,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018040329/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Loi modifiant le Code pénal et le titre préliminaire du Code de procédure pénale en ce qui concerne la responsabilité pénale des personnes morales

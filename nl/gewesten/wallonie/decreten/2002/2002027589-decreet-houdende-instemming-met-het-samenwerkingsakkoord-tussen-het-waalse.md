@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/13/2002027589/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen het Waalse Gewest en de Franse Gemeenschap van België, enerzijds, en het Koninkrijk Marokko, anderzijds, gedaan te Rabat op 26 oktober 1999 (VERTALING).HI:??2,Zitting 2001-2002. Stukken van de Raad , 281 (2001-2002) nrs. 1 en 2. Volledig verslag , openbare vergadering van 11 juni 2002. Bespreking. Volledig verslag , openbare vergadering van 12 juni 2002. Stemming.

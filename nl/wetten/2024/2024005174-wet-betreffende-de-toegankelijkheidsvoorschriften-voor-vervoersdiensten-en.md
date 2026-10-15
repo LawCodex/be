@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/08/2024005174/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2024 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2024. - Wet betreffende de toegankelijkheidsvoorschriften voor vervoersdiensten en houdende de oprichting van het Federaal Agentschap voor de Regulering van Transport

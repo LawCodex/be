@@ -11,7 +11,7 @@ date: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022015537/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat vliegtuigexploitanten betreft

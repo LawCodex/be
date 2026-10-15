@@ -12,7 +12,7 @@ entry_into_force: 2017-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/05/2017014284/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2017. - Loi portant des dispositions financières diverses

@@ -12,7 +12,7 @@ entry_into_force: 2002-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/30/2001003642/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2001. - Wet betreffende de deelneming van de Belgische Staat in een naamloze vennootschap met als belangrijkste maatschappelijk doel de uitbating van een elektronisch tradingplatform op de secundaire markt van de effecten van de Belgische staatsschuld.

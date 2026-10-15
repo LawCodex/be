@@ -11,7 +11,7 @@ date: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022015536/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Decreet tot wijziging van artikel 23 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer, van artikel 1 van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen, van artikel 16 van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg en van artikel 44 van het decreet van 26 april 2019 betreffende de basisbereikbaarheid

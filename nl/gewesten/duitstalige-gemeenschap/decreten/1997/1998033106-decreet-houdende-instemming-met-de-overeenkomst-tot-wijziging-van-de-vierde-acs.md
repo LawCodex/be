@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/30/1998033106/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1997. - Decreet houdende instemming met de Overeenkomst tot wijziging van de vierde ACS-EG-Overeenkomst ondertekend te Lomé op 15 december 1989, met de Slotakte en het Protocol bij de Vierde ACS-EG-Overeenkomst van Lomé naar aanleiding van de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, gedaan te Mauritius op 4 november 1995 (VERTALING).

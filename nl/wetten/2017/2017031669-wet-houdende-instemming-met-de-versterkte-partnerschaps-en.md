@@ -12,7 +12,7 @@ entry_into_force: 2017-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/05/13/2017031669/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2017. - Wet houdende instemming met de Versterkte partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Kazachstan, anderzijds, gedaan te Astana op 21 december 2015

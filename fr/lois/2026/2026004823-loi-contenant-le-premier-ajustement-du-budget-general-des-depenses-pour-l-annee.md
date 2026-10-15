@@ -12,7 +12,7 @@ entry_into_force: 2026-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/28/2026004823/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2026. - Loi contenant le premier ajustement du Budget général des dépenses pour l'année budgétaire 2026

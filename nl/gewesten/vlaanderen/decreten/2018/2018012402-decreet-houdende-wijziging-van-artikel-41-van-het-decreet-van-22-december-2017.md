@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/18/2018012402/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2018. - Decreet houdende wijziging van artikel 41 van het decreet van 22 december 2017 over het lokaal bestuur, wat de verfijning van de belastingbevoegdheid van de gemeenteraad betreft

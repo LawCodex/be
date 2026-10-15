@@ -12,7 +12,7 @@ entry_into_force: 2017-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/30/2017011921/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2017. - Loi modifiant l'article 61/2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers afin de remplacer l'ordre de quitter le territoire par un document de séjour temporaire dans le cadre de la procédure traite des êtres humains

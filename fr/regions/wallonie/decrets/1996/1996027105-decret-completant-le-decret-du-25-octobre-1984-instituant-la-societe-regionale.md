@@ -13,7 +13,7 @@ entry_into_force: 1996-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/01/25/1996027105/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 1996. - Décret complétant le décret du 25 octobre 1984 instituant la Société régionale wallonne du Logement.

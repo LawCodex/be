@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/23/2021033385/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 01-10-2021 et mise à jour au 20-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2021. - Décret instituant un régime particulier d'indemnisation de certains dommages causés par les inondations et pluies abondantes survenues du 14 au 16 juillet 2021 ainsi que le 24 juillet 2021 et reconnues en tant que calamité naturelle publique

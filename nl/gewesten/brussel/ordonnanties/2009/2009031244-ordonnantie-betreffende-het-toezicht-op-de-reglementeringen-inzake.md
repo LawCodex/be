@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/04/30/2009031244/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2009 en tekstbijwerking tot 29-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Ordonnantie betreffende het toezicht op de reglementeringen inzake werkgelegenheid die tot de bevoegdheid van het Brussels Hoofdstedelijk Gewest behoren en de invoering van administratieve geldboeten toepasselijk in geval van inbreuk op deze reglementeringen

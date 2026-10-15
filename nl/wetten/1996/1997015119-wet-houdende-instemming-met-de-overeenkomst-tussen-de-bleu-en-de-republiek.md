@@ -10,7 +10,7 @@ date: 1996-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/16/1997015119/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1996. - Wet houdende instemming met de overeenkomst tussen de BLEU en de Republiek Mongolië inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Brussel op 3 maart 1992.

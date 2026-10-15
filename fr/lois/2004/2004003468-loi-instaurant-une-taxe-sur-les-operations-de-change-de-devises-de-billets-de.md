@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/19/2004003468/justel"
 department: "Corps interfédéral de l'inspection des finances"
 justel_note: "Consultation des versions antérieures à partir du 24-12-2004 et mise à jour au 06-10-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2004. - Loi instaurant une taxe sur les opérations de change de devises, de billets de banque et de monnaies

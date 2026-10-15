@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/22/2018200395/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Loi relative au transfert d'une partie des attributions et du personnel de la direction générale victimes de la guerre au service fédéral des pensions

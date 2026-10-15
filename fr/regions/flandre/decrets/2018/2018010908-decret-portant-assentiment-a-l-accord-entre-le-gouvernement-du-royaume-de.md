@@ -13,7 +13,7 @@ entry_into_force: 2018-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/09/2018010908/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2018. - Décret portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République algérienne démocratique et populaire relatif au transport aérien, fait à Bruxelles, le 27 février 2017

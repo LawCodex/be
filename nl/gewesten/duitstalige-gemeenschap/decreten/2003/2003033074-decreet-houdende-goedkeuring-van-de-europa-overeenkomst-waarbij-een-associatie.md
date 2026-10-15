@@ -12,7 +12,7 @@ published: 2003-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/30/2003033074/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2003. - Decreet houdende goedkeuring van de Europa Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten enerzijds, en de Republiek Chili, anderzijds en de bijlagen I tot XVII, en de Slotakte, gedaan te Brussel op 18 november 2002 (VERTALING).

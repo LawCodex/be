@@ -12,7 +12,7 @@ entry_into_force: 2020-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/13/2020020875/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2020. - Wet tot schorsing van bepaalde verval- en procedurele termijnen bepaald bij of in uitvoering van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus, van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden, van de wet van 13 mei 1999 houdende het tuchtstatuut van de personeelsleden van de politiediensten, van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties en van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/07/19/1991029523/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-10-1991 et mise à jour au 25-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1991. - Décret relatif à la promotion du tourisme.

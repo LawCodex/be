@@ -12,7 +12,7 @@ entry_into_force: 2009-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/18/2009022183/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2009. - Wet houdende wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, met het oog op de erkenning en de financiering van palliatieve thuiszorgequipes voor kinderen

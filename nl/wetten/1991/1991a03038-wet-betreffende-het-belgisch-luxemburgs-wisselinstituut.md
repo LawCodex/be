@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/01/02/1991A03038/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 19-04-1993 en tekstbijwerking tot 11-08-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JANUARI 1991. - Wet betreffende het Belgisch-Luxemburgs Wisselinstituut.

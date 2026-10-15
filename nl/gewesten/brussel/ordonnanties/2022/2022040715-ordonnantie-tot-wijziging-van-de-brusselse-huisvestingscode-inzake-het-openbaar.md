@@ -13,7 +13,7 @@ entry_into_force: 2022-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/03/31/2022040715/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2022. - Ordonnantie tot wijziging van de Brusselse Huisvestingscode inzake het openbaar beheersrecht en leegstaande woningen

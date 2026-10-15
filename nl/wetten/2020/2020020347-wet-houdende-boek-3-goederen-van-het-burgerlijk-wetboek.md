@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020020347/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 17-03-2020 en tekstbijwerking tot 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2020. - Wet houdende boek 3 "Goederen" van het Burgerlijk Wetboek

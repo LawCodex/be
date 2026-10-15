@@ -13,7 +13,7 @@ entry_into_force: 2008-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/03/2008202532/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2008. - Décret modifiant certaines dispositions du décret du 12 février 2004 organisant les provinces wallonnes et du Code de la démocratie locale et de la décentralisation.

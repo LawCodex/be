@@ -10,7 +10,7 @@ date: 2023-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/12/2023043850/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2023. - Wet tot omzetting van Richtlijn (EU) 2019/713 van het Europees Parlement en de Raad van 17 april 2019 betreffende de bestrijding van fraude met en vervalsing van niet-contante betaalmiddelen en ter vervanging van Kaderbesluit 2001/413/JBZ van de Raad

@@ -12,7 +12,7 @@ published: 2000-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/24/2000027134/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2000. - Décret portant assentiment à la Convention n° 174 concernant la prévention des accidents industriels majeurs, adoptée à Genève le 22 juin 1993, par la Conférence internationale du travail, en sa quatre-vingtième session.

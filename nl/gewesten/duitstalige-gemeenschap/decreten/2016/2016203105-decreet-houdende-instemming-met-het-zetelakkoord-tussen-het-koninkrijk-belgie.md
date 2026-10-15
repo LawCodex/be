@@ -13,7 +13,7 @@ entry_into_force: 2016-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/30/2016203105/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2016. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Comité voor Militaire Geneeskunde, gedaan te Brussel op 2 juni 2008

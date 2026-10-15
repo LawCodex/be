@@ -13,7 +13,7 @@ entry_into_force: 2023-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/14/2023030252/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2022. - Decreet betreffende open data en het hergebruik van overheidsinformatie

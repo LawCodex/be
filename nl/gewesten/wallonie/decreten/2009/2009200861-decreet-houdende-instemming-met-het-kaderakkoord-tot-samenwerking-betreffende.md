@@ -12,7 +12,7 @@ published: 2009-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/15/2009200861/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2009. - Decreet houdende instemming met het kaderakkoord tot samenwerking betreffende de alternerende opleiding, gesloten te Brussel op 24 oktober 2008 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie.

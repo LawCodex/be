@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/03/01/1961030101/justel"
 justel_note: "Consultation des versions antérieures à partir du 19-04-1993 et mise à jour au 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 1961. - Loi concernant l'introduction dans la législation nationale de la loi uniforme sur le chèque et sa mise en vigueur.

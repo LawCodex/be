@@ -12,7 +12,7 @@ published: 2017-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/12/2017205392/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2017. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de gedeeltelijke omzetting van Richtlijn 2014/61/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronische communicatienetwerken met hoge snelheid

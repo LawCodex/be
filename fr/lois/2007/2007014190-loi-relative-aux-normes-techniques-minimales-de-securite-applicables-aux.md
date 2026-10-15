@@ -12,7 +12,7 @@ entry_into_force: 2007-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/09/2007014190/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2007. - Loi relative aux normes techniques minimales de sécurité applicables aux tunnels du réseau routier transeuropéen.

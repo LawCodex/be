@@ -13,7 +13,7 @@ entry_into_force: 2021-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/17/2020044497/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2020. - Ordonnantie tot wijziging van de ordonnantie van 22 december 1994 betreffende de overname van de provinciale fiscaliteit

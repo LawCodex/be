@@ -16,7 +16,7 @@ department: "Franse Gemeenschap"
 justel_notes:
   - "DFG 2022-11-17/07, art. 5 et 6, 013; Inwerkingtreding : 14-09-2023, art.5 en 9"
   - "Raadpleging van vroegere versies vanaf 06-07-2006 en tekstbijwerking tot 15-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet tot regeling van het aantal studenten in sommige cursussen van de eerste cyclus van het hoger onderwijs (VERTALING).

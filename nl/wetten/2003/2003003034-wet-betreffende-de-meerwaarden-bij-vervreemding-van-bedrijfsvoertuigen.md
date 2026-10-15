@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/14/2003003034/justel"
 department: "Financiën"
 justel_note: "raadpleging van vroegere versies vanaf 05-02-2003 en tekstbijwerking tot 30-04-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2003. - Wet betreffende de meerwaarden bij vervreemding van bedrijfsvoertuigen.

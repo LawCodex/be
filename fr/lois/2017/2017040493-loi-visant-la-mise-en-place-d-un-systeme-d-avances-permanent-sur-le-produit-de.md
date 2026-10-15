@@ -12,7 +12,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017040493/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi visant la mise en place d'un système d'avances permanent sur le produit de la taxe communale additionnelle à l'impôt des personnes physiques

@@ -12,7 +12,7 @@ entry_into_force: 1998-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/09/20/1998000621/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 1998. - Loi modifiant l'article 120bis de la nouvelle loi communale et insérant un article 50bis dans la loi provinciale du 30 avril 1836, en vue de promouvoir la présence équilibrée d'hommes et de femmes dans les conseils consultatifs communaux et provinciaux.

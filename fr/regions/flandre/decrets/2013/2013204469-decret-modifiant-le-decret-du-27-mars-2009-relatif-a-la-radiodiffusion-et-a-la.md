@@ -13,7 +13,7 @@ entry_into_force: 2013-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/19/2013204469/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision

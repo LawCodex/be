@@ -13,7 +13,7 @@ entry_into_force: 2020-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2020016433/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret-programme portant diverses mesures visant à faire face aux conséquences de la crise du Coronavirus, aux Bâtiments scolaires, aux Fonds budgétaires, au Fonds Ecureuil, à WBE, à la Sante, aux Médias, à l'Education permanente, aux Bourses d'étude, à la Recherche scientifique et à l'Enseignement obligatoire

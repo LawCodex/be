@@ -13,7 +13,7 @@ entry_into_force: 2015-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/19/2015029293/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2015. - Décret modifiant le décret du 2 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire et au certificat d'études de base au terme de l'enseignement primaire

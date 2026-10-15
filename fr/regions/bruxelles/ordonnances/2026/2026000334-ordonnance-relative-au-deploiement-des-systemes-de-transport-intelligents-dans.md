@@ -13,7 +13,7 @@ entry_into_force: 2026-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/01/15/2026000334/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2026. - Ordonnance relative au déploiement des systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport

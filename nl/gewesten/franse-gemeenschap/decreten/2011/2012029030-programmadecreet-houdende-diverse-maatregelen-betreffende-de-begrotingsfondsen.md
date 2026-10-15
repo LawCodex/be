@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/20/2012029030/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-02-2012 en tekstbijwerking tot 20-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2011. - Programmadecreet houdende diverse maatregelen betreffende de begrotingsfondsen vermeld in de algemene uitgavenbegroting van de Franse Gemeenschap, de Cultuur, het Leerplichtonderwijs en het Onderwijs voor sociale promotie, de financiering van de universitaire instellingen en de Hogescholen, de hulpverlening aan de universitaire instellingen, de instellingen van openbaar nut en de sport

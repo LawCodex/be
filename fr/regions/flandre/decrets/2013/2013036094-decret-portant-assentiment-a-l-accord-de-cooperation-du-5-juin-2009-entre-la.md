@@ -13,7 +13,7 @@ entry_into_force: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/08/2013036094/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2013. - Décret portant assentiment à l'accord de coopération du 5 juin 2009 entre la Communauté flamande et la Région wallonne en matière d'intégration des personnes handicapées

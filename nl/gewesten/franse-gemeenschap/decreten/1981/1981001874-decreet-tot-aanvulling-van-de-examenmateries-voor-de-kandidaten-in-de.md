@@ -13,7 +13,7 @@ entry_into_force: 1981-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1981/05/15/1981001874/justel"
 department: "Nationale Opvoeding en Franse Cultuur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 1981. - Decreet tot aanvulling van de examenmateries voor de kandidaten in de biologische, farmaceutische, medische, veeartsenijkundige en tandheelkundige wetenschappen met een examen over de alternatieve experimentele methodes zonder proefdieren.

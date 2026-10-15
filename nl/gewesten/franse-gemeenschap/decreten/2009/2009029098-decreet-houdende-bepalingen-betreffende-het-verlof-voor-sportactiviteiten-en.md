@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/23/2009029098/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2009 en tekstbijwerking tot 18-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2009. - [Decreet houdende bepalingen betreffende het verlof voor sportactiviteiten en diverse dringende maatregelen inzake het onderwijs.] (VERTALING) &lt;Opschrift vervangen door DFG 2017-10-19/12 , art. 16, 003; Inwerkingtreding : 10-11-2017&gt;

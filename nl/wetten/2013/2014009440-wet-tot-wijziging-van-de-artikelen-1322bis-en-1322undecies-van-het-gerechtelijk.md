@@ -11,7 +11,7 @@ published: 2014-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2014009440/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet tot wijziging van de artikelen 1322bis en 1322undecies van het Gerechtelijk Wetboek

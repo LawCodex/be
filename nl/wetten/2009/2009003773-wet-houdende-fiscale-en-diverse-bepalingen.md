@@ -12,7 +12,7 @@ entry_into_force: 2010-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/21/2009003773/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2009. - Wet houdende fiscale en diverse bepalingen

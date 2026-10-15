@@ -13,7 +13,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027220/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment à l'Accord sur le commerce, le développement et la coopération entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, et à l'Acte final, faits à Pretoria le 11 octobre 1999.

@@ -13,7 +13,7 @@ entry_into_force: 2012-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203364/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Canberra le 13 octobre 1977, telle que modifiée par le Protocole fait à Canberra le 20 mars 1984 et le second Protocole fait à Paris le 24 juin 2009

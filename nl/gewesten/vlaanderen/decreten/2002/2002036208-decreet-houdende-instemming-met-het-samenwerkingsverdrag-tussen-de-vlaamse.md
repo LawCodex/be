@@ -12,7 +12,7 @@ entry_into_force: 2002-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036208/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet houdende instemming met het samenwerkingsverdrag tussen de Vlaamse Gemeenschap en het Vlaamse Gewest en het Groothertogdom Luxemburg, ondertekend in Brussel op 15 december 2000.

@@ -12,7 +12,7 @@ entry_into_force: 2010-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010009582/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2010. - Loi modifiant le Code judiciaire et le Code civil en ce qui concerne le traitement en chambre du conseil des procédures judiciaires relevant du droit de la famille

@@ -12,7 +12,7 @@ published: 2008-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/10/24/2008029568/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2008. - Decreet betreffende de toestand van de studenten in de geneeskunde en de tandheelkunde (VERTALING).

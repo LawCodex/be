@@ -13,7 +13,7 @@ entry_into_force: 2023-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/10/2022030006/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2021. - Décret portant un régime de garantie générique pour entreprises

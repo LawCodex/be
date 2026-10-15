@@ -12,7 +12,7 @@ entry_into_force: 2004-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/05/2004007028/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2004. - Wet houdende een sociaal plan voor de contractuele personeelsleden in dienst bij de Belgische strijdkrachten in Duitsland van wie het contract wordt verbroken ingevolge de terugkeer van deze strijdkrachten naar België.

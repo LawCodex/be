@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/19/2023046978/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 13-02-2024 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2023. - Décret relatif au financement de repas complets, gratuits, sains et durables au sein des établissements scolaires d'enseignement fondamental ordinaire ou spécialisé, organisés ou subventionnés par la Communauté française

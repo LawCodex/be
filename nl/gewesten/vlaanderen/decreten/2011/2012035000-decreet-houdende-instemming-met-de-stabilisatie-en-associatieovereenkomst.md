@@ -13,7 +13,7 @@ entry_into_force: 2012-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/16/2012035000/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2011. - Decreet houdende instemming met de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Servië, anderzijds, en de slotakte, ondertekend in Luxemburg op 29 april 2008

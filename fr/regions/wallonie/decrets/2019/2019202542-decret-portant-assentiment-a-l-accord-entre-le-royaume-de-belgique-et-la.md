@@ -13,7 +13,7 @@ entry_into_force: 2019-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/31/2019202542/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2019. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et la République argentine concernant l'autorisation pour les membres de la famille à charge du personnel des missions diplomatiques et des postes consulaires d'effectuer des activités rémunérées, fait à Bruxelles le 20 avril 2017

@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005046/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance modifiant l'ordonnance du 29 juillet 2015 introduisant un prélèvement kilométrique en Région de Bruxelles-Capitale sur les poids lourds prévus ou utilisés pour le transport par route de marchandises, en remplacement de l'Eurovignette

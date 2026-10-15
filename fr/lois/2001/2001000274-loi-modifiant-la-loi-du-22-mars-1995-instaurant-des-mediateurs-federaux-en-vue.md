@@ -12,7 +12,7 @@ entry_into_force: 2001-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/05/2001000274/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2001. - Loi modifiant la loi du 22 mars 1995 instaurant des médiateurs fédéraux en vue de modifier la date de dépôt du rapport annuel du Collège des médiateurs fédéraux

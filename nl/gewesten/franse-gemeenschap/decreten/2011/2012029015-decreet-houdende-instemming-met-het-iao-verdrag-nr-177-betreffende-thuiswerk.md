@@ -13,7 +13,7 @@ entry_into_force: 2012-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/20/2012029015/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2011. - Decreet houdende instemming met het IAO-verdrag nr. 177 betreffende thuiswerk, aangenomen te Genève op 20 juni 1996

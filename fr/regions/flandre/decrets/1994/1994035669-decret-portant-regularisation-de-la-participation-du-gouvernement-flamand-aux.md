@@ -13,7 +13,7 @@ entry_into_force: 1994-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/23/1994035669/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1994. - Décret portant régularisation de la participation du Gouvernement flamand aux associations sans but lucratif. &lt;Traduction&gt;

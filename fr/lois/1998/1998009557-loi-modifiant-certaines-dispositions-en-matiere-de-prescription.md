@@ -12,7 +12,7 @@ entry_into_force: 1998-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/10/1998009557/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1998. - Loi modifiant certaines dispositions en matière de prescription.

@@ -13,7 +13,7 @@ entry_into_force: 1996-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996036182/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - DECREET tot wijziging van het decreet van 23 januari 1991 tot oprichting van de Vlaamse Dienst voor de Buitenlandse Handel

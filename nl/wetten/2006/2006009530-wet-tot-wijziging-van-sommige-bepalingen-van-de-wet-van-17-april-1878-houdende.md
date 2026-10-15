@@ -12,7 +12,7 @@ entry_into_force: 2006-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/22/2006009530/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2006. - Wet tot wijziging van sommige bepalingen van de wet van 17 april 1878 houdende de Voorafgaande Titel van het Wetboek van strafvordering, alsmede van een bepaling van de wet van 5 augustus 2003 betreffende ernstige schendingen van het internationaal humanitair recht.

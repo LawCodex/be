@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1989/12/20/1989030036/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-1990 en tekstbijwerking tot 24-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1989. - Decreet houdende bepalingen tot uitvoering van de begroting van de Vlaamse Gemeenschap.

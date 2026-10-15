@@ -12,7 +12,7 @@ entry_into_force: 2011-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/06/30/2011011306/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2011. - Loi portant assentiment à l'avenant du 30 avril 2010 à l'accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région Wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle, approuvé par la loi du 10 mai 2006

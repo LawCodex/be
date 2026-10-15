@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/26/2010024147/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2010 et mise à jour au 17-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2010. - Loi portant des dispositions diverses en matière d'organisation de l'assurance maladie complémentaire (I).

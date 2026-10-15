@@ -12,7 +12,7 @@ entry_into_force: 2007-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/28/2007015003/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 2006. - Wet houdende instemming met het verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie, en met de bijlagen, gedaan te Prüm op 27 mei 2005.

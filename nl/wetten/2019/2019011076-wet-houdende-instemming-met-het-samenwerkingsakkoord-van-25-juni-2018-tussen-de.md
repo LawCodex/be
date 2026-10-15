@@ -12,7 +12,7 @@ entry_into_force: 2019-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/10/2019011076/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2019. - Wet houdende instemming met het Samenwerkingsakkoord van 25 juni 2018 tussen de Federale Staat, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de culturele bescherming van het boek

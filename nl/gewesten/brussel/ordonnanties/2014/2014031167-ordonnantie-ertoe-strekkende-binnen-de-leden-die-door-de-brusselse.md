@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/02/13/2014031167/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-2024 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2014. - Ordonnantie ertoe strekkende binnen de leden die door de Brusselse Hoofdstedelijke Regering benoemd worden in de bestuursorganen van rechtspersonen, een evenwichtige aanwezigheid van vrouwen en mannen te waarborgen

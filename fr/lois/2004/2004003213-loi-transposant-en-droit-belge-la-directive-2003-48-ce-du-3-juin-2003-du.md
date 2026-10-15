@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/17/2004003213/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 27-05-2004 et mise à jour au 01-10-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2004. - Loi transposant en droit belge la directive 2003/48/CE du 3 juin 2003 du Conseil de l'Union européenne en matière de fiscalité des revenus de l'épargne sous forme de paiements d'intérêts et modifiant le Code des impôts sur les revenus 1992 en matière de précompte mobilier.

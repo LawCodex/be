@@ -13,7 +13,7 @@ entry_into_force: 1994-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/11/23/1994031165/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 1993. - Décret autorisant la société de droit public d'administration des bâtiments scolaires de l'enseignement organisé par les pouvoirs publics à contracter des emprunts avec la garantie de la Commission communautaire française.

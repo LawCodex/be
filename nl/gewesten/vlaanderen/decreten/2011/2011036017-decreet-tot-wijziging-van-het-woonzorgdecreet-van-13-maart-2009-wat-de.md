@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/11/18/2011036017/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2011. - Decreet tot wijziging van het Woonzorgdecreet van 13 maart 2009, wat de medewerking van de lokale overheden bij de toepassing van sommige bepalingen van dat decreet betreft

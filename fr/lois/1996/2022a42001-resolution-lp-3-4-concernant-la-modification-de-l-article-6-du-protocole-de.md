@@ -12,7 +12,7 @@ entry_into_force: 2022-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/07/2022A42001/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 1996. - Résolution LP.3(4) concernant la modification de l'article 6 du Protocole de Londres, adoptée à Londres le 30 octobre 2009

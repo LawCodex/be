@@ -10,7 +10,7 @@ date: 1999-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/2004015113/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van de Franse Republiek, de Bondsrepubliek Duitsland, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Spanje en het Koninkrijk België, betreffende het programma Airbus A330/A340, en met de Bijlagen 1 en 2, ondertekend te Madrid op 26 juli 1995.

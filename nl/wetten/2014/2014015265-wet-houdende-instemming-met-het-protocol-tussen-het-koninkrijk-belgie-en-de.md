@@ -12,7 +12,7 @@ entry_into_force: 2015-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014015265/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet houdende instemming met het Protocol tussen het Koninkrijk België en de Tsjechische Republiek bij de Overeenkomst tussen het Koninkrijk België en de Tsjechische Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 15 maart 2010

@@ -11,7 +11,7 @@ published: 1975-12-11
 entry_into_force: 1975-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/07/09/1975070912/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1975. - Wet houdende goedkeuring van het International Verdrag inzake de uitbanning van alle vormen van rassendiscriminatie, opgemaakt te New York op 7 maart 1966.

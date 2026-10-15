@@ -13,7 +13,7 @@ entry_into_force: 2005-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/06/2004033100/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2004. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2003 (VERTALING).

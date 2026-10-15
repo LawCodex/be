@@ -12,7 +12,7 @@ entry_into_force: 2003-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/16/2003033087/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2003. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2003 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2012-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/01/2012015181/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 2012. - Loi portant assentiment au Protocole facultatif relatif à la Convention sur la sécurité du personnel des Nations unies et du personnel associé, fait à New York le 8 décembre 2005

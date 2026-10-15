@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/30/2018014699/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2018 et mise à jour au 13-11-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2018. - Loi portant des dispositions diverses en matière de santé

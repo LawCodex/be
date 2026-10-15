@@ -12,7 +12,7 @@ entry_into_force: 2015-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/07/2010015114/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2010. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Gouvernement de la République de Turquie sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Istanbul le 31 octobre 2008

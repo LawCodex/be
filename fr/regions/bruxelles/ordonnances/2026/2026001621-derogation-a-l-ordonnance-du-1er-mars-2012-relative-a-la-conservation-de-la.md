@@ -13,7 +13,7 @@ entry_into_force: 2026-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/03/05/2026001621/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2026. - Dérogation à l'Ordonnance du 1er mars 2012 relative à la conservation de la nature

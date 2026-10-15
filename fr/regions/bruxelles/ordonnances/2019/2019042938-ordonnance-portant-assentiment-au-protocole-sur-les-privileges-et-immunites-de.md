@@ -13,7 +13,7 @@ entry_into_force: 2020-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/12/17/2019042938/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2019. - Ordonnance portant assentiment au : Protocole sur les privilèges et immunités de la juridiction unifiée du brevet, fait à Bruxelles le 29 juin 2016

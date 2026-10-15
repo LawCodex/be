@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/18/2018010954/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2018 et mise à jour au 13-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2018. - Décret relatif au brevet d'infirmier hospitalier dans l'enseignement secondaire de promotion sociale du quatrième degré

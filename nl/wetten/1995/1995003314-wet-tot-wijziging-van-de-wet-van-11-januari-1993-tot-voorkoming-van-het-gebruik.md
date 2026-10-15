@@ -12,7 +12,7 @@ entry_into_force: 1995-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/07/1995003314/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1995. - Wet tot wijziging van de wet van 11 januari 1993 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld.

@@ -12,7 +12,7 @@ entry_into_force: 2012-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012000466/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Wet houdende verscheidene wijzigingen van het Kieswetboek, van de gecoördineerde wetten van 18 juli 1966 op het gebruik van de talen in bestuurszaken, van de wet van 3 juli 1971 tot indeling van de leden van de Wetgevende Kamers in taalgroepen en houdende diverse bepalingen betreffende de cultuurraden voor de Nederlandse cultuurgemeenschap en voor de Franse cultuurgemeenschap en van de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement

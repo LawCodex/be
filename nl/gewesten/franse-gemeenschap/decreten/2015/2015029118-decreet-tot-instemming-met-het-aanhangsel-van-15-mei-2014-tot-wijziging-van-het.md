@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/05/2015029118/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2015. - Decreet tot instemming met het aanhangsel van 15 mei 2014 tot wijziging van het aanhangsel van 27 maart 2014 bij het kaderakkoord tot samenwerking betreffende de alternerende opleiding, gesloten te Brussel op 24 oktober 2008 tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie

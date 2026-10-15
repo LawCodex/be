@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/21/2013022073/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 25-02-2013 en tekstbijwerking tot 21-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2012. - Wet houdende wijzigingen van het koninklijk besluit van 30 januari 1997 betreffende het pensioenstelsel der zelfstandigen met toepassing van de artikelen 15 en 27 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels en van artikel 3, § 1, 4°, van de wet van 26 juli 1996 strekkende tot realisatie van de budgettaire voorwaarden tot deelname van België aan de Europese Economische en Monetaire Unie en houdende vaststelling van een overgangsregeling met betrekking tot de hervorming van het vervroegd rustpensioen voor zelfstandigen

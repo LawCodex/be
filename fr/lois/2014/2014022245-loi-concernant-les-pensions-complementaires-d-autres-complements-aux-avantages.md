@@ -12,7 +12,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/08/2014022245/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Loi concernant les pensions complémentaires, d'autres compléments aux avantages accordés pour les diverses branches de la sécurité sociale et la compétence du tribunal du travail

@@ -12,7 +12,7 @@ entry_into_force: 2024-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/14/2024002914/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2024. - Loi modifiant la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers

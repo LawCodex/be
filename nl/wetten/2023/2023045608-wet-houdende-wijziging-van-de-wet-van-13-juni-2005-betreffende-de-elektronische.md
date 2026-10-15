@@ -12,7 +12,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/08/30/2023045608/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2023. - Wet houdende wijziging van de wet van 13 juni 2005 betreffende de elektronische communicatie en houdende hervorming van de sociale tarieven

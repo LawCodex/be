@@ -13,7 +13,7 @@ entry_into_force: 2024-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/04/2024003454/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Ordonnance portant assentiment au Protocole additionnel entre le Royaume de Belgique et l'Association européenne de libre-échange, fait à Bruxelles le 24 novembre 2022

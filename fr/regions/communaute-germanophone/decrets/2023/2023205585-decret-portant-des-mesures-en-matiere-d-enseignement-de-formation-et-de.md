@@ -13,7 +13,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/26/2023205585/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2023. - Décret portant des mesures en matière d'enseignement, de formation et de formation des adultes et visant à lutter contre certaines formes de discrimination - 2023

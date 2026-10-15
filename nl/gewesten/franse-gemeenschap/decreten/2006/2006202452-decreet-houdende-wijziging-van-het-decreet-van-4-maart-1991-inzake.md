@@ -12,7 +12,7 @@ published: 2006-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/16/2006202452/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet houdende wijziging van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd (VERTALING).

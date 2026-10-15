@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1998035067/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-1998 en tekstbijwerking tot 31-12-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet houdende een vermindering van de onroerende voorheffing ter stimulering van tewerkstellingsbevorderende investeringen [in vorming]. (DVR 1998-12-19/30, art. 36, 002; Inwerkingtreding : 01-01-1999)

@@ -12,7 +12,7 @@ entry_into_force: 1994-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/30/1994009455/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1994. - Loi complétant l'article 10, Chapitre III, Titre Ier, de l'article 3 de la loi du 10 octobre 1967 contenant le Code judiciaire, relatif aux avoués.

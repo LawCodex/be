@@ -12,7 +12,7 @@ entry_into_force: 1999-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1999009060/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1998. - Loi modifiant le Code de la nationalité belge en ce qui concerne la procédure de naturalisation.

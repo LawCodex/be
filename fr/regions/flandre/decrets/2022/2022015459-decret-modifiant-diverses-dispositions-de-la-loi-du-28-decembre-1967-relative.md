@@ -13,7 +13,7 @@ entry_into_force: 2022-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/24/2022015459/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2022. - Décret modifiant diverses dispositions de la loi du 28 décembre 1967 relative aux cours d'eau non navigables, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018

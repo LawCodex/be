@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/05/2006036050/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-07-2006 et mise à jour au 13-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2006. - Décret portant reconnaissance du langage gestuel flamand (TRADUCTION)

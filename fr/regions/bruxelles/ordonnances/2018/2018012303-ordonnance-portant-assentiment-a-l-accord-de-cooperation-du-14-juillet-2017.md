@@ -13,7 +13,7 @@ entry_into_force: 2018-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/05/24/2018012303/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Ordonnance portant assentiment à : l'Accord de coopération du 14 juillet 2017 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française et la Communauté germanophone dans le cadre de la transposition de la Directive 2014/61/UE

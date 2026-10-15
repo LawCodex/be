@@ -12,7 +12,7 @@ entry_into_force: 2010-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/22/2010009381/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2010. - Loi modifiant la loi du 31 janvier 2007 sur la formation judiciaire et portant création de l'Institut de formation judiciaire en ce qui concerne le contrôle exercé par la Cour des comptes

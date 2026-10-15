@@ -12,7 +12,7 @@ published: 1999-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029345/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende toestemming met de Overeenkomst tot economisch partnerschap, tot politieke coördinatie en tot samenwerking tussen de Europese Gemeenschap en hun Lid-Staten, enerzijds, en de Mexicaanse Verenigde Staten, anderzijds, in de Bijlage en de Slotakte, opgemaakt te Brussel op 8 december 1997. (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 1985-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/12/20/1985015175/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1984. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République socialiste de Sri Lanka, tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Colombo le 3 février 1983.

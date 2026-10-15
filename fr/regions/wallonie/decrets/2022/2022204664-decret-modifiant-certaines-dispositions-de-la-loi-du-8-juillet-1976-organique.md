@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/14/2022204664/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2022. - Décret modifiant certaines dispositions de la loi du 8 juillet 1976 organique des centres publics d'action sociale en ce qui concerne la fusion volontaire de communes

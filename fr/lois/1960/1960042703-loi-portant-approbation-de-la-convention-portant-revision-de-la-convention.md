@@ -11,7 +11,7 @@ published: 1960-06-24
 entry_into_force: 1960-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/04/27/1960042703/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1960. - Loi portant approbation de la Convention portant révision de la Convention entre la Belgique et les Pays-Bas, relative à l'application de la législation des deux pays en ce qui concerne les assurances sociales, signée à La Haye, le 29 août 1947, et du Protocole additionnel à cette Convention, signés à La Haye, le 4 novembre 1957.

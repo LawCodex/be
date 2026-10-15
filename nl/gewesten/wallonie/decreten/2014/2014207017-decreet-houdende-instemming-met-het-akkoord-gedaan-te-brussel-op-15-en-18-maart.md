@@ -12,7 +12,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/13/2014207017/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2014. - Decreet houdende instemming met het Akkoord, gedaan te Brussel op 15 en 18 maart 2010, tussen het Koninkrijk België en Grenada inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden

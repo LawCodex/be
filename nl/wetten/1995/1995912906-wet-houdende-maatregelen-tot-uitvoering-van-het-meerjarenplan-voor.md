@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/12/22/1995912906/justel"
 department: "Tewerkstelling en Arbeid - Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1995 en tekstbijwerking tot 09-09-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Wet houdende maatregelen tot uitvoering van het meerjarenplan voor werkgelegenheid.

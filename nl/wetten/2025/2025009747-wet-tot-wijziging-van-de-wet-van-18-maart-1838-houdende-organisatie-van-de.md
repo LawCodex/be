@@ -12,7 +12,7 @@ entry_into_force: 2026-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/08/2025009747/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2025. - Wet tot wijziging van de wet van 18 maart 1838 houdende organisatie van de Koninklijke Militaire School

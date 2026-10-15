@@ -10,7 +10,7 @@ date: 2017-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/15/2018012744/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2017. - Wet houdende instemming met het Verdrag nr. 172 van de Internationale Arbeidsorganisatie betreffende de arbeidsvoorwaarden en -omstandigheden in hotels, restaurants en gelijksoortige inrichtingen, aangenomen te Genève op 25 juni 1991

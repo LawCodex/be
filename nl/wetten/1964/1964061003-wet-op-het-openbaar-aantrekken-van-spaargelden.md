@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1964/06/10/1964061003/justel"
 justel_notes:
   - "Consultation des versions antérieures à partir du 09-06-1989 et mise à jour au 27-05-2003"
   - "Raadpleging van vroegere versies vanaf 09-06-1989 en tekstbijwerking tot 01-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1964. - Wet op het openbaar aantrekken van spaargelden.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/28/2003012098/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 09-04-2003 en tekstbijwerking tot 15-02-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2003. - Wet betreffende de medische onderzoeken die binnen het kader van de arbeidsverhoudingen worden uitgevoerd

@@ -13,7 +13,7 @@ entry_into_force: 2011-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/04/28/2011029289/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2011. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik, opgemaakt in Lanzarote op 25 oktober 2007

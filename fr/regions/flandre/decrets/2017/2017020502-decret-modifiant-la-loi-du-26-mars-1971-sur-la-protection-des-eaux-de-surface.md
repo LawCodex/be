@@ -13,7 +13,7 @@ entry_into_force: 2017-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017020502/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret modifiant la loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution, le décret du 24 janvier 1984 portant des mesures en matière de gestion des eaux souterraines et le décret du 24 mai 2002 relatif aux eaux destinées à l'utilisation humaine, et portant délégation en matière de coordination et de codification de la réglementation relative à l'eau

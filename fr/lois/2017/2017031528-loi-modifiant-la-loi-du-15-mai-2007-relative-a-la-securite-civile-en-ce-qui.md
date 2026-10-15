@@ -12,7 +12,7 @@ entry_into_force: 2018-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/02/2017031528/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBRE 2017. - Loi modifiant la loi du 15 mai 2007 relative à la sécurité civile en ce qui concerne la téléréunion

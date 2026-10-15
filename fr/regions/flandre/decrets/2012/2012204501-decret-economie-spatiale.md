@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204501/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-08-2012 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - DECRET économie spatiale

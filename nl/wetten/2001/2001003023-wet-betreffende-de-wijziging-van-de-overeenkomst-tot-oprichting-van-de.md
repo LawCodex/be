@@ -12,7 +12,7 @@ entry_into_force: 2001-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/21/2001003023/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2001. - Wet betreffende de wijziging van de Overeenkomst tot oprichting van de Afrikaanse Ontwikkelingsbank.

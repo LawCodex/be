@@ -10,7 +10,7 @@ date: 1994-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/11/17/1994000708/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1994. - WET tot wijziging van artikel 3 van de wet van 7 juli 1994 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van de provincieraden en de gemeenteraden en voor de rechtstreekse verkiezing van de raden voor maatschappelijk welzijn en tot wijziging van artikel 76 van de gemeentekieswet

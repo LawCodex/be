@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013003445/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2013 et mise à jour au 05-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi portant des dispositions fiscales et financières diverses

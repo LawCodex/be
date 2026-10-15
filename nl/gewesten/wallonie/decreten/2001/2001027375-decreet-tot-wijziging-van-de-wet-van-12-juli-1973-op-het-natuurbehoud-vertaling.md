@@ -13,7 +13,7 @@ entry_into_force: 2001-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/28/2001027375/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2001. - Decreet tot wijziging van de wet van 12 juli 1973 op het natuurbehoud (VERTALING).

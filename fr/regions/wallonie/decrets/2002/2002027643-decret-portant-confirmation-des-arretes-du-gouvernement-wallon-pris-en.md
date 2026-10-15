@@ -13,7 +13,7 @@ entry_into_force: 2002-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/04/2002027643/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2002. - Décret portant confirmation des arrêtés du Gouvernement wallon pris en application de l'article 4 du décret du 18 juillet 2001 relatif à l'introduction de l'euro dans la réglementation et dans les programmes informatiques de la Région wallonne, et portant modification, en vue de l'introduction de l'euro, de la législation économique et des législations en matière de chasse et de forêts.

@@ -13,7 +13,7 @@ entry_into_force: 1998-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1998035043/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Decreet houdende goedkeuring van de interregionale kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten enerzijds, en de Mercado Comùn del Sur (Mercosur) en zijn deelnemende staten, anderzijds, ondertekend in Madrid op 15 december 1995.

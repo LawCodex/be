@@ -12,7 +12,7 @@ entry_into_force: 2000-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/05/1999015119/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1999. - Wet houdende instemming met het verdrag tussen het Koninkrijk België, het Vlaams Gewest en het Koninkrijk der Nederlanden tot herziening van het reglement ter uitvoering van artikel IX van het Tractaat van 19 april 1839 en van hoofdstuk II, afdelingen 1 en 2, van het Tractaat van 5 november 1842, zoals gewijzigd, voor wat betreft het loodswezen en het gemeenschappelijk toezicht daarop (Scheldereglement) en bijlage, gedaan te Middelburg op 11 januari 1995.

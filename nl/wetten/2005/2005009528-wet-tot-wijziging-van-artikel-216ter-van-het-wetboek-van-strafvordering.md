@@ -12,7 +12,7 @@ entry_into_force: 2005-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/22/2005009528/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2005. - Wet tot wijziging van artikel 216ter van het Wetboek van strafvordering, teneinde de dienstverlening opnieuw in te voeren in het kader van de bemiddeling in strafzaken.

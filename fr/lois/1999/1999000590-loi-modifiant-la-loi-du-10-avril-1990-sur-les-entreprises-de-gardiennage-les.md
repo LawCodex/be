@@ -12,7 +12,7 @@ entry_into_force: 1999-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999000590/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi modifiant la loi du 10 avril 1990 sur les entreprises de gardiennage, les entreprises de sécurité et les services internes de gardiennage.

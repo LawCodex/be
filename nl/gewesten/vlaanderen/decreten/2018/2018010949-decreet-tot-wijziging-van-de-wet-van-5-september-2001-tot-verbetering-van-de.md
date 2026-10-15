@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/09/2018010949/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2018. - Decreet tot wijziging van de wet van 5 september 2001 tot verbetering van de werkgelegenheidsgraad van de werknemers en van het Gerechtelijk Wetboek, wat betreft het opleggen van sancties aan werkgevers die hun verplichtingen inzake de bijzondere regeling van outplacement voor de werknemers van minstens 45 jaar niet naleven

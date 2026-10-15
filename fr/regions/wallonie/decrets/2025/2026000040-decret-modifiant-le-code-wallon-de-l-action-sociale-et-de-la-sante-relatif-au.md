@@ -13,7 +13,7 @@ entry_into_force: 2026-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/11/2026000040/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2025. - Décret modifiant le Code wallon de l'Action sociale et de la Santé relatif au carnet de vaccination électronique " Vaccicard "

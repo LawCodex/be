@@ -12,7 +12,7 @@ entry_into_force: 2004-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/04/2004003271/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2004. - Loi modifiant le Code des impôts sur les revenus 1992 en vue de permettre la transposition de la directive du Conseil de l'Union européenne du 3 juin 2003 (2003/49/CE) concernant un régime fiscal commun applicable aux paiements d'intérêts et de redevances effectués entre des sociétés associées d'Etats membres différents.

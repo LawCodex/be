@@ -13,7 +13,7 @@ entry_into_force: 2015-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/18/2015031907/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Ordonnance ajustant le Budget général des Dépenses de la Commission communautaire commune pour l'année budgétaire 2015

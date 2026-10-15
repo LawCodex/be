@@ -12,7 +12,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/15/2018203669/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2018. - Loi portant modification de la loi du 6 janvier 2014 portant création d'une Commission fédérale de déontologie en vue d'y insérer le Code de déontologie des mandataires publics

@@ -12,7 +12,7 @@ entry_into_force: 2006-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/21/2006009537/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2006. - Loi modifiant certaines dispositions du Code judiciaire concernant le barreau et la procédure disciplinaire applicable aux membres de celui-ci.

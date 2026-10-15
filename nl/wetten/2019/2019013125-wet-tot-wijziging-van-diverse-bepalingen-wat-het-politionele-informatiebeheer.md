@@ -12,7 +12,7 @@ entry_into_force: 2019-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/22/2019013125/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2019. - Wet tot wijziging van diverse bepalingen wat het politionele informatiebeheer betreft

@@ -12,7 +12,7 @@ entry_into_force: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/01/2005011251/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2005. - Loi portant modification de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations.

@@ -11,7 +11,7 @@ entry_into_force: 2023-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/19/2023043695/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2023. - Wet tot wijziging van de wet van 28 mei 2002 betreffende de euthanasie, wat de samenstelling van de federale controle- en evaluatiecommissie betreft

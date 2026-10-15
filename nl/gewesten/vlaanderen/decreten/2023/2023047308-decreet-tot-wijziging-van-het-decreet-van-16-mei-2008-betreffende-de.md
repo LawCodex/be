@@ -12,7 +12,7 @@ entry_into_force: 2023-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/10/2023047308/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2023. - Decreet tot wijziging van het decreet van 16 mei 2008 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens, wat het ten laste leggen van parkeerretributies en -belastingen aan de gebruikelijke bestuurder van het motorvoertuig en de uitreiking van parkeerkaarten betreft

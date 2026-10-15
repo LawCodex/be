@@ -13,7 +13,7 @@ entry_into_force: 2017-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2016036770/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret portant des dispositions fiscales diverses et des dispositions relatives au recouvrement de créances non fiscales

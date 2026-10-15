@@ -13,7 +13,7 @@ entry_into_force: 2024-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/28/2024006797/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2024. - Décret modifiant le décret du 28 novembre 2013 relatif à la performance énergétique des bâtiments

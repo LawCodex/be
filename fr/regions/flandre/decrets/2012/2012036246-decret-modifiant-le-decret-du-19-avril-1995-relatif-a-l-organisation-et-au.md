@@ -13,7 +13,7 @@ entry_into_force: 2012-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/30/2012036246/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2012. - Décret modifiant le décret du 19 avril 1995 relatif à l'organisation et au fonctionnement du service de pilotage de la Région flamande et relatif aux brevets de pilote de port et de maître d'équipage

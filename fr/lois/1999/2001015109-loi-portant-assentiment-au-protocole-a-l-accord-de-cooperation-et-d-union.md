@@ -12,7 +12,7 @@ entry_into_force: 2002-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/25/2001015109/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1999. - Loi portant assentiment au Protocole à l'Accord de coopération et d'union douanière entre la Communauté économique européenne et la République de Saint-Marin à la suite de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, et à l'Acte final, faits à Bruxelles le 30 octobre 1997.

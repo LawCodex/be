@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/04/2007011381/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2007. - Wet tot wijziging van de wet van 26 januari 2006 betreffende de aanhouding van verplichte voorraden aardolie en aardolieproducten en de oprichting van een agentschap voor het beheer van een deel van deze voorraad en tot wijziging van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben, en het verkeer daarvan en de controles daarop.

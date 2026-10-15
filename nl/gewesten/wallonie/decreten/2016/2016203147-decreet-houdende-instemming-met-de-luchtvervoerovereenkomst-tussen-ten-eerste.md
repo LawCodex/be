@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/09/2016203147/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2016. - Decreet houdende instemming met de luchtvervoerovereenkomst tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland, en ten vierde, het Koninkrijk Noorwegen, gedaan te Luxemburg en Oslo op 16 en 21 juni 2011, alsook met de bijkomende overeenkomst tussen ten eerste, de Europese Unie en haar lidstaten, ten tweede, IJsland, en ten derde, het Koninkrijk Noorwegen betreffende de toepassing van de luchtvervoerovereenkomst tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland, en ten vierde, het Koninkrijk Noorwegen, gedaan te Luxemburg en Oslo op 16 en 21 juni 2011

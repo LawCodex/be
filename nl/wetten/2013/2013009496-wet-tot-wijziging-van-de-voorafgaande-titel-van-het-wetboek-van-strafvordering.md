@@ -10,7 +10,7 @@ date: 2013-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/10/24/2013009496/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2013. - Wet tot wijziging van de voorafgaande titel van het Wetboek van strafvordering wat betreft de nietigheden

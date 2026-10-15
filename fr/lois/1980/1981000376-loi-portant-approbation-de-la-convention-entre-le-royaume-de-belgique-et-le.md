@@ -12,7 +12,7 @@ entry_into_force: 1981-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/11/27/1981000376/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1980. - Loi portant approbation de la Convention entre le Royaume de Belgique et le Royaume de Thaïlande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenue et sur la fortune, signée à Bangkok le 16 octobre 1978.

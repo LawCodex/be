@@ -12,7 +12,7 @@ entry_into_force: 2026-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/22/2026005790/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2026. - Loi portant des mesures supplémentaires visant à réduire le surpopulation carcérale

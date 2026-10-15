@@ -11,7 +11,7 @@ published: 1957-07-26
 entry_into_force: 1958-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1957/07/09/1957070902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1957. - Wet tot regeling van de verkoop op afbetaling en van zijn financiering.

@@ -12,7 +12,7 @@ entry_into_force: 2022-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/30/2022034067/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2022. - Loi portant assentiment au Protocole n° 16 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, fait à Strasbourg le 2 octobre 2013

@@ -13,7 +13,7 @@ entry_into_force: 2003-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/04/2002033104/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBRE 2002. - Décret portant assentiment à l'Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et l'ancienne République yougoslave de Macédoine, d'autre part, ses Annexes I, II, III, IV, V, VI et VII, les Protocoles 1, 2, 3, 4 et 5 ainsi que l'Acte final, faits à Luxembourg le 9 avril 2001 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2017-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/27/2017010464/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2017. - Decreet houdende wijziging van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu

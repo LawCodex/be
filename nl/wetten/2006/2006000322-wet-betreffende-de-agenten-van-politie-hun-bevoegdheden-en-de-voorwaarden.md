@@ -12,7 +12,7 @@ entry_into_force: 2006-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/04/01/2006000322/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2006. - Wet betreffende de agenten van politie, hun bevoegdheden en de voorwaarden waaronder hun opdrachten worden vervuld.

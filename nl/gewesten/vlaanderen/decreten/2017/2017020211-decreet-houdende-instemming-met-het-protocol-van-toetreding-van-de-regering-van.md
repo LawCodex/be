@@ -13,7 +13,7 @@ entry_into_force: 2017-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/20/2017020211/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2017. - Decreet houdende instemming met het protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en werking van de "European Synchrotron Radiation Facility" (Europese synchrotronstralingsfaciliteit), ondertekend te Grenoble op 23 juni 2014 en te Parijs op 15 juli 2014

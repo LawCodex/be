@@ -13,7 +13,7 @@ entry_into_force: 2008-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/05/08/2008031241/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2008. - Ordonnance portant assentiment relatif aux restes explosifs de guerre à la Convention sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination, fait à Genève le 28 novembre 2003.

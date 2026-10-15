@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/25/2018204501/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 25-09-2018 et mise à jour au 10-09-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2018. - Décret créant la fonction d'assistant en maternelle dans les écoles fondamentales ordinaires et abaissant à deux ans et six mois l'âge d'entrée en section maternelle

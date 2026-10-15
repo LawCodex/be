@@ -13,7 +13,7 @@ entry_into_force: 2010-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/09/2010035498/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2010. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Sultanat d'Oman, concernant l'encouragement et la protection réciproque des investissements, signé à Masqat le 16 décembre 2008

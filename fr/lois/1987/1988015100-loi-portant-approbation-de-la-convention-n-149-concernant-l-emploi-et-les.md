@@ -12,7 +12,7 @@ entry_into_force: 1988-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/10/09/1988015100/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 OCTOBRE 1987. - Loi portant approbation de la Convention n° 149 concernant l'emploi et les conditions de travail et de vie du personnel infirmier, adoptée à Genève le 21 juin 1977, par la Conférence internationale du Travail lors de sa soixante-troisième Session.

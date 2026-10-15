@@ -11,7 +11,7 @@ published: 1930-07-02
 entry_into_force: 1930-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1930/06/18/1930061855/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 1930. - Loi portant revision de la loi du 10 mars 1925 relative à l'assurance en vue de la vieillesse et du décès prematuré des employés.

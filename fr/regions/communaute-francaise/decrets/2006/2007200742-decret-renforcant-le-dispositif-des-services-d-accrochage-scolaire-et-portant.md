@@ -13,7 +13,7 @@ entry_into_force: 2006-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2007200742/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret renforçant le dispositif des "services d'accrochage scolaire" et portant diverses mesures en matière de règles de vie collective au sein des établissements scolaires.

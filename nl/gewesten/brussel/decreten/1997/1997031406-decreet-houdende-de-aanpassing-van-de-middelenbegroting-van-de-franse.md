@@ -12,7 +12,7 @@ entry_into_force: 1997-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/26/1997031406/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1997. - Decreet houdende de aanpassing van de Middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1997.

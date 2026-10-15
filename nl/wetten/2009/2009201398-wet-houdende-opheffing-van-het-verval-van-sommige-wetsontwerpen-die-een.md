@@ -12,7 +12,7 @@ entry_into_force: 2009-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/24/2009201398/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2009. - Wet houdende opheffing van het verval van sommige wetsontwerpen die een aangelegenheid regelen als bedoeld in artikel 77 van de Grondwet

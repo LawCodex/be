@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/17/2000003132/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2000. - Wet tot wijziging van de wet van 15 maart 1999 betreffende de beslechting van fiscale geschillen.

@@ -13,7 +13,7 @@ entry_into_force: 1995-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029263/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet tot Wijziging van het decreet van de Franse Gemeenschap van 28 juli 1992 tot vaststelling van de voorwaarden voor de erkenning en de toekenning van toelagen aan de culturele centra. (VERTALING)

@@ -9,7 +9,7 @@ language: nl
 date: 1927-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1927/07/23/1927072350/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1927. - Wet tot goedkeuring van de Overeenkomsten aangenomen door de Internationale conferentie van den arbeid in den loop van haren negenden zittijd, gehouden te Genève van 7 tot 24 Juni 1926 en respectievelijk betrekking hebbende op het wervingscontract der zeelieden en de repatrieering der zeelieden.

@@ -13,7 +13,7 @@ entry_into_force: 2010-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/08/2010029428/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2010. - Décret modifiant le décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité

@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/15/2001029519/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2001. - Décret portant modifiant assentiment à l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, sur la libre circulation des personnes, aux annexes I, II et III audit Accord, au Protocole sur les résidences secondaires au Danemark et au Protocole concernant les Iles Aland et à l'Acte final, faits à Luxembourg le 21 juin 1999.

@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/01/14/2010029093/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2010. - Décret modifiant le décret coordonné du 26 mars 2009 sur les services de médias audiovisuels

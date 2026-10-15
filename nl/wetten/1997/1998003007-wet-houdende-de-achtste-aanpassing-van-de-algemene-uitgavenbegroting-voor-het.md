@@ -12,7 +12,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/19/1998003007/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Wet houdende de achtste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1997 - Sectie 18 - " Financiën ".

@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/10/2009205899/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2009. - Programmadecreet houdende verschillende maatregelen betreffende de wegenisretributie, de bezoldiging van de gewestelijke garantie, de dotaties en toelagen aan bepaalde instellingen onder beheerscontract, en een pilootproject inzake trekkingsrecht, ten gunste van de gemeenten, voor de investeringssubsidies betreffende de onderhoudswerken van de wegen

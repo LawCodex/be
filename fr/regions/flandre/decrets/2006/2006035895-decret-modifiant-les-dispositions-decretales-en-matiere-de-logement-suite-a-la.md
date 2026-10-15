@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/24/2006035895/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2006 et mise à jour au 04-05-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2006. - Décret modifiant les dispositions décrétales en matière de logement suite à la politique administrative (TRADUCTION)

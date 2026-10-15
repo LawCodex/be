@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/10/20/2005202950/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 24-10-2005 et mise à jour au 06-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2005. - Décret visant à la simplification administrative pour les matières réglées en vertu de l'article 138 de la Constitution

@@ -13,7 +13,7 @@ entry_into_force: 1982-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/06/08/1982001560/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1982. - Decreet houdende de toestemming van het Internationaal Pact met betrekking op de economische, sociale en culturele rechten, gedaan te New York op 19 december 1966.

@@ -12,7 +12,7 @@ entry_into_force: 1991-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/11/1990015185/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1990. - Loi portant approbation de la Charte sociale européenne et de l'Annexe, faites à Turin le 18 octobre 1961.

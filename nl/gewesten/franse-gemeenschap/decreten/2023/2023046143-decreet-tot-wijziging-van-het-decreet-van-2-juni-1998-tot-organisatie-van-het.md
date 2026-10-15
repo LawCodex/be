@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/21/2023046143/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBER 2023. - Decreet tot wijziging van het decreet van 2 juni 1998 tot organisatie van het kunstsecundair onderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap

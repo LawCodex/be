@@ -13,7 +13,7 @@ entry_into_force: 2018-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/07/2018203067/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2018. - Decreet houdende instemming met het Protocol bij de Conventie betreffende de dwangarbeid van 1930, aangenomen te Genève op 11 juni 2014 door de Internationale Arbeidsconferentie tijdens haar honderd en derde zitting

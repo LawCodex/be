@@ -12,7 +12,7 @@ entry_into_force: 2017-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/31/2017020392/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2017. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, en ce qui concerne le conseil de police

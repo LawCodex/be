@@ -13,7 +13,7 @@ entry_into_force: 2010-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/05/06/2010202828/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2010. - Decreet tot gedeeltelijke omzetting van Richtlijn 2066/111/EG betreffende de doorzichtigheid in de financiële betrekkingen tussen lidstaten en openbare bedrijven en de financiële doorzichtigheid binnen bepaalde ondernemingen

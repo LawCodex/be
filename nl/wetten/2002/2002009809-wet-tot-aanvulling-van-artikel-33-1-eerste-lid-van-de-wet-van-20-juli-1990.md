@@ -10,7 +10,7 @@ date: 2002-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002009809/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet tot aanvulling van artikel 33, § 1, eerste lid van de wet van 20 juli 1990 betreffende de voorlopige hechtenis.

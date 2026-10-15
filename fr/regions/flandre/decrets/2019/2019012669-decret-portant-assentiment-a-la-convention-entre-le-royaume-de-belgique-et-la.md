@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012669/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République d'Arménie relatif à l'exécution d'activités payées par les membres de famille du personnel des missions diplomatiques et postes consulaires, signée à Bruxelles le 4 décembre 2018

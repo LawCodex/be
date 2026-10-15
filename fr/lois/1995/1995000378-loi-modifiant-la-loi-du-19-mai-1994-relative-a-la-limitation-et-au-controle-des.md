@@ -12,7 +12,7 @@ entry_into_force: 1995-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995000378/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi modifiant la loi du 19 mai 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections du Conseil de la Région wallonne, du Conseil flamand et du Conseil de la Région de Bruxelles-Capitale.

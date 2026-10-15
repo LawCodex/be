@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/22/1999009419/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 20-05-1999 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1999. - Wet betreffende de identificatieprocedure via DNA-analyse in strafzaken

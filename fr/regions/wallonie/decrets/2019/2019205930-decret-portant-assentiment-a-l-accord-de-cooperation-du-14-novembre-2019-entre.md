@@ -13,7 +13,7 @@ entry_into_force: 2020-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/12/2019205930/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2019. - Décret portant assentiment à l'accord de coopération du 14 novembre 2019 entre la Région wallonne et la Communauté germanophone relatif à l'exercice des compétences en matière d'aménagement du territoire et de certaines matières connexes

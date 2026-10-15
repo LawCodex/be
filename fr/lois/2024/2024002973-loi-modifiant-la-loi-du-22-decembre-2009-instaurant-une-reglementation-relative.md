@@ -12,7 +12,7 @@ entry_into_force: 2024-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/26/2024002973/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2024. - Loi modifiant la loi du 22 décembre 2009 instaurant une réglementation relative à l'interdiction de fumer dans certains lieux et à la protection de la population contre la fumée du tabac

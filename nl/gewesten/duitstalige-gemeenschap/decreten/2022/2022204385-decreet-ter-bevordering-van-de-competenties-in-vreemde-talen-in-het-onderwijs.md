@@ -12,7 +12,7 @@ published: 2022-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/27/2022204385/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2022. - Decreet ter bevordering van de competenties in vreemde talen in het onderwijs

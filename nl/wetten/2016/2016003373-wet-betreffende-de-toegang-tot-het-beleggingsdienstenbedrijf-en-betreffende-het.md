@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/10/25/2016003373/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 18-11-2016 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2016. - Wet betreffende de toegang tot het beleggingsdienstenbedrijf en betreffende het statuut van en het toezicht op de vennootschappen voor vermogensbeheer en beleggingsadvies

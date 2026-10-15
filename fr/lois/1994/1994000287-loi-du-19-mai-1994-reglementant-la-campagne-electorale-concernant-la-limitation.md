@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/19/1994000287/justel"
 department: "Intérieur - Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 30-08-2000 et mise à jour au 11-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1994. - LOI du 19 mai 1994 réglementant la campagne électorale, concernant la limitation et la déclaration des dépenses électorales engagées pour les élections du [Parlement wallon, du Parlement flamand, du Parlement de la Région de Bruxelles-Capitale et du Parlement] de la Communauté germanophone, et fixant le critère de contrôle des communications officielles des autorités publiques &lt;L 2006-03-27/35 , art. 28, 007; En vigueur : 21-04-2006&gt;

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/01/06/1989021001/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 17-01-1989 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 1989. - Loi spéciale sur la [Cour constitutionnelle] &lt;Intitulé modifié par L 2010-02-21/01 , art. 6, 009; En vigueur : 08-03-2010&gt;

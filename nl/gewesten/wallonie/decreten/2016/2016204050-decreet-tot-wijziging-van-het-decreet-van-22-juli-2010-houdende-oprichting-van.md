@@ -13,7 +13,7 @@ entry_into_force: 2016-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/20/2016204050/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Decreet tot wijziging van het decreet van 22 juli 2010 houdende oprichting van een " Conseil de la Fiscalité et des Finances de Wallonie " (Raad van de fiscaliteit en de financiën van Wallonië)

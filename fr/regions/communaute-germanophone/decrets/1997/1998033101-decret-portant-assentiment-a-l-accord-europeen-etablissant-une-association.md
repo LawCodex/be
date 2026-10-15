@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/20/1998033101/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 1997. - Décret portant assentiment à l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres agissant dans le cadre de l'Union européenne, d'une part et la République de Slovénie, d'autre part, aux annexes I, II, III, IV, V, VI, VII, VIIIa, VIIIb, IXa, IXb, IXc, X, XI, XII et XIII, aux protocoles 1, 2, 3, 4, 5 et 6, et à l'Acte final, faits à Luxembourg le 10 juin 1996 (TRADUCTION).

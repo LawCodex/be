@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024004443/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2024 et mise à jour au 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Décret relatif au subventionnement des secteurs professionnels des Langues, des Lettres et du Livre

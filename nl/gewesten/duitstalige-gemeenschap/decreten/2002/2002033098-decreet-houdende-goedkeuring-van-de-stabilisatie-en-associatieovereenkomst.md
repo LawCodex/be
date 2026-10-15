@@ -12,7 +12,7 @@ entry_into_force: 2002-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/07/2002033098/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2002. - Decreet houdende goedkeuring van de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds en de Republiek Kroatië anderzijds, en de bijlagen I tot VIII, de Protocollen 1, 2, 3, 4, 5 en 6, en de slotakte, gedaan te Luxemburg op 29 oktober 2001. (VERTALING).

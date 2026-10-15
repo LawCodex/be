@@ -13,7 +13,7 @@ entry_into_force: 2021-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/01/2021041253/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2021. - Décret relatif à l'octroi d'une indemnité complémentaire en faveur des associations sans but lucratif qui exercent une activité économique dans le cadre de la crise de la COVID-19

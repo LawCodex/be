@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019011782/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi portant modification de la loi du 18 mars 2016 portant modification de la dénomination de l'Office national des Pensions en Service fédéral des Pensions, portant intégration des attributions et du personnel du Service des Pensions du Secteur public, d'une partie des attributions et du personnel de la Direction générale Victimes de la guerre, des missions "Pensions" des secteurs locaux et provinciaux de l'Office des régimes particuliers de sécurité sociale, de HR Rail et portant reprise du Service social collectif de l'Office des régimes particuliers de sécurité sociale, en vue de permettre l'octroi par le Service fédéral des Pensions de subsides à certaines fédérations et oeuvres qui agissent en faveur des victimes de la guerre et de leurs ayants droit

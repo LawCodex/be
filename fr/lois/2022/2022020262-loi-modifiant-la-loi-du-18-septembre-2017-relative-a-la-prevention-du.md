@@ -12,7 +12,7 @@ entry_into_force: 2022-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/01/2022020262/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2022. - Loi modifiant la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces afin d'introduire des dispositions relatives au statut et au contrôle des prestataires de services d'échange entre monnaies virtuelles et monnaies légales et des prestataires de services de portefeuilles de conservation

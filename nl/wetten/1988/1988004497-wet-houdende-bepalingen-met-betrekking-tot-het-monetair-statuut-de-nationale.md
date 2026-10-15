@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1988/12/23/1988004497/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1988 en tekstbijwerking tot 10-11-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1988. - Wet houdende bepalingen met betrekking tot het monetair statuut, de Nationale Bank van België, het monetair beleid en het Muntfonds.

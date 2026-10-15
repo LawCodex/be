@@ -12,7 +12,7 @@ entry_into_force: 2014-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/03/2014015109/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2014. - Loi portant assentiment à l'Accord entre le Gouvernement belge et le Gouvernement macédonien sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 6 juillet 2010

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/12/2019010211/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-01-2019 en tekstbijwerking tot 27-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2018. - Programmadecreet houdende verschillende maatregelen inzake de regeling van de begroting en van de boekhouding, de begrotingsfondsen, hoger onderwijs en onderzoek, kind, het leerplichtonderwijs en het onderwijs voor sociale promotie, schoolgebouwen, de financiering van infrastructuren voor de Cité des métiers van Charleroi, de uitvoering van de hervorming van de initiële opleiding van de leerkrachten

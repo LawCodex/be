@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999021324/justel"
 department: "Eerste Minister"
 justel_note: "raadpleging van vroegere versies vanaf 17-08-1999 en tekstbijwerking tot 19-05-2009."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet houdende oprichting, binnen de Federale diensten voor wetenschappelijke, technische en culturele aangelegenheden, van een Staatsdienst genoemd " Belgisch telematica-onderzoeksnetwerk, BELNET ".

@@ -12,7 +12,7 @@ entry_into_force: 1997-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/01/21/1997009172/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 1997. - Wet tot wijziging van artikel 195 van het Gerechtelijk Wetboek.

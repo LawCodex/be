@@ -13,7 +13,7 @@ entry_into_force: 2023-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/06/2023045407/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2023. - Decreet tot aanpassing van sommige gewestelijke bepalingen aan het Wetboek van vennootschappen en verenigingen voor de bevoegdheden waarvan de uitoefening is overgedragen overeenkomstig artikel 138 van de Grondwet

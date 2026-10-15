@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/07/30/1987021136/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 06-08-1987 en tekstbijwerking tot 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1987. - Wet tot bekrachtiging van de koninklijke besluiten vastgesteld ter uitvoering van artikel 1 van de wet van 27 maart 1986 tot toekenning van bepaalde bijzondere machten aan de Koning, en tot wijziging van : 1° het koninklijk besluit nr. 548 van 10 september 1986 tot vaststelling van de opstellingscoëfficient voor sommige leerlingen in het secundair onderwijs; 2° de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving; 3 ° de wet van 27 juni 1930 waarbij de rechtspersoonlijkheid wordt verleend aan de wetenschappelijke en kunstinrichtingen welke van het Ministerie van Kunsten en Wetenschappen afhangen.

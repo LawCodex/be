@@ -13,7 +13,7 @@ entry_into_force: 2014-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/07/2014035217/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2014. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Organisation mondiale de la Santé animale, signé à Bruxelles le 14 mars 2013

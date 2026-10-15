@@ -13,7 +13,7 @@ entry_into_force: 2008-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2007035011/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret relatif au gouvernement d'entreprise et à d'autres dispositions en matière des sociétés d'investissement de l'Autorité flamande (TRADUCTION).

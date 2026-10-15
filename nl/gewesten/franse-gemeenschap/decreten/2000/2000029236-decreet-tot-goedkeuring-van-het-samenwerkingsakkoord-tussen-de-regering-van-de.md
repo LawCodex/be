@@ -12,7 +12,7 @@ published: 2000-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/05/31/2000029236/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2000. - Decreet tot goedkeuring van het samenwerkingsakkoord tussen de Regering van de Franse Gemeenschap van België en de Waalse Regering, enerzijds, en de Regering van de Republiek Bulgarije, anderzijds, en de bijlagen, opgemaakt te Brussel op 8 oktober 1998 (VERTALING).

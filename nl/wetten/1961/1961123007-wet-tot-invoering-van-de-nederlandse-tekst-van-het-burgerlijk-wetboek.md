@@ -11,7 +11,7 @@ published: 1962-05-18
 entry_into_force: 1962-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/12/30/1961123007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1961. - Wet tot invoering van de Nederlandse tekst van het burgerlijk wetboek.

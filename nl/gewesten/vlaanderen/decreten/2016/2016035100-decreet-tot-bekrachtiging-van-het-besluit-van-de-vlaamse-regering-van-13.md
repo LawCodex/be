@@ -13,7 +13,7 @@ entry_into_force: 2016-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/15/2016035100/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2016. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 13 november 2015 tot ontvankelijkheid en gelijkwaardigheid van de aanvraag tot afwijking van de ontwikkelingsdoelen gewoon kleuteronderwijs en de eindtermen gewoon lager onderwijs, wat het leergebied wetenschappen en techniek en het leergebied mens en maatschappij betreft

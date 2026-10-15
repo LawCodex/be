@@ -11,7 +11,7 @@ published: 1960-08-10
 entry_into_force: 1960-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/05/12/1960051203/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 1960. - Wet houdende goedkeuring van het Verdrag betreffende de Status van Staatlozen en van de Bijlagen, ondertekend op 28 september 1954, te New-York.

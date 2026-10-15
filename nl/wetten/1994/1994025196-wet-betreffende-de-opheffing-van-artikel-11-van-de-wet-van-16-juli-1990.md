@@ -10,7 +10,7 @@ date: 1994-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/04/25/1994025196/justel"
 department: "Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 1994. - Wet betreffende de opheffing van artikel 11 van de wet van 16 juli 1990 houdende begrotingsbepalingen.

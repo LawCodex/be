@@ -12,7 +12,7 @@ entry_into_force: 2021-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/24/2021200011/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2020. - Wet tot bekrachtiging van de koninklijke besluiten genomen met toepassing van de wet van 27 maart 2020 die machtiging verleent aan de Koning om maatregelen te nemen in de strijd tegen de verspreiding van het coronavirus COVID-19 (I)

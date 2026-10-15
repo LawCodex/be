@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/08/1999009315/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-03-1999 en tekstbijwerking tot 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 1999. - Wet tot instelling van een Adviesraad van de magistratuur. -

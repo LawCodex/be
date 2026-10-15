@@ -11,7 +11,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/11/2013206405/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 NOVEMBER 2013. - Wet tot wijziging van het hoofdstuk 8 van titel IV van de programmawet (I) van 27 december 2006 en van het Sociaal Strafwetboek

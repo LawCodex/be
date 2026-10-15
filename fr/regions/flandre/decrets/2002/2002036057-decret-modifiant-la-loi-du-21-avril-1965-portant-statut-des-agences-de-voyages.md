@@ -13,7 +13,7 @@ entry_into_force: 2002-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036057/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret modifiant la loi du 21 avril 1965 portant statut des agences de voyages (TRADUCTION).

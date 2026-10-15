@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/10/29/1998027652/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 04-12-1998 en tekstbijwerking tot 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 1998. - [Wetboek van de Huisvesting en het Duurzame Wonen.] (VERTALING). &lt;Opschrift vervangen door DWG 2012-02-09/05 , art. 1, 005; Inwerkingtreding : 20-04-2012 (zie BWG 2012-03-23/07 , art. 12)&gt;

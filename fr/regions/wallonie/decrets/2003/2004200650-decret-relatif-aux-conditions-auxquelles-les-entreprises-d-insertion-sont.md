@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/18/2004200650/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 14-12-2006 et mise à jour au 21-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2003. - Décret relatif aux conditions auxquelles les entreprises d'insertion sont agréées et subventionnées.

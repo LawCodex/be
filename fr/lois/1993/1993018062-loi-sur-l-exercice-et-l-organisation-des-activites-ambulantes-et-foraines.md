@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/06/25/1993018062/justel"
 department: "Classes Moyennes"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2005 et mise à jour au 10-03-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1993. - [Loi sur l'exercice et l'organisation des activités ambulantes et foraines]. &lt;Intitulé remplacé par L 2005-07-04/36, art. 2 ; En vigueur : 01-10-2006&gt;

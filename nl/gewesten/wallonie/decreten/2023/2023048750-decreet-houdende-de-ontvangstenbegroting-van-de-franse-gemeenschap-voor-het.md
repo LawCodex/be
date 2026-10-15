@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/20/2023048750/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2023 en tekstbijwerking tot 24-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2023. - Decreet houdende de ontvangstenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2024

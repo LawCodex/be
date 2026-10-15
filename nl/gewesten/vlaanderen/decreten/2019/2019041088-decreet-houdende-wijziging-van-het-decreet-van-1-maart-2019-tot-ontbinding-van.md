@@ -13,7 +13,7 @@ entry_into_force: 2019-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/26/2019041088/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2019. - Decreet houdende wijziging van het decreet van 1 maart 2019 tot ontbinding van het Fonds Jongerenwelzijn en tot wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin en het decreet van 12 juli 2013 betreffende de integrale jeugdhulp

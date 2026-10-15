@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019040957/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2023 et mise à jour au 29-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret-cadre relatif au maintien administratif

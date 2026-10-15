@@ -12,7 +12,7 @@ entry_into_force: 2013-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/10/2013009002/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2012. - Loi modifiant le Code civil, le Code pénal et le Code judiciaire en ce qui concerne l'indignité successorale, la révocation des donations, la déchéance des avantages matrimoniaux et la substitution

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/06/2005033073/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 13-09-2005 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2005. - Décret portant des mesures en matière d'enseignement 2005 (TRADUCTION).

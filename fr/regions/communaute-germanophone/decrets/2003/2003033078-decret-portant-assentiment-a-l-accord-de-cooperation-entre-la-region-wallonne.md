@@ -13,7 +13,7 @@ entry_into_force: 2003-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/30/2003033078/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2003. - Décret portant assentiment à l'Accord de coopération entre la Région wallonne, la Communauté française, la Communauté germanophone et la Commission communautaire française de la Région de Bruxelles-Capitale relatif à la création du Conseil Wallonie-Bruxelles de la coopération internationale (TRADUCTION).

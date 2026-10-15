@@ -12,7 +12,7 @@ entry_into_force: 2015-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/17/2015024189/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Loi portant des dispositions divers en matière de santé

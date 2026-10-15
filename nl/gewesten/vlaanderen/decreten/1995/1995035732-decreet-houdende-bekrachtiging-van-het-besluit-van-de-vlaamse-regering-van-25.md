@@ -13,7 +13,7 @@ entry_into_force: 1995-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/08/1995035732/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 1995. - Decreet houdende bekrachtiging van het besluit van de Vlaamse regering van 25 januari 1995 tot coördinatie van de decreten betreffende de radio-omroep en de televisie.

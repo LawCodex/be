@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2001014165/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-2001 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet betreffende Belgacom.

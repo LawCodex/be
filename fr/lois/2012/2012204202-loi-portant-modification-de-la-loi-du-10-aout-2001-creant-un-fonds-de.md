@@ -12,7 +12,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012204202/justel"
 department: "Chancellerie du Premier Ministre - Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi portant modification de la loi du 10 août 2001 créant un Fonds de financement du rôle international et de la fonction de capitale de Bruxelles et modifiant la loi organique du 27 décembre 1990 créant des fonds budgétaires, et de la loi organique du 27 décembre 1990 créant des fonds budgétaires

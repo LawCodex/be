@@ -12,7 +12,7 @@ entry_into_force: 2024-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/21/2024001626/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2024. - Wet tot wijziging van de wet van 26 januari 2018 betreffende de postdiensten

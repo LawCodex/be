@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/15/2021022852/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 01-02-2022 et mise à jour au 13-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2021. - Décret-programme portant diverses dispositions accompagnant le budget 2022

@@ -13,7 +13,7 @@ entry_into_force: 2021-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/06/17/2021042326/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2021. - Ordonnantie tot wijziging van de ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing alsook van de organieke ordonnantie van 23 februari 2006 houdende de bepalingen die van toepassing zijn op de begroting, de boekhouding en de controle (ook klimaatordonnantie genoemd)

@@ -12,7 +12,7 @@ entry_into_force: 1999-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015001/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment au Traité entre le Royaume de Belgique et le Royaume des Pays-Bas concernant la construction d'une liaison ferroviaire pour trains à grande vitesse entre Rotterdam et Anvers, signé à Bruxelles le 21 décembre 1996.

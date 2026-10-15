@@ -12,7 +12,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/18/2010003305/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2010. - Wet tot invoering van een vrijstelling van de jaarlijkse taks op de verzekeringsverrichtingen ten voordele van de ziektekostenverzekeringen die een hoog niveau van bescherming aanbieden

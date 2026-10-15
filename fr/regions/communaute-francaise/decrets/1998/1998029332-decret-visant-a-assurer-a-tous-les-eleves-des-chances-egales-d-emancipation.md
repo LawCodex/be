@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/30/1998029332/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-08-1998 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1998. - Décret visant à assurer à tous les élèves des chances égales d'émancipation sociale, notamment par la mise en oeuvre de discriminations positives.

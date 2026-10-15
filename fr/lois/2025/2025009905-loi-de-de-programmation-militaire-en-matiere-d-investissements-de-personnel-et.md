@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/21/2025009905/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2025. - Loi de de programmation militaire en matière d'investissements, de personnel et de renforcement technologique pour la période 2026-2034

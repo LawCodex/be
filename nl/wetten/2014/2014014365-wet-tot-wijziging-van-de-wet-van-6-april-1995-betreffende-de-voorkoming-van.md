@@ -11,7 +11,7 @@ published: 2014-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014014365/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet tot wijziging van de wet van 6 april 1995 betreffende de voorkoming van verontreiniging door schepen en de wet van 20 januari 1999 ter bescherming van het mariene milieu en ter organisatie van de mariene ruimtelijke planning in de zeegebieden onder de rechtsbevoegdheid van België

@@ -12,7 +12,7 @@ entry_into_force: 2013-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/01/10/2013014096/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2013. - Wet houdende uitvoering van verscheidene Internationale Verdragen inzake de burgerlijke aansprakelijkheid voor verontreiniging door schepen, met betrekking tot aangelegenheden als bedoeld in artikel 77 van de Grondwet

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/21/1999000028/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 03-02-1999 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1998. - Loi relative à la sécurité lors des matches de football.

@@ -12,7 +12,7 @@ entry_into_force: 2006-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/03/2006003577/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2006. - Wet tot aanvulling van artikel 149 van het Wetboek der successierechten, wat betreft de vrijstelling van de taks tot vergoeding van successierechten voor verenigingen zonder winstoogmerk die natuurterreinen openstellen voor algemeen gebruik.

@@ -12,7 +12,7 @@ entry_into_force: 2015-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/09/2015000710/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2015. - Loi portant dispositions diverses Intérieur

@@ -13,7 +13,7 @@ entry_into_force: 2016-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/15/2016031124/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2015. - Decreet houdende toestemming met de overeenkomst van 26 februari 2015 tussen de Franstalige Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de oprichting en het beheer van een Franstalig certificeringskader, afgekort "CFC"(Cadre francophone des certifications)

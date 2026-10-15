@@ -13,7 +13,7 @@ entry_into_force: 2011-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/28/2011204712/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2011. - Décret portant assentiment à l'Accord de coopération entre la Communauté française et la Communauté germanophone relatif à l'achat de vaccins destinés à protéger les enfants et les adolescents, fait à Bruxelles le 15 juin 2011

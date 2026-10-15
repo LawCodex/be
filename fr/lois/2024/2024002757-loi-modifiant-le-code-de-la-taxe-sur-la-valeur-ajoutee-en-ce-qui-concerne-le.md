@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/21/2024002757/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2024. - Loi modifiant le Code de la taxe sur la valeur ajoutée en ce qui concerne le régime particulier de la franchise de taxe applicable aux petites entreprises

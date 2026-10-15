@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016022503/justel"
 department: "Sécurité sociale - Emploi, Travail et Concertation sociale - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi portant des dispositions diverses en matière sociale

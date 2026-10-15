@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/10/2016036138/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-08-2016 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2016. - Décret réglant certains aspects des formations en alternance

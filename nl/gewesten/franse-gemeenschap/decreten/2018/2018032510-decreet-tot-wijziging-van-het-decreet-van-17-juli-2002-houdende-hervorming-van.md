@@ -13,7 +13,7 @@ entry_into_force: 2018-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/14/2018032510/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2018. - Decreet tot wijziging van het decreet van 17 juli 2002 houdende hervorming van de " Office de la Naissance et de l'Enfance ", afgekort " O.N.E. "

@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/18/1996029165/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1996. - Decreet houdende instemming met het samenwerkingsakkoord voor de permanente vorming ten behoeve van de middenstand en de KMO's en voogdij over het Instituut voor die permanente vorming, op 20 februari 1995 gesloten door de Franse Gemeenschapscommissie, de Franse Gemeenschap en het Waalse Gewest.HI:??2,Zitting 1995-1996. Documenten van de Raad. - Nr. 71 - nr. 1 : Ontwerp van decreet; nr. 2 : Verslag. Integraal verslag. - Bespreking en aanneming. Vergadering van 12 maart 1996.

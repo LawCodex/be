@@ -13,7 +13,7 @@ entry_into_force: 1993-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/02/1994029625/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1993. - Décret contenant l'ajustement du budget général des dépenses de la Communauté française de l'année budgétaire 1993.

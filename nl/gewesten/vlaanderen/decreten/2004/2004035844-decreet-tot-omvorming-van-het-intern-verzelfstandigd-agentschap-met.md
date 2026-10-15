@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035844/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2004 en tekstbijwerking tot 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - [Decreet tot omvorming van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Agentschap voor Infrastructuur in het Onderwijs" naar een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap voor Infrastructuur in het Onderwijs"] &lt;Opschrift vervangen door DVR 2012-11-16/05 , art. 2, 002; Inwerkingtreding : 29-12-2012&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2005-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/17/2005203265/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2005. - Decreet tot wijziging van het decreet van 25 februari 1999 houdende toekenning van subsidies voor bepaalde investeringen inzake sportinfrastructuur (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/03/23/1998029290/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1998. - Décret portant assentiment à l'accord de coopération entre le Gouvernement de la Communauté francaise de Belgique et le Gouvernement wallon d'une part, et le Gouvernement de la République de Pologne, d'autre part, y compris les déclarations interprétatives, faits à Bruxelles le 10 octobre 1996.

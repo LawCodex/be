@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/14/2001029261/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-2002 en tekstbijwerking tot 22-06-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2001. - Decreet betreffende de integratie van nieuwkomers in het onderwijs dat door de Franse Gemeenschap is ingericht of gesubsidieerd (VERTALING).

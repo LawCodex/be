@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1984/03/20/1984923733/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-05-1995 en tekstbijwerking tot 07-06-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 1984. - Decreet houdende oprichting van de Vlaamse Dienst voor Arbeidsbemiddeling. (nota : in artikel 3, § 1, van het decreet, werden de woorden "zoals ze van kracht zijn op de datum van de inwerkingtreding van dit decreet" vernietigd door het arrest van het Arbitragehof van 28-10-1986, gepubliceerd in het B.St. van 26-11-1986). (Opgeheven bij DVR 2004-05-07/53, art. 25, 008; Inwerkingtreding : onbepaald )

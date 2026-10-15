@@ -12,7 +12,7 @@ entry_into_force: 2003-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/07/2003015090/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2003. - Wet houdende instemming met de Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk België en de Regering van de Republiek Oezbekistan, en de Bijlage, ondertekend te Brussel op 14 november 1996.

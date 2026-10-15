@@ -12,7 +12,7 @@ entry_into_force: 2008-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/10/28/2008009903/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2008. - Loi modifiant les articles 1231-31, 1231-41 et 1231-42 du Code judiciaire et 24bis de la loi du 24 avril 2003 réformant l'adoption afin de prolonger la durée de validité des jugements d'aptitude et les certificats en matière d'adoption.

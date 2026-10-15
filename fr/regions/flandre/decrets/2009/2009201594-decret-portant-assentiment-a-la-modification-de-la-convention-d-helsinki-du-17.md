@@ -13,7 +13,7 @@ entry_into_force: 2009-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/13/2009201594/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Décret portant assentiment à la modification de la Convention d'Helsinki du 17 mars 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, adoptée à Madrid le 28 novembre 2003

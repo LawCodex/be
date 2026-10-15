@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/12/2004003264/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 05-07-2004 et mise à jour au 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Loi organisant une procédure de recours dans le cadre de la protection contre le faux monnayage [et du maintien de la qualité de la circulation fiduciaire] &lt;L 2013-07-18/29 , art. 2, 002; En vigueur : 13-09-2013&gt;

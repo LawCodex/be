@@ -12,7 +12,7 @@ entry_into_force: 2017-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/09/2017011748/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2017. - Wet tot wijziging van de wet van 4 april 2014 betreffende de verzekeringen en ertoe strekkende de vrije keuze van een advocaat of iedere andere persoon die krachtens de op de procedure toepasselijke wet de vereiste kwalificaties heeft om zijn belangen te verdedigen in elke fase van de rechtspleging te waarborgen in het kader van een rechtsbijstandsverzekeringsovereenkomst

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/06/1994029323/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-06-1995 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 1994. - [Décret fixant le statut des membres du personnel subsidiés de l'enseignement officiel subventionné]&lt;DCFR 2012-07-12/31 , art. 31, 026; En vigueur : 01-09-2012&gt;

@@ -12,7 +12,7 @@ entry_into_force: 1997-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/11/1997015182/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1995. - Wet houdende goedkeuring van het Verdrag inzake biologische diversiteit, en Bijlagen I en II, gedaan te Rio de Janeiro op 5 juni 1992.

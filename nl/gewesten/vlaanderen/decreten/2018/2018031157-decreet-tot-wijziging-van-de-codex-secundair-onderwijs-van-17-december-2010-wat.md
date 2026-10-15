@@ -12,7 +12,7 @@ published: 2018-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/20/2018031157/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2018. - Decreet tot wijziging van de Codex Secundair Onderwijs van 17 december 2010, wat betreft de modernisering van de structuur en de organisatie van het secundair onderwijs

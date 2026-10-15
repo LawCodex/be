@@ -12,7 +12,7 @@ entry_into_force: 2026-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/23/2022A32062/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2022. - Convention n° 188 sur le travail dans la pêche

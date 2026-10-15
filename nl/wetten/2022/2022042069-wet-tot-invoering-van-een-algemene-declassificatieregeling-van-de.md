@@ -11,7 +11,7 @@ entry_into_force: 2022-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/09/11/2022042069/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 2022. - Wet tot invoering van een algemene declassificatieregeling van de geclassificeerde stukken (nieuw opschrift)

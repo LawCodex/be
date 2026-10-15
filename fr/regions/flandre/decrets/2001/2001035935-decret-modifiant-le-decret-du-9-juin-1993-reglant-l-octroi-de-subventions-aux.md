@@ -13,7 +13,7 @@ entry_into_force: 2001-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035935/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret modifiant le décret du 9 juin 1993 réglant l'octroi de subventions aux administrations communales et à la Commission communautaire flamande pour la mise en oeuvre d'une politique en matière d'animation des jeunes (TRADUCTION).

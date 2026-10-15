@@ -13,7 +13,7 @@ entry_into_force: 2012-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/09/24/2012206014/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2012. - Décret portant assentiment au Protocole signé à Bruxelles le 10 septembre 2009 modifiant la Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Oslo le 14 avril 1988

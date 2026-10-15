@@ -12,7 +12,7 @@ entry_into_force: 2005-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/03/26/2005021038/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2005. - Révision de la Constitution (art. 41).

@@ -12,7 +12,7 @@ published: 2024-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/22/2024000262/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Decreet tot wijziging van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat het invoeren van overgangsmaatregelen voor vergunningen in het kader van de Programmatische Aanpak Stikstof betreft

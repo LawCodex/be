@@ -11,7 +11,7 @@ date: 2023-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/01/30/2023202863/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2023. - Decreet houdende instemming met het Samenwerkingsakkoord van 19 december 2022 tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het gebruik van de herstel- en veerkrachtfaciliteit

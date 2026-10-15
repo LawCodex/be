@@ -13,7 +13,7 @@ entry_into_force: 2013-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/07/2013201742/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2013. - Decreet tot verklaring van de artikelen 35, § 1, tweede lid, 40, § 7, derde lid, 93, § 1, tweede lid, en 95, § 7, derde lid, van het decreet van 11 maart 1999 betreffende de milieuvergunning, gewijzigd bij het programmadecreet van 3 februari 2005 betreffende de economische heropleving en de administratieve vereenvoudiging

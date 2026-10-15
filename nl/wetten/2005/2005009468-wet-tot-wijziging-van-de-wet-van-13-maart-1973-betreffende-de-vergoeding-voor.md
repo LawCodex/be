@@ -12,7 +12,7 @@ entry_into_force: 2005-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/31/2005009468/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2005. - Wet tot wijziging van de wet van 13 maart 1973 betreffende de vergoeding voor de onwerkzame voorlopige hechtenis, van de wet van 20 juli 1990 betreffende de voorlopige hechtenis en van sommige bepalingen van het Wetboek van strafvordering.

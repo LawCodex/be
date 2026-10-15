@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/17/2011035520/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-07-2011 en tekstbijwerking tot 01-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2011. - Decreet betreffende het beheer van de verkeersveiligheid van weginfrastructuur

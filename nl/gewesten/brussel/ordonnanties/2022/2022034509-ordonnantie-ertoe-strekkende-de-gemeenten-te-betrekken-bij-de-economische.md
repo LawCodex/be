@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/01/2022034509/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2022. - Ordonnantie ertoe strekkende de gemeenten te betrekken bij de economische ontwikkeling van het Brussels Hoofdstedelijk Gewest

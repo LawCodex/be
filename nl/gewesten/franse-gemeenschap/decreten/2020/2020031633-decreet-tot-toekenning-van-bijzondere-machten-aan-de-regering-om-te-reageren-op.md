@@ -11,7 +11,7 @@ date: 2020-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/14/2020031633/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2020. - Decreet tot toekenning van bijzondere machten aan de Regering om te reageren op de tweede golf van de "COVID-19"-gezondheidscrisis

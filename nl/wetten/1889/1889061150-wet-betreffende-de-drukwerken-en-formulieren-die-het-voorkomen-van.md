@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1889/06/11/1889061150/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2026 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1889. - Wet betreffende de drukwerken en formulieren die het voorkomen van bankbiljetten of andere papieren waarden hebben

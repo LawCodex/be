@@ -13,7 +13,7 @@ entry_into_force: 2020-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/28/2020204075/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2020. - Décret portant assentiment à l'accord de coopération du 18 février 2020 modifiant l'accord de coopération du 12 décembre 2005 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune relatif à la mise en oeuvre de la loi du 24 avril 2003 réformant l'adoption

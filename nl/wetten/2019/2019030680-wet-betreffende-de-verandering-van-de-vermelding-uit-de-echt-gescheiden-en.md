@@ -12,7 +12,7 @@ entry_into_force: 2019-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019030680/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet betreffende de verandering van de vermelding "uit de echt gescheiden" en "weduwnaar/ weduwe" in de administratieve akten

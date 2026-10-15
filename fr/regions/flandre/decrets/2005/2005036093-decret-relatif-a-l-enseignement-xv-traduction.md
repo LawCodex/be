@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036093/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-09-2005 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Décret relatif à l'enseignement XV. (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 2019-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204090/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'action sociale dans le cadre de la fusion volontaire de communes et relativement à l'installation des conseils de l'action sociale

@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202794/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet houdende instemming met de economische partnerschapsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de SADC-EPO-Staten, anderzijds, ondertekend te Kasane op 10 juni 2016

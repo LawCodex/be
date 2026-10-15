@@ -13,7 +13,7 @@ entry_into_force: 2002-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/05/2002036022/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2002. - Decreet houdende aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2002.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018011986/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2018 en tekstbijwerking tot 27-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot wijziging van het decreet van 12 februari 2004 betreffende het statuut van de overheidsbestuurder voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet en het decreet van 12 februari 2004 betreffende de Regeringscommissaris en de controleopdrachten van de revisoren binnen de instellingen van openbaar nut voor de aangelegenheden geregeld krachtens artikel 12 van de Grondwet

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2007021149/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Art. 44 abrogé avec effet à une date indéterminée par <L 2007-12-21/38 , art. 45, 002; En vigueur : indéterminée >). (NOTE : Consultation des versions antérieures à partir du 31-12-2007 et mise à jour au 26-03-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Loi portant des dispositions diverses (I).

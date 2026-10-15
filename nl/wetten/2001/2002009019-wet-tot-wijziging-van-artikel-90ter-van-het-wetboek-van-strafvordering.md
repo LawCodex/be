@@ -12,7 +12,7 @@ entry_into_force: 2002-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/29/2002009019/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2001. - Wet tot wijziging van artikel 90ter van het Wetboek van strafvordering.

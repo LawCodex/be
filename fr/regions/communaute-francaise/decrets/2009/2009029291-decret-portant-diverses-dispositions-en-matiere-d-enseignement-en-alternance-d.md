@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029291/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret portant diverses dispositions en matière d'enseignement en alternance, d'enseignement spécialisé et d'enseignement de promotion sociale

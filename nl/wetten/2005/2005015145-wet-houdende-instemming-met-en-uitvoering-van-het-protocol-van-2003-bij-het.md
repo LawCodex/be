@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/10/06/2005015145/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2005 en tekstbijwerking tot 17-06-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2005. - Wet houdende instemming met en uitvoering van het Protocol van 2003 bij het Internationaal Verdrag van 1992 ter oprichting van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, opgemaakt te Londen op 16 mei 2003

@@ -11,7 +11,7 @@ date: 2012-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/25/2012204749/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2012. - Decreet houdende instemming met de Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, gedaan te Brussel op 10 mei 2010

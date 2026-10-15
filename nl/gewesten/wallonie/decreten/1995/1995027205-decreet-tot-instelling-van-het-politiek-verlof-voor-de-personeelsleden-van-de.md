@@ -12,7 +12,7 @@ published: 1995-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027205/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet tot instelling van het politiek verlof voor de personeelsleden van de diensten van de Regering voor het uitoefenen van een mandaat van lid van de Raad of van de Regering. (VERTALING)

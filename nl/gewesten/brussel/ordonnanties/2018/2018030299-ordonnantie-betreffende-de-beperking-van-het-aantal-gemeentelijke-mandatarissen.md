@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/01/25/2018030299/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2018. - Ordonnantie betreffende de beperking van het aantal gemeentelijke mandatarissen en de invoering van nieuwe maatregelen inzake goed bestuur in het Brussels Hoofdstedelijk Gewest

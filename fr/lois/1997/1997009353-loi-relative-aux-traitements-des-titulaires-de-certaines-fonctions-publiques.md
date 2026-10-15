@@ -12,7 +12,7 @@ entry_into_force: 1992-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/03/1997009353/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1997. - Loi relative aux traitements des titulaires de certaines fonctions publiques.

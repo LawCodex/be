@@ -11,7 +11,7 @@ last_amended: 2023-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1939/11/14/1939111450/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2009 en tekstbijwerking tot 06-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 1939. - Besluitwet betreffende de beteugeling van de dronkenschap.

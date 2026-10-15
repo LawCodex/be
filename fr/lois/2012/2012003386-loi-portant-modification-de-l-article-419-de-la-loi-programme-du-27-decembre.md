@@ -12,7 +12,7 @@ entry_into_force: 2013-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/24/2012003386/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2012. - Loi portant modification de l'article 419 de la loi-programme du 27 décembre 2004 et de l'article 4 de la loi du 10 juin 2006 concernant les biocarburants

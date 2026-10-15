@@ -11,7 +11,7 @@ published: 1971-10-19
 entry_into_force: 1971-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/29/1971072902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 1971. - Loi portant approbation de la Convention Benelux en matière de chasse et de protection des oiseaux, signée à Bruxelles le 10 juin 1970.

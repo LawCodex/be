@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/28/2003033042/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2003. - Decreet houdende goedkeuring van de Europees-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten enerzijds, en de Republiek Libanon, anderzijds en de slotakte, gedaan te Luxemburg op 17 juni 2002 (VERTALING).

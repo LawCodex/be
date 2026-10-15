@@ -12,7 +12,7 @@ published: 2018-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/12/2018014505/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2018. - Decreet betreffende de Koninklijke Academie voor Nederlandse Taal en Letteren

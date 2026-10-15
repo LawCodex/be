@@ -12,7 +12,7 @@ entry_into_force: 2018-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018013415/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité en vue de modifier le cadre légal pour la réserve stratégique

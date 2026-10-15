@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/12/1998009267/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-04-1998 et mise à jour au 26-02-1999"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 1998. - Loi relative à l'amélioration de la procédure pénale au stade de l'information et de l'instruction.

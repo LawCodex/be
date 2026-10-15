@@ -12,7 +12,7 @@ entry_into_force: 2018-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/04/27/2018011885/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2018. - Wet inzake bepaalde versnelde procedures voor beroep bij de Raad van State

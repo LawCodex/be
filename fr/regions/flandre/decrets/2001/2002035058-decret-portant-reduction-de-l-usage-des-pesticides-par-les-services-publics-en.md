@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035058/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-02-2013 et mise à jour au 22-02-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret portant réduction de l'usage des pesticides par les services publics en Région flamande (TRADUCTION)

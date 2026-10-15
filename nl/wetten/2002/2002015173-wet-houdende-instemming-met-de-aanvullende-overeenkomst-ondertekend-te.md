@@ -12,7 +12,7 @@ entry_into_force: 2004-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/09/2002015173/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AUGUSTUS 2002. - Wet houdende instemming met de Aanvullende Overeenkomst, ondertekend te Singapore op 10 december 1996, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Singapore tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, ondertekend te Singapore op 8 februari 1972.

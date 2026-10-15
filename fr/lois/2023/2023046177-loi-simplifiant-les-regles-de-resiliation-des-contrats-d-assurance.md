@@ -12,7 +12,7 @@ entry_into_force: 2024-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/10/09/2023046177/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 OCTOBRE 2023. - Loi simplifiant les règles de résiliation des contrats d'assurance

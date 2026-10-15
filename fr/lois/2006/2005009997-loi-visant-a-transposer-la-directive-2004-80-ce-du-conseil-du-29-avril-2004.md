@@ -12,7 +12,7 @@ entry_into_force: 2006-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/13/2005009997/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 2006. - Loi visant à transposer la directive 2004/80/CE du Conseil du 29 avril 2004 relative à l'indemnisation des victimes de la criminalité.

@@ -13,7 +13,7 @@ entry_into_force: 2010-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/08/2010029462/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2010. - Décret portant diverses modifications aux statuts des membres du personnel technique des centres psycho-médico-sociaux organisés ou subventionnés par la Communauté française

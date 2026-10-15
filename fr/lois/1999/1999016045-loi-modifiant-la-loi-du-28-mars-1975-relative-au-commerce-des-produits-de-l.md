@@ -12,7 +12,7 @@ entry_into_force: 1999-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/05/1999016045/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1999. - Loi modifiant la loi du 28 mars 1975 relative au commerce des produits de l'agriculture, de l'horticulture et de la pêche maritime.

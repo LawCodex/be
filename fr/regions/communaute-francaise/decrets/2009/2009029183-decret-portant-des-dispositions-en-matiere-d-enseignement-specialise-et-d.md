@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/05/2009029183/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2009. - Décret portant des dispositions en matière d'enseignement spécialisé et d'accueil de l'enfant et de l'adolescent à besoins spécifiques dans l'enseignement obligatoire

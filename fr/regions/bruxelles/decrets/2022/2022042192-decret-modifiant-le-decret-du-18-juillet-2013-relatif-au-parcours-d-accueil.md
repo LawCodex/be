@@ -13,7 +13,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/10/2022042192/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2022. - Décret modifiant le décret du 18 juillet 2013 relatif au parcours d'accueil pour primo-arrivants en Région de Bruxelles-Capitale

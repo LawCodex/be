@@ -13,7 +13,7 @@ entry_into_force: 2014-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029360/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet houdende wijziging van diverse bepalingen inzake leerplichtonderwijs

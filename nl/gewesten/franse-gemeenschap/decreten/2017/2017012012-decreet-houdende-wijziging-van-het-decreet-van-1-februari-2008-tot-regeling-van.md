@@ -13,7 +13,7 @@ entry_into_force: 2017-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/29/2017012012/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2017. - Decreet houdende wijziging van het decreet van 1 februari 2008 tot regeling van de organisatie en de werking van de instanties belast met de coördinatie en het beheer van de steun uit de Structuurfondsen die de Europese Unie ter beschikking stelt van het alternerend secundair onderwijs, het technisch secundair en beroepssecundair onderwijs met volledig leerplan, het gespecialiseerd secundair onderwijs, het onderwijs voor sociale promotie en het hoger onderwijs

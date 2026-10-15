@@ -12,7 +12,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/09/2024005084/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2024. - Wet tot bepaling van de beginselen voor de loting van natuurlijke personen voor de gemengde commissies en de burgerpanels op initiatief van de Senaat

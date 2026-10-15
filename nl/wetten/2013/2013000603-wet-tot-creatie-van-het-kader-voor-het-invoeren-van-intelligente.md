@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/08/17/2013000603/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 19-09-2013 en tekstbijwerking tot 30-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AUGUSTUS 2013. - Wet tot creatie van het kader voor het invoeren van intelligente vervoerssystemen [...](geciteerd als " ITS-kaderwet ")

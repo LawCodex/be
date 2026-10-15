@@ -13,7 +13,7 @@ entry_into_force: 2017-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031902/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Ordonnantie tot wijziging van de ordonnantie van 20 oktober 2006 tot opstelling van een kader voor het waterbeleid

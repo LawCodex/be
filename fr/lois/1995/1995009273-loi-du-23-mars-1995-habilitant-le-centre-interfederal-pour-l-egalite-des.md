@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/23/1995009273/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-03-1995 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1995. - [Loi du 23 mars 1995 habilitant le Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations ainsi que certaines personnes morales à agir en justice dans les litiges auxquels l'application de l'article 256 du Code pénal réprimant le négationnisme pourrait donner lieu.] &lt;L 2026-03-30/01 , art. 102, 005; En vigueur : 01-09-2026&gt;

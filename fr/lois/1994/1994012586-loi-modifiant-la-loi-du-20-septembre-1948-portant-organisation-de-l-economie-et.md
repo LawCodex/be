@@ -12,7 +12,7 @@ entry_into_force: 1994-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/07/1994012586/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1994. - Loi modifiant la loi du 20 septembre 1948 portant organisation de l'économie et la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail.

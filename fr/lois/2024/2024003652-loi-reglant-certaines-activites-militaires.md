@@ -12,7 +12,7 @@ entry_into_force: 2024-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/25/2024003652/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2024. - Loi réglant certaines activités militaires

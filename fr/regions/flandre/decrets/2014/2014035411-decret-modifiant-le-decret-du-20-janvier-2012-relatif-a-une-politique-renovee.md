@@ -13,7 +13,7 @@ entry_into_force: 2015-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/21/2014035411/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2014. - Décret modifiant le décret du 20 janvier 2012 relatif à une politique rénovée des droits de l'enfant et de la jeunesse, en ce qui concerne les parcours de formation de cadres

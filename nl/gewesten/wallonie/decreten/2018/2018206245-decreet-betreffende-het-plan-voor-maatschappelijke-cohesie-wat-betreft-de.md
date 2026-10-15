@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/22/2018206245/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-2018 en tekstbijwerking tot 10-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2018. - Decreet betreffende het plan voor maatschappelijke cohesie wat betreft de aangelegenheden waarvan de uitoefening [van de Franse Gemeenschap is overgedragen]

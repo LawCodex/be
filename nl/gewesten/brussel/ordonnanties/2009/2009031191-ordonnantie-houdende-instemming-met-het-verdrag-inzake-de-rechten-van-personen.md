@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/26/2009031191/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Ordonnantie houdende instemming met het verdrag inzake de rechten van personen met een handicap en met het facultatief protocol bij het verdrag inzake de rechten van personen met een handicap, ondertekend te New York op 30 maart 2007

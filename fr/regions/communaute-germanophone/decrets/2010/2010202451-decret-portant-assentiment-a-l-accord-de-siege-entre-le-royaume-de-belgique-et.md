@@ -13,7 +13,7 @@ entry_into_force: 2010-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/04/19/2010202451/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2010. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et la Communauté économique des Etats de l'Afrique de l'Ouest, signé à Bruxelles le 12 juillet 2006, ainsi qu'à l'accord de siège entre le Royaume de Belgique et le Marché commun d'Afrique orientale et australe, fait à Bruxelles le 2 mars 2007

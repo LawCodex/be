@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/03/07/2024002040/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2024. - Ordonnantie houdende instemming: 1° met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Moldavië tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 4 december 2008, zoals gewijzigd door het protocol gedaan te Brussel op 30 maart 2017; en 2° met het Protocol, gedaan te Brussel op 30 maart 2017, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Moldavië tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 4 december 2008

@@ -12,7 +12,7 @@ entry_into_force: 1995-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995000297/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi complétant la nouvelle loi communale par des dispositions relatives à la consultation populaire communale.

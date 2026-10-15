@@ -12,7 +12,7 @@ entry_into_force: 2001-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/22/2001022200/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2001. - Wet betreffende de betwistingen over de inkomensgarantie voor ouderen.

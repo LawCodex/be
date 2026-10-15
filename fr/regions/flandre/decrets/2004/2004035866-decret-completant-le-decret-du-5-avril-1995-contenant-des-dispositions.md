@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035866/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2004 et mise à jour au 23-10-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret complétant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement par un titre " Conseil consultatif stratégique " et modifiant divers autres décrets (TRADUCTION).

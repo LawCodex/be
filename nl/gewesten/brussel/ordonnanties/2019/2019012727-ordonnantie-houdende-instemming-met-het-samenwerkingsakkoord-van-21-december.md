@@ -13,7 +13,7 @@ entry_into_force: 2019-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012727/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie houdende instemming met : het samenwerkingsakkoord van 21 december 2018 tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de betrokkenheid van de Federale Staat bij de ondertekening van de samenwerkingsakkoorden van 6 september 2017 en van 30 mei 2018

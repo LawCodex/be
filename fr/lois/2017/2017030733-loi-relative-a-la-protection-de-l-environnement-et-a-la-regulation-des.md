@@ -12,7 +12,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/21/2017030733/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2017. - Loi relative à la protection de l'environnement et à la régulation des activités menées sous juridiction belge en Antarctique

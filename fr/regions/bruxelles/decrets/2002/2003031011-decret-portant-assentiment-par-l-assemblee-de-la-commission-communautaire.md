@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/21/2003031011/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2002. - Décret portant assentiment par l'Assemblée de la Commission communautaire française à l'Accord de coopération entre, d'une part, le Gouvernement de la République du Bénin et, d'autre part, le Gouvernement de la Communauté française de Belgique, le Gouvernement de la Région wallonne et le Collège de la Commission communautaire française de la Région de Bruxelles-Capitale.

@@ -13,7 +13,7 @@ entry_into_force: 2024-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/10/2024002612/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2024. - Decreet tot gedeeltelijke uitvoering van Verordening (EU) 2020/1055 van het Europees Parlement en de Raad van 15 juli 2020 houdende wijziging van Verordeningen (EG) nr. 1071/2009, (EG) nr. 1072/2009 en (EU) nr. 1024/2012 teneinde ze aan te passen aan ontwikkelingen in de wegvervoersector en tot gedeeltelijke omzetting van Richtlijn (EU) 2022/738 van het Europees Parlement en de Raad van 6 april 2022 tot wijziging van Richtlijn 2006/1/EG betreffende het gebruik van gehuurde voertuigen zonder bestuurder voor het vervoer van goederen over de weg

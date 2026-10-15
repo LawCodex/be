@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/18/1997027484/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2008 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1997. - Décret relatif aux centres de planning et de consultation familiale et conjugale

@@ -12,7 +12,7 @@ entry_into_force: 2002-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/18/2002012842/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2002. - Loi assurant une présence égale des hommes et des femmes sur les listes de candidatures aux élections des Chambres législatives fédérales et du Conseil de la Communauté germanophone.

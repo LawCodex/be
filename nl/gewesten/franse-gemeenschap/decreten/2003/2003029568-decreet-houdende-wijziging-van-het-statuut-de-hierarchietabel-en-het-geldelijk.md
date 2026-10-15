@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003029568/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet houdende wijziging van het statuut, de hiërarchietabel en het geldelijk statuut van het administratief, gespecialiseerd, meesters-, vak- en dienstpersoneel van de universiteiten en universitaire faculteiten van de Franse Gemeenschap. (Vertaling).

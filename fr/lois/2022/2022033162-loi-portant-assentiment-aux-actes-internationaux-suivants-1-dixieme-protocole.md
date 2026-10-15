@@ -12,7 +12,7 @@ entry_into_force: 2022-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/24/2022033162/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2022. - Loi portant assentiment aux actes internationaux suivants : 1) Dixième Protocole additionnel à la Constitution de L'Union postale universelle, fait à Addis-Abeba le 7 septembre 2018 ; 2) Deuxième Protocole additionnel au Règlement Général de L'Union postale universelle, fait à Addis-Abeba, le 7 septembre 2018 ; 3) Protocole additionnel à la Convention postale universelle, fait à Addis-Abeba le 7 septembre 2018 ; 4) Protocole final du Protocole additionnel de la Convention postale universelle, fait à Addis-Abeba le 7 septembre 2018

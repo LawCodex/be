@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/06/30/2025004730/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2025 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2025. - Loi contenant le budget général des dépenses pour l'année budgétaire 2025

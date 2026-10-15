@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/27/2009035361/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2009 et mise à jour au 15-04-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2009. - Décret modifiant le décret du 28 juin 1985 relatif à l'autorisation anti-pollution, en ce qui concerne le complément avec des règles en matière d'agréments et modifiant divers autres lois et décrets

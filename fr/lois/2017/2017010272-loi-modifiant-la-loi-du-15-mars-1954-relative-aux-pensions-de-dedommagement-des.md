@@ -12,7 +12,7 @@ entry_into_force: 2017-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/01/12/2017010272/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2017. - Loi modifiant la loi du 15 mars 1954 relative aux pensions de dédommagement des victimes civiles de la guerre 1940-1945 et de leurs ayants droit

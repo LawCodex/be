@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/02/05/2015031094/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2015. - Ordonnantie houdende instemming met : het Verdrag nr. 156 betreffende de gelijke kansen en behandeling van mannelijke en vrouwelijke werknemers met gezinsverantwoordelijkheden, aangenomen door de Internationale Arbeidsconferentie te Genève op 23 juni 1981

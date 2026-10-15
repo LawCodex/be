@@ -13,7 +13,7 @@ entry_into_force: 2014-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013207123/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2013. - Décret modifiant le décret du 30 avril 2009 relatif à l'information, la coordination et l'organisation des chantiers sous, sur et au-dessus des voiries ou des cours d'eau

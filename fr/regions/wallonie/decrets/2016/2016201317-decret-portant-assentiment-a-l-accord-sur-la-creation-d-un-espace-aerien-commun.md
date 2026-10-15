@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/03/2016201317/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2016. - Décret portant assentiment à l'Accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et la Géorgie, d'autre part, fait à Bruxelles le 2 décembre 2010

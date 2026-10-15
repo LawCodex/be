@@ -12,7 +12,7 @@ entry_into_force: 1997-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/22/1997015232/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 1997. - Loi portant assentiment à : a) Convention européenne d'extradition, faite à Paris le 13 décembre 1957; b) Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 15 octobre 1975; c) Deuxième Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 17 mars 1978; d) Accord entre les Etats membres des Communautés européennes relatif à la simplification et à la modernisation des modes de transmission des demandes d'extradition, fait à San Sebastian le 26 mai 1989.

@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/03/19/2026002672/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2026. - Décret portant diverses mesures relatives à la mise en oeuvre du tronc commun en sixième année de l'enseignement primaire et à l'enseignement obligatoire

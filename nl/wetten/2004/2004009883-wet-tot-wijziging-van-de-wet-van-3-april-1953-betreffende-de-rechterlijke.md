@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/14/2004009883/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2004 en tekstbijwerking tot 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2004. - Wet tot wijziging van de wet van 3 april 1953 betreffende de rechterlijke inrichting, van de wet van 2 juli 1975 tot vaststelling van de personeelsformatie van de rechtbanken van eerste aanleg en van artikel 211 van het Gerechtelijk Wetboek.

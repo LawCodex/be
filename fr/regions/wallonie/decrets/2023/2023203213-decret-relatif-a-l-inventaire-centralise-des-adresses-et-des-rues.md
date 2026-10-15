@@ -12,7 +12,7 @@ published: 2023-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/09/2023203213/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2023. - Décret relatif à l'inventaire centralisé des adresses et des rues

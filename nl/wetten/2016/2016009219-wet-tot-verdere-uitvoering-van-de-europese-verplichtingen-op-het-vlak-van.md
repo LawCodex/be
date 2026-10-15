@@ -12,7 +12,7 @@ entry_into_force: 2016-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/31/2016009219/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2016. - Wet tot verdere uitvoering van de Europese verplichtingen op het vlak van seksuele uitbuiting van kinderen, kinderpornografie, mensenhandel en hulpverlening bij illegale binnenkomst, illegale doortocht en illegaal verblijf

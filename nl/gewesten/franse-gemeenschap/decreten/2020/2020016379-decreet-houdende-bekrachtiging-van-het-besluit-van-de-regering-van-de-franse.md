@@ -13,7 +13,7 @@ entry_into_force: 2020-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/09/2020016379/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 31 van 18 juni 2020 met betrekking tot de organisatie van het academiejaar 2020-2021

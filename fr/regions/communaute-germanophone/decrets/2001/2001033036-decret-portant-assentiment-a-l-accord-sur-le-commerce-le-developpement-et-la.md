@@ -13,7 +13,7 @@ entry_into_force: 2001-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/04/17/2001033036/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2001. - Décret portant assentiment à l'accord sur le commerce, le développement et la coopération entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, ses annexes I à X, ses protocoles 1 et 2 ainsi que l'acte final, faits à Pretoria le 11 octobre 1999 (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2018-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/11/2018012879/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2018

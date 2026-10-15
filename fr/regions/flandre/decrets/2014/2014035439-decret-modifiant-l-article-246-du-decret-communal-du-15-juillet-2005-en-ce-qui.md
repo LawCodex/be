@@ -13,7 +13,7 @@ entry_into_force: 2014-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035439/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret modifiant l'article 246 du Décret communal du 15 juillet 2005, en ce qui concerne la composition des organes d'une société, association ou fondation communales, chargées des tâches d'exécution de la politique d'intérêt communal ayant trait uniquement aux compétences du district

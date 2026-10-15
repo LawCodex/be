@@ -13,7 +13,7 @@ entry_into_force: 2004-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/17/2003029004/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2003. - Decreet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België, de Regering van de Franse Gemeenschap, de Regering van het Waalse Gewest en de Vlaamse Regering, enerzijds, en de Regering van de Republiek Frankrijk, anderzijds, inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen en plaatselijke openbare instellingen, gedaan te Brussel op 16 september 2002. (Vertaling).

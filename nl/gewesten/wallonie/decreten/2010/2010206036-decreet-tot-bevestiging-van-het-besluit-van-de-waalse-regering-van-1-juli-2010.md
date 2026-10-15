@@ -13,7 +13,7 @@ entry_into_force: 2010-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/11/10/2010206036/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2010. - Decreet tot bevestiging van het besluit van de Waalse Regering van 1 juli 2010 tot wijziging van artikel 97ter, 2°, van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen

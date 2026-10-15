@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/19/2004029229/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2004. - Décret modifiant le décret du 20 juin 1980 fixant les conditions de reconnaissance et d'octroi de subventions aux organisations de jeunesse.

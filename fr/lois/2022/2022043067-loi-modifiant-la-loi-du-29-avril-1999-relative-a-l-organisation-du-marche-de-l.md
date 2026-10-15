@@ -12,7 +12,7 @@ entry_into_force: 2022-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/16/2022043067/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2022. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et introduisant un plafond sur les recettes issues du marché des producteurs d'électricité

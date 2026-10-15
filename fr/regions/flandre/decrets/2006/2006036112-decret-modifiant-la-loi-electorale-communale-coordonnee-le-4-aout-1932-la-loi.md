@@ -13,7 +13,7 @@ entry_into_force: 2006-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036112/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret modifiant la loi électorale communale, coordonnée le 4 août 1932, la loi du 29 octobre 1921 organique des élections provinciales et la loi du 11 avril 1944 organisant le vote automatisé (TRADUCTION).

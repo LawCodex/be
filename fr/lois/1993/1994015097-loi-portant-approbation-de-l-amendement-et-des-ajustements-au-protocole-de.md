@@ -12,7 +12,7 @@ entry_into_force: 1994-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1994015097/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi portant approbation de l'Amendement et des Ajustements au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, adoptés à Londres le 29 juin 1990.

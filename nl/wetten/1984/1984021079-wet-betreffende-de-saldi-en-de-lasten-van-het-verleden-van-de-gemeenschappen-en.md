@@ -12,7 +12,7 @@ entry_into_force: 1984-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/03/05/1984021079/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1984. - Wet betreffende de saldi en de lasten van het verleden van de gemeenschappen en de gewesten en de nationale economische sectoren.

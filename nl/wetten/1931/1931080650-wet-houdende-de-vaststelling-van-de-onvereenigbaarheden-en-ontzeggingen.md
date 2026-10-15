@@ -13,7 +13,7 @@ last_amended: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1931/08/06/1931080650/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 19-02-2003 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1931. - Wet houdende de vaststelling van de onvereenigbaarheden en ontzeggingen betreffende de ministers, gewezen ministers en ministers van Staat, alsmede de leden en gewezen leden van de Wetgevende Kamers.

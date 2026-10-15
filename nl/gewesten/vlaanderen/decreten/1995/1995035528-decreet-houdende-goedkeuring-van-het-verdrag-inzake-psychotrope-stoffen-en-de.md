@@ -13,7 +13,7 @@ entry_into_force: 1995-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/08/1995035528/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 1995. - Decreet houdende goedkeuring van het Verdrag inzake psychotrope stoffen en de Bijlagen, opgemaakt te Wenen op 21 februari 1971.

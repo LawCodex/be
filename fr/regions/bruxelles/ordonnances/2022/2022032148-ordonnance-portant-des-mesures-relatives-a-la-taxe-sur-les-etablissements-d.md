@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/05/12/2022032148/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2022. - Ordonnance portant des mesures relatives à la taxe sur les établissements d'hébergement touristique prises en raison de la crise sanitaire du COVID-19

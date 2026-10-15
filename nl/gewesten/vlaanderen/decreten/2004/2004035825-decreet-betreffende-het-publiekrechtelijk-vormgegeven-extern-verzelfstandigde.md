@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "Opschrift gewijzigd door DCFL 2016-12-23/41 , art. 8, 006; Inwerkingtreding : 10-02-2017"
   - "Raadpleging van vroegere versies vanaf 26-05-2004 en tekstbijwerking tot 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet betreffende [...] het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap [De Vlaamse Waterweg nv, naamloze vennootschap van publiek recht].

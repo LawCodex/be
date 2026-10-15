@@ -13,7 +13,7 @@ entry_into_force: 2003-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003031286/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet houdende instemming met het Protocol nr. 12 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (VERTALING).

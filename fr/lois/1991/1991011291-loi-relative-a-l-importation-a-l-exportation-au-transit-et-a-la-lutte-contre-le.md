@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/08/05/1991011291/justel"
 department: "Affaires économiques - Affaires étrangères - Commerce extérieur - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 07-07-2003 et mise à jour au 21-06-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1991. - Loi relative à l'importation, à l'exportation [, au transit et à la lutte contre le trafic] d'armes, de munitions et de matériel devant servir spécialement [à un usage militaire ou de maintien de l'ordre] et de la technologie y afférente. (L 2003-03-25/49, art. 1, 002; En vigueur : 17-07-2003) (L 2003-03-26/73, art. 4, 002; En vigueur : 17-07-2003, avec précisions dans la disposition modificative)

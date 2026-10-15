@@ -12,7 +12,7 @@ entry_into_force: 2000-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/22/1999000985/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1999. - Loi relative à la régularisation de séjour de certaines catégories d'étrangers séjournant sur le territoire du Royaume.

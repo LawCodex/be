@@ -13,7 +13,7 @@ entry_into_force: 1999-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/16/1999035428/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1999. - Decreet houdende wijziging van het decreet van 13 juli 1994 betreffende de herstructurering van de GIMV, Gimvindus, VMH, Mijnen en LIM en tot oprichting van het Limburgfonds en van de Permanente Werkgroep Limburg.

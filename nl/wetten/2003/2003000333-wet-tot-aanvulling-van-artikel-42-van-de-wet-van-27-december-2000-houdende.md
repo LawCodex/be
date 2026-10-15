@@ -12,7 +12,7 @@ entry_into_force: 2003-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/26/2003000333/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2003. - Wet tot aanvulling van artikel 42 van de wet van 27 december 2000 houdende diverse bepalingen met betrekking tot de rechtspositie van het personeel van de politiediensten, teneinde een leemte te verhelpen inzake het verlof voorafgaand aan de pensionering van de leden van de gemeentepolitie die worden aangewezen voor een mandaatfunctie bij de federale politie.

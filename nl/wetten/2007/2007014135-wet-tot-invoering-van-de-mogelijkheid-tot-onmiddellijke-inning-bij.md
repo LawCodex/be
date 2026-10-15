@@ -12,7 +12,7 @@ entry_into_force: 2007-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/26/2007014135/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2007. - Wet tot invoering van de mogelijkheid tot onmiddellijke inning bij verkeersovertredingen begaan door militairen.

@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/12/16/2012031014/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2011. - Ordonnance modifiant les articles 80 et 92 du Code des taxes assimilées aux impôts sur les revenus

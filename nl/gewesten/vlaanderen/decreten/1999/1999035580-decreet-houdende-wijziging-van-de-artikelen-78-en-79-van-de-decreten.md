@@ -13,7 +13,7 @@ entry_into_force: 1999-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/30/1999035580/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1999. - Decreet houdende wijziging van de artikelen 78 en 79 van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

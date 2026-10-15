@@ -12,7 +12,7 @@ published: 1996-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996035982/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - Decreet houdende afschaffing van het goedkeuringstoezicht op de beslissingen van de openbare centra voor maatschappelijk welzijn inzake de informatisering van hun diensten.

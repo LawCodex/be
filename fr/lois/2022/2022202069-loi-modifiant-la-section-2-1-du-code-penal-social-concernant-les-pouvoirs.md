@@ -12,7 +12,7 @@ entry_into_force: 2022-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/01/2022202069/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2022. - Loi modifiant la section 2/1 du Code pénal social concernant les pouvoirs spécifiques des inspecteurs sociaux en matière de constatations relatives à la discrimination

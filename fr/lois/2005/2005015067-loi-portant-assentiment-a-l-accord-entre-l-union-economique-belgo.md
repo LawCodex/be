@@ -12,7 +12,7 @@ entry_into_force: 2010-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/26/2005015067/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2005. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la Bosnie-Herzégovine, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Sarajevo, le 3 mars 2004

@@ -13,7 +13,7 @@ entry_into_force: 2018-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/04/19/2018011724/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2018. - Ordonnantie houdende instemming met het Amendement op het Protocol van Montreal bij het Verdrag van Wenen ter bescherming van de ozonlaag, inzake substanties die de ozonlaag aantasten, aangenomen te Kigali op 15 oktober 2016

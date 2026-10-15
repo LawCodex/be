@@ -12,7 +12,7 @@ entry_into_force: 2006-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/06/2005003869/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2005. - Wet houdende eindregeling van de begroting van de diensten van algemeen bestuur van de Staat van het jaar 2003.

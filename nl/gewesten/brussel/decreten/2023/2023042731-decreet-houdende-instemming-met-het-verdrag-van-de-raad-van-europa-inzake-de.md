@@ -13,7 +13,7 @@ entry_into_force: 2023-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/08/2023042731/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2023. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake de toegang tot officiële documenten, opgemaakt in Tromso op 18 juni 2009

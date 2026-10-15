@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017031021/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2017 et mise à jour au 30-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi instituant une procédure de recours contre une décision relative a la procédure de sélection pour les catégories limitées de services d'assistance en escale à l'aéroport de Bruxelles-National

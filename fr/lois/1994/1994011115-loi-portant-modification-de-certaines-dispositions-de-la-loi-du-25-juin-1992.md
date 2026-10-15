@@ -12,7 +12,7 @@ entry_into_force: 1994-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/16/1994011115/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1994. - Loi portant modification de certaines dispositions de la loi du 25 juin 1992 sur le contrat d'assurance terrestre.

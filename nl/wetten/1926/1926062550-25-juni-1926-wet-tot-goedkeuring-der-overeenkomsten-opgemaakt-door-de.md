@@ -9,7 +9,7 @@ language: nl
 date: 1926-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1926/06/25/1926062550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1926. \_ Wet tot goedkeuring der Overeenkomsten opgemaakt door de Internationale Arbeidsconferentie te Genève tijdens haren derden zittijd en betreffende onderscheidenlijk het gebruik van loodwit voor het schilderen, de rechten van vereeniging en coalitie der landbouwwerklieden, den minimum-leeftijd voor de aanneming der jongelieden tot den arbeid in de hoedanigheid van tremmer of stoker, en het verplichtend geneeskundig onderzoek der aan boord van schepen gebruikte kinderen en jongelieden.

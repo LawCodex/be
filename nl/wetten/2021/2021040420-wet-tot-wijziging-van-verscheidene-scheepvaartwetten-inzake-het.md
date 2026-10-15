@@ -12,7 +12,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/01/19/2021040420/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2021. - Wet tot wijziging van verscheidene scheepvaartwetten inzake het handhavingsbeleid in de scheepvaart

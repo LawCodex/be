@@ -13,7 +13,7 @@ entry_into_force: 2008-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2007037387/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - Décret adaptant les lois et décrets concernant l'environnement, la conservation de la nature et l'énergie dans le cadre de la politique administrative (TRADUCTION).

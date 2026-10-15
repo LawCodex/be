@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/20/1998033103/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 1997. - Decreet houdende goedkeuring van de volgende internationale rechtsakten : 1. Zetelakkoord tussen het Koninkrijk België en de groep van staten in Afrika, het Caraibisch gebied en de Stille Zuidzee, gedaan te Brussel op 26 april 1993; 2. Zetelakkoord tussen het Koninkrijk België en de liga van de arabische staten, gedaan de Brussel op 16 november 1995; 3. Zetelakkoord tussen het Koninkrijk België en het Agentschap voor culturele en technische samenwerking, gedaan te Brussel op 16 november 1995; 4. Zetelakkoord tussen het Koninkrijk België en de toezichthoudende autoriteit van de Europese Vrijhandelsassociatie, gedaan de Brussel op 22 december 1994; 5. Zetelakkoord tussen het Koninkrijk België en de Conferentie van het energiehandvest, gedaan te Brussel op 26 oktober 1995 (VERTALING).

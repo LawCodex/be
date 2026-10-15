@@ -12,7 +12,7 @@ entry_into_force: 2005-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/16/2005007190/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2005. - Loi modifiant diverses lois relatives au statut des militaires.

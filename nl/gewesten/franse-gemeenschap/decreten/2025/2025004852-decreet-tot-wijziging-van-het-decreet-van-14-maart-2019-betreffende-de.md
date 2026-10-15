@@ -13,7 +13,7 @@ entry_into_force: 2025-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/19/2025004852/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2025. - Decreet tot wijziging van het decreet van 14 maart 2019 betreffende de bevordering van de gezondheid op scholen en in het hoger onderwijs buiten de universiteiten om er een Hoofdstuk Ibis betreffende de verwerking van persoonsgegevens in op te nemen

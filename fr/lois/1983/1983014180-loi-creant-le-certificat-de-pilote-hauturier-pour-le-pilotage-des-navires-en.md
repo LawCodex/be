@@ -12,7 +12,7 @@ entry_into_force: 1983-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/06/08/1983014180/justel"
 department: "Communications"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1983. - Loi créant le certificat de pilote hauturier pour le pilotage des navires en mer du Nord et dans la Manche.

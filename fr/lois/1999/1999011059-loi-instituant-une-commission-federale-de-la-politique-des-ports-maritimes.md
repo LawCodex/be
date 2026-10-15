@@ -12,7 +12,7 @@ entry_into_force: 1999-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/31/1999011059/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 1999. - Loi instituant une Commission fédérale de la politique des ports maritimes.

@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/01/26/2015200768/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2015. - Décret portant abrogation du décret de la Région wallonne du 22 avril 2010 portant statut des agences de voyages et de son arrêté d'exécution

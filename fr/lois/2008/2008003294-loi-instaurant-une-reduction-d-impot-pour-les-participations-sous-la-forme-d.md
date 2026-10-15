@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/01/2008003294/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 04-07-2008 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2008. - Loi instaurant une réduction d'impôt pour les participations sous la forme d'actions dans des fonds de développement du microfinancement dans les pays en développement et fixant les conditions d'agrément en tant que fonds de développement

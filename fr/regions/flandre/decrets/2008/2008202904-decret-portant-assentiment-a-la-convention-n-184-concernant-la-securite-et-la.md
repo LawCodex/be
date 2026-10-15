@@ -13,7 +13,7 @@ entry_into_force: 2008-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/27/2008202904/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2008. - Décret portant assentiment à la Convention n° 184 concernant la sécurité et la santé dans l'agriculture, adoptée à Genève, le 21 juin 2001 par la Conférence internationale du Travail, en sa quatre-vingt-neuvième session (TRADUCTION).

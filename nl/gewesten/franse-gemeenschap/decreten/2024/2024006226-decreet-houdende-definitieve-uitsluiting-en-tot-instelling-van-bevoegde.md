@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/16/2024006226/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-07-2024 en tekstbijwerking tot 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Decreet houdende definitieve uitsluiting en tot instelling van bevoegde netoverschrijdende kamers om kennis te nemen van beroepen tegen de beslissingen tot definitieve uitsluiting

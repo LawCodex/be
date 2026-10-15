@@ -13,7 +13,7 @@ entry_into_force: 2016-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/23/2015205735/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2015. - Decreet tot omzetting van Richtlijn 2014/107/EU van de Raad van 9 december 2014 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied

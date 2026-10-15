@@ -12,7 +12,7 @@ entry_into_force: 2017-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/19/2017013845/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2017. - Loi modifiant l'article 39/73-1 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers

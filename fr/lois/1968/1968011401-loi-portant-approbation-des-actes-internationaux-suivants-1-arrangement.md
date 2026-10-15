@@ -10,7 +10,7 @@ date: 1968-01-14
 published: 1968-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1968/01/14/1968011401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 1968. - Loi portant approbation des actes internationaux suivants : 1. Arrangement européen pour la protection des émissions de télévision, fait à Strasbourg le 22 juin 1960; 2. Protocole à cet Arrangement, fait à Strasbourg le 22 janvier 1965, et modifiant l'article 12 de la loi du 26 janvier 1960.

@@ -12,7 +12,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/25/2010000008/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2010. - Wet tot wijziging van het koninklijk besluit van 30 maart 2001 tot regeling van de rechtspositie van het personeel van de politiediensten (RPPol) wat betreft de benoeming in de graad van aanstelling van bepaalde personeelsleden van de algemene directie van de gerechtelijke politie

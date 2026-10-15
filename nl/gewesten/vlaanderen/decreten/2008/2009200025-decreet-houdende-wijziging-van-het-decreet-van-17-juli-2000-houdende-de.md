@@ -13,7 +13,7 @@ entry_into_force: 2009-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/05/2009200025/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2008. - Decreet houdende wijziging van het decreet van 17 juli 2000 houdende de oprichting van een Vlaams Instituut voor Wetenschappelijk en Technologisch Aspectenonderzoek. - Verwijzingen.

@@ -13,7 +13,7 @@ entry_into_force: 1993-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/07/1993029380/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1993. - Décret I relatif au transfert de l'exercice de certaines compétences de la Communauté française à la Région wallonne.

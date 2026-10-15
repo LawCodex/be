@@ -12,7 +12,7 @@ entry_into_force: 2023-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/06/2023042441/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2022. - Wet tot wijziging van de wet van 27 april 2018 op de politie van de spoorwegen, wat betreft de procedure voor het afschaffen van overwegen

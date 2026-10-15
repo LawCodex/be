@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/05/2002036479/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-01-2003 et mise à jour au 25-06-2003."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2002. - Décret portant second ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 2002. (Traduction). -

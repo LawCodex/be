@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/02/05/1996033041/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 11-06-1996 et mise à jour au 14-09-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1996. - Décret relatif au contrôle des absences pour maladie des membres du personnel des établissements d'enseignement et centres PMS organisés ou subventionnés par la Communauté germanophone.

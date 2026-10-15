@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/05/1998027108/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1998. - Decreet houdende goedkeuring van de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en de Republiek Wit-Rusland, anderzijds, de Bijlagen I, II, III, IV, V, VI, VII, VIII, het Protocol en de Slotakte, opgemaakt te Brussel op 6 maart 1995 (VERTALING).

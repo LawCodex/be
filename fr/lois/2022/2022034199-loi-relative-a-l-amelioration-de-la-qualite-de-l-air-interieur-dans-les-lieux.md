@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/06/2022034199/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 01-12-2022 et mise à jour au 04-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2022. - Loi relative à l'amélioration de la qualité de l'air intérieur dans les lieux fermés accessibles au public

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/03/27/1991035673/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 06-06-1991 en tekstbijwerking tot 30-05-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1991. - Decreet houdende het statuut van de Nederlandse Radio- en Televisie-uitzendingen in België, Omroep van de Vlaamse Gemeenschap.

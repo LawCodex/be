@@ -12,7 +12,7 @@ entry_into_force: 1997-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/1997000208/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet tot wijziging van de nieuwe gemeentewet, de wet van 2 december 1957 op de rijkswacht en de wet van 27 december 1973 betreffende het statuut van het personeel van het operationeel korps van de rijkswacht.

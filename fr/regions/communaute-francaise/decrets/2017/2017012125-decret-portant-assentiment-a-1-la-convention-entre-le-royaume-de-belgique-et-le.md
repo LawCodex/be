@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017012125/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret portant assentiment à : 1) la Convention entre le Royaume de Belgique et le Gouvernement de l'Etat du Qatar tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Doha le 6 novembre 2007 et 2) au Protocole, fait à Doha le 22 mars 2015, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Etat du Qatar tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signé à Doha le 6 novembre 2007

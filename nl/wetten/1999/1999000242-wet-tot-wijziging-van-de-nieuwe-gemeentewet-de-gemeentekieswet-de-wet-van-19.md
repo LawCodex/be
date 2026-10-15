@@ -12,7 +12,7 @@ entry_into_force: 1999-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/19/1999000242/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 1999. - Wet tot wijziging van de nieuwe gemeentewet, de gemeentekieswet, de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen, de wet van 11 april 1994 tot organisatie van de geautomatiseerde stemming en de wet van 7 juli 1994 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van de provincieraden en de gemeenteraden en voor de rechtstreekse verkiezing van de raden voor maatschappelijk welzijn, strekkende tot de oprichting van districten en de organisatie van de rechtstreekse verkiezing van hun raden.

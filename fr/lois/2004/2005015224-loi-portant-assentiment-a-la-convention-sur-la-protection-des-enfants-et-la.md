@@ -12,7 +12,7 @@ entry_into_force: 2005-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/24/2005015224/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2004. - Loi portant assentiment à la Convention sur la protection des enfants et la coopération en matière d'adoption internationale, faite à La Haye le 29 mai 1993.

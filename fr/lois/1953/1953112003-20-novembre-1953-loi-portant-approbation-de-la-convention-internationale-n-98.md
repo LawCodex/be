@@ -11,7 +11,7 @@ published: 1953-12-30
 entry_into_force: 1954-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/11/20/1953112003/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 1953. \_ Loi portant approbation de la Convention internationale (n° 98) concernant l'application des principes du droit d'organisation et de négociation collective, adoptée à Genève, le 1er juillet 1949, par la Conférence internationale du Travail, au cours de sa trente-deuxième session.

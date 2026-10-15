@@ -12,7 +12,7 @@ entry_into_force: 2020-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/09/2020040440/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2020. - Loi portant le deuxième ajustement de la loi de finances du 21 décembre 2018 pour l'année budgétaire 2019

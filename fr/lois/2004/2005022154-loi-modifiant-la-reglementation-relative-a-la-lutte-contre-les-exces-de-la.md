@@ -12,7 +12,7 @@ entry_into_force: 2005-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/16/2005022154/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2004. - Loi modifiant la réglementation relative à la lutte contre les excès de la promotion de médicaments.

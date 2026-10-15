@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/14/2009029049/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-02-2009 et mise à jour au 25-08-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2008. - Décret modifiant le décret du 16 avril 1991 organisant l'enseignement de promotion sociale, en vue de favoriser l'intégration de son enseignement supérieur à l'espace européen de l'enseignement supérieur

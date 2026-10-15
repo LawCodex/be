@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/03/2018012010/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2018. - Ordonnantie tot wijziging van artikel 23, § 9, van het Brussels Gemeentelijk Kieswetboek

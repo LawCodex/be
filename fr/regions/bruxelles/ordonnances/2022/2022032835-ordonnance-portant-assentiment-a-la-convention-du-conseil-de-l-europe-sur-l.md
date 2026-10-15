@@ -13,7 +13,7 @@ entry_into_force: 2022-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/20/2022032835/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Ordonnance portant assentiment à la Convention du Conseil de l'Europe sur l'accès aux documents publics, faite à Tromso le 18 juin 2009

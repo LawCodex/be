@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/21/2014029030/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-01-2014 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2013. - Décret relatif aux Centres culturels

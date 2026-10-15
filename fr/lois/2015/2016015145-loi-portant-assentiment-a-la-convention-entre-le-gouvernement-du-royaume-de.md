@@ -12,7 +12,7 @@ entry_into_force: 2016-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/02/2016015145/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Kosovo sur le transfèrement des personnes condamnées, faite à Bruxelles le 18 juin 2010

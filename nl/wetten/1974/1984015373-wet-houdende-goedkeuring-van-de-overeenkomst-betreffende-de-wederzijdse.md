@@ -12,7 +12,7 @@ entry_into_force: 1984-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/08/14/1984015373/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AUGUSTUS 1974. - Wet houdende goedkeuring van de Overeenkomst betreffende de wederzijdse rechtshulp in burgerlijke zaken en in handelszaken tussen het Koninkrijk België en de Democratische Volksrepubliek Algerije, ondertekend te Brussel op 12 juni 1970.

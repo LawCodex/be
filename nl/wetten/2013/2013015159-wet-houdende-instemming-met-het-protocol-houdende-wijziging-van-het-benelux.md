@@ -12,7 +12,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/06/2013015159/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2013. - Wet houdende instemming met het Protocol houdende wijziging van het Benelux-Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), gedaan te Brussel op 22 juli 2010

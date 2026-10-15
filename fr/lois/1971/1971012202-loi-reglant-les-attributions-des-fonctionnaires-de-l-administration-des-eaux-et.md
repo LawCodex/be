@@ -11,7 +11,7 @@ published: 1971-02-11
 entry_into_force: 1971-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/01/22/1971012202/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 1971. - Loi réglant les attributions des fonctionnaires de l'Administration des Eaux et Forêts chargés de la surveillance des réserves naturelles de l'Etat.

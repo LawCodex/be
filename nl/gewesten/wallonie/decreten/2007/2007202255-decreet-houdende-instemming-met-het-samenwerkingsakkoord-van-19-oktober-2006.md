@@ -13,7 +13,7 @@ entry_into_force: 2007-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/14/2007202255/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2007. - Decreet houdende instemming met het samenwerkingsakkoord van 19 oktober 2006 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest m.b.t. de tenuitvoerlegging en het beheer van een geïntegreerd communautair actieprogramma voor leven lang leren en m.b.t. de oprichting van het "Agence francophone pour l'éducation et la formation tout au long de la vie" (Franstalig agentschap voor leven lang leren) (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019030472/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2019 et mise à jour au 04-08-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi modifiant la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine en vue d'adapter la procédure devant le juge de l'application des peines en ce qui concerne les peines privatives de liberté de trois ans ou moins

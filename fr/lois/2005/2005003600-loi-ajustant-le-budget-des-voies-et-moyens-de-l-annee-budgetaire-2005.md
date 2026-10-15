@@ -12,7 +12,7 @@ entry_into_force: 2005-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/14/2005003600/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2005. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 2005.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/15/1994035429/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-11-2006 et mise à jour au 06-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1993. - Décret portant création d'un Conseil flamand de la Politique scientifique. (Traduction).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/23/2021020624/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 09-04-2021 en tekstbijwerking tot 23-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2021. - Wet betreffende een evenredigheidsbeoordeling voorafgaand aan de invoering of de wijziging van een beroepsreglementering in de gezondheidssector

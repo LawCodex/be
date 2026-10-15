@@ -12,7 +12,7 @@ entry_into_force: 2017-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/25/2017011217/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Wet houdende instemming met de Overeenkomst van Parijs, gedaan te Parijs op 12 december 2015

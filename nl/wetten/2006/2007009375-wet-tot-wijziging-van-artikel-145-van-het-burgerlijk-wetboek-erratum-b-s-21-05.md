@@ -12,7 +12,7 @@ entry_into_force: 2007-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/09/2007009375/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2006. - Wet tot wijziging van artikel 145 van het Burgerlijk Wetboek. &lt;Erratum, B.S. 21.05.2007, p. 27388&gt;

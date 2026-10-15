@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/15/2003027513/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2003 et mise à jour au 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2003. - Décret modifiant le Code wallon du Logement et l'article 174 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine

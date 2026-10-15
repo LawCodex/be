@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/20/2015003267/justel"
 department: "Budget et Contrôle de la gestion"
 justel_note: "Consultation des versions antérieures à partir du 29-07-2015 et mise à jour au 30-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2015. - Loi contenant l'ajustement du budget des Voies et Moyens de l'année budgétaire 2015

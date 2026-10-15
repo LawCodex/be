@@ -13,7 +13,7 @@ entry_into_force: 2021-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/17/2021202828/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2021. - Décret portant assentiment à l'accord de coopération du 19 mars 2021 entre la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant sur la coordination du contrôle et de la surveillance des législations régionales relatives à l'emploi

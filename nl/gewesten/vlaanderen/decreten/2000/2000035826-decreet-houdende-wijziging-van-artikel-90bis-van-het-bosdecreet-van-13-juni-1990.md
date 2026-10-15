@@ -13,7 +13,7 @@ entry_into_force: 2001-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035826/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet houdende wijziging van artikel 90bis van het bosdecreet van 13 juni 1990.

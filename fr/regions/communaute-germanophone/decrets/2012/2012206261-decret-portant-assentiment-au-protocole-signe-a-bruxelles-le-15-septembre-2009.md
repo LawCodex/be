@@ -13,7 +13,7 @@ entry_into_force: 2012-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/10/22/2012206261/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2012. - Décret portant assentiment au Protocole signé à Bruxelles le 15 septembre 2009 modifiant la Convention entre le Royaume de Belgique et la République de Finlande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 18 mai 1976, telle que modifiée par l'Accord additionnel signé à Bruxelles le 13 mars 1991

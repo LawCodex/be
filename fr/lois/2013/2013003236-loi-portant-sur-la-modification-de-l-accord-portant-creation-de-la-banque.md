@@ -12,7 +12,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/08/2013003236/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2013. - Loi portant sur la modification de l'Accord portant création de la Banque Européenne pour la Reconstruction et le Développement

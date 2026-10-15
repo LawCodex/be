@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1938/07/30/1938073050/justel"
 justel_notes:
   - "Raadpleging van vroegere versies vanaf 22-01-1991 en tekstbijwerking tot 12-10-2017"
   - "Raadpleging van vroegere versies vanaf 22-01-1991 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1938. - WET betreffende het gebruik der talen bij het leger.

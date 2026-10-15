@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/26/2024201293/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2024. - Decreet houdende instemming met de volgende internationale overeenkomsten: 1° tijdelijke economische partnerschapsovereenkomst tussen de Europese Gemeenschapen haar lidstaten, enerzijds, en Centraal-Afrika, anderzijds, gedaan te Yaoundé en te Brussel op 22 januari 2009 2° tijdelijke economische partnerschapsovereenkomst tussen Ivoorkust, enerzijds,en de Europese Gemeenschap en haar lidstaten, anderzijds, gedaan te Abidjan op 26 november 2008, respectievelijk Brussel op 22 januari 2009

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/17/1998036364/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1998 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 1998. - Décret portant des ajustements technico-budgétaires dans le cadre de l'aide accordée suite aux inondations de septembre 1998 (TRADUCTION)

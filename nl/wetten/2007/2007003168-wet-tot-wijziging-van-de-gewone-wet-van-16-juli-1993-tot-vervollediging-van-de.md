@@ -12,7 +12,7 @@ entry_into_force: 2007-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/28/2007003168/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2007. - Wet tot wijziging van de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur.

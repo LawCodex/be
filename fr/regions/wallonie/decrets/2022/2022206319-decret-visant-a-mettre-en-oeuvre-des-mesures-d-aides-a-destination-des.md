@@ -13,7 +13,7 @@ entry_into_force: 2022-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/19/2022206319/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2022. - Décret visant à mettre en oeuvre des mesures d'aides à destination des entreprises dans le cadre de la crise de l'énergie

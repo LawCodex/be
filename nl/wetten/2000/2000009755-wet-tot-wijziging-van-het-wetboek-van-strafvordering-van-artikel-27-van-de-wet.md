@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/30/2000009755/justel"
 department: "Justitie"
 justel_note: "raadpleging van vroegere versies vanaf 17-03-2001 en tekstbijwerking tot 17-03-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2000. - Wet tot wijziging van het Wetboek van Strafvordering, van artikel 27 van de wet van 20 juli 1990 betreffende de voorlopige hechtenis en van artikel 837 van het Gerechtelijk Wetboek, teneinde de rechtspleging voor het hof van assisen te stroomlijnen.

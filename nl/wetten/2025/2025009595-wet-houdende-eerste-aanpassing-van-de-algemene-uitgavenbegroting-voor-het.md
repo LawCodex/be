@@ -12,7 +12,7 @@ entry_into_force: 2025-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/19/2025009595/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Wet houdende eerste aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2025

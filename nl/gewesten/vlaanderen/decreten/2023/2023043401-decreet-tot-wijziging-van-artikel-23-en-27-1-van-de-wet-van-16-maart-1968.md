@@ -13,7 +13,7 @@ entry_into_force: 2023-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/16/2023043401/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2023. - Decreet tot wijziging van artikel 23 en 27/1 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer

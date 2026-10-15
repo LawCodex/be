@@ -12,7 +12,7 @@ entry_into_force: 1995-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/11/08/1995021423/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 1995. - Wet tot wijziging van de wet van 31 mei 1961 betreffende het gebruik der talen in wetgevingszaken, het opmaken, bekendmaken en inwerkingtreden van wetten en verordeningen.

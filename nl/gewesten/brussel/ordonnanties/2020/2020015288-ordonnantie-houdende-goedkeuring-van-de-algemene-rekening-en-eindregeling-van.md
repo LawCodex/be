@@ -13,7 +13,7 @@ entry_into_force: 2020-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/17/2020015288/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van het Gewestelijk Agentschap voor Netheid voor het jaar 2011

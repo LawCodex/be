@@ -12,7 +12,7 @@ entry_into_force: 2018-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/25/2018040230/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2018. - Wet tot bekrachtiging van het koninklijk besluit van 22 december 2017 betreffende de bijdrage in de werkings-, personeels- en oprichtingskosten van de Kansspelcommissie verschuldigd door de houders van de vergunningen klasse A, A+,B, B+, C, E, F1, F1+, F2, G1 en G2 voor het burgerlijk jaar 2018

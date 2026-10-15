@@ -12,7 +12,7 @@ entry_into_force: 2002-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/24/2001015134/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AUGUSTUS 2001. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Indonesië tot het vermijden van de dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en met het Protocol, gedaan te Jakarta op 16 september 1997.

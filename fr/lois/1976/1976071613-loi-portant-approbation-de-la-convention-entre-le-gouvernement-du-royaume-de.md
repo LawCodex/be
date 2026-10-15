@@ -11,7 +11,7 @@ published: 1976-10-14
 entry_into_force: 1976-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/16/1976071613/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1976. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République Tunisienne tendant à éviter les doubles impositions et à régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, signée à Tunis le 22 février 1975.

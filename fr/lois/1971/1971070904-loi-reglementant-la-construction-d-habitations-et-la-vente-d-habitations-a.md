@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/09/1971070904/justel"
 justel_notes:
   - "mise à jour au 19-06-1993"
   - "Consultation des versions antérieures à partir du 19-06-1993 et mise à jour au 21-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1971. - Loi réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction.

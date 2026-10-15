@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/20/1997029030/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-1997 en tekstbijwerking tot 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1996. - Decreet betreffende de verdeling van de prestaties in het raam van de loopbaanonderbreking voor de personeelsleden van het onderwijs en van de psycho-medisch-sociale centra. (VERTALING)

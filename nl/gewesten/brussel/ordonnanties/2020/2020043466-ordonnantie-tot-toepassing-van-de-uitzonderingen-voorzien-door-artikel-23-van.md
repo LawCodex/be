@@ -12,7 +12,7 @@ entry_into_force: 2020-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/10/29/2020043466/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2020. - Ordonnantie tot toepassing van de uitzonderingen voorzien door artikel 23 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming)

@@ -12,7 +12,7 @@ entry_into_force: 2004-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/10/2004003109/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2004. - Loi contenant le quatrième ajustement du Budget général des dépenses de l'année budgétaire 2003.

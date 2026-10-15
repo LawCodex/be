@@ -12,7 +12,7 @@ entry_into_force: 2015-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015009431/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi modifiant la loi du 13 janvier 1977 portant approbation de la Convention relative à l'établissement d'un système d'inscription des testaments, faite à Bâle le 16 mai 1972 et portant introduction d'un registre central des contrats de mariage

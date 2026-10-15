@@ -12,7 +12,7 @@ entry_into_force: 2014-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2014203485/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi modifiant la loi du 3 juillet 2005 relative aux droits des volontaires en vue de rendre le volontariat accessible aux étrangers

@@ -12,7 +12,7 @@ entry_into_force: 2003-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/25/2003012102/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2003. - Loi portant des mesures pour renforcer la prévention en matière de bien-être des travailleurs lors de l'exécution de leur travail.

@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/06/2019203413/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2019. - Décret relatif à l'exercice, par la Communauté germanophone, des compétences de la Région wallonne en matière d'aménagement du territoire et de certaines matières connexes

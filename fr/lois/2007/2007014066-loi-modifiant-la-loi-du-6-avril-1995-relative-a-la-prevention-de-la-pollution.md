@@ -12,7 +12,7 @@ entry_into_force: 2007-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/06/2007014066/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2007. - Loi modifiant la loi du 6 avril 1995 relative à la prévention de la pollution de la mer par les navires concernant des matières visées à l'article 77 de la Constitution.

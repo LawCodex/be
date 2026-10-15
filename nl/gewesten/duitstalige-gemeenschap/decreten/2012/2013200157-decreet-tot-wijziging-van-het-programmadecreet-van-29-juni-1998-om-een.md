@@ -13,7 +13,7 @@ entry_into_force: 2012-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/10/2013200157/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2012. - Decreet tot wijziging van het programmadecreet van 29 juni 1998 om een tijdelijke maatregel voor het Belgisch Radio- en Televisiecentrum van de Duitstalige Gemeenschap in te voeren

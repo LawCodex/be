@@ -12,7 +12,7 @@ published: 2026-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/02/2026002791/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2026. - Decreet tot vaststelling van het getuigschrift van pedagogische bekwaamheid voor het hoger onderwijs (CAPAES) en de voorwaarden voor het behalen daarvan

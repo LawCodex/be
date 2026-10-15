@@ -11,7 +11,7 @@ published: 1968-04-10
 entry_into_force: 1968-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1968/02/26/1968022613/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 1968. \_ Loi portant approbation de la Convention générale sur la Sécurité sociale entre le Royaume de Belgique et la République de Turquie, signée à Bruxelles le 4 juillet 1966.

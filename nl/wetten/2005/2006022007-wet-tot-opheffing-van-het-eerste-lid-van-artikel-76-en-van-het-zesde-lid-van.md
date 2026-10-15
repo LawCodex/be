@@ -12,7 +12,7 @@ entry_into_force: 2006-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/07/2006022007/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2005. - Wet tot opheffing van het eerste lid van artikel 76 en van het zesde lid van artikel 168 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.

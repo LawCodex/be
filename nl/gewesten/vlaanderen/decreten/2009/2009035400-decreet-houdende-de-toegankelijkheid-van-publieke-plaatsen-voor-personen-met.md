@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/20/2009035400/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2009 en tekstbijwerking tot 23-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2009. - Decreet houdende de toegankelijkheid van publieke plaatsen voor personen met een assistentiehond

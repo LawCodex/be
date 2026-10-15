@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/05/2014029141/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-03-2014 en tekstbijwerking tot 13-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2013. - Decreet tot wijziging van de lesroosters in de kwalificatieafdeling van het gewoon secundair onderwijs met volledig leerplan en houdende organisatie van stages in het gewoon secundair onderwijs met volledig leerplan en in het gespecialiseerd secundair onderwijs van vorm 3 en vorm 4

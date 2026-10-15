@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/1999011094/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2001 en tekstbijwerking tot 16-09-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - Wet betreffende de overeenkomsten inzake de verkrijging van een recht van deeltijds gebruik van onroerende goederen.

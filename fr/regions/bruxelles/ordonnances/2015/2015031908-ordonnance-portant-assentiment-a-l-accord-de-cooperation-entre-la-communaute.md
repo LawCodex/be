@@ -13,7 +13,7 @@ entry_into_force: 2016-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/18/2015031908/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Ordonnance portant assentiment à l'accord de coopération entre la Communauté française (ONE), la Commission communautaire commune et la Communauté germanophone relatif à l'achat de vaccins destinés à protéger les enfants, les femmes enceintes et les adolescents

@@ -11,7 +11,7 @@ published: 1977-02-22
 entry_into_force: 1977-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/01/05/1977010503/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JANVIER 1977. - Loi portant émission d'une deuxième tranche d'emprunt du Fonds belgo-congolais d'Amortissement et de Gestion et réglant les problèmes relatifs aux emprunts en francs congolais " Dette coloniale 4 1/4 pc 1954-1974 " et " Dette congolaise 4 pc 1955-1975 ".

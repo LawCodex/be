@@ -12,7 +12,7 @@ entry_into_force: 2004-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/25/2004007308/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2004. - Loi modifiant la loi du 11 septembre 1933 sur la protection des titres d'enseignement supérieur en ce qui concerne les grades académiques conférés par l'Ecole royale militaire.

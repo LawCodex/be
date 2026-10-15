@@ -12,7 +12,7 @@ entry_into_force: 2002-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/23/2002011000/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2002. - Wet betreffende de reclame voor motorvoertuigen.

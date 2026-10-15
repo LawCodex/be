@@ -12,7 +12,7 @@ entry_into_force: 2017-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/08/30/2017040904/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2017. - Loi portant assentiment au Traité entre le Royaume de Belgique et le Grand-Duché de Luxembourg concernant la coopération en matière de défense et de sécurité, fait à Bruxelles le 5 février 2015

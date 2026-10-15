@@ -13,7 +13,7 @@ entry_into_force: 2008-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/29/2007033090/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2007. - Decreet houdende instemming met de volgende internationale rechtshandelingen : 1) de overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden, ondertekend in Luxemburg op 26 oktober 2004; 2) de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds, gedaan te Luxemburg op 12 juni 2006; 3) de partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Tadzjikistan, anderzijds, gedaan te Luxemburg op 11 oktober 2004; 4) de overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Andesgemeenschap en haar lidstaten (Bolivia, Colombia, Ecuador, Peru en Venezuela), anderzijds, ondertekend in Rome op 15 december 2003; 5) de overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds, ondertekend in Rome op 15 december 2003 (VERTALING).

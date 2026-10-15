@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/02/1998029331/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-08-1998 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1998. - Décret organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.

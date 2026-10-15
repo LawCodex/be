@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/31/2007009117/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-02-2007 et mise à jour au 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2007. - [Loi sur la formation judiciaire et la gestion des connaissances et portant création de l'Institut de formation judiciaire] (L 2017-07-06/24 , art. 271, 011; En vigueur : 03-08-2017)

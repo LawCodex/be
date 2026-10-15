@@ -10,7 +10,7 @@ date: 2013-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/08/30/2013014495/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2013. - Wet betreffende de hervorming van de Belgische spoorwegen

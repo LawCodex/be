@@ -15,7 +15,7 @@ department: "Financiën"
 justel_notes:
   - "De wijzigingen gebracht door artikelen 178 en 179 van L 2014-04-25/09 zijn niet uitgevoerd kunnen worden"
   - "Raadpleging van vroegere versies vanaf 27-05-2014 en tekstbijwerking tot 09-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet inzake het statuut van en het toezicht op de onafhankelijk financieel planners en inzake het verstrekken van raad over financiële planning door gereglementeerde ondernemingen en tot wijziging van het Wetboek van vennootschappen en van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten

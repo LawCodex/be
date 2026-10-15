@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/20/2014200192/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-01-2014 et mise à jour au 23-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2013. - Décret relatif aux Prix de la Culture de la Communauté flamande

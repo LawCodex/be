@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200850/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 15-07-2008 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2004. - Décret organisant les provinces wallonnes

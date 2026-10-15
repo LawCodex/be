@@ -13,7 +13,7 @@ entry_into_force: 1998-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/19/1998035093/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Décret modifiant l'article 42 de la loi organique du 8 juillet 1976 des centres publics d'Aide sociale (TRADUCTION).

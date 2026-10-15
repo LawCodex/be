@@ -13,7 +13,7 @@ entry_into_force: 2024-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/15/2024002598/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2024. - Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft aanpassingen aan het nieuw Burgerlijk Wetboek

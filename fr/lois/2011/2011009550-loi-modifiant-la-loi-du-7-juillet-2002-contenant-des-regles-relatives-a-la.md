@@ -12,7 +12,7 @@ entry_into_force: 2011-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/14/2011009550/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2011. - Loi modifiant la loi du 7 juillet 2002 contenant des règles relatives à la protection des témoins menacés et d'autres dispositions

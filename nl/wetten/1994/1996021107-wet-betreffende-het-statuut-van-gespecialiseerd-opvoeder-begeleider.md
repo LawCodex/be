@@ -12,7 +12,7 @@ entry_into_force: 1996-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/04/29/1996021107/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1994. - Wet betreffende het statuut van gespecialiseerd opvoeder-begeleider.

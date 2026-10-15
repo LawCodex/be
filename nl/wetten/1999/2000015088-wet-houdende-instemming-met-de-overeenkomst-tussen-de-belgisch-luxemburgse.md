@@ -12,7 +12,7 @@ entry_into_force: 2001-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/25/2000015088/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1999. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van Hong Kong inzake de bevordering en bescherming van investeringen, ondertekend te Brussel op 7 oktober 1996.

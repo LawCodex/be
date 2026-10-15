@@ -13,7 +13,7 @@ entry_into_force: 2015-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/29/2015205079/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2015. - Décret modifiant la loi du 27 décembre 1994 portant assentiment de l'Accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994, entre les Gouvernements de la République fédérale d'Allemagne, du Royaume de Belgique, du Royaume du Danemark, du grand-duché de Luxembourg et du Royaume des Pays-Bas et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993

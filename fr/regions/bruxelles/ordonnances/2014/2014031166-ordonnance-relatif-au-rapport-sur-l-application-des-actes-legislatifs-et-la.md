@@ -13,7 +13,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/13/2014031166/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2014. - Ordonnance relatif au rapport sur l'application des actes législatifs et la conformité au droit primaire de l'Union européenne en Région de Bruxelles-Capitale

@@ -12,7 +12,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/12/2009000233/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2009. - Loi modifiant la loi du 19 mai 1994 réglementant la campagne électorale, concernant la limitation et la déclaration des dépenses électorales engagées pour les élections du Parlement de la Région wallonne, du Parlement flamand, du Parlement de la Région de Bruxelles-Capitale et du Parlement de la Communauté germanophone, et fixant le critère de contrôle des communications officielles des autorités publiques

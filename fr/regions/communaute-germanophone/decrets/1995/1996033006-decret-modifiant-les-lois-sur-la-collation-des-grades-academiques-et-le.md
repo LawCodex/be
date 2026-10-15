@@ -13,7 +13,7 @@ entry_into_force: 1995-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/17/1996033006/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1995. - Décret modifiant les lois sur la collation des grades académiques et le programme des examens universitaires, coordonnées le 31 décembre 1949, et le décret du 18 avril 1994 relatif à l'installation d'un jury d'examen de la Communauté germanophone pour l'enseignement secondaire et à l'organisation des examens présentés devant ce jury (TRADUCTION).

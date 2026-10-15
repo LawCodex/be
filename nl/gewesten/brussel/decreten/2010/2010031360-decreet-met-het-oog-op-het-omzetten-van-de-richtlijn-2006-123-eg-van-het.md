@@ -13,7 +13,7 @@ entry_into_force: 2010-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/09/2010031360/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2010. - Decreet met het oog op het omzetten van de Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende de diensten op de interne markt

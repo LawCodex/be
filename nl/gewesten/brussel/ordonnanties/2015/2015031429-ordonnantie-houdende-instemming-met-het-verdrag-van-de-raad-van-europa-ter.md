@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/02/2015031429/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Ordonnantie houdende instemming met het Verdrag van de Raad van Europa ter voorkomen en bestrijding van geweld tegen vrouwen en huiselijk geweld, opgemaakt te Istanboel op 11 mei 2011

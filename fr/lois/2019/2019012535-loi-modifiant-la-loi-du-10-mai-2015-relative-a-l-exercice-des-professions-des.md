@@ -12,7 +12,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/29/2019012535/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Loi modifiant la loi du 10 mai 2015 relative à l'exercice des professions des soins de santé, visant à instaurer un contingentement des médecins et des dentistes formés dans une université étrangère

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/19/2008200085/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 14-01-2008 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2007. - Décret relatif à la tutelle d'approbation de la Région wallonne sur les règlements complémentaires relatifs aux voies publiques et à la circulation des transports en commun

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/04/2014022198/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 20-05-2014 et mise à jour au 29-07-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Loi réglementant les professions des soins de santé mentale et modifiant l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé

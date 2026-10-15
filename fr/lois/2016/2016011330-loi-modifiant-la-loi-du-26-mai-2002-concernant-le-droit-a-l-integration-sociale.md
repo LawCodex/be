@@ -12,7 +12,7 @@ entry_into_force: 2016-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/21/2016011330/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2016. - Loi modifiant la loi du 26 mai 2002 concernant le droit à l'intégration sociale

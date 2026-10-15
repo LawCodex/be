@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1998029374/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant assentiment à la Convention 168 concernant la promotion de l'emploi et la protection contre le chômage, adoptée à Genève le 21 juin 1988 par la Conférence générale de l'Organisation internationale du Travail, au cours de sa 75ème session.

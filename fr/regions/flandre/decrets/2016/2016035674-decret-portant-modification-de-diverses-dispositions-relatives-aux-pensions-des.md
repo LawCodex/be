@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/25/2016035674/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2016. - Décret portant modification de diverses dispositions relatives aux pensions des membres du personnel statutaires de la " Vlaamse Radio- en Televisieomroeporganisatie " (Organisation de Radiodiffusion et Télévision flamande) et de leurs ayants droit

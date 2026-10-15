@@ -12,7 +12,7 @@ entry_into_force: 2012-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/22/2012007147/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2012. - Loi modifiant la loi du 27 mars 2003 relative au recrutement des militaires et au statut des musiciens militaires et modifiant diverses lois applicables au personnel de la Défense

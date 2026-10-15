@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/12/15/2015031063/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-02-2015 en tekstbijwerking tot 29-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2014. - Ordonnantie betreffende de gewestelijke aanvullende belasting op de personenbelasting, dat het Brussels Hoofdstedelijk Parlement in zijn vergadering van vrijdag 12 december 2014 aangenomen heeft, ter bekrachtiging voor te leggen aan de Brusselse Hoofdstedelijke Regering

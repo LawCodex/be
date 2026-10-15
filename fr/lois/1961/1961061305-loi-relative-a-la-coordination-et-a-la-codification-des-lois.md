@@ -11,7 +11,7 @@ published: 1961-07-11
 entry_into_force: 1961-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/06/13/1961061305/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1961. - Loi relative à la coordination et à la codification des lois

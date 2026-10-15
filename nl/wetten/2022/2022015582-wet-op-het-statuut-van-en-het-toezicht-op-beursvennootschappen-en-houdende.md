@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022015582/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 26-09-2022 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet op het statuut van en het toezicht op beursvennootschappen en houdende diverse bepalingen

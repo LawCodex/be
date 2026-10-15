@@ -13,7 +13,7 @@ entry_into_force: 2014-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035435/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret portant modification de l'article 276 du Décret communal du 15 juillet 2005

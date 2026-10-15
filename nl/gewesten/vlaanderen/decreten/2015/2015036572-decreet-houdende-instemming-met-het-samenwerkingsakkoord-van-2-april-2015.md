@@ -13,7 +13,7 @@ entry_into_force: 2016-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/27/2015036572/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 2 april 2015 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest tot wijziging van het samenwerkingsakkoord van 4 november 2008 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de preventie en het beheer van verpakkingsafval

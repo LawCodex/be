@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/10/2009011134/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "par son arrêt n° 84/2010 du 08-07-2010 (M.B. 17-08-2010, p. 53441-53446), la Cour Constitutionnelle a annulé la présente loi"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2009. - Loi portant modification de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations.

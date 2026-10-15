@@ -13,7 +13,7 @@ entry_into_force: 1998-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/03/1998035194/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 1998. - Décret modifiant l'article 10 du décret du 4 février 1997 portant les normes de qualité et de sécurité pour chambres et chambres d'étudiants (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2001-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/10/2001000715/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2001. - Wet tot wijziging van de wet van 10 april 1990 op de bewakingsondernemingen, de beveiligingsondernemingen en de interne bewakingsdiensten.

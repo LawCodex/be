@@ -16,7 +16,7 @@ department: "Intérieur - Justice"
 justel_notes:
   - "art. 135quinquies cesse de produire ses effets le 01-09-2020, cfr. L 2018-07-19/17 , art. 3; En vigueur : 10-08-2018"
   - "Consultation des versions antérieures à partir du 30-04-2002 et mise à jour au 22-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2002. - Loi relative aux éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police.

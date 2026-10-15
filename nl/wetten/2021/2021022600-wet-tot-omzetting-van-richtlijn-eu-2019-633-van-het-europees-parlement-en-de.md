@@ -12,7 +12,7 @@ entry_into_force: 2021-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/28/2021022600/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2021. - Wet tot omzetting van Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de landbouw- en voedselvoorzieningsketen en tot wijziging van het Wetboek van economisch recht

@@ -12,7 +12,7 @@ published: 2015-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/02/26/2015201079/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2015. - Décret portant assentiment à l'accord de coopération du 18 avril 2014 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la Structure de Coordination de l'information patrimoniale

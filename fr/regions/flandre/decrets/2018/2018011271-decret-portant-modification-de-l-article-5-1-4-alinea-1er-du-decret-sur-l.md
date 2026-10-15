@@ -13,7 +13,7 @@ entry_into_force: 2018-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/02/2018011271/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2018. - Décret portant modification de l'article 5.1.4, alinéa 1er, du Décret sur l'Energie, en ce qui concerne la prévention, la détection, la constatation et la sanction de la fraude à l'énergie

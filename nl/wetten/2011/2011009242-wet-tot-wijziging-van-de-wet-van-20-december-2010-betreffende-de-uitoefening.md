@@ -12,7 +12,7 @@ entry_into_force: 2011-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/05/2011009242/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2011. - Wet tot wijziging van de wet van 20 december 2010 betreffende de uitoefening van bepaalde rechten van aandeelhouders van genoteerde vennootschappen

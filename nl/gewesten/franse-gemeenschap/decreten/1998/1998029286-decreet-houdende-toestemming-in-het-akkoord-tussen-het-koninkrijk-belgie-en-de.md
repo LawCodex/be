@@ -13,7 +13,7 @@ entry_into_force: 1995-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/23/1998029286/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1998. - Decreet houdende toestemming in het akkoord tussen het Koninkrijk België en de Conferentie van het Energiehandvest, ondertekend te Brussel op 26 oktober 1995 (VERTALING).

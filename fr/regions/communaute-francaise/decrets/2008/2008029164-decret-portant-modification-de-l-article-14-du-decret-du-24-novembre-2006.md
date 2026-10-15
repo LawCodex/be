@@ -13,7 +13,7 @@ entry_into_force: 2008-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/01/2008029164/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2008. - Décret portant modification de l'article 14 du décret du 24 novembre 2006 visant l'octroi d'une licence de tireur sportif tel que modifié par le décret du 6 juillet 2007.

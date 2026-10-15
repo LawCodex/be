@@ -12,7 +12,7 @@ entry_into_force: 1997-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/25/1997915120/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1997. - Wet houdende instemming met het Verdrag van de Verenigde Naties ter bestrijding van desertificatie in de landen die te kampen hebben met ernstige verdroging en/of desertificatie, in het bijzonder in Afrika, gedaan te Parijs op 17 juni 1994.

@@ -12,7 +12,7 @@ entry_into_force: 2014-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014009317/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet tot wijziging van artikel 409 van het Strafwetboek, houdende de strafbaarstelling van het aanzetten tot genitale verminking bij vrouwen

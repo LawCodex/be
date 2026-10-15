@@ -12,7 +12,7 @@ published: 2025-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/18/2025005931/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Decreet over de lerenden en de organisatie in het onderwijs

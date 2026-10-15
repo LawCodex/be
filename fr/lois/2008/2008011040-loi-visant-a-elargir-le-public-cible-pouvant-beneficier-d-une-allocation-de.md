@@ -12,7 +12,7 @@ entry_into_force: 2008-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/01/07/2008011040/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2008. - Loi visant à élargir le public-cible pouvant bénéficier d'une allocation de chauffage du Fonds social Mazout et à augmenter la quantité de mazout donnant droit à cette allocation.

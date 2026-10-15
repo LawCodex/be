@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "Consutation des versions antérieures à partir du 26-03-2009 et mise à jour au 29-01-2010"
   - "Consultation des versions antérieures à partir du 26-03-2009 et mise à jour au 28-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2009. - Décret portant organisation du sport scolaire

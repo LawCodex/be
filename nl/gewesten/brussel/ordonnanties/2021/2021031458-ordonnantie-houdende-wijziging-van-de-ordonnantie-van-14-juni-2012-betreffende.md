@@ -13,7 +13,7 @@ entry_into_force: 2021-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/05/06/2021031458/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2021. - Ordonnantie houdende wijziging van de ordonnantie van 14 juni 2012 betreffende afvalstoffen, van het Wetboek van 25 maart 1999 van inspectie, preventie, vaststelling en bestraffing van milieumisdrijven, en milieuaansprakelijkheid, van de ordonnantie van 5 maart 2009 betreffende het beheer en de sanering van verontreinigde bodems, van het koninklijk besluit van 8 november 2007 betreffende de preventie en het herstel van milieuschade ten gevolge van het vervoer over de weg, per spoor, over de binnenwateren of in de lucht van : uitheemse plantensoorten evenals van uitheemse diersoorten en hun krengen, naar aanleiding van de in-, de uit- en de doorvoer ervan ; alsook van afvalstoffen bij hun doorvoer en van de ordonnantie van 22 april 1999 tot vaststelling van de ingedeelde inrichtingen van klasse IA bedoeld in artikel 4 van de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen

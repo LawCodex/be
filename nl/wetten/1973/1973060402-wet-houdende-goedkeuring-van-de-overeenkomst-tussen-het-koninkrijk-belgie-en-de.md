@@ -11,7 +11,7 @@ published: 1973-07-11
 entry_into_force: 1973-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/06/04/1973060402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 1973. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Federatieve Republiek Brazilië tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen, en van het Slotprotocol ondertekend te Brasilia op 23 juni 1972.

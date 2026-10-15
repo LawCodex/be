@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/16/2008029008/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-01-2008 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2007. - Décret relatif au programme prioritaire de travaux en faveur des bâtiments scolaires de l'enseignement fondamental ordinaire et spécialisé, de l'enseignement secondaire ordinaire, spécialisé et de promotion sociale, de l'enseignement artistique à horaire réduit; des centres psycho-médico-sociaux ainsi que des internats de l'enseignement fondamental et secondaire, ordinaire et spécialisé, organisés ou subventionnés par la Communauté française.

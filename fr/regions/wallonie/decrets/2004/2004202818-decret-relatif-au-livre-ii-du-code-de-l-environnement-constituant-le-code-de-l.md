@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004202818/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 23-09-2004 et mise à jour au 05-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret relatif au Livre II du Code de l'Environnement constituant le Code de l'Eau

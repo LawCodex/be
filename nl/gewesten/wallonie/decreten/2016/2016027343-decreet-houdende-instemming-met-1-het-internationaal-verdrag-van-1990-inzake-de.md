@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016027343/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met : 1) het Internationaal Verdrag van 1990 inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging, gedaan te Londen op 30 november 1990 en met 2) het Protocol van 2000 inzake de voorbereiding op, de bestrijding van en de samenwerking bij de voorvallen van verontreiniging door schadelijke en potentieel gevaarlijke stoffen, gedaan te Londen op 15 maart 2000

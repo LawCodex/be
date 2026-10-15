@@ -11,7 +11,7 @@ date: 2021-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/10/28/2021043029/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 28 december 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de samenwerking tussen inspectiediensten in het kader van bevoegdheden inzake gezinsbijslagen

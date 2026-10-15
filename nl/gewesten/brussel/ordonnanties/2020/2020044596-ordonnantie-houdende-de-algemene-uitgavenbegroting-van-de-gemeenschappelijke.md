@@ -13,7 +13,7 @@ entry_into_force: 2021-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/18/2020044596/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2020. - Ordonnantie houdende de Algemene Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2021

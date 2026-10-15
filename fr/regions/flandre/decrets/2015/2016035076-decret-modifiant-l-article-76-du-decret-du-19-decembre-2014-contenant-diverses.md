@@ -13,7 +13,7 @@ entry_into_force: 2015-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/18/2016035076/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Décret modifiant l'article 76 du décret du 19 décembre 2014 contenant diverses mesures d'accompagnement du budget 2015, pour ce qui est de la régularisation des contractuels subventionnés

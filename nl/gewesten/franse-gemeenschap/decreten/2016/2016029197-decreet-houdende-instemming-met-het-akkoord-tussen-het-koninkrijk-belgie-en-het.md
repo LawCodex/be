@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/21/2016029197/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2016. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en het Europees Instituut voor Bosbouw betreffende de voorrechten en immuniteiten van het verbindingsbureau van het Europees Instituut voor Bosbouw, ondertekend te Brussel op 9 oktober 2013

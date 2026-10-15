@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/07/12/2012031558/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-07-2012 en tekstbijwerking tot 14-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Ordonnantie houdende de organisatie van de elektronische stemming voor de gemeenteraadsverkiezingen

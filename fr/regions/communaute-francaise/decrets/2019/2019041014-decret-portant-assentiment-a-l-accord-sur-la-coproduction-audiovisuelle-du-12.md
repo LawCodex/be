@@ -13,7 +13,7 @@ entry_into_force: 2019-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019041014/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à l'accord sur la coproduction audiovisuelle du 12 mai 2017 entre le Gouvernement de la Communauté française de Belgique et le Gouvernement de la République du Chili

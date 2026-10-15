@@ -11,7 +11,7 @@ published: 2001-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/13/2001003390/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2001. - Wet houdende diverse institutionele hervormingen betreffende de lokale instellingen van het Brussels Hoofdstedelijk Gewest.

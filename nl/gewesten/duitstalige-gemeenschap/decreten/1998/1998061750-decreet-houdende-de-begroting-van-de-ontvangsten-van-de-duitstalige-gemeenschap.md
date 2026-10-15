@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/17/1998061750/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-10-1998 en tekstbijwerking tot 19-05-2000."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1998. - Decreet houdende de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 1999. (Vertaling) -

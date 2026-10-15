@@ -13,7 +13,7 @@ entry_into_force: 2022-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/02/24/2022040353/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2022. - Ordonnance portant assentiment à : l'Accord portant extinction des traités bilatéraux d'investissement entre Etats membres de l'Union européenne, fait à Bruxelles le 5 mai 2020

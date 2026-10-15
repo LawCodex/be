@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019014596/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 18-09-2019 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret et ordonnance conjoints relatifs au médiateur bruxellois

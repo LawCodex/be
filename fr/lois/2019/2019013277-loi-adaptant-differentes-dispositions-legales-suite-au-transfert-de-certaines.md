@@ -12,7 +12,7 @@ entry_into_force: 2019-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/07/2019013277/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2019. - Loi adaptant différentes dispositions légales suite au transfert de certaines compétences du Service public fédéral Sécurité sociale à l'Institut national d'assurances sociales pour travailleurs indépendants et assurant certaines adaptations terminologiques

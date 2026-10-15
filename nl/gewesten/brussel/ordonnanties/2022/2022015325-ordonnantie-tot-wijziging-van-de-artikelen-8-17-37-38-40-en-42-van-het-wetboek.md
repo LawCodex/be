@@ -13,7 +13,7 @@ entry_into_force: 2022-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/06/2022015325/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2022. - Ordonnantie tot wijziging van de artikelen 8, 17, 37, 38, 40 en 42 van het Wetboek der successierechten

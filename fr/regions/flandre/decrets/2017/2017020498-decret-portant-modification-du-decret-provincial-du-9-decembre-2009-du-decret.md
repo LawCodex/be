@@ -13,7 +13,7 @@ entry_into_force: 2017-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/30/2017020498/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Décret portant modification du décret provincial du 9 décembre 2009, du décret électoral local et provincial du 8 juillet 2011, du décret relatif à l'organisation d'élections numériques du 25 mai 2012 et du décret relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes du 4 avril 2014

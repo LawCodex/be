@@ -13,7 +13,7 @@ entry_into_force: 1995-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/08/1995035732/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 1995. - Décret portant approbation de l'arrêté du Gouvernement flamand du 25 janvier 1995 portant coordination des décrets relatifs à la radiodiffusion et à la télévision. (TRADUCTION)

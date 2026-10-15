@@ -12,7 +12,7 @@ entry_into_force: 2001-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/05/22/2001000593/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2001. - Loi portant assentiment à l'Accord de coopération du 21 juin 1999 entre l'Etat fédéral, les régions flamande, wallonne et de Bruxelles-Capitale relatif à la maîtrise de dangers liés aux accidents majeurs impliquant des substances dangereuses.

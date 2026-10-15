@@ -12,7 +12,7 @@ entry_into_force: 2022-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/17/2022032652/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2022. - Loi modifiant l'article 805, alinéa 2, du Code judiciaire en ce qui concerne le défaut

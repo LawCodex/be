@@ -12,7 +12,7 @@ published: 2011-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/17/2011203668/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2011. - Decreet betreffende de scholengemeenschappen in het basis- en secundair onderwijs

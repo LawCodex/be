@@ -12,7 +12,7 @@ entry_into_force: 2023-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/02/08/2023200862/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2023. - Wet tot wijziging van de wet van 17 juni 2016 inzake overheidsopdrachten en de wet van 17 juni 2016 betreffende de concessieovereenkomsten, met betrekking tot bestuur

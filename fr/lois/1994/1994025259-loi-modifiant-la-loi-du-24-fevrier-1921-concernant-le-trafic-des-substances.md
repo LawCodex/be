@@ -12,7 +12,7 @@ entry_into_force: 1994-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/14/1994025259/justel"
 department: "Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1994. - Loi modifiant la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques.

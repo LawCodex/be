@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/20/2000033029/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 06-07-2000 et mise à jour au 13-04-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1999. - Décret modifiant le décret du 21 janvier 1991 portant suppression et réorganisation des fonds budgétaires et instituant le " Sport-, Freizeit- und Touristikzentrum Worriken " (Centre sportif, touristique et de loisirs de Worriken), service à gestion autonome (TRADUCTION). -

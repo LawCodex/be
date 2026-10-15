@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/18/2011035283/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2011. - Décret modifiant le décret du 13 juillet 2001 portant stimulation d'une politique culturelle locale qualitative et intégrale, en ce qui concerne la bibliothèque digitale

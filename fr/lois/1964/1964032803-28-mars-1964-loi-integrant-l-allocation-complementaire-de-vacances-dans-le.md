@@ -11,7 +11,7 @@ published: 1964-04-03
 entry_into_force: 1964-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/03/28/1964032803/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 mars 1964. \_ Loi intégrant l'allocation complémentaire de vacances dans le régime des vacances annuelles des travailleurs.

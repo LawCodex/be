@@ -16,7 +16,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "Opschrift vervangen bij DVR 2009-05-08/31 , art. 196, 012; Inwerkingtreding : 01-09-2009, zoals volgt : \" Decreet betreffende het mentorschap [...] \""
   - "Raadpleging van vroegere versies vanaf 05-09-1996 en tekstbijwerking tot 30-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1996. - [Decreet betreffende het mentorschap en de nascholing in Vlaanderen]. &lt;DVR 2006-12-15/65 , art. 6, 007; Inwerkingtreding : 01-09-2007&gt;

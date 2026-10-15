@@ -13,7 +13,7 @@ entry_into_force: 2019-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/18/2020040083/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2019. - Decreet betreffende de samenwerking tussen universitaire ziekenhuizen en een privaatrechtelijke en/of publiekrechtelijke rechtspersoon en betreffende de erkenning van universitaire ziekenhuizen

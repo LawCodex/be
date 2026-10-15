@@ -12,7 +12,7 @@ published: 2004-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/31/2004029138/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2004. - Décret portant assentiment de l'Accord de coopération du 10 décembre 2003 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Commission communautaire française, la Région wallonne et la Région de Bruxelles-Capitale, visant la collaboration dans les domaines de l'environnement et de la santé

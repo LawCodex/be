@@ -12,7 +12,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/09/2021034238/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2021. - Loi modifiant la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, en ce qui concerne son application aux assemblées de la Commission communautaire française et de la Commission communautaire flamande

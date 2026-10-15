@@ -12,7 +12,7 @@ entry_into_force: 2019-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/24/2019011048/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2019. - Loi modifiant la loi-programme du 27 avril 2007 en ce qui concerne l'octroi du tarif social pour le gaz et l'électricité, et modifiant l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux pour les entreprises d'électricité et les règles d'intervention pour leur prise en charge

@@ -13,7 +13,7 @@ last_amended: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101057/justel"
 justel_note: "Consultation des versions antérieures à partir du 13-04-1985 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE - Sixième partie : &lt;L 4-7-1972, art. 2&gt; L'ARBITRAGE. (art. 1676 à 1723) -

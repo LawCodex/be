@@ -12,7 +12,7 @@ entry_into_force: 2007-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/24/2007015053/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2000. - Loi portant assentiment à l'Instrument pour l'amendement de la Constitution de l'Organisation internationale du travail, adopté par la Conférence internationale du Travail à sa quatre-vingt-cinquième session, à Genève le 19 juin 1997.

@@ -13,7 +13,7 @@ entry_into_force: 2008-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/23/2007037160/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2007. - Décret portant assentiment à la convention portant création du " International Plant Genetic Resources Institute ", signé à Rome le 9 octobre 1991 (TRADUCTION).

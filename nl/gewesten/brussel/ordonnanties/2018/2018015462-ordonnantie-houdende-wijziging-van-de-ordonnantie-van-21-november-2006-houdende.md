@@ -13,7 +13,7 @@ entry_into_force: 2019-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/13/2018015462/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2018. - Ordonnantie houdende wijziging van de ordonnantie van 21 november 2006 houdende de bepalingen die van toepassing zijn op de begroting, de boekhouding en de controle

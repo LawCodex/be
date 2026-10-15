@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/11/17/2022034133/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2022. - Ordonnantie waarbij de Brusselse Codex Fiscale Procedure toepasselijk wordt verklaard op de belastingen op het verbranden van afvalstoffen en op de milieubelasting

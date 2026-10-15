@@ -13,7 +13,7 @@ entry_into_force: 1998-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/01/22/1998027104/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 1998. - Décret instaurant un régime d'indemnisation pour les dommages causés par certaines espèces protégées.

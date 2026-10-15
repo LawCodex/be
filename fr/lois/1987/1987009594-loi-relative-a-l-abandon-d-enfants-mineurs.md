@@ -12,7 +12,7 @@ entry_into_force: 1987-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/05/20/1987009594/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1987. - Loi relative à l'abandon d'enfants mineurs.

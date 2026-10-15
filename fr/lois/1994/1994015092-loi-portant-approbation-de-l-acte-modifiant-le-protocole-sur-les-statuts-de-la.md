@@ -12,7 +12,7 @@ entry_into_force: 1994-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/01/19/1994015092/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 1994. - Loi portant approbation de l'Acte modifiant le protocole sur les statuts de la Banque européenne d'Investissement habilitant le Conseil des Gouverneurs à créer un Fonds européen d'Investissement et complétant le Traité instituant la Communauté économique européenne, fait à Bruxelles le 25 mars 1993.

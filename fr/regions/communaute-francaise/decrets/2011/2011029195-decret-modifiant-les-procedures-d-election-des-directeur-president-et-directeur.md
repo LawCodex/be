@@ -13,7 +13,7 @@ entry_into_force: 2011-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/17/2011029195/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2011. - Décret modifiant les procédures d'élection des directeur-président et directeur de catégorie au sein des Hautes Ecoles organisées ou subventionnées par la Communauté française

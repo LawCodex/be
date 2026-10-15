@@ -10,7 +10,7 @@ date: 1971-07-30
 published: 1971-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/30/1971073001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1971. - Wet betreffende de economische reglementering en de prijzen \_ wet houdende wijziging van de besluitwet van 22 januari 1945 betreffende het beteugelen van elke inbreuk op de reglementering inzake de bevoorrading van het land.

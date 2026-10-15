@@ -13,7 +13,7 @@ entry_into_force: 2014-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035559/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant l'article 200 du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale, pour ce qui est de la désignation de personnes pouvant intervenir en justice au nom du CPAS

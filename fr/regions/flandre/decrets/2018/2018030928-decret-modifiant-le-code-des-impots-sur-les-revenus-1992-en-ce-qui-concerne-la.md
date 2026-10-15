@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/20/2018030928/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2018. - Décret modifiant le Code des Impôts sur les Revenus 1992, en ce qui concerne la réduction des impôts des personnes physiques pour les dépenses pour les biens protégés

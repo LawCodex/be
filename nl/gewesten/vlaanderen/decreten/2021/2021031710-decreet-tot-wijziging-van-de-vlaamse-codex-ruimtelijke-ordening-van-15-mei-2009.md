@@ -13,7 +13,7 @@ entry_into_force: 2021-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/18/2021031710/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2021. - Decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wat betreft zorgwonen

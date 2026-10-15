@@ -12,7 +12,7 @@ entry_into_force: 1998-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/10/1998000132/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1998. - Wet tot wijziging van de wet van 27 december 1973 betreffende het statuut van het personeel van het operationeel korps van de rijkswacht en van de wet van 11 juli 1978 tot regeling van de betrekkingen tussen de overheid en de vakbonden van het rijkswachtpersoneel van het operationeel korps.

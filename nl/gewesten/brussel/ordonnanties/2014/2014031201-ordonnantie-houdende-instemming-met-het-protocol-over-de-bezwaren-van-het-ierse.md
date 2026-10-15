@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/02/27/2014031201/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Ordonnantie houdende instemming met : het Protocol over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon, gedaan te Brussel op 13 juni 2012

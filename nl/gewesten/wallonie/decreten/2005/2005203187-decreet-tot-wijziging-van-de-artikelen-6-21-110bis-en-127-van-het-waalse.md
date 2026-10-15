@@ -12,7 +12,7 @@ entry_into_force: 2005-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/10/27/2005203187/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2005. - Decreet tot wijziging van de artikelen 6, 21, 110bis en 127 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium (VERTALING).

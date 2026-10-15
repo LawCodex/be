@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/10/28/1996009852/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-1996 en tekstbijwerking tot 23-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 1996. - Wet betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van bepaalde buitenlandse Staten zijn gebracht. -

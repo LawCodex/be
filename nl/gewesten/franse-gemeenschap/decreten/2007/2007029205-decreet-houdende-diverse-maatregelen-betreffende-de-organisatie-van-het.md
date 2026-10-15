@@ -11,7 +11,7 @@ date: 2007-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/19/2007029205/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Decreet houdende diverse maatregelen betreffende de organisatie van het schooljaar 2007-2008 (VERTALING).

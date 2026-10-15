@@ -12,7 +12,7 @@ entry_into_force: 2011-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/13/2011202036/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2011. - Wet tot wijziging, wat betreft de meeouders, van de wetgeving inzake het geboorteverlof

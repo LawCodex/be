@@ -11,7 +11,7 @@ published: 1923-08-19
 entry_into_force: 1923-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1923/07/30/1923073051/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1923. - Wet op de samenstelling der erkende mutualiteitsinstellingen.

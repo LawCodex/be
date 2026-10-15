@@ -12,7 +12,7 @@ entry_into_force: 2006-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/15/2006022282/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2006. - Loi relative à l'exercice de la profession d'architecte dans le cadre d'une personne morale.

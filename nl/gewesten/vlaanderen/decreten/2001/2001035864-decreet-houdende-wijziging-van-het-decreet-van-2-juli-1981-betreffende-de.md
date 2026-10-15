@@ -13,7 +13,7 @@ entry_into_force: 2001-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/13/2001035864/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2001. - Decreet houdende wijziging van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van aflvalstoffen.

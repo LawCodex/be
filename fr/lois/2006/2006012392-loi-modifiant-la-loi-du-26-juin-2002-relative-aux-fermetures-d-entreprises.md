@@ -12,7 +12,7 @@ entry_into_force: 2006-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/11/2006012392/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2006. - Loi modifiant la loi du 26 juin 2002 relative aux fermetures d'entreprises.

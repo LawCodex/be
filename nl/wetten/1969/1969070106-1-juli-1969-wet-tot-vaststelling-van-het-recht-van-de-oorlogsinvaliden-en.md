@@ -11,7 +11,7 @@ published: 1969-07-15
 entry_into_force: 1969-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/07/01/1969070106/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 1969. \_ Wet tot vaststelling van het recht van de oorlogsinvaliden en oorlogswezen op geneeskundige verzorging op kosten van de Staat.

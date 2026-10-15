@@ -13,7 +13,7 @@ entry_into_force: 2014-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202452/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot vervanging van boek II van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende de integratie van vreemdelingen of personen van buitenlandse herkomst

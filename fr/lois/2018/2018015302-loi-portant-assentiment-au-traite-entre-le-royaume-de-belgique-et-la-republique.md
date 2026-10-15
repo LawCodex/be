@@ -12,7 +12,7 @@ entry_into_force: 2021-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/03/2018015302/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2018. - Loi portant assentiment au Traité entre le Royaume de Belgique et la République populaire de Chine sur le transfèrement des personnes condamnées, fait à Pékin le 31 octobre 2016

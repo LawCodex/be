@@ -13,7 +13,7 @@ entry_into_force: 2002-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/29/2002036536/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2002. - Décret modifiant le décret du 28 janvier 1977 relatif à la protection de la dénomination des voies et places publiques (TRADUCTION).

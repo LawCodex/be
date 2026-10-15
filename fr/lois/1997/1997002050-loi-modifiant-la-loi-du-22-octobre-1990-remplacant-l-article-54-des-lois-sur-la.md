@@ -12,7 +12,7 @@ entry_into_force: 1997-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/13/1997002050/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1997. - Loi modifiant la loi du 22 octobre 1990 remplaçant l'article 54 des lois sur la collation des grades académiques et le programme des examens universitaires, coordonnées par l'arrêté du Régent du 31 décembre 1949.

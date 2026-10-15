@@ -13,7 +13,7 @@ entry_into_force: 2014-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/17/2014035145/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2014. - Décret abrogeant l'article 158 de la Nouvelle Loi communale

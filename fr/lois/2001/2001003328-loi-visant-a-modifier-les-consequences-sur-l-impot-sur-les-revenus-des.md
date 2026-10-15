@@ -12,7 +12,7 @@ entry_into_force: 2003-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/21/2001003328/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2001. - Loi visant à modifier les conséquences sur l'impôt sur les revenus des donations à l'Etat et les modalités des dations d'oeuvres d'art en paiement de droits de succession.

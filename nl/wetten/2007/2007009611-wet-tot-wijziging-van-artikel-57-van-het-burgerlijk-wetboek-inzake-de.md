@@ -12,7 +12,7 @@ entry_into_force: 2007-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007009611/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot wijziging van artikel 57 van het Burgerlijk Wetboek, inzake de vermelding van het geslacht van kinderen van wie het geslacht onduidelijk is.

@@ -12,7 +12,7 @@ entry_into_force: 1994-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/07/1994012645/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1994. - Loi modifiant le chapitre IV du titre IX de la loi du 30 mars 1994 portant des dispositions sociales.

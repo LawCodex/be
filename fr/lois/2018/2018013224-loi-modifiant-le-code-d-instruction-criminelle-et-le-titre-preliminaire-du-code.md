@@ -12,7 +12,7 @@ entry_into_force: 2018-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/22/2018013224/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2018. - Loi modifiant le Code d'instruction criminelle et le titre préliminaire du Code d'instruction criminelle en vue d'introduire la méthode particulière de recherche d'infiltration civile

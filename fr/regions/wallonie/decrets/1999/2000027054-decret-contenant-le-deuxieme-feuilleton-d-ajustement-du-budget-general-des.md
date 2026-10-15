@@ -13,7 +13,7 @@ entry_into_force: 2000-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/16/2000027054/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1999. - Décret contenant le deuxième feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 1999.

@@ -13,7 +13,7 @@ entry_into_force: 2021-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/14/2021202512/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2021. - Decreet houdende bekrachtiging van de besluiten van de Waalse Regering van bijzondere machten genomen in het kader van het beheer van de gezondheidscrisis tijdens de tweede golf COVID-19

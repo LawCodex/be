@@ -13,7 +13,7 @@ entry_into_force: 2026-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/03/28/2026002535/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2026. - Financieordonnantie houdende opening van voorlopige kredieten voor de maanden april en mei 2026 van de begroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2026

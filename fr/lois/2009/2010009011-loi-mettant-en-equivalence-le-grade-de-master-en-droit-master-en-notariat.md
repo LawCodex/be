@@ -12,7 +12,7 @@ entry_into_force: 2009-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/30/2010009011/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 2009. - Loi mettant en équivalence le grade de master en droit, master en notariat, master en droit social et respectivement une licence ou un doctorat en droit, une licence en notariat, une licence en droit social en ce qui concerne les exigences de diplôme pour les professions juridiques dans les lois et règlements qui règlent une matière visée à l'article 78 de la Constitution

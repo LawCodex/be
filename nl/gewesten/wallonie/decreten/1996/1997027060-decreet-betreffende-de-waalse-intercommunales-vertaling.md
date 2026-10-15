@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/05/1997027060/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-02-1999 en tekstbijwerking tot 23-08-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 1996. - Decreet betreffende de Waalse intercommunales (VERTALING). -

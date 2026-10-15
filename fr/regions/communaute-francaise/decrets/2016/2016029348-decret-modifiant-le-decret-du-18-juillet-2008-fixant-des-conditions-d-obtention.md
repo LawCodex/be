@@ -13,7 +13,7 @@ entry_into_force: 2016-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/30/2016029348/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2016. - Décret modifiant le décret du 18 juillet 2008 fixant des conditions d'obtention des diplômes de bachelier sage-femme et de bachelier en soins infirmiers, renforçant la mobilité étudiante et portant diverses mesures en matière d'enseignement supérieur

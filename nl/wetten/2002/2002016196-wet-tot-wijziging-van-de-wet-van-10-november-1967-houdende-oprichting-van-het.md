@@ -10,7 +10,7 @@ date: 2002-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/07/2002016196/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2002. - Wet tot wijziging van de wet van 10 november 1967 houdende oprichting van het Belgisch Interventie- en Restitutiebureau.

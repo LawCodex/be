@@ -16,7 +16,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 34 gewijzigd met ingang op een onbepaalde datum bij DVR 2005-07-15/57 , art. 2.3, 022; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 17-04-1997 en tekstbijwerking tot 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1997. - Decreet basisonderwijs.

@@ -13,7 +13,7 @@ entry_into_force: 2008-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/16/2008033072/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2008. - Décret -programme 2008 (TRADUCTION).

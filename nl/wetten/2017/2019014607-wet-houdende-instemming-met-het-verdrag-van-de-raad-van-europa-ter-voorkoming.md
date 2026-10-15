@@ -12,7 +12,7 @@ entry_into_force: 2022-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/08/11/2019014607/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AUGUSTUS 2017. - Wet houdende instemming met het Verdrag van de Raad van Europa ter voorkoming van terrorisme, gedaan te Warschau op 16 mei 2005

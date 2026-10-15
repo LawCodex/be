@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029186/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2004 et mise à jour au 30-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret relatif à l'enregistrement d'armoiries de personne physique ou d'association familiale en Communauté française.

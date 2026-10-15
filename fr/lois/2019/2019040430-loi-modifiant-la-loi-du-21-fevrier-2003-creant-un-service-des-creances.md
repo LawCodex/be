@@ -12,7 +12,7 @@ entry_into_force: 2019-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/11/2019040430/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2019. - Loi modifiant la loi du 21 février 2003 créant un service des créances alimentaires au sein du SPF Finances en ce qui concerne l'automatisation du titre exécutoire

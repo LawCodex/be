@@ -12,7 +12,7 @@ published: 2004-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/31/2004029139/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2004. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschap en de Franse Gemeenschapscommissie inzake ondersteuning van schoolintegratie van jongeren met een handicap (VERTALING).

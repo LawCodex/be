@@ -13,7 +13,7 @@ entry_into_force: 2010-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/11/22/2010206070/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2010. - Décret portant assentiment à la convention n° 142 concernant le rôle de l'orientation et de la formation professionnelles dans la mise en valeur des ressources humaines, adoptée à Genève le 23 juin 1975 par la Conférence générale de l'Organisation internationale du travail

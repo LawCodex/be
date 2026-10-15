@@ -12,7 +12,7 @@ entry_into_force: 2000-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2000000696/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet tot wijziging van de wet van 7 juli 1994 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van de provincieraden en de gemeenteraden en de districtsraden en voor de rechtstreekse verkiezing van de raden voor maatschappelijk welzijn en van het koninklijk besluit van 26 augustus 1988 tot vaststelling van de nadere regels voor de verkiezing van de raad voor maatschappelijk welzijn in de gemeenten bedoeld bij artikel 7 van de wetten op het gebruik der talen in bestuurszaken, gecoördineerd op 18 juli 1966, en in de gemeenten Komen-Waasten en Voeren.

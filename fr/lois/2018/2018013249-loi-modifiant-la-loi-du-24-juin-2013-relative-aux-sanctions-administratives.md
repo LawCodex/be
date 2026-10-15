@@ -12,7 +12,7 @@ entry_into_force: 2018-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/19/2018013249/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Loi modifiant la loi du 24 juin 2013 relative aux sanctions administratives communales en ce qui concerne les infractions routières pouvant faire l'objet de sanctions administratives communales

@@ -13,7 +13,7 @@ entry_into_force: 2018-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/07/2018203067/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2018. - Décret portant assentiment au Protocole relatif à la Convention sur le travail forcé de 1930, adopté par la Conférence internationale du Travail à sa cent troisième session, Genève, le 11 juin 2014

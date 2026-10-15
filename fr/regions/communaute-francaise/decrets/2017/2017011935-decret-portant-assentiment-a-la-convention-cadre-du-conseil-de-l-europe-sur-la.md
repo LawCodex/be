@@ -13,7 +13,7 @@ entry_into_force: 2017-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017011935/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret portant assentiment à la Convention-cadre du Conseil de l'Europe sur la valeur du patrimoine culturel pour la société, faite à Faro le 27 octobre 2005

@@ -12,7 +12,7 @@ published: 1997-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/03/27/1997027181/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1997. - Decreet houdende wijziging van het decreet van 20 juli 1989 tot vaststelling van de regelen van de algemene financiering van de Waalse gemeenten (VERTALING).

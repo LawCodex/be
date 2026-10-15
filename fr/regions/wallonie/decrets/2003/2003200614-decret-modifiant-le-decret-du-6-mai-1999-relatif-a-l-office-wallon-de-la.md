@@ -13,7 +13,7 @@ entry_into_force: 2003-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/13/2003200614/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2003. - Décret modifiant le décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi.

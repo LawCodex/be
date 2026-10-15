@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/25/2007009645/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2007 et mise à jour au 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - [Loi organisant les relations entre les autorités publiques et les organisations syndicales des greffiers de l'Ordre judiciaire, des référendaires près la Cour de cassation, des référendaires, des juristes de parquet et des criminologues près les cours et tribunaux] &lt;L 2024-05-07/04 , art. 57, 003; En vigueur : 26-05-2024&gt;

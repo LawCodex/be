@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/12/19/2003009950/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-12-2003 et mise à jour au 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2003. - Loi relative au mandat d'arrêt européen

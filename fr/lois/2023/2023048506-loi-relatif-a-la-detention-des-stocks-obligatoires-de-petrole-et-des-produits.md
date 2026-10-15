@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/21/2023048506/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2023. - Loi relatif à la détention des stocks obligatoires de pétrole et des produits pétroliers, à la détention de stocks stratégiques additionnels destinés à l'approvisionnement énergétique du pays en cas de crise énergétique, à la gestion de crise d'approvisionnement pétrolière et à l'organisation d'ASEVA

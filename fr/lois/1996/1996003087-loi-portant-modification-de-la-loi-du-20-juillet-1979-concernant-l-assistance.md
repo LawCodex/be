@@ -12,7 +12,7 @@ entry_into_force: 1996-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/01/30/1996003087/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 1996. - LOI portant modification de la loi du 20 juillet 1979 concernant l'assistance mutuelle en matière de recouvrement dans la Communauté économique européenne, des créances résultant d'opérations faisant partie du système de financement du Fonds européen d'Orientation et de Garantie agricole, ainsi que de prélèvements agricoles, de droits de douane et de taxe sur la valeur ajoutée

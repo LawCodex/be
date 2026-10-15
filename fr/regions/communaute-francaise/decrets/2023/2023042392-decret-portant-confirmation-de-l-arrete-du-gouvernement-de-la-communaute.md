@@ -13,7 +13,7 @@ entry_into_force: 2023-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/27/2023042392/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française du 25 août 2022 fixant la correspondance entre les cours et les fonctions dans l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française

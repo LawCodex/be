@@ -12,7 +12,7 @@ entry_into_force: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/01/27/2022200769/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2022. - Loi modifiant la loi du 19 avril 1963 créant un établissement public dénommé "Théâtre royal de la Monnaie" et modifiant la loi du 22 avril 1958 portant statut de l'Orchestre national de Belgique

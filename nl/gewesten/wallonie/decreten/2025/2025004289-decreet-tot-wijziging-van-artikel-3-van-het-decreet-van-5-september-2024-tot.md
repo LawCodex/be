@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/30/2025004289/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2025. - Decreet tot wijziging van artikel 3 van het decreet van 5 september 2024 tot vervanging van de artikelen L1133-1 en L1133-2 van het Wetboek van de plaatselijke democratie en de decentralisatie teneinde de rechtszekerheid van de bekendmaking van de reglementen en ordonnanties van de gemeentelijke overheden te waarborgen

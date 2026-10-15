@@ -13,7 +13,7 @@ entry_into_force: 2012-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/10/25/2012029520/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2012. - Decreet betreffende de aanwezigheid van de automatische externe defibrillatoren van categorie 1 in de sportinfrastructuren

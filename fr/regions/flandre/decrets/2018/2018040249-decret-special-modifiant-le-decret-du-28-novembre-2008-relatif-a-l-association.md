@@ -13,7 +13,7 @@ entry_into_force: 2018-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/15/2018040249/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2018. - Décret spécial modifiant le décret du 28 novembre 2008 relatif à l'association intercommunale d'enseignement et le décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen "

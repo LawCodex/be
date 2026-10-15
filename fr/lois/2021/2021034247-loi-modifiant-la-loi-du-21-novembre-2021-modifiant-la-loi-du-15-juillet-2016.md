@@ -12,7 +12,7 @@ entry_into_force: 2021-11-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/09/2021034247/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2021. - Loi modifiant la loi du 21 novembre 2021 modifiant la loi du 15 juillet 2016 portant exécution du Règlement (UE) n° 98/2013 du Parlement européen et du Conseil du 15 janvier 2013 sur la commercialisation et l'utilisation de précurseurs d'explosifs et portant des dispositions relatives aux prêts octroyés aux organisateurs de voyages et destinés à procéder aux remboursements des bons à valoir émis conformément à l'arrêté ministériel du 19 mars 2020 relatif au remboursement des voyages à forfait annulés

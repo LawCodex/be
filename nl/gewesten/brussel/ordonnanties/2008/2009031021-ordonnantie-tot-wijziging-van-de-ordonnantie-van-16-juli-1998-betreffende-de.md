@@ -13,7 +13,7 @@ entry_into_force: 2009-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/12/19/2009031021/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Ordonnantie tot wijziging van de ordonnantie van 16 juli 1998 betreffende de toekenning van subsidies om investeringen van openbaar nut aan te moedigen.

@@ -12,7 +12,7 @@ published: 2016-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/17/2016036108/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2016. - Decreet houdende huur van korte duur voor handel en ambacht

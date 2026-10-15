@@ -13,7 +13,7 @@ entry_into_force: 2009-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202266/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt

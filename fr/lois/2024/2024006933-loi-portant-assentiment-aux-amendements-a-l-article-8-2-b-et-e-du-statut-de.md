@@ -12,7 +12,7 @@ entry_into_force: 2024-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/02/2024006933/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2024. - Loi portant assentiment aux amendements à l'article 8-2-b) et e) du Statut de Rome de la Cour pénale internationale, adoptés par consensus le 14 décembre 2017, par la Résolution ICC-ASP/16/Res.4, lors de la 12ème séance plénière de la 16ème session de l'Assemblée des Etats Parties au Statut de Rome, et à l'amendement à l'article 8-2-e) du Statut de Rome de la Cour pénale internationale, adopté par consensus le 6 décembre 2019, par la Résolution ICC-ASP/18/Res.5, lors de la 9ème séance plénière de la 18ème session de l'Assemblée des Etats Parties au Statut de Rome

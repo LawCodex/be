@@ -10,7 +10,7 @@ date: 2008-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/09/18/2008015159/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2008. - Wet houdende instemming met de Samenwerkingsovereenkomst betreffende een civiel globaal navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar lidstaten en de Staat Israël, gedaan te Brussel op 13 juli 2004.

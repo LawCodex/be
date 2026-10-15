@@ -13,7 +13,7 @@ entry_into_force: 2024-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/04/27/2023042122/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2023. - Ordonnantie houdende instemming met de Regeling tussen de Noord-Atlantische Verdragsorganisatie en het Koninkrijk België betreffende de rechtspositie van tijdelijk personeel dat wordt aangeworven door en tewerkgesteld in een orgaan van de NAVO dat op het grondgebied van het Koninkrijk België gevestigd is, gedaan te Brussel op 7 februari 2022

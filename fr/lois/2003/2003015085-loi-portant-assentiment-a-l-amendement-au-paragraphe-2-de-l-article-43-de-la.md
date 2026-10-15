@@ -12,7 +12,7 @@ entry_into_force: 2004-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003015085/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2003. - Loi portant assentiment à l'Amendement au paragraphe 2 de l'article 43 de la Convention relative aux droits de l'enfant, adopté à la Conférence des états parties le 12 décembre 1995.

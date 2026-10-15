@@ -12,7 +12,7 @@ entry_into_force: 1999-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999015173/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi portant assentiment au Mémorandum d'Accord entre le Royaume de Belgique et la République d'Afrique du Sud concernant la coopération au développement, signé à Bruxelles le 16 mars 1995.

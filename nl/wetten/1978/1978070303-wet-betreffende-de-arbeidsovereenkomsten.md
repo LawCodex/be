@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1978/07/03/1978070303/justel"
 justel_notes:
   - "art. 3bis-3ter gewijzigd met ingang op een onbepaalde datum bij W 2018-01-15/02 , art. 11 en 18; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 28-04-1981 en tekstbijwerking tot 15-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 1978. - Wet betreffende de arbeidsovereenkomsten.

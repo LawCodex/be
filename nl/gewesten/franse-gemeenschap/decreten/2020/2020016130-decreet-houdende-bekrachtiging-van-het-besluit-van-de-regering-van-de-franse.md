@@ -12,7 +12,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020016130/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 1 van 7 april 2020 tot toekenning van een afwijking van de regels en voorwaarden voor de vereffening van de subsidies en tot opschorting van de beroepstermijnen in het kader van de gezondheidscrisis COVID-19

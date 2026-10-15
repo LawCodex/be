@@ -12,7 +12,7 @@ entry_into_force: 2022-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/01/2013015011/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 2012. - Loi portant assentiment aux Amendements des Annexes II et III à la Convention de Paris du 22 septembre 1992 pour la protection du milieu marin de l'Atlantique du Nord-Est, adoptés à Ostende le 29 juin 2007

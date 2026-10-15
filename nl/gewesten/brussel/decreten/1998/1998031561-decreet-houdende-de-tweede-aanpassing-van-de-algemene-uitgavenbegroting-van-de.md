@@ -12,7 +12,7 @@ published: 1999-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/27/1998031561/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1998. - Decreet houdende de tweede aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1998. (Vertaling)

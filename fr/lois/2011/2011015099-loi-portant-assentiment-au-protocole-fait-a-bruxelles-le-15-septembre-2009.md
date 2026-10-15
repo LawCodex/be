@@ -12,7 +12,7 @@ entry_into_force: 2013-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015099/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 2011. - Loi portant assentiment au Protocole, fait à Bruxelles le 15 septembre 2009, modifiant la Convention entre le Royaume de Belgique et la République de Finlande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 18 mai 1976, telle que modifiée par l'Accord additionnel signé à Bruxelles le 13 mars 1991, et adaptant la législation fiscale belge à certaines dispositions dudit Protocole

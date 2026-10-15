@@ -13,7 +13,7 @@ entry_into_force: 2023-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/01/19/2023010169/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2023. - Decreet houdende instemming met het samenwerkingsakkoord van 12 mei 2022 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van het samenwerkingsakkoord van 20 december 2018 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot het verplicht inburgeringstraject voor de nieuwkomers in Brussel-Hoofdstad

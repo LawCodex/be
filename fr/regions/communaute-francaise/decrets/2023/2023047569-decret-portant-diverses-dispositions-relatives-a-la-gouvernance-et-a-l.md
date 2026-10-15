@@ -13,7 +13,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/09/2023047569/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2023. - Décret portant diverses dispositions relatives à la gouvernance et à l'encadrement dans le secteur de la jeunesse

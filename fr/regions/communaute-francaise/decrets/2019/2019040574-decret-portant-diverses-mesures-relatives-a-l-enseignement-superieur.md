@@ -13,7 +13,7 @@ entry_into_force: 2019-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019040574/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2019. - Décret portant diverses mesures relatives à l'Enseignement supérieur

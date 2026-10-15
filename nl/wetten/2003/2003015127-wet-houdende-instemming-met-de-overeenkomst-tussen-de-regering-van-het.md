@@ -11,7 +11,7 @@ published: 2003-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003015127/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Mexicaanse Verenigde Staten inzake luchtvervoer, en met Bijlage, ondertekend te Mexico op 26 april 1999.HI:??2,Zitting 2002-2003. Senaat. Documenten. Ontwerp van wet ingediend op 18 oktober 2002, nr. 2-1322/1. Verslag, nr. 2-1322/2. Parlementaire Handelingen. Bespreking, vergadering van 12 december 2002. Stemming, vergadering van 12 december 2002. Kamer Documenten Ontwerp overgezonden door de Senaat, nr. 50-2205/1. Tekst aangenomen in plenaire vergadering en aan de Koning ter bekrachtiging voorgelegd, nr. 50-2205/2. Parlementaire Handelingen Bespreking, vergadering van 13 februari 2003. Stemming, vergadering van 13 februari 2003.

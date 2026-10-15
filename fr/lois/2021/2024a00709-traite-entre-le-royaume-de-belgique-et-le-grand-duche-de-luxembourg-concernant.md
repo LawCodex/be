@@ -12,7 +12,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/08/31/2024A00709/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 AOUT 2021. - Traité entre le Royaume de Belgique et le Grand-Duché de Luxembourg concernant l'exploitation commune des aéronefs de transport A400M au sein d'une unité binationale, fait à Luxembourg le 31 août 2021

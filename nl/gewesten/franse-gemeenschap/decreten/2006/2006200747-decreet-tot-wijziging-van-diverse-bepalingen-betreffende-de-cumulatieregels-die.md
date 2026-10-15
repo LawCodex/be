@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/01/27/2006200747/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2006. - Decreet tot wijziging van diverse bepalingen betreffende de cumulatieregels die van toepassing zijn op de personeelsleden van het onderwijs (VERTALING).

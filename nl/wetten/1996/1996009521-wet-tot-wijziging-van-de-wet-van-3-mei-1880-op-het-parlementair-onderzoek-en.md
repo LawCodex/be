@@ -12,7 +12,7 @@ entry_into_force: 1996-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/30/1996009521/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1996. - Wet tot wijziging van de wet van 3 mei 1880 op het parlementair onderzoek en van artikel 458 van het Strafwetboek.

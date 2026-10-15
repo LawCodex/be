@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/03/1995012237/justel"
 department: "Emploi et Travail - Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 22-04-1995 et mise à jour au 01-07-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1995. - Loi portant des mesures visant à promouvoir l'emploi.

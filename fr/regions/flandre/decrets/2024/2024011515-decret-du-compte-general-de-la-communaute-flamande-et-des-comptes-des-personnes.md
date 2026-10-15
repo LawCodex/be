@@ -13,7 +13,7 @@ entry_into_force: 2024-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/06/2024011515/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2024. - Décret du compte général de la Communauté flamande et des comptes des personnes morales relevant de l'autorité du Gouvernement flamand pour l'année budgétaire 2023

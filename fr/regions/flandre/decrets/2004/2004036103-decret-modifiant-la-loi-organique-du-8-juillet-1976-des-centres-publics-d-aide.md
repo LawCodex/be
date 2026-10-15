@@ -13,7 +13,7 @@ entry_into_force: 2004-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036103/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant la loi organique du 8 juillet 1976 des centres publics d'aide sociale, pour ce qui concerne la tutelle administrative. (Traduction).

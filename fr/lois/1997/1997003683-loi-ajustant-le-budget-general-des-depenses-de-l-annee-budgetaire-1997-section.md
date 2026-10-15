@@ -12,7 +12,7 @@ entry_into_force: 1997-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/02/1997003683/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1997. - Loi ajustant le budget général des dépenses de l'année budgétaire 1997 - Section 16 " Défense nationale ".

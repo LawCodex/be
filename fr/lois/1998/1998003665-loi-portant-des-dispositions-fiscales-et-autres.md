@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1998003665/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 15-01-1999 et mis à jour au 12-06-1999"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1998. - Loi portant des dispositions fiscales et autres.

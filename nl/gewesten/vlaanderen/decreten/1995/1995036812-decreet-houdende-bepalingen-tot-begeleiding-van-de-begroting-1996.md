@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 38 gewijzigd met ingang op een onbepaalde datum bij <DVR 2005-07-15/51 , art. 300, 014; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 30-12-1995 en tekstbijwerking tot 10-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet houdende bepalingen tot begeleiding van de begroting 1996.

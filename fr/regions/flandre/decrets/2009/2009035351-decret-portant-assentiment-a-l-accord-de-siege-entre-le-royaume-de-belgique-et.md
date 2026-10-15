@@ -13,7 +13,7 @@ entry_into_force: 2009-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009035351/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Centre international pour le Développement de la Politique de Migration, signé à Bruxelles le 21 mai 2008

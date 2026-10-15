@@ -13,7 +13,7 @@ entry_into_force: 2008-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/31/2007027096/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2007. - Décret relatif à la participation du public en matière d'environnement

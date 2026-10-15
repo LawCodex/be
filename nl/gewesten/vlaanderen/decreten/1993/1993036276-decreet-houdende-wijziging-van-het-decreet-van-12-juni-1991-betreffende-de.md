@@ -13,7 +13,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/01/27/1993036276/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 1993. - Decreet houdende wijziging van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, van de wet van 3 augustus 1960 houdende toekenning van sociale voordelen aan de universiteiten en gelijkgestelde inrichtingen, van de wet van 24 december 1976 betreffende de budgettaire voorstellen 1976-1977, van de wet van 7 april 1971 houdende de oprichting en de werking van de Universitaire Instelling Antwerpen en van de wet van 28 mei 1971 houdende de oprichting en de werking van het Limburgs Universitair Centrum.

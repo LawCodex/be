@@ -11,7 +11,7 @@ published: 1946-10-23
 entry_into_force: 1946-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1946/10/07/1946100703/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 1946. - Arrêté-Loi concernant la répression du faux et de certaines autres infractions en matière de timbres et autres titres de ravitaillement

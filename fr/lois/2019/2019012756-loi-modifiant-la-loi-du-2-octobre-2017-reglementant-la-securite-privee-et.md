@@ -12,7 +12,7 @@ entry_into_force: 2019-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/09/2019012756/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Loi modifiant la loi du 2 octobre 2017 réglementant la sécurité privée et particulière en ce qui concerne le traitement des données personnelles

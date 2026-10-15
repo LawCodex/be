@@ -12,7 +12,7 @@ entry_into_force: 2022-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/30/2022034099/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2022. - Loi modifiant la loi du 26 avril 2002 relative aux éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police, en vue d'optimiser les conditions de recrutement

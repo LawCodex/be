@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007036155/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-07-2007 et mise à jour au 30-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Décret portant création du Conseil consultatif stratégique pour l'Agriculture et la Pêche (TRADUCTION)

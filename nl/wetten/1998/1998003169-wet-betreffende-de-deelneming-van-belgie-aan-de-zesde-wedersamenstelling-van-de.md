@@ -12,7 +12,7 @@ entry_into_force: 1998-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/04/02/1998003169/justel"
 department: "Financiën - Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1998. - Wet betreffende de deelneming van België aan de zesde wedersamenstelling van de werkmiddelen van het Aziatisch Ontwikkelingsfonds.

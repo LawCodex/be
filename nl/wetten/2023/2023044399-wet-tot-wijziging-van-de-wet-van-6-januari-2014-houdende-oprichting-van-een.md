@@ -10,7 +10,7 @@ date: 2023-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/17/2023044399/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2023. - Wet tot wijziging van de wet van 6 januari 2014 houdende oprichting van een Federale Deontologische Commissie en houdende de Deontologische Code voor de openbare mandatarissen

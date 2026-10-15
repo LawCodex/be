@@ -12,7 +12,7 @@ entry_into_force: 2004-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/08/2004003026/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2004. - Loi modifiant l'article 215, alinéa 3, 4°, du Code des impôts sur les revenus 1992.

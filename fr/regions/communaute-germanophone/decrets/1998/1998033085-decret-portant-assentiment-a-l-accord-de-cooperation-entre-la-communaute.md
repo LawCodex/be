@@ -13,7 +13,7 @@ entry_into_force: 1998-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/02/1998033085/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 1998. - Décret portant assentiment à l'accord de coopération entre la Communauté francaise et la Communauté germanophone, signé à Eupen le 12 avril 1995 (TRADUCTION).

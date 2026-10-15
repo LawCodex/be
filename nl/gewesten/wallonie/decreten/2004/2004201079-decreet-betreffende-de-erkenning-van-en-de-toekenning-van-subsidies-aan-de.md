@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/25/2004201079/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 29-04-2004 en tekstbijwerking tot 12-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2004. - Decreet betreffende de erkenning van en de toekenning van subsidies aan de plaatselijke ontwikkelingsagentschappen. (VERTALING)

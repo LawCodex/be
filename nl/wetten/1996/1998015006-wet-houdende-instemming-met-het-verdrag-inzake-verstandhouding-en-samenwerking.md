@@ -12,7 +12,7 @@ entry_into_force: 1998-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/11/10/1998015006/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 1996. - Wet houdende instemming met het Verdrag inzake verstandhouding en samenwerking tussen het Koninkrijk België en de Russische Federatie, ondertekend te Brussel op 8 december 1993.

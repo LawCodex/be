@@ -13,7 +13,7 @@ entry_into_force: 2017-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/17/2017031872/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2017. - Decreet houdende wijziging van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002 en het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid

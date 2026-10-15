@@ -13,7 +13,7 @@ entry_into_force: 2017-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/07/2017014278/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Ordonnance harmonisant les procédures relatives aux amendes administratives en matière d'agences de voyages et d'hébergement touristique

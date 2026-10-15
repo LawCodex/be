@@ -11,7 +11,7 @@ published: 1967-09-20
 entry_into_force: 1967-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/08/06/1967080602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1967. - Loi relative à l'exécution des arrêts et des décisions des Communautés européennes.

@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/03/2016201323/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2016. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et la Communauté économique des Etats de l'Afrique de l'Ouest, signé à Bruxelles le 12 juillet 2006

@@ -13,7 +13,7 @@ entry_into_force: 1997-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/23/1997027576/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1997. - Décret portant assentiment à l'Accord-cadre de coopération destiné à préparer, comme objectif final, une association à caractère politique et économique entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part, à l'Annexe, au procès-verbal de signature, faits à Florence le 21 juin 1996.

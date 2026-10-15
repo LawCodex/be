@@ -12,7 +12,7 @@ entry_into_force: 1997-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/10/1997015035/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBRE 1996. - Loi portant assentiment à l'Acte portant révision de l'article 63 de la Convention sur la délivrance de brevets européens (Convention sur le brevet européen) du 5 octobre 1973, fait à Munich le 17 décembre 1991.

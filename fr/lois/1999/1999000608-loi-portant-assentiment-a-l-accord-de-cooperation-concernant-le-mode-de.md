@@ -12,7 +12,7 @@ entry_into_force: 1999-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/23/1999000608/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1999. - Loi portant assentiment à l'accord de coopération concernant le mode de répartition des frais des receveurs régionaux et le mode de prélèvement de la contribution dans ces frais par les administrations, conclu à Bruxelles le 9 décembre 1997 entre l'Etat, la Communauté flamande, la Région wallonne et la Communauté germanophone.

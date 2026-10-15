@@ -13,7 +13,7 @@ last_amended: 2016-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1949/07/06/1949070601/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 21-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1949. - Wet betreffende de huisvesting van de arbeiders in nijverheids-, landbouw- of handelsondernemingen en -exploitaties. -

@@ -12,7 +12,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/19/2014000165/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2014. - Loi portant assentiment à l'accord de coopération du 12 juin 2013 visant à créer un Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations

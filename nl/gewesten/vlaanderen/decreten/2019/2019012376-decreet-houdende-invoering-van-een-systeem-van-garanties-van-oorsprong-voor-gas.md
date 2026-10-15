@@ -13,7 +13,7 @@ entry_into_force: 2019-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/26/2019012376/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2019. - Decreet houdende invoering van een systeem van garanties van oorsprong voor gas, warmte en koude

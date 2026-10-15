@@ -13,7 +13,7 @@ entry_into_force: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007201825/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2007. - Décret modifiant le décret du 22 décembre 1994 relatif à la publicité de l'administration.

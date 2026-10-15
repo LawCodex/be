@@ -13,7 +13,7 @@ entry_into_force: 2019-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/21/2019010202/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 30 mei 2018 tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de verdeling van de reserves van de krachtens de AKBW erkende vrije fondsen op het moment van de overname van het beheer en van de betaling van de kinderbijslag door een deelentiteit

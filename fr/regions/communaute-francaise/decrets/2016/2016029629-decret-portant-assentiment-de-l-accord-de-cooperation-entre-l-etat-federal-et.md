@@ -13,7 +13,7 @@ entry_into_force: 2017-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/01/2016029629/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2016. - Décret portant assentiment de l'Accord de coopération entre l'Etat fédéral et la Communauté française concernant les modalités de financement et de fonctionnement de la Section internationale de l'Ecole internationale du Shape

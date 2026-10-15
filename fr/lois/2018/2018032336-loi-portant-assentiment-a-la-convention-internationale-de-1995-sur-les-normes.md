@@ -12,7 +12,7 @@ entry_into_force: 2019-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/10/2018032336/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2018. - Loi portant assentiment à la Convention internationale de 1995 sur les normes de formation du personnel des navires de pêche, de délivrance des brevets et de veille, faite à Londres le 7 juillet 1995

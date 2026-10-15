@@ -13,7 +13,7 @@ entry_into_force: 2009-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/20/2009035296/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2009. - Decreet tot wijziging van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine en middelgrote ondernemingen

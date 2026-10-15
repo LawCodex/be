@@ -13,7 +13,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/13/2014029197/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2014. - Décret portant assentiment à l'accord de coopération conclue le 19 décembre 2013 entre la Communauté française, la Communauté germanophone, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-capitale, relatif à la création du Conseil Wallonie-Bruxelles de la Coopération internationale (CWBCI)

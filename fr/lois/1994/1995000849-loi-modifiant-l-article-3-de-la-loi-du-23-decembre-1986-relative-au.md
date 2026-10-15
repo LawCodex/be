@@ -12,7 +12,7 @@ entry_into_force: 1994-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/28/1995000849/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1994. - Loi modifiant l'article 3 de la loi du 23 décembre 1986 relative au recouvrement et au contentieux en matière de taxes provinciales et locales.

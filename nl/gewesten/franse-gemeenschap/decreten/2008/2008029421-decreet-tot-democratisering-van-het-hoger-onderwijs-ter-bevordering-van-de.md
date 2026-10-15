@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008029421/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2008 en tekstbijwerking tot 27-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet tot democratisering van het hoger onderwijs, ter bevordering van de slaagkansen van de studenten en tot oprichting van het Waarnemingscentrum voor het hoger onderwijs (VERTALING)

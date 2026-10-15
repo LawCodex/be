@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/04/2016035396/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-04-2016 et mise à jour au 11-03-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2016. - Décret relatif à la politique flamande des groupes cibles

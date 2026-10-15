@@ -13,7 +13,7 @@ entry_into_force: 2026-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/16/2026003464/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 2026. - Decreet tot wijziging van de voorwaarden voor het behalen van het diploma van bachelor verpleegkundige verantwoordelijk voor algemene zorg, waarbij de opleiding tot het brevet van ziekenhuisverpleegkundige geleidelijk wordt beëindigd en de opleiding tot het brevet van hoger onderwijs verpleegassistent wordt ingesteld

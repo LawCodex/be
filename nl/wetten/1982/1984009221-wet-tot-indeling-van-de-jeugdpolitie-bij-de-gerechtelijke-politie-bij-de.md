@@ -12,7 +12,7 @@ entry_into_force: 1984-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1982/12/02/1984009221/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1982. - Wet tot indeling van de jeugdpolitie bij de gerechtelijke politie bij de parketten.

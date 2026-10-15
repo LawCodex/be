@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/17/2000035791/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Décret portant assentiment au Traité d'entente et de coopération entre le royaume de Belgique, la Communauté flamande de Belgique, la Communauté française de Belgique, la Communauté germanophone de Belgique, la Région wallonne de Belgique, la Région flamande de Belgique, la Région de Bruxelles-Capitale de Belgique et l'Ukraine, signé à Bruxelles le 23 avril 1997 (TRADUCTION).

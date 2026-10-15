@@ -12,7 +12,7 @@ entry_into_force: 1994-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/15/1994000761/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1993. - Loi portant modification des articles 65 et 67 de la nouvelle loi communale et y insérant un article 136bis.

@@ -13,7 +13,7 @@ entry_into_force: 2004-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004200984/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2004. - Décret portant suppression de l'obligation de produire des copies certifiées conformes de documents.

@@ -13,7 +13,7 @@ entry_into_force: 2018-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018201903/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot wijziging van de artikelen 15, 22 en 27 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

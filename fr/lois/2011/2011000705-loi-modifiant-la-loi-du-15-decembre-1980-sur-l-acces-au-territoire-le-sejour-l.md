@@ -12,7 +12,7 @@ entry_into_force: 2011-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/09/12/2011000705/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBRE 2011. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, en vue de l'octroi d'une autorisation de séjour temporaire au mineur étranger non accompagné

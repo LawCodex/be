@@ -12,7 +12,7 @@ entry_into_force: 1999-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/15/1999002006/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1998. - Loi modifiant la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités et la loi du 1er septembre 1980 relative à l'octroi et au paiement d'une prime syndicale à certains membres du personnel du secteur public et aux chômeurs mis au travail dans ce secteur.

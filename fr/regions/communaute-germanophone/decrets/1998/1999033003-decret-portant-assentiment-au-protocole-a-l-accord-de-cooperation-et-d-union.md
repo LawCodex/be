@@ -13,7 +13,7 @@ entry_into_force: 1999-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/14/1999033003/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 1998. - Décret portant assentiment au Protocole à l'Accord de coopération et d'union douanière entre la Communauté économique européenne et la République de Saint-Marin à la suite de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne et à l'Acte final, signés à Bruxelles le 30 octobre 1997 (TRADUCTION).

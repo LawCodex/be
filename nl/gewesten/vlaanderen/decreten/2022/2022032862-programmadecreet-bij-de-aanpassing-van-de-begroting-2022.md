@@ -13,7 +13,7 @@ entry_into_force: 2022-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022032862/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Programmadecreet bij de aanpassing van de begroting 2022

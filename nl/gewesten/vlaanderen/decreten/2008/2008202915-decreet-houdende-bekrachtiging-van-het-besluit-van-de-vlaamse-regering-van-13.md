@@ -13,7 +13,7 @@ entry_into_force: 2007-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008202915/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet houdende bekrachtiging van het besluit van de Vlaamse Regering van 13 juli 2007 houdende toewijzing van de goederen, de rechten en verplichtingen aan het intern verzelfstandigd agentschap met rechtspersoonlijkheid Bloso.

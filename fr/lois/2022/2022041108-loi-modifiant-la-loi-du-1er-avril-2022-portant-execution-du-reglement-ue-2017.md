@@ -12,7 +12,7 @@ entry_into_force: 2022-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/05/2022041108/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Loi modifiant la loi du 1er avril 2022 portant exécution du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l'égard de la chaîne d'approvisionnement pour les importateurs de l'Union qui importent de l'étain, du tantale et du tungstène, leurs minerais et de l'or provenant de zones de conflit ou à haut risque

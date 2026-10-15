@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/04/2021020418/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-03-2021 en tekstbijwerking tot 06-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2021. - Decreet houdende organisatie van de begroting, de boekhouding en de verslaggeving van de openbare bestuursinstellingen van de Franse Gemeenschap

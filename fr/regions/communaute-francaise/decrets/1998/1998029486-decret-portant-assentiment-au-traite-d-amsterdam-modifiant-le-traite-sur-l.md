@@ -13,7 +13,7 @@ entry_into_force: 1998-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/13/1998029486/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1998. - Décret portant assentiment au Traité d'Amsterdam modifiant le Traité sur l'Union européenne, les traités instituant les Communautés européennes et certains actes connexes, à l'Annexe, aux protocoles additionnels et à l'Acte final, faits à Amsterdam le 2 octobre 1997.

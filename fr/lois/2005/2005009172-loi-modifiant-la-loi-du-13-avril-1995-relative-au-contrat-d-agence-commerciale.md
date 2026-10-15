@@ -12,7 +12,7 @@ entry_into_force: 2005-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/21/2005009172/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2005. - Loi modifiant la loi du 13 avril 1995 relative au contrat d'agence commerciale en vue de protéger les candidats et les membres des organes de concertation paritaire.

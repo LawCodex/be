@@ -12,7 +12,7 @@ entry_into_force: 1988-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/07/14/1988015180/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1987. - Wet houdende goedkeuring van het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake de financiering op lange termijn van het Programma voor samenwerking inzake de bewaking en de evaluatie van de bewegingen van luchtverontreinigende stoffen over lange afstand in Europa (E.M.E.P.), opgemaakt te Genève op 28 september 1984.

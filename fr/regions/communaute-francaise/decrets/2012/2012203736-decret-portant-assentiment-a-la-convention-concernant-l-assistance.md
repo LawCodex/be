@@ -13,7 +13,7 @@ entry_into_force: 2012-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/31/2012203736/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2012. - Décret portant assentiment à la Convention concernant l'assistance administrative mutuelle en matière fiscale, et les annexes A, B et C, faites à Strasbourg le 25 janvier 1988 telles que modifiées par le Protocole d'amendement, fait à Paris le 27 mai 2010

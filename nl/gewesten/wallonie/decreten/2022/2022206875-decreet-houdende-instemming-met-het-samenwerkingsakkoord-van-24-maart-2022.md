@@ -13,7 +13,7 @@ entry_into_force: 2022-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/24/2022206875/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2022. - Decreet houdende instemming met het samenwerkingsakkoord van 24 maart 2022 tussen het Waalse Gewest en de Franse Gemeenschap betreffende de opheffing van de gezamenlijke decreten van 12 juli 2017 en 19 juli 2017 betreffende het hergebruik van informatie van de publieke sector en tot vaststelling van een open gegevensbeleid

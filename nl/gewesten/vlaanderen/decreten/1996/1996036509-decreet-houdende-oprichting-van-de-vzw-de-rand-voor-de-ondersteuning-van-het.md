@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/17/1996036509/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "deze tekst wordt opgeheven door artikel 14 van DVR 2004-05-07/37 met onbepaalde inwerkingtreding) - (NOTA : Raadpleging van vroegere versies vanaf 18-12-1996 en tekstbijwerking tot 28-05-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1996. - Decreet houdende oprichting van de vzw. "De Rand" voor de ondersteuning van het Nederlandstalige karakter van de Vlaamse rand rond Brussel. -

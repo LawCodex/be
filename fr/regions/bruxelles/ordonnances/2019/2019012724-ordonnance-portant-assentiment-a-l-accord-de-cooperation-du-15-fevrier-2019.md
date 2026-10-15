@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012724/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance portant assentiment à l'accord de coopération du 15 février 2019 conclu entre la Communauté française, la Communauté flamande, la Communauté germanophone et la Commission communautaire commune de Bruxelles-Capitale relatif à la classification des films diffusés dans les salles de cinéma belges

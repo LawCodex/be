@@ -11,7 +11,7 @@ entry_into_force: 1995-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/23/1995015092/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1994. - Wet houdende goedkeuring van het Verdrag betreffende de toetreding van Oostenrijk, Finland, Noorwegen en Zweden tot de Europese Unie, Bijlagen, Protocollen en Slotakte, te Korfoe op 24 juni 1994.

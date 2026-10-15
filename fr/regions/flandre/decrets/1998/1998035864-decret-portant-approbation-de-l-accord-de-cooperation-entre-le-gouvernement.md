@@ -13,7 +13,7 @@ entry_into_force: 1998-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/07/1998035864/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1998. - Décret portant approbation de l'accord de coopération entre le Gouvernement flamand et le Gouvernement de la Roumanie, signé à Bucarest le 12 juin 1997 (TRADUCTION).

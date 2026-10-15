@@ -13,7 +13,7 @@ entry_into_force: 2024-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/11/23/2023047519/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2023. - Ordonnantie houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Oeganda inzake het op grond van wederkerigheid verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, gedaan te Kampala op 8 december 2022

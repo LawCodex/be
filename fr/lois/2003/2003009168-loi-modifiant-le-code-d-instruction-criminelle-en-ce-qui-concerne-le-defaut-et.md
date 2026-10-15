@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/12/2003009168/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2003. - Loi modifiant le Code d'instruction criminelle en ce qui concerne le défaut et abrogeant l'article 421 du même Code.

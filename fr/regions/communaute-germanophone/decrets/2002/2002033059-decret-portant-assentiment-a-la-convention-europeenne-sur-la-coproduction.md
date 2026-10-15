@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/06/2002033059/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2002. - Décret portant assentiment à la Convention européenne sur la coproduction cinématographique et aux Annexes I et II, faites à Strasbourg le 2 octobre 1992 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019013216/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet houdende instemming met de Overeenkomst tussen Koninkrijk België en het Europees Ruimteagentschap ter aanvulling van het Verdrag tot oprichting van een Europees Ruimteagentschap van 30 mei 1975, over de voorrechten en immuniteiten van het Europees Ruimteagentschap in België, gedaan te Brussel op 24 mei 2017

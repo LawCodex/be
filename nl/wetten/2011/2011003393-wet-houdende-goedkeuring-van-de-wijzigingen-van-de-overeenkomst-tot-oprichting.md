@@ -12,7 +12,7 @@ entry_into_force: 2011-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/26/2011003393/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2011. - Wet houdende goedkeuring van de wijzigingen van de Overeenkomst tot oprichting van het Multilaterale Agentschap voor Investeringsgaranties, en van de Bijlagen, opgemaakt te Seoul op 11 november 1985, bij resolutie nr. 86 van 30 juli 2010 van de Raad van gouverneurs van het Multilaterale Agentschap voor Investeringsgaranties met het oog op het moderniseren van het mandaat van het Multilaterale Agentschap voor Investeringsgaranties

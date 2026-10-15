@@ -12,7 +12,7 @@ entry_into_force: 2007-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/17/2006012616/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2005. - Loi portant assentiment à l'accord de coopération du 30 avril 2004 entre l'Etat fédéral, les Régions et les Communautés relatif à l'accompagnement et au suivi actifs des chômeurs.

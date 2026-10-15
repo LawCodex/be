@@ -12,7 +12,7 @@ entry_into_force: 2014-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/02/2014011218/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2014. - Wet houdende invoeging van boek X "Handelsagentuurovereenkomsten, commerciële samenwerkingsovereenkomsten en verkoopconcessies" in het Wetboek van economisch recht, en houdende invoeging van de definities eigen aan boek X in boek I van het Wetboek van economisch recht

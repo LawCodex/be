@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/16/2008201887/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2008 et mise à jour au 27-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2008. - Décret relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière (TRADUCTION)

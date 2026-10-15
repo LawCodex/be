@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/17/1997012098/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 08-04-1997 et mis à jour au 05-01-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1997. - Loi relative au travail de nuit.

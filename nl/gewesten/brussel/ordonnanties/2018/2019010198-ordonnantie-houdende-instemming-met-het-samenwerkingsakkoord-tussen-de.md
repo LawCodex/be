@@ -13,7 +13,7 @@ entry_into_force: 2019-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/21/2019010198/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie betreffende de oprichting en de werking van de Permanente Overlegcommissie inzake niet-dringend ziekenvervoer

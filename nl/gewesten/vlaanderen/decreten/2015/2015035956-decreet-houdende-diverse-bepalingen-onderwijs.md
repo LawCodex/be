@@ -12,7 +12,7 @@ published: 2015-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/03/2015035956/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2015. - DECREET houdende diverse bepalingen onderwijs

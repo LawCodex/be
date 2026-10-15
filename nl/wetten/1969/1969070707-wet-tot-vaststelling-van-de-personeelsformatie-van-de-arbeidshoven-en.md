@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/07/07/1969070707/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 05-11-1985 en tekstbijwerking tot 30-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1969. - Wet tot vaststelling van de personeelsformatie van de arbeidshoven en -rechtbanken.

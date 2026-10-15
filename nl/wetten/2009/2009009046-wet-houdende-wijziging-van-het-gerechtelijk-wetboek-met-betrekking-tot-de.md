@@ -12,7 +12,7 @@ entry_into_force: 2009-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/01/26/2009009046/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2009. - Wet houdende wijziging van het Gerechtelijk Wetboek met betrekking tot de continuïteit van de ondernemingen.

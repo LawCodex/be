@@ -13,7 +13,7 @@ entry_into_force: 2026-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/12/2026000156/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2025. - Décret modifiant le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, le Décret-cadre Maintien flamand du 14 juillet 2023 et le décret du 26 avril 2024 modifiant divers décrets, en ce qui concerne la mise en oeuvre du Décret-cadre Maintien flamand du 14 juillet 2023

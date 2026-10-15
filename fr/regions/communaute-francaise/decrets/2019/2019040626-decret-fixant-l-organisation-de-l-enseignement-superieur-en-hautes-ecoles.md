@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/21/2019040626/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-03-2019 et mise à jour au 06-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2019. - Décret fixant l'organisation de l'enseignement supérieur en Hautes Ecoles

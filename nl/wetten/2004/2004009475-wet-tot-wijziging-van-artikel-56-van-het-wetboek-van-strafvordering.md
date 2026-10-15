@@ -12,7 +12,7 @@ entry_into_force: 2004-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/21/2004009475/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2004. - Wet tot wijziging van artikel 56 van het Wetboek van strafvordering.

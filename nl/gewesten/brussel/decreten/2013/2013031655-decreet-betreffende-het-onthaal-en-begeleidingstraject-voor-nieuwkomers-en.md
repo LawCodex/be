@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/18/2013031655/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 18-09-2013 en tekstbijwerking tot 02-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2013. - Decreet betreffende het [onthaal- en begeleidingstraject voor nieuwkomers en buitenlanders] in het Brussels Hoofdstelijk Gewest &lt;DEC 2022-06-10/11 , art. 2, 003; Inwerkingtreding : 01-04-2022&gt;

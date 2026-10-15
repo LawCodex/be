@@ -13,7 +13,7 @@ entry_into_force: 2019-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/16/2019012674/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Gezamenlijk decreet en ordonnantie van het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie betreffende de openbaarheid van bestuur bij de Brusselse instellingen

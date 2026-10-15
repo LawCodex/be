@@ -12,7 +12,7 @@ entry_into_force: 1991-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/01/09/1991009084/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 1991. - Loi relative à l'effacement des condamnations et à la réhabilitation en matière pénale.

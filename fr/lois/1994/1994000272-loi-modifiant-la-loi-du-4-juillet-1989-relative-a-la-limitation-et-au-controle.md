@@ -12,7 +12,7 @@ entry_into_force: 1994-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/19/1994000272/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1994. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales ainsi qu'au financement et à la comptabilité ouverte des partis politiques et modifiant le Code électoral.

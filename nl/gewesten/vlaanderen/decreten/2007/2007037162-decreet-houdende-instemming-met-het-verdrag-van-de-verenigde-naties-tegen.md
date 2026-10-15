@@ -13,7 +13,7 @@ entry_into_force: 2008-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/23/2007037162/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2007. - Decreet houdende instemming met het Verdrag van de Verenigde Naties tegen corruptie, opgemaakt in New York op 31 oktober 2003.

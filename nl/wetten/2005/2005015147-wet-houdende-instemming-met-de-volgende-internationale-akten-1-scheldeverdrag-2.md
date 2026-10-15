@@ -10,7 +10,7 @@ date: 2005-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/10/06/2005015147/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2005. - Wet houdende instemming met de volgende Internationale Akten : 1° Scheldeverdrag; 2° Maasverdrag, gedaan te Gent op 3 december 2002.

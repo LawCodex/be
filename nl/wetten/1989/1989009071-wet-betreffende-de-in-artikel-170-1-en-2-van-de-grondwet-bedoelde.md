@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/01/23/1989009071/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-1993 en tekstbijwerking tot 12-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 1989. - [Wet betreffende de in artikel [170], §§ 1 en 2, van de Grondwet bedoelde [belastingbevoegdheid].] &lt;W 2024-06-02/02 , art. 2, 006; Inwerkingtreding : 22-06-2024&gt; &lt;W 1993-07-16/31, art. 354, 002; Inwerkingtreding : 30-07-1993&gt;

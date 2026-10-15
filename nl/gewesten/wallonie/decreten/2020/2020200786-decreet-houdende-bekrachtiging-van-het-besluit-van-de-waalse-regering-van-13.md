@@ -13,7 +13,7 @@ entry_into_force: 2020-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/02/06/2020200786/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2020. - Decreet houdende bekrachtiging van het besluit van de Waalse Regering van 13 december 2018 tot vervanging van bijlage 1 bij het decreet van 1 maart 2018 betreffende bodembeheer en bodemsanering

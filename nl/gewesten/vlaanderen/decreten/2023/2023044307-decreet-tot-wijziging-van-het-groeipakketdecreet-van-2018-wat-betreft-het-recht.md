@@ -13,7 +13,7 @@ entry_into_force: 2023-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/14/2023044307/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2023. - Decreet tot wijziging van het Groeipakketdecreet van 2018, wat betreft het recht op selectieve participatietoeslagen voor leerlingen die materiële ondersteuning krijgen

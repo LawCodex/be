@@ -12,7 +12,7 @@ entry_into_force: 1989-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/18/1998003351/justel"
 department: "Finances - Prévoyance Sociale - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1998. - Loi modifiant la législation relative aux pensions et aux rentes de guerre.

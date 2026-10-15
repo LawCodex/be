@@ -13,7 +13,7 @@ entry_into_force: 1993-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/27/1994033078/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1994. - Décret modifiant l'article 6 du décret du 27 juin 1990 fixant la facon de déterminer les fonctions du personnel dans l'enseignement spécial.

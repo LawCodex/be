@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1858/03/12/1858031250/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2003 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 1858. - LOI portant révision du second livre du Code pénal en ce qui concerne les crimes et délits qui portent atteinte aux relations internationales.

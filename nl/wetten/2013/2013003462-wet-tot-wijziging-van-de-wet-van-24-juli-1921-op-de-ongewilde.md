@@ -12,7 +12,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2013003462/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet tot wijziging van de wet van 24 juli 1921 op de ongewilde buitenbezitstelling van de titels aan toonder, van de wet van 14 december 2005 houdende afschaffing van de effecten aan toonder en van hoofdstuk V van de wet van 24 juli 2008 houdende diverse bepalingen (i), voor wat betreft de slapende safes

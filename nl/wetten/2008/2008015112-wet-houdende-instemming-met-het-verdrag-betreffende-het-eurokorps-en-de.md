@@ -12,7 +12,7 @@ entry_into_force: 2009-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/19/2008015112/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2008. - Wet houdende instemming met het Verdrag betreffende het Eurokorps en de rechtspositie van zijn Hoofdkwartier tussen de Franse Republiek, de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Spanje en het Groothertogdom Luxemburg, en met de Slotakte, gedaan te Brussel op 22 november 2004.

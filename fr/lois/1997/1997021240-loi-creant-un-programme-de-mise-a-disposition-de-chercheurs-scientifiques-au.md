@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/18/1997021240/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1997. - Loi créant un programme de mise à disposition de chercheurs scientifiques au bénéfice des établissements d'enseignement universitaire et des établissements scientifiques fédéraux.

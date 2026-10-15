@@ -13,7 +13,7 @@ entry_into_force: 1996-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/08/1996035885/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1996. - Décret portant approbation de la Convention sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, ainsi que des annexes I, II, III et IV, signées à Helsinki le 17 mars 1992 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2023-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/16/2023041294/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2023. - Decreet betreffende de oprichting van een centraal overlegcomité voor "Wallonie-Bruxelles Enseignement"

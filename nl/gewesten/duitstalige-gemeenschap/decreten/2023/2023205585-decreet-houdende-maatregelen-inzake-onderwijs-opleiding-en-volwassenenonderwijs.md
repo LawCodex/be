@@ -11,7 +11,7 @@ date: 2023-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/26/2023205585/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2023. - Decreet houdende maatregelen inzake onderwijs, opleiding en volwassenenonderwijs en ter bestrijding van bepaalde vormen van discriminatie - 2023

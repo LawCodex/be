@@ -13,7 +13,7 @@ entry_into_force: 1989-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/11/27/1997027653/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1997. - Décret modifiant le décret du 27 mars 1985 relatif au régime de pension applicable au personnel des organismes d'intérêt public relevant de la Région wallonne.

@@ -12,7 +12,7 @@ entry_into_force: 2017-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/20/2016206258/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2016. - Wet houdende diverse bepalingen inzake arbeidsrecht in het kader van arbeidsongeschiktheid

@@ -13,7 +13,7 @@ entry_into_force: 2022-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/08/2022034728/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2022. - Décret modifiant le décret du 3 avril 2009 relatif à la protection contre les éventuels effets nocifs et nuisances provoqués par les rayonnements non ionisants générés par des antennes émettrices stationnaires

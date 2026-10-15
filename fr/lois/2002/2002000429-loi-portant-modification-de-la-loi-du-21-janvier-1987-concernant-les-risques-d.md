@@ -12,7 +12,7 @@ entry_into_force: 2002-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/26/2002000429/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2002. - Loi portant modification de la loi du 21 janvier 1987 concernant les risques d'accidents majeurs de certaines activités industrielles.

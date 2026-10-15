@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/03/2016201296/justel"
 department: "Service public de Wallonie"
 justel_note: "par son arrêt n° 32/2018 du 15 mars 2018, M.B. du 30-05-2018, la Cour constitutionnelle annule le présent décret et maintient définitivement les effets de ce décret jusqu'à la prochaine date anniversaire des baux qui suit le 31 mars 2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2016. - Décret visant à réaliser un saut d'index des loyers

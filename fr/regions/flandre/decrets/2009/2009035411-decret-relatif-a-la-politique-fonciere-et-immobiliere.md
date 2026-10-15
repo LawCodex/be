@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/27/2009035411/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-05-2009 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2009. - Décret relatif à la politique foncière et immobilière

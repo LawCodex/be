@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024006591/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-07-2024 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret modifiant le décret du 20 janvier 2012 réglant l'adoption internationale d'enfants, en ce qui concerne l'accompagnement dans le cadre de l'adoption internationale et le décret du 29 juin 2012 portant organisation du placement familial et le décret réglant l'adoption nationale d'enfants du 3 juillet 2015, en ce qui concerne l'introduction d'un trajet préalable commun placement familial-adoption

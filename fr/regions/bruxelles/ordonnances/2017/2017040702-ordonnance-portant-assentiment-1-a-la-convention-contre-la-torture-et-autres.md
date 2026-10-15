@@ -13,7 +13,7 @@ entry_into_force: 2017-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/27/2017040702/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2017. - Ordonnance portant assentiment : 1° à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, adoptée à New York le 10 décembre 1984 ; 2° au Protocole facultatif se rapportant à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, adopté à New York le 18 décembre 2002

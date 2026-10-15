@@ -13,7 +13,7 @@ entry_into_force: 2022-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/23/2022020076/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Décret portant diverses dispositions relatives au transport commun, la politique générale de mobilité, l'infrastructure et la politique routières, et l'infrastructure hydraulique et la politique de l'eau, et portant un règlement de subvention visant à promouvoir un transfert modal dans le transport de marchandises

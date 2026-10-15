@@ -13,7 +13,7 @@ entry_into_force: 2006-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203882/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'Instrument portant amendement à la Constitution de l'Organisation internationale du Travail, adopté par la Conférence internationale du Travail à sa quatre-vingt-cinquième session à Genève, le 19 juin 1997.

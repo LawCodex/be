@@ -13,7 +13,7 @@ entry_into_force: 2000-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/20/2000029270/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2000. - Décret portant assentiment de l'accord de coopération entre la Communauté française et la Région wallonne portant sur le financement de la coopération dans le cadre de politiques croisées, sur les Fonds structurels européens et sur le développement des entreprises culturelles.

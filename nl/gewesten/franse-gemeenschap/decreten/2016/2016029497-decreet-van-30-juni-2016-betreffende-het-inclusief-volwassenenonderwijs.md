@@ -17,7 +17,7 @@ department: "Franse Gemeenschap"
 justel_notes:
   - "Opschrift vervangen door BFG 2025-07-18/42 , art. 45, 006; Inwerkingtreding : 25-08-2025"
   - "Raadpleging van vroegere versies vanaf 26-10-2016 en tekstbijwerking tot 18-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2016. - Decreet van 30 juni 2016 betreffende het inclusief Volwassenenonderwijs

@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202292/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van sommige bepalingen van het decreet van 12 februari 2004 betreffende de regeringscommissaris voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet en betreffende de controleopdrachten van de revisoren binnen de instellingen van openbaar nut, alsook de versterking van de transparantie bij de toekenning van overheidsopdrachten van revisoren door een Waalse aanbestedende overheid

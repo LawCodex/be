@@ -12,7 +12,7 @@ entry_into_force: 2026-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/28/2026201798/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2026. - Loi portant modification de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale et de la loi du 17 juillet 2001 relative à l'autorisation pour les services publics fédéraux de s'associer en vue de l'exécution de travaux relatifs à la gestion et à la sécurité de l'information

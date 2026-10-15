@@ -13,7 +13,7 @@ entry_into_force: 1996-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/11/22/1996035225/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 1995. - Décret portant deuxième ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 1995. (TRADUCTION)

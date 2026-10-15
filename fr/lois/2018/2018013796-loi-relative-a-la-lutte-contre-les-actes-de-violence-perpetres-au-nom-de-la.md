@@ -12,7 +12,7 @@ entry_into_force: 2018-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/18/2018013796/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2018. - Loi relative à la lutte contre les actes de violence perpétrés au nom de la culture, de la coutume, de la religion, de la tradition ou du prétendu "honneur", y compris les mutilations génitales

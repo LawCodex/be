@@ -11,7 +11,7 @@ published: 2019-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019041115/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2019. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven teneinde de maatschappelijke benaming van het autonoom overheidsbedrijf "Belgocontrol" te wijzigen in "skeyes"

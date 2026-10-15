@@ -11,7 +11,7 @@ published: 1978-09-28
 entry_into_force: 1978-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/03/29/1978032907/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 1978. \_ Loi portant approbation de la Convention n° 123 concernant l'âge minimum d'admission aux travaux souterrains dans les mines, adoptée à Genève le 22 juin 1965 par la Conférence générale de l'Organisation internationale du Travail au cours de sa quarante-neuvième session.

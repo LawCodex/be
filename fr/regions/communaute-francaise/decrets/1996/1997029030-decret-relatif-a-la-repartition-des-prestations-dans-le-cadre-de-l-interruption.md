@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997029030/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-05-1997 et mise à jour au 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Décret relatif à la répartition des prestations dans le cadre de l'interruption de la carrière des membres du personnel de l'enseignement et des centres psycho-médico-sociaux

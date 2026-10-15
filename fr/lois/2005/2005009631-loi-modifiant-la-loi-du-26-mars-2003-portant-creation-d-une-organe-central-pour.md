@@ -12,7 +12,7 @@ entry_into_force: 2005-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/20/2005009631/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Loi modifiant la loi du 26 mars 2003 portant création d'une Organe central pour la Saisie et la Confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales.

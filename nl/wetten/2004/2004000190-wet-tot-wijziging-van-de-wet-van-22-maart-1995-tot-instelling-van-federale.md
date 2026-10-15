@@ -12,7 +12,7 @@ entry_into_force: 2004-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/11/2004000190/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2004. - Wet tot wijziging van de wet van 22 maart 1995 tot instelling van federale ombudsmannen.

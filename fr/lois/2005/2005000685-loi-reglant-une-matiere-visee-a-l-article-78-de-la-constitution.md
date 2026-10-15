@@ -12,7 +12,7 @@ entry_into_force: 2005-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/19/2005000685/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2005. - Loi réglant une matière visée à l'article 78 de la Constitution.

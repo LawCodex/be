@@ -11,7 +11,7 @@ date: 2015-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/22/2015029561/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2015. - Decreet houdende instemming met de overeenkomst tussen de Belgische regering en de Macedonische regering tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen en tot het voorkomen van het ontduiken van belasting, ondertekend te Brussel op 6 juli 2010

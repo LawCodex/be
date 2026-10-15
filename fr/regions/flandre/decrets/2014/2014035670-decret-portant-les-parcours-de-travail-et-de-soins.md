@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035670/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2018 et mise à jour au 03-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant les parcours de travail et de soins

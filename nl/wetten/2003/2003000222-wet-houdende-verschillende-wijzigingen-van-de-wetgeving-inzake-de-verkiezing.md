@@ -12,7 +12,7 @@ entry_into_force: 2003-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/11/2003000222/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2003. - Wet houdende verschillende wijzigingen van de wetgeving inzake de verkiezing van het Europees Parlement evenals zijn bijlage.

@@ -12,7 +12,7 @@ entry_into_force: 1999-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999002052/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi modifiant la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.

@@ -12,7 +12,7 @@ published: 2015-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/19/2015035048/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2014. - Décret portant adaptation du décret antidopage du 25 mai 2012 au Code 2015

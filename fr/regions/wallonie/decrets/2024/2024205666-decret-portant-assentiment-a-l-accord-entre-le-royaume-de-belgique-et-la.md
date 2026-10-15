@@ -13,7 +13,7 @@ entry_into_force: 2024-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/14/2024205666/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2024. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et la République du Kosovo sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Bruxelles le 17 juin 2022

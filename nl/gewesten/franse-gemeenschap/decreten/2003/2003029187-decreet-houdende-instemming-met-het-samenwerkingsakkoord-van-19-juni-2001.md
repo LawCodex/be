@@ -12,7 +12,7 @@ published: 2003-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/27/2003029187/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2003. - Decreet houdende instemming met het samenwerkingsakkoord van 19 juni 2001 inzake de medisch verantwoorde sportbeoefening, gesloten tussen de Franse Gemeenschap, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2024-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/06/2024001222/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2024. - Wet houdende wijziging van de wet van 13 juni 2005 betreffende de elektronische communicatie ter gedeeltelijke omzetting van Richtlijn (EU) 2022/2380 van het Europees Parlement en de Raad van 23 november 2022 tot wijziging van Richtlijn 2014/53/EU betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van radioapparatuur

@@ -12,7 +12,7 @@ entry_into_force: 2023-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/09/18/2023015091/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2022. - Wet houdende instemming met het Samenwerkingsakkoord van 17 juli 2019 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest met betrekking tot de eenmaking van de wijze waarop gerefereerd wordt aan adressen en de koppeling van adresgegevens

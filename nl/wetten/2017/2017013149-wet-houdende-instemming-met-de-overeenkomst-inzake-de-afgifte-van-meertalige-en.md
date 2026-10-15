@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/30/2017013149/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 24-11-2017 en tekstbijwerking tot 11-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2017. - Wet houdende instemming met de Overeenkomst inzake de afgifte van meertalige en gecodeerde uittreksels uit en attesten van de burgerlijke stand, en bijlagen, gedaan te Straatsburg op 14 maart 2014

@@ -13,7 +13,7 @@ entry_into_force: 2026-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/09/2026005390/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2026. - Décret portant assentiment à l'Accord-cadre entre le Royaume de Belgique et le Grand-Duché de Luxembourg sur la coopération sanitaire transfrontalière, signé à Bruxelles le 29 mars 2023

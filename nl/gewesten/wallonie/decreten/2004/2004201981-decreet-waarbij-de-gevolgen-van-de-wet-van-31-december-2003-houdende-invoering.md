@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004201981/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet waarbij de gevolgen van de wet van 31 december 2003 houdende invoering van een eenmalige bevrijdende aangifte van toepassing worden gemaakt op de gewestelijke belastingen

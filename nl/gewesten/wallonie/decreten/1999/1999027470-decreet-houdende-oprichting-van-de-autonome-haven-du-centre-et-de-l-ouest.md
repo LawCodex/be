@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027470/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-1999 en tekstbijwerking tot 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet houdende oprichting van de Autonome Haven " du Centre et de l'Ouest " (VERTALING)

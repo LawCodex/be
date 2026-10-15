@@ -12,7 +12,7 @@ entry_into_force: 2024-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/09/2024002131/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2024. - Wet tot wijziging van de wet van 28 juli 1981 houdende de goedkeuring van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten en van de bijlagen, opgemaakt te Washington op 3 maart 1973, alsmede van de wijziging van de Overeenkomst, aangenomen te Bonn op 22 juni 1979

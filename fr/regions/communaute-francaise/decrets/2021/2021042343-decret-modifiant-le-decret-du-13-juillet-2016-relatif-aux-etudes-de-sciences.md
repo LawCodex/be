@@ -13,7 +13,7 @@ entry_into_force: 2021-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/17/2021042343/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2021. - Décret modifiant le décret du 13 juillet 2016 relatif aux études de sciences vétérinaires

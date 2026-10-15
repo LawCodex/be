@@ -12,7 +12,7 @@ entry_into_force: 2004-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/14/2004009509/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2004. - Wet van 14 juni 2004 tot wijziging van artikelen 213 en 223 van het Wetboek van vennootschappen.

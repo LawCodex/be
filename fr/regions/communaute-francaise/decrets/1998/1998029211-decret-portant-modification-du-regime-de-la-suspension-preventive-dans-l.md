@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/06/1998029211/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1998. - Décret portant modification du régime de la suspension préventive dans l'enseignement organisé et subventionné par la Communauté francaise.

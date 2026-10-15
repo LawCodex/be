@@ -13,7 +13,7 @@ entry_into_force: 2012-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/09/24/2012206002/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2012. - Décret portant assentiment au Protocole signé à Bruxelles le 7 juillet 2009 modifiant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999

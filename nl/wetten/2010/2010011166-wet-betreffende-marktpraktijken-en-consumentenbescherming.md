@@ -16,7 +16,7 @@ department: "Economie, KMO, Middenstand en Energie"
 justel_notes:
   - "de artikelen 110 tot 113 opgeheven bij <W 2013-12-26/37 , art. 5; Inwerkingtreding : 31-05-2014> voor zover ze van toepassing zijn op de aangelegenheden geregeld door overeenkomstige bepalingen van het Wetboek van economisch recht, zoals ingevoegd bij W 2013-12-26/37 "
   - "Raadpleging van vroegere versies vanaf 12-04-2010 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2010. - Wet betreffende marktpraktijken en consumentenbescherming.

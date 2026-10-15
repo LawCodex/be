@@ -12,7 +12,7 @@ entry_into_force: 1983-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/11/14/1983001332/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 1983. - Wet betreffende de controle op de toekenning en op de aanwending van sommige toelagen.

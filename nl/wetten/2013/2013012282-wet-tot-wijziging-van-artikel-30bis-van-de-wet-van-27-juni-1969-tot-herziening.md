@@ -12,7 +12,7 @@ entry_into_force: 2013-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/08/2013012282/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2013. - Wet tot wijziging van artikel 30bis van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders en tot aanpassing van de bepalingen van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk die betrekking hebben op de voorafgaande aangifte en op de registratie van aanwezigheden voor wat de tijdelijke of mobiele bouwplaatsen betreft

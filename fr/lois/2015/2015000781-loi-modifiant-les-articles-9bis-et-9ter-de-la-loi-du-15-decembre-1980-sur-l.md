@@ -12,7 +12,7 @@ entry_into_force: 2016-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/14/2015000781/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2015. - Loi modifiant les articles 9bis et 9ter de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers

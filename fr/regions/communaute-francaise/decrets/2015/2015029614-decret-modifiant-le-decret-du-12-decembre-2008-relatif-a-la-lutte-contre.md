@@ -13,7 +13,7 @@ entry_into_force: 2015-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/13/2015029614/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2015. - Décret modifiant le décret du 12 décembre 2008 relatif à la lutte contre certaines formes de discrimination

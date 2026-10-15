@@ -13,7 +13,7 @@ entry_into_force: 2012-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/16/2012029166/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2012. - Décret modifiant le décret du 14 juillet 1997 portant organisation de la promotion de la santé

@@ -12,7 +12,7 @@ entry_into_force: 2019-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/13/2020201242/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2020. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994, en ce qui concerne la création d'une commission de remboursement des produits et des prestations pharmaceutiques

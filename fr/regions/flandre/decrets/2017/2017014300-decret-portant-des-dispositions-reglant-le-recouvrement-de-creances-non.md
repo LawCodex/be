@@ -13,7 +13,7 @@ entry_into_force: 2017-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/08/2017014300/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2017. - Décret portant des dispositions réglant le recouvrement de créances non fiscales pour la Communauté flamande et pour la Région flamande et les organismes qui en relèvent, des dispositions fiscales diverses et la reprise du service de la taxe sur les jeux et paris, sur les appareils automatiques de divertissement et de la taxe d'ouverture de débits de boissons fermentées

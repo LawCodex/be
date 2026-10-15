@@ -11,7 +11,7 @@ date: 2023-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/28/2023205838/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2023. - Decreet houdende instemming met het samenwerkingsakkoord van 19 maart 2021 tussen het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie inzake het toezicht en de naleving van de gewestelijke wetgevingen betreffende tewerkstelling

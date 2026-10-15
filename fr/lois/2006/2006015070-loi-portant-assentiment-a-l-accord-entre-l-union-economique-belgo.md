@@ -12,7 +12,7 @@ entry_into_force: 2021-11-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/04/03/2006015070/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2006. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République démocratique du Congo, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Kinshasa le 17 février 2005

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/30/2008202393/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-07-2008 et mise à jour au 31-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2008. - Décret relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales (TRADUCTION).

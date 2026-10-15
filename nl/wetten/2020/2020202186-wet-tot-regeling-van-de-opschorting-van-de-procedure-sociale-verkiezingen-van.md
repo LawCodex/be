@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/04/2020202186/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 13-05-2020 en tekstbijwerking tot 17-11-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2020. - Wet tot regeling van de opschorting van de procedure sociale verkiezingen van het jaar 2020 ingevolge de coronavirus COVID-19-pandemie

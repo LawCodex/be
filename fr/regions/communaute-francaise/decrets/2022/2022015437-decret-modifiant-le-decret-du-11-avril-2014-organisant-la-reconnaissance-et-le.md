@@ -13,7 +13,7 @@ entry_into_force: 2022-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/07/2022015437/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2022. - Décret modifiant le décret du 11 avril 2014 organisant la reconnaissance et le subventionnement d'une association inter universitaire d'aide à la performance sportive

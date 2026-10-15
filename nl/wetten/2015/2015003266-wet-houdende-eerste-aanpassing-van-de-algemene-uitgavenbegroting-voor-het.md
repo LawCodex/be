@@ -12,7 +12,7 @@ entry_into_force: 2015-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/20/2015003266/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2015. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2015

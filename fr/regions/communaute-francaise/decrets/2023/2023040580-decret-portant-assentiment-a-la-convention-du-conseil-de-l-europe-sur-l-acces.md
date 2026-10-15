@@ -13,7 +13,7 @@ entry_into_force: 2023-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/09/2023040580/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2023. - Décret portant assentiment à la Convention du Conseil de l'Europe sur l'accès aux documents publics, faite à Tromso le 18 juin 2009

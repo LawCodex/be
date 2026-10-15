@@ -13,7 +13,7 @@ entry_into_force: 1982-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/10/15/1992029708/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 1991. - Décret relatif au régime de pensions des membres du personnel de certains établissements ou entreprises de la Communauté francaise.

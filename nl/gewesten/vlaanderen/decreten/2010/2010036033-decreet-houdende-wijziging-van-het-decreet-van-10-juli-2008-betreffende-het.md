@@ -13,7 +13,7 @@ entry_into_force: 2011-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2010036033/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet houdende wijziging van het decreet van 10 juli 2008 betreffende het toeristische logies, wat de stedenbouwkundige conformiteit van kamergerelateerde logies betreft

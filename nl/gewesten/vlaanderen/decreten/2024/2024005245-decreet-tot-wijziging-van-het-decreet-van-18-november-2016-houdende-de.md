@@ -13,7 +13,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024005245/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet tot wijziging van het decreet van 18 november 2016 houdende de vernieuwde taakstelling en gewijzigde financiering van de provincies, wat De Warande betreft

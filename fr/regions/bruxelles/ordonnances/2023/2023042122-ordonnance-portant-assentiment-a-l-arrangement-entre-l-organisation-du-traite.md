@@ -13,7 +13,7 @@ entry_into_force: 2024-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/04/27/2023042122/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Ordonnance portant assentiment à l'Arrangement entre l'Organisation du Traité de l'Atlantique Nord et le Royaume de Belgique concernant le statut du personnel temporaire engagé par et mis en fonction dans un organisme OTAN situé sur le territoire du Royaume de Belgique, fait à Bruxelles, le 7 février 2022

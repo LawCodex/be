@@ -13,7 +13,7 @@ entry_into_force: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/12/2009200405/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2008. - Décret modifiant le décret du 2 mars 1999 autorisant le Gouvernement flamand de créer une société coopérative à responsabilité limitée en vue de l'accomplissement de missions en matière de recrutement et de sélection du personnel de la fonction publique et le décret du 7 mai 2004 relatif à l'agence autonomisée externe de droit privé "Vlaams Agentschap voor Rekrutering en Selectie" (Agence flamande de Recrutement et de Sélection) et modifiant le décret du 2 mars 1999 autorisant le Gouvernement flamand à créer une société coopérative à responsabilité limitée en vue de l'accomplissement de missions en matière de recrutement et de sélection du personnel de la fonction publique (TRADUCTION).

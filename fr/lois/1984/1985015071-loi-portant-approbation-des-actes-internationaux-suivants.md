@@ -12,7 +12,7 @@ entry_into_force: 1985-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/11/16/1985015071/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 1984. - Loi portant approbation des actes internationaux suivants :

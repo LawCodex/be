@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/10/22/2020015844/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2020. - Ordonnantie tot wijziging van de ordonnantie van 4 april 2019 betreffende de erkenning, de programmatie en de erkenningsprocedures van de ziekenhuizen, vormen van samenwerkingsverbanden tussen ziekenhuizen of ziekenhuisactiviteiten, om de samenwerking mogelijk te maken tussen ziekenhuizen waarbij een publiekrechtelijke rechtspersoon betrokken is zoals bedoeld in hoofdstuk XIIbis van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

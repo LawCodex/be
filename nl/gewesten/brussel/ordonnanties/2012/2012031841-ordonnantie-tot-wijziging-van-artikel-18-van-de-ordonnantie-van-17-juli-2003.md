@@ -13,7 +13,7 @@ entry_into_force: 2012-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/12/06/2012031841/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2012. - Ordonnantie tot wijziging van artikel 18 van de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode

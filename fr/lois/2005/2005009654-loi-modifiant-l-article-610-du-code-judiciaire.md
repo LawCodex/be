@@ -12,7 +12,7 @@ entry_into_force: 2005-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005009654/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi modifiant l'article 610 du Code judiciaire.

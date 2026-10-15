@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/07/20/2007011379/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-08-2007 en tekstbijwerking tot 08-07-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2007. - Wet tot wijziging, wat de private ziekteverzekeringsovereenkomsten betreft, van de wet van 25 juni 1992 op de landverzekeringsovereenkomst.

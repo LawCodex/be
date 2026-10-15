@@ -12,7 +12,7 @@ entry_into_force: 2024-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/14/2024004012/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2024. - Loi modifiant la loi générale sur les douanes et accises du 18 juillet 1977 en ce qui concerne les sanctions et portant dispositions diverses

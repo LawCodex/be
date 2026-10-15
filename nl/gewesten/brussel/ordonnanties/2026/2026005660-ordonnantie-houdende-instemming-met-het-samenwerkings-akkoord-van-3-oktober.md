@@ -13,7 +13,7 @@ entry_into_force: 2026-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/07/23/2026005660/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2026. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 3 oktober 2025 tot wijziging van het samenwerkingsakkoord van 31 december 2018 tussen de Vlaamse Gemeenschap, het Waals Gewest, de Franse Gemeenschap, de Gemeen-schappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de financiering van zorg bij gebruik van zorgvoorzieningen over de grenzen van de deelstaat

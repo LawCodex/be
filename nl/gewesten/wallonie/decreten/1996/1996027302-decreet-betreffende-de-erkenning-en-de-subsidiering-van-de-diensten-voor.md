@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/04/1996027302/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 23-05-1996 en tekstbijwerking tot 30-04-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 1996. - Decreet betreffende de erkenning en de subsidiëring van de diensten voor geestelijke gezondheidszorg (VERTALING).

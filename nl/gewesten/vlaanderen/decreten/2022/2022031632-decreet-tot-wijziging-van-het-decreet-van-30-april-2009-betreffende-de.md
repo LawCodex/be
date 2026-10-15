@@ -13,7 +13,7 @@ entry_into_force: 2022-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/25/2022031632/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2022. - Decreet tot wijziging van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid

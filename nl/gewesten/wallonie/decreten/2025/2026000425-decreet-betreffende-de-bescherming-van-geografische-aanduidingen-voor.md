@@ -13,7 +13,7 @@ entry_into_force: 2026-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/11/2026000425/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2025. - Decreet betreffende de bescherming van geografische aanduidingen voor ambachtelijke en industriële producten

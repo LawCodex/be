@@ -12,7 +12,7 @@ entry_into_force: 2000-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/24/2000021285/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2000. - Loi spéciale modifiant l'article 41 de la loi spéciale du 6 janvier 1989 sur la Cour d'Arbitrage.

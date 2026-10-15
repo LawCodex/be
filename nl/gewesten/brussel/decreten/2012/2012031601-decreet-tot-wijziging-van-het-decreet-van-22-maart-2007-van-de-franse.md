@@ -11,7 +11,7 @@ date: 2012-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/05/2012031601/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2012. - Decreet tot wijziging van het decreet van 22 maart 2007 van de Franse Gemeenschapscommissie betreffende de gelijkheid van behandeling van personen in de beroepsopleiding

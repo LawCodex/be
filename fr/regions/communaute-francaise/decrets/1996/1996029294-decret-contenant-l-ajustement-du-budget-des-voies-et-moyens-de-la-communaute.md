@@ -13,7 +13,7 @@ entry_into_force: 1996-09-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996029294/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret contenant l'ajustement du budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1996.

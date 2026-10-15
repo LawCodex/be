@@ -13,7 +13,7 @@ entry_into_force: 2002-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002091050/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2002. - Décret autorisant le Gouvernement à garantir des emprunts de trésorerie contractés par la RTBF.

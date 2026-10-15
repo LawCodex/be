@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1940/05/13/1940051350/justel"
 justel_notes:
   - "Consultation des versions antérieur à partir du 01-01-1990 et mis à jour au 13-03-2003"
   - "Consultation des versions antérieures à partir du 01-08-1996 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1940. - Arrêté-loi renforcant la répression de certains faits commis en temps de guerre.

@@ -13,7 +13,7 @@ entry_into_force: 2006-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/01/2006201964/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUIN 2006. - Décret modifiant le Code wallon du Logement, visant à renforcer le système du logement de transit au sein des programmes de logements mis en oeuvre par les villes et communes de Wallonie.

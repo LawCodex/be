@@ -13,7 +13,7 @@ entry_into_force: 2017-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/23/2016031902/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Ordonnance modifiant l'ordonnance du 20 octobre 2006 établissant un cadre pour la politique de l'eau

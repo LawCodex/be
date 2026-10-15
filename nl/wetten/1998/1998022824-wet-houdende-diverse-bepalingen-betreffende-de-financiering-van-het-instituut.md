@@ -12,7 +12,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/08/1998022824/justel"
 department: "Sociale Voorzorg - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 1998. - Wet houdende diverse bepalingen betreffende de financiering van het Instituut voor veterinaire keuring.

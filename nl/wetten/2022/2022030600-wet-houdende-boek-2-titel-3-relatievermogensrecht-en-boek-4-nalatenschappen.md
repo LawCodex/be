@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/01/19/2022030600/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2022. - Wet houdende boek 2, titel 3, "Relatievermogensrecht" en boek 4 "Nalatenschappen, schenkingen en testamenten" van het Burgerlijk Wetboek

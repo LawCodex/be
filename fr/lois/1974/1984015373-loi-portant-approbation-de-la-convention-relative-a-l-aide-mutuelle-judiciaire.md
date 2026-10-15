@@ -12,7 +12,7 @@ entry_into_force: 1984-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/08/14/1984015373/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AOUT 1974. - Loi portant approbation de la Convention relative à l'aide mutuelle judiciaire en matière civile et commerciale entre le Royaume de Belgique et la République Algérienne Démocratique et Populaire, signée à Bruxelles le 12 juin 1970.

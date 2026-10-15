@@ -13,7 +13,7 @@ entry_into_force: 2012-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/01/2012201548/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2012. - Decreet houdende wijziging van het decreet van 21 december 1989 betreffende de diensten voor het openbaar vervoer in het Waalse Gewest

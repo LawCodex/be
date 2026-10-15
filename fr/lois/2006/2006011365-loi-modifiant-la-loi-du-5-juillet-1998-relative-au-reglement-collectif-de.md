@@ -12,7 +12,7 @@ entry_into_force: 2006-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/05/2006011365/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 2006. - Loi modifiant la loi du 5 juillet 1998 relative au règlement collectif de dettes et à la possibilité de vente de gré à gré des biens immeubles saisis.

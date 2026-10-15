@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/16/1998033052/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-01-2000 en tekstbijwerking tot 27-01-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1998. - Decreet tot erkenning en subsidiëring van verenigingen en federaties die werkzaam zijn op het gebied van de folklore (VERTALING).

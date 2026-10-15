@@ -13,7 +13,7 @@ entry_into_force: 2003-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/14/2003035332/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2003. - Decreet tot wijziging van het decreet van 18 mei 1999 houdende oprichting van een Herplaatsingsfonds.

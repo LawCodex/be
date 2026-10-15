@@ -12,7 +12,7 @@ entry_into_force: 2024-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/21/2024004454/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2024. - Loi mettant en oeuvre le règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 relatif à un marché unique des services numériques et modifiant la directive 2000/31/CE, portant modifications du livre XII et du livre XV du Code de droit économique et portant modifications de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges

@@ -13,7 +13,7 @@ entry_into_force: 2021-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/11/2021030647/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2021. - Décret portant assentiment à l'Accord de coopération du 25 février 2021 modifiant l'Accord de coopération-cadre du 27 février 2014 entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à la concertation intra-francophone en matière de santé et d'aide aux personnes et aux principes communs applicables en ces matières, en vue de faire face aux urgences COVID-19

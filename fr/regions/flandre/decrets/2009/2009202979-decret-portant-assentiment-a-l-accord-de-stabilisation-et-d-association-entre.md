@@ -13,7 +13,7 @@ entry_into_force: 2009-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202979/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret portant assentiment à l'accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la Bosnie-Herzégovine, d'autre part, et l'Acte final, signés à Luxembourg le 16 juin 2008

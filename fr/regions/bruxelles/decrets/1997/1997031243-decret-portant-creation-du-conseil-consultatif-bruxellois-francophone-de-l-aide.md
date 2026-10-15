@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/05/1997031243/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 09-07-1997 et mise à jour au 26-02-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 1997. - Décret portant création du Conseil consultatif bruxellois francophone de l'Aide aux personnes et de la Santé.

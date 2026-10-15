@@ -12,7 +12,7 @@ entry_into_force: 1994-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/05/18/1995015105/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1993. - Loi portant approbation de l'Accord entre l'Union économique belgo-luxembourgeoise et la République argentine concernant l'encouragement et la protection réciproques des investissements, et l'échange de lettres, signés à Bruxelles le 28 juin 1990.

@@ -12,7 +12,7 @@ entry_into_force: 2024-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/01/31/2024000960/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2024. - Wet houdende instemming met het wetgevend samenwerkingsakkoord van 22 december 2023 tussen de federale staat, de Vlaamse gemeenschap, de Franse gemeenschap, de Duitstalige gemeenschap, de gemeenschappelijke gemeenschapscommissie, het Waalse gewest en de Franse gemeenschapscommissie strekkende tot wijziging van het samenwerkingsakkoord van 12 maart 2021 tussen de federale staat, de Vlaamse gemeenschap, de Franse gemeenschap, de Duitstalige gemeenschap, de gemeenschappelijke gemeenschapscommissie, het Waals gewest en de Franse gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot vaccinaties tegen COVID-19

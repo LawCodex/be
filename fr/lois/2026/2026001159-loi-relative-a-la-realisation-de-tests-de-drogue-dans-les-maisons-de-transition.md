@@ -12,7 +12,7 @@ entry_into_force: 2026-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/08/2026001159/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2026. - Loi relative à la réalisation de tests de drogue dans les maisons de transition et à la déchéance de la nationalité belge

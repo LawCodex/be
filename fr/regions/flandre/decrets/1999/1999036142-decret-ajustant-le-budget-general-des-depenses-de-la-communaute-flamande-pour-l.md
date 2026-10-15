@@ -13,7 +13,7 @@ entry_into_force: 2000-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999036142/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret ajustant le budget général des dépenses de la Communauté flamande pour l'exercice budgétaire 1999. (Traduction).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/19/1994000273/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 19-07-1994 en tekstbijwerking tot 24-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1994. - Wet betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van het Europees Parlement. (Nota : Raadpleging van vroegere versies vanaf 25-05-1994 en tekstbijwerking tot 11-04-2006)

@@ -12,7 +12,7 @@ entry_into_force: 2017-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/25/2017200031/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Wet houdende instemming met het samenwerkingsakkoord van 12 oktober 2016 tussen de Federale Staat en de Franse Gemeenschap betreffende de nadere regels voor de financiering en de werking van de internationale afdeling van de Internationale School van SHAPE

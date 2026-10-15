@@ -12,7 +12,7 @@ entry_into_force: 2003-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/18/2002011527/justel"
 department: "Economie, KMO, Middenstand en Energie - Consumentenzaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2002. - Wet tot wijziging van sommige bepalingen betreffende de veiligheid en de gezondheid van de gebruikers.

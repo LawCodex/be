@@ -12,7 +12,7 @@ entry_into_force: 2005-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/07/2005009279/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2005. - Wet tot invoeging van de artikelen 187bis, 187ter, 191bis, 191ter, 194bis en 194ter in het Gerechtelijk Wetboek en tot wijziging van de artikelen 259bis-9 en 259bis-10 van hetzelfde Wetboek.

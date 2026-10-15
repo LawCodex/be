@@ -12,7 +12,7 @@ entry_into_force: 1992-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/01/12/1993025021/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 1993. - Wet houdende een urgentieprogramma voor een meer solidaire samenleving.

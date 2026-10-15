@@ -13,7 +13,7 @@ entry_into_force: 1995-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/27/1995031271/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1995. - Décret ajustant le budget des Voies et Moyens de la Commission communautaire française pour l'année budgétaire 1995.

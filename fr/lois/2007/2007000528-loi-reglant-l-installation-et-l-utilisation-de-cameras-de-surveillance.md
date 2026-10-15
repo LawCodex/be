@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/21/2007000528/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 31-05-2007 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2007. - Loi réglant l'installation et l'utilisation de caméras de surveillance.

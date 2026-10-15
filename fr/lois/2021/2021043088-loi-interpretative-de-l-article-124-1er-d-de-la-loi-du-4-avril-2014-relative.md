@@ -12,7 +12,7 @@ entry_into_force: 2021-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/10/29/2021043088/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2021. - Loi interprétative de l'article 124, § 1er, d), de la loi du 4 avril 2014 relative aux assurances

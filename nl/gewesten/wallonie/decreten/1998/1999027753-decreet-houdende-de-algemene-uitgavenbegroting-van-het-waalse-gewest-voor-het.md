@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/16/1999027753/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 17-12-1999 en tekstbijwerking tot 07-06-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1998. - Decreet houdende de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 1999. (Vertaling)

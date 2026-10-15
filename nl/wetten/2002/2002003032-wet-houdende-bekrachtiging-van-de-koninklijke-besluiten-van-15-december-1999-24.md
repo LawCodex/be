@@ -12,7 +12,7 @@ entry_into_force: 2002-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/09/2002003032/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2002. - Wet houdende bekrachtiging van de koninklijke besluiten van 15 december 1999, 24 juni 2000, 19 september 2000 en 18 december 2000 tot wijziging van het KB/WIB 92 op het stuk van de bedrijfsvoorheffing.

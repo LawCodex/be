@@ -13,7 +13,7 @@ entry_into_force: 2004-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/29/2004201407/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2004. - Decreet houdende instemming met verschillende internationale akten betreffende de Belgisch-Luxemburgse Economische Unie (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2014-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/24/2014015170/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Loi portant assentiment au Protocole additionnel au Traité relatif à l'institution et au statut d'une Cour de Justice Benelux concernant la protection juridictionnelle des personnes au service de l'Organisation Benelux de la Propriété intellectuelle (marques et dessins ou modèles), fait à Bruxelles le 24 octobre 2008

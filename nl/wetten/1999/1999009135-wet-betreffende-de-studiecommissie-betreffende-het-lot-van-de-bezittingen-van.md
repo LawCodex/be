@@ -12,7 +12,7 @@ entry_into_force: 1997-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/15/1999009135/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 1999. - Wet betreffende de Studiecommissie betreffende het lot van de bezittingen van de leden van de Joodse gemeenschap van België, geplunderd of achtergelaten tijdens de oorlog 1940-1945.

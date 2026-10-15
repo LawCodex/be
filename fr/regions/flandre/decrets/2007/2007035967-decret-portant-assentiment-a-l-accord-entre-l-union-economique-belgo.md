@@ -13,7 +13,7 @@ entry_into_force: 2007-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/08/2007035967/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2007. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeois, d'une part, et la République du Mozambique, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 18 juillet 2006 (TRADUCTION).

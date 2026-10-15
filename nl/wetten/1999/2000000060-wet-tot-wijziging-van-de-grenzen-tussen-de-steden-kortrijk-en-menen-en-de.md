@@ -12,7 +12,7 @@ entry_into_force: 2000-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/22/2000000060/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1999. - Wet tot wijziging van de grenzen tussen de steden Kortrijk en Menen en de gemeente Wevelgem.

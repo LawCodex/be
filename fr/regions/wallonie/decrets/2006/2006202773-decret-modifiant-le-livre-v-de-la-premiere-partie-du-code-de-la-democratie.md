@@ -13,7 +13,7 @@ entry_into_force: 2006-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/19/2006202773/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2006. - Décret modifiant le Livre V de la première partie du Code de la démocratie locale et de la décentralisation et [relatif aux modes de coopération entre communes] &lt;DRW 2007-03-09/34 , En vigueur : 21-03-2007&gt;

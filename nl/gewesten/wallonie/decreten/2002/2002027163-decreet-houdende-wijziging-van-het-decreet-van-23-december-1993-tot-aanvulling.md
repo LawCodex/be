@@ -13,7 +13,7 @@ entry_into_force: 2002-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/02/08/2002027163/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2002. - Decreet houdende wijziging van het decreet van 23 december 1993 tot aanvulling van artikel 41 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium en tot wijziging van het decreet van 27 oktober 1988 op de groeven (VERTALING).

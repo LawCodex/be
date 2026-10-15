@@ -13,7 +13,7 @@ entry_into_force: 2009-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/12/19/2009031022/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Ordonnance modifiant l'ordonnance du 17 juillet 2003 portant le Code bruxellois du logement et visant à préserver le parc de logements des pouvoirs publics en Région bruxelloise et à établir des règles minimales en matière d'attribution de ces logements.

@@ -12,7 +12,7 @@ entry_into_force: 2007-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007015099/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet houdende instemming met het Verdrag inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, en tot het Eerste en het Tweede Protocol betreffende de uitlegging ervan door het Hof van Justitie van de Europese Gemeenschappen, gedaan te Luxemburg op 14 april 2005.

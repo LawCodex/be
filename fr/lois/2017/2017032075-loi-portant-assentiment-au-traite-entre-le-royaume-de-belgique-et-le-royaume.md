@@ -12,7 +12,7 @@ entry_into_force: 2018-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/10/2017032075/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2017. - Loi portant assentiment au Traité entre le Royaume de Belgique et le Royaume des Pays-Bas visant à adapter la frontière entre les communes néerlandaises d'Eijsden-Margraten et de Maastricht et la ville belge de Visé, et à l'Annexe, faits à Amsterdam le 28 novembre 2016

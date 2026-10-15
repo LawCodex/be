@@ -13,7 +13,7 @@ entry_into_force: 2024-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/23/2023048140/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Décret portant assentiment aux accords de coopération du 2 février 2005 et du 20 octobre 2023 relatifs au développement de politiques concertées en matière d'alphabétisation des adultes, conclus entre la Communauté française, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale

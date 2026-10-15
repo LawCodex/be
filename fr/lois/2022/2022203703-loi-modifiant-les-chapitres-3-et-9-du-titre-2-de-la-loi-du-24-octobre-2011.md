@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/03/2022203703/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2022. - Loi modifiant les chapitres 3 et 9 du titre 2 de la loi du 24 octobre 2011 assurant un financement pérenne des pensions des membres du personnel nommé à titre définitif des administrations provinciales et locales et des zones de police locale, modifiant la loi du 6 mai 2002 portant création du Fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale et portant diverses dispositions modificatives

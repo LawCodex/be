@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/17/2015205985/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2015 en tekstbijwerking tot 11-09-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2015. - Decreet houdende wijziging van het decreet van 15 december 2011 houdende organisatie van de begroting en van de boekhouding van de diensten van de Waalse Regering, het decreet van 5 maart 2008 houdende oprichting van het Agence wallonne de l'air et du climat (Waals agentschap voor Lucht en Klimaat) en het Waalse Wetboek van Huisvesting en Duurzaam Wonen

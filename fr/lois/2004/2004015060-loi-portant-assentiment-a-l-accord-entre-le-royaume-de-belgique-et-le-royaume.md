@@ -12,7 +12,7 @@ entry_into_force: 2005-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/09/2004015060/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2004. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas relatif à l'arbitrage concernant la réactivation et la modernisation du Rhin de fer, conclu à la Haye par échange de notes datées du 22 juillet 2003 et du 23 juillet 2003.

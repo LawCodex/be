@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/14/2009029046/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-02-2009 et mise à jour au 01-10-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2008. - Décret instaurant le Conseil de la Jeunesse en Communauté française

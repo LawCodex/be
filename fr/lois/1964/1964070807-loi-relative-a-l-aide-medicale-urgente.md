@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1964/07/08/1964070807/justel"
 justel_notes:
   - "article 5 modifié avec effet à une date indéterminée <L 2009-12-10/35 , art. 11; 012 ; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 28-05-1994 et mise à jour au 30-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1964. - Loi relative à l'aide médicale urgente.

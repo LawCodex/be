@@ -13,7 +13,7 @@ entry_into_force: 2014-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/08/2014031472/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Ordonnantie tot wijziging van de Brusselse Huisvestingscode ertoe strekkende de vertegenwoordiging van de oppositie in de raad van bestuur van meergemeentelijke OVM's te garanderen

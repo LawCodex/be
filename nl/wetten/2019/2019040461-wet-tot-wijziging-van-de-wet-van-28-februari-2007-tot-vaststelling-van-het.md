@@ -12,7 +12,7 @@ entry_into_force: 2019-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/15/2019040461/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2019. - Wet tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen en kandidaat-militairen van het actief kader van de Krijgsmacht

@@ -12,7 +12,7 @@ entry_into_force: 1997-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/12/1997003061/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 1996. - Loi modifiant la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers, l'article 2075 du Code civil, l'article 2 du Titre VI, Livre I du Code de commerce, l'article 22 de la loi du 10 juin 1964 sur les appels publics à l'épargne, l'article 44 du Code TVA et l'article 265 du Code des impôts sur les revenus 1992.

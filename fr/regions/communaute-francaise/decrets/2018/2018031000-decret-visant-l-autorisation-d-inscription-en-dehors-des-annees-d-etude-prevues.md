@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/03/2018031000/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2018. - Décret visant l'autorisation d'inscription en dehors des années d'étude prévues dans l'enseignement en immersion linguistique des élèves issus d'une école de la Communauté flamande ou germanophone ou d'une école d'un pays étranger et dont la langue d'enseignement est la même que la langue de l'immersion

@@ -12,7 +12,7 @@ entry_into_force: 2021-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042507/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi portant confirmation de trois arrêtés royaux sur les tarifs sociaux d'énergie

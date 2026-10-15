@@ -13,7 +13,7 @@ entry_into_force: 2016-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016035960/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret portant assentiment 1° à la convention entre le Royaume de Belgique et la République de Pologne tendant à éviter les doubles impositions et à prévenir la fraude et l'évasion en matière d'impôts sur le revenu et sur la fortune, signée à Varsovie le 20 août 2001, telle que modifiée par le protocole, signé à Luxembourg le 14 avril 2014 ; 2° au protocole, signé à Luxembourg le 14 avril 2014 modifiant la convention visée au point 1°

@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/01/17/1995009166/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 1995. - Wet tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek met betrekking tot de voordrachten en van artikel 64 van de provinciewet.

@@ -13,7 +13,7 @@ entry_into_force: 2020-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2020044357/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret modifiant l'article 15 du décret du 31 mars 2004 relatif à l'adoption

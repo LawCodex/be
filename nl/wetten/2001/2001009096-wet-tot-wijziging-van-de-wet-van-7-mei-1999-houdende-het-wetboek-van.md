@@ -12,7 +12,7 @@ entry_into_force: 2001-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/01/23/2001009096/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2001. - Wet tot wijziging van de wet van 7 mei 1999 houdende het Wetboek van vennootschappen en van de wet van 17 juli 1975 op de boekhouding van de ondernemingen.

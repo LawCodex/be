@@ -10,7 +10,7 @@ date: 1970-06-05
 published: 1970-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/06/05/1970060517/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 1970. - Wet tot wijziging van sommige bepalingen betreffende de pensioenregelingen voor werknemers, arbeiders, bedienden, mijnwerkers en vrijwillig verzekerden en het gewaarborgd inkomen voor bejaarden.

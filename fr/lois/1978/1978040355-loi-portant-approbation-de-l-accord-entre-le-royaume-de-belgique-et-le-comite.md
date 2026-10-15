@@ -11,7 +11,7 @@ published: 1978-06-09
 entry_into_force: 1970-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/04/03/1978040355/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1978. - Loi portant approbation de l'Accord entre le Royaume de Belgique et le Comité intergouvernemental pour les migrations européennes relatif aux privilèges et immunités de cette organisation internationale en Belgique, signé à Genève le 2 juillet 1973.

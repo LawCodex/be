@@ -13,7 +13,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/28/2024005427/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2024. - Décret modifiant le Code de la démocratie locale et de la décentralisation en vue de simplifier le fonctionnement et l'organisation des organes communaux et provinciaux

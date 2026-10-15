@@ -13,7 +13,7 @@ entry_into_force: 2012-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/10/22/2012206262/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2012. - Décret portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 7 octobre 2009

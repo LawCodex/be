@@ -13,7 +13,7 @@ entry_into_force: 2010-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/07/2010035405/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2010. - Décret portant assentiment aux modifications de la convention en matière de l'Organisation internationale de Télécommunication par Satellites 'INTELSAT', adoptées à Washington le 17 novembre 2000, et à la modification de l'article XII, partie c, sous ii, de la convention en matière de l'Organisation internationale de Télécommunication par Satellites, adoptée par la 31e assemblée des parties à Paris le 23 mars 2007

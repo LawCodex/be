@@ -13,7 +13,7 @@ entry_into_force: 2001-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/19/2001033031/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2001. - Décret portant assentiment à : La Convention entre les Gouvernements respectivement du Royaume de Belgique, de la République fédérale d'Allemagne, du Royaume du Danemark, du Royaume d'Espagne, de la République de Finlande, de la République Française, du Royaume-Uni de Grande Bretagne et de l'Irlande du Nord, de la République Italienne, du Royaume de Norvège, du Royaume de Suède et de la Confédération Suisse, concernant la construction et l'exploitation d'une installation européenne de rayonnement synchrotron, ses annexes I, II III et IV, ainsi que l'Acte final et ses résolutions 1 à 5, faits à Paris le 16 décembre 1988; Au Protocole d'adhésion du Royaume des Pays-Bas à la Convention du 16 décembre 1988 relative à la construction et à l'exploitation d'une installation européenne de rayonnement synchrotron, à l'Annexe et à l'addendum à l'Acte final, faits à Paris le 9 décembre 1991; La Convention entre le Royaume de Belgique et le Royaume des Pays-Bas concernant leur participation conjointe à l'installation européenne de rayonnement synchrotron ainsi que ses modalités d'exécution et l'échange de lettres y afférente, faits à uxelles le 12 novembre 1990 (TRADUCTION).

@@ -12,7 +12,7 @@ published: 2007-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/25/2007029098/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2007. - Decreet houdende diverse maatregelen inzake Hogescholen (VERTALING).

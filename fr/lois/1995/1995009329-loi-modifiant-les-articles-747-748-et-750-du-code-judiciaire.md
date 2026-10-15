@@ -12,7 +12,7 @@ entry_into_force: 1995-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/23/1995009329/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1995. - Loi modifiant les articles 747, 748 et 750 du Code judiciaire.

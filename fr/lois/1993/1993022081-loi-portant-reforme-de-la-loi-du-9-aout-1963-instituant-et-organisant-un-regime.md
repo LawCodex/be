@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/02/15/1993022081/justel"
 department: "Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 06-03-1993 et mise à jour au 05-07-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 1993. - Loi portant réforme de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité.

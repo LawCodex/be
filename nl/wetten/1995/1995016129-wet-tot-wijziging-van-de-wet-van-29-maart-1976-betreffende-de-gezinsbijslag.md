@@ -12,7 +12,7 @@ entry_into_force: 1995-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995016129/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet tot wijziging van de wet van 29 maart 1976 betreffende de gezinsbijslag voor zelfstandigen.

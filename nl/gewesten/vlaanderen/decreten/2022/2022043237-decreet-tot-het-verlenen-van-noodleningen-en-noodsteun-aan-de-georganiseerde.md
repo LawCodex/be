@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/23/2022043237/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2022. - Decreet tot het verlenen van noodleningen en noodsteun aan de georganiseerde sportsector naar aanleiding van de stijgende energie-uitgaven

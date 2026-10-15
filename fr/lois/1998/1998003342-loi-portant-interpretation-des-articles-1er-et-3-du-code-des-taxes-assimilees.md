@@ -11,7 +11,7 @@ published: 1998-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/08/1998003342/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1998. - Loi portant interprétation des articles 1er et 3 du Code des taxes assimilées au timbre, tels que modifiés par l'article 3 de l'arrêté royal du 19 décembre 1996 modifiant, en ce qui concerne le Crédit agricole S.A., la loi du 17 juin 1991 portant organisation du secteur public du crédit et de la détention des participations du secteur public dans certaines sociétés financières de droit privé, la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit et le Code des taxes, assimilées au timbre, et par les articles 27 et 28 de l'arrêté royal du 23 décembre 1996 modifiant, en ce qui concerne la Caisse nationale de Crédit professionnel, la loi du 17 juin 1991 portant organisation du secteur public du crédit et de la détention des participations du secteur public dans certaines sociétés financières de droit privé et portant diverses autres dispositions.

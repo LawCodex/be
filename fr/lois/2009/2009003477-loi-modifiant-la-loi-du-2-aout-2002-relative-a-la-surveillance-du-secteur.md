@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009003477/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 19-01-2010 et mise à jour au 30-10-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2009. - Loi modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers et instaurant l'action en cessation des infractions à la loi du 10 décembre 2009 relative aux services de paiement

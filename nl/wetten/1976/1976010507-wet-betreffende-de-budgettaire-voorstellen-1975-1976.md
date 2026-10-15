@@ -12,7 +12,7 @@ entry_into_force: 1976-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/01/05/1976010507/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JANUARI 1976. - Wet betreffende de budgettaire voorstellen 1975-1976.

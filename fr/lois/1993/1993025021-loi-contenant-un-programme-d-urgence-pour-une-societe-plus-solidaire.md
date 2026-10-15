@@ -12,7 +12,7 @@ entry_into_force: 1992-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/01/12/1993025021/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 1993. - Loi contenant un programme d'urgence pour une société plus solidaire.

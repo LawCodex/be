@@ -12,7 +12,7 @@ entry_into_force: 2021-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/01/20/2021040421/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2021. - Wet houdende maatregelen tegen de verspreiding van de COVID-19-pandemie voor wat betreft het tariefsysteem van de luchthaven Brussel-Nationaal

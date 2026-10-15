@@ -13,7 +13,7 @@ entry_into_force: 2026-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/19/2026000028/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Decreet tot wijziging van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, wat betreft de verwerking van persoonsgegevens, de aanvraag van een persoonsvolgend budget, de samenloop van procedures en de verplichting om een uittreksel uit het strafregister voor te leggen

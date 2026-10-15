@@ -13,7 +13,7 @@ entry_into_force: 2023-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/01/30/2023202863/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2023. - Décret portant assentiment à l'accord de coopération du 19 décembre 2022 entre l'Etat fédéral, la Communauté flamande, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté française et la Communauté germanophone relatif à l'utilisation de la facilité pour la reprise et la résilience

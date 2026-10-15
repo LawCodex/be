@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/24/2017030173/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 24-04-2017 et mise à jour au 14-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2017. - Loi relative à la surveillance des processeurs d'opérations de paiement

@@ -13,7 +13,7 @@ entry_into_force: 2012-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/10/2013200157/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2012. - Décret modifiant le décret-programme du 29 juin 1998 afin d'introduire une mesure temporaire applicable au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone

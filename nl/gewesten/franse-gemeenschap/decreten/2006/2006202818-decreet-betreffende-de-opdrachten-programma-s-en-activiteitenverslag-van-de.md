@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/14/2006202818/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-09-2006 en tekstbijwerking tot 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2006. - Decreet betreffende de opdrachten, programma's en activiteitenverslag van de psycho-medisch-sociale centra.

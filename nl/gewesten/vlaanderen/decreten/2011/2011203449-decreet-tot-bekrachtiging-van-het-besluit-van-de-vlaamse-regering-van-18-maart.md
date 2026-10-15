@@ -13,7 +13,7 @@ entry_into_force: 2011-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/17/2011203449/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2011. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 18 maart 2011 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking van de eindtermen en ontwikkelingsdoelen voor het basis- en secundair onderwijs

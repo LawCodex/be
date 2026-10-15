@@ -12,7 +12,7 @@ published: 2019-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019012346/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet tot versteviging van de schoolherinschakeling van leerlingen van het gewoon en gespecialiseerd secundair onderwijs van vorm 4 die niet meer beantwoorden aan de definitie van regelmatige leerling, en houdende diverse maatregelen inzake laattijdige inschrijving, melding, schoolbezoek en vrijstelling van bepaalde cursussen

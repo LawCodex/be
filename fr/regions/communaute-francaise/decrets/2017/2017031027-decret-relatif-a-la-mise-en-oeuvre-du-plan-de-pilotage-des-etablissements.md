@@ -13,7 +13,7 @@ entry_into_force: 2017-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017031027/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret relatif à la mise en oeuvre du plan de pilotage des établissements scolaires, à l'aide spécifique aux directions dans l'enseignement maternel, primaire et fondamental, ordinaire et spécialisé, et à un encadrement complémentaire en personnel éducatif et administratif dans l'enseignement secondaire spécialisé

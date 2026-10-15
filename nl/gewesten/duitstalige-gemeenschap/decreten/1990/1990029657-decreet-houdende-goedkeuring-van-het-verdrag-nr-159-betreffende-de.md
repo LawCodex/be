@@ -13,7 +13,7 @@ entry_into_force: 1990-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/04/18/1990029657/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1990. - Decreet houdende goedkeuring van het Verdrag nr. 159 betreffende de beroepsrevalidatie en werkgelegenheid van gehandicapten, aangenomen te Genève op 20 juni 1983 door de Internationale Arbeidsconferentie in haar negenenzestigste zitting. &lt;Vertaling&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/22/2001022388/justel"
 department: "Tewerkstelling en Arbeid - Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2001. - Wet tot uitvoering van het interprofessioneel akkoord 2001/2002 inzake jaarlijkse vakantie.

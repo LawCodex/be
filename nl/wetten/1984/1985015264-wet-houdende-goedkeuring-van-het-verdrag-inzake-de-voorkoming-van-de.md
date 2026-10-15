@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/12/20/1985015264/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 22-10-1985 en tekstbijwerking tot 29-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1984. - Wet houdende goedkeuring van het Verdrag inzake de voorkoming van de verontreiniging van de zeeëngten gevolge van het storten van afvalstoffen, van de Bijlagen, het Addendum en het Bijvoegsel, opgemaakt te Londen, Mexico, Moskou en Washington op 29 december 1972 en gewijzigd te Londen op 12 oktober 1978, 1 december 1978 en 1 december 1980.

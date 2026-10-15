@@ -13,7 +13,7 @@ entry_into_force: 2019-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012727/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance portant assentiment à : l'accord de coopération du 21 décembre 2018 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant l'implication de l'Etat fédéral dans la signature des accords de coopération du 6 septembre 2017 et du 30 mai 2018

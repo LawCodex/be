@@ -12,7 +12,7 @@ entry_into_force: 2019-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/04/27/2018015570/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2018. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Japon tendant à éliminer la double imposition en matière d'impôts sur le revenu et à prévenir la fraude et l'évasion fiscales, et au Protocole, faits à Tokyo le 12 octobre 2016

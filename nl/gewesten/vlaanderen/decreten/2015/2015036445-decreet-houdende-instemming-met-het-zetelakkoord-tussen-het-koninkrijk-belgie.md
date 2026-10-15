@@ -12,7 +12,7 @@ entry_into_force: 2014-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/30/2015036445/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2015. - Decreet houdende instemming met het zetelakkoord tussen het Koninkrijk België en het Internationaal Instituut voor Democratie en Electorale Bijstand, ondertekend te Brussel op 15 mei 2014

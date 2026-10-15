@@ -12,7 +12,7 @@ entry_into_force: 2009-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/10/2009022002/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2008. - Loi modifiant l'arrêté royal du 21 avril 1983 fixant les modalités de l'agrément des médecins spécialistes et des médecins généralistes, en vue d'instaurer les conditions d'un débat contradictoire entre les chambres des commissions d'agrément des médecins spécialistes et le Consil supérieur des médecins spécialistes et des médecins généralistes.

@@ -13,7 +13,7 @@ entry_into_force: 2021-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/28/2022020181/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2022. - Décret modifiant l'article 4.3.3 du Décret sur l'Energie du 8 mai 2009, en ce qui concerne le délai maximal pendant lequel le gestionnaire du réseau peut agir en tant que fournisseur de dernier ressort

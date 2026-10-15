@@ -12,7 +12,7 @@ entry_into_force: 2000-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/13/2000015020/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1999. - Loi portant assentiment à la Convention entre les Etats membres des Communautés européennes relative à l'application du principe ne bis in idem, faite à Bruxelles le 25 mai 1987.

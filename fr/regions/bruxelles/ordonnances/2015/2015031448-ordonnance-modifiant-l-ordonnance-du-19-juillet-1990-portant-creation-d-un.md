@@ -13,7 +13,7 @@ entry_into_force: 2018-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/09/2015031448/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2015. - Ordonnance modifiant l'ordonnance du 19 juillet 1990 portant création d'un Service d'Incendie et d'Aide médicale urgente de la Région de Bruxelles-Capitale

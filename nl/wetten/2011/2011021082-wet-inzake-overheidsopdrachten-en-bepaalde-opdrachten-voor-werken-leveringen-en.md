@@ -16,7 +16,7 @@ department: "Kanselarij van de Eerste Minister"
 justel_notes:
   - "art. 11/1 gewijzigd met ingang op een onbepaalde datum bij W 2019-04-07/03 , art. 20; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 01-02-2012 en tekstbijwerking tot 17-03-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AUGUSTUS 2011. - Wet inzake overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied

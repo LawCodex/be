@@ -13,7 +13,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/20/2014202094/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 4 december 2012 tussen de Franse Gemeenschap en het Waalse Gewest betreffende de financiering van het strategische fundamentele onderzoek in het kader van het gekruist beleid

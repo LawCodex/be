@@ -12,7 +12,7 @@ entry_into_force: 2014-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/28/2014011194/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Wet tot wijziging, wat het Instituut voor de nationale rekeningen betreft, van de wet van 21 december 1994 houdende sociale en diverse bepalingen

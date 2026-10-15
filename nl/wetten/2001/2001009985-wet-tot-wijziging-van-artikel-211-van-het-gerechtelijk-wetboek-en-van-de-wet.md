@@ -12,7 +12,7 @@ entry_into_force: 2001-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/29/2001009985/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2001. - Wet tot wijziging van artikel 211 van het Gerechtelijk Wetboek en van de wet van 3 april 1953 betreffende de rechterlijke inrichting, voor wat de plaatsvervangende raadsheren betreft.

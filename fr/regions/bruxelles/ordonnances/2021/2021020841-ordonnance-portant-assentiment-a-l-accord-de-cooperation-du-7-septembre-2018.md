@@ -13,7 +13,7 @@ entry_into_force: 2021-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/04/15/2021020841/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2021. - Ordonnance portant assentiment à l'Accord de coopération du 7 septembre 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de plusieurs dispositions du Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, avec annexes, signés à Göteborg le 30 novembre 1999, tels que modifiés le 4 mai 2012 à Genève

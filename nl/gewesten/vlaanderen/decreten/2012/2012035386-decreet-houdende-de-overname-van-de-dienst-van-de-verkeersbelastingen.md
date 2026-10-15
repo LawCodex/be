@@ -13,7 +13,7 @@ entry_into_force: 2012-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/16/2012035386/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2012. - Decreet houdende de overname van de dienst van de Verkeersbelastingen

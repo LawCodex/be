@@ -11,7 +11,7 @@ published: 1953-06-21
 entry_into_force: 1953-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/06/17/1953061701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1953. \_ Wet op de inrichting van het gemeenschappelijk vervoer in de streek van Brussel.

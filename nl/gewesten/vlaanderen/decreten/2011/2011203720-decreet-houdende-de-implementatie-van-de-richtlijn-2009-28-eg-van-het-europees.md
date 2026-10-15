@@ -13,7 +13,7 @@ entry_into_force: 2011-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/08/2011203720/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2011. - Decreet houdende de implementatie van de Richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG

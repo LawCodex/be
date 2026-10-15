@@ -12,7 +12,7 @@ entry_into_force: 1994-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/14/1994015014/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 1993. - Loi ajustant le budget général des dépenses de l'année budgétaire 1992. - Section " 14. - Affaires étrangères et Commerce extérieur ".

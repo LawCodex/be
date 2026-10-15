@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1872/05/05/1872050560/justel"
 justel_notes:
   - "Artikelen 1 tot 10 van titel VI opgeheven behalve voor zover nodig voor de toepassing van artikel 11 van dit Wetboek bij L 2013-07-11/19 , art. 102, 006; Inwerkingtreding : 01-01-2018"
   - "Raadpleging van vroegere versies vanaf 14-02-1997 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1872. - WETBOEK VAN KOOPHANDEL : BOEK I \_ TITELS VI en VII. Het Pand en De Commissie. (Wet houdende herziening der beschikkingen betreffende het Pand en de Commissie.)

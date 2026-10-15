@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/16/2016029312/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2016. - Décret relatif à la programmation d'options, pour les années scolaires 2016-2017 et 2017-2018, dans l'enseignement secondaire ordinaire qualifiant, ainsi que dans l'enseignement spécialisé de forme 4

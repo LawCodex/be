@@ -12,7 +12,7 @@ entry_into_force: 2008-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/04/23/2008012605/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2008. - Wet tot aanvulling van de omzetting van Richtlijn 2002/14/EG van het Europees Parlement en de Raad van 11 maart 2002 tot vaststelling van een algemeen kader betreffende de informatie en de raadpleging van de werknemers in de Europese Gemeenschap.

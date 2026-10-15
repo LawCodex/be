@@ -12,7 +12,7 @@ entry_into_force: 2012-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/12/02/2011206365/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2011. - [Loi modifiant la loi relative à la police de la circulation routière, coordonnée le 16 mars 1968, en ce qui concerne les délais en matière de récidive par les infractions de roulage] (ERRATUM, voir M.B. 02-02-2012, p. 7976)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/07/1994027408/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 09-02-2004 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1994. - Decreet betreffende de erkenning van instellingen voor schuldbemiddeling. &lt;Vertaling&gt;

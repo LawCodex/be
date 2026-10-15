@@ -12,7 +12,7 @@ entry_into_force: 1981-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/06/26/1981001120/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1981. - Wet tot vaststelling van de Nederlandse tekst van de auteurswet van 22 maart 1886.

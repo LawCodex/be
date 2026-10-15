@@ -12,7 +12,7 @@ entry_into_force: 2002-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/03/2000015148/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2000. - Loi portant assentiment au Protocole additionnel, fait à Bamako le 7 octobre 1998, à l'Accord maritime entre l'Union économique belgo-luxembourgeoise et la République du Mali, signé à Bamako le 7 août 1984.

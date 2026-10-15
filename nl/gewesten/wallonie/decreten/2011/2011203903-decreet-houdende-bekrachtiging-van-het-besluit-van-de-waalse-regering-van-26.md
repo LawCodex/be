@@ -13,7 +13,7 @@ entry_into_force: 2011-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/14/2011203903/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2011. - Decreet houdende bekrachtiging van het besluit van de Waalse Regering van 26 mei 2011 tot wijziging van het decreet van 17 januari 2008 houdende invoering van een ecobonus op de CO 2 -emissies van de autovoertuigen van natuurlijke personen

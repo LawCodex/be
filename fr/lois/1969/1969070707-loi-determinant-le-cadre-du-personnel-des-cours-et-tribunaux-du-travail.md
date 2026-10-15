@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/07/07/1969070707/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 05-11-1985 et mise à jour au 30-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1969. - Loi déterminant le cadre du personnel des cours et tribunaux du travail.

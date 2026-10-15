@@ -13,7 +13,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/19/2021043467/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2021. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009 en de Vlaamse Codex Wonen van 2021

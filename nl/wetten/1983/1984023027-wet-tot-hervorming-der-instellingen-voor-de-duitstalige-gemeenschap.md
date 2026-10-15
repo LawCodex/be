@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/12/31/1984023027/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-1990 en tekstbijwerking tot 29-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 1983. - Wet tot hervorming der instellingen voor de Duitstalige Gemeenschap.

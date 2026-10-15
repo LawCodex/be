@@ -13,7 +13,7 @@ entry_into_force: 2014-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/23/2014200977/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2014. - Decreet betreffende de erkenning van een netwerk armoedebestrijding in Wallonië

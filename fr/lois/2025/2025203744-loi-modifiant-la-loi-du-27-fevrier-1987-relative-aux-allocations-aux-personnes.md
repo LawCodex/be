@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/13/2025203744/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2025. - Loi modifiant la loi du 27 février 1987 relative aux allocations aux personnes handicapées, en ce qui concerne l'âge légal de la pension

@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2015022578/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi visant à garantir la pérennité et le caractère social des pensions complémentaires et visant à renforcer le caractère complémentaire par rapport aux pensions de retraite

@@ -12,7 +12,7 @@ entry_into_force: 2018-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/29/2018011689/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid

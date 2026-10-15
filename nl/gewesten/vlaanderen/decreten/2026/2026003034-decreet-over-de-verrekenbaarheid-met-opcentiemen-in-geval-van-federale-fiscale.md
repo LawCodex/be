@@ -13,7 +13,7 @@ entry_into_force: 2026-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/03/2026003034/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2026. - Decreet over de verrekenbaarheid met opcentiemen in geval van federale fiscale regularisatie en tot wijziging van verschillende decreten, wat betreft fiscaliteit en de jobbonus en de invordering van niet-fiscale schuldvorderingen

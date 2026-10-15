@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/27/2015205661/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2015. - Loi retirant l'article 96 de la loi du 26 décembre 2013 concernant l'introduction d'un statut unique entre ouvriers et employés en ce qui concerne les délais de préavis et le jour de carence ainsi que de mesures d'accompagnement et modifiant l'article 40 de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail

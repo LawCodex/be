@@ -13,7 +13,7 @@ entry_into_force: 1998-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/10/1999033080/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 1999. - Décret supprimant l'homologation du certificat de fin d'études de l'enseignement secondaire supérieur (TRADUCTION).

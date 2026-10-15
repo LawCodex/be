@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/07/2024002040/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Ordonnance portant assentiment: 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Moldavie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune faite à Bruxelles le 4 décembre 2008, telle que modifiée par le protocole fait à Bruxelles le 30 mars 2017; et 2° au Protocole, fait à Bruxelles le 30 mars 2017, amendant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Moldavie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune faite à Bruxelles le 4 décembre 2008

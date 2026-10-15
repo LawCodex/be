@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/09/2019012800/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 24-02-2023 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Décret relatif à l'accessibilité des sites internet et des applications mobiles des institutions publiques de la Commission communautaire française

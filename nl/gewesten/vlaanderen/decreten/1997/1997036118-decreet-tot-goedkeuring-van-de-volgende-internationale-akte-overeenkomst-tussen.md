@@ -11,7 +11,7 @@ date: 1997-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997036118/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - Decreet tot goedkeuring van de volgende internationale akte : Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Socialistische Republiek Vietnam inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Hanoï op 24 januari 1991.

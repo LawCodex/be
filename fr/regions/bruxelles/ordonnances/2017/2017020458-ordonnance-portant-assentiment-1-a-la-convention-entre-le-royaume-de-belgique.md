@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017020458/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République d'Ouzbékistan tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 14 novembre 1996, telle que modifiée par le Protocole additionnel, fait à Tachkent le 17 avril 1998, et par le Protocole, fait à Bruxelles le 18 février 2015; 2° au Protocole additionnel, fait à Tachkent le 17 avril 1998, modifiant la Convention entre le Royaume de Belgique et la République d'Ouzbékistan tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 14 novembre 1996; 3° au Protocole, fait à Bruxelles le 18 février 2015, modifiant la Convention entre le Royaume de Belgique et la République d'Ouzbékistan tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur lafortune, signée à Bruxelles le 14 novembre 1996, telle que modifiée par le Protocole additionnel, fait à Tachkent le 17 avril 1998

@@ -13,7 +13,7 @@ entry_into_force: 2008-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/17/2008202824/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2008. - Decreet tot wijziging van artikel 150bis van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium door het invoeren van een uiterste termijn voor het stedenbouwkundig attest nr. 1.

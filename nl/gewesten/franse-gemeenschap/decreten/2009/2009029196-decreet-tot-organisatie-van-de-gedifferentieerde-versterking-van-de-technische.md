@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/19/2009029196/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-04-2009 en tekstbijwerking tot 02-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2009. - Decreet tot organisatie van de gedifferentieerde versterking van de technische personeelsformatie van de psycho-medisch-sociale centra

@@ -12,7 +12,7 @@ entry_into_force: 2006-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/18/2006007169/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2006. - Wet tot aanvulling van artikel 4 van de wet van 3 januari 1933 op de vervaardiging van, de handel in en het dragen van wapens en op de handel in munitie.

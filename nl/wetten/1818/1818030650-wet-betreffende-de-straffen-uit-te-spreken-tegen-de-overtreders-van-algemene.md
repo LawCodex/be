@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1818/03/06/1818030650/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2026 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 1818. - WET betreffende de straffen uit te spreken tegen de overtreders van algemene verordeningen of te stellen bij provinciale of plaatselijke reglementen

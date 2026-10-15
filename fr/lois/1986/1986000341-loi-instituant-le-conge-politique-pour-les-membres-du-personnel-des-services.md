@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/09/18/1986000341/justel"
 department: "Intérieur - Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 28-07-1999 et mise à jour au 21-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 1986. - Loi instituant le congé politique pour les membres du personnel des services publics.

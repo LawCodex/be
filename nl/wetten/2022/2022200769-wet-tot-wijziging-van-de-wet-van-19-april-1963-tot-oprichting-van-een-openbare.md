@@ -12,7 +12,7 @@ entry_into_force: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/01/27/2022200769/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2022. - Wet tot wijziging van de wet van 19 april 1963 tot oprichting van een openbare instelling genaamd "Koninklijke Muntschouwburg" en tot wijziging van de wet van 22 april 1958 houdende statuut van het Nationaal Orkest van België

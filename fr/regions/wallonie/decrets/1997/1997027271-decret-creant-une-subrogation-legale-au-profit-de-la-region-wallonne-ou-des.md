@@ -13,7 +13,7 @@ entry_into_force: 1997-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/15/1997027271/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1997. - Décret créant une subrogation légale au profit de la Région wallonne ou des personnes morales de droit public qui en dépendent.

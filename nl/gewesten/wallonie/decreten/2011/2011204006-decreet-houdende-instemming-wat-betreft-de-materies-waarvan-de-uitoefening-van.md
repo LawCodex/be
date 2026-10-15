@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011204006/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening van de Franse Gemeenschap is overgedragen, met het Verdrag nr. 150 betreffende de bestuurstaak op het gebied van de arbeid : taak, functies en organisatie, aangenomen door de Internationale Arbeidsconferentie tijdens haar vierenzestigste zitting in Genève, op 26 juni 1978

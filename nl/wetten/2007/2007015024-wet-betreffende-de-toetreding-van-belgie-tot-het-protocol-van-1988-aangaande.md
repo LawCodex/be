@@ -12,7 +12,7 @@ entry_into_force: 2007-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/15/2007015024/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2007. - Wet betreffende de toetreding van België tot het Protocol van 1988 aangaande het Internationaal Verdrag van 1966 betreffende de uitwatering van schepen, gedaan te Londen op 11 november 1988.

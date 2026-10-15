@@ -13,7 +13,7 @@ entry_into_force: 1999-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027430/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende de coördinatie en het beheer van de door de Europese Commissie verleende steun inzake human resources en betreffende de oprichting van het Agentschap Europees Sociaal Fonds, op 2 september 1998 te Brussel gesloten door de Waalse Regering, de Regering van de Franse Gemeenschap en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest (VERTALING).

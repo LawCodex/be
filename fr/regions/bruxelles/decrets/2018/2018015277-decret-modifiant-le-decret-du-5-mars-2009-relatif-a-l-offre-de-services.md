@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/29/2018015277/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2018. - Décret modifiant le décret du 5 mars 2009 relatif à l'offre de services ambulatoires dans les domaines de l'Action sociale, de la Famille et de la Santé

@@ -12,7 +12,7 @@ entry_into_force: 1999-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/23/1999000227/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1999. - Wet betreffende de opstelling van de lijst van de in het buitenland gevestigde Belgische kiezers voor de verkiezing van de Federale Wetgevende Kamers.

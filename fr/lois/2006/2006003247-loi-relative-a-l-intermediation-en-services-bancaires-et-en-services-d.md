@@ -16,7 +16,7 @@ department: "Finances"
 justel_notes:
   - "art. 4, 11, 12 modifiés avec effet à une date indéterminée par AR 2007-04-27/85 , art. A117, 119 et 120, 002; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 28-04-2006 et mise à jour au 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2006. - Loi relative à l'intermédiation en services bancaires et en services d'investissement et à la distribution d'instruments financiers.

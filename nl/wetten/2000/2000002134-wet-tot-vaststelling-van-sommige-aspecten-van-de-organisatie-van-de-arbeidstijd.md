@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/14/2000002134/justel"
 department: "Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 05-01-2001 en tekstbijwerking tot 23-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Wet tot vaststelling van sommige aspecten van de organisatie van de [arbeidstijd in de openbare sector]. (Erratum, zie B.St. 31-01-2001, p. 2536)

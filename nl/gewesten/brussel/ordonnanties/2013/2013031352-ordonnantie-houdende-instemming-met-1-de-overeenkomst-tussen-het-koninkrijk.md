@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/05/02/2013031352/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2013. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, en het desbetreffende Slotprotocol, ondertekend te Luxemburg op 17 september 1971, zoals gewijzigd door de Avenanten van 11 december 2002 en 16 juli 2009; 2° de Avenant, gedaan te Brussel op 16 juli 2009, bij de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, en het desbetreffende Slotprotocol, ondertekend te Luxemburg op 17 september 1970, zoals gewijzigd door de Avenant van 11 december 2002; %3° de briefwisseling van 9 februari en van 8 maart 2011

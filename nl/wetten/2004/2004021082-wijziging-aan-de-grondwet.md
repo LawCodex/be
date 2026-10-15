@@ -12,7 +12,7 @@ entry_into_force: 2004-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/10/2004021082/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2004. - Wijziging aan de Grondwet.

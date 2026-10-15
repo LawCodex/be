@@ -11,7 +11,7 @@ published: 2021-11-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/10/27/2021042963/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2021. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en ce qui concerne l'affichage des tarifs par les dispensateurs de soins

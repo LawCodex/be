@@ -12,7 +12,7 @@ entry_into_force: 2015-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/03/16/2015011144/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2015. - Loi portant modification de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges

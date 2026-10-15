@@ -12,7 +12,7 @@ entry_into_force: 2002-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/28/2002003157/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2002. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat van het jaar 1997.

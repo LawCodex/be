@@ -13,7 +13,7 @@ entry_into_force: 2006-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/16/2006201062/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 30 mei 2005 tussen de federale Staat, het Vlaamse Gewest, het Waalse Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie (VERTALING).

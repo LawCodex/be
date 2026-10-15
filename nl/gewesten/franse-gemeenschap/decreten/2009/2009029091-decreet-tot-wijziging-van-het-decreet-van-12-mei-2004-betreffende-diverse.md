@@ -13,7 +13,7 @@ entry_into_force: 2009-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/08/2009029091/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2009. - Decreet tot wijziging van het decreet van 12 mei 2004 betreffende diverse maatregelen inzake de strijd tegen schooluitval, uitsluiting en geweld op school (VERTALING).

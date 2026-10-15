@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/17/2004009247/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-04-2004 et mise à jour au 17-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2004. - Loi organisant les relations entre les autorités publiques et les organisations syndicales du personnel des services extérieurs de la Sûreté de l'Etat

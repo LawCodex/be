@@ -13,7 +13,7 @@ entry_into_force: 2009-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/27/2009035396/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2009. - Décret modifiant le décret du 28 juin 1985 relatif à l'autorisation écologique visant à harmoniser les procédures de demande de l'autorisation urbanistique et de l'autorisation écologique, et le décret du 22 décembre 2006 établissant des exigences et mesures de maintien en matière de performance énergétique et de climat intérieur de bâtiments et portant instauration d'un certificat de performance énergétique et modifiant l'article 22 du décret REG

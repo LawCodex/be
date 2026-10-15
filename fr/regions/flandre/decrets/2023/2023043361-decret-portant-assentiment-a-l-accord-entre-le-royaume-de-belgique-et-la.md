@@ -13,7 +13,7 @@ entry_into_force: 2023-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/23/2023043361/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2023. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et la République de Moldavie sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Prague le 31 août 2022

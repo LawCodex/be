@@ -13,7 +13,7 @@ entry_into_force: 2000-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/02/14/2000033046/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2000. - Décret modifiant le décret du 16 décembre 1991 relatif à la formation et la formation continue dans les classes moyennes et les PME (TRADUCTION).

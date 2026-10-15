@@ -13,7 +13,7 @@ entry_into_force: 2015-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/17/2015036020/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Décret sanctionnant l'arrêté du Gouvernement flamand du 5 juin 2015 modifiant l'article 2 et l'annexe de l'arrêté du Gouvernement flamand du 27 mai 1997 définissant les objectifs de développement et les objectifs finaux de l'enseignement fondamental ordinaire

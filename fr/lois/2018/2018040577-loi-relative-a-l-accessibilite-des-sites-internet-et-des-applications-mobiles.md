@@ -12,7 +12,7 @@ entry_into_force: 2018-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/19/2018040577/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Loi relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public

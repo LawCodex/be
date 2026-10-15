@@ -12,7 +12,7 @@ entry_into_force: 2004-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/25/2004015088/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2004. - Loi portant assentiment à l'Accord entre les Gouvernements du Royaume de Belgique, du grand-duché de Luxembourg et du Royaume des Pays-Bas, d'une part, et le Gouvernement de la République de Slovénie, d'autre part, relatif à la réadmission des personnes en situation irrégulière, signé à Vienne le 16 novembre 1992.

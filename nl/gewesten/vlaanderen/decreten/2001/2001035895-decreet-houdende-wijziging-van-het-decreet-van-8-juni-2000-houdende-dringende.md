@@ -13,7 +13,7 @@ entry_into_force: 2001-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/13/2001035895/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2001. - Decreet houdende wijziging van het decreet van [8 juni 2000] houdende dringende maatregelen betreffende het lerarenambt. (Erratum, B.S. 24-08-2001, p. 28396)

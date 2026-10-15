@@ -13,7 +13,7 @@ entry_into_force: 2010-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/09/21/2010205365/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBRE 2010. - Décret portant assentiment à l'avenant à l'accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle

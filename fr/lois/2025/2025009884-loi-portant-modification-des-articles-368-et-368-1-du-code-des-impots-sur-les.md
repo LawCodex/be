@@ -12,7 +12,7 @@ entry_into_force: 2025-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025009884/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi portant modification des articles 368 et 368/1 du Code des impôts sur les revenus 1992 concernant l'action en restitution de précompte non enrôlé et portant modification du Code des droits et taxes divers concernant la taxe annuelle sur les établissements de crédit

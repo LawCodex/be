@@ -16,7 +16,7 @@ department: "Justice"
 justel_notes:
   - "Les anciens articles 1 à 6 sont abrogés par <L 2007-05-10/38 , art. 2, 006; En vigueur : 09-06-2007> et des nouveaux articles 1 à 34 sont insérés par <L 2007-05-10/38 , art. 3, 006; En vigueur : 09-06-2007>"
   - "Consultation des versions antérieures à partir du 19-02-1993 et mise à jour au 13-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1981. - Loi tendant à réprimer certains actes inspirés par le racisme ou la xénophobie.

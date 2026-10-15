@@ -12,7 +12,7 @@ entry_into_force: 2014-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/15/2017040173/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2017. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Institut international pour la démocratie et l'assistance électorale, fait à Bruxelles le 15 mai 2014

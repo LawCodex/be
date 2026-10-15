@@ -12,7 +12,7 @@ entry_into_force: 2018-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/18/2018011394/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2018. - Loi modifiant diverses dispositions du droit pénal, de la procédure pénale et du droit judiciaire

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/21/2023030953/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2023. - Wet teneinde toegang te verstrekken tot de archieven, met het oog op het opnieuw samenstellen van gezinnen waarvan de leden tot een scheiding werden gedwongen

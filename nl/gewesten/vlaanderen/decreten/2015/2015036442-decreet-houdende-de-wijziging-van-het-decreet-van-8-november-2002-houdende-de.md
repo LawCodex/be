@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/30/2015036442/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2015. - Decreet houdende de wijziging van het decreet van 8 november 2002 houdende de oprichting van de v.z.w. ESF-Agentschap

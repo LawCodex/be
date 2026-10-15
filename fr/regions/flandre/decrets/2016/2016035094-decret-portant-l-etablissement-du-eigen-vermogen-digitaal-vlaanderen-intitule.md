@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/15/2016035094/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-02-2016 et mise à jour au 14-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2016. - Décret portant [...] l'établissement du "Eigen Vermogen [Digitaal] Vlaanderen" (Intitulé modifié par DCFL 2021-04-02/35 , art. 2, 003; En vigueur : 10-05-2021)

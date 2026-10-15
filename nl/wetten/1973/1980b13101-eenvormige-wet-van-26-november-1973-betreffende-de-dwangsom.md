@@ -12,7 +12,7 @@ entry_into_force: 1980-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/11/26/1980B13101/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 1973. - Eenvormige wet van 26 november 1973 betreffende de dwangsom.

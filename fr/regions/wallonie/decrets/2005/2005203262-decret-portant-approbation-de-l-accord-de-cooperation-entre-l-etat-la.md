@@ -13,7 +13,7 @@ entry_into_force: 2005-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/17/2005203262/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2005. - Décret portant approbation de l'Accord de coopération entre l'Etat, la Communauté flamande, la Région flamande, la Communauté française, la Région wallonne, la Communauté germanophone, la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française portant création d'une Commission nationale pour les droits de l'enfant.

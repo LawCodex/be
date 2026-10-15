@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2002029636/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 08-01-2003 en tekstbijwerking tot 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende verschillende maatregelen betreffende de begrotingsfondsen, het " Fonds Ecureuil " van de Franse Gemeenschap, de euro, de universitaire instellingen, het " Centre hospitalier universitaire de Liège ", de psycho-medisch-sociale centra, de diensten voor de gezondheidspromotie op school, het onderwijs en het " Centre technique horticole de Gembloux ". (Vertaling)

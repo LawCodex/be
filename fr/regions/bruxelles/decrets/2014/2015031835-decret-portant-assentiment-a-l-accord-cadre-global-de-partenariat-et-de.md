@@ -13,7 +13,7 @@ entry_into_force: 2015-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/02/2015031835/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2014. - Décret portant assentiment à l'Accord-cadre global de partenariat et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Indonésie, d'autre part, et à l'Acte final, faits à Djakarta le 9 novembre 2009

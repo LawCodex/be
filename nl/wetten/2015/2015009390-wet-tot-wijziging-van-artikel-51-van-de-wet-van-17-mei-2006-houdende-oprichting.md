@@ -11,7 +11,7 @@ published: 2015-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015009390/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van artikel 51 van de wet van 17 mei 2006 houdende oprichting van strafuitvoeringsrechtbanken en tot wijziging van artikel 109 van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten, wat de inwerkingtreding betreft

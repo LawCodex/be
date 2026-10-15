@@ -12,7 +12,7 @@ entry_into_force: 2010-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/23/2010007153/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2010. - Loi modifiant diverses lois applicables au personnel militaire

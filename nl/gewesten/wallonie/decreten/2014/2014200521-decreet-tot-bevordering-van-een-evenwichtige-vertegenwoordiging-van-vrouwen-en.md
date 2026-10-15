@@ -13,7 +13,7 @@ entry_into_force: 2014-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/09/2014200521/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2014. - Decreet tot bevordering van een evenwichtige vertegenwoordiging van vrouwen en mannen in de raden van bestuur van de door het Waalse Gewest erkende privé-instellingen voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

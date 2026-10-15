@@ -13,7 +13,7 @@ entry_into_force: 2009-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/26/2009031188/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Ordonnantie tot wijziging van de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen

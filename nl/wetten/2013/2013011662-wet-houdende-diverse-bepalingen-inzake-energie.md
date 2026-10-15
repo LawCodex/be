@@ -12,7 +12,7 @@ entry_into_force: 2013-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2013011662/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Wet houdende diverse bepalingen inzake energie

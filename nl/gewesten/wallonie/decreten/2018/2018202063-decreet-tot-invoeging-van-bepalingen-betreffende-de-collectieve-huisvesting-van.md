@@ -13,7 +13,7 @@ entry_into_force: 2018-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018202063/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot invoeging van bepalingen betreffende de collectieve huisvesting van personen in langdurige moeilijkheden in het Waalse Wetboek van Sociale Actie en Gezondheid

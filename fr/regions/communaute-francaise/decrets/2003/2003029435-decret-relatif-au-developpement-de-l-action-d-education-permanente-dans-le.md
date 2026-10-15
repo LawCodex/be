@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029435/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-08-2003 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - [Décret relatif au développement de l'action d'éducation permanente dans le champ de la vie associative]. &lt;DCFR 2018-11-14/07 , art. 1, 012; En vigueur : 01-01-2019&gt;

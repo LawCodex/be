@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008029360/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret modifiant le décret du 20 juillet 2000 déterminant les conditions de reconnaissance et de subventionnement des maisons de jeunes, centres de rencontres et d'hébergement, centres d'information des jeunes et de leurs fédérations

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017205112/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 09-10-2017 et mise à jour au 28-05-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2017. - Décret portant modification du Code de la démocratie locale et de la décentralisation afin de garantir une présence équilibrée de femmes et d'hommes au sein des collèges communaux et provinciaux de Wallonie

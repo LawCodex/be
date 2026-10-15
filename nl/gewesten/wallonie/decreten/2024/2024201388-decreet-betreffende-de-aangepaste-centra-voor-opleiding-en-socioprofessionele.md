@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/25/2024201388/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 15-03-2024 en tekstbijwerking tot 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2024. - Decreet betreffende de aangepaste centra voor opleiding en socioprofessionele inschakeling en tot wijziging van het Waalse Wetboek van Sociale actie en Gezondheid, het decreet van 12 november 2021 betreffende de coaching en de oplossingsgerichte begeleiding van werkzoekenden en het Gerechtelijk Wetboek

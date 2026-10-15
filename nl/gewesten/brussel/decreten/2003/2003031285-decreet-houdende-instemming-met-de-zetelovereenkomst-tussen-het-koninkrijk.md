@@ -13,7 +13,7 @@ entry_into_force: 2003-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003031285/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet houdende instemming met de Zetelovereenkomst tussen het Koninkrijk België en het Internationale Comité van het Rode Kruis (VERTALING).

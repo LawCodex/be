@@ -13,7 +13,7 @@ entry_into_force: 2023-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/09/2023202038/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2023. - Decreet houdende instemming met het samenwerkingsakkoord van 19 december 2022 tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het gebruik van de herstel- en veerkrachtfaciliteit

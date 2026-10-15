@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/18/2021022504/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 08-12-2021 et mise à jour au 24-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2021. - Décret réglant les allocations d'études

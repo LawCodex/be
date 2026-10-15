@@ -13,7 +13,7 @@ entry_into_force: 2002-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/04/25/2002029236/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2002. - Décret portant assentiment au Traité de Nice modifiant le Traité sur l'Union européenne, les Traités instituant les Communautés européennes et certains actes connexes, aux Protocoles A, B, C et à l'Acte final, faits à Nice le 26 février 2001.

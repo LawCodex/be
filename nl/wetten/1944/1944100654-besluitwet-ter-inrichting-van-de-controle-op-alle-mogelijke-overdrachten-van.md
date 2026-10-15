@@ -13,7 +13,7 @@ last_amended: 2026-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1944/10/06/1944100654/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 25-01-1991 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 1944. - [Besluitwet ter inrichting van de controle op alle mogelijke overdrachten van goederen en waarden tussen België en het buitenland.] (W 2002-02-28/51, art. 8, 004; Inwerkingtreding : 05-03-2002) -

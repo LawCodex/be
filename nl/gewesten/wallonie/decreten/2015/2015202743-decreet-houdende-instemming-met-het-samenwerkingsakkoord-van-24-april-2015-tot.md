@@ -13,7 +13,7 @@ entry_into_force: 2015-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/04/2015202743/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 24 april 2015 tot wijziging van het samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het gebied van de drie Gemeenten en betreffende de oprichting van een publiekrechtelijk interregionaal samenwerkingsverband Viapass in de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen

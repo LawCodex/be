@@ -13,7 +13,7 @@ entry_into_force: 2005-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/17/2005035772/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2005. - Decreet houdende instemming met Bijlage V en Aanhangsel 3 bij het Verdrag van Parijs van 22 september 1992 inzake de bescherming van het marien milieu van de Noordoostelijke Atlantische Oceaan, aangenomen te Sintra op 23 juli 1998.

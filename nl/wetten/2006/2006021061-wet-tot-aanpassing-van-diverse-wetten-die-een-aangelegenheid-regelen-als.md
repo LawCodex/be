@@ -12,7 +12,7 @@ entry_into_force: 2006-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/27/2006021061/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2006. - Wet tot aanpassing van diverse wetten die een aangelegenheid regelen als bedoeld in artikel 78 van de Grondwet aan de nieuwe benaming van de wetgevende vergaderingen van de Gemeenschappen en de Gewesten.

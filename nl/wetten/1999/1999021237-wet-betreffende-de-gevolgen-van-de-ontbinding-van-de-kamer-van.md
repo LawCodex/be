@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/05/1999021237/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-1999 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Wet betreffende de gevolgen van de ontbinding van de [Kamer van volksvertegenwoordigers voor de bij de Wetgevende Kamers aanhangige] wetsontwerpen en wetsvoorstellen.&lt;W 2014-01-06/62 , art. 15, 002; Inwerkingtreding : 25-05-2014&gt;

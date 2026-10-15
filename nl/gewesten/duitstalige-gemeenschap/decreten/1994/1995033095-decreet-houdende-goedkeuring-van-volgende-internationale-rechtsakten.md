@@ -13,7 +13,7 @@ entry_into_force: 1995-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/10/17/1995033095/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 1994. - Decreet houdende goedkeuring van volgende internationale rechtsakten :

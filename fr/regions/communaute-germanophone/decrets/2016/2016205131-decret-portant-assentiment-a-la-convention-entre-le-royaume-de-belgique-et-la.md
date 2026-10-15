@@ -13,7 +13,7 @@ entry_into_force: 2016-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/09/26/2016205131/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 2016. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République orientale de l'Uruguay tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune et à prévenir la fraude fiscale, et au protocole, faits à Montevideo le 23 août 2013

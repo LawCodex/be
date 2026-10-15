@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/05/2008200803/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 12-03-2008 et mise à jour au 23-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2008. - Décret portant création d'un éco-malus sur les émissions de CO2 par les véhicules automobiles des personnes physiques dans le Code des taxes assimilées aux impôts sur les revenus

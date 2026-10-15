@@ -12,7 +12,7 @@ entry_into_force: 1937-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1936/09/11/1936091150/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 1936. - Loi approuvant la Convention internationale pour l'unification de certaines règles relatives à la saisie conservatoire des aéronefs et la Convention internationale pour l'unification de certaines règles relatives aux dommages causés par les aéronefs aux tiers à la surface, signées à Rome, le 29 mai 1933.

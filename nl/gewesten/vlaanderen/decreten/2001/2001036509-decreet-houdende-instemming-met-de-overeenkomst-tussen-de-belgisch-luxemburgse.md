@@ -13,7 +13,7 @@ entry_into_force: 2002-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/07/2001036509/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2001. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Macedonische Regering inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 17 februari 1999.

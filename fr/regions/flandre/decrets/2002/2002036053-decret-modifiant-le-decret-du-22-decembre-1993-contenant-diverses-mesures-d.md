@@ -13,7 +13,7 @@ entry_into_force: 2002-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036053/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret modifiant le décret du 22 décembre 1993 contenant diverses mesures d'accompagnement du budget 1994 (TRADUCTION).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003003277/justel"
 department: "Financiën - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2003 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet houdende toekenning van de hoedanigheid van officier van gerechtelijke politie aan bepaalde ambtenaren van de Administratie der douane en accijnzen

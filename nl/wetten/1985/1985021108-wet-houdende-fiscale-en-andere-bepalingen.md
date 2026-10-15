@@ -16,7 +16,7 @@ department: "Eerste Minister"
 justel_notes:
   - "art. 34, eerste lid, gewijzigd met ingang op een onbepaalde datum bij W 2016-05-31/09 , art. 6, 030; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 03-02-1987 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AUGUSTUS 1985. - Wet houdende fiscale en andere bepalingen.

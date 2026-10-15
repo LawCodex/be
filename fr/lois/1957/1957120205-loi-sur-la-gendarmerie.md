@@ -13,7 +13,7 @@ last_amended: 2005-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1957/12/02/1957120205/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 29-07-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1957. - Loi sur la Gendarmerie.

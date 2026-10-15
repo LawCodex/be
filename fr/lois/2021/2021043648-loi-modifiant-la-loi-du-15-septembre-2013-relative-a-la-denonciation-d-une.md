@@ -12,7 +12,7 @@ entry_into_force: 2022-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/12/2021043648/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2021. - Loi modifiant la loi du 15 septembre 2013 relative à la dénonciation d'une atteinte suspectée à l'intégrité au sein d'une autorité administrative fédérale par un membre de son personnel, en vue d'habiliter le Comité permanent P pour toutes les dénonciations faites par des membres du personnel de la police intégrée

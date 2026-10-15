@@ -13,7 +13,7 @@ entry_into_force: 2006-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/16/2006202777/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2006. - Décret relatif aux conventions de coopération pour l'organisation d'études entre institutions universitaires et portant diverses dispositions en matière d'enseignement supérieur.

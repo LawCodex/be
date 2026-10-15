@@ -12,7 +12,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/17/2022031089/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2022. - Wet tot wijziging van diverse bepalingen inzake elektronische communicatie met het oog op de invoering van bijkomende beveiligingsmaatregelen voor de verstrekking van mobiele 5G-diensten

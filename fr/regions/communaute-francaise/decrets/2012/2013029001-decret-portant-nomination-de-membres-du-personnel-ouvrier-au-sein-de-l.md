@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/13/2013029001/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2012. - Décret portant nomination de membres du personnel ouvrier au sein de l'enseignement supérieur non universitaire organisé par la Communauté française

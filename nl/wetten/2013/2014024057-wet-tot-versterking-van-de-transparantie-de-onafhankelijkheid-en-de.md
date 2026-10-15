@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2014024057/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 20-02-2014 en tekstbijwerking tot 27-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet tot versterking van de transparantie, de onafhankelijkheid en de geloofwaardigheid van de beslissingen en adviezen op het vlak van de gezondheid, de ziekteverzekering, de veiligheid van de voedselketen en het leefmilieu

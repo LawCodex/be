@@ -13,7 +13,7 @@ entry_into_force: 2023-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/07/2023043746/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2023. - Décret modifiant le décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant et portant création d'une Commission de surveillance en rapport avec les établissements privatifs de liberté pour enfants et jeunes, en ce qui concerne les commissaires de mois et le champ d'application de la Commission de surveillance pour les établissements de la jeunesse

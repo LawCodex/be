@@ -12,7 +12,7 @@ entry_into_force: 2003-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/11/2003009493/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2003. - Loi portant assentiment à l'Accord de coopération entre l'Etat, les Communautés, la Commission communautaire commune, la Commission communautaire française et les Régions pour une politique de drogues globale et intégrée.

@@ -10,7 +10,7 @@ date: 1987-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/07/17/1987015156/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1987. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Beijing op 18 april 1985.

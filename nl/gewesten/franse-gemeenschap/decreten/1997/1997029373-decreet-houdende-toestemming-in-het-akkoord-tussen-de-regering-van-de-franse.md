@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/14/1997029373/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1997. - Decreet houdende toestemming in het Akkoord tussen de Regering van de Franse Gemeenschap van België en de Regering van de Republiek Bolivia, ondertekend in Brussel op 11 oktober 1995 (VERTALING).

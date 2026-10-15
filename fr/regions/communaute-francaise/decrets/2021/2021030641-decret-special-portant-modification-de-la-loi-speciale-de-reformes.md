@@ -13,7 +13,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/11/2021030641/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2021. - Décret spécial portant modification de la loi spéciale de réformes institutionnelles du 8 août 1980 afin de garantir une présence équilibrée de femmes et d'hommes au sein du Gouvernement de la Communauté française

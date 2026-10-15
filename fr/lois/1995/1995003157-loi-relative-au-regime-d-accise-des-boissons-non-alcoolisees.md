@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/02/13/1995003157/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-08-2000 et mise à jour au 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 1995. - Loi relative au régime d'accise des boissons non alcoolisées.

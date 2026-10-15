@@ -12,7 +12,7 @@ entry_into_force: 2010-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/02/04/2010009144/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2010. - Loi relative aux méthodes de recueil des données par les services de renseignement et de sécurité

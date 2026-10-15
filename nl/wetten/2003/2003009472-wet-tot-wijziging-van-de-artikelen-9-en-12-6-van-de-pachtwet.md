@@ -12,7 +12,7 @@ entry_into_force: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/03/2003009472/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2003. - Wet tot wijziging van de artikelen 9 en 12.6 van de pachtwet.

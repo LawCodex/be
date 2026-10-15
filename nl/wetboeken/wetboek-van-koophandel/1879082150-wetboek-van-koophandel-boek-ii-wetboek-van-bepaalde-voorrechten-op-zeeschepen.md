@@ -11,7 +11,7 @@ last_amended: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1879/08/21/1879082150/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-1987 en tekstbijwerking tot 10-10-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AUGUSTUS 1879. - WETBOEK VAN KOOPHANDEL BOEK II - [Wetboek van bepaalde voorrechten op zeeschepen en diverse bepalingen] &lt;W 1997-10-21/30, art. 2, 007; Inwerkingtreding : 07-12-1997&gt; &lt;W 2018-04-15/14 , art. 259, 016; Inwerkingtreding : 01-11-2018&gt;

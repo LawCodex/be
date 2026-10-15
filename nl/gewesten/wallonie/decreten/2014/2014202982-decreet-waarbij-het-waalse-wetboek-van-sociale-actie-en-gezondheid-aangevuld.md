@@ -13,7 +13,7 @@ entry_into_force: 2014-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014202982/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet waarbij het Waalse wetboek van sociale actie en gezondheid aangevuld wordt met een Boek VII betreffende lesbiennes, homoseksuelen, biseksuelen en transseksuelen

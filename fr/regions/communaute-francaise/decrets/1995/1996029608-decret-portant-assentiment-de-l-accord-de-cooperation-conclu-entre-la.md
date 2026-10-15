@@ -13,7 +13,7 @@ entry_into_force: 1996-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1996029608/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret portant assentiment de l'Accord de coopération conclu entre la Communauté française de Belgique et le Gouvernement de la Vallée d'Aoste, signé à Aoste le 3 février 1994.

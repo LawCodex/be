@@ -13,7 +13,7 @@ entry_into_force: 2026-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/19/2026004788/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2026. - Decreet tot wijziging van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen, wat betreft de omzetting van Richtlijn (EU) 2023/2226 van de Raad van 17 oktober 2023 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen

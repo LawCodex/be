@@ -13,7 +13,7 @@ entry_into_force: 1994-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/23/1994035549/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1994. - Décret relatif au bénévolat organisé dans le secteur de l'aide sociale et de la santé. &lt;Traduction&gt;

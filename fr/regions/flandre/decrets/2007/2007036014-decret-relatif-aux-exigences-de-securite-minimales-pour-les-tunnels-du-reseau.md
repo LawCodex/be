@@ -13,7 +13,7 @@ entry_into_force: 2007-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/01/2007036014/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2007. - Décret relatif aux exigences de sécurité minimales pour les tunnels du réseau routier transeuropéen (TRADUCTION).

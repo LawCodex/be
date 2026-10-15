@@ -12,7 +12,7 @@ entry_into_force: 2019-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/01/2019011060/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Wet houdende aanpassing van de Financiewet van 21 december 2018 voor het begrotingsjaar 2019

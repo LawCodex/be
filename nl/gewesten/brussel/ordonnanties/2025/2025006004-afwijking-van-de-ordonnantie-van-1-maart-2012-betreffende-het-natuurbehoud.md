@@ -13,7 +13,7 @@ entry_into_force: 2025-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/08/12/2025006004/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2025. - Afwijking van de Ordonnantie van 1 maart 2012 betreffende het natuurbehoud

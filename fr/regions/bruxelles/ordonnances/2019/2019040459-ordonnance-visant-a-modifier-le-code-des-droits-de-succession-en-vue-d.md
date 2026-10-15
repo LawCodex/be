@@ -13,7 +13,7 @@ entry_into_force: 2019-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/02/21/2019040459/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2019. - Ordonnance visant à modifier le Code des droits de succession en vue d'harmoniser les taux et d'assurer l'égalité de traitement entre fondations d'utilité publique et asbl agréées

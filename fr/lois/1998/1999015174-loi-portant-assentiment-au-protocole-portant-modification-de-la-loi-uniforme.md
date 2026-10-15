@@ -12,7 +12,7 @@ entry_into_force: 1999-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/04/1999015174/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1998.- Loi portant assentiment au Protocole portant modification de la loi uniforme Benelux en matière de dessins ou modèles, fait à Bruxelles le 28 mars 1995.

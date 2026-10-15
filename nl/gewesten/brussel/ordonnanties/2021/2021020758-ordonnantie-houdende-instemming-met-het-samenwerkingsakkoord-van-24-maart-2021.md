@@ -13,7 +13,7 @@ entry_into_force: 2021-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/04/02/2021020758/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2021. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 24 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde entiteiten, de lokale overheden of politiediensten met als doel het handhaven van de verplichte quarantaine of testing van de reizigers afkomstig uitkomende van buitenlandse zones bij wie een quarantaine of testing verplicht is bij aankomst in België

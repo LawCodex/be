@@ -12,7 +12,7 @@ entry_into_force: 2007-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/21/2006009050/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2006. - Loi portant confirmation de l'arrêté royal du 21 décembre 2005 relatif à la contribution aux frais de fonctionnement, de personnel et d'installation de la commission des jeux de hasard due par les titulaires de licences de classe A, B, C et E pour l'année civile 2006.

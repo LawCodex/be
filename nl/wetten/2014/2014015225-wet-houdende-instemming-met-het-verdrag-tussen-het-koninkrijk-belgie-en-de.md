@@ -12,7 +12,7 @@ entry_into_force: 2015-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/12/2014015225/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2014. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en de Dominicaanse Republiek betreffende de overbrenging van gevonniste personen, ondertekend te Santo Domingo op 5 mei 2009

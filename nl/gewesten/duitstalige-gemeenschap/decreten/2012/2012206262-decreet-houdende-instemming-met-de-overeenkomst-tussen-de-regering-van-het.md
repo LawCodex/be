@@ -11,7 +11,7 @@ date: 2012-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/10/22/2012206262/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2012. - Decreet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen en met het Protocol, gedaan te Brussel op 7 oktober 2009

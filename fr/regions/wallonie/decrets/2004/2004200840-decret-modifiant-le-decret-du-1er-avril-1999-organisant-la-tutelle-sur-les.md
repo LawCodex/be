@@ -13,7 +13,7 @@ entry_into_force: 2004-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200840/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2004. - Décret modifiant le décret du 1er avril 1999 organisant la tutelle sur les communes, les provinces et les intercommunales de la Région wallonne.

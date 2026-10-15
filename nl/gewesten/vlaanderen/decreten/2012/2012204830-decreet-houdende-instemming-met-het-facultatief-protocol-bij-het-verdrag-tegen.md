@@ -11,7 +11,7 @@ date: 2012-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204830/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - DECREET houdende instemming met het facultatief protocol bij het verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, opgemaakt in New York op 18 december 2002

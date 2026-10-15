@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 21, 45, 46, 47quinquies, 50, modifié par <DCFL 2007-12-21/82 , art. 36 à 40; En vigueur : 01-05-2009>"
   - "Consultation des versions antérieures à partir du 29-04-1995 et mise à jour au 22-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1995. - Décret relatif à l'assainissement du sol. (TRADUCTION)

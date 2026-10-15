@@ -12,7 +12,7 @@ entry_into_force: 1990-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/18/1990000402/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1990. - Loi relative aux traitements des titulaires de certaines fonctions publiques et des ministres des cultes.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/05/31/2011011220/justel"
 department: "Justice - Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2011 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2011. - Loi portant des dispositions diverses en matière de télécommunications

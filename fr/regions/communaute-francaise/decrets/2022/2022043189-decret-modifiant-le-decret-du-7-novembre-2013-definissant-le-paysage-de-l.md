@@ -13,7 +13,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/14/2022043189/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2022. - Décret modifiant le décret du 7 novembre 2013 définissant le paysage de l'Enseignement supérieur et l'organisation académique des études en ce qui concerne les habilitations

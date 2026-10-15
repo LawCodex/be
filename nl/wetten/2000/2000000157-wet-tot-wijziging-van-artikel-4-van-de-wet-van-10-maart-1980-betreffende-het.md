@@ -12,7 +12,7 @@ entry_into_force: 2000-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/10/2000000157/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2000. - Wet tot wijziging van artikel 4 van de wet van 10 maart 1980 betreffende het verlenen van de eretitel van hun ambt aan de burgemeesters, aan de schepenen en aan de voorzitters van de raden van de openbare centra voor maatschappelijk welzijn of van de gewezen commissies van openbare onderstand.

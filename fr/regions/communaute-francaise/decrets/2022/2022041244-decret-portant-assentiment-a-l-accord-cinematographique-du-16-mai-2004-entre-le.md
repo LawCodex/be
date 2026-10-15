@@ -13,7 +13,7 @@ entry_into_force: 2022-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/12/2022041244/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2022. - Décret portant assentiment à l'Accord cinématographique du 16 mai 2004 entre le Gouvernement de la Communauté française de Belgique et le Gouvernement de la République française, tel que modifié le 29 décembre 2020 par échange de lettres

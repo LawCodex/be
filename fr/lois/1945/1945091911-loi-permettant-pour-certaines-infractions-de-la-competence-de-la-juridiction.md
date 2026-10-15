@@ -11,7 +11,7 @@ published: 1945-10-04
 entry_into_force: 1945-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1945/09/19/1945091911/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 1945. - Loi permettant pour certaines infractions de la compétence de la juridiction militaire l'extinction de l'action publique moyennant le paiement d'une somme d'argent.

@@ -11,7 +11,7 @@ published: 1935-07-31
 entry_into_force: 1936-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1935/07/08/1935070801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1935. - Wet betreffende boter, margarine, bereide vetten en andere eetbare vetten.

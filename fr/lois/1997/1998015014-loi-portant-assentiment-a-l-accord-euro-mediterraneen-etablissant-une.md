@@ -12,7 +12,7 @@ entry_into_force: 1999-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/13/1998015014/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1997. - Loi portant assentiment à l'Accord euro-méditerranéen établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République tunisienne, d'autre part, Annexes 1 à 7, Protocoles 1 à 5, et Acte final, faits à Bruxelles le 17 juillet 1995

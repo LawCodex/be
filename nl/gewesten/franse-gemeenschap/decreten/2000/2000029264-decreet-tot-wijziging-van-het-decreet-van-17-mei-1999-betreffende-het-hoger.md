@@ -12,7 +12,7 @@ published: 2000-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/05/2000029264/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2000. - Decreet tot wijziging van het decreet van 17 mei 1999 betreffende het hoger kunstonderwijs (VERTALING).

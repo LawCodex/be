@@ -13,7 +13,7 @@ entry_into_force: 2001-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/29/2001029177/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2001. - Decreet tot wijziging van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd in zijn bepalingen omtrent de Arrondissementsraden voor hulpverlening aan de jeugd. (VERTALING).

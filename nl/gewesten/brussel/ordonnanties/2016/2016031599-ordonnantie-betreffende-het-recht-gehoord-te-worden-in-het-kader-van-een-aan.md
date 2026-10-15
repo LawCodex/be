@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/07/20/2016031599/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 14-09-2016 en tekstbijwerking tot 31-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Ordonnantie betreffende het recht gehoord te worden in het kader van een aan het Parlement gerichte petitie

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/31/2017040213/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2017. - Decreet houdende instemming met 1° het aanvullende akkoord, gesloten te Straatsburg op 3 december 1974 tussen het Koninkrijk België en de Raad van Europa, bij het algemeen akkoord inzake de voorrechten en immuniteiten van de Raad van Europa, ondertekend te Parijs op 2 september 1949, zoals gewijzigd door het eerste protocol, ondertekend te Straatsburg op 9 december 1987 en door het tweede protocol, ondertekend te Brussel op 15 april 2016; 2° het tweede protocol, ondertekend te Brussel op 15 april 2016 tot wijziging en aanvulling van het onder 1° vermelde aanvullende akkoord

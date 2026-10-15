@@ -13,7 +13,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/04/18/2013204570/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2013. - Décret modifiant certaines dispositions de la loi du 8 juillet 1976 organique des centres publics d'action sociale

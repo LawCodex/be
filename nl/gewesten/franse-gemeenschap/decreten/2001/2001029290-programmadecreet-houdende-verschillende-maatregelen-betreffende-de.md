@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029290/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2001 en tekstbijwerking tot 14-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Programmadecreet houdende verschillende maatregelen betreffende de begrotingsfondsen, het onderwijs, de vakantiecentra en de medische schoolinspectie. (Vertaling)

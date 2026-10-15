@@ -11,7 +11,7 @@ published: 1971-02-23
 entry_into_force: 1971-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/02/17/1971021701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1971. - Wet tot wijziging van de wet van 20 september 1948 houdende organisatie van het bedrijfsleven en van de wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers alsmede de salubriteit van het werk en van de werkplaatsen.

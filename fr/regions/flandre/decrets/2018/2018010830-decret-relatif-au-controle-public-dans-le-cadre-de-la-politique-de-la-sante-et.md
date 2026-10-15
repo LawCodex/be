@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/19/2018010830/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-02-2018 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2018. - Décret relatif au contrôle public dans le cadre de la politique de la santé et de l'aide sociale

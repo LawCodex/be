@@ -13,7 +13,7 @@ entry_into_force: 2004-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/27/2003033105/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2003. - Décret portant assentiment au Protocole facultatif à la Convention relative aux droits de l'enfant, concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants, adopté à New York le 25 mai 2000 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2010-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/11/2010035015/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2009. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Brusselse Hoofdstedelijke Gewest, het Vlaamse Gewest en het Waalse Gewest met betrekking tot de implementatie van de bedrijfstoeslagregeling

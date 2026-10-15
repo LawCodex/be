@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004201654/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2004 en tekstbijwerking tot 18-02-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet betreffende [...] te herontwikkelen bedrijfsruimten (VERTALING). &lt;DWG 2008-12-05/75 , art. 98, 004; Inwerkingtreding : 18-05-2009&gt;

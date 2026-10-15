@@ -13,7 +13,7 @@ entry_into_force: 2015-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/20/2015035426/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2015. - Décret modifiant le décret du 3 mai 1989 portant agrément des services d'adoption et modifiant le décret du 20 janvier 2012 réglant l'adoption internationale d'enfants

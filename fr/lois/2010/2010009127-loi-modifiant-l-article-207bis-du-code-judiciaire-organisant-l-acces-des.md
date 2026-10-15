@@ -12,7 +12,7 @@ entry_into_force: 2010-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/31/2010009127/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2010. - Loi modifiant l'article 207bis du Code judiciaire, organisant l'accès des notaires à la fonction de conseiller suppléant au sein d'une cour d'appel

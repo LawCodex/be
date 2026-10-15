@@ -13,7 +13,7 @@ entry_into_force: 1993-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/08/1993029399/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1993. - Décret (I) relatif au transfert de l'exercice de certaines compétences de la Communauté française à la Commission Communautaire française.

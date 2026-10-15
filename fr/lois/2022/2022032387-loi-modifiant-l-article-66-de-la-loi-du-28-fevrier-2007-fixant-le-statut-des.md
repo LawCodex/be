@@ -12,7 +12,7 @@ entry_into_force: 2022-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/02/2022032387/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2022. - Loi modifiant l'article 66 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées

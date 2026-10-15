@@ -11,7 +11,7 @@ date: 2007-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/24/2007011410/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2007. - Decreet houdende instemming met het samenwerkingsakkoord van 9 februari 2007 tot wijziging van het samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de uitvoering en financiering van bodemsanering van tankstations (VERTALING).

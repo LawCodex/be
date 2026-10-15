@@ -12,7 +12,7 @@ entry_into_force: 2020-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/03/2020043985/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2020. - Loi modifiant le Code des droits d'enregistrement, d'hypothèque et de greffe en vue de rendre obligatoire l'enregistrement d'actes notariés étrangers (II)

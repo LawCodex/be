@@ -11,7 +11,7 @@ date: 2002-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028119/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet tot wijziging van het decreet van 1 april 1999 houdende oprichting van de publiekrechtelijke N.V. "SARSI" (VERTALING).

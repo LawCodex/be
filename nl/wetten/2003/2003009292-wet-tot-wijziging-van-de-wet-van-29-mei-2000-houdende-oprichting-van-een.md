@@ -12,7 +12,7 @@ entry_into_force: 2011-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/27/2003009292/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2003. - Wet tot wijziging van de wet van 29 mei 2000 houdende oprichting van een centraal bestand van berichten van beslag, delegatie, overdracht en collectieve schuldenregeling, alsook tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek

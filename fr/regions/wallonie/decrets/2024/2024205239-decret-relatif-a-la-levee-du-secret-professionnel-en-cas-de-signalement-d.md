@@ -13,7 +13,7 @@ entry_into_force: 2024-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024205239/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret relatif à la levée du secret professionnel en cas de signalement d'informations sur une irrégularité suspectée au sein de Wallonie-Bruxelles International

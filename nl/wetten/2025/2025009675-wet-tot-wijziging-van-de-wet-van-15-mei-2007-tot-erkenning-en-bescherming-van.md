@@ -12,7 +12,7 @@ entry_into_force: 2025-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/11/2025009675/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2025. - Wet tot wijziging van de wet van 15 mei 2007 tot erkenning en bescherming van het beroep van auto-expert en tot oprichting van een Instituut van de auto-experts voor wat betreft het beroep tegen de verkiezingsresultaten (II)

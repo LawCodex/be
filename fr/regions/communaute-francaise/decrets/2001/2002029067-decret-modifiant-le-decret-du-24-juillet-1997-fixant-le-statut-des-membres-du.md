@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002029067/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret modifiant le décret du 24 juillet 1997 fixant le statut des membres du personnel directeur et enseignant et du personnel d'éducation des hautes écoles organisées ou subventionnées par la Communauté française.

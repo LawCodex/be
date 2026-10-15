@@ -11,7 +11,7 @@ published: 1998-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/11/30/1998015151/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1994. - Loi portant approbation des actes internationaux suivants : 1. Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République Slovaque, d'autre part, Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc et XVII, Protocoles 1, 2, 3, 4, 5, 6, 7 et 8, et Acte final; 2. Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République Tchèque, d'autre part, Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc et XVII, Protocoles 1, 2, 3, 4, 5, 6, 7 et 8, et Acte final, signés à Luxembourg le 4 octobre 1993.

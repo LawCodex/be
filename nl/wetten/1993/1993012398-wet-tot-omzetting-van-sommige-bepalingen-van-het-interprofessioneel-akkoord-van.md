@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/06/10/1993012398/justel"
 department: "Tewerkstelling en Arbeid - Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1993. - Wet tot omzetting van sommige bepalingen van het interprofessioneel akkoord van 9 december 1992.

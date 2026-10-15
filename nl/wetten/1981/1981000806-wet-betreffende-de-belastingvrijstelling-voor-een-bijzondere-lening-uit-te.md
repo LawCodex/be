@@ -12,7 +12,7 @@ entry_into_force: 1981-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/05/15/1981000806/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 1981. - WET betreffende de belastingvrijstelling voor een bijzondere lening uit te geven in Belgie

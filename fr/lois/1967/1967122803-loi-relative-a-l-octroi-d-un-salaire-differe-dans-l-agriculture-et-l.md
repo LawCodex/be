@@ -11,7 +11,7 @@ published: 1968-01-20
 entry_into_force: 1968-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/12/28/1967122803/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1967. - Loi relative à l'octroi d'un salaire différé dans l'agriculture et l'horticulture.

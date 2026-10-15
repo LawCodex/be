@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/24/2013029165/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 04-03-2013 et mise à jour au 06-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2013. - Décret portant création de la fonction de logisticien de recherche au sein des universités en Communauté française

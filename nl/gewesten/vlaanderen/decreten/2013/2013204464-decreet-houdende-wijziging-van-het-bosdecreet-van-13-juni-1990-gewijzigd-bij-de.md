@@ -13,7 +13,7 @@ entry_into_force: 2013-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013204464/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet houdende wijziging van het Bosdecreet van 13 juni 1990, gewijzigd bij de decreten van 18 mei 1999, 7 december 2007 en 30 april 2009, en het Veldwetboek van 7 oktober 1886, gewijzigd bij de wet van 4 december 1961, wat betreft het verminderen van de minimumafstand tussen bossen en vuur tot 25 meter

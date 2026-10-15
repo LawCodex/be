@@ -12,7 +12,7 @@ entry_into_force: 2022-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/01/2022202055/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2022. - Loi modifiant la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale

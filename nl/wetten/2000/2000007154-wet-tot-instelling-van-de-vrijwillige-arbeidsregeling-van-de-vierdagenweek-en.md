@@ -17,7 +17,7 @@ justel_notes:
   - "verschillende art. gewijzigd met uitwerking op een onbepaalde datum <W 2007-02-28/35 , art. 231, 008; Inwerkingtreding : 31-12-2013 (zie art. 272)"
   - "Artikel 232 tot artikel 234 van de W 28/02/2007 dat oorspronkelijk in wijzigingen van de W 25/05/2000 voorzag is, voor zijn inwerkingtreding, vervangen door de artikelen 331 tot 333 van de wet van 31 juli 2013 ( 2013-07-31/04 ) tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen van het actief kader van de Krijgsmacht en tot wijziging van sommige bepalingen betreffende het statuut van het militair personeel. Deze artikelen vervangen de oorspronkelijke artikelen 232 tot 234 van de W 28/02/2007 door een nieuwe bepaling die de artikelen 5, 6 en 11 van de Wet 25/05/2000 wijzigt. Hiermee heeft de wetgever te kennen gegeven dat hij afstand doet van zijn oorspronkelijke wijzigingen. Met andere woorden zullen de artikelen 232 tot 234 van de W 28/02/2007, zoals deze voor zijn vervanging door de W 31/07/2013 bestond, nooit in werking treden"
   - "Raadpleging van vroegere versies vanaf 29-06-2000 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2000. - Wet tot instelling van de vrijwillige arbeidsregeling van de vierdagenweek en de regeling van de halftijdse vervroegde uitstap voor sommige militairen en tot wijziging van het statuut van de militairen met het oog op de instelling van de tijdelijke ambtsontheffing wegens loopbaanonderbreking.

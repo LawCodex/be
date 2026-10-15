@@ -12,7 +12,7 @@ entry_into_force: 2022-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/14/2023203821/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2022. - Decreet tot wijziging van het decreet van 1 juni 2004 betreffende de gezondheidspromotie en inzake medische preventie

@@ -12,7 +12,7 @@ entry_into_force: 2023-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/08/2023206445/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2023. - Loi modifiant la loi du 7 mai 1999 portant création du Palais des Beaux-Arts sous la forme d'une société anonyme de droit public à finalité sociale et modifiant la loi du 30 mars 1995 concernant les réseaux de distribution d'émissions de radiodiffusion et l'exercice d'activités de radiodiffusion dans la région bilingue de Bruxelles-Capitale

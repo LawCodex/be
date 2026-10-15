@@ -11,7 +11,7 @@ published: 2008-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/09/19/2008015157/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2008. - Wet houdende instemming met het Protocol en de Gezamenlijke Verklaring, ondertekend te Brussel op 17 april 2007, tot wijziging van het Aanvullend Protocol inzake de belastingen, gevoegd bij de Overeenkomst inzake de administratieve en strafrechtelijke samenwerking op het gebied van de regelingen die verband houden met de verwezenlijking van de doelstellingen van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 29 april 1969.

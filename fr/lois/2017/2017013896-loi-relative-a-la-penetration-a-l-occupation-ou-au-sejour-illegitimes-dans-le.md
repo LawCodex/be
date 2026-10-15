@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/18/2017013896/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 06-11-2017 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 2017. - Loi relative à la pénétration, à l'occupation ou au séjour illégitimes dans le bien d'autrui

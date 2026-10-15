@@ -13,7 +13,7 @@ entry_into_force: 2026-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026005757/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret modifiant le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études et remplaçant ses annexes

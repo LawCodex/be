@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/08/2018206018/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2018. - Decreet betreffende de verzekeringsinstellingen en houdende wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid

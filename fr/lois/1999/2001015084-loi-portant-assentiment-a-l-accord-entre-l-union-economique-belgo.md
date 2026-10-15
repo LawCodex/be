@@ -12,7 +12,7 @@ entry_into_force: 2001-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/05/2001015084/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1999. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement d'Ukraine concernant l'encouragement et la protection réciproques des investissements, signé à Kiev le 20 mai 1996.

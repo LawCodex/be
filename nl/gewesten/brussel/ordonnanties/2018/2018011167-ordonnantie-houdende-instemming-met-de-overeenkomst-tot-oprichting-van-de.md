@@ -13,7 +13,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/03/01/2018011167/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2018. - Ordonnantie houdende instemming met: de Overeenkomst tot oprichting van de internationale EU-LAC Stichting, ondertekend op 25 oktober 2016 te Santo Domingo

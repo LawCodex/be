@@ -13,7 +13,7 @@ entry_into_force: 2005-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036058/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Décret modifiant le décret du 15 juillet 1997 contenant le Code flamand du Logement, en ce qui concerne le droit d'achat des locataires sociaux (TRADUCTION).

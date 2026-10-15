@@ -12,7 +12,7 @@ entry_into_force: 2000-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/28/2000022046/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1999. - Wet tot wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.

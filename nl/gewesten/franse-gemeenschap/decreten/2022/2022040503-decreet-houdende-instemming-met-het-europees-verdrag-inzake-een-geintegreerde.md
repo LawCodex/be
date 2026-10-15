@@ -13,7 +13,7 @@ entry_into_force: 2022-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/24/2022040503/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2022. - Decreet houdende instemming met het Europees Verdrag inzake een geïntegreerde veiligheid, beveiliging en dienstenbenadering bij voetbalwedstrijden en andere sportevenementen, opgemaakt te Saint-Denis op 3 juli 2016

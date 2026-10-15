@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/21/2008036402/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2008. - Decreet houdende wijziging van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening en van het decreet van 24 juli 1996 tot vaststelling van het statuut van de niet-professionele sportbeoefenaar.

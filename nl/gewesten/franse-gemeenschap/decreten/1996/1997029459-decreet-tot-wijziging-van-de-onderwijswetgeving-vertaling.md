@@ -12,7 +12,7 @@ published: 1997-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/02/1997029459/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1996. - Decreet tot wijziging van de onderwijswetgeving (VERTALING).

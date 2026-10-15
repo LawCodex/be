@@ -13,7 +13,7 @@ entry_into_force: 2019-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/21/2019040149/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Ordonnance portant assentiment à l'accord de coopération entre la Commission communautaire commune et la Commission communautaire française concernant la création et le fonctionnement de la commission permanente de concertation en matière de transport médico-sanitaire

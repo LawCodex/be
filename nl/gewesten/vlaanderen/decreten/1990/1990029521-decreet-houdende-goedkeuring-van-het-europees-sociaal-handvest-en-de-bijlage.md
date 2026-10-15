@@ -13,7 +13,7 @@ entry_into_force: 1990-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/03/21/1990029521/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 1990. - Decreet houdende goedkeuring van het Europees Sociaal handvest en de Bijlage, opgemaakt te Turijn op 18 oktober 1961.

@@ -13,7 +13,7 @@ entry_into_force: 2016-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/20/2016027305/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2016. - Décret portant modification du décret du 10 juillet 2013 instaurant un cadre pour parvenir à une utilisation des pesticides compatible avec le développement durable et modifiant le Livre 1er du Code de l'Environnement, le Livre II du Code de l'Environnement contenant le Code de l'Eau, la loi du 28 décembre 1967 relative aux cours d'eau non navigables et le décret du 12 juillet 2001 relatif à la formation professionnelle en agriculture

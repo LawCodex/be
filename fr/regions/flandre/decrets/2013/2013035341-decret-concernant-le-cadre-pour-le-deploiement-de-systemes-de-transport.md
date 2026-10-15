@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/29/2013035341/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2013 et mise à jour au 23-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2013. - Décret concernant le cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport

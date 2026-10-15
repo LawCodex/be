@@ -11,7 +11,7 @@ date: 2006-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006036327/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Democratische Republiek Congo, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Kinshasa op 17 februari 2005.

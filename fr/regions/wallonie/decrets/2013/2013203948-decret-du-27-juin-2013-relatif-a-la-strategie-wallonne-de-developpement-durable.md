@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/27/2013203948/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 09-07-2013 et mise à jour au 26-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2013. - [Décret du 27 juin 2013 relatif à la stratégie wallonne de développement durable pour les matières réglées en vertu de l'article 138 de la Constitution et aux thématiques de transition en émanant] &lt;Initulé modifié par DRW 2019-05-02/56 , art. 2, 004; En vigueur : 05-08-2019&gt;

@@ -12,7 +12,7 @@ published: 1998-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/23/1998027489/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1998. - Décret portant modification du décret du 27 novembre 1997 modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.

@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/26/2015035857/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2015. - Décret modifiant le décret-cadre sur la politique administrative du 18 juillet 2003, en ce qui concerne l'organisation de la mise en oeuvre de la politique et la préparation de la politique, les plans d'entreprise et les services communs

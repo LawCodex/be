@@ -12,7 +12,7 @@ entry_into_force: 2000-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/23/2000021243/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2000. - Wijziging aan de Grondwet.

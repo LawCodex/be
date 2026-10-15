@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/30/2023030966/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2023. - Decreet tot bestendiging van de steun aan de feministische verenigingssector en tot versterking van zijn deelname aan het beleid van de Franse Gemeenschap

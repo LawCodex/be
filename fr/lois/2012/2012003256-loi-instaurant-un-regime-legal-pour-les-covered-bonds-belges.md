@@ -12,7 +12,7 @@ entry_into_force: 2012-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012003256/justel"
 department: "Finances - Economie, PME, Classes moyennes et Energie - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi instaurant un régime légal pour les covered bonds belges

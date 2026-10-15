@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004718/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-05-2024 et mise à jour au 24-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret relatif à la fusion volontaire des communes de Bilzen et Hoeselt et portant modification de l'annexe au Décret électoral local et provincial du 8 juillet 2011 [...] (Intitulé modifié par &lt;DCFL 2024-05-03/14 , art. 2, 002; En vigueur : 01-01-2025&gt;)

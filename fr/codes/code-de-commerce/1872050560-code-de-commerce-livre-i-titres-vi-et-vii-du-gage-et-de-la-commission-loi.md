@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1872/05/05/1872050560/justel"
 justel_notes:
   - "Les articles 1 à 10 du titre VI sont abrogés sauf dans la mesure nécessaire à l'application de l'article 11 du présent code par L 2013-07-11/19 , art. 102, 006; En vigueur : 01-01-2018"
   - "Consultation des versions antérieures à partir du 14-02-1997 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1872. - CODE DE COMMERCE : LIVRE I \_ TITRES VI et VII. \_ Du Gage et De la Commission. (Loi portant révision des dispositions du Code de commerce relatives au gage et à la Commission.)

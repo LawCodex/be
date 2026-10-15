@@ -13,7 +13,7 @@ entry_into_force: 2007-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/12/2007202472/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2007. - Décret portant ratification de l'arrêté du 9 février 2006 modifiant, en exécution de l'article 1er du décret-programme du 3 février 2005 de relance économique et de simplification administrative, le décret du 11 juillet 2002 relatif à l'octroi d'une prime à l'intégration de l'e-business dans les petites et moyennes entreprises et les décrets du 11 mars 2004 relatifs respectivement aux incitants régionaux en faveur de grandes entreprises, aux incitants destinés à favoriser les protections de l'environnement et l'utilisation durable de l'énergie.

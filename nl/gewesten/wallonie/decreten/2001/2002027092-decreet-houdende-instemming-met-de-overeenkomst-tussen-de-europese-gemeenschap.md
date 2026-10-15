@@ -13,7 +13,7 @@ entry_into_force: 2002-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002027092/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet houdende instemming met de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Confederatie, anderzijds, betreffende het vrije verkeer van personen, met de Bijlagen, de Protocollen en de Slotakte, opgemaakt te Luxemburg, op 21 juni 1999 (VERTALING).

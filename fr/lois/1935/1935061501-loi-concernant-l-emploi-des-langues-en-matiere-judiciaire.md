@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1935/06/15/1935061501/justel"
 justel_note: "Consultation des versions antérieures à partir du 05-11-1985 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 1935. - LOI concernant l'emploi des langues en matière judiciaire.

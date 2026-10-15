@@ -13,7 +13,7 @@ entry_into_force: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203356/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à l'Accord de Partenariat économique entre les Etats du Cariforum, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, et l'Acte final, faits à Bridgetown, la Barbade, le 15 octobre 2008

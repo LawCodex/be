@@ -12,7 +12,7 @@ entry_into_force: 2012-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/22/2012011123/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2012. - Loi modifiant le Code des sociétés et la loi du 17 juillet 1975 relative à la comptabilité des entreprises

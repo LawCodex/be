@@ -12,7 +12,7 @@ published: 2006-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/02/2006202335/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Decreet houdende wijziging van het decreet van 17 juli 2002 tot bepaling van het getuigschrift van pedagogische bekwaamheid voor het hoger onderwijs (CAPAES "certificat d'aptitude pédagogique approprié à l'enseignement supérieur") in de hogescholen en van de voorwaarden voor het verkrijgen ervan (VERTALING).

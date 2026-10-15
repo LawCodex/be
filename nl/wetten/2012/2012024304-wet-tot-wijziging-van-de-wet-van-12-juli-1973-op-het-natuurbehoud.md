@@ -10,7 +10,7 @@ date: 2012-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/12/2012024304/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Wet tot wijziging van de wet van 12 juli 1973 op het natuurbehoud

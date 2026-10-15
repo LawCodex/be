@@ -12,7 +12,7 @@ entry_into_force: 1997-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/12/1997021409/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 1997. - Loi portant confirmation des arrêtés royaux pris en application de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne, et de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.

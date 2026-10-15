@@ -12,7 +12,7 @@ entry_into_force: 2006-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/27/2006015063/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2006. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et les Etats-Unis d'Amérique sur l'exercice d'activités à but lucratif par certains membres de la famille de membres du personnel diplomatique et consulaire, conclu par échange de notes datées à Bruxelles le 19 février 2004 et le 18 mars 2004.

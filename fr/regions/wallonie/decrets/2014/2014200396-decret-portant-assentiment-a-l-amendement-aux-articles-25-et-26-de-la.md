@@ -13,7 +13,7 @@ entry_into_force: 2014-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/09/2014200396/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2014. - Décret portant assentiment à l'Amendement aux articles 25 et 26 de la Convention d'Helsinki du 17 mars 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, adopté à Madrid le 28 novembre 2003

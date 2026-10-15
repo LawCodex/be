@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1988/06/24/1988062452/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2016 et mise à jour au 23-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1988. - NOUVELLE LOI COMMUNALE (REGION DE BRUXELLES-CAPITALE)

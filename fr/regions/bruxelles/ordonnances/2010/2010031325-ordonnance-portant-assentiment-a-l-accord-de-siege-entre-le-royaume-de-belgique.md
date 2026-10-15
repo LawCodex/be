@@ -13,7 +13,7 @@ entry_into_force: 2010-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/06/17/2010031325/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2010. - Ordonnance portant assentiment à : l'Accord de siège entre le Royaume de Belgique et le Secrétariat du "Regional Cooperation Council," signé à Bruxelles le 29 août 2008

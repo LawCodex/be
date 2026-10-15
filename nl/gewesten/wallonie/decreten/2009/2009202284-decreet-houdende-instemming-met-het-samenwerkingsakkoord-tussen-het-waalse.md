@@ -13,7 +13,7 @@ entry_into_force: 2009-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202284/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming met het Samenwerkingsakkoord tussen het Waalse Gewest en de Duitstalige Gemeenschap betreffende de voogdij over de kerkfabrieken van de protestantse eredienst waarvan de activiteit zich tegelijkertijd op het grondgebied van het Waalse Gewest en op het grondgebied van de Duitstalige Gemeenschap uitstrekt, ondertekend te Eupen, op 22 januari 2009

@@ -12,7 +12,7 @@ entry_into_force: 2017-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/06/2017010854/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2017. - Wet tot wijziging van de wet van 3 juni 2007 betreffende diverse arbeidsbepalingen en de wet van 13 juni 2014 tot uitvoering en controle van de toepassing van het Verdrag betreffende maritieme arbeid 2006

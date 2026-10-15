@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/05/08/2026003911/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2026. - Décret modifiant le Code judiciaire et la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, en ce qui concerne le congé de formation flamand

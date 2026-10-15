@@ -11,7 +11,7 @@ published: 2017-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/08/11/2017030984/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AUGUSTUS 2017. - Wet houdende diverse bepalingen inzake gezondheid

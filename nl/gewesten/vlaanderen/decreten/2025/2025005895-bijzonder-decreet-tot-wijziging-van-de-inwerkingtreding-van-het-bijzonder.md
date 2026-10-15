@@ -13,7 +13,7 @@ entry_into_force: 2025-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/18/2025005895/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Bijzonder decreet tot wijziging van de inwerkingtreding van het bijzonder decreet van 17 mei 2024 tot wijziging van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, wat betreft het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht

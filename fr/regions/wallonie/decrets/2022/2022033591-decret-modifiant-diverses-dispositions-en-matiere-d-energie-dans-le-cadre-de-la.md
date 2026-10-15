@@ -13,7 +13,7 @@ entry_into_force: 2022-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/05/2022033591/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Décret modifiant diverses dispositions en matière d'énergie dans le cadre de la transposition partielle des directives 2019/944/UE du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité et 2018/2001/UE du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et en vue d'adapter les principes relatifs à la méthodologie tarifaire

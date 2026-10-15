@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996000398/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 20-08-1996 et mise à jour au 24-07-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi modifiant les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973

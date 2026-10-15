@@ -13,7 +13,7 @@ entry_into_force: 1983-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/03/30/1983023184/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1983. \_ Decreet houdende de goedkeuring van de overeenkomst tot uitschakeling van elke vorm van discriminatie ten opzichte van de vrouw, gedaan te New York op 18 december 1979.

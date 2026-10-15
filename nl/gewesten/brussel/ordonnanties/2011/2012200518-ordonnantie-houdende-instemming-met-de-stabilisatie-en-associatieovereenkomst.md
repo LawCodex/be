@@ -13,7 +13,7 @@ entry_into_force: 2012-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/12/16/2012200518/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2011. - Ordonnantie houdende instemming met : de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Servië, anderzijds, en met de Slotakte, gedaan te Luxemburg op 29 april 2008

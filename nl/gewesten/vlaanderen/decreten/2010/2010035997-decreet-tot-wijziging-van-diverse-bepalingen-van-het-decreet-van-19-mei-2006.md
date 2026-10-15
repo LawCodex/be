@@ -13,7 +13,7 @@ entry_into_force: 2010-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/10/2010035997/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2010. - Decreet tot wijziging van diverse bepalingen van het decreet van 19 mei 2006 betreffende de Winwinlening en van het decreet van 19 december 2003 betreffende het activeren van risicokapitaal in Vlaanderen

@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/23/1998035829/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1998. - Décret relatif à la réforme de l'enseignement supérieur de kinésithérapie et sciences de réadaptation motrice en Communauté flamande (TRADUCTION).

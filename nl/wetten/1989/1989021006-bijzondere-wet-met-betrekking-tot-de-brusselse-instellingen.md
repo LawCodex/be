@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/01/12/1989021006/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 12-05-1989 en tekstbijwerking tot 08-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 1989. - Bijzondere wet met betrekking tot de Brusselse Instellingen.

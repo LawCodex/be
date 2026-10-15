@@ -11,7 +11,7 @@ published: 1977-12-13
 entry_into_force: 1997-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/09/19/1977091903/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 1977. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Tsjechoslowaakse Socialistische Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Praag op 19 juni 1975.

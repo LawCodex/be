@@ -12,7 +12,7 @@ entry_into_force: 2022-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/27/2022034262/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2022. - Loi modifiant la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé concernant la maîtrise de l'offre

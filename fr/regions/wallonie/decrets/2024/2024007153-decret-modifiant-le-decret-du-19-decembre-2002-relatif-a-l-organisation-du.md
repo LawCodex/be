@@ -13,7 +13,7 @@ entry_into_force: 2024-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/28/2024007153/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2024. - Décret modifiant le décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz et le décret du 9 décembre 1993 relatif à la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie et des énergies renouvelables

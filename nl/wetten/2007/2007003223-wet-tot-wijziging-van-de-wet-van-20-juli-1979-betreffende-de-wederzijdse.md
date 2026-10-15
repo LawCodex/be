@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/27/2007003223/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - Wet tot wijziging van de wet van 20 juli 1979 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit bepaalde bijdragen, rechten, belastingen en andere maatregelen, in uitvoering van de richtlijn 2006/84/EG van de Commissie van 23 oktober 2006.

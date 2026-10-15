@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/15/1998033004/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1997. - Décret portant assentiment à la Convention contre le dopage faite à Strasbourg le 16 novembre 1989 (TRADUCTION).

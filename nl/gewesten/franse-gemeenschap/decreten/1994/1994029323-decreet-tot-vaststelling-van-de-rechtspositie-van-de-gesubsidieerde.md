@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/06/1994029323/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-1995 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 1994. - Decreet tot vaststelling van de rechtspositie van de gesubsidieerde personeelsleden van het officieel gesubsidieerd onderwijs. (Vertaling)

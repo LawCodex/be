@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004036114/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-07-2004 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret portant la Charte du demandeur d'emploi (TRADUCTION)

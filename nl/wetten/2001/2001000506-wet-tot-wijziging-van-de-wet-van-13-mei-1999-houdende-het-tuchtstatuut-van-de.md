@@ -12,7 +12,7 @@ entry_into_force: 2001-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/31/2001000506/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2001. - Wet tot wijziging van de wet van 13 mei 1999 houdende het tuchtstatuut van de personeelsleden van de politiediensten en van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus.

@@ -12,7 +12,7 @@ entry_into_force: 2021-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/04/2021041354/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2021. - Wet tot wijziging van de wet van 15 mei 2014 houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance, betreffende de eenmalige verlenging van de toepassingsperiode van de steunzones

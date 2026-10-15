@@ -13,7 +13,7 @@ entry_into_force: 2017-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/16/2017206318/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2017. - Décret modifiant l'article D.IV.99 et le Livre VII du Code du Développement territorial en vue d'y insérer un article D.VII.1bis instaurant une présomption de conformité urbanistique pour certaines infractions

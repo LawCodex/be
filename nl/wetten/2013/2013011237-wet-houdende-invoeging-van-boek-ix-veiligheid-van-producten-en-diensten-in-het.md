@@ -12,7 +12,7 @@ entry_into_force: 2013-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/25/2013011237/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2013. - Wet houdende invoeging van boek IX " Veiligheid van producten en diensten " in het Wetboek van economisch recht en houdende invoeging van de definities eigen aan boek IX in boek I van het Wetboek van economisch recht

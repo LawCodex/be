@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1996022537/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. Wet tot wijziging van het koninklijk besluit nr. 495 van 31 december 1986 tot invoering van een stelsel van alternerende tewerkstelling en opleiding voor de jongeren tussen 18 en 25 jaar en tot tijdelijke vermindering van de sociale zekerheidsbijdragen van de werkgever verschuldigd in hoofde van deze jongeren.

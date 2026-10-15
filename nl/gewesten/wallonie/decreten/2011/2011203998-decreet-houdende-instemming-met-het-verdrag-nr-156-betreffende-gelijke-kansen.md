@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011203998/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming met het Verdrag nr. 156 betreffende gelijke kansen voor en gelijke behandeling van mannelijke en vrouwelijke werknemers : werknemers met gezinsverantwoordelijkheid, aangenomen door de Internationale Arbeidsconferentie tijdens haar zevenenzestigste zitting in Genève op 23 juni 1981

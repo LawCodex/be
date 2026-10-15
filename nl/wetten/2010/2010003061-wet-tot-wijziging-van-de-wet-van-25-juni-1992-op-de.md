@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/21/2010003061/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 03-02-2010 en tekstbijwerking tot 30-04-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 2010. - Wet tot wijziging van de wet van 25 juni 1992 op de landverzekeringsovereenkomst wat de schuldsaldoverzekeringen voor personen met een verhoogd gezondheidsrisico betreft

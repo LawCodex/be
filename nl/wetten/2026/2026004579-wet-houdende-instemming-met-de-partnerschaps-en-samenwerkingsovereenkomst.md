@@ -12,7 +12,7 @@ entry_into_force: 2026-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/01/07/2026004579/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2026. - Wet houdende instemming met de Partnerschaps-en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds, gedaan te Brussel op 19 oktober 2018

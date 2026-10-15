@@ -12,7 +12,7 @@ entry_into_force: 1998-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/27/1998015126/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1996. - Loi portant assentiment à la Convention concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, le Protocole n° 1 relatif à certains problèmes de compétence, de procédure et d'exécution, le Protocole n° 2 sur l'interprétation uniforme de la convention, le Protocole n° 3 concernant l'application de l'article 57, les trois déclarations, et l'Acte final, faits à Lugano le 16 septembre 1988.

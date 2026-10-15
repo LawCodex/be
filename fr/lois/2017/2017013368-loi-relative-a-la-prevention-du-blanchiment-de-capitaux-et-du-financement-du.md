@@ -16,7 +16,7 @@ department: "Economie, PME, Classes moyennes et Energie - Intérieur - Justice -
 justel_notes:
   - "Les modifications apportées par l'article 32, L1, 1°, n) et les articles 153 à 170 de la loi 2020-07-20/12 sont annulées par l'arrêt n° 166/2021 de la Cour constitutionnelle 2021-11-18/21 "
   - "Consultation des versions antérieures à partir du 06-10-2017 et mise à jour au 28-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2017. - Loi relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces

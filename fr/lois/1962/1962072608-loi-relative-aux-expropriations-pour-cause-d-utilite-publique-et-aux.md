@@ -11,7 +11,7 @@ published: 1962-07-31
 entry_into_force: 1962-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/07/26/1962072608/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1962. - Loi relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction des autoroutes.

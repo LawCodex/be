@@ -12,7 +12,7 @@ entry_into_force: 1999-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/27/1999016305/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 1999. - Loi modifiant la loi du 29 juillet 1955 créant un Fonds agricole

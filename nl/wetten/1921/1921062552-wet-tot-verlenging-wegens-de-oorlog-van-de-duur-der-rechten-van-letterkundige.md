@@ -11,7 +11,7 @@ published: 1921-08-20
 entry_into_force: 1921-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1921/06/25/1921062552/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1921. - Wet tot verlenging, wegens de oorlog, van de duur der rechten van letterkundige en artistieke eigendom.

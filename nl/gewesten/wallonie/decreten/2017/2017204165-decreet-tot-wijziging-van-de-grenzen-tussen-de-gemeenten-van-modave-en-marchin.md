@@ -13,7 +13,7 @@ entry_into_force: 2017-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/12/2017204165/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2017. - Decreet tot wijziging van de grenzen tussen de gemeenten van Modave en Marchin

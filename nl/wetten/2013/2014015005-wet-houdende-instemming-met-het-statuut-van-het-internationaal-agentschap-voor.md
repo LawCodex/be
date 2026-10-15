@@ -12,7 +12,7 @@ entry_into_force: 2014-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/08/2014015005/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2013. - Wet houdende instemming met het Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA), gedaan te Bonn op 26 januari 2009

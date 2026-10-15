@@ -12,7 +12,7 @@ entry_into_force: 2009-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/07/2009015080/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2009. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Tunesië tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belastingen inzake belasting naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Tunis op 7 oktober 2004

@@ -13,7 +13,7 @@ entry_into_force: 2021-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/25/2021020686/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 25 februari 2021 tot wijziging van het raamakkoord voor samenwerking van 27 februari 2014 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het overleg tussen de Franstaligen inzake gezondheid en bijstand aan personen en de gemeenschappelijke principes die in deze materies van toepassing zijn, teneinde het hoofd te bieden aan de COVID-19-noodtoestand

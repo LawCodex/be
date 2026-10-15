@@ -11,7 +11,7 @@ date: 2002-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002091050/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Decreet waarbij de Regering toelating krijgt om borg te staan voor staatsleningen aangegaan door de RTBF. (Vertaling).

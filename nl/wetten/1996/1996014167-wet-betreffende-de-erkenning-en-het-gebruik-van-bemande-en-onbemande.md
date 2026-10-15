@@ -10,7 +10,7 @@ date: 1996-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1996014167/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet betreffende de erkenning en het gebruik van bemande en onbemande automatisch werkende toestellen in het wegverkeer.

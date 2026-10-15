@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/31/2023044122/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2023. - Wet tot wijziging van de artikelen VII.2, VII.3, VII.100, VII.148, VII.150, VII.153 en VII.154 van het Wetboek van economisch recht

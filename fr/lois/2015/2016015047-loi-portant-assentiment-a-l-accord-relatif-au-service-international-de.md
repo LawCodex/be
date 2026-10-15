@@ -12,7 +12,7 @@ entry_into_force: 2016-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/04/30/2016015047/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2015. - Loi portant assentiment à l'Accord relatif au Service International de Recherches et à l'Accord de partenariat sur les relations entre les Archives fédérales de la République fédérale d'Allemagne et le Service International de Recherches, signés à Berlin le 9 décembre 2011

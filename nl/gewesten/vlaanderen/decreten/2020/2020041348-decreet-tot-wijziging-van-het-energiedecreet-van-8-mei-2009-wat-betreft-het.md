@@ -13,7 +13,7 @@ entry_into_force: 2020-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/15/2020041348/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2020. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft het invoeren van een overgangsbepaling voor de geldigheidsduur van de startdatum, vermeld in artikel 1.1.3, 113° /2

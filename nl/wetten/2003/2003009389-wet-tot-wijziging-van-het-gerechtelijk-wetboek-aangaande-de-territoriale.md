@@ -12,7 +12,7 @@ entry_into_force: 2003-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/08/2003009389/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 2003. - Wet tot wijziging van het Gerechtelijk Wetboek aangaande de territoriale bevoegdheid van de rechter inzake bewarende beslagen en middelen tot tenuitvoerlegging.

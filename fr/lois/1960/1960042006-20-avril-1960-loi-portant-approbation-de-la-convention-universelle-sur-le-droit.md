@@ -11,7 +11,7 @@ published: 1960-08-30
 entry_into_force: 1960-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/04/20/1960042006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 1960. \_ Loi portant approbation de la Convention universelle sur le droit d'auteur et des Protocoles annexes, signés à Genève, le 6 septembre 1952.

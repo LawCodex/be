@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/19/2017013961/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-11-2017 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2017. - Décret relatif à la reconnaissance des qualifications professionnelles pour l'exercice de fonctions enseignantes dans les établissements d'enseignement préscolaire, primaire, secondaire ordinaire et spécialisé, artistique, de promotion sociales et supérieur non universitaire, secondaire artistique à horaire réduit de la Communauté française

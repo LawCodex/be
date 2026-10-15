@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/26/2000033076/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 11-10-2000 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2000. - Décret portant création d'un Conseil économique et social de la Communauté germanophone (TRADUCTION).

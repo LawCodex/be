@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036305/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 19-08-2016 et mise à jour au 17-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Décret portant diverses dispositions relatives au domaine politique de l'Aide sociale, Santé publique et Famille

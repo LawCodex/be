@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/01/25/2018030299/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2018. - Ordonnance relative à la limitation du nombre de mandataires communaux et à l'institution de nouvelles mesures de gouvernance en Région de Bruxelles-Capitale

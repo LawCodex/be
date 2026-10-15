@@ -13,7 +13,7 @@ entry_into_force: 2010-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/09/2010035483/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2010. - Décret portant modification de diverses dispositions du décret du 27 mars 2009 relatif à la politique foncière et immobilière

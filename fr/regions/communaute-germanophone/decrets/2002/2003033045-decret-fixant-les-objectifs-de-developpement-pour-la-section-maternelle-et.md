@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/16/2003033045/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2002. - Décret fixant les objectifs de développement pour la section maternelle [...] et modifiant les décrets des 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et 26 avril 1999 relatif à l'enseignement fondamental ordinaire &lt;DCG 2008-06-16/36 , art. 20, 002; En vigueur : 01-09-2008&gt;

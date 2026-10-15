@@ -12,7 +12,7 @@ entry_into_force: 2006-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/31/2006003129/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2006. - Loi modifiant le Code des impôts sur les revenus 1992 en matière d'assimilation des parts bénéficiaires à du capital libéré.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004027085/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 13-05-2004 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - [Decreet betreffende de duurzame mobiliteit en de toegankelijkheid]

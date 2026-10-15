@@ -12,7 +12,7 @@ published: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/19/2007029203/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Decreet houdende aanvulling van het mechanisme van democratisering van de hogere studies buiten de universiteiten ingesteld door de decreten van 20 juli 2005 en 20 juli 2006 (VERTALING).

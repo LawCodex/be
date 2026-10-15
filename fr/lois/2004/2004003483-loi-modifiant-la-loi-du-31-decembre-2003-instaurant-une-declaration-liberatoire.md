@@ -12,7 +12,7 @@ entry_into_force: 2004-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/14/2004003483/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2004. - Loi modifiant la loi du 31 décembre 2003 instaurant une déclaration libératoire unique.

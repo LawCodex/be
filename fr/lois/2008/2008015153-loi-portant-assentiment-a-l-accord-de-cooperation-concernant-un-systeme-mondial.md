@@ -12,7 +12,7 @@ entry_into_force: 2008-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/09/18/2008015153/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2008. - Loi portant assentiment à l'Accord de coopération concernant un système mondial de navigation par satellite (GNSS) - GALILEO entre la Communauté européenne et ses Etats membres et la République populaire de Chine, fait à Pékin le 30 octobre 2003.

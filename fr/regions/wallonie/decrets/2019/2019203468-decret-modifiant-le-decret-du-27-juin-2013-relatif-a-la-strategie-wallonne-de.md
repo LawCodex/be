@@ -13,7 +13,7 @@ entry_into_force: 2019-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203468/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant le décret du 27 juin 2013 relatif à la stratégie wallonne de développement durable, pour les matières réglées en vertu de l'article 138 de la Constitution

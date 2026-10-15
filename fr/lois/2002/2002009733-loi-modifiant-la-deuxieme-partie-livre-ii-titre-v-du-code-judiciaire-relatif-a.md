@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/07/2002009733/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2002 et mise à jour au 31-12-2003."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2002. - Loi modifiant la deuxième partie, livre II, titre V du Code judiciaire relatif à la discipline et rapportant la loi du 7 mai 1999 modifiant le Code judiciaire en ce qui concerne le régime disciplinaire applicable aux membres de l'Ordre judiciaire. -

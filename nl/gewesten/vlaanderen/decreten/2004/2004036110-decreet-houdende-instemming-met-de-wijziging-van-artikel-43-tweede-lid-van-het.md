@@ -13,7 +13,7 @@ entry_into_force: 2004-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036110/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met de wijziging van artikel 43, tweede lid, van het Verdrag inzake de rechten van het kind, aangenomen op de Conferentie van de Staten die partij zijn bij het Verdrag op 12 december 1995.

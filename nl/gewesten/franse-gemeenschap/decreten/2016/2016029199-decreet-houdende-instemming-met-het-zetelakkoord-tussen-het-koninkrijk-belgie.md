@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/21/2016029199/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2016. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Centrum voor de Ontwikkeling van het Migratiebeleid, ondertekend te Brussel op 21 mei 2008

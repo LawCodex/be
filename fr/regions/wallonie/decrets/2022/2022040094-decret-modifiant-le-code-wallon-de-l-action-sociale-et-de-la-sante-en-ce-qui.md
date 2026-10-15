@@ -13,7 +13,7 @@ entry_into_force: 2022-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/03/2022040094/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2022. - Décret modifiant le Code wallon de l'Action sociale et de la Santé en ce qui concerne la promotion de la santé et la prévention

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/02/2023030780/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Wet tot bepaling van de beginselen voor de loting van natuurlijke personen voor de gemengde commissies en de burgerpanels op initiatief van de Kamer van volksvertegenwoordigers

@@ -13,7 +13,7 @@ entry_into_force: 2025-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/09/04/2025006664/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2025. - Décret ratifiant la décision de reprise par la Région wallonne du service de l'impôt en matière de droits de succession et de droits d'enregistrement tels que visés aux 4°, 6°, 7° et 8°, de l'article 3, alinéa 1er, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions

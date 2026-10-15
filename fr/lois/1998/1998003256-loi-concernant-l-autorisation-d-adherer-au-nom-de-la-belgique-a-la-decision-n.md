@@ -12,7 +12,7 @@ entry_into_force: 1998-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/26/1998003256/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1998. - Loi concernant l'autorisation d'adhérer au nom de la Belgique, à la décision n° 11428-(97/6) du Conseil d'administration du Fonds Monétaire International en date du 27 janvier 1997 concernant les Nouveaux Accords d'Emprunt.

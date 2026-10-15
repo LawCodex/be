@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2007035132/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-02-2007 et mise à jour au 19-02-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret relatif aux formations des enseignants en Flandre (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/19/2020042034/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2020. - Décret relatif aux objectifs finaux et aux objectifs d'extension de remplacement pour le néerlandais au premier degré de l'enseignement secondaire, à l'initiative de la " Federatie Steinerscholen Vlaanderen vzw "

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/30/2017013149/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 24-11-2017 et mise à jour au 11-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2017. - Loi portant assentiment à la Convention relative à la délivrance d'extraits et de certificats plurilingues et codés d'actes de l'état civil, et annexes, faites à Strasbourg le 14 mars 2014

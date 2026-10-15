@@ -13,7 +13,7 @@ entry_into_force: 2017-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012937/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance modifiant certaines dispositions de l'ordonnance du 5 mars 2009 relative à la gestion et à l'assainissement des sols pollués

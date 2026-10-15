@@ -13,7 +13,7 @@ entry_into_force: 2008-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/23/2007037177/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2007. - Decreet houdende instemming met het verdrag betreffende het Eurokorps en de rechtspositie van zijn hoofdkwartier tussen de Franse Republiek, de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Spanje en het Groothertogdom Luxemburg, en de Slotakte, ondertekend in Brussel op 22 november 2004.

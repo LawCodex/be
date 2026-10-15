@@ -11,7 +11,7 @@ published: 1961-01-24
 entry_into_force: 1961-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/08/10/1960081001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1960. \_ Wet houdende goedkeuring van het Algemeen Verdrag tussen België en Griekenland betreffende de sociale zekerheid, ondertekend op 1 april 1958, te Athene.

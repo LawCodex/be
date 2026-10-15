@@ -12,7 +12,7 @@ entry_into_force: 2014-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014011194/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi modifiant, en ce qui concerne l'Institut des comptes nationaux, la loi du 21 décembre 1994 portant des dispositions sociales et diverses

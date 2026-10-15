@@ -12,7 +12,7 @@ entry_into_force: 2021-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/26/2021034086/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Wet tot wijziging van de wet van 3 april 1997 betreffende het fiscaal stelsel van gefabriceerde tabak

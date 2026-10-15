@@ -12,7 +12,7 @@ entry_into_force: 2014-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/27/2014021086/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2014. - Loi relative aux cadres linguistiques pour certains collaborateurs scientifiques étrangers engagés par contrat de travail dans les établissements scientifiques fédéraux

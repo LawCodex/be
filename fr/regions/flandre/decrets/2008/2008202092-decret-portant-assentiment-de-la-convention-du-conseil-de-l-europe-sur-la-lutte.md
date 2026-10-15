@@ -13,7 +13,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/16/2008202092/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2008. - Décret portant assentiment de la Convention du Conseil de l'Europe sur la lutte contre la traite des êtres humains, fait à Varsovie le 16 mai 2005 (TRADUCTION).

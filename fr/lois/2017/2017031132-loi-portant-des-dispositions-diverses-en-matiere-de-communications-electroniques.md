@@ -12,7 +12,7 @@ entry_into_force: 2017-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017031132/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi portant des dispositions diverses en matière de communications électroniques

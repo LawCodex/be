@@ -12,7 +12,7 @@ entry_into_force: 2009-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/10/23/2009009774/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2009. - Loi modifiant la loi du 25 ventôse an XI contenant organisation du notariat en vue d'augmenter le nombre annuel de candidats-notaires

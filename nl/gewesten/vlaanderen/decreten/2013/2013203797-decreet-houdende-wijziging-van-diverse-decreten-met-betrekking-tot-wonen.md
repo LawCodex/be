@@ -13,7 +13,7 @@ entry_into_force: 2013-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/31/2013203797/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2013. - Decreet houdende wijziging van diverse decreten met betrekking tot wonen

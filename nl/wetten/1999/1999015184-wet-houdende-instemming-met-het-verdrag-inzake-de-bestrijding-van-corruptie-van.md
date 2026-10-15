@@ -10,7 +10,7 @@ date: 1999-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/1999015184/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met het Verdrag inzake de bestrijding van corruptie van buitenlandse ambtenaren in internationale zakelijke transacties, opgemaakt te Parijs op 17 december 1997.

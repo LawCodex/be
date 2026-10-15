@@ -12,7 +12,7 @@ entry_into_force: 2017-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/25/2017200033/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap, met het oog op het regelen van een aantal aspecten van de constitutieve autonomie van de Duitstalige Gemeenschap

@@ -13,7 +13,7 @@ entry_into_force: 2025-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/09/22/2025007673/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBER 2025. - Decreet houdende instemming met de volgende internationale akten: 1° de Overeenkomst tussen het Koninkrijk België en de Republiek Oeganda tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Kampala op 26. juli 2007; 2° het Protocol, gedaan te Kampala op 25 april 2014, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Oeganda tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Kampala op 26 juli 2007

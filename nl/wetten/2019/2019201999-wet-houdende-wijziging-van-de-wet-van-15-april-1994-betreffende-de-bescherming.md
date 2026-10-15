@@ -11,7 +11,7 @@ published: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/05/2019201999/justel"
 department: "Federaal Agentschap voor Nucleaire Controle"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2019. - Wet houdende wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle betreffende de nucleaire cyberbeveiliging

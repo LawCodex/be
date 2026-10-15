@@ -13,7 +13,7 @@ entry_into_force: 2000-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/03/2000035339/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2000. - Decreet houdende goedkeuring van de Euro-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de staat Israël, anderzijds, met de bijlagen I, II, III, IV, V, VI, VII, de protocollen 1 tot 5, en de slotakte, ondertekend in Brussel op 20 november 1995.

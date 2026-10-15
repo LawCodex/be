@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/23/2016203537/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 08-07-2016 en tekstbijwerking tot 31-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2016. - Decreet houdende wijziging van het Milieuwetboek, van het Waterwetboek en van verscheidene decreten inzake afvalstoffen en milieuvergunning

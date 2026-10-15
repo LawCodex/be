@@ -13,7 +13,7 @@ entry_into_force: 2011-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/06/2011202570/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2011. - Décret modifiant l'article 4 du décret du 18 juillet 2008 relatif à la délivrance d'aide et de soins

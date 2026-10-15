@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2026000062/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-01-2026 et mise à jour au 19-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret contenant le budget des dépenses de la Communauté flamande pour l'année budgétaire 2026

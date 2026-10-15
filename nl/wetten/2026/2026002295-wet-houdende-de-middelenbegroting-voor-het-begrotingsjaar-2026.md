@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/23/2026002295/justel"
 department: "Beleid en Ondersteuning"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2026 en tekstbijwerking tot 02-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2026. - Wet houdende de Middelenbegroting voor het begrotingsjaar 2026

@@ -13,7 +13,7 @@ entry_into_force: 1994-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/04/21/1994027303/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1994. - Décret complétant la loi du 12 juillet 1973 sur la conservation de la nature par des dispositions particulières à la Région wallonne en ce qui concerne la circulation sur et dans les cours d'eau.

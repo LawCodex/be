@@ -11,7 +11,7 @@ published: 2024-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/21/2024004452/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2024. - Wet tot wijziging van de wet van 4 april 2014 betreffende de verzekeringen, wat de uitsluitingsgronden in de niet-verplichte ziekteverzekering die verband houden met een poging tot zelfdoding betreft

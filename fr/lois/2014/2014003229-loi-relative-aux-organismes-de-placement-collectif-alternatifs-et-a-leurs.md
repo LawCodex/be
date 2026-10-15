@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014003229/justel"
 department: "Economie, PME, Classes moyennes et Energie - Justice - Finances"
 justel_note: "Consultation des versions antérieures à partir du 17-06-2014 et mise à jour au 04-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi relative aux organismes de placement collectif alternatifs et à leurs gestionnaires

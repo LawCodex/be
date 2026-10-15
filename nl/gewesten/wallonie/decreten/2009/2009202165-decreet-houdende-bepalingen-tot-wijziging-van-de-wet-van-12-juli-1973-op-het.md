@@ -13,7 +13,7 @@ entry_into_force: 2009-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202165/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende bepalingen tot wijziging van de wet van 12 juli 1973 op het natuurbehoud, van Boek I van het Milieuwetboek, van het Wetboek van de registratie-, hypotheek- en griffierechten en van het decreet van 27 juni 1996 betreffende de afvalstoffen

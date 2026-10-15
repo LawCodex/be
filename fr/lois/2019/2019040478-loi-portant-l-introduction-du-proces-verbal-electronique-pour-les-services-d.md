@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/17/2019040478/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 16-01-2023 et mise à jour au 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2019. - Loi portant l'introduction du procès-verbal électronique pour les services d'inspection du Service public fédéral Economie, P.M.E., Classes moyennes et Energie et modifiant le Code pénal social

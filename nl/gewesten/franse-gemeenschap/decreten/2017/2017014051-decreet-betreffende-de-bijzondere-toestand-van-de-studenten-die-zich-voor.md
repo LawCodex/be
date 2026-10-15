@@ -11,7 +11,7 @@ date: 2017-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/09/2017014051/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2017. - Decreet betreffende de bijzondere toestand van de studenten die zich voor "bachelor verpleegkunde" hebben ingeschreven, georganiseerd in 180 studiepunten vóór het academiejaar 2016-2017, en die niet de totaliteit van de studiepunten van hun cursus hebben verworven op het einde van het academiejaar 2016-2017

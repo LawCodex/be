@@ -13,7 +13,7 @@ entry_into_force: 2008-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/19/2008200427/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2007. - Decreet houdende minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (VERTALING).

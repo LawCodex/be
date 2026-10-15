@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012944/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et au Protocole, signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle du 23 juin 1993 et le Protocole du 19 janvier 2010; 2° à la Convention additionnelle, signée à Bruxelles le 23 juin 1993, modifiant la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et le Protocole, signés à Bruxelles le 28 juin 1974; 3° au Protocole, signé à Bruxelles le 19 janvier 2010, modifiant la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et le Protocole, signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle signée à Bruxelles le 23 juin 1993

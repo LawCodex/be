@@ -13,7 +13,7 @@ entry_into_force: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/27/2007035871/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Décret modifiant le décret cadre politique administrative du 18 juillet 2003 en matière de contrôle par le Gouvernement flamand des agences autonomisées externes de droit public (TRADUCTION).

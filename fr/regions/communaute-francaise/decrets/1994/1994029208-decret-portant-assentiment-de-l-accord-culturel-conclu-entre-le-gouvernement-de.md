@@ -13,7 +13,7 @@ entry_into_force: 1993-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/31/1994029208/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 1994. - Décret portant assentiment de l'accord culturel conclu entre le Gouvernement de la Communauté française de Belgique et le Gouvernement de la République socialiste du Vietnam, signé à Bruxelles le 23 septembre 1993.

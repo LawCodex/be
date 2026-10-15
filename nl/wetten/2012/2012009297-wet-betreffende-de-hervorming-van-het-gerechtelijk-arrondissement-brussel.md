@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012009297/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-08-2012 en tekstbijwerking tot 14-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Wet betreffende de hervorming van het gerechtelijk arrondissement Brussel

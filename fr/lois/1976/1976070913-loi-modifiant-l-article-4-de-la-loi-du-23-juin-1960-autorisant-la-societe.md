@@ -11,7 +11,7 @@ published: 1976-11-11
 entry_into_force: 1976-11-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/09/1976070913/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1976. - Loi modifiant l'article 4 de la loi du 23 juin 1960 autorisant la Société anonyme belge d'Exploitation de la Navigation aérienne (Sabena) à modifier ses statuts.

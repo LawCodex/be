@@ -13,7 +13,7 @@ entry_into_force: 2021-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/20/2023044486/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Décret relatif à la modification du Décret-programme du 15 décembre 2021 portant diverses dispositions accompagnant le budget 2022

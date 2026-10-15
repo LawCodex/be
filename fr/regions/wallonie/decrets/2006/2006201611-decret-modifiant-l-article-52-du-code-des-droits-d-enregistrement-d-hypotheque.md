@@ -13,7 +13,7 @@ entry_into_force: 2006-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/27/2006201611/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2006. - Décret modifiant l'article 52 du Code des droits d'enregistrement, d'hypothèque et de greffe.

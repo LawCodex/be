@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036057/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Décret modifiant le décret du 27 octobre 1998 réglant l'agrément et l'octroi de subventions aux organisations de culture populaire et instituant un "Vlaams Centrum voor Volkscultuur" (Centre flamand de Culture populaire) (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2016-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/30/2016203104/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2016. - Decreet houdende instemming met het Zetelakkoord met uitwisseling van brieven tussen het Koninkrijk België en de Internationale Organisatie voor Criminele Politie - INTERPOL (O.I.C.P. INTERPOL), gedaan te Lyon op 14 oktober 2014 en te Brussel op 24 oktober 2014

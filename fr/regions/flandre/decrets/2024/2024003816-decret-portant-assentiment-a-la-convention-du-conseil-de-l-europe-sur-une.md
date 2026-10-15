@@ -13,7 +13,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024003816/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Décret portant assentiment à la Convention du Conseil de l'Europe sur une approche intégrée de la sécurité, de la sûreté et des services lors des matches de football et autres manifestations sportives, établie à Saint-Denis le 3 juillet 2016

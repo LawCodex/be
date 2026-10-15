@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004201078/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2008 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2004. - Décret relatif à l'accueil, l'hébergement et l'accompagnement des personnes en difficultés sociales

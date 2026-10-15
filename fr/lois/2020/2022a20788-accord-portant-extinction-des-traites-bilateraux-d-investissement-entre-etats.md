@@ -12,7 +12,7 @@ entry_into_force: 2022-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/05/2022A20788/justel"
 department: "Chambres Fédérales"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2020. - Accord portant extinction des traités bilatéraux d'investissement entre Etats membres de l'Union européenne, fait à Bruxelles le 5 mai 2020

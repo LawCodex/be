@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/25/2017014414/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2017 en tekstbijwerking tot 15-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2017. - Wet tot hervorming van de vennootschapsbelasting

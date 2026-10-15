@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/30/2022033007/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 08-08-2022 en tekstbijwerking tot 09-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2022. - Wet tot wijziging van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg

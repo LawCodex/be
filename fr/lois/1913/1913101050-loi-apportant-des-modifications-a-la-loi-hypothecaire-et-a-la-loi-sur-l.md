@@ -11,7 +11,7 @@ published: 1913-12-21
 entry_into_force: 1913-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1913/10/10/1913101050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1913. - Loi apportant des modifications à la loi hypothécaire et à la loi sur l'expropriation forcée et réglant à nouveau l'organisation de la conservation des hypothéques.

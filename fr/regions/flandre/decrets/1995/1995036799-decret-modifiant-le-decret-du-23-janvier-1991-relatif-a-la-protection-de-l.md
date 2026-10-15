@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/20/1995036799/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1995. - Décret modifiant le décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais. (Traduction)

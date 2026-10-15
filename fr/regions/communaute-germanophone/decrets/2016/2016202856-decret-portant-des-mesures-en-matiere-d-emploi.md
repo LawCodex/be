@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/25/2016202856/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2016 et mise à jour au 30-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2016. - Décret portant des mesures en matière d'Emploi

@@ -13,7 +13,7 @@ entry_into_force: 1996-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/13/1996035785/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1996. - Décret modifiant le décret du 7 novembre 1990 fixant les armoiries, le drapeau, l'hymne et le jour de fête de la Communauté flamande (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2020-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/18/2020010412/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2020. - Wet tot wijziging van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten

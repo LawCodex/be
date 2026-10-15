@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 38 modifié avec effet à une date indéterminée par DCFL 2005-07-15/51 , art. 300, 014; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 30-12-1995 et mise à jour au 10-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Décret contenant diverses mesures d'accompagnement du budget 1996 (Traduction).

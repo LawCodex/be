@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/30/2015029243/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2015. - Decreet tot wijziging, met het oog op het gedeeltelijke omzetten van Richtlijn 2011/85/EU, van het decreet van 20 december 2011 houdende regeling van de begroting en de boekhouding van de diensten van de Regering van de Franse Gemeenschap

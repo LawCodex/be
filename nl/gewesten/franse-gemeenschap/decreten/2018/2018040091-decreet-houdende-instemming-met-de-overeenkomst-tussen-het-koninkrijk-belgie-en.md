@@ -13,7 +13,7 @@ entry_into_force: 2018-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/22/2018040091/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2018. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken van belasting, en met het daarbij horende Protocol, ondertekend te Oslo op 23 april 2014

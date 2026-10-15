@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/08/20/1981002119/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-2014 en tekstbijwerking tot 01-03-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 1981. - Wet houdende goedkeuring van de Internationale Overeenkomst voor veilige containers, en van de Bijlagen, opgemaakt te Genève op 2 december 1972

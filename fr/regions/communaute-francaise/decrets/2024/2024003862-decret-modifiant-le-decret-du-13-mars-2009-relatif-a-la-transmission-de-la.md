@@ -13,7 +13,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024003862/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Décret modifiant le décret du 13 mars 2009 relatif à la transmission de la mémoire des crimes de génocide, des crimes contre l'humanité, des crimes de guerre et des faits de résistance ou des mouvements ayant résisté aux régimes qui ont suscité ces crimes tel que modifié par le décret du 5 octobre 2017

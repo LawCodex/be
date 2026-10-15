@@ -13,7 +13,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/04/2024003462/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Ordonnance modifiant l'ordonnance du 27 juillet 2017 visant à promouvoir la recherche, le développement et l'innovation par l'octroi d'aides affectées à des finalités économiques en faveur des entreprises et des organismes de recherche assimilés à des entreprises et l'ordonnance du 27 juillet 2017 visant à promouvoir la recherche, le développement et l'innovation par l'octroi d'aides à finalité non économique en faveur des organisations non marchandes, des organismes de recherche et des entreprises

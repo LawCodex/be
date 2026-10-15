@@ -13,7 +13,7 @@ entry_into_force: 2006-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/08/2006201976/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2006. - Décret modifiant le Code de la démocratie locale et de la décentralisation.

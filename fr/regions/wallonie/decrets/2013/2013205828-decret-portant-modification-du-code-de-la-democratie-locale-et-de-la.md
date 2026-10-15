@@ -13,7 +13,7 @@ entry_into_force: 2013-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/10/2013205828/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 2013. - Décret portant modification du Code de la démocratie locale et de la décentralisation et du décret du 12 février 2004 organisant les provinces wallonnes

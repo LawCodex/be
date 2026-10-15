@@ -12,7 +12,7 @@ entry_into_force: 2020-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/22/2020203370/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2020. - Decreet tot wijziging van het programmadecreet 1998 van 29 juni 1998 met betrekking tot de pensioenregeling van de vastbenoemde personeelsleden van het Belgisch Radio- en Televisiecentrum van de Duitstalige Gemeenschap

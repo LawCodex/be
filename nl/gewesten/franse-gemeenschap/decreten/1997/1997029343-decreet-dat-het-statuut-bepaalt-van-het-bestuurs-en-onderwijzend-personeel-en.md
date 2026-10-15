@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/24/1997029343/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 06-11-1997 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - Decreet dat het statuut bepaalt van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap. (VERTALING)

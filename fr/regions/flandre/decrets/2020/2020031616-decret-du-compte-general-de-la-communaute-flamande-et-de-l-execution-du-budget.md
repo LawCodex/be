@@ -13,7 +13,7 @@ entry_into_force: 2020-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/16/2020031616/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2020. - Décret du compte général de la Communauté flamande et de l'exécution du budget des personnes morales flamandes ne disposant pas d'un conseil d'administration pour l'année budgétaire 2019

@@ -12,7 +12,7 @@ entry_into_force: 1999-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/1999003279/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - Wet tot wijziging van de wet van 6 april 1995 inzake de secundaire markten, het statuut van en het toezicht op de beleggingsondernemingen, de bemiddelaars en de beleggingsadviseurs wat betreft de administratieve geldboeten die kunnen worden opgelegd door de Tuchtcommissie van de markt en de marktautoriteiten.

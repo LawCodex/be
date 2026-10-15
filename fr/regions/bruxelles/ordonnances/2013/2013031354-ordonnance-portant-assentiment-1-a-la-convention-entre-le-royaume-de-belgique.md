@@ -13,7 +13,7 @@ entry_into_force: 2013-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/02/2013031354/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Oslo le 14 avril 1988 et modifiée par le Protocole fait à Bruxelles le 10 septembre 2009; 2° au Protocole, fait à Bruxelles le 10 septembre 2009, modifiant la Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Oslo le 14 avril 1988; 3° à l'échange de lettres du 9 février et du 11 avril 2011

@@ -11,7 +11,7 @@ published: 1958-06-02
 entry_into_force: 1958-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/04/28/1958042815/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 1958. - Wet tot wijziging van de besluitwet van 10 januari 1945 betreffende de maatschappelijke zekerheid van de mijnwerkers en de er mede gelijkgestelden, en van de wetten betreffende het jaarlijks verlof der loonarbeiders, samengeordend 9 Maart 1951.

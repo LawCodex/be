@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/01/2016009610/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 11-01-2017 et mise à jour au 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2016. - Loi modifiant le Code judiciaire et la loi du 8 août 1997 sur les faillites en vue d'introduire le Registre Central de la Solvabilité

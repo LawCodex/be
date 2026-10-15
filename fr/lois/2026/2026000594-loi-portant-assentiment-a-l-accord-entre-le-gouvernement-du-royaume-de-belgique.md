@@ -12,7 +12,7 @@ entry_into_force: 2026-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/01/07/2026000594/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2026. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Cabinet des ministres de l'Ukraine sur la coopération technique et financière, fait à Bruxelles et Kyiv le 20 août 2024

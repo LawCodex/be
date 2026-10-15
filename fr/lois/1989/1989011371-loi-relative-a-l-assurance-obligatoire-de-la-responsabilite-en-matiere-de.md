@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/11/21/1989011371/justel"
 department: "Affaires économiques - Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 23-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 1989. - Loi relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs.

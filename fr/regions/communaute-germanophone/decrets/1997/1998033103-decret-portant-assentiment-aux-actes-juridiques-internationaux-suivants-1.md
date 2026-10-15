@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/20/1998033103/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 1997. - Décret portant assentiment aux actes juridiques internationaux suivants : 1. Accord de siège entre le Royaume de Belgique et le Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, signé à Bruxelles le 26 avril 1993; 2. Accord de siège entre le Royaume de Belgique et la Ligue des Etats arabes, signé à Bruxelles le 16 novembre 1995; 3. Accord de siège entre le Royaume de Belgique et l'Agence de Coopération culturelle et technique, signé à Bruxelles le 16 novembre 1995; 4. Accord de siège entre le Royaume de Belgique et l'autorité de surveillance de l'Association européenne de Libre-échange, signé à Bruxelles le 22 décembre 1994; 5. Accord entre le Royaume de Belgique et la Conférence de la Charte de l'énergie, signé à Bruxelles le 26 octobre 1995 (TRADUCTION).

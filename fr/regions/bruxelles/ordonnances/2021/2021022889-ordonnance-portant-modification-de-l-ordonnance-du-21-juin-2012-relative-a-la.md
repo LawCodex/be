@@ -13,7 +13,7 @@ entry_into_force: 2022-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/24/2021022889/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2021. - Ordonnance portant modification de l'ordonnance du 21 juin 2012 relative à la promotion de la santé dans la pratique du sport, à l'interdiction du dopage et à sa prévention

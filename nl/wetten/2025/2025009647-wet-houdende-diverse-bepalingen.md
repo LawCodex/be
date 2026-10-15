@@ -12,7 +12,7 @@ entry_into_force: 2026-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/18/2025009647/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2025. - Wet houdende diverse bepalingen

@@ -13,7 +13,7 @@ entry_into_force: 2014-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/17/2014035179/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2014. - Décret portant modification du décret du 15 juillet 2011 fixant les règles générales auxquelles dans la Communauté flamande et la Région flamande des obligations de planning et de rapportage périodiques peuvent être imposées à des administrations locales

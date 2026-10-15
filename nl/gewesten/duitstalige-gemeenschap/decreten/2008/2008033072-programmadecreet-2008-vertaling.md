@@ -11,7 +11,7 @@ date: 2008-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/16/2008033072/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2008. - Programmadecreet 2008 (VERTALING).

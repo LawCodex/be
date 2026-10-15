@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/14/2006204246/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 05-01-2007 et mise à jour au 30-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2006. - Décret relatif à l'agrément et au subventionnement des "Initiatives de développement de l'emploi dans le secteur des services de proximité à finalité sociale", en abrégé : "I.D.E.S.S.".

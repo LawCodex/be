@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/06/17/1991003382/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 09-08-1991 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1991. - Wet tot organisatie van de openbare kredietsector en van het bezit van de deelnemingen van de openbare sector in bepaalde privaatrechtelijke financiële vennootschappen. (KB 1993-09-29/30, art. 1, 007; Inwerkingtreding : 01-10-1993)

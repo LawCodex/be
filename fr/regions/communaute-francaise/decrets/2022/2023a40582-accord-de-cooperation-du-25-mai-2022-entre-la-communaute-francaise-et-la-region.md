@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/30/2023A40582/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-02-2023 et mise à jour au 12-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2022. - Accord de coopération du 25 mai 2022 entre la Communauté française et la Région wallonne concernant la création de places d'accueil de la petite enfance

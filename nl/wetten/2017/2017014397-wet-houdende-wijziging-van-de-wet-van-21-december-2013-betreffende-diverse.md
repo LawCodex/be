@@ -12,7 +12,7 @@ entry_into_force: 2018-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/21/2017014397/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2017. - Wet houdende wijziging van de wet van 21 december 2013 betreffende diverse bepalingen inzake de financiering voor kleine en middelgrote ondernemingen

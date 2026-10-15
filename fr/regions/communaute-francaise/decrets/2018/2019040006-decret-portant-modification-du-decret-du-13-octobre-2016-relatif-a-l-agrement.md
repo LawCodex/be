@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/12/2019040006/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2018. - Décret portant modification du décret du 13 octobre 2016 relatif à l'agrément et au subventionnement des partenaires apportant de l'aide aux justiciables

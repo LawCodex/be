@@ -12,7 +12,7 @@ entry_into_force: 2004-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/06/2004003299/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2004. - Loi modifiant l'article 113 du Code des impôts sur les revenus 1992 en matière de déduction des frais de garde pour les enfants qui n'ont pas atteint l'âge de 12 ans.

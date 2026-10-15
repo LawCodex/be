@@ -11,7 +11,7 @@ date: 2020-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/11/23/2020043745/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2020. - Ordonnantie tot toekenning van volmachten aan het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie naar aanleiding van de gezondheidscrisis ten gevolge van COVID-19

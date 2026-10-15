@@ -13,7 +13,7 @@ entry_into_force: 2018-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/08/2018012898/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2018. - DECRET modifiant diverses dispositions du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et modifiant le Code flamand de l'Aménagement du Territoire du 15 mai 2009

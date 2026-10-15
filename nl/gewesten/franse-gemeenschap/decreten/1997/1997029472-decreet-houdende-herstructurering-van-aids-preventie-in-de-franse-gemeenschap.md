@@ -13,7 +13,7 @@ entry_into_force: 1997-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/22/1997029472/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1997. - Decreet houdende herstructurering van Aids-preventie in de Franse Gemeenschap (VERTALING).

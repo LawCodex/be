@@ -12,7 +12,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/01/2019A12308/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2018. - Algemene Samenwerkingsovereenkomst tussen het Koninkrijk België en de Republiek Senegal, gedaan te Dakar op 1 maart 2018

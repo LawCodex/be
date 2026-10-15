@@ -13,7 +13,7 @@ entry_into_force: 2018-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/04/2018206025/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OCTOBRE 2018. - Décret modifiant divers textes, en ce qui concerne les cours d'eau

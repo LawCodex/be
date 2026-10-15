@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/04/2002027680/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 09-08-2002 en tekstbijwerking tot 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2002. - Decreet op de groeven en houdende wijziging van sommige bepalingen van het decreet van 11 maart 1999 betreffende de milieuvergunning (VERTALING)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/22/1998003665/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 15-01-1999 en tekstbijwerking tot 12-06-1999"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1998. - Wet houdende fiscale en andere bepalingen.

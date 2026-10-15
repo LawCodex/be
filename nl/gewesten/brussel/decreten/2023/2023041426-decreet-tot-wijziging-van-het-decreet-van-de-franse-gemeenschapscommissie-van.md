@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/17/2023041426/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2023. - Decreet tot wijziging van het decreet van de Franse Gemeenschapscommissie van 30 november 2018 betreffende de sociale samenhang

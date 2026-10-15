@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/26/2013031704/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 01-02-2018 et mise à jour au 14-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 2013. - Ordonnance instituant un cadre en matière de planification de la mobilité et modifiant diverses dispositions ayant un impact en matière de mobilité

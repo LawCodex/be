@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/03/21/2013031200/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2013. - Ordonnance modifiant l'ordonnance du 29 juin 2006 relative à l'organisation et au fonctionnement du culte islamique

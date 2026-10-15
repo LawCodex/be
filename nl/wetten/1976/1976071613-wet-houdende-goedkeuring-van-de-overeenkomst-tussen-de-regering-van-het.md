@@ -11,7 +11,7 @@ published: 1976-10-14
 entry_into_force: 1976-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/16/1976071613/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1976. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Tunesië tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Tunis op 22 februari 1975.

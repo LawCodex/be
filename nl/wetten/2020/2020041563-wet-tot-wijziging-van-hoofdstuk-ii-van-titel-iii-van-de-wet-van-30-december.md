@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/29/2020041563/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2020. - Wet tot wijziging van hoofdstuk II van titel III van de wet van 30 december 1992 houdende sociale en diverse bepalingen, met betrekking tot de invoering van een jaarlijkse bijdrage ten laste van de vennootschappen bestemd voor het sociaal statuut der zelfstandigen om in 2020 de betaaldatum van de vermelde bijdrage uit te stellen naar 31 oktober

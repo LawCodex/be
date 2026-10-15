@@ -12,7 +12,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/23/2023206468/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2023. - Wet tot wijziging van de wet van 20 april 1971 betreffende de inaanmerkingneming van diensttijd vóór de benoeming in vast verband van het onderwijzend personeel voor pensioen ten laste van de Openbare Schatkist en het koninklijk besluit nr. 442 van 14 augustus 1986 betreffende de weerslag van sommige administratieve toestanden op de pensioenen van de personeelsleden van de overheidsdiensten

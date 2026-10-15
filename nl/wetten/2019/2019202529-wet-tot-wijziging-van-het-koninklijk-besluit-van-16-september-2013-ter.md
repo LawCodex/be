@@ -12,7 +12,7 @@ entry_into_force: 2020-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/22/2019202529/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2019. - Wet tot wijziging van het koninklijk besluit van 16 september 2013 ter vaststelling van een specifieke tegemoetkoming in de kostprijs van contraceptiva voor vrouwen, jonger dan 21 jaar, teneinde de terugbetalingsmogelijkheden voor contraceptiva en de morning-afterpil uit te breiden

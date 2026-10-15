@@ -12,7 +12,7 @@ entry_into_force: 2022-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/01/2022040908/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2022. - Loi transposant la directive (UE) 2019/789 du Parlement européen et du Conseil du 17 avril 2019 établissant des règles sur l'exercice du droit d'auteur et des droits voisins applicables à certaines transmissions en ligne d'organismes de radiodiffusion et retransmissions de programmes de télévision et de radio, et modifiant la directive 93/83/CEE du Conseil

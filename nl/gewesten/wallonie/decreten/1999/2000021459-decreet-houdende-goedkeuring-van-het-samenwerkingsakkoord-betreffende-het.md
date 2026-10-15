@@ -13,7 +13,7 @@ entry_into_force: 2000-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/16/2000021459/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende het opvangen van de risico's inherent aan zware ongevallen waarbij gevaarlijke stoffen betrokken zijn (VERTALING).

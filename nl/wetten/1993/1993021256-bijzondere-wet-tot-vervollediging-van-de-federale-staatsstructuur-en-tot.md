@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/07/16/1993021256/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1998 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1993. - Bijzondere wet tot vervollediging van de federale staatsstructuur en tot aanvulling van de kieswetgeving met betrekking tot de Gewesten en de Gemeenschappen.

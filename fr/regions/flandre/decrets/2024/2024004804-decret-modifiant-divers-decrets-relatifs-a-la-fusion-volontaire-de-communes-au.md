@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/03/2024004804/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Décret modifiant divers décrets relatifs à la fusion volontaire de communes au 1er janvier 2025, en ce qui concerne la conservation de la personnalité juridique d'une des communes fusionnantes

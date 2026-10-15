@@ -12,7 +12,7 @@ entry_into_force: 2008-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/25/2007015037/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2007. - Wet houdende instemming met het Uitvoeringsprotocol bij de Overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië inzake de overname van personen die zonder vergunning in de Republiek Albanië of de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) verblijven, ondertekend te Den Haag op 9 juni 2005.

@@ -12,7 +12,7 @@ entry_into_force: 2001-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/05/2001003623/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2001. - Wet tot wijziging van artikel 161, 1°, van het Wetboek van registratie-, hypotheek- en griffierechten en artikel 149 van het Wetboek der successierechten.

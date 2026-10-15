@@ -13,7 +13,7 @@ entry_into_force: 1995-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/05/04/1995027456/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1995. - Decreet houdende wijziging van de artikelen 79 tot 93 van het Waalse Wetboek van Ruimtelijke Ordening, Stedebouw en Patrimonium betreffende de vernieuwing van de afgedankte Waalse bedrijfsruimten (VERTALING).

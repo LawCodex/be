@@ -13,7 +13,7 @@ entry_into_force: 2004-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/29/2004200555/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2004. - Decreet houdende instemming, wat de van de Franse Gemeenschap overgehevelde materies betreft, met de Samenwerkingsovereenkomst tussen de Regering van de Republiek Slovenië, enerzijds, en de Franse Gemeenschap en het Waals Gewest, anderzijds, gesloten te Ljubljana op 21 maart 2003 (VERTALING).

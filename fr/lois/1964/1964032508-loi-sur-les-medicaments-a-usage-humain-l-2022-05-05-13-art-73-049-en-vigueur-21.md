@@ -13,7 +13,7 @@ last_amended: 2026-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/03/25/1964032508/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 04-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1964. - Loi sur les médicaments [à usage humain]. &lt;L 2022-05-05/13 , art. 73, 049; En vigueur : 21-05-2022&gt;

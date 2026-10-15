@@ -13,7 +13,7 @@ entry_into_force: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/04/2019202348/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Décret portant assentiment à l'accord de coopération du 30 janvier 2019 entre l'Etat fédéral, les Communautés et les Régions relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes

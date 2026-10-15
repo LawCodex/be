@@ -13,7 +13,7 @@ entry_into_force: 2019-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203696/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant le décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination et le Code judiciaire

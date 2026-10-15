@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/07/30/2010011374/justel"
 department: "Duurzame Ontwikkeling"
 justel_note: "Raadpleging van vroegere versies vanaf 14-10-2010 en tekstbijwerking tot 11-01-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2010. - Wet tot wijziging van de wet van 5 mei 1997 betreffende de coördinatie van het federale beleid inzake duurzame ontwikkeling

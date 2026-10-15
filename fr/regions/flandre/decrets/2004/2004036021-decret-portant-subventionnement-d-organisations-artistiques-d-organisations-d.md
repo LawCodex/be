@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004036021/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-07-2004 et mise à jour au 26-05-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret portant subventionnement d'organisations artistiques, d'organisations d'éducation artistique et d'activités socio-artistiques, d'initiatives internationales, de publications et de points d'appui (cité comme : Décret sur les arts)(TRADUCTION).

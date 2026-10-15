@@ -13,7 +13,7 @@ entry_into_force: 2017-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/17/2017011141/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2017. - Decreet tot wijziging van diverse bepalingen van het decreet van 7 mei 2004 houdende omvorming van de vzw "de Rand" tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap en houdende vaststelling van de bevoegdheden van de provincie Vlaams-Brabant inzake de ondersteuning van de Vlaamse Rand

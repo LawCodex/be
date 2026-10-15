@@ -13,7 +13,7 @@ entry_into_force: 2020-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/26/2020015123/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2020. - Programmadecreet bij de aanpassing van de begroting 2020

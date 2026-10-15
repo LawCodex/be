@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/05/2017031979/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2017. - Wet tot wijziging van diverse bepalingen betreffende de pensioenregelingen voor werknemers en zelfstandigen, wat betreft het beginsel van de eenheid van loopbaan en het vervroegd rustpensioen

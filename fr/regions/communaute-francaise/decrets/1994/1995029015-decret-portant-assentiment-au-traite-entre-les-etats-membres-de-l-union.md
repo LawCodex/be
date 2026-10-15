@@ -13,7 +13,7 @@ entry_into_force: 1995-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995029015/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret portant assentiment au Traité entre les Etats membres de l'Union européenne et le Royaume de Norvège, la République d'Autriche, la République de Finlande, le Royaume de Suède, relatif à l'adhésion du Royaume de Norvège, de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, des Annexes, des Protocoles et de l'Acte final, faits à Corfou le 24 mai 1994.

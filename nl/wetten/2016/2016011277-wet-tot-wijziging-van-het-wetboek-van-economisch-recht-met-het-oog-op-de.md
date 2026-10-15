@@ -12,7 +12,7 @@ entry_into_force: 2016-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/27/2016011277/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2016. - Wet tot wijziging van het Wetboek van economisch recht met het oog op de invoering van de panoramavrijheid

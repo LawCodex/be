@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014000025/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Bijzondere wet tot wijziging van de bijzondere wet van 16 juli 1993 tot vervollediging van de Federale Staatsstructuur en tot aanvulling van de kieswetgeving met betrekking tot de gewesten en de gemeenschappen, ten gevolge van de hervorming van de Senaat

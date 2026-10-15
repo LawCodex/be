@@ -13,7 +13,7 @@ entry_into_force: 2009-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202264/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant diverses modifications de la loi du 19 octobre 1921 organique des élections provinciales, de la Loi électorale communale, coordonnée le 4 août 1932, du décret communal du 15 juillet 2005 et du décret provincial du 9 décembre 2005 en ce qui concerne le règlement de la procédure en matière de réclamations électorales

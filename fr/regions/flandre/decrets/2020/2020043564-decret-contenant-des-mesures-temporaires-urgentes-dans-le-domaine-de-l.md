@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/30/2020043564/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-11-2020 et mise à jour au 06-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2020. - Décret contenant des mesures temporaires urgentes dans le domaine de l'enseignement à la suite de la crise du coronavirus (IV)

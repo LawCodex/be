@@ -12,7 +12,7 @@ entry_into_force: 2003-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/24/2003014093/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2003. - Wet tot wijziging van de wet van 3 mei 1999 betreffende het vervoer van zaken over de weg en de wet van 14 juli 1991 betreffende de handelspraktijken en de voorlichting en bescherming van de consument.

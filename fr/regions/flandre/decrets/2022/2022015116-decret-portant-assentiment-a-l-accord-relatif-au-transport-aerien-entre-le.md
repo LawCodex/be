@@ -13,7 +13,7 @@ entry_into_force: 2022-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/17/2022015116/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2022. - Décret portant assentiment à l'accord relatif au transport aérien entre le Royaume de Belgique et Burkina Faso, signé à Bruxelles le 5 juin 2018

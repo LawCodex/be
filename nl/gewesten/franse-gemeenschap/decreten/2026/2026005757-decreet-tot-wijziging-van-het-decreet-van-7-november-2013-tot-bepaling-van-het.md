@@ -12,7 +12,7 @@ published: 2026-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026005757/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet tot wijziging van het decreet van 7 november 2013 tot bepaling van het hogeronderwijslandschap en de academische organisatie van de studies en tot vervanging van de bijlagen ervan

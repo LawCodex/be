@@ -12,7 +12,7 @@ entry_into_force: 2018-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/15/2018031784/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2018. - Loi portant assentiment à l'Accord de coopération du 12 mai 2017 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la mise en oeuvre du règlement (CE) n° 1221/2009 du Parlement européen et du Conseil du 25 novembre 2009 concernant la participation volontaire des organisations à un système communautaire de management environnemental et d'audit (EMAS), et abrogeant le règlement (CE) n° 761/2001 et les décisions de la Commission 2001/681/CE et 2006/193/CE

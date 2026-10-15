@@ -12,7 +12,7 @@ entry_into_force: 2005-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/15/2005009596/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Wet tot aanvulling van de artikelen 10 en 46 van de faillissementswet van 8 augustus 1997.

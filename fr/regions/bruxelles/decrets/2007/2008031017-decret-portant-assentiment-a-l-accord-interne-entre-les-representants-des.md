@@ -13,7 +13,7 @@ entry_into_force: 2008-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/21/2008031017/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2007. - Décret portant assentiment à l'accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, modifiant l'accord interne au 18 septembre 2000 relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE, fait à Luxembourg le 10 avril 2006.

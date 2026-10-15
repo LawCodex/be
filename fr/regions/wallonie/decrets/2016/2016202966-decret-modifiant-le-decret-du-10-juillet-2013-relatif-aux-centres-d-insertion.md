@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/26/2016202966/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Décret modifiant le décret du 10 juillet 2013 relatif aux centres d'insertion socioprofessionnelle

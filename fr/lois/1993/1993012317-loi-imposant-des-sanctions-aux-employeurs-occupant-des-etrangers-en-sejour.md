@@ -12,7 +12,7 @@ entry_into_force: 1993-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/06/01/1993012317/justel"
 department: "Justice - Affaires économiques - Finances - Intérieur - Emploi et Travail - Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 1993. - Loi imposant des sanctions aux employeurs occupant des étrangers en séjour illégal en Belgique.

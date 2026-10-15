@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/31/2017030353/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 09-06-2017 et mise à jour au 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2017. - Loi relative à l'assurance obligatoire de la responsabilité civile décennale des entrepreneurs, architectes et autres prestataires du secteur de la construction de travaux immobiliers et portant modification de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte

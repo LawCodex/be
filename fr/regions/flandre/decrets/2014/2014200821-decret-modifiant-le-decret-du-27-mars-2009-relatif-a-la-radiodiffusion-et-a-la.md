@@ -13,7 +13,7 @@ entry_into_force: 2014-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/17/2014200821/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2014. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, portant instauration d'un règlement de stimulation pour le secteur audiovisuel

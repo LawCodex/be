@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/13/2009201242/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2009 en tekstbijwerking tot 28-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2009. - Decreet houdende de organisatie van schoolsport

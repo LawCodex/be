@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/20/2011204002/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Décret portant assentiment au Protocole additionnel à la Charte européenne de l'autonomie locale, sur le droit de participer aux affaires des collectivités locales, signé à Utrecht, le 16 novembre 2009

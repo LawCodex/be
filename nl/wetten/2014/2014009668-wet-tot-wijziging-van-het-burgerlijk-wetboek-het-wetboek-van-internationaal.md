@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/12/18/2014009668/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2014. - Wet tot wijziging van het Burgerlijk Wetboek, het Wetboek van internationaal privaatrecht, het Consulair Wetboek, de wet van 5 mei 2014 houdende de vaststelling van de afstamming van de meemoeder en de wet van 8 mei 2014 tot wijziging van het Burgerlijk Wetboek met het oog op de invoering van de gelijkheid tussen mannen en vrouwen bij de wijze van naamsoverdracht aan het kind en aan de geadopteerde

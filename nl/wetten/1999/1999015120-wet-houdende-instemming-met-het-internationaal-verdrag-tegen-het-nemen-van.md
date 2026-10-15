@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/03/1999015120/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 1999. - Wet houdende instemming met het Internationaal Verdrag tegen het nemen van gijzelaars, opgemaakt te New York op 17 december 1979.

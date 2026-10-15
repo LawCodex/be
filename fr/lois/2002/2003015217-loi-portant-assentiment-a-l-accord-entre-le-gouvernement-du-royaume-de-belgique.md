@@ -12,7 +12,7 @@ entry_into_force: 2004-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/11/05/2003015217/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBRE 2002. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Etat du Koweït relatif au transport aérien, et l'Annexe, signés à Bruxelles le 28 avril 1999.

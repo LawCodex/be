@@ -12,7 +12,7 @@ entry_into_force: 1994-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/20/1994007349/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1993. - Loi ajustant le budget du Ministère de la Défense nationale de l'année budgétaire 1992.

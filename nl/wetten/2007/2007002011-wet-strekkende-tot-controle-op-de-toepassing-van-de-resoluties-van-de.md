@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/12/2007002011/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 13-02-2007 en tekstbijwerking tot 31-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2007. - Wet strekkende tot controle op de toepassing van de resoluties van de wereldvrouwenconferentie die in september 1995 in Peking heeft plaatsgehad en tot integratie van de genderdimensie in het geheel van de federale beleidslijnen

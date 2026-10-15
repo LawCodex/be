@@ -13,7 +13,7 @@ entry_into_force: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/29/2017203137/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2017. - Decreet houdende instemming met het Avenant tussen de Zwitserse Bondsstaat en het Koninkrijk België tot wijziging van de Overeenkomst van 28 augustus 1978 tussen de Zwitserse Bondsstaat en het Koninkrijk België tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 10 april 2014

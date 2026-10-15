@@ -12,7 +12,7 @@ entry_into_force: 2023-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/19/2023030658/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2017. - Wet houdende wijziging van diverse bepalingen betreffende de uitvindingsoctrooien in verband met de implementering van het eenheidsoctrooi en het eengemaakt octrooigerecht (1). - Addendum

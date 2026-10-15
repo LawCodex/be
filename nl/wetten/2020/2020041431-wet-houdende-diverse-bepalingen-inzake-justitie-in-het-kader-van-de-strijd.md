@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/20/2020041431/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-05-2020 en tekstbijwerking tot 30-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2020. - Wet houdende diverse bepalingen inzake justitie in het kader van de strijd tegen de verspreiding van het coronavirus COVID-19

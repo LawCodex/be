@@ -12,7 +12,7 @@ published: 2011-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/15/2011035686/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2011. - Decreet houdende instemming met het aanvullend protocol bij het Europees handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten, opgemaakt in Utrecht op 16 november 2009

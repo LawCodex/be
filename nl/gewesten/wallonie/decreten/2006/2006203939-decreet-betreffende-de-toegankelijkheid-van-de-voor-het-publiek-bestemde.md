@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/23/2006203939/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2008 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2006. - Decreet betreffende de toegankelijkheid van de voor het publiek bestemde inrichtingen en installaties voor gehandicapte personen met een geleidehond (VERTALING)

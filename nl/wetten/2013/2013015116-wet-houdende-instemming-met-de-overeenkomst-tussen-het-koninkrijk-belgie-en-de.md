@@ -12,7 +12,7 @@ entry_into_force: 2016-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/14/2013015116/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2013. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Albanië inzake de overbrenging van gevonniste personen, ondertekend te Brussel op 29 juli 2010

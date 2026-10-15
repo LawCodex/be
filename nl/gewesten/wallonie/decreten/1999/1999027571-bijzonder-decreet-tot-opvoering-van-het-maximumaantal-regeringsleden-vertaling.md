@@ -13,7 +13,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/07/12/1999027571/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1999. - Bijzonder decreet tot opvoering van het maximumaantal Regeringsleden (VERTALING).

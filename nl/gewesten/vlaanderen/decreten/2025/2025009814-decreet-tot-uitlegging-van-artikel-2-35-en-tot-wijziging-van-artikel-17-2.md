@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/19/2025009814/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Decreet tot uitlegging van artikel 2, 35°, en tot wijziging van artikel 17, § 2, artikel 92 en artikel 218, § 2, van het decreet van 27 maart 2009 betreffende radio-omroep en televisie

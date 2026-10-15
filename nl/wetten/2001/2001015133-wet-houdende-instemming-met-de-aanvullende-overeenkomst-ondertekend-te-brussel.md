@@ -12,7 +12,7 @@ entry_into_force: 2003-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/04/2001015133/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2001. - Wet houdende instemming met de aanvullende Overeenkomst ondertekend te Brussel op 23 juni 1993 tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en het Protocol, ondertekend te Brussel op 28 juni 1974.

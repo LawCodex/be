@@ -13,7 +13,7 @@ entry_into_force: 2014-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202311/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 8 oktober 2010 tussen de Federale Staat en de Gewesten met betrekking tot de uitvoering van de Verordeningen van de Europese Gemeenschappen betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren

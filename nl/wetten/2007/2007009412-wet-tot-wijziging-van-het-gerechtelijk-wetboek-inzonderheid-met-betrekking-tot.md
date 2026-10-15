@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/25/2007009412/justel"
 department: "Justitie"
 justel_note: "de artikelen 178, 179, 180, 181, 182, 183 en 184, respectievelijk dienen te worden gelezen als de artikelen 179, 180, 181, 182, 183, 184 en 185 ; zie erratum, B.S. 30.07.2007> (NOTA : Raadpleging van vroegere versies vanaf 01-06-2007 en tekstbijwerking tot 13-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - Wet tot wijziging van het Gerechtelijk Wetboek inzonderheid met betrekking tot bepalingen inzake het gerechtspersoneel van het niveau A, de griffiers en de secretarissen en inzake de rechterlijke organisatie.

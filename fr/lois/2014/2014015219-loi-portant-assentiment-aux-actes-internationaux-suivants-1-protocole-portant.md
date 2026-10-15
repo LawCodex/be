@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/18/2014015219/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2014. - Loi portant assentiment aux Actes internationaux suivants : 1° Protocole portant modification de la Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l'énergie nucléaire, amendée par le Protocole additionnel du 28 janvier 1964 et par le Protocole du 16 novembre 1982, fait à Paris le 12 février 2004 ; 2° Protocole portant modification de la Convention du 31 janvier 1963 complèmentaire à la Convention de Paris du 29 juillet 1960 sur la responsabilité civile dans le domaine de l'énergie nucléaire, amendée par le Protocole additionnel du 28 janvier 1964 et par le Protocole du 16 novembre 1982, fait à Paris le 12 février 2004 (1) (2)

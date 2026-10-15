@@ -13,7 +13,7 @@ entry_into_force: 2011-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/27/2011204402/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2011. - Décret portant des mesures en matière d'enseignement et de formation 2011

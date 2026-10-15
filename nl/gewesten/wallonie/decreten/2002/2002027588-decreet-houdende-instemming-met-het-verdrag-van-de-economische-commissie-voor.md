@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/13/2002027588/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2002. - Decreet houdende instemming met het Verdrag van de Economische Commissie voor Europa van de Verenigde Naties inzake toegang tot informatie, inspraak voor de bevolking en mogelijkheid van verhaal in milieuzaken, opgemaakt te Aarhus op 25 juni 1998, en met zijn Bijlagen (VERTALING).

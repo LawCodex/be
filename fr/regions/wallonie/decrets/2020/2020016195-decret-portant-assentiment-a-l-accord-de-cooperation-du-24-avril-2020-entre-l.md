@@ -13,7 +13,7 @@ entry_into_force: 2020-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/19/2020016195/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2020. - Décret portant assentiment à l'accord de coopération du 24 avril 2020 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de plusieurs dispositions de la Directive 2016/2284 du Parlement européen et du Conseil du 14 décembre 2016 concernant la réduction des émissions nationales de certains polluants atmosphériques, modifiant la directive 2003/35/CE et abrogeant la directive 2001/81/CE

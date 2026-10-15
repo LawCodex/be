@@ -13,7 +13,7 @@ last_amended: 2009-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/06/24/1955062402/justel"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2009 et mise à jour au 19-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1955. - Loi relative aux archives.

@@ -13,7 +13,7 @@ entry_into_force: 2024-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024005188/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes et le décret du 25 avril 2014 relatif aux projets complexes, en ce qui concerne l'optimisation de la réglementation en matière de projets complexes

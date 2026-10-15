@@ -13,7 +13,7 @@ entry_into_force: 2014-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031328/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie houdende instemming met : het Wapenhandelsverdrag, opgemaakt te New York op 2 april 2013

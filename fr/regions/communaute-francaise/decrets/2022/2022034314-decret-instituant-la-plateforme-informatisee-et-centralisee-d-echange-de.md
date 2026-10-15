@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/17/2022034314/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 20-01-2023 et mise à jour au 12-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2022. - Décret instituant la plateforme informatisée et centralisée d'échange de données "E-paysage" et modifiant divers décrets applicables à l'enseignement supérieur

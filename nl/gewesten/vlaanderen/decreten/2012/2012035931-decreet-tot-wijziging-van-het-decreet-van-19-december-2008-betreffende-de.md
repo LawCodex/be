@@ -12,7 +12,7 @@ published: 2012-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/29/2012035931/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - Decreet tot wijziging van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn

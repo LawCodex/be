@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/03/2010033004/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2009. - Décret portant la deuxième modification du décret du 4 décembre 2008 contenant le budget des recettes de la Communauté germanophone pour l'année budgétaire 2009

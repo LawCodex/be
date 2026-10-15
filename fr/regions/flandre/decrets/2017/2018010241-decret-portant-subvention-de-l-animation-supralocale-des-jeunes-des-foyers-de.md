@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/22/2018010241/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-01-2024 et mise à jour au 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Décret portant subvention de l'animation supralocale des jeunes, des foyers de jeunes et de l'animation des jeunes pour certains groupes cibles spécifiques

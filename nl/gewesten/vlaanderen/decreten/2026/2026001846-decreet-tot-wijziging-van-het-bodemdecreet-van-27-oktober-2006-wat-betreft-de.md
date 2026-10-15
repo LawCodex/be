@@ -13,7 +13,7 @@ entry_into_force: 2026-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/27/2026001846/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2026. - Decreet tot wijziging van het Bodemdecreet van 27 oktober 2006, wat betreft de vaststelling van richtwaarden voor bodemkwaliteit en waarden voor het gebruik van bodemmaterialen

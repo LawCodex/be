@@ -13,7 +13,7 @@ entry_into_force: 1998-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/02/1998033072/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 1998. - Décret portant assentiment au Traité d'entente et de coopération entre le Royaume de Belgique, la Communauté germanophone de Belgique, la Communauté francaise de Belgique, la Communauté flamande de Belgique, la Région wallonne de Belgique, la Région flamande de Belgique, la Région de Bruxelles-Capitale de Belgique et de l'Ukraine, signé à Bruxelles le 23 avril 1997 (TRADUCTION).

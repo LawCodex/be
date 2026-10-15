@@ -13,7 +13,7 @@ entry_into_force: 2023-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/07/2023043881/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2023. - Decreet tot wijziging van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wat de aanpassing van een programmatische aanpak betreft

@@ -12,7 +12,7 @@ entry_into_force: 2024-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/01/18/2024000413/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2024. - Wet om justitie menselijker, sneller en straffer te maken III

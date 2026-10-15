@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 84-85 modifié dans le futur par DCFL 2022-01-21/23 , art. 167-168; En vigueur : 01-01-2024"
   - "Consultation des versions antérieures à partir du 08-06-1991 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1990. - Décret contenant des dispositions budgétaires techniques ainsi que des dispositions accompagnant le budget 1991. (Traduction)

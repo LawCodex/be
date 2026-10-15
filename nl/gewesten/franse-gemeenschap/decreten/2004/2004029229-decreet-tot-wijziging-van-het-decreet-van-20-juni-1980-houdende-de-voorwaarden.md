@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029229/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet tot wijziging van het decreet van 20 juni 1980 houdende de voorwaarden voor de erkenning en subsidiëring van jeugdorganisaties (VERTALING).

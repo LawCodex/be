@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/24/2005035133/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2005 en tekstbijwerking tot 30-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2004. - Decreet houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2004.

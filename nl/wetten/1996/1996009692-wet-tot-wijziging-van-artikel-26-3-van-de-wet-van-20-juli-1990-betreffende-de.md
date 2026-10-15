@@ -10,7 +10,7 @@ date: 1996-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1996009692/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet tot wijziging van artikel 26, § 3 van de wet van 20 juli 1990 betreffende de voorlopige hechtenis.

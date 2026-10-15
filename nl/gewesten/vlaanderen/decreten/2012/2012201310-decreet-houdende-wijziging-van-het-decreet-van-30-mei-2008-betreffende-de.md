@@ -13,7 +13,7 @@ entry_into_force: 2012-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/17/2012201310/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2012. - Decreet houdende wijziging van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen, wat de termijnberekening in artikelen 7 en 9 betreft

@@ -12,7 +12,7 @@ entry_into_force: 2021-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/21/2021021721/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2021. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et modifiant la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations

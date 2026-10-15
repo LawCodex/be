@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/20/2002003352/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2002. - Loi portant confirmation des arrêtés royaux du 20 juillet 2000 portant exécution de la loi du 26 juin 2000 relative à l'introduction de l'euro dans la législation concernant les matières visées à l'article 78 de la Constitution et modification de l'arrêté royal du 20 juillet 2000 portant exécution de la loi du 26 juin 2000 relative à l'introduction de l'euro dans la législation concernant les matières visées à l'article 78 de la Constitution et qui relèvent du Ministère des Finances.

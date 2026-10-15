@@ -11,7 +11,7 @@ date: 2017-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/26/2017204344/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2017. - Decreet houdende instemming met het Samenwerkingsakkoord van 14 juli 2016 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende het vaststellen van de aanknopingsfactoren tot vaststelling van het personele toepassingsgebied van de wettelijke en reglementaire bepalingen van de deelentiteiten, de budgettering en verrekening van de voor de deelentiteiten betaalde gezinsbijslagen en de effectieve invoering van gemeenschappelijke wijzigende bepalingen voorgesteld door het Beheerscomité van FAMIFED

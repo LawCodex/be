@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/07/19/1983B12631/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2016 et mise à jour au 09-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1983. - Loi sur l'apprentissage de professions exercées par des travailleurs salariés. - (REGION WALLONNE)

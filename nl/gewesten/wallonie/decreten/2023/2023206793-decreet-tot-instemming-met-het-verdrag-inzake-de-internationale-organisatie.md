@@ -13,7 +13,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/30/2023206793/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2023. - Decreet tot instemming met het verdrag inzake de Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening en de bijlage, gedaan te Parijs op 27 januari 2021

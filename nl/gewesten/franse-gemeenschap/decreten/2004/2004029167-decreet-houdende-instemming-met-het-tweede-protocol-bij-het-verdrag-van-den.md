@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029167/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met het Tweede Protocol bij het Verdrag van Den Haag van 1954 ter bescherming van culturele goederen tijdens een gewapend conflict, gedaan te Den Haag op 26 maart 1999 (VERTALING).

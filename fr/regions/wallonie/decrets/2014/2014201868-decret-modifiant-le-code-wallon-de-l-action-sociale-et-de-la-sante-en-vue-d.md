@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/20/2014201868/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2014. - Décret modifiant le Code wallon de l'Action sociale et de la Santé en vue d'harmoniser et de simplifier le processus d'octroi et de contrôle des subventions et les rapports d'activités

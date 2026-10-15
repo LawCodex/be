@@ -13,7 +13,7 @@ entry_into_force: 2022-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/18/2022204099/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2022. - Décret relatif à l'extension de la publicité active dans les pouvoirs locaux

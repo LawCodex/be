@@ -12,7 +12,7 @@ published: 2025-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/18/2025005897/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Decreet tot wijziging van het besluit van de Vlaamse Regering van 24 maart 2023 over tijdelijke projecten in het basis- en secundair onderwijs in het kader van een herwaardering van het lerarenambt en van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs

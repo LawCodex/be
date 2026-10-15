@@ -12,7 +12,7 @@ published: 2023-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/24/2023202864/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2023. - Decreet houdende instemming met het verdrag nr. 188 betreffende het werk in de visserijsector, aangenomen door de Internationale Arbeidsconferentie in haar zesennegentigste zitting in Genève op 14 juni 2007

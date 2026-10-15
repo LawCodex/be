@@ -12,7 +12,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/13/2006009491/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2006. - Wet tot wijziging van artikel 220 van de wet van 4 december 1990 op de financiële transacties en de financiële markten en van de artikelen 121, § 1, 1°, en 122 van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten.

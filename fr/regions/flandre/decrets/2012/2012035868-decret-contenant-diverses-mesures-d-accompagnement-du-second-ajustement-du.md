@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012035868/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-07-2012 et mise à jour au 29-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret contenant diverses mesures d'accompagnement du second ajustement du budget 2012

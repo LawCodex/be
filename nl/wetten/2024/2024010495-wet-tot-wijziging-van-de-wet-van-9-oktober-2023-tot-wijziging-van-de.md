@@ -11,7 +11,7 @@ entry_into_force: 2024-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/11/18/2024010495/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2024. - Wet tot wijziging van de wet van 9 oktober 2023 tot wijziging van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen met het oog op het verlengen van de bevoegdheid van apothekers om het griepvaccin toe te dienen

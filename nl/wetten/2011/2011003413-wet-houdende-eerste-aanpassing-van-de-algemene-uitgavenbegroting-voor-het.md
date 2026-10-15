@@ -12,7 +12,7 @@ entry_into_force: 2011-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/26/2011003413/justel"
 department: "Kanselarij van de Eerste Minister - Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2011. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2011

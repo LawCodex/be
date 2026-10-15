@@ -13,7 +13,7 @@ entry_into_force: 2005-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/23/2005201709/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2005. - Decreet houdende instemming met de Kaderovereenkomst van de Wereldgezondheidsorganisatie inzake de bestrijding van het tabaksgebruik, aangenomen te Genève op 21 mei 2003. (Vertaling).

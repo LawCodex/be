@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "article 2 abrogé à une date indéterminée par DRW 2004-05-27/11, art. 2, 002; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 08-12-2003 et mise à jour au 23-09-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant assentiment à l'Accord international sur l'Escaut, fait à Gand, le 3 décembre 2002, ainsi qu'à ses Annexes.

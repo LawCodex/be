@@ -13,7 +13,7 @@ entry_into_force: 2008-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/19/2008200268/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2007. - Décret portant assentiment à l'accord de coopération conclu le 23 novembre 2007 entre la Communauté française et la Région wallonne sur l'utilisation conjointe d'infrastructures en milieu rural.

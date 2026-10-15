@@ -13,7 +13,7 @@ last_amended: 2025-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/08/08/1980080802/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-1984 en tekstbijwerking tot 26-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1980. - Wet betreffende de budgettaire voorstellen 1979-1980.

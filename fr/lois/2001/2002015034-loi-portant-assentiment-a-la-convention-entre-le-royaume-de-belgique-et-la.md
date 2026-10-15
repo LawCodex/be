@@ -12,7 +12,7 @@ entry_into_force: 2002-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2002015034/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République de Slovénie tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Ljubljana, le 22 juin 1998.

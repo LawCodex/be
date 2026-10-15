@@ -13,7 +13,7 @@ entry_into_force: 2001-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/22/2001035017/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2000. - Décret modifiant le décret du 17 décembre 1997 réglant l'octroi de subventions aux administrations provinciales pour la mise en oeuvre d'une politique en matière d'animation des jeunes (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2009-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/14/2009029016/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2008. - Decreet houdende instemming met het Verdrag nr. 155 betreffende arbeidsveiligheid, gezondheid en het arbeidsmilieu, aangenomen te Genève op 22 juni 1981 door de Algemene Conferentie van de internationale arbeidsorganisatie (VERTALING).

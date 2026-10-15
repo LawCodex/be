@@ -12,7 +12,7 @@ entry_into_force: 2023-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/19/2023044780/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2023. - Decreet tot invoeging in de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn van bepalingen betreffende de meldingskanalen en de bescherming van personen die melding maken van een inbreuk binnen de diensten of organen van een lokale overheid

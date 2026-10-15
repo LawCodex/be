@@ -13,7 +13,7 @@ entry_into_force: 2007-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/12/2007202389/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2007. - Décret relatif à l'entrée en vigueur du décret du 10 novembre 2006 modifiant le Livre Ier du Code de l'Environnement relatif à l'évaluation des incidences des projets sur l'environnement pour la période comprise entre le 5 mai 2005 et le 4 décembre 2006.

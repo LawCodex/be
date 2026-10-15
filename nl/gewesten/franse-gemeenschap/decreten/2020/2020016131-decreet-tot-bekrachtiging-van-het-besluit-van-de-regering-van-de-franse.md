@@ -12,7 +12,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020016131/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet tot bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 2 van 7 april 2020 genomen ter uitvoering van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis van COVID-19 met betrekking tot de oprichting van een nood- en steunfonds en de besluiten van de Regering van de Franse Gemeenschap van bijzondere machten nr. 3 van 23 april 2020 en nr. 18 van 4 juni 2020 met betrekking tot de versteviging van het nood- en steunfonds

@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/03/01/2018011170/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2018. - Ordonnance portant adaptation des règles régionales aux modifications du fonctionnement de la conservation des hypothèques et de la gestion de la documentation patrimoniale

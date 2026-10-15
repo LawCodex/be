@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020202186/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2020 et mise à jour au 17-11-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2020. - Loi visant à réglementer la suspension de la procédure des élections sociales de l'année 2020 suite à la pandémie du coronavirus COVID-19

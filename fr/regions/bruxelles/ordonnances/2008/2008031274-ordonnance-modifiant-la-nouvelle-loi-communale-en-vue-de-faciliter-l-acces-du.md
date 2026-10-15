@@ -13,7 +13,7 @@ entry_into_force: 2009-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/05/29/2008031274/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2008. - Ordonnance modifiant la nouvelle loi communale en vue de faciliter l'accès du public aux règlements communaux instaurant des taxes.

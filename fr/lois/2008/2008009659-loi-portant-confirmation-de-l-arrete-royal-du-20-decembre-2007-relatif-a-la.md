@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/30/2008009659/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2008. - Loi portant confirmation de l'arrêté royal du 20 décembre 2007 relatif à la contribution aux frais de fonctionnement, de personnel et d'installation de la Commission des jeux de hasard due par les titulaires de licence de classe A, B, C et E pour l'année civile 2008.

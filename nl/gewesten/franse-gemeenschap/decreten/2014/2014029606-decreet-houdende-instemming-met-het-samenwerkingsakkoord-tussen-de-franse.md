@@ -13,7 +13,7 @@ entry_into_force: 2014-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/03/2014029606/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschapscommissie, de Franse Gemeenschap en het Waalse Gewest betreffende de oprichting van een Commissie voor Beroepsregels en Ethiek

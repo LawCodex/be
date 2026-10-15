@@ -13,7 +13,7 @@ entry_into_force: 2014-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/19/2015035897/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2015. - Decreet houdende wijziging van de Codex Hoger Onderwijs met betrekking tot het stelsel van kwaliteitszorg en accreditatie in het hoger onderwijs

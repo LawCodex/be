@@ -12,7 +12,7 @@ last_amended: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/06/26/1967062604/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2024 en tekstbijwerking tot 10-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1967. - Wet betreffende het statuut van de tussenpersonen op het gebied van het goederenvervoer

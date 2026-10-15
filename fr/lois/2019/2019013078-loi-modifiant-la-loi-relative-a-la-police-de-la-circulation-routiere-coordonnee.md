@@ -12,7 +12,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/08/2019013078/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2019. - Loi modifiant la loi relative à la police de la circulation routière, coordonnée le 16 mars 1968, et modifiant le Code d'instruction criminelle

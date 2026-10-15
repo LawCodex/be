@@ -11,7 +11,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002003391/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet tot aanvulling, inzake de verhaalmiddelen tegen de beslissingen van de minister, de CBF, de CDV en de marktondernemingen, alsook inzake de tussenkomst van de CBF en van de CDV voor de strafgerechten, van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten en tot wijziging van verschillende andere wetsbepalingen.

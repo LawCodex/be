@@ -13,7 +13,7 @@ entry_into_force: 1996-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/19/1996035451/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 1996. - Decreet tot instemming met het Samenwerkingsakkoord tussen de Federale Overheid, de Gemeenschappen en de Gewesten over de nadere regelen voor het sluiten van gemengde verdragen, ondertekend te Brussel op 8 maart 1994.

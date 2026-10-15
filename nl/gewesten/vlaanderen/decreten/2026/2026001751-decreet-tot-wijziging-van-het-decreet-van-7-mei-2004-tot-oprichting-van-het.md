@@ -13,7 +13,7 @@ entry_into_force: 2027-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/27/2026001751/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2026. - Decreet tot wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding", wat betreft de controle van de beschikbaarheid van de verplicht ingeschreven werkzoekenden, de sanctionering en het verweer

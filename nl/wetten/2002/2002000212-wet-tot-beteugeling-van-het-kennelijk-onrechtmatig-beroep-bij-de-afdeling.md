@@ -12,7 +12,7 @@ entry_into_force: 2002-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/17/2002000212/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2002. - Wet tot beteugeling van het kennelijk onrechtmatig beroep bij de afdeling administratie van de Raad van State.

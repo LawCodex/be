@@ -11,7 +11,7 @@ entry_into_force: 2005-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/02/2005000597/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 2005. - Wet houdende vereenvoudiging van de wet van 10 april 1990 tot regeling van de private en bijzondere veiligheid.

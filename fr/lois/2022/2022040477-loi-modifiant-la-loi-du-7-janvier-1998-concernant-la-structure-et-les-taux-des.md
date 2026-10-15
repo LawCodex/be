@@ -12,7 +12,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/05/2022040477/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2022. - Loi modifiant la loi du 7 janvier 1998 concernant la structure et les taux des droits d'accise sur l'alcool et les boissons alcoolisées

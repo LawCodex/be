@@ -12,7 +12,7 @@ entry_into_force: 2000-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/24/2000021001/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1999. - Loi relevant de caducité certains projets de loi réglant une matière visée à l'article 77 de la Constitution.

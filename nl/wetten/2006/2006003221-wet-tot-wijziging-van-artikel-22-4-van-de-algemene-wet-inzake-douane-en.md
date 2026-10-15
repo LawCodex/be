@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/16/2006003221/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2006. - Wet tot wijziging van artikel 22-4 van de algemene wet inzake douane en accijnzen van 18 juli 1977 en intrekking van bepaalde wettelijke bepalingen inzake de te stellen zekerheid in het kader van douane-entrepots, actieve veredeling (schorsingssysteem) en behandeling onder douanetoezicht.

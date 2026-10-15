@@ -13,7 +13,7 @@ last_amended: 2006-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/02/1965040211/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 12-04-2006."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1965. - Loi interdisant la pratique du doping à l'occasion des compétitions sportives. (NOTE 1 : Abrogé pour la Communauté flamande par DCFL 1991-03-27/35, art. 45, 2°, 002; En vigueur : 10-04-1992) - (NOTE 2 : Abrogé pour la Communauté française par DCFR 2001-03-08/33, art. 22; En vigueur : 24-12-2002) - (NOTE 3 : Abrogé pour la Communauté germanophone par DCG 2006-01-30/40, art. 41, 1°; En vigueur : 22-04-2006) - (NOTE 4 : Abrogé pour la Région de Bruxelles-Capitale par ORD 2007-07-19/69 , art. 18, 2°; En vigueur : indéterminée ) -

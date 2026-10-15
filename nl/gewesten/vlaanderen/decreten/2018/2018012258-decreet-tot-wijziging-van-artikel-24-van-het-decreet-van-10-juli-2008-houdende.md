@@ -13,7 +13,7 @@ entry_into_force: 2018-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/18/2018012258/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2018. - Decreet tot wijziging van artikel 24 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid

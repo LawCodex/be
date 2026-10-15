@@ -11,7 +11,7 @@ date: 1997-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/24/1997029336/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - Programmadecreet met betrekking tot diverse dringende maatregelen in verband met het onderwijs (VERTALING).

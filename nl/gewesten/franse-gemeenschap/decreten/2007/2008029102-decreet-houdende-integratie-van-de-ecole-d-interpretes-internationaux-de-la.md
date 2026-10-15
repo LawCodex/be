@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/13/2008029102/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-03-2008 en tekstbijwerking tot 15-09-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2007. - Decreet houdende integratie van de " Ecole d'interprètes internationaux de la Haute Ecole de la Communauté française du Hainaut " in de " Université de Mons-Hainaut " en tot wijziging van de universitaire bevoegdheden (VERTALING)

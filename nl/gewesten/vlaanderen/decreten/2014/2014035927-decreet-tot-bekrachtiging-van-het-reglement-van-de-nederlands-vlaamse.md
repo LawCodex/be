@@ -13,7 +13,7 @@ entry_into_force: 2014-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/21/2014035927/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2014. - Decreet tot bekrachtiging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie, instellingsreview en toets nieuwe opleiding ten aanzien van opleidingen, dan wel instellingen in de Vlaamse Gemeenschap

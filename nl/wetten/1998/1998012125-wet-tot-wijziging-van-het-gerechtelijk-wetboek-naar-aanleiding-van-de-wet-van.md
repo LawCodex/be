@@ -12,7 +12,7 @@ entry_into_force: 1998-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/13/1998012125/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 1998. - Wet tot wijziging van het Gerechtelijk Wetboek naar aanleiding van de wet van 13 februari 1998 houdende bepalingen tot bevordering van de tewerkstelling.

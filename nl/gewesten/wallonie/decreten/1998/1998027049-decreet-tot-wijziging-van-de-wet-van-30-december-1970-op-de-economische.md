@@ -13,7 +13,7 @@ entry_into_force: 1998-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/01/22/1998027049/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 1998. - Decreet tot wijziging van de wet van 30 december 1970 op de economische expansie (VERTALING).

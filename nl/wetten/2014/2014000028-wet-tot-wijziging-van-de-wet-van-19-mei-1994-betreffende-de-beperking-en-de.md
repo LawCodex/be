@@ -12,7 +12,7 @@ entry_into_force: 2014-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014000028/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Wet tot wijziging van de wet van 19 mei 1994 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van het Europees Parlement en tot wijziging van de wet van 19 mei 1994 tot regeling van de verkiezingscampagne en tot beperking en aangifte van de verkiezingsuitgaven voor de verkiezingen van het Vlaams Parlement, het Waals Parlement, het Brussels Hoofdstedelijk Parlement en het Parlement van de Duitstalige Gemeenschap, alsmede tot vaststelling van de toetsingsnorm inzake officiële mededelingen van de overheid

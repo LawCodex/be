@@ -13,7 +13,7 @@ entry_into_force: 2008-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/02/21/2008031073/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2008. - Ordonnantie houdende instemming met de Internationale Conventie tegen het dopinggebruik in de sport, opgemaakt te Parijs op 19 oktober 2005, en de Bijlagen I en II.

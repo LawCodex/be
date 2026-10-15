@@ -13,7 +13,7 @@ entry_into_force: 2014-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/01/30/2014031130/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Ordonnance modifiant l'ordonnance du 14 juillet 2011 relative à la gestion mixte sur le marché de l'emploi dans la Région de Bruxelles-Capitale

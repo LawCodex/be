@@ -13,7 +13,7 @@ entry_into_force: 2012-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/13/2012202065/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2012. - Decreet tot wijziging van de bepalingen inzake telecommunicatie vervat in het decreet van 27 juni 2005 over de audiovisuele mediadiensten en de filmvoorstellingen

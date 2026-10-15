@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996029326/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-10-1996 et mise à jour au 16-01-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret-programme portant diverses mesures concernant les fonds budgétaires, les bâtiments scolaires, l'enseignement et l'audiovisuel.

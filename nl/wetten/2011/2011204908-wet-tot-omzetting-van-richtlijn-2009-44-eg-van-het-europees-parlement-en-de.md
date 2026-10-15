@@ -10,7 +10,7 @@ date: 2011-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/09/26/2011204908/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 2011. - Wet tot omzetting van Richtlijn 2009/44/EG van het Europees Parlement en de Raad van 6 mei 2009 tot wijziging van Richtlijn 98/26/EG betreffende het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen en Richtlijn 2002/47/EG betreffende financiële zekerheidsovereenkomsten wat gekoppelde systemen en kredietvorderingen betreft

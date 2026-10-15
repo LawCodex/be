@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/02/2021041994/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2021 en tekstbijwerking tot 15-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2021. - Wet houdende diverse financiële bepalingen inzake fraudebestrijding

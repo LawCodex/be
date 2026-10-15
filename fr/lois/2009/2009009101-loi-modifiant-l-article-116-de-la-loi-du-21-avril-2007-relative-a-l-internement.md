@@ -12,7 +12,7 @@ entry_into_force: 2009-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/01/21/2009009101/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2009. - Loi modifiant l'article 116 de la loi du 21 avril 2007 relative à l'internement des personnes atteintes d'un trouble mental.

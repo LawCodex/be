@@ -13,7 +13,7 @@ entry_into_force: 2026-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/22/2026000530/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2025. - Decreet houdende instemming met de volgende internationale akten: 1° Overeenkomst tussen het Koninkrijk België en de Republiek Tadzjikistan tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen en naar het vermogen en het Protocol, gedaan te Brussel op 10 februari 2009; 2° Protocol, gedaan te Brussel op 18 december 2009, tot wijziging van de Overeenkomst tussen de Regering van België en de Regering van Maleisië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Kuala Lumpur op 24 oktober 1973, zoals gewijzigd door de Aanvullende Overeenkomst, ondertekend te Kuala Lumpur op 25 juli 1979; 3° Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Botswana tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Pretoria op 30 november 2017 (1)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/12/2019010211/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 15-01-2019 et mise à jour au 27-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2018. - Décret-programme portant diverses mesures relatives à l'organisation du Budget et de la comptabilité, aux Fonds budgétaires, à l'Enseignement supérieur et à la Recherche, à l'Enfance, à l'Enseignement obligatoire et de promotion sociales, aux Bâtiments scolaires, au financement des Infrastructures destinées à accueillir la Cité des métiers de Charleroi, à la mise en oeuvre de la réforme de la formation initiale des enseignants

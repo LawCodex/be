@@ -12,7 +12,7 @@ entry_into_force: 1998-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/09/20/1998000628/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 1998. - Loi modifiant la loi du 20 juillet 1971 sur les funérailles et sépultures.

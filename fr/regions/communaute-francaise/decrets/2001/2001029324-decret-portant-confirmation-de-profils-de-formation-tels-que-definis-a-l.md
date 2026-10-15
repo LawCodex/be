@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/19/2001029324/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-08-2001 et mise à jour au 16-06-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2001. - [Décret portant confirmation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire] &lt;DCFR 2007-01-25/52 , art. 1, 003; En vigueur : 23-03-2007&gt;

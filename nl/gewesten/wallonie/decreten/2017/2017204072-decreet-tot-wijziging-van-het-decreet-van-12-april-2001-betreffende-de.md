@@ -13,7 +13,7 @@ entry_into_force: 2017-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/29/2017204072/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2017. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en het decreet van 5 maart 2008 houdende oprichting van het "Agence wallonne de l'air et du climat" (Waals Agentschap voor lucht en klimaat)

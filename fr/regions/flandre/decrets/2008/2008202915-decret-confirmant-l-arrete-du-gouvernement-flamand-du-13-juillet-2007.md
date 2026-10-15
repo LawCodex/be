@@ -13,7 +13,7 @@ entry_into_force: 2007-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008202915/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret confirmant l'arrêté du Gouvernement flamand du 13 juillet 2007 attribuant les biens, droits et obligations à l'agence autonomisée interne dotée de la personnalité juridique "Bloso" (TRADUCTION).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/21/2021205116/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2025 en tekstbijwerking tot 21-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2021. - Decreet tot oprichting van een "UAP" (Waalse openbare bestuurseenheid) van het type 1 "Post-COVID-19-Fonds voor de uitstraling van Wallonië"

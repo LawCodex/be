@@ -13,7 +13,7 @@ entry_into_force: 1999-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/18/1999036019/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet houdende bevordering van het onderhoud van het niet-beschermd onroerend klein historisch erfgoed.

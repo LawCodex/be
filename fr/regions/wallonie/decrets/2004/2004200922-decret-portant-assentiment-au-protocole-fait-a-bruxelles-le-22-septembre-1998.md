@@ -13,7 +13,7 @@ entry_into_force: 2004-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/25/2004200922/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2004. - Décret portant assentiment au Protocole, fait à Bruxelles le 22 septembre 1998, complétant la Convention Benelux concernant la coopération transfrontalière entre collectivités ou autorités territoriales avec exposé des motifs commun, signée à Bruxelles le 12 septembre 1986.

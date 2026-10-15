@@ -13,7 +13,7 @@ entry_into_force: 2013-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/13/2013029024/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2012. - Décret validant diverses dispositions applicables aux personnels de l'enseignement organisé ou subventionné par la Communauté française

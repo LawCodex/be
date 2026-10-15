@@ -13,7 +13,7 @@ entry_into_force: 2022-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/10/13/2022033800/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2022. - Ordonnance relative à la mise en place d'une analyse d'incidences des politiques régionales sur les micro, petites et moyennes entreprises et d'un contrôle de proportionnalité de la réglementation professionnelle

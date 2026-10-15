@@ -13,7 +13,7 @@ entry_into_force: 2004-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/02/2004035806/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet houdende wijziging van het decreet van 19 juli 2002 houdende goedkeuring van het Samenwerkingsakkoord tussen de federale Staat, de Duitstalige Gemeenschap, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende het gesloten centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd.

@@ -12,7 +12,7 @@ published: 2025-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/23/2025006389/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2025. - Decreet houdende instemming met de volgende internationale akten: 1° Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Moldavië tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen en het Protocol bij die Overeenkomst, gedaan te Brussel op 4 december 2008; 2° Protocol, gedaan te Brussel op 30 maart 2017, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Moldavië tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen en het Protocol bij die Overeenkomst, gedaan te Brussel op 4 december 2008

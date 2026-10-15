@@ -12,7 +12,7 @@ entry_into_force: 2011-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/13/2011202036/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2011. - Loi modifiant, en ce qui concerne les coparents, la législation afférente au congé de paternité

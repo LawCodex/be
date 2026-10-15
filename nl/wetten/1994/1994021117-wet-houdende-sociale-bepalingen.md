@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/30/1994021117/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 07-09-1994 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1994. - Wet houdende sociale bepalingen.

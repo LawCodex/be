@@ -13,7 +13,7 @@ entry_into_force: 2012-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/09/2012206853/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2012. - DECRET modifiant le décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant, le décret du 7 juillet 1998 instaurant le service de médiation flamand, et le décret du 7 mai 2004 portant création d'un " Vlaams Instituut voor Vrede en Geweldpreventie " (Institut flamand pour la Paix et la Prévention de la Violence) auprès du Parlement flamand, et abrogeant le décret du 17 juillet 2000 portant création d'un " Instituut Samenleving en Technologie " (Institut Société et Technologie)

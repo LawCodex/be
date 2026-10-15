@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/03/13/2011014073/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 24-03-2011 et mise à jour au 16-12-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2011. - Loi portant des dispositions diverses concernant la Mobilité

@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/02/05/2015031095/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2015. - Ordonnance portant assentiment à : la Convention n° 159 concernant la réadaptation professionnelle et l'emploi des personnes handicapées, adoptée par la Conférence internationale du Travail à Genève le 20 juin 1983

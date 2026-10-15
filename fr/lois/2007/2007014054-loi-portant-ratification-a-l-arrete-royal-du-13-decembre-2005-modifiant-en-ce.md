@@ -12,7 +12,7 @@ entry_into_force: 2006-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/16/2007014054/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2007. - Loi portant ratification à l'arrêté royal du 13 décembre 2005 modifiant, en ce qui concerne La Poste, la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.

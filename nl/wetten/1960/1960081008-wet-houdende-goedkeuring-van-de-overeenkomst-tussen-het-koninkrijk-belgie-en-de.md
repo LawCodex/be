@@ -10,7 +10,7 @@ date: 1960-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/08/10/1960081008/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1960. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Bondsrepubliek Duitsland, betreffende de erkenning en de wederzijdse tenuitvoerlegging van rechterlijke beslissingen, scheidsrechterlijke uitspraken en authentieke akten in burgerlijke zaken of in handelszaken, van het aanvullend protocol bij deze Overeenkomst en van de wisseling van brieven, ondertekend op 30 juni 1958, te Bonn.

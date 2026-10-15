@@ -11,7 +11,7 @@ published: 2013-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/06/2012015040/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2012. - Wet houdende instemming met de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Indonesië, anderzijds, en met de Slotakte, gedaan te Jakarta op 9 november 2009

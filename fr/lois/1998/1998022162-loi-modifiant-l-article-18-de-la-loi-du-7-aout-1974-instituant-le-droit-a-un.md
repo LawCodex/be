@@ -12,7 +12,7 @@ entry_into_force: 1998-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/03/1998022162/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 1998. - Loi modifiant l'article 18 de la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence et l'article 19 de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale.

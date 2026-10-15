@@ -13,7 +13,7 @@ entry_into_force: 1995-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995035755/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Decreet houdende goedkeuring van het raamverdrag van de Verenigde Naties inzake klimaatverandering, en van de bijlagen I en II, ondertekend in New York op 9 mei 1992.

@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/21/2022207264/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2022. - Bijzondere wet tot wijziging van diverse bepalingen inzake de lijst van mandaten, ambten en beroepen en de vermogensaangifte

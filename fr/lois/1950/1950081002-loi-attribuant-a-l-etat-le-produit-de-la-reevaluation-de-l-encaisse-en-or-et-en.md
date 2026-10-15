@@ -11,7 +11,7 @@ published: 1950-08-12
 entry_into_force: 1950-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1950/08/10/1950081002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1950. - Loi attribuant à l'Etat le produit de la réévaluation de l'encaisse en or et en devises de la Banque Nationale de Belgique.

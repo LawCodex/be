@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/21/2016003265/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 29-07-2016 et mise à jour au 06-10-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2016. - Loi visant à instaurer un système permanent de régularisation fiscale et sociale

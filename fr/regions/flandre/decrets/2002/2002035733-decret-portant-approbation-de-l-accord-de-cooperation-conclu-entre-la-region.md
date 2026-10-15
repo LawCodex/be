@@ -13,7 +13,7 @@ entry_into_force: 2002-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/24/2002035733/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2002. - Décret portant approbation de l'accord de coopération conclu entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale, relatif à l'introduction d'une réduction de la taxe de mise en circulation (TMC) sur base de la norme d'émission du moteur (comme visé dans la Directive 98/69/EG du 13 octobre 1998) ou de la nature du combustible de propulsion, compte tenu de la neutralité fiscale et en vue de prévenir la concurrence entre les Régions au niveau de l'immatriculation des véhicules (TRADUCTION).

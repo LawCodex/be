@@ -13,7 +13,7 @@ entry_into_force: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/04/09/2024009732/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2025. - Beschikking tot vaststelling van het bijzonder reglement van het arbeidshof te Brussel

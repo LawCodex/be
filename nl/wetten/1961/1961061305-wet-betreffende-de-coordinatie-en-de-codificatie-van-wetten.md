@@ -11,7 +11,7 @@ published: 1961-07-11
 entry_into_force: 1961-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/06/13/1961061305/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1961. - Wet betreffende de coördinatie en de codificatie van wetten

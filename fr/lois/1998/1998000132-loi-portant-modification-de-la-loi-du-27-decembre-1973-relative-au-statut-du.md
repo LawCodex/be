@@ -12,7 +12,7 @@ entry_into_force: 1998-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/10/1998000132/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1998. - Loi portant modification de la loi du 27 décembre 1973 relative au statut du personnel du corps opérationnel de la gendarmerie et de la loi du 11 juillet 1978 organisant les relations entre les autorités publiques et les syndicats du personnel du corps opérationnel de la gendarmerie.

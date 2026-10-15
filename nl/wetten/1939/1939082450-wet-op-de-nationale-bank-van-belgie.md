@@ -11,7 +11,7 @@ published: 1939-08-26
 entry_into_force: 1939-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1939/08/24/1939082450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AUGUSTUS 1939. - WET op de Nationale Bank van Belgie

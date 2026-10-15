@@ -12,7 +12,7 @@ entry_into_force: 2017-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/17/2017012524/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2017. - Loi modifiant diverses lois en vue de compléter la procédure de dissolution judiciaire des sociétés

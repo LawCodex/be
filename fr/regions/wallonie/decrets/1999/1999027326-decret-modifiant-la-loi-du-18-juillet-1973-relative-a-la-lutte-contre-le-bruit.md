@@ -13,7 +13,7 @@ entry_into_force: 1998-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027326/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1999. - Décret modifiant la loi du 18 juillet 1973 relative à la lutte contre le bruit.

@@ -13,7 +13,7 @@ entry_into_force: 2008-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/22/2007203605/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2007. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation

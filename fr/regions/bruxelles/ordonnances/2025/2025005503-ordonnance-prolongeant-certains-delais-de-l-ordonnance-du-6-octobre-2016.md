@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/17/2025005503/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2025. - Ordonnance prolongeant certains délais de l'ordonnance du 6 octobre 2016 organique de revitalisation urbaine (OORU) et de l'ordonnance du 31 mai 2018 relative à l'octroi de subsides aux investissements en infrastructures sportives communales et octroyant la faculté d'une ultime modification de programme

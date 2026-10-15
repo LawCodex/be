@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/28/2003012098/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 09-04-2003 et mise à jour au 15-02-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2003. - Loi relative aux examens médicaux dans le cadre des relations de travail

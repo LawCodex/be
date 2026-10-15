@@ -13,7 +13,7 @@ entry_into_force: 2009-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2009200025/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret portant modification du décret du 17 juillet 2000 portant création d'un " Vlaams Instituut voor Wetenschappelijk en Technologisch Aspectenonderzoek " (Institut flamand de recherche sur les aspects scientifiques et technologiques). - Références (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2022-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/05/2022202992/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Loi visant à modifier diverses dispositions relatives aux allocations de transition et aux pensions de survie

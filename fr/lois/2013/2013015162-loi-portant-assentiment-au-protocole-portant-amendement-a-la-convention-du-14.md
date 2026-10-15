@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/12/2013015162/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2013. - Loi portant assentiment au Protocole portant amendement à la Convention du 14 janvier 1964 conclue en exécution de l'article 37, alinéa 2, du Traité instituant l'Union économique Benelux, fait à Bruxelles le 6 juin 2012

@@ -12,7 +12,7 @@ entry_into_force: 2010-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/19/2008015124/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2008. - Wet houdende instemming met volgende Internationale Akten : 1° Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Koninkrijk Thailand inzake wederzijde rechtshulp in strafzaken; 2° Verdrag tussen het Koninkrijk België en het Koninkrijk Thailand betreffende de overbrenging van de gevonniste personen en betreffende de samenwerking in het kader van de strafuitvoering, ondertekend te Bangkok op 12 november 2005

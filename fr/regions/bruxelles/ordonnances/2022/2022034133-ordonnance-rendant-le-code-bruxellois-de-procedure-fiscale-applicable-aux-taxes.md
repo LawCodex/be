@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/11/17/2022034133/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2022. - Ordonnance rendant le Code bruxellois de procédure fiscale applicable aux taxes sur l'incinération des déchets et à la charge environnementale

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/15/2016036305/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 19-08-2016 en tekstbijwerking tot 17-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2016. - Decreet houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin

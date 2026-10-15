@@ -16,7 +16,7 @@ department: "Franse Gemeenschap"
 justel_notes:
   - "bij arrest nr. 85/2023 van 01-06-2023 ( 2023-06-01/31 , B.St. 19-09-2023, p. 78020), heeft het Grondwettelijk Hof dit artikel vernietigd in zoverre het de artikelen 6.2.3-1, tweede lid, 2°, b), 6.2.5-4, 6.2.5-5 en 6.2.5-6, § 3, tweede en derde lid, invoegt in boek 6 van het Wetboek voor het basis- en secundair onderwijs"
   - "Raadpleging van vroegere versies vanaf 06-08-2021 en tekstbijwerking tot 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2021. - Decreet houdende oprichting van territoriale polen belast met de ondersteuning aan scholen voor gewoon onderwijs in de uitvoering van redelijke aanpassingen en volledige permanente integratie

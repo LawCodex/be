@@ -13,7 +13,7 @@ entry_into_force: 2003-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/16/2003033118/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2002. - Decreet houdende instemming met de overeenkomst nr. 128 betreffende uitkeringen wegens invaliditeit, ouderdom en aan de langstlevende, 1967, aangenomen te Genève op 29 juni 1967 door de Algemene Conferentie van de Internationale Arbeidsorganisatie (VERTALING).

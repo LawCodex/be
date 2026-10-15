@@ -13,7 +13,7 @@ entry_into_force: 2016-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/22/2016035120/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2016. - Décret portant assentiment à l'Accord de coopération du 17 juillet 2015 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au transfert d'unités de quantité attribuée aux Régions pour la période 2008-2012

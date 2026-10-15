@@ -13,7 +13,7 @@ entry_into_force: 2020-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/26/2020031060/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2020. - Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft het verkooprecht voor de verlenging van de domicilietermijn bij aankoop van een woning en voor de uitbreiding van het tarief bij de aankoop van een woning bij ingrijpende energetische renovatie

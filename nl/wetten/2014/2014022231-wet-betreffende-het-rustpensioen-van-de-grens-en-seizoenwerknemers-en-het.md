@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014022231/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet betreffende het rustpensioen van de grens- en seizoenwerknemers en het overlevingspensioen van hun langstlevende echtgenoot

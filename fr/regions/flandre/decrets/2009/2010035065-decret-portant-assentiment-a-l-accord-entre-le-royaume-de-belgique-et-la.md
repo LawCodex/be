@@ -13,7 +13,7 @@ entry_into_force: 2010-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/18/2010035065/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2009. - Décret portant assentiment à l'accord entre le Royaume de Belgique et la République d'Albanie, la Bosnie-Herzégovine, la République de Croatie, l'ex-République yougoslave de Macédoine, la République de Moldavie, le Monténégro, la République de Serbie et la Mission d'administration intérimaire des Nations Unies au Kosovo, agissant au nom du Kosovo, conformément à la résolution 1244 du Conseil de sécurité des Nations unies, concernant les privilèges et immunités du secrétariat de l'Accord de libre-échange de l'Europe centrale, signé à Bruxelles le 26 juin 2008

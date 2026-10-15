@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200756/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 22-03-2004 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2004. - [Décret relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public.] &lt;DRW 2009-04-30/26 , art. 1, 003; En vigueur : 05-06-2009&gt;

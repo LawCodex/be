@@ -13,7 +13,7 @@ entry_into_force: 2021-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/04/2021020852/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2021. - Decreet houdende instemming met de versterkte partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Kazakhstan, anderzijds, ondertekend te Astana op 21 december 2015

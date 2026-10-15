@@ -12,7 +12,7 @@ published: 2002-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002029415/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Decreet tot wijziging van het decreet van 12 december 2000 tot vastlegging van de initiële opleiding van de onderwijzers en de regenten. (Vertaling).

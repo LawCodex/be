@@ -12,7 +12,7 @@ entry_into_force: 2007-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/21/2006015050/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2006. - Wet houdende instemming met het Verdrag inzake het merken van kneed- en bladspringstoffen ten behoeve van de opsporing ervan, gedaan te Montreal op 1 maart 1991.

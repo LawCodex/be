@@ -12,7 +12,7 @@ entry_into_force: 2004-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/25/2004022967/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2004. - Loi modifiant l'article 191, alinéa 1er, 15°quater, § 2, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

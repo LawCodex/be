@@ -13,7 +13,7 @@ entry_into_force: 2020-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/14/2020031633/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2020. - Décret octroyant des pouvoirs spéciaux au Gouvernement en vue de réagir à la deuxième vague de la crise sanitaire du COVID-19

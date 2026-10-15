@@ -12,7 +12,7 @@ entry_into_force: 2000-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/01/2000015035/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2000. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Slowaakse Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 15 januari 1997.

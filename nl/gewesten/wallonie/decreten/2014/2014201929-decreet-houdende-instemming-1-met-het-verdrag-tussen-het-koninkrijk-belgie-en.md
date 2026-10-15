@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014201929/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet houdende instemming 1° met het Verdrag tussen het Koninkrijk België en de Republiek der Seychellen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, opgemaakt te Brussel op 27 april 2006 en 2° met het Protocol, ondertekend te Brussel op 14 juli 2009, tot wijziging van het Verdrag tussen het Koninkrijk België en de Republiek der Seychellen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, opgemaakt te Brussel op 27 april 2006

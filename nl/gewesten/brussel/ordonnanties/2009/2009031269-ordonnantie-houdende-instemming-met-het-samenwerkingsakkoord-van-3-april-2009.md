@@ -13,7 +13,7 @@ entry_into_force: 2009-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/05/14/2009031269/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2009. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 3 april 2009 tussen de Franse Gemeenschap en het Brussels Hoofdstedelijk Gewest betreffende het programma " Jeunes, Ecole, Emploi, tout un Programme ", genaamd JEEP-programma

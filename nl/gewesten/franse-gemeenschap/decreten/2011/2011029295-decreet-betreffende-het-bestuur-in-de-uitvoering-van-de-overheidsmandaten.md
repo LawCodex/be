@@ -13,7 +13,7 @@ entry_into_force: 2011-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/31/2011029295/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2011. - Decreet betreffende het bestuur in de uitvoering van de overheidsmandaten binnen de overheidsinstellingen en binnen de van de overheid afgeleide entiteiten

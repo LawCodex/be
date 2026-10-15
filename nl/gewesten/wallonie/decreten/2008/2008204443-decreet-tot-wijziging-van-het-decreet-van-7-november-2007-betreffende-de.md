@@ -13,7 +13,7 @@ entry_into_force: 2009-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/20/2008204443/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2008. - Decreet tot wijziging van het decreet van 7 november 2007 betreffende de subsidies voor investeringen in inrichtingen voor de opvang van bejaarde personen.

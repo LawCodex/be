@@ -13,7 +13,7 @@ entry_into_force: 2025-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/02/12/2026001203/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2026. - Ordonnantie betreffende de indexering van bepaalde onderdelen van de financiering van de voorzieningen voor ouderen, van de centra voor revalidatie en van de multidisciplinaire begeleidingsteams voor palliatieve verzorging

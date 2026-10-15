@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/27/2003029189/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-04-2003 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Décret organisant la reconnaissance et le subventionnement des centres sportifs locaux et des centres sportifs locaux intégrés.

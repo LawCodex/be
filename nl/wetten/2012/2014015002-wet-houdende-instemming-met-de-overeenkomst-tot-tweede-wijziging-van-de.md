@@ -12,7 +12,7 @@ entry_into_force: 2014-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/29/2014015002/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2012. - Wet houdende instemming met de Overeenkomst tot tweede wijziging van de Partnerschapsovereenkomst tussen de Leden van de Groep van Staten in Afrika, het Caribische Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000 en voor de eerste maal gewijzigd te Luxemburg op 25 juni 2005, en met de Slotakte, open voor ondertekening te Ouagadougou op 22 juni 2010 en te Brussel van 1 juli tot en met 31 oktober 2010

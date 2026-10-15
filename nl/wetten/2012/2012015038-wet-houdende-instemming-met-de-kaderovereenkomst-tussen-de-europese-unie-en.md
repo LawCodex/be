@@ -11,7 +11,7 @@ published: 2013-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/06/2012015038/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2012. - Wet houdende instemming met de kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, gedaan te Brussel op 10 mei 2010

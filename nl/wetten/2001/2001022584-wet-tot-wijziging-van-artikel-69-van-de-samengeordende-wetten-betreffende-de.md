@@ -10,7 +10,7 @@ date: 2001-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/08/2001022584/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2001. - Wet tot wijziging van artikel 69 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders.

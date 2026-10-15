@@ -13,7 +13,7 @@ entry_into_force: 2021-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/04/15/2021020826/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2021. - Ordonnance portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République démocratique du Congo relatif au transport aérien, fait à Kinshasa le 2 février 2013

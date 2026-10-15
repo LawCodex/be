@@ -13,7 +13,7 @@ entry_into_force: 2008-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/06/2008202167/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2008. - Decreet houdende wijziging van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers, met het oog op tijdelijke huisvesting van seizoenarbeiders

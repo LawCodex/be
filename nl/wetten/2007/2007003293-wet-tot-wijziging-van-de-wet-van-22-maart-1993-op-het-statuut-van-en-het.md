@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007003293/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot wijziging van de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen, van de wet van 6 april 1995 inzake het statuut van en het toezicht op de beleggingsondernemingen, de bemiddelaars en de beleggingsadviseurs, en van de wet van 20 juli 2004 betreffende bepaalde vormen van collectief beheer van beleggingsportefeuilles.

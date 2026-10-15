@@ -12,7 +12,7 @@ entry_into_force: 2003-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/06/2003009115/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2003. - Wet tot wijziging van het Gerechtelijk Wetboek inzake rechtsbijstand.

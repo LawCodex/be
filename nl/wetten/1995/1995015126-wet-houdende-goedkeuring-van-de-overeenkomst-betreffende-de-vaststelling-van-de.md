@@ -11,7 +11,7 @@ entry_into_force: 1995-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/11/1995015126/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1995. - Wet houdende goedkeuring van de Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lidstaten van de Europese Gemeenschappen wordt ingediend, gedaan te Dublin op 15 juni 1990, te Rome op 7 december 1990 en te Luxemburg op 13 juni 1991.

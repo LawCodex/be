@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/22/1998029256/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1997. - Decreet houdende toestemming in de Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds, in de Bijlagen 1, 2, 3, 4, 5, 6, 7, in de Protocollen 1, 2, 3, 4 en 5, in de Slotakte, gedaan te Brussel op 26 februari 1996 (VERTALING).

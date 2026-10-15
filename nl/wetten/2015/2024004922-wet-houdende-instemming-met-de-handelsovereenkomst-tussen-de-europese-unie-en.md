@@ -12,7 +12,7 @@ entry_into_force: 2025-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/26/2024004922/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2015. - Wet houdende instemming met de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, gedaan te Brussel op 26 juni 2012

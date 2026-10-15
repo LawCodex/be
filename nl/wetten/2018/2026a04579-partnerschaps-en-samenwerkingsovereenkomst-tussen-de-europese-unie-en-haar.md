@@ -11,7 +11,7 @@ published: 2026-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/19/2026A04579/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2018. - Partnerschaps-en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds, gedaan te Brussel op 19 oktober 2018

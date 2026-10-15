@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/03/2010033004/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2009. - Decreet tot tweede aanpassing van het decreet van 4 december 2008 houdende de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 2009

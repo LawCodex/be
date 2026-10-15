@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/10/06/2005015145/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 21-12-2005 et mise à jour au 17-06-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2005. - Loi portant assentiment au et exécution du Protocole de 2003 à la Convention internationale de 1992 portant création d'un Fonds international d'indemnisation pour les dommages dus à la pollution par les hydrocarbures, fait à Londres le 16 mai 2003

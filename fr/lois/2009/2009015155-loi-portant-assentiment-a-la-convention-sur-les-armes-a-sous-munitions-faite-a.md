@@ -12,7 +12,7 @@ entry_into_force: 2010-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/13/2009015155/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2009. - Loi portant assentiment à la Convention sur les armes à sous-munitions, faite à Dublin le 30 mai 2008

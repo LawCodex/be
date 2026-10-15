@@ -11,7 +11,7 @@ published: 1978-06-09
 entry_into_force: 1970-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/04/03/1978040355/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1978. - Wet houdende goedkeuring van het Akkoord tussen het Koninkrijk België en de Intergouvernementele Commissie voor Europese migratie inzake de voorrechten en immuniteiten van deze internationale organisatie in België, ondertekend te Genève op 2 juli 1973.

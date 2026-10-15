@@ -11,7 +11,7 @@ entry_into_force: 2010-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/31/2009014228/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2009. - Wet tot invoering van speekseltesten op drugs in het verkeer

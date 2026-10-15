@@ -12,7 +12,7 @@ entry_into_force: 2007-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/10/26/2007002042/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2006. - Wet tot wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, tot aanmoediging van de inspanning die een openbaar centrum voor maatschappelijk welzijn levert voor de integratie van daklozen.

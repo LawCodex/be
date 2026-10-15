@@ -11,7 +11,7 @@ date: 2002-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002071750/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Decreet houdende instemming met het samenwerkingsakkoord tussen de federale overheid, de Duitstalige Gemeenschap, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende het gesloten centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd (VERTALING).

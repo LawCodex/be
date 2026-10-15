@@ -13,7 +13,7 @@ entry_into_force: 2013-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/31/2013200794/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2013. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume du Maroc concernant les transports internationaux de voyageurs et de marchandises et au Protocole établi en vertu de l'article 22 dudit Accord, signés à Rabat le 14 juillet 1997

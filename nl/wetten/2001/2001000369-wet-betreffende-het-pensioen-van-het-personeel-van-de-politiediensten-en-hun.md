@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/30/2001000369/justel"
 department: "Binnenlandse Zaken - Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 18-04-2001 en tekstbijwerking tot 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2001. - Wet betreffende het pensioen van het personeel van de politiediensten en hun rechthebbenden. -

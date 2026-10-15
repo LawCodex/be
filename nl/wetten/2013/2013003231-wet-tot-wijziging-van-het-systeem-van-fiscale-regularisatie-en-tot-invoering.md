@@ -12,7 +12,7 @@ entry_into_force: 2013-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/11/2013003231/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2013. - Wet tot wijziging van het systeem van fiscale regularisatie en tot invoering van een sociale regularisatie

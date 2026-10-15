@@ -13,7 +13,7 @@ entry_into_force: 2002-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/24/2002035733/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2002. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van een vermindering van de belasting op de inverkeersstelling (BIV) op grond van de emissienorm van de motor (zoals bepaald in de Richtlijn 98/69/EG van 13 oktober 1998) of de aard van de aandrijvingsbrandstof, met inachtneming van de fiscale neutraliteit en ter voorkoming van de concurrentie tussen de Gewesten op het vlak van de inschrijving van de voertuigen.

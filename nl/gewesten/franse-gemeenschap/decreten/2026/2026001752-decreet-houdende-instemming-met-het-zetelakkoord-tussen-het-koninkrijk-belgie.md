@@ -13,7 +13,7 @@ entry_into_force: 2026-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/26/2026001752/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2026. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de "Intergovernmental Authority on Development", gedaan te Brussel op 16 februari 2022

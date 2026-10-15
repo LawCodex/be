@@ -12,7 +12,7 @@ entry_into_force: 1997-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/05/21/1997015114/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 1990. - Wet houdende instemming met het Akkoord tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Malta inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 5 maart 1987.

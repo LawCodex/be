@@ -12,7 +12,7 @@ entry_into_force: 2016-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/25/2016011557/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Wet tot wijziging van de wet van 11 april 2003 betreffende de voorzieningen aangelegd voor de ontmanteling van de kerncentrales en voor het beheer van splijtstoffen bestraald in deze centrales en van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt

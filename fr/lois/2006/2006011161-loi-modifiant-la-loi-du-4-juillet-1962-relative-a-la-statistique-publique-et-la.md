@@ -11,7 +11,7 @@ published: 2006-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/22/2006011161/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2006. - Loi modifiant la loi du 4 juillet 1962 relative à la statistique publique et la loi du 8 août 1983 organisant un Registre national des personnes physiques

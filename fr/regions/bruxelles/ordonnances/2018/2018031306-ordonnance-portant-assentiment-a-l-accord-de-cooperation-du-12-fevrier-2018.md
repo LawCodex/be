@@ -13,7 +13,7 @@ entry_into_force: 2018-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/05/24/2018031306/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Ordonnance portant assentiment à l'Accord de coopération du 12 février 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au partage des objectifs belges climat et énergie pour la période 2013-2020

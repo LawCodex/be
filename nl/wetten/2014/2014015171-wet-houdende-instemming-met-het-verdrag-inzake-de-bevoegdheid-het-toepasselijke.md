@@ -11,7 +11,7 @@ published: 2014-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014015171/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet houdende instemming met het Verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen, gedaan te 's-Gravenhage op 19 oktober 1996

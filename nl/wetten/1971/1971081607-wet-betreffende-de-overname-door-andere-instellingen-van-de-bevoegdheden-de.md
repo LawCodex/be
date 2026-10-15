@@ -10,7 +10,7 @@ date: 1971-08-16
 entry_into_force: 1971-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/08/16/1971081607/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AUGUSTUS 1971. - Wet betreffende de overname door andere instellingen van de bevoegdheden, de taken en het personeel van de Instelling voor sociale verzekeringen Eupen-Malmédy, van de Verzekeringsinstelling tegen invaliditeit te Malmédy en van de Verzekeringsinstelling der private bedienden te Malmédy.

@@ -13,7 +13,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/09/2022034766/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2022. - Decreet tot wijziging van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen, wat betreft de vrijstelling van bepaalde informatieverplichtingen en formaliteiten in het kader van de vorming van woonmaatschappijen

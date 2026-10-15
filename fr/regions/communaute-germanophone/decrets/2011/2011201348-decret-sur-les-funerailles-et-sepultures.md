@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/02/14/2011201348/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 28-03-2011 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2011. - Décret sur les funérailles et sépultures

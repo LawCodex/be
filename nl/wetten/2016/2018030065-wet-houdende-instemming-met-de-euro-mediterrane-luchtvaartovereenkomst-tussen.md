@@ -12,7 +12,7 @@ entry_into_force: 2018-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/24/2018030065/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2016. - Wet houdende instemming met de Euro-mediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Regering van de Staat Israël, anderzijds, gedaan te Luxemburg op 10 juni 2013

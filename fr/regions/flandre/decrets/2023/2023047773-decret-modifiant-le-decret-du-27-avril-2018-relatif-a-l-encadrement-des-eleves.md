@@ -13,7 +13,7 @@ entry_into_force: 2023-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/17/2023047773/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2023. - Décret modifiant le décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves, en ce qui concerne le traitement des données à caractère personnel par les centres d'encadrement des élèves

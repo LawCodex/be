@@ -12,7 +12,7 @@ entry_into_force: 1994-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/02/18/1994000109/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 1994. - Loi habilitant le Roi à codifier les dispositions relatives à l'organisation des opérations électorales.

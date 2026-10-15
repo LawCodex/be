@@ -12,7 +12,7 @@ entry_into_force: 2014-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/26/2014015003/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2013. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, faite à Bruxelles le 7 octobre 2009

@@ -13,7 +13,7 @@ entry_into_force: 2011-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/10/24/2011206279/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2011. - Décret portant création du bachelor en sciences administratives et financières dans les sections comptabilité, banque et assurances

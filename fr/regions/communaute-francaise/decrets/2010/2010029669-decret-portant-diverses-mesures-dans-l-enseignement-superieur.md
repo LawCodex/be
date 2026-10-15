@@ -13,7 +13,7 @@ entry_into_force: 2010-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/01/2010029669/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2010. - Décret portant diverses mesures dans l'enseignement supérieur

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/14/2003003034/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 05-02-2003 et mise à jour au 30-04-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2003. - Loi concernant les plus-values à l'occasion de l'aliénation de véhicules d'entreprise.

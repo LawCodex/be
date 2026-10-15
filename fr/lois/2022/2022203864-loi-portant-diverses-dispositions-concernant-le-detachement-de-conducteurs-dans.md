@@ -12,7 +12,7 @@ entry_into_force: 2022-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/19/2022203864/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2022. - Loi portant diverses dispositions concernant le détachement de conducteurs dans le domaine du transport routier

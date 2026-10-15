@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/10/2006009653/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-09-2006 en tekstbijwerking tot 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2006. - Wet betreffende de elektronische procesvoering

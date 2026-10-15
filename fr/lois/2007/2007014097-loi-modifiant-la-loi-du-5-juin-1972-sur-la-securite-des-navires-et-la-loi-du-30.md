@@ -12,7 +12,7 @@ entry_into_force: 2007-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/22/2007014097/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2007. - Loi modifiant la loi du 5 juin 1972 sur la sécurité des navires et la loi du 30 juillet 1926 instituant un conseil d'enquête maritime.

@@ -12,7 +12,7 @@ entry_into_force: 2023-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/27/2023203514/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2023. - Loi modifiant la loi du 19 juillet 1976 instituant un congé pour l'exercice d'un mandat politique

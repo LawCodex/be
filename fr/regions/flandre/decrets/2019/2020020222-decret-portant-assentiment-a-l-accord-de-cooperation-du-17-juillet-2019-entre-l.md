@@ -13,7 +13,7 @@ entry_into_force: 2020-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/06/2020020222/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2019. - Décret portant assentiment à l'accord de coopération du 17 juillet 2019 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'unification de la manière de référencer les adresses et de la mise en relation des données d'adresses

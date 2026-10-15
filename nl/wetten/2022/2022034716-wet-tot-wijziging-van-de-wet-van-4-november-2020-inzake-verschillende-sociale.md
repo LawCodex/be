@@ -12,7 +12,7 @@ entry_into_force: 2022-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/13/2022034716/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2022. - Wet tot wijziging van de wet van 4 november 2020 inzake verschillende sociale maatregelen ingevolge de COVID-19-pandemie en van de wet van 23 december 2021 tot wijziging van de wet van 4 november 2020 inzake verschillende sociale maatregelen ingevolge de COVID-19-pandemie

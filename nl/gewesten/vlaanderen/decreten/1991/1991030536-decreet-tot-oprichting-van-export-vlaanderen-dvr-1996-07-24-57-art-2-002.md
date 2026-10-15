@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/01/23/1991030536/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-02-1991 en tekstbijwerking tot 04-06-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 1991. - [Decreet tot oprichting van Export Vlaanderen.] (DVR 1996-07-24/57, art. 2, 002; Inwerkingtreding : 1996-10-15) (Opgeheven bij DVR 2004-05-07/47, art. 20, 003; Inwerkingtreding : onbepaald ) -

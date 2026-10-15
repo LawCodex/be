@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/22/2017A70033/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2017 et mise à jour au 30-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2016. - Code wallon du développement territorial - Partie règlementaire

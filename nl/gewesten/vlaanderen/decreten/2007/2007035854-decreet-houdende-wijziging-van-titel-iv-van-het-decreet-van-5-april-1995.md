@@ -13,7 +13,7 @@ entry_into_force: 2007-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/27/2007035854/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - Decreet houdende wijziging van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van artikel 36ter van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.

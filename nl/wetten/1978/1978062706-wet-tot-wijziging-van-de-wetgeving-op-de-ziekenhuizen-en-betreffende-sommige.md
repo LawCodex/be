@@ -13,7 +13,7 @@ last_amended: 2024-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/06/27/1978062706/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-1990 en tekstbijwerking tot 25-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1978. - Wet tot wijziging van de wetgeving op de ziekenhuizen en betreffende sommige andere vormen van verzorging.

@@ -12,7 +12,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/21/2022043423/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2022. - Wet houdende bekrachtiging van het koninklijk besluit van 27 juni 2022 tot vaststelling van de verhouding op 31 december 2007 tussen de middelen van de gemeenten en de federale overheid, alsook de inkomsten- en uitgavenposten die in aanmerking worden genomen om deze verhouding te berekenen, in toepassing van artikel 67, tweede lid, van de wet van 15 mei 2007 betreffende de civiele veiligheid

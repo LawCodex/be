@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012035980/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, en vue de l'introduction d'un système d'encadrement basé en partie sur des caractéristiques socioéconomiques de l'élève, où l'enseignement maternel et l'enseignement primaire sont encadrés de manière équivalente

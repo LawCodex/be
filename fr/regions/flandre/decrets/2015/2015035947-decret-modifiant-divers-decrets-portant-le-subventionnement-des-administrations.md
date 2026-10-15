@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/03/2015035947/justel"
 department: "Autorité flamande"
 justel_note: "par son arrêt n° 59/2017 du 18 mai 2017 (M.B. 03-07-2017, p. 69519) la Cour constitutionnelle annule le présent décret et maintient les effets des dispositions annulées jusqu'à l'adoption par le législateur décrétal d'un nouveau décret et, au plus tard, jusqu'à la fin de l'année budgétaire 2018."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2015. - Décret modifiant divers décrets portant le subventionnement des administrations locales et modifiant le décret du 5 juillet 2002 réglant la dotation et la répartition du Vlaams Gemeentefonds

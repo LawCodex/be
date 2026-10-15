@@ -12,7 +12,7 @@ entry_into_force: 2022-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/06/2022034748/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2022. - Loi visant à rendre la justice plus humaine, plus rapide et plus ferme IIbis

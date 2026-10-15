@@ -12,7 +12,7 @@ entry_into_force: 2005-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/14/2005003090/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2005. - Wet tot wijziging van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten en van artikel 40 van het koninklijk besluit van 25 maart 2003 tot uitvoering van artikel 45, § 2, van die wet.

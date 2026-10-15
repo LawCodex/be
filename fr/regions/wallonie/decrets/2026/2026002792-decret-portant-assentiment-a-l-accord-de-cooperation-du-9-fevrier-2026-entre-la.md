@@ -13,7 +13,7 @@ entry_into_force: 2026-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/03/12/2026002792/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2026. - Décret portant assentiment à l'Accord de coopération du 9 février 2026 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant le cadre de la Responsabilité Elargie des Producteurs pour certains flux de déchets et pour les déchets sauvages

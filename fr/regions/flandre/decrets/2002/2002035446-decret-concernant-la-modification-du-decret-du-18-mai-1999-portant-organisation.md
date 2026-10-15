@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/01/2002035446/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2002. - Décret concernant la modification du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, pour ce qui concerne l'introduction de l'euro (TRADUCTION).

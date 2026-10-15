@@ -12,7 +12,7 @@ entry_into_force: 2009-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/28/2009009357/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2009. - Wet tot opheffing van de wet van 11 april 1936 waarbij de regering gemachtigd wordt het binnenbrengen in België van sommige vreemde publicaties te verbieden

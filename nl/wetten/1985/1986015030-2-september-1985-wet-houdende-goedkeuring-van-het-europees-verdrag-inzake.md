@@ -12,7 +12,7 @@ entry_into_force: 1986-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/09/02/1986015030/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 1985. \_ Wet houdende goedkeuring van het Europees Verdrag inzake sociale zekerheid en van het Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid, opgemaakt te Parijs op 14 december 1972.

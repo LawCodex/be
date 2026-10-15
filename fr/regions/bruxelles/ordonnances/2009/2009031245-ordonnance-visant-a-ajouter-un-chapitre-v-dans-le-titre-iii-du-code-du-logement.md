@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/04/30/2009031245/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Ordonnance visant à ajouter un chapitre V dans le titre III du code du logement relatif aux sanctions en cas de logement inoccupé, à modifier l'ordonnance du 12 décembre 1991 créant des fonds budgétaires et à modifier le Code judiciaire

@@ -13,7 +13,7 @@ entry_into_force: 2008-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/17/2008202824/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2008. - Décret visant à modifier l'article 150bis du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine en introduisant un délai de rigueur pour le certificat d'urbanisme n° 1.

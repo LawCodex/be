@@ -13,7 +13,7 @@ entry_into_force: 2012-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/07/12/2012031557/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2012. - Ordonnance modifiant le Code électoral communal bruxellois et la loi du 11 avril 1994 organisant le vote automatisé

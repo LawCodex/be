@@ -12,7 +12,7 @@ entry_into_force: 2002-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/18/2001015108/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2001. - Loi portant assentiment à l'échange de lettres entre le Royaume de Belgique et le Royaume de Norvège, signées à Oslo le 9 mai 1997 et à Bruxelles le 25 juillet 1997, basé sur le Règlement (CEE) n° 1408/71 relatif à l'application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l'intérieur de la Communauté et sur le Règlement (CEE) n° 574/72 fixant les modalités d'application du règlement (CEE) n° 1408/71.

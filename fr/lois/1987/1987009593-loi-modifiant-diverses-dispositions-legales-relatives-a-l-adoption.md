@@ -12,7 +12,7 @@ entry_into_force: 1987-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/04/27/1987009593/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1987. - Loi modifiant diverses dispositions légales relatives à l'adoption.

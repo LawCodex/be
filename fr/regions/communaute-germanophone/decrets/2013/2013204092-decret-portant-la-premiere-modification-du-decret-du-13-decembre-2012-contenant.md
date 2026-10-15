@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/24/2013204092/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Décret portant la première modification du décret du 13 décembre 2012 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2013

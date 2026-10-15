@@ -12,7 +12,7 @@ entry_into_force: 1995-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/24/1994000408/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 1994. - Wet tot oprichting van een wachtregister voor vreemdelingen die zich vluchteling verklaren of die vragen om als vluchteling te worden erkend.

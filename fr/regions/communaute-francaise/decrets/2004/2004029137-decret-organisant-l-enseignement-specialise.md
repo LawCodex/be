@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004029137/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-06-2004 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2004. - Décret organisant l'enseignement spécialisé.

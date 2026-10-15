@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/03/29/1976032903/justel"
 department: "Classes Moyennes"
 justel_note: "Consultation des versions antérieures à partir du 22-04-1993 et mise à jour au 05-05-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 1976. - Loi relative aux prestations familiales des travailleurs indépendants.

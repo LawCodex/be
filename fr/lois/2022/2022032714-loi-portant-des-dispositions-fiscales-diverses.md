@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/05/2022032714/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 15-07-2022 et mise à jour au 29-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2022. - Loi portant des dispositions fiscales diverses

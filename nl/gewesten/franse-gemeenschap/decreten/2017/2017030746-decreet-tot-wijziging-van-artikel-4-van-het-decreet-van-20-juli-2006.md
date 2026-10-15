@@ -13,7 +13,7 @@ entry_into_force: 2017-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/06/2017030746/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2017. - Decreet tot wijziging van artikel 4 van het decreet van 20 juli 2006 betreffende de onderhandeling met de vertegenwoordigings- en coördinatieorganen van de Inrichtende Machten van het onderwijs en van de gesubsidieerde P.M.S.-centra

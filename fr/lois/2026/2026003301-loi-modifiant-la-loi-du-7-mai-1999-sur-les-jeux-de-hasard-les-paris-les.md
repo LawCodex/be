@@ -12,7 +12,7 @@ entry_into_force: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/04/30/2026003301/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2026. - Loi modifiant la loi du 7 mai 1999 sur les jeux de hasard, les paris, les établissements de jeux de hasard et la protection des joueurs en vue de transférer la commission des jeux de hasard et la compétence en matière de jeux de hasard au Service public fédéral Economie, P.M.E., Classes moyennes et Energie

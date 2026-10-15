@@ -12,7 +12,7 @@ entry_into_force: 2018-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/22/2018011393/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2018. - Wet tot wijziging van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015

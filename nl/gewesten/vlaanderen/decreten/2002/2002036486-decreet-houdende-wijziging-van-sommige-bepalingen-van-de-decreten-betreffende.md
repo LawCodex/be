@@ -13,7 +13,7 @@ entry_into_force: 2002-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/25/2002036486/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2002. - Decreet houdende wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

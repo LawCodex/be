@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019040812/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret portant assentiment à l'accord de coopération du 31 décembre 2018 entre la Communauté flamande, la Région wallonne, la Commission communautaire française, la Commission communautaire commune et la Communauté germanophone relatif aux aides à la mobilité

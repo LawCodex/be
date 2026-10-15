@@ -12,7 +12,7 @@ entry_into_force: 2002-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/04/29/2002021246/justel"
 department: "Kanselarij en Algemene Diensten - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2002. - Bijzondere wet tot wijziging van de artikelen 24bis en 50 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

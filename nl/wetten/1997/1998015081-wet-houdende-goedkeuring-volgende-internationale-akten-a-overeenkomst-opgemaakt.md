@@ -12,7 +12,7 @@ entry_into_force: 1998-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/16/1998015081/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1997. - Wet houdende goedkeuring volgende Internationale Akten : a) Overeenkomst, opgemaakt te Bonn op 18 maart 1993, tot wijziging van de Aanvullende Overeenkomst van 3 augustus 1959, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971 en 18 mei 1981, bij het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten; b) Verdrag, opgemaakt te Bonn op 16 mei 1994, tot wijziging van het Protocol van ondertekening bij de Overeenkomst van 3 augustus 1959, zoals gewijzigd door de Overeenkomsten van 21 oktober 1971 en 18 mei 1981, tot aanvulling van de Overeenkomst tussen de Partijen bij het Noord-Atlantisch Verdrag nopens de rechtspositie der krijgsmachten betreffende de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten.

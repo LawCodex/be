@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/13/2003035216/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-02-2003 en tekstbijwerking tot 20-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2002. - Decreet houdende de oprichting van de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel (BAM).

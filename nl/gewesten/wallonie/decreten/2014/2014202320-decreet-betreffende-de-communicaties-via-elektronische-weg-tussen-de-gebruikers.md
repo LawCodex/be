@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202320/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 13-10-2020 en tekstbijwerking tot 19-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet betreffende de communicaties via elektronische weg tussen de gebruikers en de Waalse openbare overheden, voor de aangelegenheden bedoeld in artikel 138 van de Grondwet

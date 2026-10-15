@@ -13,7 +13,7 @@ last_amended: 2014-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/01/10/1974011001/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-2002 en tekstbijwerking tot 02-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 1974. - Wet tot regeling van de in aanmerkingneming van bepaalde diensten en van met dienstactiviteit gelijkgestelde perioden voor het toekennen en berekenen van pensioenen ten laste van de Staatskas. -

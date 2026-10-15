@@ -13,7 +13,7 @@ entry_into_force: 1995-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/27/1995029276/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1995. - Décret portant assentiment à la Convention-cadre des Nations Unies sur les changements climatiques, et aux annexes I et II, faites à New York, le 9 mai 1992.

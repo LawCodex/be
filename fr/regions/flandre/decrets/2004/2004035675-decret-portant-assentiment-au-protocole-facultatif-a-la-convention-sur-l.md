@@ -13,7 +13,7 @@ entry_into_force: 2004-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/26/2004035675/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2004. - Décret portant assentiment au protocole facultatif à la convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, fait à New York le 6 octobre 1999 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/14/1998035879/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1998. - Décret portant assentiment à la Convention des Nations Unies sur le droit de la mer, et aux annexes, signées à Montego Bay le 10 décembre 1982, et à l'Accord relatif à l'application de la Partie XI de la Convention des Nations Unies sur le droit de la mer, et à l'annexe, signés à New York le 28 juillet 1994 (TRADUCTION).

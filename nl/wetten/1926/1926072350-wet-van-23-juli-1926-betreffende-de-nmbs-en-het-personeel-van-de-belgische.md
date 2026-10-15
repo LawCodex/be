@@ -13,7 +13,7 @@ last_amended: 2026-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1926/07/23/1926072350/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 02-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1926. - Wet van 23 juli 1926 betreffende de NMBS en het personeel van de Belgische Spoorwegen (Opschrift vervangen door KB 2013-12-11/02 , art. 4, 007; Inwerkingtreding : 01-01-2014)

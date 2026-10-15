@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/04/29/2011035347/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-2011 en tekstbijwerking tot 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2011. - Decreet houdende de financiering van experimentele woonprojecten ter bevordering van de samenwerking tussen het Vlaamse woon- en welzijnsbeleid, wat het onderdeel Wonen betreft

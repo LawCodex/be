@@ -12,7 +12,7 @@ entry_into_force: 2014-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/07/2014022007/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2014. - Wet tot wijziging van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, wat het statuut van de meewerkende echtgenote betreft

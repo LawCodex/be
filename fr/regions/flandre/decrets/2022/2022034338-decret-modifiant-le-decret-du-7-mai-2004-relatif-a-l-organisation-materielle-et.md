@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/10/2022034338/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2022. - Décret modifiant le décret du 7 mai 2004 relatif à l'organisation matérielle et au fonctionnement des cultes reconnus, le décret du 12 juillet 2013 portant octroi de subsides pour bâtiments du culte, bâtiments destinés à l'exercice public de l'assistance morale non confessionnelle et crématoriums et le Décret relatif au patrimoine immobilier du 12 juillet 2013, en ce qui concerne la réaffectation ou la destination secondaire éventuelle d'églises paroissiales

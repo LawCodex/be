@@ -12,7 +12,7 @@ entry_into_force: 1990-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/20/1990021172/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1990. - Loi portant des dispositions sociales.

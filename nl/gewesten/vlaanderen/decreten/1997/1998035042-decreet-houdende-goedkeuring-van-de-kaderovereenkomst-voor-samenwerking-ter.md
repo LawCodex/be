@@ -13,7 +13,7 @@ entry_into_force: 1998-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1998035042/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet houdende goedkeuring van de kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar lidstaten enerzijds en de republiek Chili anderzijds als einddoel, en bijlage, ondertekend in Florence op 21 juni 1996.

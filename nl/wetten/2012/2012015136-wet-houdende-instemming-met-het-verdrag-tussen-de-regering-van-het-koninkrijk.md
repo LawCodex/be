@@ -11,7 +11,7 @@ entry_into_force: 2013-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/13/2012015136/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Kroatië betreffende de politiesamenwerking, ondertekend te Zagreb op 19 oktober 2004

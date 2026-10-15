@@ -12,7 +12,7 @@ entry_into_force: 2009-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/18/2009003253/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2009. - Loi modifiant le Code judiciaire en ce qui concerne la dotation allouée au Conseil supérieur de la Justice

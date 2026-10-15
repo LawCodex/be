@@ -13,7 +13,7 @@ entry_into_force: 2016-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/16/2016029338/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2016. - Décret portant diverses mesures dans l'enseignement supérieur, à l'organisation de la gouvernance du Centre hospitalier universitaire de Liège et à la Recherche

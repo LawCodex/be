@@ -11,7 +11,7 @@ entry_into_force: 2017-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/18/2017013158/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2017. - Wet tot wijziging van artikel 38 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer, wat betreft het verval van het recht tot het besturen van niet gemotoriseerde voertuig

@@ -13,7 +13,7 @@ entry_into_force: 2013-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/22/2013206827/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Decreet houdende instemming met de wijzigingen aan het Verdrag inzake de uitbanning van alle vormen van rassendiscriminatie, opgemaakt te New York op 7 maart 1966, het Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen, opgemaakt te New York op 18 december 1979 en het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, opgemaakt te New York op 10 december 1984

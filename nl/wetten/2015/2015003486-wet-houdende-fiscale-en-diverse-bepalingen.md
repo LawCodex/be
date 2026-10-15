@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/18/2015003486/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 28-12-2015 en tekstbijwerking tot 10-08-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Wet houdende fiscale en diverse bepalingen

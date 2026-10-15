@@ -13,7 +13,7 @@ entry_into_force: 2023-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/09/2023042982/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2023. - Décret modifiant le décret du 25 avril 2014 relatif au permis d'environnement, en ce qui concerne l'introduction de mesures transitoires pour les permis dans le cadre de l'Approche programmatique de l'Azote

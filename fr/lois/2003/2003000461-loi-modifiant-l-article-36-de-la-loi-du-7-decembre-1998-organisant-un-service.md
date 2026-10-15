@@ -12,7 +12,7 @@ entry_into_force: 2003-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/10/2003000461/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Loi modifiant l'article 36 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.

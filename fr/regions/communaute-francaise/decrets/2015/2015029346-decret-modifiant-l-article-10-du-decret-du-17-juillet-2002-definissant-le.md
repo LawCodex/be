@@ -13,7 +13,7 @@ entry_into_force: 2015-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/09/2015029346/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2015. - Décret modifiant l'article 10 du décret du 17 juillet 2002 définissant le Certificat d'aptitude pédagogique approprié à l'enseignement supérieur (CAPAES) en Hautes Ecoles et dans l'enseignement supérieur de promotion sociale et ses conditions d'obtention

@@ -12,7 +12,7 @@ entry_into_force: 1994-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1993915195/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi portant approbation de la Convention relative à la reconnaissance internationale des droits sur aéronefs, faite à Genève le 19 juin 1948.

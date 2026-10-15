@@ -12,7 +12,7 @@ entry_into_force: 2018-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/15/2018205559/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2018. - Decreet houdende instemming met het Samenwerkingsakkoord van 29 december 2017 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de verhoging van de inkomensgrensbedragen en de vrijstelling van de inkomsten uit een winstgevende activiteit uitgeoefend in het kader van een studentenovereenkomst voor studenten die een alternerende opleiding volgen en die door een leerovereenkomst verbonden zijn

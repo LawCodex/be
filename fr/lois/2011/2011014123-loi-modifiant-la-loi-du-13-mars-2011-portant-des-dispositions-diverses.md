@@ -12,7 +12,7 @@ entry_into_force: 2011-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/29/2011014123/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2011. - Loi modifiant la loi du 13 mars 2011 portant des dispositions diverses concernant la Mobilité, en vue de prolonger les pouvoirs accordés au Roi

@@ -13,7 +13,7 @@ entry_into_force: 2006-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/01/2006201975/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2006. - Decreet tot wijziging van de artikelen 4, 111 en 127 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium (VERTALING).

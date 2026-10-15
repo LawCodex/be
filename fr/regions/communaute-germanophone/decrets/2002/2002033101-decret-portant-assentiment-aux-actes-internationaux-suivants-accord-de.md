@@ -13,7 +13,7 @@ entry_into_force: 2002-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/07/2002033101/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2002. - Décret portant assentiment aux actes internationaux suivants : Accord de partenariat entre les membres du groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part et la Communauté européenne et ses Etats membres, d'autre part, ses Annexes I, II, III, IV, V et VI, ses Protocoles 1, 2 et 3 ainsi que l'Acte final et les déclarations, signé à Cotonou le 23 juin 2000 - Accord de Cotonou, et Accord interne entre les représentants des Gouvernements des Etats membres, réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'Accord de Partenariat ACP-CE, et son Annexe, signé à Bruxelles le 18 septembre 2000 (TRADUCTION).

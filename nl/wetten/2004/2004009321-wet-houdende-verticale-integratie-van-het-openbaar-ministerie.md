@@ -12,7 +12,7 @@ entry_into_force: 2004-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/12/2004009321/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 APRIL 2004. - Wet houdende verticale integratie van het openbaar ministerie.

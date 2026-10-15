@@ -13,7 +13,7 @@ entry_into_force: 2018-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/19/2018204343/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Décret intégrant le programme stratégique transversal dans le Code de la démocratie locale et de la décentralisation et modifiant l'arrêté royal n° 519 du 31 mars 1987 organisant la mobilité volontaire entre les membres du personnel statutaire des communes et des centres publics d'aide sociale qui ont un même ressort

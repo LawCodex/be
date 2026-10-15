@@ -13,7 +13,7 @@ entry_into_force: 2022-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/24/2022031153/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2022. - Décret modifiant et adaptant certaines dispositions en matière d'enseignement obligatoire et non obligatoire

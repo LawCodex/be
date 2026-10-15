@@ -13,7 +13,7 @@ entry_into_force: 2003-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2003201048/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret contenant l'ajustement du budget général des dépenses pour l'année budgétaire 2002.

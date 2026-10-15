@@ -13,7 +13,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/07/2011029402/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2011. - Décret relatif à la participation et la représentation étudiante dans l'enseignement supérieur

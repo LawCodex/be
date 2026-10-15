@@ -13,7 +13,7 @@ entry_into_force: 2007-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2008035231/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Décret complétant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement par un titre XV Dommages environnementaux, convertissant la Directive 2004/35/CE du Parlement européen et du Conseil du 21 avril 2004 sur la responsabilité environnementale en ce qui concerne la prévention et la réparation des dommages environnementaux (TRADUCTION).

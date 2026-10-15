@@ -12,7 +12,7 @@ entry_into_force: 2003-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/2003015145/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment à la Convention entre l'Espagne et la Belgique tendant à éviter les doubles impositions et à prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Bruxelles le 14 juin 1995.

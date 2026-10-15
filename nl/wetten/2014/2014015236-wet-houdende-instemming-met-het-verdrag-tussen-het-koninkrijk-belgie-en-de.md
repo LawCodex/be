@@ -12,7 +12,7 @@ entry_into_force: 2017-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014015236/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en de Federatieve Republiek Brazilië betreffende wederzijdse rechtshulp in strafzaken, gedaan te Brasilia op 7 mei 2009

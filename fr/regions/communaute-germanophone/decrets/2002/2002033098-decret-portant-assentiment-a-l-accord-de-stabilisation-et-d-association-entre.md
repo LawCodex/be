@@ -13,7 +13,7 @@ entry_into_force: 2002-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/07/2002033098/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2002. - Décret portant assentiment à l'accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres d'une part, et la République de Croatie, d'autre part, ses Annexes I à VIII, ses Protocoles 1, 2, 3, 4, 5 et 6 ainsi que l'Acte final, faits à Luxembourg le 29 octobre 2001 (TRADUCTION).

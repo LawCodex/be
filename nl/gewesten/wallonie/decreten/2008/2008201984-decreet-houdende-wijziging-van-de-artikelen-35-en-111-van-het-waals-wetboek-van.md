@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/22/2008201984/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 05-06-2008 en tekstbijwerking tot 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2008. - Decreet houdende wijziging van de artikelen 35 en 111 van het Waals Wetboek van Ruimtelijke Ordening, Stedenbouw, Patrimonium en Energie (VERTALING)

@@ -12,7 +12,7 @@ published: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/19/2003029585/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2003. - Decreet houdende oprichting van de School voor Circuskunsten. (Vertaling).

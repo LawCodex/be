@@ -12,7 +12,7 @@ published: 1994-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/14/1994033036/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 1994. - Décret portant assentiment à l'accord de coopération et d'union douanière entre la Communauté économique européenne et la République de Saint-Marin, à l'annexe et aux cinq déclarations, signés à Bruxelles le 16 décembre 1991. (Traduction).

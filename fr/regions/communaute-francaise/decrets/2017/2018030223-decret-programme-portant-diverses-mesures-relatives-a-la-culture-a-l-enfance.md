@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/20/2018030223/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2017. - Décret-programme portant diverses mesures relatives à la Culture, à l'Enfance, aux Infrastructures culturelles, à l'Enseignement supérieur et à la Recherche, à l'Audiovisuel, aux Bâtiments scolaires, à l'Enseignement obligatoire, aux Fonds budgétaires et à l'Enseignement de Promotion sociale

@@ -12,7 +12,7 @@ entry_into_force: 2019-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019011399/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2019. - Wet tot wijziging van het Burgerlijk Wetboek, teneinde te bepalen dat op zon- en/of feestdagen huwelijken mogen worden voltrokken

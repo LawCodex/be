@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/06/21/1983013264/justel"
 department: "Santé Publique et Famille - Agriculture"
 justel_note: "Consultation des versions antérieures à partir du 08-06-1995 et mise à jour au 16-05-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 1983. - Loi relative aux aliments médicamenteux pour animaux.

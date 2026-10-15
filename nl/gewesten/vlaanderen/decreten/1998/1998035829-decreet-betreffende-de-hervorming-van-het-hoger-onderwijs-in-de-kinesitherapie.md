@@ -12,7 +12,7 @@ published: 1998-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/23/1998035829/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1998. - Decreet betreffende de hervorming van het hoger onderwijs in de kinesitherapie en de revalidatiewetenschappen in de Vlaamse Gemeenschap.

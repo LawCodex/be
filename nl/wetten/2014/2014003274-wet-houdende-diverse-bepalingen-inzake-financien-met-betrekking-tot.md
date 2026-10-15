@@ -12,7 +12,7 @@ entry_into_force: 2014-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/27/2014003274/justel"
 department: "Economie, KMO, Middenstand en Energie - Binnenlandse Zaken - Justitie - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2014. - Wet houdende diverse bepalingen inzake financiën met betrekking tot aangelegenheden als bedoeld in artikel 77 van de Grondwet

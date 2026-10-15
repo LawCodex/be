@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/14/2018015207/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2018. - Decreet houdende wijziging van het decreet van 17 juli 2003 met betrekking tot de steun aan het verenigingsleven op het gebied van de permanente opvoeding

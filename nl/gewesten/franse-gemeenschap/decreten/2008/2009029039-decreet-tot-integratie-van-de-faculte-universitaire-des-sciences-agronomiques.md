@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/28/2009029039/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-02-2009 en tekstbijwerking tot 05-04-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2008. - Decreet tot integratie van de " Faculté universitaire des sciences agronomiques de Gembloux " in de " Université de Liège ", oprichting van de " Université de Mons " door de fusie van de " Université de Mons-Hainaut " en de " Faculté polytechnique de Mons ", herstructurering van de universitaire machtigingen en herfinanciering van de Universiteiten. (VERTALING)

@@ -13,7 +13,7 @@ entry_into_force: 2017-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/10/2017020311/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2017. - Décret modifiant les articles 92, 93, 95, 98 et 102bis du décret du 15 juillet 1997 contenant le code flamande du Logement

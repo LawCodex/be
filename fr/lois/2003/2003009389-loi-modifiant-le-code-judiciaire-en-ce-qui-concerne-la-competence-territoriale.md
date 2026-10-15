@@ -12,7 +12,7 @@ entry_into_force: 2003-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/08/2003009389/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 2003. - Loi modifiant le Code judiciaire en ce qui concerne la compétence territoriale du juge en matière de saisies conservatoires et de moyens d'exécution.

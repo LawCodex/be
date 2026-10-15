@@ -13,7 +13,7 @@ entry_into_force: 2018-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/14/2018032510/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2018. - Décret modifiant le décret du 17 juillet 2002 portant réforme de l'Office de la Naissance et de l'Enfance, en abrégé " O.N.E. "

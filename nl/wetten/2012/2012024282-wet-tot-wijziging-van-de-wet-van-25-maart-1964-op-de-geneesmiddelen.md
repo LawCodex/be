@@ -11,7 +11,7 @@ entry_into_force: 2012-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012024282/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot wijziging van de wet van 25 maart 1964 op de geneesmiddelen

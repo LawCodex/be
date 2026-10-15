@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004201833/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-2004 en tekstbijwerking tot 15-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet betreffende de uitoefening door de Duitstalige Gemeenschap van sommige bevoegdheden van het Waalse Gewest inzake de ondergeschikte besturen (VERTALING)

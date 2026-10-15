@@ -13,7 +13,7 @@ entry_into_force: 2022-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022032817/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat de voorwaarden voor de aanwijzing van distributienetbeheerders betreft

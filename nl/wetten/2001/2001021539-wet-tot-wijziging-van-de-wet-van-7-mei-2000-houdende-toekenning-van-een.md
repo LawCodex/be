@@ -12,7 +12,7 @@ entry_into_force: 2001-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/13/2001021539/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2001. - Wet tot wijziging van de wet van 7 mei 2000 houdende toekenning van een jaarlijkse dotatie aan Zijne Koninklijke Hoogheid Prins Filip en van een jaarlijkse dotatie aan Hare Koninklijke Hoogheid Prinses Astrid.

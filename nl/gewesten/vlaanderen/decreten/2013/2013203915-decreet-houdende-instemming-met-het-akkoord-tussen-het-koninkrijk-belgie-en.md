@@ -13,7 +13,7 @@ entry_into_force: 2013-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203915/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met het akkoord tussen het Koninkrijk België en Saint Christopher (Saint Kitts) en Nevis inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, en het protocol, ondertekend te Brussel op 18 december 2009

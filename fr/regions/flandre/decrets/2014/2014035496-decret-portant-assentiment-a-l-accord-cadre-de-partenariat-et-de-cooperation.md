@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035496/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret portant assentiment à l'accord-cadre de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la Mongolie, d'autre part, signé à Ulaanbaatar le 30 avril 2013

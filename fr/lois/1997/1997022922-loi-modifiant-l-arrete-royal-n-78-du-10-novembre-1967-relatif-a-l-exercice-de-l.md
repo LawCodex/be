@@ -12,7 +12,7 @@ entry_into_force: 1998-01-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/11/13/1997022922/justel"
 department: "Prévoyance Sociale - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 1997. - Loi modifiant l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales.

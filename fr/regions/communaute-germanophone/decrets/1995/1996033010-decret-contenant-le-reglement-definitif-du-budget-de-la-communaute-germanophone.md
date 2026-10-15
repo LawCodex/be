@@ -13,7 +13,7 @@ entry_into_force: 1996-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/17/1996033010/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1995. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 1993 (TRADUCTION).

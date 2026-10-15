@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/21/2014035613/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2014 et mise à jour au 02-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2014. - Décret relatif à des mesures pour les élèves à besoins éducatifs spécifiques

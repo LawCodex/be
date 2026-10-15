@@ -13,7 +13,7 @@ entry_into_force: 2020-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/18/2020044569/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2020. - Decreet tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (V)

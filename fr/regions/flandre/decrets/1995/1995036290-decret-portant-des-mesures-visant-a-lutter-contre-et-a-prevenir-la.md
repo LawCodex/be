@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995036290/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-09-1995 et mise à jour au 23-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique. (TRADUCTION)

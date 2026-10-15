@@ -10,7 +10,7 @@ date: 1953-06-30
 published: 1953-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/06/30/1953063007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1953. - Wet houdende goedkeuring van het verdrag inzake de verklaring van overlijden van vermiste personen en van de slotakte, ondertekend op 6 april 1950, te Lake-Success.

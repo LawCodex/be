@@ -12,7 +12,7 @@ entry_into_force: 2020-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/10/27/2020043799/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2020. - Loi modifiant les articles 5 § 2 et 6 de l'arrêté royal du 13 mai 2020 portant création d'un subside " COVID-19 " à destination des publics cibles des centres publics d'action sociale

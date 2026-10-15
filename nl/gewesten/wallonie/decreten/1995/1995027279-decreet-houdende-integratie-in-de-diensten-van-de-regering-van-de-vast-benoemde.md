@@ -13,7 +13,7 @@ entry_into_force: 1995-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027279/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet houdende integratie, in de Diensten van de Regering, van de vast benoemde agenten van de Regie der Luchtwegen en van het Wegenfonds die naar het Waalse Gewest zijn overgeplaatst. (VERTALING)

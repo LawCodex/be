@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/05/28/2015031343/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-2015 en tekstbijwerking tot 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2015. - [Ordonnantie van 28 mei 2015 tot oprichting van een instelling van openbaar nut waarin het beheer van het preventie- en veiligheidsbeleid in het Brussels Hoofdstedelijk Gewest is samengebracht]&lt;ORD 2024-05-16/11 , art.2 , 005; Inwerkingtreding : 09-06-2024&gt; &lt;ORD 2019-04-04/37 , art. 2, 003; Inwerkingtreding : 10-05-2019&gt;

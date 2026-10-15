@@ -12,7 +12,7 @@ entry_into_force: 2024-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/07/2024001799/justel"
 department: "Agence Fédérale de Contrôle nucléaire - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2024. - Loi modifiant la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire et la loi du 11 décembre 1998 relative à la classification, aux habilitations de sécurité, attestations de sécurité, avis de sécurité et au service public réglementé, en ce qui concerne divers aspects du contrôle de la fiabilité des personnes et de la protection de l'information dans les secteurs nucléaire et radiologique

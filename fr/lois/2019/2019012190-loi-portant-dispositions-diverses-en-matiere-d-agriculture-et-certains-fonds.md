@@ -12,7 +12,7 @@ entry_into_force: 2019-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019012190/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement - Agence Fédérale pour la Sécurité de la Chaine Alimentaire"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Loi portant dispositions diverses en matière d'agriculture et certains fonds budgétaires et en matière d'intégration sociale

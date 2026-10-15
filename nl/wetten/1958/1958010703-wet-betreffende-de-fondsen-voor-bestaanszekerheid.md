@@ -13,7 +13,7 @@ last_amended: 2022-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/01/07/1958010703/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 10-11-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 1958. - Wet betreffende de Fondsen voor bestaanszekerheid.

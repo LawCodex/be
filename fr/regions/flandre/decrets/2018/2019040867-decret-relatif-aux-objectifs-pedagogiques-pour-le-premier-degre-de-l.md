@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/14/2019040867/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-04-2019 et mise à jour au 02-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2018. - Décret relatif aux objectifs pédagogiques pour le premier degré de l'enseignement secondaire

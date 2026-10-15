@@ -13,7 +13,7 @@ entry_into_force: 2008-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008202689/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret spécial portant remplacement de l'article 10 du décret spécial du 7 juillet 2006 relatif aux institutions flamandes (TRADUCTION).

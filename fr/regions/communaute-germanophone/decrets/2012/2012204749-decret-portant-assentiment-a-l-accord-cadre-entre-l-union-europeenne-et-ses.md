@@ -13,7 +13,7 @@ entry_into_force: 2012-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/25/2012204749/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2012. - Décret portant assentiment à l'accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, fait à Bruxelles, le 10 mai 2010

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019013226/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à la Convention entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas concernant l'Assemblée interparlementaire Benelux, faite à Bruxelles le 20 janvier 2015

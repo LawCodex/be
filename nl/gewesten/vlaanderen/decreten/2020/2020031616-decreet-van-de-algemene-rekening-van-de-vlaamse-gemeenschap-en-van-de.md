@@ -11,7 +11,7 @@ date: 2020-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/16/2020031616/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2020. - Decreet van de algemene rekening van de Vlaamse Gemeenschap en van de uitvoering van de begroting van de Vlaamse rechtspersonen zonder raad van bestuur voor het begrotingsjaar 2019

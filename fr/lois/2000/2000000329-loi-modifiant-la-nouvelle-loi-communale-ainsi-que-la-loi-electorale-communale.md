@@ -12,7 +12,7 @@ entry_into_force: 2000-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/14/2000000329/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2000. - Loi modifiant la nouvelle loi communale ainsi que la loi électorale communale, coordonnée le 4 août 1932.

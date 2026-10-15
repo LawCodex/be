@@ -13,7 +13,7 @@ entry_into_force: 2015-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/11/24/2014207479/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2014. - Décret portant assentiment à l'accord de coopération du 6 novembre 2013 entre l'Etat fédéral, les Régions et les Communautés relatif à l'accompagnement et au suivi actifs des chômeurs

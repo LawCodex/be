@@ -13,7 +13,7 @@ entry_into_force: 2021-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/21/2021033707/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2021. - Décret portant création d'une UAP de type 1 " Fonds post COVID-19 de sortie de la pauvreté " pour les compétences transférées en application de l'article 138 de la Constitution

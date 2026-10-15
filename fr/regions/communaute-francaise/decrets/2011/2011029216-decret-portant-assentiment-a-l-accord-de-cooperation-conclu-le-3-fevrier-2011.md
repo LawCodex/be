@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/17/2011029216/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-10-2023 et mise à jour au 18-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2011. - Décret portant assentiment à l'accord de coopération conclu le 3 février 2011 entre la Communauté française et la Région wallonne portant création d'un service de médiation commun à la Communauté française et à la Région wallonne

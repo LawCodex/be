@@ -13,7 +13,7 @@ entry_into_force: 2009-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/15/2009031075/justel"
 department: "Brussels Hoofdstedelijk Gewest - Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2009. - Decreet tot wijziging van het decreet van de Franse Gemeenschapscommissie van 13 mei 2004 betreffende de sociale cohesie

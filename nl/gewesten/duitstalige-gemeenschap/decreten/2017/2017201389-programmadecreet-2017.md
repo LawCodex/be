@@ -13,7 +13,7 @@ entry_into_force: 2017-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/20/2017201389/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2017. - Programmadecreet 2017

@@ -12,7 +12,7 @@ entry_into_force: 2000-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/04/16/2000009441/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 2000. - Loi modifiant l'article 232 du Code civil et les articles 1270bis, 1309 et 1310 du Code judiciaire, en ce qui concerne le divorce pour cause de séparation de fait.

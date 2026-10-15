@@ -10,7 +10,7 @@ date: 1976-07-26
 entry_into_force: 1976-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/26/1976072602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 1976. - Wet houdende goedkeuring van de Overeenkomst tussen België en Canada tot het vermijden van dubbele belasting en tot regeling van enige andere aangelegenheden inzake belastingen naar het inkomen, ondertekend te Ottawa op 29 mei 1975.

@@ -12,7 +12,7 @@ entry_into_force: 2017-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/05/13/2016015032/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2015. - Loi portant assentiment à l'Accord d'association entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d' une part, et la Géorgie, d'autre part, fait à Bruxelles le 27 juin 2014

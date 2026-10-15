@@ -12,7 +12,7 @@ entry_into_force: 2006-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/07/2006003593/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2006. - Wet tot wijziging van artikel 249 van Titel I, Hoofdstuk XVIII, afdeling II, van het Wetboek van registratie-, hypotheek- en griffierechten.

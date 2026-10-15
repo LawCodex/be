@@ -12,7 +12,7 @@ entry_into_force: 2009-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/15/2009000017/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2008. - Wet betreffende de ondersteuning bij doorgeleiding in het raam van maatregelen tot verwijdering door de lucht.

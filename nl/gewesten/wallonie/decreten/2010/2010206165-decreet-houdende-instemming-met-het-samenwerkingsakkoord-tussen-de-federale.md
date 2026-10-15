@@ -13,7 +13,7 @@ entry_into_force: 2010-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/11/25/2010206165/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2010. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat en de Gewesten betreffende de uitvoering van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, ondertekend te Straatsburg op 9 september 1996

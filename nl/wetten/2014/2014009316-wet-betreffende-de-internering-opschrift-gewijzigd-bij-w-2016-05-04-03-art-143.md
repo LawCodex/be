@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014009316/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 09-07-2014 en tekstbijwerking tot 05-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet betreffende de internering [...] &lt;Opschrift gewijzigd bij W 2016-05-04/03 , art. 143, 005; Inwerkingtreding : 23-05-2016&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2023-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/10/2022042898/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2022. - Decreet tot wijziging van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, de Vlaamse Codex Fiscaliteit van 13 december 2013, het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex en de Vlaamse Codex Wonen van 2021 van 17 juli 2020

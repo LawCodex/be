@@ -12,7 +12,7 @@ entry_into_force: 2020-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/04/2020041876/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2020. - Wet tot wijziging van de wet van 22 december 2009 betreffende een regeling voor rookvrije plaatsen en ter bescherming van de bevolking tegen tabaksrook, en van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de gebruikers op het stuk van de voedingsmiddelen en andere producten, wat het rookverbod in de auto betreft

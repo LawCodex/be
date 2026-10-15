@@ -12,7 +12,7 @@ entry_into_force: 2009-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/22/2009009000/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2008. - Wet betreffende de verhaalbaarheid van de erelonen en de kosten verbonden aan de bijstand van een advocaat.

@@ -13,7 +13,7 @@ entry_into_force: 2001-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/19/2001033030/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2001. - Décret portant assentiment à l'accord de coopération concernant le mode de répartition des frais des receveurs régionaux et le mode de prélèvement de la contribution dans ces frais par les administrations, conclu à Bruxelles le 9 décembre 1997 entre l'Etat, la Communauté flamande, la Région wallonne et la Communauté germanophone (TRADUCTION).

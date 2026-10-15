@@ -12,7 +12,7 @@ published: 2023-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/25/2023031109/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2023. - Decreet tot wijziging van het decreet van 12 december 2008 betreffende de bestrijding van sommige vormen van discriminatie

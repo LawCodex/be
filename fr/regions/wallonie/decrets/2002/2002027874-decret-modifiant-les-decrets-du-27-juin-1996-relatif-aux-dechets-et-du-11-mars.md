@@ -13,7 +13,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/09/19/2002027874/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2002. - Décret modifiant les décrets du 27 juin 1996 relatif aux déchets et du 11 mars 1999 relatif au permis d'environnement.

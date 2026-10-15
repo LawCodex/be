@@ -12,7 +12,7 @@ published: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007036446/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, van het decreet van 13 juli 2001 betreffende het onderwijs-XIII-Mozaïek en van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad.

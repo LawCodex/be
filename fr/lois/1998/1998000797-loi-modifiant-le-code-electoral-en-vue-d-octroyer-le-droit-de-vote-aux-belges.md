@@ -12,7 +12,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/18/1998000797/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1998. - Loi modifiant le Code électoral en vue d'octroyer le droit de vote aux Belges établis à l'étranger pour l'élection des chambres législatives fédérales.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/20/2005003063/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 09-03-2005 en tekstbijwerking tot 19-10-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2004. - Wet betreffende bepaalde vormen van collectief beheer van beleggingsportefeuilles.

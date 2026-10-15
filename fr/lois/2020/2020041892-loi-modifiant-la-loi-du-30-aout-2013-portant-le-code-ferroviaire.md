@@ -12,7 +12,7 @@ entry_into_force: 2020-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/23/2020041892/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2020. - Loi modifiant la loi du 30 août 2013 portant le Code ferroviaire

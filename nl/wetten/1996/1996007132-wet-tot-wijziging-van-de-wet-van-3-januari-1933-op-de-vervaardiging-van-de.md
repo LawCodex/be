@@ -12,7 +12,7 @@ entry_into_force: 1996-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/24/1996007132/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1996. - Wet tot wijziging van de wet van 3 januari 1933 op de vervaardiging van, de handel in en het dragen van wapens en op de handel in munitie om het opslaan van anti-persoonsmijnen door de Belgische Staat of openbare besturen te verbieden.

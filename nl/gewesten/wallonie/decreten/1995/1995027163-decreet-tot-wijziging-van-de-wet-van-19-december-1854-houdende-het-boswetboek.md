@@ -13,7 +13,7 @@ entry_into_force: 1995-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/16/1995027163/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1995. - Decreet tot wijziging van de wet van 19 december 1854 houdende het Boswetboek en tot aanleg van een permanente inventaris van het houtbestand.

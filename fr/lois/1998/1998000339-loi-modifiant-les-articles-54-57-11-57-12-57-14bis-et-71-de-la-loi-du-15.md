@@ -12,7 +12,7 @@ entry_into_force: 1998-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/09/1998000339/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 1998. - Loi modifiant les articles 54, 57/11, 57/12, 57/14bis et 71 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

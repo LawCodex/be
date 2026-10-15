@@ -13,7 +13,7 @@ entry_into_force: 2022-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/24/2022020621/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2022. - Decreet tot bekrachtiging van het besluit van de Waalse Regering nr. 2 van 5 maart 2022 tot beëindiging van het gebruik van het COVID Safe Ticket en tot beperking van de mondmaskerplicht

@@ -13,7 +13,7 @@ entry_into_force: 2013-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/14/2013035007/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2012. - Decreet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de Rechten van het Kind inzake een mededelingsprocedure, aangenomen in New York op 19 december 2011 en ondertekend in Genève op 28 februari 2012

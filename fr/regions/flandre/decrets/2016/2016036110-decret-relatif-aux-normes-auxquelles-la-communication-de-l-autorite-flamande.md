@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/17/2016036110/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2018 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2016. - Décret relatif aux normes auxquelles la communication de l'Autorité flamande doit répondre

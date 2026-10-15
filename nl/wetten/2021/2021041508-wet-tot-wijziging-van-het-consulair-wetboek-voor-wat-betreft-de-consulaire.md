@@ -12,7 +12,7 @@ entry_into_force: 2021-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/25/2021041508/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2021. - Wet tot wijziging van het Consulair Wetboek voor wat betreft de consulaire bijstand aan personen met een door België toegekend statuut van vluchteling of staatloze en aan personen met meerdere nationaliteiten

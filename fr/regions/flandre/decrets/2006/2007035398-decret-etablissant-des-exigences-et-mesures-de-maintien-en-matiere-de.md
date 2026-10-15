@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2007035398/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-08-2008 et mise à jour au 07-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret établissant des exigences et mesures de maintien en matière de performance énergétique et de climat intérieur de bâtiments et portant instauration d'un certificat de performance énergétique et modifiant l'article 22 du décret REG (TRADUCTION)

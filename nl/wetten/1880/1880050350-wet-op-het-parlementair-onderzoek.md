@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1880/05/03/1880050350/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-02-2010 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 1880. - Wet op het parlementair onderzoek.

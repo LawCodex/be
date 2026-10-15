@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/10/2017040792/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-11-2017 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2017. - Décret relatif à des mesures visant à réduire le coût du déploiement de réseaux de communications électroniques à haut débit et modifiant divers décrets

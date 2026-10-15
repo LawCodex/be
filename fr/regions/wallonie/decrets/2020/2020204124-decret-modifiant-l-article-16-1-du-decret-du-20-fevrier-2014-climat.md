@@ -13,7 +13,7 @@ entry_into_force: 2020-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/01/2020204124/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 2020. - Décret modifiant l'article 16/1 du décret du 20 février 2014 " climat "

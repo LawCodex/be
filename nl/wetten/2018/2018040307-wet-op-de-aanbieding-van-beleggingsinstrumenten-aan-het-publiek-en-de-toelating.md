@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/11/2018040307/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-2018 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Wet op de aanbieding van beleggingsinstrumenten aan het publiek en de toelating van beleggingsinstrumenten tot de verhandeling op een gereglementeerde mark

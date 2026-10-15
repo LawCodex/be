@@ -11,7 +11,7 @@ date: 2016-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/13/2016029345/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2016. - Decreet tot wijziging van het decreet van 2 februari 2007 tot vaststelling van het statuut van de directeurs

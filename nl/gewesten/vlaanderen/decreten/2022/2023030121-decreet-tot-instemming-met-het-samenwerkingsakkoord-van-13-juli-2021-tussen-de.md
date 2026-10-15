@@ -13,7 +13,7 @@ entry_into_force: 2023-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/23/2023030121/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2022. - Decreet tot instemming met het Samenwerkingsakkoord van 13 juli 2021 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de coördinatie van het beleid inzake grensoverschrijdende overbrenging van afvalstoffen

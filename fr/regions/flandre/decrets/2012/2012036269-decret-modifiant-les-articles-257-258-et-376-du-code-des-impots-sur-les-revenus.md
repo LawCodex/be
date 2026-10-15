@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/21/2012036269/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-01-2013 et mise à jour au 23-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Décret modifiant les articles 257, 258 et 376 du Code des impôts sur les revenus 1992 et l'article 7 du décret du 23 mai 2008 contenant diverses mesures d'accompagnement de l'ajustement du budget 2008, en ce qui concerne la diminution du précompte immobilier pour des bâtiments peu énergivores

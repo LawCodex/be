@@ -13,7 +13,7 @@ entry_into_force: 2017-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/16/2017201542/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België, vertegenwoordigd door zijn Regering, en de Staat Israël, vertegenwoordigd door zijn Regering, inzake het verrichten van betaalde werkzaamheden door gezinsleden van personeel van een diplomatieke zending of een consulaire post, ondertekend te Jeruzalem op 11 november 2013

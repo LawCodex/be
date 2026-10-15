@@ -13,7 +13,7 @@ entry_into_force: 2007-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007031555/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret portant assentiment aux Actes internationaux suivants : - l'Accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Communauté andine et ses pays membres (Bolivie, Colombie, Equateur, Pérou et Venezuela), d'autre part, et l'Annexe, faits à Rome le 15 décembre 2003; - l'Accord de dialogue et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les républiques du Costa Rica, d'El Salvador, du Guatemala, du Honduras, du Nicaragua et du Panama, d'autre part, et l'Annexe, faits à Rome le 15 décembre 2003.

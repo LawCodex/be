@@ -13,7 +13,7 @@ entry_into_force: 2022-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/08/2022015537/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2022. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, en ce qui concerne les exploitants d'aéronefs

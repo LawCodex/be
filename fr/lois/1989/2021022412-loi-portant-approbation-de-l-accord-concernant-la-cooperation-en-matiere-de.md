@@ -11,7 +11,7 @@ published: 2022-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/06/16/2021022412/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1989. - Loi portant approbation de l'Accord concernant la coopération en matière de lutte contre la pollution de la mer du Nord par les hydrocarbures et autres substances dangereuses, et de l'Annexe, faits à Bonn le 13 septembre 1983

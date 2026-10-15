@@ -13,7 +13,7 @@ entry_into_force: 2001-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/05/18/2001035665/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2001. - Decreet houdende wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering.

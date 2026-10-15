@@ -12,7 +12,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/20/2022043170/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2022. - Wijziging van de Beslissing van 20 december 2021 houdende de toestemming voor de invoer en het gebruik van het geneesmiddel LAGEVRIO voor de behandeling van COVID-19

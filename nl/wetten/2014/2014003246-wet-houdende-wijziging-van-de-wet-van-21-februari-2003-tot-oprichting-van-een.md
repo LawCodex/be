@@ -12,7 +12,7 @@ entry_into_force: 2014-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/12/2014003246/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2014. - Wet houdende wijziging van de wet van 21 februari 2003 tot oprichting van een Dienst voor alimentatievorderingen bij de FOD Financiën en tot wijziging van het Gerechtelijk Wetboek, met het oog op een effectieve invordering van onderhoudsschulden

@@ -13,7 +13,7 @@ entry_into_force: 2010-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/11/2010035014/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2009. - Décret portant assentiment à l'accord de coopération entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale modifiant l'accord de coopération du 30 mars 2004 concernant l'exercice des compétences régionalisées dans le domaine de l'Agriculture et de la Pêche

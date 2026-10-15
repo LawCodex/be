@@ -13,7 +13,7 @@ entry_into_force: 2026-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/03/2026003047/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2026. - Décret portant assentiment à l'accord entre la Région flamande et le Gouvernement de la République française relatif à la gestion des eaux du secteur Dunkerque-Furnes-Les Moëres en cas de crues importantes, signé à Lille le 2 juin 2025

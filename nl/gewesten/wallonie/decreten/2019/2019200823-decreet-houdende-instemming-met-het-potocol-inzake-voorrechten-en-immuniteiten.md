@@ -13,7 +13,7 @@ entry_into_force: 2019-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/31/2019200823/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2019. - Decreet houdende instemming met het Potocol inzake voorrechten en immuniteiten van het eengemaakt octrooigerecht, gedaan te Brussel op 26 juni 2016

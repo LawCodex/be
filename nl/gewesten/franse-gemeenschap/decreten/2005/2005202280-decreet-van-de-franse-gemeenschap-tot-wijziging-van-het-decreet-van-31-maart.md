@@ -11,7 +11,7 @@ date: 2005-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/01/2005202280/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2005. - Decreet van de Franse Gemeenschap tot wijziging van het decreet van 31 maart 2004 betreffende de adoptie (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2009-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202287/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret relatif aux missions de contrôle des réviseurs au sein des organismes d'intérêt public, des intercommunales et des sociétés de logement de service public et au renforcement de la transparence dans l'attribution des marchés publics de réviseurs par un pouvoir adjudicateur wallon et modifiant certaines dispositions du décret du 12 février 2004 relatif aux commissaires du Gouvernement, du Code de la Démocratie locale et de la Décentralisation et du Code wallon du Logement

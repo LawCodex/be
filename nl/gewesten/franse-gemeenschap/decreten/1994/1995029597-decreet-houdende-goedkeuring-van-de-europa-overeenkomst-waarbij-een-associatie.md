@@ -13,7 +13,7 @@ entry_into_force: 1995-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/30/1995029597/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1994. - DECREET houdende goedkeuring van de Europa-overeenkomst waarbij een associatie tot stand gebracht wordt tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Slowaakse Republiek, anderzijds, de bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc en XVII, de protocollen 1, 2, 3, 4, 5, 6, 7 en 8, en de Slotakte, opgemaakt te Luxemburg op 4 oktober 1993

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/26/2023030038/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 12-01-2023 et mise à jour au 26-01-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2022. - Loi portant des dispositions diverses en matière d'organisation judiciaire II

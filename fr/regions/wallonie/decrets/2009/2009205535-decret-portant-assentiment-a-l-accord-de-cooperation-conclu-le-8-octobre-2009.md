@@ -13,7 +13,7 @@ entry_into_force: 2009-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/11/26/2009205535/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2009. - Décret portant assentiment à l'accord de coopération conclu le 8 octobre 2009 entre la Communauté française et la Région wallonne dans le cadre du renforcement des synergies en matière statistiques

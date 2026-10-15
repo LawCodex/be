@@ -13,7 +13,7 @@ entry_into_force: 2023-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/10/13/2023046391/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2023. - Ordonnantie houdende wijziging van artikel 224/2 van de Brusselse Huisvestingscode

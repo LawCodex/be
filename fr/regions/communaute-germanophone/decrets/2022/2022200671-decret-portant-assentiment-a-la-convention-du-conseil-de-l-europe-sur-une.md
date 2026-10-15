@@ -13,7 +13,7 @@ entry_into_force: 2022-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/24/2022200671/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2022. - Décret portant assentiment à la convention du Conseil de l'Europe sur une approche intégrée de la sécurité, de la sûreté et des services lors des matches de football et autres manifestations sportives, faite à Saint-Denis le 3 juillet 2016

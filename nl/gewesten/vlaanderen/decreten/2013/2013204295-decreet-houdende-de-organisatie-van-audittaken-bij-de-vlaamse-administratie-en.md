@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/05/2013204295/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2013 en tekstbijwerking tot 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2013. - Decreet houdende de organisatie van audittaken bij de Vlaamse administratie en de lokale besturen en tot wijziging van het kaderdecreet bestuurlijk beleid van 18 juli 2003, het Gemeentedecreet van 15 juli 2005, het Provinciedecreet van 9 december 2005, het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, het decreet van 27 maart 2009 betreffende radio-omroep en televisie, het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof en het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012 (aangehaald als : Auditdecreet)

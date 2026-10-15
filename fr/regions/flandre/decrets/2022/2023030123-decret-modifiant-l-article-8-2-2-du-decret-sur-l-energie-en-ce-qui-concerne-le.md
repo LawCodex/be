@@ -13,7 +13,7 @@ entry_into_force: 2023-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/23/2023030123/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Décret modifiant l'article 8.2.2 du décret sur l'Energie, en ce qui concerne le prêt rénovation pour les travaux aux parties communes

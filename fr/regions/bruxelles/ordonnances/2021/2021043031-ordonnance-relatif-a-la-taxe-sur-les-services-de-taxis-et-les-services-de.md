@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/10/28/2021043031/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2021. - Ordonnance relatif à la taxe sur les services de taxis et les services de location de voitures avec chauffeur en raison de la crise sanitaire du COVID-19

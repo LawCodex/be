@@ -12,7 +12,7 @@ entry_into_force: 2022-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/30/2022041629/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2022. - Loi concernant l'utilisation d'appareils fonctionnant automatiquement en l'absence d'un agent qualifié pour contrôler les infractions au signal d'interdiction C23

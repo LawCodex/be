@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007029258/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-09-2007 en tekstbijwerking tot 02-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet tot oprichting van het " Bureau international Jeunesse " (Internationaal Bureau voor de Jeugd) binnen het " Commissariat général aux Relations internationales " (Commissariaat-generaal voor Internationale Betrekkingen van de Franse Gemeenschap van België)

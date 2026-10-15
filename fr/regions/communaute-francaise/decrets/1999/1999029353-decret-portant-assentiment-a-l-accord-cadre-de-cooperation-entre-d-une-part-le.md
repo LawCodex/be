@@ -13,7 +13,7 @@ entry_into_force: 1999-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029353/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Décret portant assentiment à l'Accord-cadre de coopération entre d'une part, le Gouvernement de la République du Chili et d'autre part, le Gouvernement de la Région wallonne et de la Communauté francaise de Belgique, fait à Santiago, le 31 juillet 1997.

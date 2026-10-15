@@ -13,7 +13,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/05/02/1995033060/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 1995. - Décret modifiant l'article 37 de l'arrêté royal du 30 mars 1982 relatif aux centres d'enseignement secondaire et fixant le plan de rationalisation et de programmation de l'enseignement secondaire de plein exercice. (TRADUCTION)

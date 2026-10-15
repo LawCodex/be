@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014022239/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 19-06-2014 et mise à jour au 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi portant des dispositions diverses

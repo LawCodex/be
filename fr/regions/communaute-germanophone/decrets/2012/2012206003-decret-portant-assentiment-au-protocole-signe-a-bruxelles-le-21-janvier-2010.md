@@ -13,7 +13,7 @@ entry_into_force: 2012-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/09/24/2012206003/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2012. - Décret portant assentiment au Protocole signé à Bruxelles le 21 janvier 2010 modifiant la Convention entre le Royaume de Belgique et la République fédérale d'Allemagne en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune y compris la contribution des patentes et les impôts fonciers, et son protocole final, signés à Bruxelles le 11 avril 1967, tels que modifiés par la Convention additionnelle signée à Bruxelles le 5 novembre 2002

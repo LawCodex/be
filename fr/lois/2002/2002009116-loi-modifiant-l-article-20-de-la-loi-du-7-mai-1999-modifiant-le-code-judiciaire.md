@@ -12,7 +12,7 @@ entry_into_force: 2002-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/12/2002009116/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2002. - Loi modifiant l'article 20 de la loi du 7 mai 1999 modifiant le Code judiciaire en ce qui concerne le régime disciplinaire applicable aux membres de l'Ordre judiciaire.

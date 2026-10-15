@@ -12,7 +12,7 @@ entry_into_force: 2002-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/12/2002015128/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2002. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République slovaque relatif à la coopération policière, signé à Bruxelles le 29 juin 2000.

@@ -12,7 +12,7 @@ entry_into_force: 2012-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/20/2012009416/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2012. - Loi instaurant le principe " una via " dans le cadre de la poursuite des infractions à la législation fiscale et majorant les amendes pénales fiscales

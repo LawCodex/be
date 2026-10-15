@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/23/1995009273/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-03-1995 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1995. - [Wet van 23 maart 1995 waarbij het interfederaal Centrum voor gelijke kansen en bestrijding van discriminatie en racisme, alsook bepaalde rechtspersonen, gemachtigd worden om in rechte op te treden in rechtsgeschillen waartoe de toepassing van artikel 256 van het Strafwetboek, dat het negationisme strafbaar stelt, aanleiding kan geven.] &lt;W 2026-03-30/01 , art. 102, 005; Inwerkingtreding : 01-09-2026&gt; (Erratum, zie B.St. 22-04-1995, p.10571)

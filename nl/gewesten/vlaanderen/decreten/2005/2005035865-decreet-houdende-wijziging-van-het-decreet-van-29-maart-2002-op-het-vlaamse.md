@@ -12,7 +12,7 @@ published: 2005-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/08/2005035865/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2005. - Decreet houdende wijziging van het decreet van 29 maart 2002 op het Vlaamse jeugdbeleid.

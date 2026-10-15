@@ -13,7 +13,7 @@ entry_into_force: 2022-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/02/10/2022030852/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2022. - Ordonnantie tot opheffing van de ordonnantie van 21 december 2018 tot invoering van een huisvestingstoelage in het Brussels Hoofdstedelijk Gewest

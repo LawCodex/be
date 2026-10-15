@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/24/1999000340/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-1999 en tekstbijwerking tot 20-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1999. - Wet tot regeling van de betrekkingen tussen de overheid en de vakverenigingen van het personeel van de politiediensten. -

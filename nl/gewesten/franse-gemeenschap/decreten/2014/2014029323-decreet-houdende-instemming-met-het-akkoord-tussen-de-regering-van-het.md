@@ -13,7 +13,7 @@ entry_into_force: 2014-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029323/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van het Gemenebest Dominica inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 26 februari 2010

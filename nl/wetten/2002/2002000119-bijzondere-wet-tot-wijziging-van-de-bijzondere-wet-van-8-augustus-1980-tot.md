@@ -12,7 +12,7 @@ entry_into_force: 2002-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/22/2002000119/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2002. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, tot beperking met de helft van de devolutieve kracht van de lijststemmen en tot afschaffing van het onderscheid tussen kandidaat-titularissen en kandidaat-opvolgers voor de verkiezing van de Vlaamse Raad, de Waalse Gewestraad en de Brusselse Hoofdstedelijke Raad.

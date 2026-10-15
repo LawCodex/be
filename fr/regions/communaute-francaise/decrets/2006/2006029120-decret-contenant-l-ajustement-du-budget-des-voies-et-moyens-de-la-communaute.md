@@ -13,7 +13,7 @@ entry_into_force: 2006-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/14/2006029120/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2006. - Décret contenant l'ajustement du Budget des Voies et Moyens de la Communauté française pour l'année budgétaire 2006.

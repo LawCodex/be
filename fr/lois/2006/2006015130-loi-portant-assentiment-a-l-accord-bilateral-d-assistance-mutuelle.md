@@ -12,7 +12,7 @@ entry_into_force: 2008-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/05/2006015130/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 2006. - Loi portant assentiment à l'Accord bilatéral d'assistance mutuelle administrative en matière douanière entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République démocratique du Congo, signé à Bruxelles le 12 février 2004.

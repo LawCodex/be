@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/07/19/1983B12631/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2016 en tekstbijwerking tot 09-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1983. - [Wet op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst]. &lt;opschrift gewijzigd bij W 1987-07-24/32, art. 1, 002; Inwerkingtreding : 07-09-1987&gt; - (WAALS GEWEST)

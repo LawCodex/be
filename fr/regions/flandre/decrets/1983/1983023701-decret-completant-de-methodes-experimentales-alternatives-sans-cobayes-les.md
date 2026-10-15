@@ -13,7 +13,7 @@ entry_into_force: 1984-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/11/16/1983023701/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 1983. - Décret complétant de méthodes expérimentales alternatives sans cobayes les matières d'examen pour les candidatures en sciences, groupe biologie, en sciences pharmaceutiques, en sciences médicales, en sciences vétérinaires, en sciences dentaires et d'ingénieur agricole.

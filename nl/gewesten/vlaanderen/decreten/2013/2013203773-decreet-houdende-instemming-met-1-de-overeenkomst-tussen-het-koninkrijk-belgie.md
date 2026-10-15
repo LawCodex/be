@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203773/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - DECREET houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Republiek Korea tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en het protocol, beide ondertekend te Brussel op 29 augustus 1977, zoals gewijzigd door de aanvullende overeenkomst van 20 april 1994 en door het protocol van 8 maart 2010; 2° de aanvullende overeenkomst tot wijziging van de onder 1° vermelde overeenkomst, ondertekend te Brussel op 20 april 1994; 3° het protocol tot wijziging van de onder 1° vermelde overeenkomst, zoals gewijzigd, ondertekend te Brussel op 8 maart 2010

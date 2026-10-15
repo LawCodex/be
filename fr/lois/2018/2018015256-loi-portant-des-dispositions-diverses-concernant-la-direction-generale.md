@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/03/2018015256/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2018. - Loi portant des dispositions diverses concernant la direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui

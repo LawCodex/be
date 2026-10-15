@@ -13,7 +13,7 @@ entry_into_force: 1995-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/02/08/1996027072/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1996. - Decreet houdende wijziging van het decreet van 10 maart 1994 betreffende de oprichting van de "Société wallonne de financement complémentaire des infrastructures" (Waalse Maatschappij voor de aanvullende financiering van de infrastructuren) (VERTALING).

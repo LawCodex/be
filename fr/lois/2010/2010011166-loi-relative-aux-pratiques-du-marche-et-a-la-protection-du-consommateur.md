@@ -16,7 +16,7 @@ department: "Economie, PME, Classes moyennes et Energie"
 justel_notes:
   - "les articles 110 à 113 sont abrogés par <L 2013-12-26/37 , art. 5; En vigueur : 31-05-2014> en tant qu'ils s'appliquent aux matières réglées par les dispositions correspondantes du Code de droit économique, telles qu'insérées par L 2013-12-26/37 "
   - "Consultation des versions antérieures à partir du 12-04-2010 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2010. - Loi relative aux pratiques du marché et à la protection du consommateur.

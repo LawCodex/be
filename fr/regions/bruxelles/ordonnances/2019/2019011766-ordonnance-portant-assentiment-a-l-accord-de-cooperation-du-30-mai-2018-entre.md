@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011766/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Ordonnance portant assentiment à l'accord de coopération du 30 mai 2018 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone relatif à la création de l'organe interrégional pour les prestations familiales

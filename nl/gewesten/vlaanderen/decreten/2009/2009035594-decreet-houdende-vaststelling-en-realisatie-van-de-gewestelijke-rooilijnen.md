@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/08/2009035594/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-2009 en tekstbijwerking tot 02-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2009. - Decreet houdende vaststelling en realisatie van de [gewestelijke] rooilijnen (Opschrift gewijzigd door DVR 2019-05-03/47 , art. 54, 009; Inwerkingtreding : 01-09-2019)

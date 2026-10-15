@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1998015163/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet houdende instemming met het Verdrag nr. 148 betreffende de bescherming van de werknemers tegen beroepsrisico's op de werkplaatsen als gevolg van luchtverontreiniging, lawaai en trillingen, aangenomen te Genève op 20 juni 1977 door de Internationale Arbeidsconferentie tijdens haar drieënzestigste zitting.

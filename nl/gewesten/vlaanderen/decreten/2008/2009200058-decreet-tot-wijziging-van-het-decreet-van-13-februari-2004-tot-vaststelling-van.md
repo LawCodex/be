@@ -13,7 +13,7 @@ entry_into_force: 2009-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/28/2009200058/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2008. - Decreet tot wijziging van het decreet van 13 februari 2004 tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsverenigingen

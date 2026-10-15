@@ -13,7 +13,7 @@ entry_into_force: 2020-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/03/19/2020040736/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2020. - Ordonnantie tot wijziging van de ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing met het oog op de omzetting van de richtlijn (EU) 2018/410

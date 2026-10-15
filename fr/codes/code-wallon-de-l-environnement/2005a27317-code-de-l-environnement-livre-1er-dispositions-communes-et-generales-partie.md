@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/03/17/2005A27317/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2005 et mise à jour au 31-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2005. - Code de l'environnement. - Livre 1er : Dispositions communes et générales. - Partie réglementaire.

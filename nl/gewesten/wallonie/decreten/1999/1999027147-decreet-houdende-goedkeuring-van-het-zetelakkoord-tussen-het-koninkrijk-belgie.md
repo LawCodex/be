@@ -12,7 +12,7 @@ published: 1999-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/25/1999027147/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1999. - Decreet houdende goedkeuring van het Zetelakkoord tussen het Koninkrijk België en het Agentschap voor culturele en technische samenwerking, opgemaakt te Brussel op 16 november 1995 (VERTALING).

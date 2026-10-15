@@ -13,7 +13,7 @@ entry_into_force: 2007-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/15/2007200618/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2007. - Decreet tot wijziging van artikel L1231-5 van het Wetboek van de plaatselijke democratie en de decentralisatie (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/22/1998029252/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1997. - Décret portant assentiment au Traité sur la Charte de l'Energie, les Annexes EM, NI, TRM, N, VC, ID, IA, P, G, TFU, D, B, PA, T, les Décisions et le Protocole sur l'efficacité énergétique et les aspects environnementaux connexes et l'Acte final, signé à Lisbonne le 17 décembre 1994.

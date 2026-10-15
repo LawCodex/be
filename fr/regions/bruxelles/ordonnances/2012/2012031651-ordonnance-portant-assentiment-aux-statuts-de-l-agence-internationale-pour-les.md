@@ -13,7 +13,7 @@ entry_into_force: 2012-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/07/23/2012031651/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2012. - Ordonnance portant assentiment aux : Statuts de l'Agence internationale pour les énergies renouvelables (IRENA), faits à Bonn le 26 janvier 2009

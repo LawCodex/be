@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995016113/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet tot wijziging van de wetten op de organisatie van de Middenstand, gecoördineerd op 28 mei 1979, en tot wijziging van de wet van 15 december 1970 op de uitoefening van beroepswerkzaamheden in de kleine en middelgrote handels- en ambachtsondernemingen.

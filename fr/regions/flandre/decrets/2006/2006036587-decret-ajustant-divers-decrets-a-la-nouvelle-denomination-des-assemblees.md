@@ -13,7 +13,7 @@ entry_into_force: 2006-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/23/2006036587/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2006. - Décret ajustant divers décrets à la nouvelle dénomination des assemblées législatives des communautés et des régions ( 1) (TRADUCTION).

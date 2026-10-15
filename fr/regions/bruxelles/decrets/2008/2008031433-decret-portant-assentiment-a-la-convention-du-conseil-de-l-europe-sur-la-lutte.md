@@ -13,7 +13,7 @@ entry_into_force: 2008-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/12/2008031433/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2008. - Décret portant assentiment à la Convention du Conseil de l'Europe sur la lutte contre la traite des êtres humains, faite à Varsovie le 16 mai 2005.

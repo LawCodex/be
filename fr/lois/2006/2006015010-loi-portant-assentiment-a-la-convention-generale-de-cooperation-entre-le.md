@@ -12,7 +12,7 @@ entry_into_force: 2007-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/10/2006015010/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2006. - Loi portant assentiment à la Convention générale de coopération entre le Royaume de Belgique et le Royaume du Maroc, signée à Bruxelles le 26 juin 2002.

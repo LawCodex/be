@@ -12,7 +12,7 @@ entry_into_force: 2017-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/19/2017013433/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2017. - Wet tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten wat bepaalde versnelde beroepsprocedures bij de Raad van State betreft

@@ -12,7 +12,7 @@ entry_into_force: 2010-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/23/2010024095/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2010. - Loi portant confirmation des arrêtés royaux pris en application des articles 2 et 3 de la loi du 16 octobre 2009 accordant des pouvoirs au Roi en cas d'épidémie ou de pandémie de grippe

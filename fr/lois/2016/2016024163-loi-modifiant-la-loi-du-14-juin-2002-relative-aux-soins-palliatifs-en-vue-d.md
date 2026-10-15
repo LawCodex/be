@@ -12,7 +12,7 @@ entry_into_force: 2016-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/21/2016024163/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2016. - Loi modifiant la loi du 14 juin 2002 relative aux soins palliatifs en vue d'élargir la définition des soins palliatifs

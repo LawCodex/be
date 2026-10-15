@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/08/2013206603/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-12-2013 et mise à jour au 13-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2013. - Décret portant la stimulation, la coordination et le subventionnement de l'emploi dans le secteur du sport

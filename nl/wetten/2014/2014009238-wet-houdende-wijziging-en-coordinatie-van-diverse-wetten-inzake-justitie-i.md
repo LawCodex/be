@@ -12,7 +12,7 @@ entry_into_force: 2014-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014009238/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet houdende wijziging en coördinatie van diverse wetten inzake Justitie (I)

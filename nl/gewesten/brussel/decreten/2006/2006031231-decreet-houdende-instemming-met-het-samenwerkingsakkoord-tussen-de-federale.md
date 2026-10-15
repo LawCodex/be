@@ -13,7 +13,7 @@ entry_into_force: 2006-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/20/2006031231/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2006. - Decreet houdende instemming met het samenwerkingsakkoord tussen de federale Staat, de Vlaamse Gemeenschap, het Vlaams Gewest, de Franse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap, het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie, tot oprichting van een nationale Commissie voor de Rechten van het Kind, gesloten te Brussel op 19 september 2005 (VERTALING).

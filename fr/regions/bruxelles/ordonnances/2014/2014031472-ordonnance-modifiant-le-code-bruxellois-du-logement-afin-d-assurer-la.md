@@ -13,7 +13,7 @@ entry_into_force: 2014-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031472/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance modifiant le Code bruxellois du logement afin d'assurer la représentation de l'opposition au conseil d'administration des SISP pluricommunales

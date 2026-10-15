@@ -12,7 +12,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/06/2022034083/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2022. - Loi visant à garantir le consentement des victimes de violence préalablement à une médiation, une conciliation ou un renvoi devant une chambre de règlement amiable

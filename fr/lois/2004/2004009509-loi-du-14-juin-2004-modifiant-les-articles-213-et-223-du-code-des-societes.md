@@ -12,7 +12,7 @@ entry_into_force: 2004-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/14/2004009509/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2004. - Loi du 14 juin 2004 modifiant les articles 213 et 223 du Code des sociétés.

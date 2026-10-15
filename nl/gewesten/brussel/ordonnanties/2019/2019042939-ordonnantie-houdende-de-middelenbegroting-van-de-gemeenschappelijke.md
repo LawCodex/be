@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/12/19/2019042939/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2019. - Ordonnantie houdende de Middelenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2020

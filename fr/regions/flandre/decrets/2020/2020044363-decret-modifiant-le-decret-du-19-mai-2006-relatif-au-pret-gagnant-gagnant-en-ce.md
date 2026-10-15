@@ -13,7 +13,7 @@ entry_into_force: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/27/2020044363/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2020. - Décret modifiant le décret du 19 mai 2006 relatif au Prêt Gagnant-Gagnant, en ce qui concerne la " Vriendenaandeel " (Action d'Ami)

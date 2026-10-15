@@ -12,7 +12,7 @@ entry_into_force: 2011-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/01/06/2011003000/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2011. - Wet tot wijziging van de wet van 2 juli 2010 tot wijziging van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten en van de wet van 22 februari 1998 tot vaststelling van het organiek statuut van de Nationale Bank van België, en houdende diverse bepalingen

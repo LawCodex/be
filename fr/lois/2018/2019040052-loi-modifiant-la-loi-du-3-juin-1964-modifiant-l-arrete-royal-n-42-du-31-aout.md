@@ -12,7 +12,7 @@ entry_into_force: 2019-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/20/2019040052/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2018. - Loi modifiant la loi du 3 juin 1964 modifiant l'arrêté royal n° 42 du 31 août 1939 réorganisant l'Office national du Ducroire et autorisant le ministre des Finances et le ministre qui a les relations commerciales extérieures dans ses attributions, à consentir des prêts à des Etats ou à des organismes étrangers

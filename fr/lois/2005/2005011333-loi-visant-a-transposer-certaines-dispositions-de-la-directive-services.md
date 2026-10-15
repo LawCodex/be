@@ -12,7 +12,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/24/2005011333/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AOUT 2005. - Loi visant à transposer certaines dispositions de la directive services financiers à distance et de la directive vie privée et communications électroniques.

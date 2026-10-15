@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/10/10/1978101005/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-05-1999 et mise à jour au 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1978. - Loi portant établissement d'une zone de pêche de la Belgique.

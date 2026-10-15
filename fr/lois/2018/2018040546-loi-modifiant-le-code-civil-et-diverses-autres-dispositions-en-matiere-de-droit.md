@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/22/2018040546/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-07-2018 et mise à jour au 14-03-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2018. - Loi modifiant le Code civil et diverses autres dispositions en matière de droit des régimes matrimoniaux et modifiant la loi du 31 juillet 2017 modifiant le Code civil en ce qui concerne les successions et les libéralités et modifiant diverses autres dispositions en cette matière

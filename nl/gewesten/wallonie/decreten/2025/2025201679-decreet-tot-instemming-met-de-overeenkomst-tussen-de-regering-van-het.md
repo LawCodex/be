@@ -13,7 +13,7 @@ entry_into_force: 2025-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/15/2025201679/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2025. - Decreet tot instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Benin betreffende het luchtvervoer, gedaan te Cotonou op 9 januari 2018

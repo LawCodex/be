@@ -12,7 +12,7 @@ entry_into_force: 2000-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/25/2000015116/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2000. - Loi portant assentiment à l'Accord de sécurité de l'UEO, fait à Bruxelles le 28 mars 1995.

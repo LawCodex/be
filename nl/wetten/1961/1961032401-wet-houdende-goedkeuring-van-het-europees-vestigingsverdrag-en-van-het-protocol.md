@@ -11,7 +11,7 @@ published: 1965-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/03/24/1961032401/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1961. - Wet houdende goedkeuring van het Europees Vestigingsverdrag en van het Protocol, ondertekend op 13 december 1955, te Parijs.

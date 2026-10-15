@@ -12,7 +12,7 @@ entry_into_force: 2020-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/15/2020041562/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2020. - Wet betreffende de berekeningswijze van het pensioensupplement van de ondergrondse mijnwerkers

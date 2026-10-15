@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035613/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-04-2004 et mise à jour au 17-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret portant création de l'agence autonomisée interne dotée de la personnalité juridique " Toerisme Vlaanderen " (Office du Tourisme de la Flandre) (TRADUCTION)

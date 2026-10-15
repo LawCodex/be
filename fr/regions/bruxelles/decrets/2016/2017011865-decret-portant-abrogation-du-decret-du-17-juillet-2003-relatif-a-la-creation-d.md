@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/16/2017011865/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2016. - Décret portant abrogation du décret du 17 juillet 2003 relatif à la création d'un service à gestion séparée chargé de la gestion et de la promotion de la formation permanente pour les classes moyennes et les PME à Bruxelles

@@ -12,7 +12,7 @@ entry_into_force: 2014-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/29/2014015217/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République de l'Equateur sur l'exercice d'activités à but lucratif par des membres de la famille du personnel diplomatique et consulaire, fait à Bruxelles le 29 juin 2012

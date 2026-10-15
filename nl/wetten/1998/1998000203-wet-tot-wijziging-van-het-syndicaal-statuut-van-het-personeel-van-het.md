@@ -12,7 +12,7 @@ entry_into_force: 1998-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/25/1998000203/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1998. - Wet tot wijziging van het syndicaal statuut van het personeel van het operationeel korps van de rijkswacht.

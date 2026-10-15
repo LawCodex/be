@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/17/2015036053/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-08-2015 et mise à jour au 01-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Décret portant transformation de la " Gemeentelijk Havenbedrijf Antwerpen " en une société anonyme de droit public

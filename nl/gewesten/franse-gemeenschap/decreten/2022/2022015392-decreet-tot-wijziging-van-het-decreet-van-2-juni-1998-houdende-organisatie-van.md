@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/07/2022015392/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2022. - Decreet tot wijziging van het decreet van 2 juni 1998 houdende organisatie van het secundair kunstonderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/18/1997027410/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-2002 en tekstbijwerking tot 15-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1997. - Decreet betreffende de inschakeling van werkzoekenden bij werkgevers die een beroepsopleiding organiseren om in een vacature te voorzien (VERTALING).

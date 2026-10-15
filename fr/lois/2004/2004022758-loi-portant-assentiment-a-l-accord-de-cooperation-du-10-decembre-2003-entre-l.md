@@ -12,7 +12,7 @@ entry_into_force: 2004-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/01/2004022758/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er SEPTEMBRE 2004. - Loi portant assentiment à l'Accord de coopération du 10 décembre 2003 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Commission communautaire française, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale visant la collaboration dans les domaines de l'environnement et de la santé.

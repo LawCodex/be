@@ -12,7 +12,7 @@ entry_into_force: 2020-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/10/31/2019A10102/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OKTOBER 2016. - Uitleveringsverdrag tussen het Koninkrijk België en de Volksrepubliek China

@@ -13,7 +13,7 @@ entry_into_force: 2008-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/15/2008029159/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2008. - Décret portant assentiment à l'Accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, et Acte final, faits à Luxembourg le 26 octobre 2004.

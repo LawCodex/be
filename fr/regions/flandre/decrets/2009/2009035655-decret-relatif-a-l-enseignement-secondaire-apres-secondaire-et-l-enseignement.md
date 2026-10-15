@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009035655/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2010 et mise à jour au 16-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret relatif à l'enseignement secondaire après secondaire et l'enseignement supérieur professionnel

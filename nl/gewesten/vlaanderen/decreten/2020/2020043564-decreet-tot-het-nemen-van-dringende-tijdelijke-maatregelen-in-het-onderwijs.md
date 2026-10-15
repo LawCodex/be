@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/30/2020043564/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-11-2020 en tekstbijwerking tot 06-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2020. - Decreet tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (IV)

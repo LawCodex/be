@@ -12,7 +12,7 @@ entry_into_force: 2014-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/07/2014022007/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2014. - Loi modifiant l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, en ce qui concerne le statut du conjoint aidant

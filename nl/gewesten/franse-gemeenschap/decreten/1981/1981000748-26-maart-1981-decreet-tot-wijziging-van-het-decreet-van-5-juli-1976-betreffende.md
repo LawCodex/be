@@ -12,7 +12,7 @@ published: 1981-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1981/03/26/1981000748/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1981. \_ Decreet tot wijziging van het decreet van 5 juli 1976 betreffende de toelagen voor de bevordering van het beoefenen door de gehandicapten van lichamelijke activiteiten, sport en openluchtleven.

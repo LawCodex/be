@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/25/2001033069/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-10-2001 en tekstbijwerking tot 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2001. - Decreet over bijzondere maatregelen in verband met de lerarenambten en houdende aanpassing van de bezoldigingsregeling (VERTALING). -

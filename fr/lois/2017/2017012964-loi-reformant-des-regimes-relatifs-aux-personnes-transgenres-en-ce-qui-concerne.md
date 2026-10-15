@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/25/2017012964/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2017. - Loi réformant des régimes relatifs aux personnes transgenres en ce qui concerne la mention d'une modification de l'enregistrement du sexe dans les actes de l'état civil et ses effets

@@ -12,7 +12,7 @@ entry_into_force: 2006-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/28/2006014298/justel"
 department: "Finances - Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 2006. - Loi portant octroi d'une allocation spéciale unique au profit de la Communauté germanophone.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/06/21/2012031540/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 05-07-2012 en tekstbijwerking tot 13-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Ordonnantie betreffende de promotie van de gezondheid bij de sportbeoefening, het dopingverbod en de preventie ervan (aangehaald als : de antidopingordonnantie van 21 juni 2012)

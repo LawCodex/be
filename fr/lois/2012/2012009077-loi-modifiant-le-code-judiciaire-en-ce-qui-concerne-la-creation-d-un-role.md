@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/15/2012009077/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2012. - Loi modifiant le Code judiciaire en ce qui concerne la création d'un rôle particulier pour le règlement collectif de dettes

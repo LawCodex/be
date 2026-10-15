@@ -12,7 +12,7 @@ entry_into_force: 2001-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/11/28/2001009048/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2000. - Wet betreffende de strafrechtelijke bescherming van minderjarigen.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/11/26/2013015182/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 11-04-2014 en tekstbijwerking tot 01-08-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2012. - Wet houdende instemming met het Protocol van 2002 bij het Verdrag van Athene van 1974 inzake het vervoer van passagiers en hun bagage over zee, gedaan te Londen op 1 november 2002

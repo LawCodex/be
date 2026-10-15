@@ -13,7 +13,7 @@ entry_into_force: 2017-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031833/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie houdende instemming met : het Akkoord tussen het Koninkrijk België en Bioversity International, ondertekend te Brussel op 3 december 2012, tot wijziging van het zetelakkoord tussen het Koninkrijk België en het Internationaal Plant Genetic Resources Institute, ondertekend te Brussel op 15 oktober 2003

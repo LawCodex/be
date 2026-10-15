@@ -12,7 +12,7 @@ entry_into_force: 2026-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/11/2026001424/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2026. - Loi modifiant la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités en vue de permettre l'exercice de certaines activités pendant le repos de maternité

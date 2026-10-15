@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/01/2007022977/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2007. - Loi modifiant l'article 9 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux.

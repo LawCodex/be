@@ -13,7 +13,7 @@ entry_into_force: 1999-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/19/2001029328/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2001. - Décret modifiant le décret du 4 janvier 1999 relatif aux fonctions de promotion et de sélection.

@@ -12,7 +12,7 @@ entry_into_force: 2022-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/07/2018014290/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2017. - Loi portant assentiment à la Convention de sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, faite à Bruxelles le 18 février 2014

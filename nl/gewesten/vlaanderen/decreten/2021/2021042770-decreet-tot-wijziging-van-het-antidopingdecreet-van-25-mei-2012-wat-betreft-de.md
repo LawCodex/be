@@ -11,7 +11,7 @@ date: 2021-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/18/2021042770/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2021. - Decreet tot wijziging van het Antidopingdecreet van 25 mei 2012, wat betreft de aanpassing aan de Code 2021

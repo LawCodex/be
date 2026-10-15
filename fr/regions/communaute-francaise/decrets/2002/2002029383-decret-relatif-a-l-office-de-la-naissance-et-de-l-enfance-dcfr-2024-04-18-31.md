@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002029383/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2002 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2002. - [Décret relatif à l'Office de la Naissance et de l'Enfance] &lt;DCFR 2024-04-18/31 , art. 1, 015; En vigueur : 16-07-2024&gt;

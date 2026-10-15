@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/27/2013204285/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2014 et mise à jour au 05-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2013. - Décret prévoyant des dispositions diverses en matière d'agriculture, d'horticulture et d'aquaculture

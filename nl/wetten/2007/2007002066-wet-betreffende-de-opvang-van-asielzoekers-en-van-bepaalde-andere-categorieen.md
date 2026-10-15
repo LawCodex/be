@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/12/2007002066/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-2007 en tekstbijwerking tot 23-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2007. - Wet betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen

@@ -12,7 +12,7 @@ entry_into_force: 2003-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/17/2002011292/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Wet betreffende de transacties uitgevoerd met instrumenten voor de elektronische overmaking van geldmiddelen.

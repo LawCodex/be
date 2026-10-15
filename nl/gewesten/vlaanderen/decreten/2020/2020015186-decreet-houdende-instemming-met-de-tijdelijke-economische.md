@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/03/2020015186/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2020. - Decreet houdende instemming met de tijdelijke economische partnerschapsovereenkomst tussen Ivoorkust, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, gedaan te Abidjan op 26 november 2008, respectievelijk Brussel op 22 januari 2009

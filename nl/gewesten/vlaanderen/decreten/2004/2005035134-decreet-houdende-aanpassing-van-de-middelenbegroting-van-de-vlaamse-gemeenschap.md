@@ -13,7 +13,7 @@ entry_into_force: 2005-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/24/2005035134/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2004. - Decreet houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2004.

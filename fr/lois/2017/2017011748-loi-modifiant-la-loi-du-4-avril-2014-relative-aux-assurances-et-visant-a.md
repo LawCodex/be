@@ -12,7 +12,7 @@ entry_into_force: 2017-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/09/2017011748/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2017. - Loi modifiant la loi du 4 avril 2014 relative aux assurances et visant à garantir le libre choix d'un avocat ou de toute autre personne ayant les qualifications requises par la loi applicable à la procédure pour défendre ses intérêts dans toute phase judiciaire, dans le cadre d'un contrat d'assurance de la protection juridique

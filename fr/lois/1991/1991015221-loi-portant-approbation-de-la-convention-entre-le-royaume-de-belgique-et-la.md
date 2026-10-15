@@ -12,7 +12,7 @@ entry_into_force: 1991-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/09/1991015221/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1991. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République populaire de Bulgarie tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 25 octobre 1988.

@@ -12,7 +12,7 @@ published: 2026-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026006217/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet tot wijziging van verschillende decreten die behoren tot de beleidsvelden Justitie en Handhaving, Bestuursrechtspraak, en Binnenlands Bestuur en Stedenbeleid, wat betreft de harmonisatie met het nieuwe Strafwetboek

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1994929598/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2007 et mise à jour au 18-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret relatif à la publicité de l'administration. (Erratum, Voir M.B. 21-03-1995, p. 6319)

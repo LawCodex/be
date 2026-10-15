@@ -13,7 +13,7 @@ entry_into_force: 2015-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029310/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 9 juli 2013, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Turkije tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, ondertekend te Ankara op 2 juni 1987

@@ -11,7 +11,7 @@ date: 2006-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/23/2006036587/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2006. - Decreet houdende aanpassing van diverse decreten aan de nieuwe benaming van de wetgevende vergaderingen van de gemeenschappen en gewesten.

@@ -12,7 +12,7 @@ entry_into_force: 2005-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/03/2005015103/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2005. - Loi portant assentiment aux Actes internationaux suivants : 1° Accord-Cadre pour un programme multilatéral environnemental dans le domaine nucléaire en Fédération de Russie; - 2° Protocole concernant les actions en justice, les procédures judiciaires et l'indemnisation à l'Accord-Cadre pour un programme multilatéral environnemental dans le domaine nucléaire en Fédération de Russie, faits à Stockholm le 21 mai 2003.

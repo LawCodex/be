@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/22/1993029401/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 21-07-2000 et mise à jour au 25-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1993. - Décret III attribuant l'exercice de certaines compétences de la Communauté française à la Région wallonne et à la Commission Communautaire française. )

@@ -13,7 +13,7 @@ entry_into_force: 2009-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/25/2009203226/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2009. - Decreet houdende instemming met het Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie evenals het Protocol inzake de voorrechten en immuniteiten van de Benelux Unie, ondertekend in Den Haag op 17 juni 2008

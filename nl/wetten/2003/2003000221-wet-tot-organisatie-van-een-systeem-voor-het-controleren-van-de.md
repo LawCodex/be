@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/11/2003000221/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 28-03-2003 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2003. - Wet tot organisatie van een systeem voor het controleren van de geautomatiseerde stemming door middel van het afdrukken van de uitgebrachte stemmen op papier en tot wijziging van de wet van 11 april 1994 tot organisatie van de geautomatiseerde stemming, de wet van 18 december 1998 tot organisatie van de geautomatiseerde stemopneming door middel van een systeem voor optische lezing en tot wijziging van de wet van 11 april 1994 tot organisatie van de geautomatiseerde stemming, alsook het Kieswetboek

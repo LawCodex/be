@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/19/2025009870/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2025 en tekstbijwerking tot 06-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Wet tot uitvoering van een versterkt terug naar werkbeleid in geval van arbeidsongeschiktheid

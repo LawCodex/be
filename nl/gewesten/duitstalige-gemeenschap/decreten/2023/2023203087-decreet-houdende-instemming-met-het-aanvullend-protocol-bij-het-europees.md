@@ -13,7 +13,7 @@ entry_into_force: 2023-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/24/2023203087/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2023. - Decreet houdende instemming met het aanvullend protocol bij het Europees handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten, opgemaakt in Utrecht op 16 november 2009

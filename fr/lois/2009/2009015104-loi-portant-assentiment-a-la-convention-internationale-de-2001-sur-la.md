@@ -12,7 +12,7 @@ entry_into_force: 2009-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/12/2009015104/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2009. - Loi portant assentiment à la Convention internationale de 2001 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, et à l'Annexe, faites à Londres le 23 mars 2001

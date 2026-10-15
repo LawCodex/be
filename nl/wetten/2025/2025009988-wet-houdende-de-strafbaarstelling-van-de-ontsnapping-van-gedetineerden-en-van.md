@@ -12,7 +12,7 @@ entry_into_force: 2026-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/19/2025009988/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Wet houdende de strafbaarstelling van de ontsnapping van gedetineerden en van de beschadiging of verduistering van het elektronisch toezichtsmateriaal en betreffende het afnemen van drugstesten in de gevangenis en de herroeping van het elektronisch toezicht in het kader van de strafuitvoering

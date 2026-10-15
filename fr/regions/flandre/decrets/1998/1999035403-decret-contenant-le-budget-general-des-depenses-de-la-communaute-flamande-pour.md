@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/19/1999035403/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-09-1999 et mise à jour au 27-01-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1998. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 1999. (TRADUCTION)

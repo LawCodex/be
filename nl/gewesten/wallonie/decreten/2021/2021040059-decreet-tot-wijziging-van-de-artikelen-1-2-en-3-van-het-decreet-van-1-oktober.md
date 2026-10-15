@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/01/14/2021040059/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2021. - Decreet tot wijziging van de artikelen 1, 2 en 3 van het decreet van 1 oktober 2020 tot organisatie, tot en met 31 december 2020, van de vergaderingen van de organen van de intercommunales, van de maatschappijen met een significante lokale overheidsparticipatie, van de verenigingen van overheden bedoeld in artikel 118 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, van de openbare huisvestingsmaatschappijen, van de gemeentelijke of provinciale vzw's, van de autonome gemeente- of provinciebedrijven, van projectverenigingen of iedere andere bovenlokale instelling die de vorm heeft aangenomen van een vennootschap of een vereniging

@@ -12,7 +12,7 @@ entry_into_force: 1994-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/11/17/1994000708/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 1994. - LOI modifiant l'article 3 de la loi du 7 juillet 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des conseils provinciaux et communaux et pour l'élection directe des conseils de l'aide sociale et modifiant l'article 76 de la loi électorale communale

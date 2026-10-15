@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027332/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 04-02-1998 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet betreffende het beheer van psychiatrische ziekenhuizen in het Waalse Gewest. (VERTALING) -

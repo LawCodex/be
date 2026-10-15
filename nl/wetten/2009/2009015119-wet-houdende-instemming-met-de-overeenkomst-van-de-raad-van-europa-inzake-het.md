@@ -12,7 +12,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/08/29/2009015119/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AUGUSTUS 2009. - Wet houdende instemming met de Overeenkomst van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven en de financiering van het terrorisme, gedaan te Warschau op 16 mei 2005

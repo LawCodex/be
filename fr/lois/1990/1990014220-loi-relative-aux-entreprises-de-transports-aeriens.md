@@ -12,7 +12,7 @@ entry_into_force: 1990-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/06/06/1990014220/justel"
 department: "Communications"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 1990. - Loi relative aux entreprises de transports aériens.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/24/2005035971/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2005 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2005. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2005. (Traduction).

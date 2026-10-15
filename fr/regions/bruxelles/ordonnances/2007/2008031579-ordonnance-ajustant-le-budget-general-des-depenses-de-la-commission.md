@@ -13,7 +13,7 @@ entry_into_force: 2007-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/12/21/2008031579/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Ordonnance ajustant le budget général des dépenses de la Commission communautaire commune pour l'année budgétaire 2007.

@@ -12,7 +12,7 @@ entry_into_force: 1996-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/04/02/1996003264/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1996. - Wet houdende wijziging van artikel 104 van het Wetboek van de inkomstenbelastingen 1992 tot toevoeging aan de lijst van de aftrekbare bestedingen, van de giften in geld aan erkende instellingen die de bescherming van het leefmilieu nastreven.

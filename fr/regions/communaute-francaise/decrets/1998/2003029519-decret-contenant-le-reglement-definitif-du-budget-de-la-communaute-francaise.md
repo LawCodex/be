@@ -13,7 +13,7 @@ entry_into_force: 2003-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/07/2003029519/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 1998. - Décret contenant le règlement définitif du budget de la Communauté française pour l'année budgétaire 1981.

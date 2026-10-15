@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/31/2012009533/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2012 et mise à jour au 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBRE 2012. - Loi portant des dispositions diverses en matière de justice

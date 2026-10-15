@@ -12,7 +12,7 @@ entry_into_force: 1997-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/25/1997000511/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1997. - Loi modifiant la loi provinciale, la loi du 1er juillet 1860 apportant des modifications à la loi provinciale et à la loi communale en ce qui concerne le serment et la loi du 19 octobre 1921 organique des élections provinciales.

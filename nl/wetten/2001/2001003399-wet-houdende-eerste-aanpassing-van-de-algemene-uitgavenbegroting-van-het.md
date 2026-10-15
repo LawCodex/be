@@ -12,7 +12,7 @@ entry_into_force: 2002-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/27/2001003399/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2001. - Wet houdende eerste aanpassing van de Algemene Uitgavenbegroting van het [begrotingsjaar] 2001. (Erratum, B.S. 27-06-2002, p. 29250)

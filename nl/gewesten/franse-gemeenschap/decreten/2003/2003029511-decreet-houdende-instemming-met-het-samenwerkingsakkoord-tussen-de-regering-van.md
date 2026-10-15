@@ -11,7 +11,7 @@ date: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/03/2003029511/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2003. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Regering van de Franse Gemeenschap van België en het Waalse Gewest, enerzijds, en de Republiek Letland, anderzijds, gedaan te Riga op 12 juli 2002 (VERTALING).

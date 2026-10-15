@@ -12,7 +12,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/16/2016009333/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2016. - Wet tot wijziging van de wet van 31 januari 2009 betreffende de continuïteit van de ondernemingen, wat het hoger beroep in het kader van een gerechtelijke reorganisatie door een collectief akkoord betreft

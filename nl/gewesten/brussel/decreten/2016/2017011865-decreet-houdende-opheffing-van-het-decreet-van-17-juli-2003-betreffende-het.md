@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/16/2017011865/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2016. - Decreet houdende opheffing van het decreet van 17 juli 2003 betreffende het oprichten van een dienst met afzonderlijk beheer belast met het beheer en de promotie van de permanente vorming voor de middenklasse en de kleine en middelgrote ondernemingen te Brussel

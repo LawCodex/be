@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/13/2023042216/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 05-07-2023 et mise à jour au 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2023. - Décret relatif à l'organisation des jurys en charge des examens linguistiques et portant diverses mesures sur la capacité linguistique

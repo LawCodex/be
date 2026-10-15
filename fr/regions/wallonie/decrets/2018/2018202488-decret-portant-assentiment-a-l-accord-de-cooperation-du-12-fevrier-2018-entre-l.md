@@ -13,7 +13,7 @@ entry_into_force: 2018-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/26/2018202488/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2018. - Décret portant assentiment à l'accord de coopération du 12 février 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au partage des objectifs belges climat et énergie pour la période 2013-2020

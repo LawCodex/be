@@ -13,7 +13,7 @@ entry_into_force: 2025-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/10/03/2025007571/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 OKTOBER 2025. - Decreet tot wijziging van artikel 49 van het decreet van 22 maart 2024 over de weginfrastructuur en het wegenbeleid en de waterinfrastructuur en het waterbeleid, wat de aanpassing van een uiterlijke datum van inwerkingtreding betreft

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2019010696/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 26-02-2019 et mise à jour au 13-04-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2018. - Décret relatif à la Cohésion sociale

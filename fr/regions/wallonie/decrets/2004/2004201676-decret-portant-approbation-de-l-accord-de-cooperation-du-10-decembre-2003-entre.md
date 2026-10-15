@@ -13,7 +13,7 @@ entry_into_force: 2004-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/29/2004201676/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2004. - Décret portant approbation de l'Accord de coopération du 10 décembre 2003 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Commission communautaire française, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale visant la collaboration dans les domaines de l'environnement et de la santé.

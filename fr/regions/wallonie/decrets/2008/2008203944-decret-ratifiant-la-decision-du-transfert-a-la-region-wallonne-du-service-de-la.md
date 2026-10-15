@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/10/23/2008203944/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 13-11-2008 et mise à jour au 30-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2008. - Décret ratifiant la décision du transfert à la Région wallonne du service de la taxe sur les jeux et paris, de la taxe sur les appareils automatiques de divertissement et de la taxe d'ouverture de débits de boissons fermentées

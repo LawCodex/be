@@ -13,7 +13,7 @@ entry_into_force: 2017-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/23/2017020120/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 10 november 2016 betreffende het tijdelijke project "leerlingenvervoer buitengewoon onderwijs"

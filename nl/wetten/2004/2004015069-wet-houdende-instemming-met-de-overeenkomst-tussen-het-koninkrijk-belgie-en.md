@@ -12,7 +12,7 @@ entry_into_force: 2004-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/11/2004015069/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2004. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Georgië tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 14 december 2000.

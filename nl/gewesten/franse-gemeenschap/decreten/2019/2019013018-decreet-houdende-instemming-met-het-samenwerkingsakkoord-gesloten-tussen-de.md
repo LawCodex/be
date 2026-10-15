@@ -13,7 +13,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/09/2019013018/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Decreet houdende instemming met het samenwerkingsakkoord gesloten tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie in verband met het verplichte inburgeringstraject van nieuwkomers in Brussel-Hoofdstad

@@ -13,7 +13,7 @@ entry_into_force: 2021-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/28/2019201525/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2019. - Décret modifiant le Livre II du Code de l'Environnement, contenant le Code de l'Eau, et instaurant une certification " Eau " des immeubles bâtis, dénommée " CertIBEau "

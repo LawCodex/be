@@ -11,7 +11,7 @@ published: 1954-03-25
 entry_into_force: 1954-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1954/03/24/1954032401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1954. - Loi instituant un fonds du commerce extérieur.

@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/12/2015201375/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2015. - Decreet houdende instemming met de wijziging van het Protocol van Kyoto aangenomen in Doha op 8 december 2012

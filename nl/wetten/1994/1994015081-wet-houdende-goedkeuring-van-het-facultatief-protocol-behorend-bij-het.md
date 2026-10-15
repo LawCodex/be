@@ -12,7 +12,7 @@ entry_into_force: 1994-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/16/1994015081/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1994. - Wet houdende goedkeuring van het Facultatief Protocol behorend bij het Internationaal Verdrag inzake burgerrechten en politieke rechten, opgemaakt te New York op 19 december 1966.

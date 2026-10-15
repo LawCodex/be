@@ -12,7 +12,7 @@ entry_into_force: 2025-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/03/25/2025002546/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2025. - Wet tot opening van voorlopige kredieten voor de maanden april, mei en juni 2025

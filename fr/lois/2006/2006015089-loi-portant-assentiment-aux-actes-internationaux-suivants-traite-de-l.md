@@ -12,7 +12,7 @@ entry_into_force: 2006-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/15/2006015089/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2006. - Loi portant assentiment aux Actes internationaux suivants : Traité de l'Organisation Mondiale de la Propriété Intellectuelle sur le droit d'auteur (WCT), adopté à Genève le 20 décembre 1996; Traité de l'Organisation Mondiale de la Propriété Intellectuelle sur les interprétations et exécutions et les phonogrammes (WPPT), adopté à Genève le 20 décembre 1996.

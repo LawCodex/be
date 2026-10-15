@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/26/2004021083/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-2004 en tekstbijwerking tot 30-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2004. - Bijzondere wet tot uitvoering en aanvulling van de bijzondere wet van 2 mei 1995 betreffende de verplichting om een lijst van mandaten, ambten en beroepen, alsmede een vermogensaangifte in te dienen.

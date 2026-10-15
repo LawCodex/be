@@ -13,7 +13,7 @@ entry_into_force: 2022-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/04/28/2022041028/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Ordonnance portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique, le Gouvernement de la Communauté flamande, le Gouvernement de la Communauté française, le Gouvernement de la Communauté germanophone, le Gouvernement de la Région flamande, le Gouvernement de la Région wallonne, le Gouvernement de la Région de Bruxelles-Capitale et le Gouvernement de la République française en matière de transferts de corps par voie terrestre des personnes décédées, fait à Paris le 9 mars 2020

@@ -13,7 +13,7 @@ entry_into_force: 2004-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/31/2004029164/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2004. - Décret adaptant l'organisation de l'enseignement de l'architecture en vue de son intégration à l'espace européen de l'enseignement supérieur.

@@ -11,7 +11,7 @@ date: 2017-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/19/2017013914/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2017. - Decreet betreffende de bijzondere toestand van de studenten die het ingangs- en toelatingsexamen voor de studie van de eerste cyclus in de geneeskunde en de eerste cyclus in de tandheelkunde hebben afgelegd en die zich voor het academiejaar 2017 - 2018 voor de studie diergeneeskunde wensen in te schrijven

@@ -13,7 +13,7 @@ entry_into_force: 2026-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/27/2026001846/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2026. - Décret modifiant le Décret relatif au sol du 27 octobre 2006, en ce qui concerne la fixation de valeurs guide pour la qualité du sol et de valeurs pour l'utilisation des matériaux de sol

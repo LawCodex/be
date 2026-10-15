@@ -11,7 +11,7 @@ date: 2024-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/29/2024204457/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2024. - Decreet tot wijziging van het decreet van 28 februari 2019 betreffende de controle op de wetgevingen en reglementeringen m.b.t. de omscholing en de bijscholing alsook de invoering van administratieve geldboetes die van toepassing zijn in geval van inbreuk op bedoelde wetgevingen en reglementeringen met het oog op de invoering van situatietests

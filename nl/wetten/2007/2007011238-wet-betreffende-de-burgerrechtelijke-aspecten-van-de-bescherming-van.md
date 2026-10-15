@@ -12,7 +12,7 @@ entry_into_force: 2007-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/09/2007011238/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2007. - Wet betreffende de burgerrechtelijke aspecten van de bescherming van intellectuele eigendomsrechten. &lt;Erratum, zie B.St. 15-05-2007, p. 26677&gt;

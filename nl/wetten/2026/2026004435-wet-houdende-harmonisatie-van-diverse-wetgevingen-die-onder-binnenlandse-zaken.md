@@ -11,7 +11,7 @@ published: 2026-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/05/13/2026004435/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2026. - Wet houdende harmonisatie van diverse wetgevingen die onder Binnenlandse Zaken vallen met het Strafwetboek van 29 februari 2024

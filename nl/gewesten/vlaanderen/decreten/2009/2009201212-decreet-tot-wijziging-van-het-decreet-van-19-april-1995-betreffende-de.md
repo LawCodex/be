@@ -13,7 +13,7 @@ entry_into_force: 2009-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/13/2009201212/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2009. - Decreet tot wijziging van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende de brevetten van havenloods en bootman

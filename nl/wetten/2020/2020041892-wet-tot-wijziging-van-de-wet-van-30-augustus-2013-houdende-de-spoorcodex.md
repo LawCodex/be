@@ -12,7 +12,7 @@ entry_into_force: 2020-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/23/2020041892/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2020. - Wet tot wijziging van de wet van 30 augustus 2013 houdende de Spoorcodex

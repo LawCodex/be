@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1997014283/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1997 et mis à jour au 26-01-1999"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Loi visant à rationaliser la gestion de l'aéroport de Bruxelles-National.

@@ -13,7 +13,7 @@ entry_into_force: 2013-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/30/2013031473/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2013. - Ordonnance modifiant l'ordonnance du 30 mars 1995 relative à la publicité de l'administration

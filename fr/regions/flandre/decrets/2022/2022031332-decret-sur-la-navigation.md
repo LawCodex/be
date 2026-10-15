@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/21/2022031332/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-05-2022 et mise à jour au 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2022. - Décret sur la navigation

@@ -12,7 +12,7 @@ entry_into_force: 1999-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015017/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment au traité d'Amsterdam modifiant le traité sur l'Union européenne, les traités instituant les Communautés européennes et certains actes connexes, Annexe, Protocoles A, B, C et D, et acte final, faits à Amsterdam le 2 octobre 1997.

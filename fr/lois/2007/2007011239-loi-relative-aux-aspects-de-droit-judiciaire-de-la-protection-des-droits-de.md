@@ -12,7 +12,7 @@ entry_into_force: 2007-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/10/2007011239/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2007. - Loi relative aux aspects de droit judiciaire de la protection des droits de propriété intellectuelle. &lt;Erratum, voir M.B. 14-05-2007, p. 26121&gt;

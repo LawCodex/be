@@ -12,7 +12,7 @@ entry_into_force: 2015-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/04/23/2015014139/justel"
 department: "Emploi, Travail et Concertation sociale - Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2015. - Loi concernant la promotion de l'emploi

@@ -13,7 +13,7 @@ last_amended: 2013-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/04/30/1962043050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-11-1990 en tekstbijwerking tot 20-09-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 1962. - Gecoördineerde Dienstplichtwetten.

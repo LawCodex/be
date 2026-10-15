@@ -12,7 +12,7 @@ entry_into_force: 2022-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/06/2022032233/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2022. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2016

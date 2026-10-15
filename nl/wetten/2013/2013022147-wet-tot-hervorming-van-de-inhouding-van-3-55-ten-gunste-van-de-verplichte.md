@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/03/13/2013022147/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-03-2013 en tekstbijwerking tot 31-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2013. - Wet tot hervorming van de inhouding van 3,55 % ten gunste van de verplichte verzekering voor geneeskundige verzorging en de solidariteitsbijdrage verricht op de pensioenen

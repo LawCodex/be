@@ -12,7 +12,7 @@ entry_into_force: 2001-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/27/2001009448/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2001. - Loi modifiant certaines dispositions du Code judiciaire relatives à la tutelle des mineurs.

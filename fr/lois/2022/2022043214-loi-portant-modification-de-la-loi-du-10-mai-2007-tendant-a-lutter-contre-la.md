@@ -12,7 +12,7 @@ entry_into_force: 2023-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/15/2022043214/justel"
 department: "Institut pour l'égalité des femmes et des hommes"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2022. - Loi portant modification de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes, et de la loi du 16 décembre 2002 portant création de l'Institut pour l'égalité des femmes et des hommes

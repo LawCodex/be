@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/27/2014029277/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Décret portant assentiment à l'accord de coopération conclu le 21 novembre 2013 entre la Région wallonne et la Communauté française relatif aux articles 42 et 44 de la Convention internationale des droits de l'enfant

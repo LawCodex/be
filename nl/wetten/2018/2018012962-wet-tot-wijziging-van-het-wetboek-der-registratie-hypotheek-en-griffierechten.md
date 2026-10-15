@@ -11,7 +11,7 @@ published: 2018-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/14/2018012962/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2018. - Wet tot wijziging van het Wetboek der registratie-, hypotheek- en griffierechten teneinde de griffierechten te hervormen

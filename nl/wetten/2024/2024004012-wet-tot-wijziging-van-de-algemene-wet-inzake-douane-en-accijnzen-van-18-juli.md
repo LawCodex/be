@@ -12,7 +12,7 @@ entry_into_force: 2024-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/14/2024004012/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2024. - Wet tot wijziging van de algemene wet inzake douane en accijnzen van 18 juli 1977 met betrekking tot sancties en houdende diverse bepalingen

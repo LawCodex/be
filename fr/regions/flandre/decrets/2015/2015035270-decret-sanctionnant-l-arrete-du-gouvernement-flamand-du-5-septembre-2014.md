@@ -13,7 +13,7 @@ entry_into_force: 2015-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/02/27/2015035270/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2015. - Décret sanctionnant l'arrêté du Gouvernement flamand du 5 septembre 2014 relatif aux objectifs de développement pour la forme d'enseignement 1 et la forme d'enseignement 2 dans l'enseignement secondaire spécial

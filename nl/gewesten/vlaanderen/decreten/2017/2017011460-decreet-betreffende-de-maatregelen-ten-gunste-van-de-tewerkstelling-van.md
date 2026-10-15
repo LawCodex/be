@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/10/2017011460/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-2025 en tekstbijwerking tot 28-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2017. - Decreet betreffende de maatregelen ten gunste van de tewerkstelling van jongeren in de social profitsector die voortvloeien uit de wet van 23 december 2005 betreffende het generatiepact

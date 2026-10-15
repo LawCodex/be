@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/12/1999015027/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 1999. - Loi portant assentiment au Cinquième Protocole annexé à l'Accord général sur le Commerce des Services, fait à Genève le 27 février 1998.

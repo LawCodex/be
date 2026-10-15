@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/23/2009029098/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2009 et mise à jour au 18-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2009. - [Décret portant des dispositions relatives au congé pour activités sportives et diverses mesures urgentes en matière d'enseignement] &lt;Intitulé remplacé par DCFR 2017-10-19/12 , art. 16, 003; En vigueur : 10-11-2017&gt;

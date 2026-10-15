@@ -13,7 +13,7 @@ entry_into_force: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/25/2019012117/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Ordonnantie tot wijziging van de ordonnantie van 18 december 2008 betreffende de toegang van assistentiehonden tot voor het publiek toegankelijke plaatsen

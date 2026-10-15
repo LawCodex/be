@@ -13,7 +13,7 @@ entry_into_force: 1991-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/01/28/1991029625/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 1991. - Decreet houdende toestemming in de Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten, gedaan te Brussel, op 12 september 1986. &lt;Vertaling&gt;

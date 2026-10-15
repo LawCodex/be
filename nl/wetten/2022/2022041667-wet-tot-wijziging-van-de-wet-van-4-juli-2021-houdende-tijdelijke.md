@@ -12,7 +12,7 @@ entry_into_force: 2022-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/17/2022041667/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2022. - Wet tot wijziging van de wet van 4 juli 2021 houdende tijdelijke ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie en tot gedeeltelijk herverdeling van het restsaldo

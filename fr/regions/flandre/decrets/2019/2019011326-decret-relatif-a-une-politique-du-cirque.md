@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/01/2019011326/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-04-2019 et mise à jour au 30-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Décret relatif à une politique du cirque

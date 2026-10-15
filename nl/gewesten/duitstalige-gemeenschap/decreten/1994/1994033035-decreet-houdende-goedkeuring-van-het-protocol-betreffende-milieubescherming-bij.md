@@ -13,7 +13,7 @@ entry_into_force: 1994-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/14/1994033035/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 1994. - Decreet houdende goedkeuring van het protocol betreffende milieubescherming bij het verdrag inzake Antarctica, appendix, bijlagen I, II, III, IV en V, gesloten te Madrid op 4 oktober 1991. (Vertaling)

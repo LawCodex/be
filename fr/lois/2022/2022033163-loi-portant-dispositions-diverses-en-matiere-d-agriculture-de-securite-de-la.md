@@ -12,7 +12,7 @@ entry_into_force: 2022-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/12/2022033163/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2022. - Loi portant dispositions diverses en matière d'agriculture, de sécurité de la chaîne alimentaire, de santé publique et d'environnement

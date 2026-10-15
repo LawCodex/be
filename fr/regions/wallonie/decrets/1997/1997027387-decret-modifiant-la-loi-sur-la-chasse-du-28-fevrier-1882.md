@@ -13,7 +13,7 @@ entry_into_force: 1997-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/24/1997027387/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1997. - Décret modifiant la loi sur la chasse du 28 février 1882.

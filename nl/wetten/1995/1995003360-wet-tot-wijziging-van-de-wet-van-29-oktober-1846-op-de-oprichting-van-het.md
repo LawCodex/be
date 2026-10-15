@@ -12,7 +12,7 @@ entry_into_force: 1995-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/04/1995003360/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 1995. - Wet tot wijziging van de wet van 29 oktober 1846 op de oprichting van het Rekenhof.

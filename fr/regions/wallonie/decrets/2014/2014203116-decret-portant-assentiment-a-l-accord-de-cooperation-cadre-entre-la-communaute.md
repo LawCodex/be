@@ -13,7 +13,7 @@ entry_into_force: 2014-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014203116/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'accord de coopération-cadre entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à la concertation intra-francophone en matière de santé et d'aide aux personnes et aux principes communs applicables en ces matières

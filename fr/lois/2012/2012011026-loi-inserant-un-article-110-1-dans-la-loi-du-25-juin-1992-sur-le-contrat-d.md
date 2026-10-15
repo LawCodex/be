@@ -12,7 +12,7 @@ entry_into_force: 2012-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/13/2012011026/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 2012. - Loi insérant un article 110/1 dans la loi du 25 juin 1992 sur le contrat d'assurance terrestre, pour ce qui concerne la désignation du bénéficiaire d'un contrat d'assurance-vie

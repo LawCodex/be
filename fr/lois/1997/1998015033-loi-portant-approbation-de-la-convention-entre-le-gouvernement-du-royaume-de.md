@@ -12,7 +12,7 @@ entry_into_force: 1998-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/21/1998015033/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1997. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de l'Inde tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et le Protocole, signés à Bruxelles le 26 avril 1993.

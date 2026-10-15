@@ -12,7 +12,7 @@ entry_into_force: 2006-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/06/2005009979/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2005. - Loi modifiant les articles 648, 652, 655 et 656 du Code judiciaire, en vue d'organiser un dessaisissement simplifié du juge qui pendant plus de six mois néglige de juger la cause qu'il a prise en délibéré.

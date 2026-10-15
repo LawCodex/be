@@ -12,7 +12,7 @@ entry_into_force: 2019-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/28/2018014958/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2018. - Loi modifiant la loi du 11 juin 2004 réprimant la fraude relative au kilométrage des véhicules

@@ -13,7 +13,7 @@ entry_into_force: 2024-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/09/2024001890/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2024. - Decreet tot wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, het decreet van 12 juli 2013 houdende toekenning van subsidies voor gebouwen van de eredienst, gebouwen voor de openbare uitoefening van de niet-confessionele morele dienstverlening en crematoria en het decreet van 22 december 2017 over het lokaal bestuur

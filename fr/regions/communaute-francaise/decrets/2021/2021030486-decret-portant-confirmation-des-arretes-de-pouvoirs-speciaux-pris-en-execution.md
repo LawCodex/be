@@ -13,7 +13,7 @@ entry_into_force: 2020-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/04/2021030486/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2021. - Décret portant confirmation des arrêtés de pouvoirs spéciaux pris en exécution du décret du 23 mars 2020 accordant des pouvoirs spéciaux au Collège de la Commission communautaire française dans le cadre de la pandémie de COVID-19

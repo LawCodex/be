@@ -13,7 +13,7 @@ entry_into_force: 2000-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/17/2000035818/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Décret modifiant le décret du 27 juin 1990 portant création d'un Fonds flamand pour l'intégration sociale des personnes handicapées en vue de l'introduction d'un budget d'assistance personnelle (TRADUCTION).

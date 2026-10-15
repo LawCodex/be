@@ -13,7 +13,7 @@ entry_into_force: 2012-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/01/12/2012200439/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2012. - Decreet houdende instemming met de Internationale Overeenkomst inzake controle en beheer van ballastwater en afzettingsmateriaal van schepen, opgemaakt te London op 13 februari 2004

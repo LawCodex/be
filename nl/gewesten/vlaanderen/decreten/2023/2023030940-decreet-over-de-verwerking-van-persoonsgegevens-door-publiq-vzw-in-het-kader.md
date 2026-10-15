@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/24/2023030940/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-08-2023 en tekstbijwerking tot 08-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2023. - Decreet over de verwerking van persoonsgegevens door publiq vzw in het kader van de uitvoering van een Vlaamse vrijetijdspas

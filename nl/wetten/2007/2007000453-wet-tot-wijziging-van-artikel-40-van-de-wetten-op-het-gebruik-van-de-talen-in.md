@@ -12,7 +12,7 @@ entry_into_force: 2007-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007000453/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot wijziging van artikel 40 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966.

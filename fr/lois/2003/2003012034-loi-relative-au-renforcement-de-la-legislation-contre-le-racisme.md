@@ -12,7 +12,7 @@ entry_into_force: 2003-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/20/2003012034/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2003. - Loi relative au renforcement de la législation contre le racisme.

@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/13/2004007030/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2004. - Loi instaurant de nouvelles mesures en faveur des victimes de guerre, à l'intervention de l'Institut des Vétérans. Institut national des invalides de guerre, anciens combattants et victimes de guerre.

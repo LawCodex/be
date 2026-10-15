@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/20/2018011941/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2018 et mise à jour au 17-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2018. - Décret instaurant les obligations à impact social

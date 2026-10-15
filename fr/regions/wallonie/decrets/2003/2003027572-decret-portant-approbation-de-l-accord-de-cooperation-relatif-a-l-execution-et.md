@@ -13,7 +13,7 @@ entry_into_force: 2003-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/15/2003027572/justel"
 department: "Région Wallonne - Economie, PME, Classes moyennes et Energie - Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2003. - Décret portant approbation de l'accord de coopération relatif à l'exécution et au financement de l'assainissement du sol des stations-service.

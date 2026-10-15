@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/17/1999029314/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-1999 en tekstbijwerking tot 02-05-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 1999. - Decreet houdende bevestiging van het referentiesysteem voor de eindvaardigheden en de kennis vereist voor moderne talen, geschiedenis en aardrijkskunde op het einde van de overgangsafdeling. (VERTALING)

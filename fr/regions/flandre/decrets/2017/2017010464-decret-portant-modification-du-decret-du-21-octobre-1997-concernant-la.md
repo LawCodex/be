@@ -13,7 +13,7 @@ entry_into_force: 2017-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/27/2017010464/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2017. - Décret portant modification du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel

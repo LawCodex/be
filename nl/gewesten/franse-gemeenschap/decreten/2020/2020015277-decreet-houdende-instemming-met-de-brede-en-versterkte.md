@@ -13,7 +13,7 @@ entry_into_force: 2020-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/09/2020015277/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2020. - Decreet houdende instemming met de brede en versterkte partnerschapsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Armenië, anderzijds, ondertekend te Brussel op 24 november 2017

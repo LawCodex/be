@@ -16,7 +16,7 @@ department: "Financiën"
 justel_notes:
   - "bij arrest nr 11/2020 van 23 januari 2020 (B.St. 24-02-2020, p. 10483) heeft het Grondwettelijk hof dit wet vernietigd en handhaaft de gevolgen van de vernietigde wet totdat, in voorkomend geval, nieuwe wetsbepalingen in werking treden en uiterlijk tot en met 31 december 2020"
   - "Raadpleging van vroegere versies vanaf 07-05-2018 en tekstbijwerking tot 29-03-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2018. - Wet betreffende de invoering van een mobiliteitsvergoeding

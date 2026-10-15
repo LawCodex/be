@@ -11,7 +11,7 @@ published: 1979-11-21
 entry_into_force: 1980-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1979/07/11/1979071108/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1979. - Loi portant approbation de l'Accord relatif aux transports internationaux de denrées périssables et aux engins spéciaux à utiliser pour ces transports (ATP), et des Annexes, faits à Genève le 1er septembre 1970.

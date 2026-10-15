@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/05/1999015196/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 1998. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Agence de Coopération culturelle et technique, fait à Bruxelles le 16 novembre 1995.

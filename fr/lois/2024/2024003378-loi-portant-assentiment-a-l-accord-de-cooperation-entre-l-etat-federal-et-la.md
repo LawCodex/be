@@ -12,7 +12,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/28/2024003378/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2024. - Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral et la Communauté flamande en matière d'assistance aux victimes

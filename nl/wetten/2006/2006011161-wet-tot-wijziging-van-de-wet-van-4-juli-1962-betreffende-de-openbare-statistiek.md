@@ -11,7 +11,7 @@ published: 2006-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/22/2006011161/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2006. - Wet tot wijziging van de wet van 4 juli 1962 betreffende de openbare statistiek en van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen

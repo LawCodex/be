@@ -13,7 +13,7 @@ entry_into_force: 2018-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/24/2018031306/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 12 februari 2018 tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de verdeling van de Belgische klimaat- en energiedoelstellingen voor de periode 2013-2020

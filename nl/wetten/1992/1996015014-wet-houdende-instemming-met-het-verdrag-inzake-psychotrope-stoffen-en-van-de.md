@@ -12,7 +12,7 @@ entry_into_force: 1996-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/06/25/1996015014/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1992. - Wet houdende instemming met het Verdrag inzake psychotrope stoffen en van de Bijlagen, opgemaakt te Wenen op 21 februari 1971.

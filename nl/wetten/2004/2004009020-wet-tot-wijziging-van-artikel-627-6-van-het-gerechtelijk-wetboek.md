@@ -12,7 +12,7 @@ entry_into_force: 2004-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/01/08/2004009020/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2004. - Wet tot wijziging van artikel 627, 6°, van het Gerechtelijk Wetboek.

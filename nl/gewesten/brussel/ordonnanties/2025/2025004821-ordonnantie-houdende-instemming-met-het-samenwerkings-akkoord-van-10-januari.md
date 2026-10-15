@@ -13,7 +13,7 @@ entry_into_force: 2025-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/06/20/2025004821/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2025. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 10 januari 2024 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de toewijzing en de verdeling van het bedrag dat is vastgelegd in artikel 2 van de beslissing van het Comité van Ministers van de Belgisch-Luxemburgse Economische Unie (BLEU) van 14 december 2001, zoals gewijzigd bij de beslissing van het Comité van Ministers van de BLEU van 31 augustus 2021

@@ -10,7 +10,7 @@ date: 2015-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/23/2015009460/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AUGUSTUS 2015. - Wet tot wijziging van de wet van 29 augustus 1988 op de erfregeling inzake landbouwbedrijven met het oog op het bevorderen van de continuïteit

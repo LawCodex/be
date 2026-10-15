@@ -11,7 +11,7 @@ published: 1998-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/09/1998014181/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1998. - Loi portant confirmation de l'arrêté royal du 2 avril 1998 portant réforme des structures de gestion de l'aéroport de Bruxelles-National pris en application de la loi du 19 décembre 1997 visant à rationaliser la gestion de l'aéroport de Bruxelles-National.

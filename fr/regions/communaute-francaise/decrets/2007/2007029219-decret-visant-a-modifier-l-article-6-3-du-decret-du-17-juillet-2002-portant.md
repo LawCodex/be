@@ -13,7 +13,7 @@ entry_into_force: 2008-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007029219/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Décret visant à modifier l'article 6, § 3, du décret du 17 juillet 2002 portant réforme de l'Office de la Naissance et de l'Enfance, en abrégé O.N.E., en vue de soumettre les structures d'accueil préscolaires à l'autorisation préalable de l'O.N.E. pour l'accueil des enfants

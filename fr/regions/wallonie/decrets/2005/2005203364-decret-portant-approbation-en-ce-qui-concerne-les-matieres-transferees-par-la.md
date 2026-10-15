@@ -13,7 +13,7 @@ entry_into_force: 2006-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/17/2005203364/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2005. - Décret portant approbation, en ce qui concerne les matières transférées par la Communauté française, de l'Accord de coopération entre l'Etat, les Communautés, la Commission communautaire commune, la Commission communautaire française et les Régions pour une politique de drogues globale et intégrée.

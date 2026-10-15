@@ -12,7 +12,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/05/2021021619/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2021. - Loi visant à harmoniser la procédure relative aux infractions de roulage relevant de l'application de la loi du 24 juin 2013 relative aux sanctions administratives communales

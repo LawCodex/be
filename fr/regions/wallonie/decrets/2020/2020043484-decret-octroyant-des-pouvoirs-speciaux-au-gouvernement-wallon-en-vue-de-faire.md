@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/29/2020043484/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 03-11-2020 et mise à jour au 23-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2020. - Décret octroyant des pouvoirs spéciaux au Gouvernement wallon en vue de faire face à la deuxième vague de la crise sanitaire de la COVID-19

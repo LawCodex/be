@@ -12,7 +12,7 @@ published: 2025-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/06/2024206139/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2024. - Décret portant modification du Code de l'habitation durable et du décret du 18 mars 2002 relatif à l'Infrastructure

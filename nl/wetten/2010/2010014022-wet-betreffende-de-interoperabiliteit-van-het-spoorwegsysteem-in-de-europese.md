@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/26/2010014022/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 30-11-2011 en tekstbijwerking tot 20-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2010. - Wet betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Gemeenschap

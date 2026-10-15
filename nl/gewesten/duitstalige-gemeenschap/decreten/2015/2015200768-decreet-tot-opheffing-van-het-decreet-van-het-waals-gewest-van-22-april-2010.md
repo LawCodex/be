@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/26/2015200768/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2015. - Decreet tot opheffing van het decreet van het Waals Gewest van 22 april 2010 houdende het statuut van de reisbureaus en tot opheffing van het uitvoeringsbesluit ervan

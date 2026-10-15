@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/14/2017032092/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2017. - Ordonnantie tot wijziging van de ordonnantie van 26 juli 2013 houdende omzetting van Richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van Richtlijn 77/799/EEG en tot wijziging van artikel 40, § 1, van de ordonnantie van 12 december 2016 houdende het tweede deel van de fiscale hervorming

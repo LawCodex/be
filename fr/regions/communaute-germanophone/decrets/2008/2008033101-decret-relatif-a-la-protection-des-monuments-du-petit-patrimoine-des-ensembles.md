@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/23/2008033101/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 14-11-2008 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2008. - [Décret relatif à la protection des monuments, du petit patrimoine, des ensembles et (sites culturels historiques), ainsi qu'aux fouilles] (ERRATUM, voir M.B. 28-01-2010, p. 3817) (TRADUCTION) (Intitulé modifié par DCG 2019-12-12/19 , art. 25, 010; En vigueur : 01-01-2020)

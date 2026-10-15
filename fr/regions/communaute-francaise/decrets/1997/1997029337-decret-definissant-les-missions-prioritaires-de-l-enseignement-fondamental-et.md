@@ -17,7 +17,7 @@ department: "Communauté française"
 justel_notes:
   - "art. 79/1 à 79/26 modifiés dans le futur par DCFR 2022-01-13/08 , art. 55, 076; En vigueur : 01-11-2022"
   - "Consultation des versions antérieures à partir du 23-09-1997 et mise à jour au 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1997. - Décret définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre. (décret "Missions")

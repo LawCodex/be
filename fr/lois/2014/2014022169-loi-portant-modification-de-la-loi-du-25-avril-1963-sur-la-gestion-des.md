@@ -12,7 +12,7 @@ entry_into_force: 2014-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/04/2014022169/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Loi portant modification de la loi du 25 avril 1963 sur la gestion des organismes d'intérêt public de sécurité sociale et de prévoyance sociale

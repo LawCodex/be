@@ -12,7 +12,7 @@ entry_into_force: 2026-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/30/2026003606/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2026. - Loi portant des dispositions diverses concernant les médicaments et les produits de santé

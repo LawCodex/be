@@ -13,7 +13,7 @@ entry_into_force: 2006-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/23/2006035238/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2005. - Decreet houdende instemming met het Protocol van 1997 tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, MARPOL 1973, zoals gewijzigd door het Protocol daarbij van 1978.

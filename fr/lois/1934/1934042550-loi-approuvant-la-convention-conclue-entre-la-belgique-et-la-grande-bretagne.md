@@ -11,7 +11,7 @@ published: 1934-07-18
 entry_into_force: 1934-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1934/04/25/1934042550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 1934. - Loi approuvant la Convention conclue entre la Belgique et la Grande-Bretagne concernant la caution 'judicatum solvi', l'assistance judiciaire et la contrainte par corps.

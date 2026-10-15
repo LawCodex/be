@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029290/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2001 et mise à jour au 14-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret-programme portant diverses mesures concernant les fonds budgétaires, l'enseignement, les centres de vacances et l'inspection médicale scolaire

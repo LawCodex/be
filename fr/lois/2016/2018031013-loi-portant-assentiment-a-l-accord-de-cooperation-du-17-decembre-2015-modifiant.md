@@ -12,7 +12,7 @@ entry_into_force: 2018-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/03/2018031013/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2016. - Loi portant assentiment à l'Accord de Coopération du 17 décembre 2015 modifiant l'Accord de Coopération du 2 mars 2007 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, faite à Paris le 13 janvier 1993

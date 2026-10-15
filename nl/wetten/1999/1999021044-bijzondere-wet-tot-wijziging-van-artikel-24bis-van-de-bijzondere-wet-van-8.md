@@ -12,7 +12,7 @@ entry_into_force: 1998-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/08/1999021044/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1999. - Bijzondere wet tot wijziging van artikel 24bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014203196/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret spécial abrogeant le décret spécial du 23 octobre 1997 visant à associer les sénateurs élus directement par le Collège électoral français aux travaux du Conseil régional wallon

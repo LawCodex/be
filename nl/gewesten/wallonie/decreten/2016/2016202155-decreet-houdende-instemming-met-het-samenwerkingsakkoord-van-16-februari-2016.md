@@ -13,7 +13,7 @@ entry_into_force: 2016-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/14/2016202155/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2016. - Decreet houdende instemming met het samenwerkingsakkoord van 16 februari 2016 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027513/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-1999 en tekstbijwerking tot 03-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - [Decreet betreffende de vestiging, de invordering en de geschillen inzake de Waalse gewestelijke belastingen.] (VERTALING) (Opschrift vervangen door DWG 2008-01-17/36 , art. 17, 004; Inwerkingtreding : 01-01-2008) (NOTA 1 : in wat betreft de wijzigingen aangebracht bij DWG 2009-12-10/27 ; zie overgangsbepalingen : art. 103, lid 2 tot 5) (NOTA 2 : de wijzigingen aangebracht bij DWG 2013-09-19/23 , art. 1, maken deel van een herstructurering van het huidig HOOFDSTUK II)

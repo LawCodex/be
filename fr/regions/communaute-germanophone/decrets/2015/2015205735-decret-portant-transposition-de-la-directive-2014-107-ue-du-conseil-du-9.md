@@ -13,7 +13,7 @@ entry_into_force: 2016-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/23/2015205735/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2015. - Décret portant transposition de la Directive 2014/107/UE du Conseil du 9 décembre 2014 modifiant la Directive 2011/16/UE en ce qui concerne l'échange automatique et obligatoire d'informations dans le domaine fiscal

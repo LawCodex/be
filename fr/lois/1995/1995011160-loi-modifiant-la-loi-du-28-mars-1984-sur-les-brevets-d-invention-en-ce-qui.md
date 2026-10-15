@@ -12,7 +12,7 @@ entry_into_force: 1995-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/09/1995011160/justel"
 department: "Justice - Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 1995. - Loi modifiant la loi du 28 mars 1984 sur les brevets d'invention, en ce qui concerne la représentation devant l'Office de la Propriété industrielle.

@@ -12,7 +12,7 @@ entry_into_force: 1989-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/09/27/1989015184/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 SEPTEMBER 1989. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontstaan van belasting naar het inkomen en naar vermogenswinsten, ondertekend te Brussel op juni 1987.

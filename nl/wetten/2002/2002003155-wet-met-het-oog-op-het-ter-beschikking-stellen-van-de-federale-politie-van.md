@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/13/2002003155/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2002. - Wet met het oog op het ter beschikking stellen van de federale politie van ambtenaren van de fiscale administraties.

@@ -12,7 +12,7 @@ entry_into_force: 2004-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/21/2004003278/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2004. - Loi modifiant le Code des impôts sur les revenus 1992 et la loi du 24 décembre 2002 modifiant le régime des sociétés en matière d'impôts sur les revenus et instituant un système de décision anticipée en matière fiscale.

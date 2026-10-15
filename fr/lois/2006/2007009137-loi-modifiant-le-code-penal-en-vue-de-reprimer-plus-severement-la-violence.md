@@ -12,7 +12,7 @@ entry_into_force: 2007-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/20/2007009137/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2006. - Loi modifiant le Code pénal en vue de réprimer plus sévèrement la violence contre certaines catégories de personnes.

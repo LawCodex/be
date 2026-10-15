@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/16/1995027014/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 02-02-1995 et mise à jour au 31-01-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1994. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 1995.

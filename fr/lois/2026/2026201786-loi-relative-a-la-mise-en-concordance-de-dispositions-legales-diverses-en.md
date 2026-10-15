@@ -12,7 +12,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/02/2026201786/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2026. - Loi relative à la mise en concordance de dispositions légales diverses en vigueur avec le Code pénal du 29 février 2024

@@ -13,7 +13,7 @@ entry_into_force: 1984-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/11/27/1985024112/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1984. - Décret réglant l'octroi de subventions aux associations d'animation de terrains de jeu en temps de vacances ainsi qu'aux associations d'animation des vacances des jeunes.

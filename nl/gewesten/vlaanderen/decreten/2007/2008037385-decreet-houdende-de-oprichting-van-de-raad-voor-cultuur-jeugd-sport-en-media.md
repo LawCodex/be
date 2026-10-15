@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/30/2008037385/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 15-01-2008 en tekstbijwerking tot 17-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2007. - Decreet houdende de oprichting van de Raad voor Cultuur, Jeugd, Sport en Media

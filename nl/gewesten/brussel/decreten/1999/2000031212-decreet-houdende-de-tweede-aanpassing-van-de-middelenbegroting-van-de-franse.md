@@ -13,7 +13,7 @@ entry_into_force: 1999-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/15/2000031212/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1999. - Decreet houdende de tweede aanpassing van de Middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1999 (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009201639/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 14-04-2009 en tekstbijwerking tot 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende wijziging van het decreet van 10 maart 1994 betreffende de oprichting van de "Société wallonne de Financement complémentaire des Infrastructures" (Waalse Maatschappij voor de Aanvullende Financiering van de Infrastructuren) en houdende bepalingen betreffende de toekenning van de waarborg van het Gewest

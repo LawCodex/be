@@ -13,7 +13,7 @@ entry_into_force: 2010-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/11/25/2010206165/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2010. - Décret portant approbation de l'Accord de coopération du 3 décembre 2009 entre l'Etat fédéral et les Régions concernant la mise en oeuvre de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, signée à Strasbourg le 9 septembre 1996

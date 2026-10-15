@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002027685/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 01-03-2005 et mise à jour au 26-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Décret organisant le statut de la Société wallonne de financement et de garantie des petites et moyennes entreprises, en abrégé " SOWALFIN ".

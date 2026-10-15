@@ -13,7 +13,7 @@ entry_into_force: 2012-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/22/2012035798/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2012. - Décret modifiant le décret du 19 avril 1995 contenant des mesures visant à lutter contre l'abandon et le délabrement de sites industriels

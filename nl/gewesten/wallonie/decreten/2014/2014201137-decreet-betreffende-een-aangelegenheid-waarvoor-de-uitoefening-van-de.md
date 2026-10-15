@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/06/2014201137/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2014. - Decreet betreffende een aangelegenheid waarvoor de uitoefening van de bevoegdheid van de Franse Gemeenschap naar het Waalse Gewest overgeheveld wordt tot wijziging van artikel L3341-1 van het Wetboek van de plaatselijke democratie en de decentralisatie

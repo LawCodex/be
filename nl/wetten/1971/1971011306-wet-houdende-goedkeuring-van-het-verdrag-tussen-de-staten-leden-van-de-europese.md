@@ -12,7 +12,7 @@ entry_into_force: 1971-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/01/13/1971011306/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 1971. - Wet houdende goedkeuring van het Verdrag tussen de Staten-leden van de Europese Economische Gemeenschap betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, van het protocol en van de gemeenschappelijke verklaring, ondertekend te Brussel op 27 september 1968.

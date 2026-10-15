@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/16/1998007133/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 07-07-1998 et mise à jour au 17-06-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1998. - Loi assimilant à des invalides de guerre certains militaires victimes d'un dommage physique survenu [dans des circonstances particulières.] &lt;Intitulé modifié par L 2019-05-20/09 , art. 9, 004; En vigueur : 01-01-2015&gt;

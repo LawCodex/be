@@ -12,7 +12,7 @@ entry_into_force: 2022-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/21/2021043554/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2021. - Loi portant transposition du code des communications électroniques européen et modification de diverses dispositions en matière de communications électroniques

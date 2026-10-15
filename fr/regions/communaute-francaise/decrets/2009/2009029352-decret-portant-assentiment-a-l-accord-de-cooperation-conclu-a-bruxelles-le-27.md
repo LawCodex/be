@@ -12,7 +12,7 @@ published: 2009-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029352/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant assentiment à l'Accord de coopération conclu à Bruxelles le 27 mars 2009 entre la Communauté française, la Région wallonne et la Commission communautaire française concernant la création du Service francophone des métiers et des qualifications, en abrégé " S.F.M.Q. "

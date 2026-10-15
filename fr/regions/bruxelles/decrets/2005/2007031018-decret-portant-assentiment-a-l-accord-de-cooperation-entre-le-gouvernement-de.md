@@ -13,7 +13,7 @@ entry_into_force: 2007-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/08/2007031018/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2005. - Décret portant assentiment à l'accord de coopération entre le Gouvernement de la République de Pologne et la Commission communautaire française de la Région de Bruxelles-Capitale, signé à Bruxelles le 29 novembre 2004.

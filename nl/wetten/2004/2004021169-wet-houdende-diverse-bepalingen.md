@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/27/2004021169/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "raadpleging van vroegere versies vanaf 31-12-2004 en tekstbijwerking tot 14-03-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2004. - Wet houdende diverse bepalingen.

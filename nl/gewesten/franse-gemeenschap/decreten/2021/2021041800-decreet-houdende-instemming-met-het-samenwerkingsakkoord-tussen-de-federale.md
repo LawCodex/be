@@ -13,7 +13,7 @@ entry_into_force: 2021-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/20/2021041800/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2021. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap inzake het gebruik van SURE, afgesloten te Brussel op 22 december 2020

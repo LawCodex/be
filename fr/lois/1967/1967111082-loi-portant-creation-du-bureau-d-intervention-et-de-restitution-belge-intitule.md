@@ -12,7 +12,7 @@ entry_into_force: 1968-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/11/10/1967111082/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 1967. - [Loi portant création du Bureau d'intervention et de restitution belge.] (Intitulé modifié par L 1993-08-06/30, art. 75, 002; En vigueur : 01-01-1994)

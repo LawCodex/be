@@ -11,7 +11,7 @@ published: 2012-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/03/2012024263/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2012. - Wet tot wijziging van de wet van 13 juni 1986 betreffende het wegnemen en transplanteren van organen en de wet van 19 december 2008 inzake het verkrijgen en het gebruik van menselijk lichaamsmateriaal met het oog op de geneeskundige toepassing op de mens of het wetenschappelijk onderzoek

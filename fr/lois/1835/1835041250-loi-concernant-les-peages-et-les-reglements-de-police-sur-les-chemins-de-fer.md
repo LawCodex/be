@@ -11,7 +11,7 @@ published: 1835-04-17
 entry_into_force: 1835-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1835/04/12/1835041250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 AVRIL 1835. - Loi concernant les péages et les règlements de police sur les chemins de fer.

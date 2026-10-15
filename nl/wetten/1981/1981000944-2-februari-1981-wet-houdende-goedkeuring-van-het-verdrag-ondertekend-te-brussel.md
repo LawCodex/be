@@ -12,7 +12,7 @@ entry_into_force: 1981-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/02/02/1981000944/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 1981. \_ Wet houdende goedkeuring van het Verdrag, ondertekend te Brussel op 13 december 1978, tot herziening van het Algemeen Verdrag tussen het Koninkrijk België en de Republiek Turkije, betreffende de sociale zekerheid, ondertekend te Brussel op 4 juli 1966.

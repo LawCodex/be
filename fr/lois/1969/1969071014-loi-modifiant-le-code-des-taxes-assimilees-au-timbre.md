@@ -11,7 +11,7 @@ published: 1969-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/07/10/1969071014/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1969. - Loi modifiant le Code des taxes assimilées au timbre

@@ -13,7 +13,7 @@ entry_into_force: 2005-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/17/2005203294/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2005. - Decreet tot wijziging van de artikelen 22 en 24bis van het decreet van 6 mei 1999 betreffende de "Office wallon de la formation professionnelle et de l'emploi" (Waalse dienst voor beroepsopleiding en arbeidsbemiddeling), zoals gewijzigd bij het decreet van 13 maart 2003 en het programma-decreet van 18 december 2003 (VERTALING).

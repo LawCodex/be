@@ -13,7 +13,7 @@ entry_into_force: 2006-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/08/2005203373/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2005. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie, wat betreft de subsidies voor sommige investeringen van openbaar nut (VERTALING).

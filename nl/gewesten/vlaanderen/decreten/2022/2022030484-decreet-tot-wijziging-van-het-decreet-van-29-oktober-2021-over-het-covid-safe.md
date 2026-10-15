@@ -13,7 +13,7 @@ entry_into_force: 2022-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/26/2022030484/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2022. - Decreet tot wijziging van het decreet van 29 oktober 2021 over het COVID Safe Ticket, wat betreft de verhoging van de onderste leeftijdsgrens voor het gebruik van het COVID Safe Ticket en de koppeling van de buitenwerkingtreding van het decreet van 29 oktober 2021 aan de epidemische noodsituatie

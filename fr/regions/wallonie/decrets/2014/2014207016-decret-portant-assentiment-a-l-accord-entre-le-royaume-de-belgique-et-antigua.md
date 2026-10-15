@@ -13,7 +13,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/11/13/2014207016/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2014. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et Antigua et Barbuda en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 7 décembre 2009

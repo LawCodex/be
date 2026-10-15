@@ -13,7 +13,7 @@ entry_into_force: 2012-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/12/2012200433/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2012. - Décret portant assentiment à la décision du Conseil européen du 25 mars 2011 modifiant l'article 136 du Traité sur le fonctionnement de l'Union européenne en ce qui concerne un mécanisme de stabilité pour les Etats membres dont la monnaie est l'euro

@@ -12,7 +12,7 @@ entry_into_force: 1997-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/11/27/1997015008/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1996. - Wet houdende instemming met het Protocol nr. 11 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, betreffende herstructurering van het controlemechanisme ingesteld door dat Verdrag, en Bijlage, gedaan te Straatsburg op 11 mei 1994.

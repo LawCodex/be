@@ -12,7 +12,7 @@ entry_into_force: 2006-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/07/2006022794/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Loi modifiant la loi du 26 juin 1963 créant un Ordre des Architectes.

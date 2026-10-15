@@ -12,7 +12,7 @@ entry_into_force: 1995-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995009457/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - Wet betreffende de gezamenlijke uitoefening van het ouderlijk gezag .

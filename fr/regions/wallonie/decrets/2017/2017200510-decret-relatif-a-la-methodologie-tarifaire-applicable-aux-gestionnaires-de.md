@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/19/2017200510/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2017 et mise à jour au 07-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2017. - Décret relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité

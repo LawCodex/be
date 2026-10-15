@@ -12,7 +12,7 @@ published: 1993-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/09/30/1993029487/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 1993. - DECREET houdende goedkeuring van het Protocol tot aanpassing van de Overeenkomst betreffende de Europese Economische Ruimte, en van de Slotakte, opgemaakt in Brussel op 17 maart 1993

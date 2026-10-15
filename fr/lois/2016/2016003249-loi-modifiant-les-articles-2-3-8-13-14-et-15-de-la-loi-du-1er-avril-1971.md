@@ -12,7 +12,7 @@ entry_into_force: 2016-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/27/2016003249/justel"
 department: "Régie des Bâtiments"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2016. - Loi modifiant les articles 2, 3, 8, 13, 14 et 15 de la loi du 1er avril 1971 portant création d'une Régie des Bâtiments.

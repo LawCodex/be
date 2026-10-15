@@ -11,7 +11,7 @@ published: 2019-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/21/2019201979/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2019. - Loi modifiant l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants concernant l'aide à la maternité et instaurant l'aide à l'adoption

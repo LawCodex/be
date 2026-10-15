@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/20/1996029086/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1995. - Décret-programme portant diverses mesures concernant les fonds budgétaires, les bâtiments de la Communauté, la dette de certains organismes d'intérêt public et l'enseignement.

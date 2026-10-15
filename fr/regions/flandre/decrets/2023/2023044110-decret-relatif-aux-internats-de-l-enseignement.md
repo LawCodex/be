@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/16/2023044110/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2023 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2023. - Décret relatif aux internats de l'enseignement

@@ -12,7 +12,7 @@ entry_into_force: 2019-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/14/2018205386/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2018. - Wet tot wijziging van de wet van 6 augustus 1931 houdende vaststelling van de onverenigbaarheden en ontzeggingen betreffende de ministers, gewezen ministers en ministers van Staat, alsmede de leden en gewezen leden van de wetgevende kamers, wat de cumulatie van publieke vergoedingen betreft

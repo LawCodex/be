@@ -13,7 +13,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/02/2016029311/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2016. - Decreet tot wijziging van het gecoördineerde decreet van 26 maart 2009 betreffende de audiovisuele mediadiensten, om meer aandacht te vestigen op de gelijkheid van vrouwen en mannen

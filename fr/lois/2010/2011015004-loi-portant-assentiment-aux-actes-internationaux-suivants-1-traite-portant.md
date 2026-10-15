@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/15/2011015004/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2010. - Loi portant assentiment aux Actes internationaux suivants : 1° Traité portant révision du Traité instituant l'Union économique Benelux signé le 3 février 1958, et Déclaration, faits à La Haye le 17 juin 2008; 2° Protocole relatif aux privilèges et immunités de l'Union Benelux, fait à La Haye le 17 juin 2008

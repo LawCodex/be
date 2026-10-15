@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/02/1999035356/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-03-1999 en tekstbijwerking tot 02-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1999. - Decreet [houdende machtiging tot deelneming in] een coöperatieve vennootschap met beperkte aansprakelijkheid [bevoegd] voor de uitvoering van opdrachten met betrekking tot de werving en selectie van overheidspersoneel. &lt;DVR 2015-05-29/16 , art. 2, 005; Inwerkingtreding : 01-05-2015&gt;

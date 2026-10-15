@@ -13,7 +13,7 @@ entry_into_force: 2025-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/15/2025201686/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2025. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à l'Accord de Protection des Investissements entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, fait à Bruxelles le 19 octobre 2018

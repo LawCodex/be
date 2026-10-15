@@ -12,7 +12,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/08/2014015490/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 2003. - Wet houdende instemming met het Verdrag tussen de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland, de Regering van de Italiaanse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot oprichting van een gezamenlijke organisatie voor samenwerking op defensiematerieelgebied (OCCAR), en met de Bijlagen I, II, III en IV, gedaan te Farnborough op 9 september 1998

@@ -12,7 +12,7 @@ entry_into_force: 1995-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/30/1995000269/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1995. - Loi modifiant la loi du 8 août 1983 organisant un registre national des personnes physiques.

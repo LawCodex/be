@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/03/04/2005A35350/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-2005 en tekstbijwerking tot 30-04-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2005. - Decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005. (Erratum, B.S. 24.11.2005, p. 50523-50575)

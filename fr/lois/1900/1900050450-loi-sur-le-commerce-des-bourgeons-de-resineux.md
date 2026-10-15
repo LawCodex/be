@@ -13,7 +13,7 @@ last_amended: 1994-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1900/05/04/1900050450/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1989 et mise à jour au 21-07-1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1900. - Loi sur le commerce des bourgeons de résineux.

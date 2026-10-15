@@ -12,7 +12,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/23/2015012198/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AOUT 2015. - Loi modifiant la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs en ce qui concerne le paiement de la rémunération

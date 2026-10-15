@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1959/07/17/1959071707/justel"
 justel_notes:
   - "Voor het Brussels Hoofdstedelijk Gewest opgeheven bij ORD 1993-07-01/31, art. 19, 002; Inwerkingtreding : 31-07-1993"
   - "voor het Vlaamse Gewest opgeheven bij DVR 1993-12-15/33, art. 18, 003; Inwerkingtreding : 01-08-1991"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1959. - Wet tot invoering en ordening van maatregelen ter bevordering van de economische expansie en de oprichting van nieuwe industrieën.

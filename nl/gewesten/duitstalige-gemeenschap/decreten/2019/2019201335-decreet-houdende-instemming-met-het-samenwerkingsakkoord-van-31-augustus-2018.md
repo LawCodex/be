@@ -13,7 +13,7 @@ entry_into_force: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/25/2019201335/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2019. - Decreet houdende instemming met het Samenwerkingsakkoord van 31 augustus 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de coördinatie van de radiofrequenties voor radio-omroep in de frequentieband 87,5-108 MHz overeenkomstig artikel 17 van de wet van 13 juni 2005 betreffende de elektronische communicatie

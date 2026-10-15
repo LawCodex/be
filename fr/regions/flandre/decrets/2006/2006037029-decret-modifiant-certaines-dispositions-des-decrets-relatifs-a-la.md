@@ -13,7 +13,7 @@ entry_into_force: 2007-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/01/2006037029/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er DECEMBRE 2006. - Décret modifiant certaines dispositions des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

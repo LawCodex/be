@@ -13,7 +13,7 @@ entry_into_force: 2024-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/18/2024001105/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2024. - Décret portant diverses mesures relatives à l'enseignement

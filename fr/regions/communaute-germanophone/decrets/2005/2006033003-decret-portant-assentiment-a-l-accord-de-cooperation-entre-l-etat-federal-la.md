@@ -13,7 +13,7 @@ entry_into_force: 2006-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/21/2006033003/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2005. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, et la Commission communautaire commune relatif à la mise en oeuvre de la loi du 24 avril 2003 réformant l'adoption, fait à Bruxelles le 12 décembre 2005 (TRADUCTION).

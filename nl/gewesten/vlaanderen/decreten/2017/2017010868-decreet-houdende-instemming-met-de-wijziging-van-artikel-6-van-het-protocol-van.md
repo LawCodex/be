@@ -13,7 +13,7 @@ entry_into_force: 2017-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/10/2017010868/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2017. - Decreet houdende instemming met de wijziging van artikel 6 van het Protocol van Londen van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972, aangenomen te Londen op 30 oktober 2009

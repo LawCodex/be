@@ -12,7 +12,7 @@ published: 2013-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013031654/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 21 februari 2013 tussen de Franse Gemeenschap en de Franse Gemeenschapscommissie inzake geïntegreerd en inclusief onderwijs voor jongeren met een handicap

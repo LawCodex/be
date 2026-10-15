@@ -12,7 +12,7 @@ entry_into_force: 1997-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/02/1997003661/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1996. - Loi contenant le deuxième ajustement du Budget général des Dépenses de l'année budgétaire 1996 - Section " Emploi et Travail ".

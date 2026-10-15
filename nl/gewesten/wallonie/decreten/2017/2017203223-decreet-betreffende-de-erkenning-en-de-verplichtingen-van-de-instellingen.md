@@ -13,7 +13,7 @@ entry_into_force: 2017-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/18/2017203223/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2017. - Decreet betreffende de erkenning en de verplichtingen van de instellingen belast met het beheer van de temporaliën van de erkende erediensten

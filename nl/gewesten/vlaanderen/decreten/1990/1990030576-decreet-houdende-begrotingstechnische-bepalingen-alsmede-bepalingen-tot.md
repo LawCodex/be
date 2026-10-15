@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 84-85 gewijzigd in de toekomst door DVR 2022-01-21/23 , art. 167-168; Inwerkingtreding : 01-01-2024"
   - "Raadpleging van vroegere versies vanaf 08-06-1991 en tekstbijwerking tot 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1990. - Decreet houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991.

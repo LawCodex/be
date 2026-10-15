@@ -13,7 +13,7 @@ entry_into_force: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008029403/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret portant diverses modifications au statut des membres du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement organisé par la Communauté française.

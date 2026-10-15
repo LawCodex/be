@@ -13,7 +13,7 @@ entry_into_force: 2011-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/15/2011029016/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2010. - Décret visant à promouvoir la participation équilibrée des femmes et des hommes dans les organes des personnes morales désignés par la Communauté française

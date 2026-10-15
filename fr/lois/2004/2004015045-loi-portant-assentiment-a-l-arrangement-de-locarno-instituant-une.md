@@ -12,7 +12,7 @@ entry_into_force: 2004-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/13/2004015045/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2004. - Loi portant assentiment à l'Arrangement de Locarno instituant une classification internationale pour les dessins et modèles industriels, et à l'Annexe, signés à Locarno le 8 octobre 1968 et modifié le 28 septembre 1979.

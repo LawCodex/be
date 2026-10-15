@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013207327/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2015 et mise à jour au 26-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2013. - Décret portant création de l'Agence pour l'Entreprise et l'Innovation, en abrégé : A.E.I

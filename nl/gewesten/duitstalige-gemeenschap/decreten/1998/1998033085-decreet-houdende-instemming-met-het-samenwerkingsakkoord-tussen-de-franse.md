@@ -13,7 +13,7 @@ entry_into_force: 1998-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/02/1998033085/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 1998. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en de Duitstalige Gemeenschap, getekend te Eupen op 12 april 1995 (VERTALING).

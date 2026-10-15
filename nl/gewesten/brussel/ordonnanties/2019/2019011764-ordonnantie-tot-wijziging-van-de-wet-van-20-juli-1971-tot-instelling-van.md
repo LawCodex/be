@@ -12,7 +12,7 @@ published: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019011764/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie tot wijziging van de wet van 20 juli 1971 tot instelling van gewaarborgde gezinsbijslag

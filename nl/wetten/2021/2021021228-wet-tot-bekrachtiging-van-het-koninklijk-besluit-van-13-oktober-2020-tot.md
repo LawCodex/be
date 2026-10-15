@@ -12,7 +12,7 @@ entry_into_force: 2021-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/27/2021021228/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2021. - Wet tot bekrachtiging van het koninklijk besluit van 13 oktober 2020 tot vaststelling voor het jaar 2020 van het bedrag van de repartitiebijdrage en tot vaststelling van het jaarlijks minimumbedrag voor de repartitiebijdrage voor de jaren 2020, 2021 en 2022, zoals bedoeld in artikel 14, § 8, zestiende lid, van de wet van 11 april 2003 betreffende de voorzieningen aangelegd voor de ontmanteling van de kerncentrales en voor het beheer van splijtstoffen bestraald in deze kerncentrales

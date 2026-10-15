@@ -13,7 +13,7 @@ entry_into_force: 2009-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2009200202/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret portant assentiment à la modification de la Convention d'Aarhus du 25 juin 1998 sur l'accès à l'information, la participation du public au processus décisionnel et à l'accès à la justice en matière d'environnement, adoptée à Almaty le 27 mai 2005 (TRADUCTION).

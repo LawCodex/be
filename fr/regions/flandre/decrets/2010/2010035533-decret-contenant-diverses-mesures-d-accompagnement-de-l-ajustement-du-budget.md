@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/09/2010035533/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-07-2010 et mise à jour au 29-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2010. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2010

@@ -13,7 +13,7 @@ entry_into_force: 2008-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/05/2008202169/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2008. - Décret relatif à la recherche, la constatation, la poursuite et la répression des infractions et les mesures de réparation en matière d'environnement

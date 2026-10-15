@@ -12,7 +12,7 @@ entry_into_force: 1997-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/17/1997016213/justel"
 department: "Classes Moyennes - Agriculture - Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1997. - Loi modifiant la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal, à effet anti-hormonal, à effet bêta-adrénergique ou à effet stimulateur de production chez les animaux.

@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/21/2016202890/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2016. - Décret portant assentiment au Protocole signé à Bruxelles le 17 mai 2000 modifiant la Convention entre le Royaume de Belgique et la République du Rwanda tendant à éviter la double imposition et à prévenir la fraude et l'évasion fiscales en matière d'impôts sur le revenu et sur la fortune, signée à Kigali le 16 avril 2007

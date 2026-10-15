@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/01/2019010883/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2019. - Décret modifiant les articles 2, 3 et 4 du décret du 23 mai 2003 relatif à la répartition en régions de soins et relatif à la coopération et la programmation de structures de santé et de structures d'aide sociale

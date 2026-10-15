@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/30/2025004289/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2025. - Décret modifiant l'article 3 du décret du 5 septembre 2024 remplaçant les articles L1133-1 et L1133-2 du Code de la démocratie locale et de la décentralisation en vue de garantir la sécurité juridique de la publication des règlements et ordonnances des autorités communales

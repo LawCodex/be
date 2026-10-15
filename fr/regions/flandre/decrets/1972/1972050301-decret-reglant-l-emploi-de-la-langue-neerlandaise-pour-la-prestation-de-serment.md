@@ -12,7 +12,7 @@ published: 1972-05-27
 entry_into_force: 1972-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1972/05/03/1972050301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 1972. - Décret réglant l'emploi de la langue néerlandaise pour la prestation de serment.

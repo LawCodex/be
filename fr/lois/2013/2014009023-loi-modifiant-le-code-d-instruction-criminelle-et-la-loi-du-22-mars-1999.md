@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2014009023/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-01-2014 et mise à jour au 30-06-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi modifiant le Code d'instruction criminelle et la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, en vue de créer une banque de données ADN " Personnes disparues "

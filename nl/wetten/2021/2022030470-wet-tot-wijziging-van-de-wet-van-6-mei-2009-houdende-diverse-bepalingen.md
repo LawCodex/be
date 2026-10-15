@@ -12,7 +12,7 @@ entry_into_force: 2022-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/23/2022030470/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Wet tot wijziging van de wet van 6 mei 2009, houdende diverse bepalingen betreffende asiel en immigratie en tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, verblijf, de vestiging en de verwijdering van vreemdelingen, aangaande de organisatie van de Raad voor Vreemdelingenbetwistingen

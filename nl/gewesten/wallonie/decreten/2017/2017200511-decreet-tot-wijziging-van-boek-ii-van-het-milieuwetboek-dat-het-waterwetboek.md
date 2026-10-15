@@ -13,7 +13,7 @@ entry_into_force: 2017-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/19/2017200511/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2017. - Decreet tot wijziging van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, wat betreft het "Fonds social de l'eau " (Sociaal waterfonds) krachtens artikel 138 van de Grondwet

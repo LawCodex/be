@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/07/2022021051/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-2023 en tekstbijwerking tot 29-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2022. - Wet tot wijziging van de wet van 5 juli 1994 betreffende bloed en bloedderivaten van menselijke oorsprong wat betreft de uitsluitingscriteria inzake bloeddonatie

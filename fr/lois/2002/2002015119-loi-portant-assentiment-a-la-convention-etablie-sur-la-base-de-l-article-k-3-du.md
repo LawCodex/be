@@ -12,7 +12,7 @@ entry_into_force: 2002-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/27/2002015119/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2002. - Loi portant assentiment à la Convention établie sur la base de l'article K.3 du Traité sur l'Union européenne, relative à la procédure simplifiée d'extradition entre les Etats membres de l'Union européenne, faite à Bruxelles le 10 mars 1995.

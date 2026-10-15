@@ -12,7 +12,7 @@ entry_into_force: 1985-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/01/21/1985018014/justel"
 department: "Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 1985. - Wet betreffende de specifieke vertegenwoordiging van de middenstand in adviesorganen.

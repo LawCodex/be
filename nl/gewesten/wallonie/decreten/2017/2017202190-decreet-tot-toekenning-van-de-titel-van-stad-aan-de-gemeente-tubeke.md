@@ -13,7 +13,7 @@ entry_into_force: 2017-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/20/2017202190/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2017. - Decreet tot toekenning van de titel van stad aan de gemeente Tubeke

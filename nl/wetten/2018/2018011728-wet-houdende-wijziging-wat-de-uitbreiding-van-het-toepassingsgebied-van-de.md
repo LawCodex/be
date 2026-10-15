@@ -12,7 +12,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/30/2018011728/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2018. - Wet houdende wijziging, wat de uitbreiding van het toepassingsgebied van de vordering tot collectief herstel tot K.M.O.`s betreft, van het Wetboek van economisch recht

@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/12/1999009705/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 APRIL 1999. - Wet tot wijziging van sommige bepalingen van het gerechtelijk Wetboek en tot overplaatsing van sommige personeelsleden in dienst bij de parketten of verbonden aan een Probatiecommissie.

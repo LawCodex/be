@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/19/2023048529/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 28-12-2023 en tekstbijwerking tot 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2023. - Wet houdende de invoering van een minimumbelasting voor multinationale ondernemingen en omvangrijke binnenlandse groepen

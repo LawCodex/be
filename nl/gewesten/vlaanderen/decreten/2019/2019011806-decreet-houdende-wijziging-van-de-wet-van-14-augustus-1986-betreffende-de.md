@@ -13,7 +13,7 @@ entry_into_force: 2019-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/22/2019011806/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2019. - Decreet houdende wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat betreft het instellen van een verbod op het houden van pelsdieren en op het houden van dieren voor de productie van foie gras door middel van dwangvoedering

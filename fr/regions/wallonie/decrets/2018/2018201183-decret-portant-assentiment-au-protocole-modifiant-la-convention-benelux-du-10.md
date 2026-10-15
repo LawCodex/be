@@ -13,7 +13,7 @@ entry_into_force: 2018-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/01/2018201183/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2018. - Décret portant assentiment au Protocole modifiant la Convention Benelux du 10 juin 1970 en matière de chasse et de protection des oiseaux, fait à Bruxelles le 17 février 2016

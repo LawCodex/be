@@ -12,7 +12,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/27/2003007118/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2003. - Loi portant modification de la loi du 19 août 1947 créant le Mémorial national de Breendonk.

@@ -11,7 +11,7 @@ entry_into_force: 2017-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/10/09/2017A13453/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 OKTOBER 2013. - Akkoord tussen het Koninkrijk België en het Europees Instituut voor Bosbouw betreffende de voorrechten en immuniteiten van het verbindingsbureau van het Europees Instituut voor Bosbouw, gedaan te Brussel op 9 oktober 2013

@@ -12,7 +12,7 @@ entry_into_force: 2010-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/18/2010011082/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2010. - Wet betreffende de uitoefening van een vrij en gereglementeerd cijferberoep door een rechtspersoon

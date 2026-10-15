@@ -13,7 +13,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/14/2022033950/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2022. - Décret modifiant l'article 2 de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, en ce qui concerne la description du concept " travaux ou services de proximité "

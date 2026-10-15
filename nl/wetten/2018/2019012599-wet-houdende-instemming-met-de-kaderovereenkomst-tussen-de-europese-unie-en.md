@@ -12,7 +12,7 @@ entry_into_force: 2019-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/06/2019012599/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 2018. - Wet houdende instemming met de Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Australië, anderzijds, gedaan te Manilla op 7 augustus 2017

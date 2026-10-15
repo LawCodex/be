@@ -12,7 +12,7 @@ published: 1998-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/14/1998035880/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Decreet tot goedkeuring van de volgende internationale akten :.

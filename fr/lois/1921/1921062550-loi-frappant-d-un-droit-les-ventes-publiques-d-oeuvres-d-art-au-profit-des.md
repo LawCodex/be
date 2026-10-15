@@ -13,7 +13,7 @@ last_amended: 1994-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1921/06/25/1921062550/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-08-1921 et mise à jour au 27-07-1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1921. - Loi frappant d'un droit les ventes publiques d'oeuvres d'art au profit des artistes, auteurs des oeuvres vendues.

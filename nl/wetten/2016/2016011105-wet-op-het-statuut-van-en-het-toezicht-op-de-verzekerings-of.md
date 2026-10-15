@@ -12,7 +12,7 @@ entry_into_force: 2016-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/25/2016011105/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2016. - Wet op het statuut van en het toezicht op de verzekerings- of herverzekeringsondernemingen wat bepaalde versnelde beroepsprocedures bij de Raad van State betreft

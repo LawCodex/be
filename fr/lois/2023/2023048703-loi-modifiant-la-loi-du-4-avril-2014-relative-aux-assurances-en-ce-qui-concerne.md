@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/22/2023048703/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Loi modifiant la loi du 4 avril 2014 relative aux assurances en ce qui concerne la couverture légale en cas de catastrophe naturelle

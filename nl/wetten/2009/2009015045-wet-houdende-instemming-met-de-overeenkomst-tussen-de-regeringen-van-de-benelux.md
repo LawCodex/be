@@ -12,7 +12,7 @@ entry_into_force: 2009-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/18/2009015045/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2009. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van het Gemenebest van de Bahama's inzake de afschaffing van de visumplicht voor houders van diplomatieke en officiële of dienstpaspoorten, gesloten door Uitwisseling van brieven ondertekend te Washington D.C. op 2 februari 2006 en op 3 maart 2006

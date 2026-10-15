@@ -12,7 +12,7 @@ entry_into_force: 2016-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/11/21/2016003396/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2016. - Loi modifiant l'article 122 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers en vue de régler les recours contre certaines décisions prises par la FSMA en vertu de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement

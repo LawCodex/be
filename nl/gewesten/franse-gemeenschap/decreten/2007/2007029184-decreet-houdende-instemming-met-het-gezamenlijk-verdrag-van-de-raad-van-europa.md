@@ -13,7 +13,7 @@ entry_into_force: 2007-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/19/2007029184/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Decreet houdende instemming met het gezamenlijk Verdrag van de Raad van Europa en UNESCO betreffende de erkenning van de bekwaamheidsbewijzen in het hoger onderwijs in de Europese Regio, aangenomen te Lissabon op 11 april 1997 en ondertekend door België op 7 maart 2005 (VERTALING).

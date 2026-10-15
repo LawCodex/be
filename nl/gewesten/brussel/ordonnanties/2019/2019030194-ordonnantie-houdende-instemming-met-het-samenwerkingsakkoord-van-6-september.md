@@ -13,7 +13,7 @@ entry_into_force: 2019-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/03/14/2019030194/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 6 september 2017 tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aanknopingsfactoren, het beheer van de lasten van het verleden, de gegevensuitwisseling inzake de gezinsbijslagen en de toepassingsregels betreffende de bevoegdheidsoverdracht tussen de kinderbijslagfondsen

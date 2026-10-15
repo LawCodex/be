@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/21/2006035931/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-06-2006 en tekstbijwerking tot 29-01-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2006. - Decreet houdende de decretale aanpassingen binnen het beleidsdomein Mobiliteit en Openbare Werken als gevolg van het bestuurlijk beleid.

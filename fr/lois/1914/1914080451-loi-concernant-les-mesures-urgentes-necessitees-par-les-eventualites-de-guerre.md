@@ -11,7 +11,7 @@ published: 1914-08-05
 entry_into_force: 1914-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1914/08/04/1914080451/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1914. - Loi concernant les mesures urgentes nécessitées par les éventualités de guerre.

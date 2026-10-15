@@ -12,7 +12,7 @@ entry_into_force: 2011-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/05/2011009354/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2011. - Wet tot wijziging van het Gerechtelijk Wetboek wat de persoonlijke verschijning en de poging tot verzoening bij echtscheiding betreft en tot invoering van een kennisgeving over het bestaan en het nut van bemiddeling in echtscheidingszaken

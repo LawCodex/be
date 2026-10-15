@@ -12,7 +12,7 @@ entry_into_force: 1998-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/03/1998022162/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 1998. - Wet tot wijziging van artikel 18 van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum en van artikel 19 van de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn.

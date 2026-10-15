@@ -13,7 +13,7 @@ entry_into_force: 1997-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/02/1997029055/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1996. - Décret portant assentiment au Traité d'entente et de coopération entre le Royaume de Belgique et la Fédération de Russie, signé à Bruxelles le 8 décembre 1993.

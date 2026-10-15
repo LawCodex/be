@@ -13,7 +13,7 @@ entry_into_force: 2012-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204830/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - DECRET portant assentiment au Protocole facultatif à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, fait à New York le 18 décembre 2002

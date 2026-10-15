@@ -10,7 +10,7 @@ date: 1989-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/07/04/1989011263/justel"
 department: "Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 1989. - Wet betreffende overdracht van bevoegdheden voor de uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen van 10 juni 1985.

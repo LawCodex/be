@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/10/2016029140/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2016. - Décret relatif à la mise à la disposition du Gouvernement de la Communauté française du personnel issu du Fonds d'Equipements et de Services collectifs à l'Agence fédérale pour les allocations familiales transféré à la Communauté française dans le cadre de la sixième réforme de l'Etat

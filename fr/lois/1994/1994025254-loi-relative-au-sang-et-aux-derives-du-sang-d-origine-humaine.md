@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/05/1994025254/justel"
 department: "Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 17-07-2002 et mise à jour au 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1994. - Loi relative au sang et aux dérivés du sang d'origine humaine.

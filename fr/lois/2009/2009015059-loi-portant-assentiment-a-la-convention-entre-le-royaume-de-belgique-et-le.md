@@ -12,7 +12,7 @@ entry_into_force: 2009-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/30/2009015059/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2009. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Royaume du Maroc tendant à éviter la double imposition et à prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu, signée à Bruxelles le 31 mai 2006

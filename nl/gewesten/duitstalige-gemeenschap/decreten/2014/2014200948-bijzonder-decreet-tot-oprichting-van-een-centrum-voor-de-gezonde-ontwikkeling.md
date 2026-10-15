@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/20/2014200948/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-02-2014 en tekstbijwerking tot 29-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2014. - Bijzonder decreet tot oprichting van een centrum voor de gezonde ontwikkeling van kinderen en jongeren

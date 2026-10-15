@@ -12,7 +12,7 @@ entry_into_force: 2023-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/02/08/2023040384/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2023. - Wet tot wijziging van de wet van 18 september 2017 tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten

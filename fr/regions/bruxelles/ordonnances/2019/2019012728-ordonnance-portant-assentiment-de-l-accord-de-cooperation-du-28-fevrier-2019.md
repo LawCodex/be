@@ -13,7 +13,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012728/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance portant assentiment de l'Accord de coopération du 28 février 2019 entre la Région de Bruxelles-Capitale et la Commission communautaire commune portant sur la désignation d'un intégrateur de services commun pour l'échange électronique de données

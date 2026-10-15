@@ -13,7 +13,7 @@ entry_into_force: 2008-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2008029041/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - Décret modifiant le décret du 4 mars 1991 relatif à l'aide à la jeunesse.

@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/07/1995016065/justel"
 department: "Classes Moyennes"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1995. - Loi modifiant l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants et la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions.

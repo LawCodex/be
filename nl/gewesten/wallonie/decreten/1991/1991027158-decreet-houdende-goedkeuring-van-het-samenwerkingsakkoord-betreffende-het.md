@@ -13,7 +13,7 @@ entry_into_force: 1990-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/02/21/1991027158/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 1991. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende het interdepartementaal Begrotingsfonds ter bevordering van de werkgelegenheid, gesloten te Brussel op 7 januari 1991 tussen de Waalse Gewestexecutieve, de Brusselse Hoofdstedelijke Executieve en de Franse Gemeenschapsexecutieve.

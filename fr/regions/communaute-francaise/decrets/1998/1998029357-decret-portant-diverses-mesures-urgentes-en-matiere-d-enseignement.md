@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/17/1998029357/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-08-1998 et mis à jour au 11-06-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1998. - Décret portant diverses mesures urgentes en matière d'enseignement.

@@ -12,7 +12,7 @@ published: 2012-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/29/2012035885/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2012. - Décret modifiant le Décret communal du 15 juillet 2005

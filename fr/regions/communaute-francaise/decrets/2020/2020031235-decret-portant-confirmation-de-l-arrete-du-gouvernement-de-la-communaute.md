@@ -13,7 +13,7 @@ entry_into_force: 2020-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/08/20/2020031235/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 27 du 11 juin 2020 relatif à l'organisation de l'examen d'entrée et d'accès aux études de premier cycle en sciences médicales et dentaires en vue de l'année académique 2020-2021

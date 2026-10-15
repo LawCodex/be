@@ -12,7 +12,7 @@ entry_into_force: 2003-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/26/2003003133/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2003. - Wet tot wijziging van het Wetboek der registratie-, hypotheek- en griffierechten, met betrekking tot de verlaging van het expeditierecht.

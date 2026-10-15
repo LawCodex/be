@@ -13,7 +13,7 @@ entry_into_force: 2022-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/29/2022032050/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2022. - Décret portant assentiment au traité mondial sur la reconnaissance des diplômes relatifs à l'enseignement supérieur, adopté à Paris le 25 novembre 2019

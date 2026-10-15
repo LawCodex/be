@@ -12,7 +12,7 @@ entry_into_force: 2022-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/05/2022032193/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Loi modifiant la loi du 2 octobre 2017 réglementant la sécurité privée et particulière

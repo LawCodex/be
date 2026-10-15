@@ -13,7 +13,7 @@ entry_into_force: 2012-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/21/2012203659/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2012. - Décret modifiant le Code de la démocratie locale et de la décentralisation concernant le contrôle des dépenses électorales engagées pour les élections des conseils communaux, provinciaux et de secteur

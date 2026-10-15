@@ -11,7 +11,7 @@ published: 2018-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018032160/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi modifiant diverses dispositions relatives à une interdiction de sortie du territoire, la délivrance, l'invalidation et le retrait de documents de voyage et de documents d'identité pour des mineurs non émancipés

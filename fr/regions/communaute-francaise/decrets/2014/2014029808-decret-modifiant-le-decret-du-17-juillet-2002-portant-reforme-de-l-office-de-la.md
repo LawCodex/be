@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/04/2014029808/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2014. - Décret modifiant le décret du 17 juillet 2002 portant réforme de l'Office de la Naissance et de l'Enfance, en abrégé " O.N.E. "

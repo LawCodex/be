@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024006155/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-06-2024 et mise à jour au 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret relatif à l'enseignement XXXIV

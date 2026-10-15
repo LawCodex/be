@@ -12,7 +12,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2013003441/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Bijzondere wet houdende wijziging van de bijzondere wetten van 8 augustus 1980 tot hervorming der instellingen en 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en opheffing van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens ondertekend te Brussel op 9 februari 1994 door de regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet overeenkomstig richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, ingevolge de invoering van de kilometerheffing

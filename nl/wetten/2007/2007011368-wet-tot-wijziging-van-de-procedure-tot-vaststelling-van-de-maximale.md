@@ -12,7 +12,7 @@ entry_into_force: 2007-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/08/2007011368/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2007. - Wet tot wijziging van de procedure tot vaststelling van de maximale referentierentevoet voor verzekeringsverrichtingen van lange duur.

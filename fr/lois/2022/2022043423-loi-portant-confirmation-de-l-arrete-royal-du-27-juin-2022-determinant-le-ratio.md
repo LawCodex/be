@@ -12,7 +12,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/21/2022043423/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2022. - Loi portant confirmation de l'arrêté royal du 27 juin 2022 déterminant le ratio au 31 décembre 2007 entre les moyens des autorités communales et fédérale, ainsi que les postes des revenus et des dépenses qui entrent en ligne de compte pour calculer ce ratio, en exécution de l'article 67, alinéa 2, de la loi du 15 mai 2007 relative à la sécurité

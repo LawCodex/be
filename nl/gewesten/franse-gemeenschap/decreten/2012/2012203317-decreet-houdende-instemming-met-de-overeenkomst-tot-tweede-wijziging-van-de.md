@@ -13,7 +13,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203317/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tot tweede wijziging van de Partnerschapsovereenkomst tussen de leden van de Groep van Staten in Afrika, het Caribische Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend in Cotonou op 23 juni 2000, en voor de eerste maal gewijzigd te Luxemburg op 25 juni 2005, en Slotakte, ondertekend te Ouagadougou op 22 juni 2010

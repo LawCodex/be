@@ -12,7 +12,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/03/2020042391/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2020. - Wet met het oog op de tenlasteneming van de kosten van het dringend ziekenvervoer van de COVID-19-patiënten

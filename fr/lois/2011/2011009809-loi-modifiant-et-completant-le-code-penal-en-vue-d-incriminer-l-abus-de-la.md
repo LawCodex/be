@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/26/2011009809/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2012 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2011. - Loi modifiant et complétant le Code pénal en vue d'incriminer l'abus de la situation de faiblesse des personnes et d'étendre la protection pénale des personnes vulnérables contre la maltraitance

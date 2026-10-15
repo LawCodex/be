@@ -12,7 +12,7 @@ entry_into_force: 2019-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/25/2019011061/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2019. - Loi portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et la République du Kosovo, faite à Bruxelles le 20 février 2018

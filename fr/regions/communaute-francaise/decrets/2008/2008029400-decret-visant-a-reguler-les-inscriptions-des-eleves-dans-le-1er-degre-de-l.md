@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008029400/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-08-2008 et mise à jour au 09-04-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret visant à réguler les inscriptions des élèves dans le 1er degré de l'enseignement secondaire et à favoriser la mixité sociale au sein des établissements scolaires (décret mixité sociale)

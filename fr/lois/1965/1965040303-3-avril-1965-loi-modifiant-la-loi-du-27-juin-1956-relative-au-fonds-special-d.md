@@ -11,7 +11,7 @@ published: 1965-05-06
 entry_into_force: 1965-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/03/1965040303/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1965. \_ Loi modifiant la loi du 27 juin 1956 relative au Fonds spécial d'assistance.

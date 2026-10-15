@@ -16,7 +16,7 @@ department: "Eerste Minister"
 justel_notes:
   - "Bij arrest van 13-07-1989 (B.St. 21-07-1989), heeft het Arbitragehof beslist : 1. Artikel 17 is geschorst in zoverre het de bepalingen van artikel 3, § 2, tweede lid, en § 4 invoegt in het koninklijk besluit nr. 143 van 30 december 1982; 2. Artikel 24 is geschorst in zoverre het betrekking heeft op de bepalingen van artikel 3, § 2, tweede lid, en § 4, van het koninklijk besluit nr. 143 van 30 december 1982"
   - "Raadpleging van vroegere versies vanaf 08-07-1989 en tekstbijwerking tot 10-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1988. - Programmawet.

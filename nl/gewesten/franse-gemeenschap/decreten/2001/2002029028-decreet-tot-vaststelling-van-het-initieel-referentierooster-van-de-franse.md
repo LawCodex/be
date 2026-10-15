@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002029028/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-01-2002 en tekstbijwerking tot 19-04-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet tot vaststelling van het initieel referentierooster van de Franse Gemeenschap voor de klankradio-omroep in frequentiemodulatie op de band 87.5-108 MHz en tot wijziging van het decreet van 24 juli 1997 betreffende de Hoge Raad voor de Audiovisuele Sector en de private diensten voor klankradio-omroep van de Franse Gemeenschap. (VERTALING)

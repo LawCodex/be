@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/19/2007029223/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Decreet tot wijziging van het decreet van 14 juli 1997 houdende het statuut van de "Radio-Télévision belge de la Communauté française (RTBF)". (VERTALING).

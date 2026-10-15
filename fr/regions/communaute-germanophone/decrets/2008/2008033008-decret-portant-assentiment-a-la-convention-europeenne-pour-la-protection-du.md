@@ -13,7 +13,7 @@ entry_into_force: 2008-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/01/28/2008033008/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2008. - Décret portant assentiment à la convention européenne pour la protection du patrimoine archéologique (révisée), faite à La Valette le 16 janvier 1992 (TRADUCTION).

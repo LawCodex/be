@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/08/2024204696/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2024. - Décret portant la première modification du décret du 14 décembre 2023 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2024

@@ -12,7 +12,7 @@ entry_into_force: 2025-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/06/18/2025004777/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2025. - Wet tot wijziging van de artikelen 572bis, 1179 en 1184 van het Gerechtelijk Wetboek, van het vierde deel, boek IV, hoofdstuk VI, van hetzelfde Wetboek, met betrekking tot de verdelingen en veilingen, evenals van artikel 4.101 van het Burgerlijk Wetboek

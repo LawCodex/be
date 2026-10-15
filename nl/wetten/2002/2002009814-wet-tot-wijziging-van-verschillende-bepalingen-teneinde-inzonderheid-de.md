@@ -11,7 +11,7 @@ entry_into_force: 2002-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/16/2002009814/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2002. - Wet tot wijziging van verschillende bepalingen teneinde inzonderheid de verjaringstermijnen voor de niet-correctionaliseerbare misdaden te verlengen.

@@ -12,7 +12,7 @@ entry_into_force: 2019-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/06/2019010230/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2019. - Loi portant assentiment au Protocole modifiant l'Accord du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, conformément à la Directive 2011/76/UE du Parlement européen et du Conseil du 27 septembre 2011 modifiant la Directive 1999/62/CE relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures, fait à Bruxelles le 6 décembre 2017

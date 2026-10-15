@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/10/2001003401/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2001. - Loi modifiant l'article 38 du Code des impôts sur les revenus 1992 en matière d'intervention de l'employeur dans les frais de déplacement du domicile au lieu du travail.

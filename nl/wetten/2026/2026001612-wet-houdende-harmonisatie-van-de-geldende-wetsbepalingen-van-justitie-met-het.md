@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/03/2026001612/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2026 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2026. - Wet houdende harmonisatie van de geldende wetsbepalingen van Justitie met het Strafwetboek van 29 februari 2024

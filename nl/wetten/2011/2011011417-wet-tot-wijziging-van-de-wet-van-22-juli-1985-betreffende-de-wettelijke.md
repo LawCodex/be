@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/13/2011011417/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2011. - Wet tot wijziging van de wet van 22 juli 1985 betreffende de wettelijke aansprakelijkheid op het gebied van de kernenergie

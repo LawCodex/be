@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/18/2002009768/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2002. - Wet tot vervanging van artikel 43quinquies en tot invoeging van artikel 66 in de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken.

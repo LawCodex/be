@@ -11,7 +11,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/01/30/1991009927/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 1991. - Wet tot wijziging van de wet van 3 januari 1933 op de vervaardiging van de handel in en het dragen van wapens en op de handel in munitie.

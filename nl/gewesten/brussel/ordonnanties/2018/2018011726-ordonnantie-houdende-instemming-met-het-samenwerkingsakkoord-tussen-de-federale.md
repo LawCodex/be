@@ -13,7 +13,7 @@ entry_into_force: 2018-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/04/19/2018011726/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2018. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten

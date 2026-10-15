@@ -12,7 +12,7 @@ entry_into_force: 2014-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/01/2014021002/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2013. - Wet tot wijziging van de wet van 17 september 2005 met betrekking tot de activiteiten op het gebied van het lanceren, het bedienen van de vlucht of het geleiden van ruimtevoorwerpen

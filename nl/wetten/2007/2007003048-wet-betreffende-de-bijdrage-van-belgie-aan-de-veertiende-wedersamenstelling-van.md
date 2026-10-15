@@ -12,7 +12,7 @@ entry_into_force: 2007-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/30/2007003048/justel"
 department: "Financiën - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2007. - Wet betreffende de bijdrage van België aan de veertiende wedersamenstelling van de werkmiddelen van de Internationale Ontwikkelingsassociatie.

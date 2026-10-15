@@ -12,7 +12,7 @@ entry_into_force: 2020-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/12/2020030976/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2020. - Loi portant des dispositions diverses concernant la cotisation fédérale destinée au financement du Fonds social gaz et électricité

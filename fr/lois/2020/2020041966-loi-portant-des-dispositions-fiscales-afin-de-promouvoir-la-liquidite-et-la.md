@@ -12,7 +12,7 @@ entry_into_force: 2020-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/23/2020041966/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2020. - Loi portant des dispositions fiscales afin de promouvoir la liquidité et la solvabilité des entreprises dans le contexte de la lutte contre les conséquences économiques de la pandémie de COVID-19

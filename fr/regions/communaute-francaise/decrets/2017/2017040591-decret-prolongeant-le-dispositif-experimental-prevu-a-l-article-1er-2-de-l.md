@@ -13,7 +13,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017040591/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret prolongeant le dispositif expérimental prévu à l'article 1er, § 2, de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire

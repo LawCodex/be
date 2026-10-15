@@ -12,7 +12,7 @@ entry_into_force: 2001-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/02/2001016051/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2001. - Wet tot wijziging van de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen.

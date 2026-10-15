@@ -13,7 +13,7 @@ entry_into_force: 2017-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/16/2017206134/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2017. - Décret portant assentiment à l'accord de coopération entre la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone, relatif aux communautés religieuses locales reconnues de cultes reconnus, dont le ressort territorial s'étend sur le territoire de plus d'une entité fédérée

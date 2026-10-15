@@ -12,7 +12,7 @@ entry_into_force: 2011-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/13/2011022402/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2011. - Loi prolongeant le bonus de pension accordé aux salariés et aux indépendants

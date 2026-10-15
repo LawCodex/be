@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/14/2023044308/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2023 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2023. - Décret modifiant le Code flamand de l'Aménagement du Territoire du 15 mai 2009, le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes et le décret du 25 avril 2014 relatif aux projets complexes, en ce qui concerne l'extension de la juridiction du Conseil du Contentieux des Permis

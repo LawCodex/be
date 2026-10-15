@@ -13,7 +13,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004664/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret modifiant le décret du 20 juin 2008 portant le statut de l'Universiteit Hasselt et du Conseil supérieur de l'Enseignement supérieur au Limbourg (" Hoge Raad voor het Hoger Onderwijs in Limburg "), en ce qui concerne la structure de la gestion et l'actualisation des dispositions existantes

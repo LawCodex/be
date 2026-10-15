@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/03/2005003870/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2005. - Wet houdende eindregeling van de begrotingen van de instellingen van openbaar nut van het jaar 1995.

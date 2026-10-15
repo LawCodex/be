@@ -12,7 +12,7 @@ entry_into_force: 2014-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/11/2007003343/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2006. - Loi relative au statut des employés des conservateurs des hypothèques

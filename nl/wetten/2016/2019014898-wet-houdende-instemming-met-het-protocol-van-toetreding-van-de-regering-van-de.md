@@ -12,7 +12,7 @@ entry_into_force: 2019-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/29/2019014898/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2016. - Wet houdende instemming met het Protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en werking van de "European Synchrotron Radiation Facility" (Europese synchrotronstralingsfaciliteit, gedaan te Grenoble op 23 juni 2014 en te Parijs op 15 juli 2014.

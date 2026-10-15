@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/12/27/1991003014/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 06-04-2012 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 1990. - ORGANIEKE WET houdende oprichting van begrotingsfondsen.

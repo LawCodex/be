@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1953/07/22/1953072204/justel"
 justel_notes:
   - "Ce texte est modifié par AR 2007-04-21/42 et après COORDONNE par AR 2007-04-30/30 , art. N; En vigueur : 31-08-2007"
   - "POUR LE TEXTE COORDONNE ET CONSOLIDE, VOIR L 2007-04-30/49 ). (NOTE : Consultation des versions antérieures à partir du 06-08-1999 et mise à jour au 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1953. - [Loi créant un Institut des Réviseurs d'Entreprises et organisant la supervision publique de la profession de réviseur d'entreprises.] &lt;Intitulé remplacé par AR 2007-04-21/42 , art. 1; En vigueur : 31-08-2007&gt;

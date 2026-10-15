@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/05/2019011879/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2019. - Décret modifiant le Décret antidopage du 25 mai 2012, en ce qui concerne l'obtention d'une autorisation d'usage à des fins thérapeutiques et l'introduction de la notion " agent de contrôle du dopage "

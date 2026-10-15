@@ -12,7 +12,7 @@ entry_into_force: 1995-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/03/1995009300/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1995. - Loi portant exécution temporaire et partielle de l'article 103 de la Constitution.

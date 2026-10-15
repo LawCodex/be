@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101056/justel"
 justel_notes:
   - "art. 1675/17,§1 gewijzigd met ingang op een onbepaalde datum bij W 2012-03-26/01 , art. 7,1°, 074; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 09-03-1985 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - GERECHTELIJK WETBOEK - Deel V : BEWAREND BESLAG, MIDDELEN TOT TENUITVOERLEGGING EN COLLECTIEVE SCHULDENREGELING. (art. 1386 tot 1675/27) &lt;Opschrift vervangen door W 1998-07-05/57 , art. 2, 024; Inwerkingtreding : 01-01-1999&gt;

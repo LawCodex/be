@@ -13,7 +13,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/22/2016035138/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2016. - Décret portant assentiment à l'accord entre le Royaume de Belgique, représenté par son Gouvernement, et l'Etat d'Israël, représenté par son Gouvernement, sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Jérusalem le 11 novembre 2013

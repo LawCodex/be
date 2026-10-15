@@ -13,7 +13,7 @@ entry_into_force: 2013-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/22/2013035343/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2013. - Décret modifiant le décret du 7 mai 2004 relatif aux subventions additionnelles à l'emploi dans le secteur culturel, pour ce qui concerne la répartition des ressources pour la subvention complémentaire pour l'emploi dans le secteur de la politique communale en matière d'animation des jeunes

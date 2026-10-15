@@ -12,7 +12,7 @@ entry_into_force: 2005-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/30/2005022586/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2005. - Loi visant à supprimer l'alinéa 2 de l'article 9, § 2, de la loi du 11 mai 2003 relative à la recherche sur les embryons in vitro.

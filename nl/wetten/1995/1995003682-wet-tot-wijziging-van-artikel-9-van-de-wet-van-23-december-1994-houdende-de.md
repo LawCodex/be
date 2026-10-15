@@ -12,7 +12,7 @@ entry_into_force: 1995-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/11/24/1995003682/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1995. - Wet tot wijziging van artikel 9 van de wet van 23 december 1994 houdende de Rijksmiddelenbegroting voor het begrotingsjaar 1995

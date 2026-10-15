@@ -13,7 +13,7 @@ entry_into_force: 2014-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/21/2013201218/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2013. - Decreet tot wijziging van Boek V van het tweede deel van het Waalse Wetboek van Sociale Actie en Gezondheid - decretaal luik

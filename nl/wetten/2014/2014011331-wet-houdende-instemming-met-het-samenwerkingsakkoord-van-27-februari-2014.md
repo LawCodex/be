@@ -12,7 +12,7 @@ entry_into_force: 2014-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014011331/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet houdende instemming met het Samenwerkingsakkoord van 27 februari 2014 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest betreffende de oprichting van een vergunningscoördinerend en -faciliterend comité voor trans-Europese energie-infrastructuurprojecten, ter uitvoering van Verordening (EU) nr. 347/2013

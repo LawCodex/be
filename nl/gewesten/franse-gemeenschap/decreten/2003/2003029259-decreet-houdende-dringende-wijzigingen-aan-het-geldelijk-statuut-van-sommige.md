@@ -12,7 +12,7 @@ published: 2003-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2003029259/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende dringende wijzigingen aan het geldelijk statuut van sommige categorieën van het onderwijspersoneel (VERTALING).

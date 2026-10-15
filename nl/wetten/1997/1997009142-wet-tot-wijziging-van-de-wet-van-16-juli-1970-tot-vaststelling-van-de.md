@@ -12,7 +12,7 @@ entry_into_force: 1997-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/17/1997009142/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1997. - Wet tot wijziging van de wet van 16 juli 1970 tot vaststelling van de personeelsformatie van de politierechtbank en de wet van 20 juli 1971 tot vaststelling van de personeelsformatie van de vredegerechten.

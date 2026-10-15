@@ -13,7 +13,7 @@ entry_into_force: 2014-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/22/2013036168/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2013. - Décret portant assentiment à l'Accord-cadre de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République des Philippines, d'autre part, signé à Phnom Penh le 11 juillet 2012

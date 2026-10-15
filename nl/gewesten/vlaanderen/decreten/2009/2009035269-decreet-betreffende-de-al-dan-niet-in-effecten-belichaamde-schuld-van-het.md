@@ -13,7 +13,7 @@ entry_into_force: 2009-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/13/2009035269/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2009. - Decreet betreffende de al dan niet in effecten belichaamde schuld van het Vlaamse Gewest en de Vlaamse Gemeenschap

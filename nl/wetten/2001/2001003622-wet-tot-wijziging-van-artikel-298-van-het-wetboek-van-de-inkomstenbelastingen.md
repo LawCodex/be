@@ -12,7 +12,7 @@ entry_into_force: 2002-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/05/2001003622/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2001. - Wet tot wijziging van artikel 298 van het Wetboek van de inkomstenbelastingen 1992.

@@ -13,7 +13,7 @@ entry_into_force: 2003-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003027410/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet houdende instemming met het Samenwerkingsakkoord betreffende de invoering van de euro in het Samenwerkingsakkoord van 30 mei 1996 betreffende de preventie en het beheer van verpakkingsafval (VERTALING).

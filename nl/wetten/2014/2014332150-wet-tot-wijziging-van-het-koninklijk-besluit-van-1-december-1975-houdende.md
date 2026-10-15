@@ -12,7 +12,7 @@ entry_into_force: 2014-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/29/2014332150/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2014. - Wet tot wijziging van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg ter invoering van een snelheidsbeperking voor de wegen aangewezen door de borden F99a, F99b en F99c

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/10/24/2024010496/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2024. - Décret portant diverses modifications concernant les Commissaires et Délégués près les universités, les hautes écoles et les écoles supérieures des arts

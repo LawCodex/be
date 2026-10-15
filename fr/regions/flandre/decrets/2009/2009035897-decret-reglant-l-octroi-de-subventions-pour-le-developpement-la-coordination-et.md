@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009035897/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-09-2009 et mise à jour au 15-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Décret réglant l'octroi de subventions pour le développement, la coordination et la promotion de l'offre sportive des [structures sportives des étudiants] des universités et des instituts supérieurs flamands et pour l'agrément et le subventionnement d'une [organisation coordinatrice sportive des étudiants] flamande des étudiants. (Intitulé modifié par DCFL 2018-05-18/09 , art. 2, 003; En vigueur : 01-09-2018)

@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/10/17/2024009778/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2024. - Ordonnance visant à fixer la mise en oeuvre de la prochaine phase de la zone de basses émissions (LEZ) au 1er janvier 2027

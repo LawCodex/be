@@ -13,7 +13,7 @@ entry_into_force: 2008-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/01/2008035367/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2008. - Decreet houdende wijziging van het decreet basisonderwijs van 25 februari 1997, wat betreft de gegevensuitwisseling in het kader van de stimulering van de kleuterparticipatie.

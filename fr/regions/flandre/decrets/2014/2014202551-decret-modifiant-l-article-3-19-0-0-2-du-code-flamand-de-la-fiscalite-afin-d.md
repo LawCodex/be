@@ -13,7 +13,7 @@ entry_into_force: 2014-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014202551/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret modifiant l'article 3.19.0.0.2 du Code flamand de la Fiscalité, afin d'optimiser l'échange de données fiscales avec les administrations locales

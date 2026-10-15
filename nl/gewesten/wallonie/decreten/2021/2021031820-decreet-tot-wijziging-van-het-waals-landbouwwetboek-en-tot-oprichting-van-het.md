@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/08/2021031820/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2021. - Decreet tot wijziging van het Waals Landbouwwetboek en tot oprichting van het Betaalorgaan tot administratieve dienst met autonome boekhouding

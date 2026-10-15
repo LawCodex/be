@@ -13,7 +13,7 @@ entry_into_force: 2009-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/19/2009029272/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2009. - Decreet houdende diverse maatregelen, inzonderheid inzake de statuten en de bekwaamheidsbewijzen voor de personeelsleden van het hoger onderwijs en houdende oprichting van de studentenraden binnen de Hogere Instituten voor Architectuur

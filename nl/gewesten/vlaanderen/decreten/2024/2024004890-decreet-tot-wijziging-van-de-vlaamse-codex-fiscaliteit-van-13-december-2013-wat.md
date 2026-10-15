@@ -13,7 +13,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024004890/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de aanpassing van de verkoopprocedure voor inbeslaggenomen voertuigen en de stuiting van de verjaring betreft

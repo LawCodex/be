@@ -12,7 +12,7 @@ entry_into_force: 1996-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996014173/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi contenant le budget de la Régie des Transports maritimes pour l'année budgétaire 1995.

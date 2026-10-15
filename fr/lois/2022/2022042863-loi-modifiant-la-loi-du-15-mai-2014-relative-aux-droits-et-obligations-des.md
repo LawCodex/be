@@ -12,7 +12,7 @@ entry_into_force: 2023-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/10/2022042863/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2022. - Loi modifiant la loi du 15 mai 2014 relative aux droits et obligations des voyageurs ferroviaires

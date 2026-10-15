@@ -13,7 +13,7 @@ entry_into_force: 2021-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/14/2021033652/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2021. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 59 du 11 février 2021 relatif au soutien des Centres de rencontres et d'hébergement dans le cadre de la seconde vague de la crise sanitaire de la COVID-19

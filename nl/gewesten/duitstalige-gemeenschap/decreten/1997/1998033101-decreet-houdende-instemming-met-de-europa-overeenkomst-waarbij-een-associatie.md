@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/20/1998033101/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 1997. - Decreet houdende instemming met de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, optredend in het kader van de Europese Unie, enerzijds, en de Republiek Slovenië, anderzijds, met de bijlagen I, II, III, IV, V, VI, VII, VIIIa, VIIIb, IXa, IXb, IXc, X, XI, XII en XIII, met de protocollen 1, 2, 3, 4, 5 en 6, et met de Slotakte, gedaan te Luxemburg op 10 juni 1996 (VERTALING).

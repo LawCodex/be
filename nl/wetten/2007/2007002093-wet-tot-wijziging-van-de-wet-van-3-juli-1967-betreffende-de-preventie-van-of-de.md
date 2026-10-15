@@ -12,7 +12,7 @@ entry_into_force: 1996-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/17/2007002093/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2007. - Wet tot wijziging van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector en van de arbeidsongevallenwet van 10 april 1971.

@@ -11,7 +11,7 @@ published: 1966-08-23
 entry_into_force: 1966-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/08/01/1966080105/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AOUT 1966. - Loi portant approbation des actes internationaux : 1. Convention sur la responsabiblité civile dans le domaine de l'énergie nucléaire, faite à Paris, le 29 juillet 1960; 2. Convention complémentaire et annexe, faites à Bruxelles, le 31 juillet 1963; 3. Protocole additionnel à la Convention de Paris, fait à Paris, le 28 juillet 1964; Protocole additionnel à la Convention complémentaire de Bruxelles, fait à Paris, le 28 janvier 1964.

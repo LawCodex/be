@@ -12,7 +12,7 @@ entry_into_force: 2002-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/10/2002011153/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2002. - Loi instaurant une cotisation unique à charge du secteur pétrolier.

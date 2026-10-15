@@ -13,7 +13,7 @@ entry_into_force: 2017-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017012135/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret portant assentiment à 1) l'Avenant, fait à Bruxelles, le 2 décembre 2009, modifiant la Convention entre le Royaume de Belgique et le Royaume d'Espagne tendant à éviter les doubles impositions et à prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu et sur la fortune, et le Protocole, faits à Bruxelles, le 14 juin 1995, tels que modifiés par l'Avenant fait à Madrid, le 22 juin 2000 et à 2) l'Avenant, fait à Madrid le 15 avril 2014, modifiant la Convention, entre le Royaume de Belgique et le Royaume d'Espagne tendant à éviter les doubles impositions et à prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu et sur la fortune, et le Protocole, faits à Bruxelles, le 14 juin 1995, tels que modifiés par l'Avenant fait à Madrid, le 22 juin 2000 et par l'Avenant fait à Bruxelles le 2 décembre 2009

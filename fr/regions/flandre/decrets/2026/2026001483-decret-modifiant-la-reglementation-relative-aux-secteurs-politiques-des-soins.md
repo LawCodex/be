@@ -13,7 +13,7 @@ entry_into_force: 2026-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/01/23/2026001483/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2026. - Décret modifiant la réglementation relative aux secteurs politiques des soins de santé et résidentiels et de la protection sociale, en ce qui concerne l'ancrage décrétal des éléments essentiels pour le traitement des données à caractère personnel

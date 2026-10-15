@@ -13,7 +13,7 @@ entry_into_force: 2026-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/09/2026005389/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2026. - Decreet van het Waalse Gewest en van de Franse Gemeenschap tot wijziging van artikel 1 van het samenwerkingsakkoord van 20 maart betreffende het goed bestuur in de uitvoering van de openbare mandaten in de overheidsinstellingen en in de van de overheid afgeleide entiteiten

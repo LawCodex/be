@@ -13,7 +13,7 @@ entry_into_force: 2021-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/10/28/2021043032/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2021. - Ordonnance portant assentiment au Traité instituant le Mécanisme européen de stabilité (MES), signé à Bruxelles le 2 février 2012 et à l'Accord modifiant le Traité instituant le Mécanisme européen de stabilité, signé à Bruxelles le 27 janvier et le 8 février 2021

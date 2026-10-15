@@ -13,7 +13,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/20/2013029445/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2013. - Decreet houdende diverse maatregelen betreffende het onderwijs voor sociale promotie waarbij de sturingsorganen ervan worden bepaald en waarbij e-learning in haar onderwijsaanbod geïntegreerd wordt

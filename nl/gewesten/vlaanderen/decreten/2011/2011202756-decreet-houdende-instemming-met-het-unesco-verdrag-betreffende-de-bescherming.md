@@ -13,7 +13,7 @@ entry_into_force: 2011-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/06/2011202756/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2011. - Decreet houdende instemming met het UNESCO-verdrag betreffende de bescherming en de bevordering van de diverstiteit van cultuuruitingen, en de bijlage, opgemaakt in Parijs op 20 oktober 2005

@@ -12,7 +12,7 @@ published: 2003-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/03/2003029414/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2003. - Decreet tot wijziging van het decreet van 9 januari 2003 betreffende de doorzichtigheid, de autonomie en de controle in verband met de overheidsinstellingen, de maatschappijen voor schoolgebouwen en de maatschappijen voor vermogensbeheer die onder de Franse Gemeenschap ressorteren. (Vertaling).

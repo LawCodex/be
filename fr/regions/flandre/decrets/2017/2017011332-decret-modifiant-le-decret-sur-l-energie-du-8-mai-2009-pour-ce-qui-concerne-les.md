@@ -13,7 +13,7 @@ entry_into_force: 2017-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/17/2017011332/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2017. - Décret modifiant le Décret sur l'énergie du 8 mai 2009, pour ce qui concerne les performances énergétiques des bâtiments

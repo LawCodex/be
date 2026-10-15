@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/30/2016029344/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-03-2017 en tekstbijwerking tot 03-03-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2016. - Decreet tot wijziging van [artikel 3 van het decreet van 27 maart 2002 betreffende de sturing van het onderwijssysteem van de Franse Gemeenschap,] om de bestrijding van discriminatie tussen vrouwen en mannen en de bevordering van de gelijkheid tussen de geslachten als criteria voor de erkenning van de schoolboeken op te nemen &lt;DFG 2017-02-23/05 , art. 1, 002; Inwerkingtreding : 13-03-2017&gt;

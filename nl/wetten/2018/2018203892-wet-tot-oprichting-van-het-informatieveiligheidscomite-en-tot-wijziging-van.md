@@ -10,7 +10,7 @@ date: 2018-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/05/2018203892/justel"
 department: "Sociale Zekerheid - Financiën - Beleid en Ondersteuning - Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2018. - Wet tot oprichting van het informatieveiligheidscomité en tot wijziging van diverse wetten betreffende de uitvoering van verordening (EU) 2016/679 van 27 april 2016 van het Europees Parlement en de Raad betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG

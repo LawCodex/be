@@ -12,7 +12,7 @@ entry_into_force: 2002-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028134/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet tot wijziging van het decreet van 5 juli 1990 over steun en bijdragen van het Waalse Gewest aan onderzoek en technologie (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035499/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret portant assentiment à l'Accord de coopération du 27 février 2014 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création d'un comité de coordination et de facilitation pour l'octroi des autorisations pour des projets d'infrastructures énergétiques transeuropéennes, en exécution du Règlement (UE) n° 347/2013

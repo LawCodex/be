@@ -13,7 +13,7 @@ entry_into_force: 2013-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/14/2013035007/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2012. - Décret portant assentiment au Protocole facultatif à la Convention des Droits de l'Enfant relatif à une procédure de notification, adoptée à New York le 19 décembre 2011 et signée à Genève le 28 février 2012

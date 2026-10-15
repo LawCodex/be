@@ -13,7 +13,7 @@ entry_into_force: 2019-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/28/2019200642/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2019. - Décret portant assentiment à l'accord de coopération du 20 juillet 2017 entre la Communauté germanophone et la Région wallonne habilitant les comités d'acquisition wallons à réaliser des opérations patrimoniales pour le compte et au nom de la Communauté germanophone et des entités qui en dépendent

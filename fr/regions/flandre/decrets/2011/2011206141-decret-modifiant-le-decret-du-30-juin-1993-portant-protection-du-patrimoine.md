@@ -13,7 +13,7 @@ entry_into_force: 2011-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/18/2011206141/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2011. - Décret modifiant le décret du 30 juin 1993 portant protection du patrimoine archéologique, pour ce qui concerne les tâches de l'agence et du "Vlaams Instituut voor het Onroerend Erfgoed" (Institut flamand pour le Patrimoine immobilier) et abrogeant le propre patrimoine du "Vlaams Instituut voor het Onroerend Erfgoed"

@@ -12,7 +12,7 @@ published: 2026-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/16/2026006265/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2026. - Decreet tot wijziging van het Boswetboek, wat het in aanmerking nemen van sanitaire bosverschijnselen betreft

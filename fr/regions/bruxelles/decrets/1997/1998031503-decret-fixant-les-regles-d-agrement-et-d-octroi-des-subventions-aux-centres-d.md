@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/11/07/1998031503/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 20-01-1998 et mise à jour au 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 1997. - Décret fixant les règles d'agrément et d'octroi des subventions aux Centres d'action sociale globale.

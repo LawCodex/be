@@ -12,7 +12,7 @@ entry_into_force: 2008-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/30/2007015012/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2007. - Wet houdende instemming met de Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, gedaan te Brussel op 6 december 2002.

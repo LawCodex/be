@@ -12,7 +12,7 @@ entry_into_force: 2014-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/15/2013024436/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2013. - Wet houdende diverse bepalingen inzake landbouw

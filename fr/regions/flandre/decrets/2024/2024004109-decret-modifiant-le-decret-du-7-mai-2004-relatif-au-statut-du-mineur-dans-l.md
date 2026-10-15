@@ -13,7 +13,7 @@ entry_into_force: 2024-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024004109/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Décret modifiant le décret du 7 mai 2004 relatif au statut du mineur dans l'aide intégrale à la jeunesse et dans le cadre du décret sur le droit en matière de délinquance juvénile et modifiant le décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse

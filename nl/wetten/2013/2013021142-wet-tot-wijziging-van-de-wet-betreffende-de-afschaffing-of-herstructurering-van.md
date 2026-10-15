@@ -12,7 +12,7 @@ entry_into_force: 2013-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2013021142/justel"
 department: "Kanselarij van de Eerste Minister - Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Wet tot wijziging van de wet betreffende de afschaffing of herstructurering van instellingen van openbaar nut en andere overheidsdiensten, gecoördineerd op 13 maart 1991

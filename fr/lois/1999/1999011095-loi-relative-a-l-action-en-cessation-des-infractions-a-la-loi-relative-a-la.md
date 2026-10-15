@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999011095/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 30-04-1999 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - [Loi relative à l'action en cessation des infractions à la loi relative à la protection des consommateurs en matière de contrats d'utilisation de biens à temps partagé, de produits de vacances à long terme, de revente et d'échange] &lt;L 2011-08-13/18 , art. 2, 002; En vigueur : 26-09-2011&gt;

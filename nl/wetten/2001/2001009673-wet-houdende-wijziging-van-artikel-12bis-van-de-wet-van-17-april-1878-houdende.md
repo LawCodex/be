@@ -10,7 +10,7 @@ date: 2001-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/18/2001009673/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2001. - Wet houdende wijziging van artikel 12bis van de wet van 17 april 1878 houdende de Voorafgaande Titel van het Wetboek van strafvordering.

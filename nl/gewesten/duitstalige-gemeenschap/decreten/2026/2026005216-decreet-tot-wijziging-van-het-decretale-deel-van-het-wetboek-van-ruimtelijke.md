@@ -13,7 +13,7 @@ entry_into_force: 2026-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/22/2026005216/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2026. - Decreet tot wijziging van het decretale deel van het Wetboek van ruimtelijke ontwikkeling

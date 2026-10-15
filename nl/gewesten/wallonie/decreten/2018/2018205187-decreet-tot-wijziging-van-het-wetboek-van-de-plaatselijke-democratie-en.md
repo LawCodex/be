@@ -13,7 +13,7 @@ entry_into_force: 2018-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/04/2018205187/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OKTOBER 2018. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en decentralisatie met het oog op de hervorming van het toezicht op de lokale overheden

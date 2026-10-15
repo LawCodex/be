@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/07/1998003047/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 04-02-1998 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 1998. - Wet betreffende de structuur en de accijnstarieven op alcohol en alcoholhoudende dranken.

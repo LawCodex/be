@@ -13,7 +13,7 @@ entry_into_force: 1990-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1989/12/22/1990027222/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1989. - Decreet houdende goedkeuring van het akkoord tot instelling van de Subregionale Comités voor Arbeidsbemiddeling en Vorming, gesloten te Brussel op 24 november 1989, tussen de Franse Gemeenschapsexecutieve en de Waalse Gewestexecutieve.

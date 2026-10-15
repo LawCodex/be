@@ -10,7 +10,7 @@ date: 1997-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/26/1997003359/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 1997. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1997. - Sectie " Tewerkstelling en Arbeid ".

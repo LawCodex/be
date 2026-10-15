@@ -12,7 +12,7 @@ entry_into_force: 1996-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/21/1994007130/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1994. - Loi modifiant la loi du 14 janvier 1975 portant le règlement de discipline des forces armées et la loi du 11 juillet 1978 organisant les relations entre les autorités publiques et les syndicats du personnel militaire des forces terrestre, aérienne et navale et du service médical.

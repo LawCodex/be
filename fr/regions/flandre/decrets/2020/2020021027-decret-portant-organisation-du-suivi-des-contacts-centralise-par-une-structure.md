@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/29/2020021027/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2020 et mise à jour au 30-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2020. - Décret portant organisation [...] du suivi des contacts [centralisé] [par une structure de coopération de partenaires externes, du suivi des contacts local par les administrations locales ou les conseils des soins et portant organisation des équipes COVID-19] dans le cadre du COVID-19 (Intitulé modifié par DCFL 2020-12-18/04 , art. 7, 002; En vigueur : 01-07-2020)

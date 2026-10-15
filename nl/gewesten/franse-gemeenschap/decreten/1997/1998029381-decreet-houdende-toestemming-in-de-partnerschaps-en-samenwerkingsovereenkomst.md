@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/14/1998029381/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1997. - Decreet houdende toestemming in de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Moldavië, anderzijds, in de Bijlagen I, II, III, IV, V, in een Protocol, en in de Slotakte, gedaan te Brussel op 28 november 1994 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/06/2013029398/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2013. - Décret portant assentiment au Protocole facultatif à la Convention relative aux droits de l'enfant établissant une procédure de présentation de communications, adopté à New York le 19 décembre 2011

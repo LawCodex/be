@@ -12,7 +12,7 @@ entry_into_force: 2025-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/01/31/2025001228/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2025. - Loi portant modification de l'intitulé de la section 1re du chapitre IIbis et l'article 7undecies de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité dans le cadre du mécanisme de rémunération de capacité

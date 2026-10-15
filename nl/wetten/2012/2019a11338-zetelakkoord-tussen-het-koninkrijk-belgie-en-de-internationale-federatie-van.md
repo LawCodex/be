@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/06/29/2019A11338/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - Zetelakkoord tussen het Koninkrijk België en de Internationale Federatie van Rode Kruis- en Rode Halve Maanverenigingen

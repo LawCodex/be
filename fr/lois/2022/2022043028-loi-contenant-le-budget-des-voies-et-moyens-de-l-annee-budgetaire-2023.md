@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/26/2022043028/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2022 et mise à jour au 16-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2022. - Loi contenant le budget des Voies et Moyens de l'année budgétaire 2023

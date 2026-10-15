@@ -13,7 +13,7 @@ entry_into_force: 2020-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/03/2020205387/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2020. - Décret modifiant l'article 283 du Code wallon de l'Action sociale et de la Santé en vue d'actualiser les services et structures pouvant être agréés ou subventionnés par le Gouvernement dans la mesure où ils s'adressent particulièrement aux personnes handicapées

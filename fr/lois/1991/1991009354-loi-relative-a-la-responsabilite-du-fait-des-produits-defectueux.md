@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/02/25/1991009354/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2000 et mise à jour au 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1991. - Loi relative à la responsabilité du fait des produits défectueux.

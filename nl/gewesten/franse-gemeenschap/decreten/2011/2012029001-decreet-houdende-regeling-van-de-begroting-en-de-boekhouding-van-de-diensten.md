@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/20/2012029001/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-01-2012 en tekstbijwerking tot 07-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2011. - Decreet houdende regeling van de begroting en de boekhouding van de Diensten van de Regering van de Franse Gemeenschap

@@ -13,7 +13,7 @@ entry_into_force: 2008-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/31/2007027096/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2007. - Decreet betreffende de inspraak van het publiek inzake het leefmilieu (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 1998-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/04/16/1998016102/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1998. - Wet met betrekking tot de geschillen betreffende de betalingen aan het Begrotingsfonds voor de gezondheid en de kwaliteit van de dieren en de dierlijke producten.

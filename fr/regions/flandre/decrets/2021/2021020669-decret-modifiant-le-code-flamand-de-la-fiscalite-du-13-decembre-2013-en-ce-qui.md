@@ -13,7 +13,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/19/2021020669/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2021. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne la réduction tarifaire pour les legs et les dons sans but lucratif et l'introduction de l'héritage `d'ami'

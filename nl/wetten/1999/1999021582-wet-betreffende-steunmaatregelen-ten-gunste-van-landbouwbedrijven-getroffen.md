@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/03/1999021582/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 11-12-1999 en tekstbijwerking tot 30-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 1999. - Wet betreffende steunmaatregelen ten gunste van landbouwbedrijven getroffen door de dioxinecrisis -

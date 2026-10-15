@@ -12,7 +12,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/01/19/2021040420/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2021. - Loi modifiant diverses lois sur la navigation relatives à l'application des dispositions légales dans le domaine de la navigation

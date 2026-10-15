@@ -12,7 +12,7 @@ entry_into_force: 2002-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/22/2002022738/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AOUT 2002. - Loi visant à la reconnaissance légale des traitements de substitution et modifiant la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques.

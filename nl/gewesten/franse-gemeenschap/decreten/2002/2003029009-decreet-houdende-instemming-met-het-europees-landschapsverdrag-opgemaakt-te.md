@@ -13,7 +13,7 @@ entry_into_force: 2003-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2003029009/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende instemming met het Europees Landschapsverdrag, opgemaakt te Florence, op 20 oktober 2000 (VERTALING).

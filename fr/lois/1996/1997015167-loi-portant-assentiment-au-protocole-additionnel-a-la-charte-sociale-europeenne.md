@@ -12,7 +12,7 @@ entry_into_force: 1997-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/26/1997015167/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 1996. - Loi portant assentiment au Protocole additionnel à la Charte sociale européenne, et Annexe, faits à Strasbourg le 5 mai 1988.

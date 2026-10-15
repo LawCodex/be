@@ -13,7 +13,7 @@ entry_into_force: 2000-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/16/2000029131/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2000. - Décret portant confirmation des compétences terminales et savoirs requis en sciences économiques, sciences sociales et en éducation physique à l'issue de la section de transition.

@@ -13,7 +13,7 @@ entry_into_force: 2022-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004293/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot instemming met het zetelakkoord, met bijlage, tussen het Koninkrijk België en de "Intergovernmental Authority on Development", ondertekend te Brussel op 16 februari 2022

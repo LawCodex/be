@@ -13,7 +13,7 @@ entry_into_force: 2010-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/04/23/2010035358/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2010. - Décret sanctionnant l'arrêté du Gouvernement flamand du 16 octobre 2009 définissant les objectifs de développement de néerlandais pour primo-arrivants dans la classe d'accueil pour primo-arrivants allophones et modifiant certains objectifs finaux et objectifs de développement dans l'enseignement secondaire

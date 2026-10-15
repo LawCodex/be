@@ -13,7 +13,7 @@ entry_into_force: 2026-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026005947/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret portant une mesure transitoire dans le cadre de l'augmentation de la charge de certains enseignants

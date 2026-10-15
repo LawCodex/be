@@ -13,7 +13,7 @@ entry_into_force: 1996-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/02/1996035499/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1996. - Décret sanctionnant l'arrêté du Gouvernement flamand du 31 janvier 1996 modifiant le décret du 13 juillet 1994 relatif aux pensions de retraite allouées aux agents définitifs de la " Nederlandse Radio- en Televisieuitzendingen in België, Omroep van de Vlaamse Gemeenschap " et relatif aux pensions de survie allouées aux ayants droit de ces agents (TRADUCTION).

@@ -12,7 +12,7 @@ published: 2012-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/12/2012029323/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Decreet waarbij de cursussen geneeskunde en tandheelkunde worden opgenomen in het stelsel dat werd ingesteld door het decreet van 16 juni 2006 tot regeling van het aantal studenten in sommige cursussen van de eerste cyclus van het hoger onderwijs

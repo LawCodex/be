@@ -13,7 +13,7 @@ entry_into_force: 2012-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/07/23/2012031654/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2012. - Ordonnance portant assentiment à : l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Indonésie, d'autre part, et à l'Acte final, faits à Djakarta le 9 novembre 2009

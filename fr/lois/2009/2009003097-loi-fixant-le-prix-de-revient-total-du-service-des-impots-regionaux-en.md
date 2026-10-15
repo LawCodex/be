@@ -12,7 +12,7 @@ entry_into_force: 2009-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/08/2009003097/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2009. - Loi fixant le prix de revient total du service des impôts régionaux, en exécution de l'article 68ter de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/11/30/2017031697/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 20-04-2018 en tekstbijwerking tot 15-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2017. - Ordonnantie tot hervorming van het Brussels Wetboek van Ruimtelijke Ordening en van de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen en tot wijziging van aanverwante wetgevingen

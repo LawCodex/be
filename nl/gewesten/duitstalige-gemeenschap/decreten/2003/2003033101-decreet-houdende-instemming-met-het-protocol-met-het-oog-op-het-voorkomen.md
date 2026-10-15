@@ -13,7 +13,7 @@ entry_into_force: 2003-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/13/2003033101/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2003. - Decreet houdende instemming met het Protocol met het oog op het voorkomen, onderdrukken en bestraffen van de mensenhandel en in het bijzonder de handel in vrouwen en kinderen, in aanvulling bij de Overeenkomst van de Verenigde Naties ter bestrijding van de transnationale georganiseerde misdaad, gedaan te New York op 15 november 2002. (Vertaling).

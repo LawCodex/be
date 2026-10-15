@@ -13,7 +13,7 @@ entry_into_force: 1996-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/11/20/1996033119/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 1995. - Décret modifiant l'article 5 de la loi du 6 juillet 1970 sur l'enseignement spécial et intégré (TRADUCTION).

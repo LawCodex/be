@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/22/2000000023/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1999. - Loi modifiant l'article 105 de la loi provinciale et abrogeant l'article 6 de la loi du 4 mai 1999 modifiant la loi provinciale et la nouvelle loi communale.

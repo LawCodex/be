@@ -17,7 +17,7 @@ justel_notes:
   - "pour la Région de Bruxelles-capitale, voir 1988-06-24/35 "
   - "MISE A JOUR PROVISOIRE AU 06-01-2001"
   - "Consultation des versions antérieures à partir du 02-10-2023 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1988. - NOUVELLE LOI COMMUNALE

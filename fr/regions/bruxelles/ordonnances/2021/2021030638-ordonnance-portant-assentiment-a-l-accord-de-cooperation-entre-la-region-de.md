@@ -13,7 +13,7 @@ entry_into_force: 2021-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/03/11/2021030638/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2021. - Ordonnance portant assentiment à l'accord de coopération entre la Région de Bruxelles-Capitale et la Commission communautaire commune portant sur les services en matière de budget, finances, comptabilité et contrôle

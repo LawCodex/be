@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/13/1995009497/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieur à partir du 10-06-1995 et mis à jour au 23-12-1995"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1995. - Loi modifiant la procédure de naturalisation et le Code de la nationalité belge.

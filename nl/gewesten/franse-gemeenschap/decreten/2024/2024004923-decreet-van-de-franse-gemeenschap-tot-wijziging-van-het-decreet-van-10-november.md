@@ -13,7 +13,7 @@ entry_into_force: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/18/2024004923/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Decreet van de Franse Gemeenschap tot wijziging van het decreet van 10 november 2011 betreffende de ondersteuning van de filmsector en de audiovisuele creatie

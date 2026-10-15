@@ -13,7 +13,7 @@ entry_into_force: 2022-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/25/2022032299/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2022. - Décret modifiant le décret du 14 juillet 2021 relatif à la capacité de placement de la Communauté française pour assurer la mise en oeuvre et le suivi de la surveillance électronique, et au programme-horaire des justiciables condamnés a une peine privative de liberté de trois ans ou moins

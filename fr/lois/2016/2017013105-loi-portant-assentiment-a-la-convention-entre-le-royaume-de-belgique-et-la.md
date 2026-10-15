@@ -12,7 +12,7 @@ entry_into_force: 2017-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/22/2017013105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2016. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République orientale de l'Uruguay tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune et à prévenir la fraude fiscale, et au Protocole, faits à Montevideo le 23 août 2013

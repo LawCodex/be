@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206577/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende, voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet, opheffing van het decreet van 19 december 2002 betreffende de cheques voor het volgen van een opleiding met het oog op het opstarten van een onderneming in het kader van de toekenning van steun, d.m.v. een geïntegreerde portefeuille van steun in het Waalse Gewest, aan de projectdragers en aan kleine en middelgrote ondernemingen om diensten te betalen die het ondernemerschap of de groei bevorderen, en die een databank van authentieke bronnen vormt i.v.m. deze geïntegreerde portefeuille

@@ -13,7 +13,7 @@ entry_into_force: 2012-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/04/19/2012031211/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Ordonnance modifiant les articles 2, 5 et 6 de l'ordonnance du 18 décembre 2008 relative à l'accès des chiens d'assistance aux lieux ouverts au public

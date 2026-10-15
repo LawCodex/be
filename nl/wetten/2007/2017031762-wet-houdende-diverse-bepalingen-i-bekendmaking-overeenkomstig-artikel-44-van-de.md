@@ -12,7 +12,7 @@ entry_into_force: 2017-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/12/21/2017031762/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Wet houdende diverse bepalingen (I). - Bekendmaking overeenkomstig artikel 44 van de geïndexeerde bedragen van de heffing

@@ -13,7 +13,7 @@ entry_into_force: 2011-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/03/2011200075/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2010. - Decreet houdende wijziging van het decreet van 18 juli 2008 houdende het voeren van een Vlaams jeugd- en kinderrechtenbeleid

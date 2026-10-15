@@ -17,7 +17,7 @@ department: "Vlaamse Overheid"
 justel_notes:
   - "Opschrift vervangen bij DVR 2012-07-13/45 , art. 45, 002; Inwerkingtreding : 01-10-2013, zoals volgt : \" Bijzonder decreet betreffende de Hogere Zeevaartschool \""
   - "Raadpleging van vroegere versies vanaf 29-04-2009 en tekstbijwerking tot 17-09-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2009. - Bijzonder decreet tot inrichting van de Vlaamse autonome hogeschool Hogere Zeevaartschool en tot overdracht van de inrichtende macht van het hoger zeevaartonderwijs van de Vlaamse Gemeenschap

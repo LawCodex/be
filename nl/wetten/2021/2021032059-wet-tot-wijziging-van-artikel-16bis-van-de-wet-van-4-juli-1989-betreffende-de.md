@@ -10,7 +10,7 @@ date: 2021-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/04/2021032059/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2021. - Wet tot wijziging van artikel 16bis van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van de Kamer van volksvertegenwoordigers, de financiering en de open boekhouding van de politieke partijen, wat de schenkers betreft

@@ -13,7 +13,7 @@ entry_into_force: 1997-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/23/1997027570/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1997. - Décret portant assentiment à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et le Royaume du Maroc, d'autre part, aux Annexes 1, 2, 3, 4, 5, 6, 7, aux Protocoles 1, 2, 3, 4, 5, et à l'Acte final, faits à Bruxelles le 26 février 1996.

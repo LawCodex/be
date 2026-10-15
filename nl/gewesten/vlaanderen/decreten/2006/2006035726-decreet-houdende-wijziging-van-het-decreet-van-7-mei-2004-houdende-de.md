@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/21/2006035726/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-05-2006 en tekstbijwerking tot 19-06-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2006. - Decreet houdende wijziging van het decreet van 7 mei 2004 houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap "Agentschap voor Geografische Informatie Vlaanderen" en houdende wijziging van diverse decreten.

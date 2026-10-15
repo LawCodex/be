@@ -12,7 +12,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/27/2003007118/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2003. - Wet houdende wijziging van de wet van 19 augustus 1947 tot oprichting van het Nationaal Gedenkteken van Breendonk.

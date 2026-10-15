@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/27/2003029190/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-04-2003 en tekstbijwerking tot 10-02-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Decreet tot oprichting van een "Ecole d'Administration publique" (School voor overheidsbestuur) van de Franse Gemeenschap met afzonderlijk beheer en tot diverse wijzigingen met het oog op de invoering van een mandatenstelsel voor de ambtenaren-generaal in de Diensten van de Franse Gemeenschapsregering, sommige instellingen van openbaar nut die ervan afhangen en in de Universiteiten die worden ingericht door de Franse Gemeenschap (VERTALING).

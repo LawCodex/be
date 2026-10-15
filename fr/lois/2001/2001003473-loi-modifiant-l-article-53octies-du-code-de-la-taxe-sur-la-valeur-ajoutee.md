@@ -12,7 +12,7 @@ entry_into_force: 2001-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/05/2001003473/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBRE 2001. - Loi modifiant l'article 53octies du Code de la taxe sur la valeur ajoutée.

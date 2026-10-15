@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/13/2009201592/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2009. - Decreet houdende instemming met het verdrag nr. 128 betreffende uitkeringen bij invaliditeit en ouderdom en aan nagelaten betrekkingen, en de bijlage, aangenomen door de Internationale Arbeidsconferentie tijdens haar eenenvijftigste zitting te Genève op 29 juni 1967

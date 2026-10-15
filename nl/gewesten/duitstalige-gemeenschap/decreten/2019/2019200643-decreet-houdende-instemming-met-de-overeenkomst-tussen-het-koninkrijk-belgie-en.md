@@ -13,7 +13,7 @@ entry_into_force: 2019-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/28/2019200643/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2019. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Argentinië inzake het verrichten van betaalde werkzaamheden door de gezinsleden ten laste van het personeel van de diplomatieke zendingen en consulaire posten, gedaan te Brussel op 20 april 2017

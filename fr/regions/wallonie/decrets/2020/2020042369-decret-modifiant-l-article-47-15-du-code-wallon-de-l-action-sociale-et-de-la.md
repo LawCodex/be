@@ -13,7 +13,7 @@ entry_into_force: 2020-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/16/2020042369/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2020. - Décret modifiant l'article 47/15 du Code wallon de l'Action sociale et de la Santé et insérant un article 47/15bis en vue de prendre des mesures relatives à la crise sanitaire liée à la COVID-19

@@ -13,7 +13,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/11/16/2000033001/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 1999. - Decreet tot eerste aanpassing van de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 1999. (Vertaling).

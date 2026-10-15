@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031315/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment à la Convention entre le Royaume de Belgique et l'Ile de Man tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 16 juillet 2009

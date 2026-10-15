@@ -13,7 +13,7 @@ entry_into_force: 2022-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/06/2022015320/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2022. - Ordonnance ajustant le Budget général des Dépenses de la Commission communautaire commune pour l'année budgétaire 2022

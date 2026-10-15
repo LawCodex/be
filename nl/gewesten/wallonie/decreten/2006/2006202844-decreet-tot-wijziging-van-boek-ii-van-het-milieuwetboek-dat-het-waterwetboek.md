@@ -11,7 +11,7 @@ date: 2006-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/19/2006202844/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2006. - Decreet tot wijziging van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, wat betreft de "Société wallonne des eaux" (Waalse watermaatschappij) (VERTALING).

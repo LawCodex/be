@@ -12,7 +12,7 @@ entry_into_force: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/22/2019012159/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2019. - Wet tot wijziging van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen

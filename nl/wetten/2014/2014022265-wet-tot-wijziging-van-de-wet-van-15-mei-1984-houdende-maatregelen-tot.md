@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014022265/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet tot wijziging van de wet van 15 mei 1984 houdende maatregelen tot harmonisering in de pensioenregelingen, wat het minimumpensioen voor zelfstandigen betreft

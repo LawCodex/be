@@ -12,7 +12,7 @@ entry_into_force: 2021-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/25/2021041777/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2021. - Wet tot bekrachtiging van het koninklijk besluit van 12 juni 2020 tot wijziging van het koninklijk besluit van 4 oktober 2006 tot bepaling van de berekening- en inningwijze van de bijdrage voor APETRA en tot opheffing van het artikel 1, § 4, van het ministerieel besluit van 27 december 1978 betreffende de inschrijving van de personen die optreden in de bevoorradingsketen van het land en van de verbruikers in aardolie en aardolieproducten

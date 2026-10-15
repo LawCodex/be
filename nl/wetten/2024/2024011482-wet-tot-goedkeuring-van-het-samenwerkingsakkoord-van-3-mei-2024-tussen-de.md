@@ -12,7 +12,7 @@ entry_into_force: 2025-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/20/2024011482/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Wet tot goedkeuring van het samenwerkingsakkoord van 3 mei 2024 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de gedeeltelijke gecoördineerde uitvoering van Verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 over een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG

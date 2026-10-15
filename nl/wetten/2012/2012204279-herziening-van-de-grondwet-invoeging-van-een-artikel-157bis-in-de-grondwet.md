@@ -12,7 +12,7 @@ entry_into_force: 2014-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012204279/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Herziening van de Grondwet. - Invoeging van een artikel 157bis in de Grondwet

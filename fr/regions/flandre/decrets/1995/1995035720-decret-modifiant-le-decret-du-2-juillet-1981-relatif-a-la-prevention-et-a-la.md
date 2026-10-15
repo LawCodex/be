@@ -13,7 +13,7 @@ entry_into_force: 1995-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035720/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret modifiant le décret du 2 juillet 1981 relatif à la prévention et à la gestion des déchets (TRADUCTION)

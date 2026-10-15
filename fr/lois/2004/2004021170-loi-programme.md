@@ -16,7 +16,7 @@ department: "Chancellerie du Premier Ministre"
 justel_notes:
   - "art. 419 modifié dans le futur par L 2014-05-12/17 , art. 344, ; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 31-12-2004 et mise à jour au 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2004. - Loi-programme.

@@ -13,7 +13,7 @@ entry_into_force: 2009-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/23/2009201429/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2009. - Décret portant assentiment au Protocole d'amendement à la Convention portant création du Centre européen pour les prévisions météorologiques à moyen terme ainsi qu'au Protocole sur les privilèges et immunités du Centre européen pour les prévisions météorologiques à moyen terme, signés à Bruxelles, le 11 octobre 1973, adopté le 22 avril 2005

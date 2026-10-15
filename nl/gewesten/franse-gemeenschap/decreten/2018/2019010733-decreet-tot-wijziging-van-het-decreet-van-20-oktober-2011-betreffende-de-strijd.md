@@ -12,7 +12,7 @@ published: 2019-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/14/2019010733/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2018. - Decreet tot wijziging van het decreet van 20 oktober 2011 betreffende de strijd tegen doping en tot wijziging van het decreet van 10 mei 2013 tot instelling van een procedure voor de erkenning van de kwaliteitsfitnesszalen

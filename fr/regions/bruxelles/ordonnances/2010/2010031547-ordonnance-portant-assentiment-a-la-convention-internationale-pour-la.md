@@ -13,7 +13,7 @@ entry_into_force: 2010-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/11/25/2010031547/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2010. - Ordonnance portant assentiment à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées, adoptée à New York le 20 décembre 2006

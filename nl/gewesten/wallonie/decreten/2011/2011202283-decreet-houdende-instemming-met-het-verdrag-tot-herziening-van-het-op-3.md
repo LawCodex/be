@@ -13,7 +13,7 @@ entry_into_force: 2011-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/05/2011202283/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2011. - Decreet houdende instemming met het Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de economische Benelux Unie, het Protocol inzake de Voorrechten en Immuniteiten van de Benelux Unie en de Verklaring, ondertekend te Den Haag op 17 juni 2008

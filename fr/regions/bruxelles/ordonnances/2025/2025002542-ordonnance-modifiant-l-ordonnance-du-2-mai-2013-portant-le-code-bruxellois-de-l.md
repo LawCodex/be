@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/03/21/2025002542/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "suspension de l'ordonnance de la Région de Bruxelles-Capitale du 21 mars 2025 par ACC 2025-09-11/02 , art. M, En vigueur : 16-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2025. - Ordonnance modifiant l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie en vue d'autoriser, jusqu'au 31 décembre 2026, l'accès de certains véhicules à la zone de basses émissions

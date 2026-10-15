@@ -13,7 +13,7 @@ entry_into_force: 2019-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/09/23/2019204526/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2019. - Decreet houdende instemming met de Strategische Partnerschapsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en Japan, anderzijds, gedaan te Tokio op 17 juli 2018

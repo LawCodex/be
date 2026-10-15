@@ -13,7 +13,7 @@ entry_into_force: 2020-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/03/17/2020040687/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2020. - Decreet tot toekenning van bijzondere machten aan de Waalse Regering in het kader van de gezondheidscrisis Covid-19

@@ -13,7 +13,7 @@ entry_into_force: 2008-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202217/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret relatif à l'entrée en vigueur des articles 1er à 6 du décret-programme en matière de fiscalité wallonne du 18 décembre 2008

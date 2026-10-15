@@ -13,7 +13,7 @@ entry_into_force: 2023-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/07/06/2023031465/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2023. - Ordonnantie houdende diverse bepalingen met betrekking tot de fiscale en niet-fiscale invordering door de gewestelijke fiscale administratie

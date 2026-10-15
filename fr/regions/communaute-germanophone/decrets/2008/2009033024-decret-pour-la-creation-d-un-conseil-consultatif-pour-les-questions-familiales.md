@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/17/2009033024/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 14-04-2016 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2008. - Décret pour la création d'un conseil consultatif pour les questions familiales et générationnelles

@@ -10,7 +10,7 @@ date: 2012-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/15/2012014455/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AUGUSTUS 2012. - Wet tot wijziging van artikel 6.3 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg teneinde te voorzien in een afwijking op het algemene voorrangsbeginsel voor de verkeerslichten, in geval van verkeersborden die voorrang verlenen aan de fietsers

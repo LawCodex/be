@@ -12,7 +12,7 @@ entry_into_force: 2014-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014203485/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet tot wijziging van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers wat het toegankelijk maken van vrijwilligerswerk voor vreemdelingen betreft

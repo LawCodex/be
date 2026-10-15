@@ -12,7 +12,7 @@ entry_into_force: 2012-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/06/2012009087/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2012. - Wet tot wijziging van de wet van 17 april 1878 houdende de voorafgaande titel van het Wetboek van strafvordering voor wat betreft de vervolging van bepaalde in het buitenland gepleegde misdrijven

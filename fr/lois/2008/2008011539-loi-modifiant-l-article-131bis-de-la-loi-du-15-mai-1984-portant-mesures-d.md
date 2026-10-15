@@ -12,7 +12,7 @@ entry_into_force: 2008-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/11/28/2008011539/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2008. - Loi modifiant l'article 131bis de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions.

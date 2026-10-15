@@ -12,7 +12,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/08/11/2017020579/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AOUT 2017. - Loi modifiante la loi du 5 février 2007 relative à la sûreté maritime, la loi du 2 juin 2012 relative à l'organisme fédéral d'enquête sur les accidents de navigation et la loi organique du 27 décembre 1990 créant des fonds budgétaires

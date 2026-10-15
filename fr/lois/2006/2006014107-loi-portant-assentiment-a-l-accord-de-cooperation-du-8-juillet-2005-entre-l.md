@@ -12,7 +12,7 @@ entry_into_force: 2006-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/04/04/2006014107/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2006. - Loi portant assentiment à l'Accord de coopération du 8 juillet 2005 entre l'Etat fédéral et la Région flamande concernant la création d'une structure de Garde côtière et la coopération au sein de celle-ci.

@@ -12,7 +12,7 @@ entry_into_force: 2021-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/27/2021031603/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2021. - Wet houdende diverse financiële bepalingen

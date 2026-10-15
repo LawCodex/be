@@ -13,7 +13,7 @@ entry_into_force: 1998-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998035283/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Décret portant confirmation de dispositions obligatoires de l'arrêté du Gouvernement flamand du 23 septembre 1997 portant fixation définitive du Schéma de Structure d'Aménagement de la Flandre (TRADUCTION).

@@ -9,7 +9,7 @@ language: nl
 date: 1953-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/06/20/1953062002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 1953. - Wet tot wijziging van de rechtspleging in verbreking.

@@ -13,7 +13,7 @@ entry_into_force: 2003-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/20/2003029119/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2003. - Décret portant assentiment au Protocole facultatif à la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, fait à New York, le 6 octobre 1999.

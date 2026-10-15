@@ -13,7 +13,7 @@ entry_into_force: 2003-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/28/2003035286/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2003. - Décret modifiant le décret du 17 juillet 2000 portant création d'un " Vlaams Instituut voor Wetenschappelijk en Technologisch Aspectenonderzoek " (Institut flamand de recherche sur les aspects scientifiques et technologiques) (TRADUCTION).

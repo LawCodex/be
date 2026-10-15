@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/09/15/2013002044/justel"
 department: "Personeel en Organisatie"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-2019 en tekstbijwerking tot 23-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBER 2013. - Wet betreffende de melding van een veronderstelde integriteitsschending in de federale administratieve overheden door haar personeelsleden

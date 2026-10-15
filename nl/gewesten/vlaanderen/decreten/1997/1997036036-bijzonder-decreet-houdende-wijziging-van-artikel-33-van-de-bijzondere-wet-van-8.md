@@ -12,7 +12,7 @@ published: 1997-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997036036/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - [Bijzonder decreet houdende wijziging van artikel 33 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.] (ERR. B.St. 06-09-1997 p. 23164).

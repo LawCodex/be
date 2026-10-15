@@ -12,7 +12,7 @@ entry_into_force: 2024-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/09/2024003475/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2024. - Wet tot wijziging van de wet van 22 december 2023 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2024

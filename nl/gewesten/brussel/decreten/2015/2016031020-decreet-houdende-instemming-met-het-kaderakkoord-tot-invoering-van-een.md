@@ -13,7 +13,7 @@ entry_into_force: 2016-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/02/2016031020/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2015. - Decreet houdende instemming met het Kaderakkoord tot invoering van een partnership tussen de Europese Unie en haar lidstaten enerzijds en de Republiek Korea anderzijds, aangenomen in Brussel op 10 mei 2010

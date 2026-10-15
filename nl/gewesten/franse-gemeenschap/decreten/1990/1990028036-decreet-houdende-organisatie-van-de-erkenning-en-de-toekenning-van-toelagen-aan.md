@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/07/12/1990028036/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-08-1990 en tekstbijwerking tot 03-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1990. - Decreet houdende organisatie van de erkenning en de toekenning van toelagen aan de diensten voor vroegtijdige hulpverlening aan gehandicapte kinderen.

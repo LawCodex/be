@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/17/2005011439/justel"
 department: "Politique Scientifique"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2005 et mise à jour au 15-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2005. - Loi relative aux activités de lancement, d'opération de vol ou de guidage d'objets spatiaux

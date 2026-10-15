@@ -13,7 +13,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024005330/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet tot wijziging van het Gerechtelijk Wetboek, de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het Energiedecreet van 8 mei 2009, wat betreft netbeheer en energie-efficiëntie

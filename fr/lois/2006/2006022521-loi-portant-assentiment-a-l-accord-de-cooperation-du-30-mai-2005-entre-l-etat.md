@@ -12,7 +12,7 @@ entry_into_force: 2006-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/10/2006022521/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2006. - Loi portant assentiment à l'Accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle.

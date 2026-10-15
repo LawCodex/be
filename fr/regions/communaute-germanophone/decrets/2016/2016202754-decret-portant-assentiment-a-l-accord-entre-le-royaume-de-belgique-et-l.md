@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/25/2016202754/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2016. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et l'Institut européen des Forêts concernant les privilèges et immunités du Bureau de Liaison de l'Institut européen des Forêts, signé à Bruxelles le 9 octobre 2013

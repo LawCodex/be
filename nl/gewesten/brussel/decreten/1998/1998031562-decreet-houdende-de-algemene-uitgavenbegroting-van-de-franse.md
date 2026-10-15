@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/27/1998031562/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-02-1999 en tekstbijwerking tot 12-07-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1998. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1999. (Vertaling)

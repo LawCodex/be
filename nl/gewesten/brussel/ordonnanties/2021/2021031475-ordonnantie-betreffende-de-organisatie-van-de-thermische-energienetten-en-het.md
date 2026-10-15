@@ -13,7 +13,7 @@ entry_into_force: 2021-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/05/06/2021031475/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2021. - Ordonnantie betreffende de organisatie van de thermische energienetten en het meten van het verbruik van thermische energie in het Brussels Hoofdstedelijk Gewest

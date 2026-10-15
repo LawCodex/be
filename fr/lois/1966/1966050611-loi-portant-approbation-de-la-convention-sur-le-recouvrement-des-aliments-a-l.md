@@ -11,7 +11,7 @@ published: 1966-07-30
 entry_into_force: 1966-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/05/06/1966050611/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1966. - Loi Portant approbation de la convention sur le recouvrement des aliments à l'étranger, faite à New York, le 20 juin 1956.

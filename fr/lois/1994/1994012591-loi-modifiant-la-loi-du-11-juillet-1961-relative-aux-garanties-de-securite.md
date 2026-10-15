@@ -12,7 +12,7 @@ entry_into_force: 1992-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/07/1994012591/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1994. - Loi modifiant la loi du 11 juillet 1961 relative aux garanties de sécurité indispensables que doivent présenter les machines, les parties de machines, le matériel, les outils, les appareils et les récipients.

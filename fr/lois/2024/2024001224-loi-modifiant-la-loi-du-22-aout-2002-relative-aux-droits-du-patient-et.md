@@ -12,7 +12,7 @@ entry_into_force: 2024-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/06/2024001224/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2024. - Loi modifiant la loi du 22 août 2002 relative aux droits du patient et modifiant les dispositions en matière de droits du patient dans d'autres lois en matière de santé

@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/18/2018012517/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2018. - Décret modifiant le décret du 3 avril 2009 réglant l'octroi de subventions pour le développement, la coordination et la promotion de l'offre sportive des services aux étudiants des universités et des instituts supérieurs flamands et pour l'agrément et le subventionnement d'une association coordinatrice sportive flamande des étudiants

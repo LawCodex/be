@@ -12,7 +12,7 @@ published: 2025-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/18/2025005896/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Decreet tot wijziging van artikel 2 van het decreet van 23 december 2022 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding, wat de aanpassing aan de omvorming van het zevende leerjaar tot een beroepskwalificatie betreft

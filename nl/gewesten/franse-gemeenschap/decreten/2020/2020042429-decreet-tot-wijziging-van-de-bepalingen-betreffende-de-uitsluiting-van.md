@@ -13,7 +13,7 @@ entry_into_force: 2020-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/17/2020042429/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Decreet tot wijziging van de bepalingen betreffende de uitsluiting van leerlingen en de weigering tot herinschrijving in het leerplichtonderwijs

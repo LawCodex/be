@@ -13,7 +13,7 @@ entry_into_force: 2016-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/18/2016036618/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2016. - Décret sanctionnant l'arrêté du Gouvernement flamand du 18 mars 2016 portant exécution de l'article 13 du décret du 15 janvier 2016 portant diverses mesures relatives à la dissolution de l'agence autonomisée externe de droit public " Agentschap voor Geografische Informatie Vlaanderen " et à l'établissement du " Eigen Vermogen Informatie Vlaanderen "

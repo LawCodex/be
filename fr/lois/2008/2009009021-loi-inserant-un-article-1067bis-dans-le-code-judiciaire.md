@@ -12,7 +12,7 @@ entry_into_force: 2009-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/09/2009009021/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2008. - Loi insérant un article 1067bis dans le Code judiciaire.

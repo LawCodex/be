@@ -12,7 +12,7 @@ entry_into_force: 2000-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/14/2000000330/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2000. - Wet tot wijziging van de provinciewet.

@@ -12,7 +12,7 @@ entry_into_force: 1998-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/06/1998014124/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1998. - Loi modifiant la loi du 30 juillet 1979 relative aux radiocommunications.

@@ -12,7 +12,7 @@ entry_into_force: 2013-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/14/2013009031/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2012. - Wet tot wijziging van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten met het oog op de verbetering van de aanpak van seksueel misbruik en feiten van pedofilie binnen een gezagsrelatie

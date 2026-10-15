@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/08/2018010323/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2017. - Décret modifiant le décret du 30 avril 2009 relatif à l'enseignement secondaire après secondaire et l'enseignement supérieur professionnel HBO 5 et du Code de l'Enseignement supérieur du 11 octobre 2013, en ce qui concerne l'enseignement supérieur

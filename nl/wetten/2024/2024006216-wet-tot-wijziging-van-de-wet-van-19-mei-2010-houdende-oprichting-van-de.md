@@ -12,7 +12,7 @@ entry_into_force: 2024-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/25/2024006216/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2024. - Wet tot wijziging van de wet van 19 mei 2010 houdende oprichting van de kruispuntbank van de voertuigen

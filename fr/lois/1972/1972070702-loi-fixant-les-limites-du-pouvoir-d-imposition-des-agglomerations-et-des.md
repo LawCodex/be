@@ -11,7 +11,7 @@ published: 1972-07-26
 entry_into_force: 1973-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1972/07/07/1972070702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1972. - Loi fixant les limites du pouvoir d'imposition des agglomérations et des fédérations de communes.

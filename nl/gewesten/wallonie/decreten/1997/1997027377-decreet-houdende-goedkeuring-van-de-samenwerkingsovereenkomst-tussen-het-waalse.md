@@ -13,7 +13,7 @@ entry_into_force: 1997-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/26/1997027377/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1997. - Decreet houdende goedkeuring van de samenwerkingsovereenkomst tussen het Waalse Gewest en het Vlaamse Gewest inzake de grondwaterlaag in de kolenkalk in het gebied van Doornik (VERTALING).

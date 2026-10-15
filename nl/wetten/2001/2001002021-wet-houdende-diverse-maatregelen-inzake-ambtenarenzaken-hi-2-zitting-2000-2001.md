@@ -12,7 +12,7 @@ entry_into_force: 2001-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/26/2001002021/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2001. - Wet houdende diverse maatregelen inzake ambtenarenzaken.HI:??2,Zitting 2000-2001 : Stukken van de Kamer van volksvertegenwoordigers. Doc. 50-965 : 9651/1 : Wetsontwerp. - 965/2 : Amendement. - 965/3 : Amendementen. - 965/4 : Advies van de Raad van State. - 965/5 : Amendementen. - 965/6 : Verslag. - 965/7 : Aangenomen tekst door de Commissie. - 965/8 : Aangenomen tekst in plenaire zitting en overgezonden aan de Senaat. Zitting 2000-2001 : Stukken van de Senaat. Doc. 2-650 : 2-650/1 : Ontwerp overgezonden door de Kamer van volksvertegenwoordigers. - 2-650/2 : Amendementen. - 2-650/3 : Verslag. - 2-650/4 : Aangenomen tekst door de Commissie. - 2-650/5 : Amendementen. - 2-650/6 : Beslissing om niet te amenderen.

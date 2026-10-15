@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/13/2005031283/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 02-09-2005 et mise à jour au 24-01-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2004. - Décret relatif aux subventions pour l'achat, la construction, la rénovation, l'aménagement, l'équipement, l'extension et l'ameublement de certains centres, services, maisons, organismes ou initiatives d'habitations protégées relevant de la politique de l'action sociale, de la famille et de la santé. (Erratum, MB 27-10-2005, p. 46820)

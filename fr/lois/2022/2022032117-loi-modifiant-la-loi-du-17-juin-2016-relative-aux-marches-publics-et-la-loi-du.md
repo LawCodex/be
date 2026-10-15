@@ -12,7 +12,7 @@ entry_into_force: 2022-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/18/2022032117/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2022. - Loi modifiant la loi du 17 juin 2016 relative aux marchés publics et la loi du 17 juin 2016 relative aux contrats de concession

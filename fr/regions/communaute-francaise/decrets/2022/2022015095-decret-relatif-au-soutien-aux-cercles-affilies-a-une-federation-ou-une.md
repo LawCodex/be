@@ -13,7 +13,7 @@ entry_into_force: 2022-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/23/2022015095/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Décret relatif au soutien aux cercles affiliés à une fédération ou une association sportive reconnue par la Communauté française

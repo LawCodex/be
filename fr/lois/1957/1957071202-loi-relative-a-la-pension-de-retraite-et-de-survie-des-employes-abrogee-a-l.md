@@ -13,7 +13,7 @@ last_amended: 2016-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1957/07/12/1957071202/justel"
 justel_note: "Consultation des versions antérieures à partir du 14-02-1981 et mise à jour au 23-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1957. - Loi relative à la pension de retraite et de survie des employés. (Abrogée à l'exception des art. 14bis, 20, 22, 25, et 28, par ARN50 du 24-10-1967, art. 75, § 3, 4°, mais continue de régir les pensions prenant cours effectivement et pour la première fois avant le 1-1-1968)

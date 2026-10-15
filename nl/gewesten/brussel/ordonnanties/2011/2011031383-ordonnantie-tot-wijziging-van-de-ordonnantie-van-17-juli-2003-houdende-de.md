@@ -13,7 +13,7 @@ entry_into_force: 2011-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/07/20/2011031383/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Ordonnantie tot wijziging van de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode en teneinde het sociale huisvestingsbeleid te omschrijven

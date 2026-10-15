@@ -12,7 +12,7 @@ entry_into_force: 2022-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/06/2022032233/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2022. - Wet houdende eindregeling van de begrotingen van de instellingen van openbaar nut van het jaar 2016

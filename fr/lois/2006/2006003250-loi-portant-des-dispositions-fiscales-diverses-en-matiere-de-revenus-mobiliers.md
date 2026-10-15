@@ -12,7 +12,7 @@ entry_into_force: 2001-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/04/25/2006003250/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2006. - Loi portant des dispositions fiscales diverses en matière de revenus mobiliers.

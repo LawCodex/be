@@ -11,7 +11,7 @@ published: 1948-06-13
 entry_into_force: 1948-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1948/06/07/1948060702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 1948. - WET tot wijziging van artikel 123ter van het Wetboek van Strafrecht.

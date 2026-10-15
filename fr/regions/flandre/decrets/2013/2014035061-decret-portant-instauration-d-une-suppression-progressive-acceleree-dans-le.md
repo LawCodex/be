@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/20/2014035061/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2013. - Décret portant instauration d'une suppression progressive accélérée dans le précompte immobilier du revenu cadastral imposable de matériel et d'outillage suite aux nouveaux investissements

@@ -12,7 +12,7 @@ entry_into_force: 2007-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/17/2009003258/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2009. - Loi modifiant, en ce qui concerne les contrats d'assurance maladie, la loi du 25 juin 1992 sur le contrat d'assurance terrestre et la loi du 20 juillet 2007 modifiant, en ce qui concerne les contrats privés d'assurance maladie, la loi du 25 juin 1992 sur le contrat d'assurance terrestre

@@ -12,7 +12,7 @@ entry_into_force: 2023-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/22/2023010002/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2022. - Wet betreffende het Europees burgerinitiatief in de zin van de Verordening (EU) 2019/788 van het Europees Parlement en de Raad van 17 april 2019 betreffende het Europees burgerinitiatief

@@ -12,7 +12,7 @@ entry_into_force: 2012-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/09/2012003060/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2012. - Wet houdende de Resoluties 612 getiteld " 2010 Selectieve verhoging van het toegelaten maatschappelijk kapitaal om het stemgewicht en deelname van ontwikkelings- en transitielanden te versterken " en 613 getiteld " Algemene kapitaalsverhoging 2010 " van de Raad van Gouverneurs van de Internationale Bank voor Wederopbouw en Ontwikkeling met betrekking tot de inschrijving van België op de selectieve en algemene kapitaalsverhoging van de Internationale Bank voor Wederopbouw en Ontwikkeling

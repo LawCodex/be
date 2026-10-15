@@ -12,7 +12,7 @@ entry_into_force: 2022-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/01/2022203186/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2022. - Loi spéciale modifiant la législation spéciale relative aux listes de mandats et déclarations de patrimoine, en ce qui concerne l'extension du champ d'application aux bourgmestres et échevins de district

@@ -12,7 +12,7 @@ entry_into_force: 2024-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/25/2025000229/justel"
 department: "Mobilité et Transports - Sécurité sociale - Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2024. - Loi transposant les amendements de 2022 à la Convention MLC

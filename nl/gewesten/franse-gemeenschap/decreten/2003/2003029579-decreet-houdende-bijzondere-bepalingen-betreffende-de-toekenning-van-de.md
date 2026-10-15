@@ -13,7 +13,7 @@ entry_into_force: 2003-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/19/2003029579/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2003. - Decreet houdende bijzondere bepalingen betreffende de toekenning van de betrekkingen voor de ambten bepaald bij titel V van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd. (Vertaling).

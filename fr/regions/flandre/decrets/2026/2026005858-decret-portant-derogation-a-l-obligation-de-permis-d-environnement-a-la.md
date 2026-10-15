@@ -13,7 +13,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/03/2026005858/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2026. - Décret portant dérogation à l'obligation de permis d'environnement, à la notification environnementale et à d'autres autorisations en cas de situation exceptionnelle liée à la défense

@@ -13,7 +13,7 @@ entry_into_force: 2020-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/17/2021042361/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2021. - Decreet tot wijziging van het decreet van 3 maart 2004 houdende organisatie van het gespecialiseerd onderwijs om de totale tijdelijke integratie af te schaffen

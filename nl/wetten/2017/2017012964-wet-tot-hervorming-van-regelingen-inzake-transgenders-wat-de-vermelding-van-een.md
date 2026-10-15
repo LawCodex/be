@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/25/2017012964/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2017. - Wet tot hervorming van regelingen inzake transgenders wat de vermelding van een aanpassing van de registratie van het geslacht in de akten van de burgerlijke stand en de gevolgen hiervan betreft

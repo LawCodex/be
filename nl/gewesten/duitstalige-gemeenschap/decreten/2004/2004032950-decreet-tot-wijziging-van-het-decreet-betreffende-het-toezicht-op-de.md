@@ -13,7 +13,7 @@ entry_into_force: 2004-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/29/2004032950/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2004. - Decreet tot wijziging van het decreet betreffende het toezicht op de mededelingen van de Regering van de Duitstalige Gemeenschap met het oog op de regeling van het toezicht op de verkiezingsuitgaven voor de verkiezing van de raad (VERTALING).

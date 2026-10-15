@@ -12,7 +12,7 @@ entry_into_force: 1997-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/19/1997015003/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1995. - Wet houdende goedkeuring van het Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, Aanhangsel, Bijlagen I, II, III, IV en V, opgemaakt te Madrid op 4 oktober 1991.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/09/1998035774/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-07-1998 et mise à jour au 17-08-2000."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1998. - Décret contenant des dispositions modifiant le Code des impôts sur les revenus, pour ce qui concerne le précompte immobilier (TRADUCTION). -

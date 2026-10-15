@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/01/2020031450/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OKTOBER 2020. - Decreet houdende wijziging van het decreet van 27 maart 2014 betreffende de communicaties via elektronische weg tussen de gebruikers en de Waalse openbare overheden, voor de aangelegenheden bedoeld in artikel 138 van de Grondwet

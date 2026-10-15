@@ -13,7 +13,7 @@ entry_into_force: 2003-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029509/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret portant assentiment à l'accord euro-méditerranéen instituant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République libanaise, d'autre part, et l'Acte final, faits à Luxembourg le 17 juin 2002.

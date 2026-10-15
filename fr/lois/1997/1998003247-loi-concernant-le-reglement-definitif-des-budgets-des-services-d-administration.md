@@ -12,7 +12,7 @@ entry_into_force: 1998-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/19/1998003247/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 1997. - Loi concernant le règlement définitif des budgets des services d'administration générale de l'Etat et d'organismes d'intérêt public pour l'année 1987 ou pour des années antérieures.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/11/16/1994003195/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2008 en tekstbijwerking tot 30-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 1993. - Wet houdende vaststelling van de Civiele Lijst voor de duur van de regering van Koning Albert II, tot toekenning van een jaarlijkse en levenslange dotatie aan Hare Majesteit Koningin Fabiola en van een jaarlijkse dotatie aan Zijne Koninklijke Hoogheid Prins Filip.

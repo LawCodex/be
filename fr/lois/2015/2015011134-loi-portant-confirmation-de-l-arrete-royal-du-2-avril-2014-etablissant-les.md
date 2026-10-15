@@ -12,7 +12,7 @@ entry_into_force: 2015-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/03/27/2015011134/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2015. - Loi portant confirmation de l'arrêté royal du 2 avril 2014 établissant les modalités de la cotisation fédérale destinée au financement de certaines obligations de service public et des coûts liés à la régulation et au contrôle du marché du gaz naturel

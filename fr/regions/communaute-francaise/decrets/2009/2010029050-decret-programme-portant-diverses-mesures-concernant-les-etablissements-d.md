@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/17/2010029050/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-02-2010 et mise à jour au 14-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2009. - Décret programme portant diverses mesures concernant les établissements d'enseignement, les internats, les Centres psycho-médico-sociaux, la réduction du nombre de chargés de mission à charge du budget de la Communauté, les bâtiments scolaires, la formation en cours de carrière, le traitement d'attente dans le cas de perte partielle de charge, le refinancement des universités et des Hautes Ecoles, le statut des membres des personnels des universités, les dotations et subventions à certains organismes sous contrat de gestion, les services de médias audiovisuels, l'octroi de subventions aux collectivités locales pour les projets d'infrastructures culturelles, les conditions de subventionnement à l'emploi dans les secteurs socioculturels et la reconnaissance et le subventionnement des musées et autres institutions muséales

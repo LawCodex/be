@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/15/2024005606/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2024. - Wet tot wijziging van het Wetboek van de Belgische nationaliteit, teneinde het de echtgenoten van de Belgische diplomatieke of consulaire ambtenaren mogelijk te maken de Belgische nationaliteit te verwerven

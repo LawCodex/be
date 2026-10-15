@@ -11,7 +11,7 @@ published: 2002-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/04/08/2002009479/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 2002. - Wet betreffende de anonimiteit van de getuigen.

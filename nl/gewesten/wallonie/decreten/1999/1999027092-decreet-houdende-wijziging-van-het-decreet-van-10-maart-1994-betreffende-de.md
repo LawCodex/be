@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/04/1999027092/justel"
 department: "Waalse Gewest"
 justel_note: "raadpleging van vroegere versies vanaf 16-02-1999 en tekstbijwerking tot 07-03-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1999. - Decreet houdende wijziging van het decreet van 10 maart 1994 betreffende de oprichting van de "Société wallonne de financement complémentaire des infrastructures" (Waalse Maatschappij voor de aanvullende financiering van de infrastructuren) (VERTALING).

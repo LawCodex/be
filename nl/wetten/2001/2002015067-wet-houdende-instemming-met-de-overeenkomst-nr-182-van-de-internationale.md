@@ -12,7 +12,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/09/12/2002015067/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBER 2001. - Wet houdende instemming met de Overeenkomst nr. 182 van de Internationale Arbeidsorganisatie betreffende het verbod van de ergste vormen van kinderarbeid en de onmiddellijke actie met het oog op de afschaffing ervan, gedaan te Genève op 17 juni 1999.

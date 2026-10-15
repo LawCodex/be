@@ -11,7 +11,7 @@ published: 1976-02-11
 entry_into_force: 1976-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/02/06/1976020601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 1976. - Loi modifiant certaines dispositions en matière de statut social des travailleurs indépendants.

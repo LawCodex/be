@@ -13,7 +13,7 @@ entry_into_force: 2007-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/02/2007035226/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2007. - Decreet houdende wijziging van sommige bepalingen van titel III en titel IV van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

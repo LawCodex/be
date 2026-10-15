@@ -11,7 +11,7 @@ date: 2001-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/18/2001027500/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2001. - Decreet betreffende de invoering van de euro in de aangelegenheden overgedragen naar het Waalse Gewest overeenkomstig artikel 138 van de Grondwet (VERTALING).

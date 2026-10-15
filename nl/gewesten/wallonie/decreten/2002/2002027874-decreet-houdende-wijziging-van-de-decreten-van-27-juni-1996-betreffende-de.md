@@ -12,7 +12,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/09/19/2002027874/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2002. - Decreet houdende wijziging van de decreten van 27 juni 1996 betreffende de afvalstoffen en van 11 maart 1999 betreffende de milieuvergunning (VERTALING).

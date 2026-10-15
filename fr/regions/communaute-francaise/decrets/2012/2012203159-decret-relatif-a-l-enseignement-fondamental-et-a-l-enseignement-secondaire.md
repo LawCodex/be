@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/03/2012203159/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2012. - Décret relatif à l'enseignement fondamental et à l'enseignement secondaire ordinaires, notamment en matière de taille des classes

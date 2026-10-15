@@ -13,7 +13,7 @@ entry_into_force: 2000-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/05/05/2000035491/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2000. - Decreet houdende instemming met het samenwerkingsverdrag, gesloten tussen de Vlaamse Gemeenschap en het Vlaams Gewest en de Republiek Slovenië, ondertekend in Ljubljana op 3 september 1998.

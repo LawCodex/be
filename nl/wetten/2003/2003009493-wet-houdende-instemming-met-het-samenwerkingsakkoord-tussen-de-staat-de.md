@@ -12,7 +12,7 @@ entry_into_force: 2003-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/11/2003009493/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2003. - Wet houdende instemming met het Samenwerkingsakkoord tussen de Staat, de Gemeenschappen, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Gewesten voor een globaal en geïntegreerd drugsbeleid.

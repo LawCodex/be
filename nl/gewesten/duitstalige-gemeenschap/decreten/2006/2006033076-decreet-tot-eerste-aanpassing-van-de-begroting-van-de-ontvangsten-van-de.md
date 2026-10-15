@@ -12,7 +12,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/05/29/2006033076/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2006. - Decreet tot eerste aanpassing van de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 2006 (VERTALING).HI:??2,Zitting 2005-2006 Bescheiden van het Parlement : 5-061 (2005-2006) Nr 1; Ontwerp van decreet 5-061 (2005-2006) Nr 1 : algemene voorstelling / rechtvaardigingsverklaring 5-061 (2005-2006) Nr 2 : verslag Integraal verslag : discussie en aanneming - Zitting van 26 mei 2006

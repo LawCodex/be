@@ -13,7 +13,7 @@ entry_into_force: 1995-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/11/29/1995036658/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 1995. - Décret portant ratification de l'arrêté du Gouvernement flamand du 4 octobre 1995 relatif à la désignation définitive des zones de dunes protégées et des zones agricoles ayant une importance pour les dunes qui ont été désignées par l'arrêté du Gouvernement flamand du 16 novembre 1994 relatif à la désignation définitive des zones de dunes protégées et des zones agricoles ayant une importance pour les dunes, mais pas par l'arrêté du Gouvernement flamand du 15 septembre 1993 portant la désignation des zones de dunes protégées et des zones agricoles ayant une importance pour les dunes, et portant modification de la loi du 12 juillet 1973 sur la conservation de la nature.

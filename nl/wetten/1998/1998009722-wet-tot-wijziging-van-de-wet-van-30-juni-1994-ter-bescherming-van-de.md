@@ -11,7 +11,7 @@ entry_into_force: 1998-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/10/1998009722/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1998. - Wet tot wijziging van de wet van 30 juni 1994 ter bescherming van de persoonlijke levenssfeer tegen het afluisteren, kennisnemen en opnemen van privécommunicatie en -telecommunicatie.

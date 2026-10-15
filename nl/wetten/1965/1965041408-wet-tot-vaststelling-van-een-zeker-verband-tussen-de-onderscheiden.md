@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/14/1965041408/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-2002 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 1965. - Wet tot vaststelling van een zeker verband tussen de onderscheiden pensioenregelingen van de openbare sector.

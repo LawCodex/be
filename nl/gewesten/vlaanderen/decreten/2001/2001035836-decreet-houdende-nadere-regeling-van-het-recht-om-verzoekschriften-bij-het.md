@@ -13,7 +13,7 @@ entry_into_force: 2001-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2001035836/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet houdende nadere regeling van het recht om verzoekschriften bij het Vlaams Parlement in te dienen.

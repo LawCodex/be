@@ -13,7 +13,7 @@ entry_into_force: 1997-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/04/22/1997035540/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 1997. - Décret portant autorisation au Gouvernement flamand d'octroyer la garantie de la Région pour la transaction "lease-in-lease-out" du tunnel du "Liefkenshoek" (TRADUCTION).

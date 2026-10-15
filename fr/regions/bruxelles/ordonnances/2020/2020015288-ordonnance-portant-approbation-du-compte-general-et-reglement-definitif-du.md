@@ -13,7 +13,7 @@ entry_into_force: 2020-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020015288/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Ordonnance portant approbation du compte général et règlement définitif du budget de l'Agence régionale pour la propreté pour l'année 2011

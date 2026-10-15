@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/15/2012201700/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 23-03-2012 en tekstbijwerking tot 25-07-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2012. - Decreet tot verruiming van de nationaliteitsvoorwaarden voor de toegang tot betrekkingen van het Openbaar Ambt in het Waalse Gewest

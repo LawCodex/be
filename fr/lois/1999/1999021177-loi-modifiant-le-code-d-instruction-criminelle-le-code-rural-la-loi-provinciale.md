@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/19/1999021177/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 13-05-1999 et mise à jour au 06-01-2001."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1999. - Loi modifiant le Code d'instruction criminelle, le Code rural, la loi provinciale, la nouvelle loi communale, la loi sur la fonction de police, la loi du 10 avril 1990 sur les entreprises de gardiennage, sur les entreprises de sécurité et sur les services internes de gardiennage, la loi sur la pêche fluviale, la loi sur la chasse et la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux. -

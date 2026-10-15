@@ -13,7 +13,7 @@ entry_into_force: 2026-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/27/2026002025/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2026. - Décret modifiant le Code flamand du Logement de 2021 et le décret du 9 juillet 2021 portant modification de divers décrets relatifs au logement

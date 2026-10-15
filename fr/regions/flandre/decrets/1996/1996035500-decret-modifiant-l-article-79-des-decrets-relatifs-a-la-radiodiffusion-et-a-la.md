@@ -13,7 +13,7 @@ entry_into_force: 1996-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/02/1996035500/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1996. - Décret modifiant l'article 79 des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

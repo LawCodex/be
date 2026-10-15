@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/23/1998012194/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 21-05-1998 et mise à jour au 17-02-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 1998. - Loi portant les dispositions diverses en ce qui concerne l'institution d'un comité d'entreprise européen ou d'une procédure dans les entreprises de dimension communautaire et les groupes d'entreprises de dimension communautaire en vue d'informer et de consulter les travailleurs

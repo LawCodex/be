@@ -12,7 +12,7 @@ entry_into_force: 2020-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/08/09/2020203572/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AOUT 2020. - Loi modifiant l'arrêté royal du 16 septembre 2013 fixant une intervention spécifique dans le coût des contraceptifs pour les femmes n'ayant pas atteint l'âge de 25 ans afin d'accroître l'accessibilité financière des femmes ayant recours à la contraception d'urgence

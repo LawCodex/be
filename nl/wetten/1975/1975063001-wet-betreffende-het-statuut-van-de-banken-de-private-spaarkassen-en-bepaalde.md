@@ -11,7 +11,7 @@ published: 1975-08-02
 entry_into_force: 1975-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/06/30/1975063001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1975. - Wet betreffende het statuut van de banken, de private spaarkassen en bepaalde andere financiële instellingen.

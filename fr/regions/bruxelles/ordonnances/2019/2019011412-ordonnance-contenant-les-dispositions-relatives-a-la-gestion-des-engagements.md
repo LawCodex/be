@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/03/28/2019011412/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2019. - Ordonnance contenant les dispositions relatives à la gestion des engagements garantis par la Région de Bruxelles-Capitale

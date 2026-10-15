@@ -13,7 +13,7 @@ entry_into_force: 2024-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/23/2023047810/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Décret modifiant le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études

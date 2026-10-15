@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/30/2017020431/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Wet tot wijziging van artikel 276 van het Wetboek van de inkomstenbelastingen 1992 op het stuk van de verrekening van de vervroegde inning van de taks op het lange termijnsparen

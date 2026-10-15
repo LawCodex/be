@@ -11,7 +11,7 @@ published: 2007-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/25/2007000465/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

@@ -13,7 +13,7 @@ entry_into_force: 1999-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/09/1999035252/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1999. - Décret portant approbation de l'acte international suivant : l'Accord-cadre de commerce et de coopération entre la Communauté européenne et ses Etats-membres, d'une part, et la République de Corée, d'autre part, l'Annexe et les déclarations communes, signés à Luxembourg le 28 octobre 1996 (TRADUCTION).

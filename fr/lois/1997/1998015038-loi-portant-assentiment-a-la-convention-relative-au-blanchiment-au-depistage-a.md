@@ -12,7 +12,7 @@ entry_into_force: 1998-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/08/1998015038/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1997. - Loi portant assentiment à la Convention relative au blanchiment, au dépistage, à la saisie et à la confiscation des produits du crime, faite à Strasbourg le 8 novembre 1990.

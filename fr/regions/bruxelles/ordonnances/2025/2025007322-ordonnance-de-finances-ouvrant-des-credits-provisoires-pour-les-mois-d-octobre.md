@@ -13,7 +13,7 @@ entry_into_force: 2025-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/09/29/2025007322/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBRE 2025. - Ordonnance de finances ouvrant des crédits provisoires pour les mois d'octobre, de novembre et de décembre 2025 sur le budget de la Région de Bruxelles-Capitale pour l'année budgétaire 2025

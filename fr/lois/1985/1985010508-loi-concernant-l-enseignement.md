@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/06/21/1985010508/justel"
 department: "Education nationale - Enseignement"
 justel_note: "Consultation des versions antérieures à partir du 02-09-1988 et mise à jour au 11-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 1985. - Loi concernant l'enseignement.

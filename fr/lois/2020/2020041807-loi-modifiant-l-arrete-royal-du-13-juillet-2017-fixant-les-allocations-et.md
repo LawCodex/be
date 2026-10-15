@@ -12,7 +12,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/09/2020041807/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2020. - Loi modifiant l'arrêté royal du 13 juillet 2017 fixant les allocations et indemnités des membres du personnel de la fonction publique fédérale en vue d'indemniser l'utilisation de speed pedelecs

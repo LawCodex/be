@@ -12,7 +12,7 @@ entry_into_force: 2005-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/26/2005009380/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2005. - Wet tot wijziging van de artikelen 53, § 6, en 54bis van de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken en tot invoeging in die wet van een artikel 54ter en een artikel 66bis.

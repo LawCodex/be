@@ -13,7 +13,7 @@ entry_into_force: 2021-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/01/2021201178/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2021. - Decreet tot invoering van een gemeenschappelijk thesauriebeheer voor de instellingen van de Duitstalige Gemeenschap

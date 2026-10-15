@@ -13,7 +13,7 @@ entry_into_force: 2024-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005036/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux en vue d'interdire le fait d'attacher ou d'enfermer des animaux dans un espace restreint de manière continue ou habituelle

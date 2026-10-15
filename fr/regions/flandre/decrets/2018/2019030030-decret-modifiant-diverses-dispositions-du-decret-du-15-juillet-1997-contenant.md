@@ -13,7 +13,7 @@ entry_into_force: 2019-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2019030030/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret modifiant diverses dispositions du décret du 15 juillet 1997 contenant le Code flamand du Logement

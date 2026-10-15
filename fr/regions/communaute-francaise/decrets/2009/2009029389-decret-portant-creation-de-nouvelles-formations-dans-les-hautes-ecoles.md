@@ -13,7 +13,7 @@ entry_into_force: 2009-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029389/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant création de nouvelles formations dans les Hautes Ecoles organisées ou subventionnées par la Communauté française et portant diverses mesures en matière d'enseignement supérieur

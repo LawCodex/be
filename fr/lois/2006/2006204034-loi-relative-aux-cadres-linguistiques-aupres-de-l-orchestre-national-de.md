@@ -12,7 +12,7 @@ entry_into_force: 2006-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/05/2006204034/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2006. - Loi relative aux cadres linguistiques auprès de l'Orchestre national de Belgique et du Théâtre royal de la Monnaie.

@@ -12,7 +12,7 @@ entry_into_force: 1994-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/30/1994000713/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1993. - Wet tot wijziging van de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur, van het Kieswetboek, van de wet van 6 augustus 1931 houdende vaststelling van de onverenigbaarheden en ontzeggingen betreffende de Ministers, gewezen Ministers en Ministers van Staat, alsmede de leden en gewezen leden van de Wetgevende Kamers, van de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement, van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap en van de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen.

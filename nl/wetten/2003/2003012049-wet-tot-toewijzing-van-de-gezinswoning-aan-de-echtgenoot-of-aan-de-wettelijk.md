@@ -12,7 +12,7 @@ entry_into_force: 2003-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/28/2003012049/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2003. - Wet tot toewijzing van de gezinswoning aan de echtgenoot of aan de wettelijk samenwonende die het slachtoffer is van fysieke gewelddaden vanwege zijn partner en tot aanvulling van artikel 410 van het Strafwetboek.

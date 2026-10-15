@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/30/1998029306/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-04-1999 en tekstbijwerking tot 15-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1998. - Decreet tot instelling van het hoger onderwijs van het lange type in de kinesitherapie binnen de door de Franse Gemeenschap georganiseerde of gesubsidieerde Hogescholen. (Vertaling) -

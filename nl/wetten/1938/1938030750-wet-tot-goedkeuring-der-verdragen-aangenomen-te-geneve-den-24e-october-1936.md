@@ -9,7 +9,7 @@ language: nl
 date: 1938-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1938/03/07/1938030750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 1938. - Wet tot goedkeuring der verdragen aangenomen te Genève, den 24e October 1936, door de Internationale Arbeidsconferentie, tijdens haar 21e en 22e zitting.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/20/2022015582/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 26-09-2022 et mise à jour au 07-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Loi relative au statut et au contrôle des sociétés de bourse et portant dispositions diverses

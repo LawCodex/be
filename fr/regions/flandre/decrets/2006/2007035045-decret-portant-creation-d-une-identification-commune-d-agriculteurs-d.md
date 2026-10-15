@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2007035045/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-01-2007 et mise à jour au 23-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret portant création d'une identification commune d'agriculteurs, d'exploitations et de terres agricoles dans le cadre de la politique relative aux engrais et de la politique de l'agriculture (TRADUCTION)

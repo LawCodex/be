@@ -13,7 +13,7 @@ entry_into_force: 2013-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204485/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret portant modification du Décret sur l'Energie du 8 mai 2009, pour ce qui concerne la possibilité de permettre au gestionnaire de réseau de faire fournir, sous certaines conditions, des renseignements aux personnes désignées à cet effet par le Gouvernement flamand

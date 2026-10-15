@@ -13,7 +13,7 @@ entry_into_force: 2021-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021021451/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2021. - Decreet tot wijziging van het decreet van 20 december 2013 betreffende de Cultuurprijzen van de Vlaamse Gemeenschap

@@ -12,7 +12,7 @@ published: 2002-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/20/2002029332/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2002. - Decreet tot wijziging van het decreet van 20 december 2001 betreffende de gezondheidspromotie op school (VERTALING).

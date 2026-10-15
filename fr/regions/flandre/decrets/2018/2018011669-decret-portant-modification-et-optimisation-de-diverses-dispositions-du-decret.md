@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/16/2018011669/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2018. - Décret portant modification et optimisation de diverses dispositions du décret-cadre du 22 juin 2007 relatif à la coopération au développement

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/11/17/1998000733/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 11-12-1998 et mise à jour au 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 1998. - Loi portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie.

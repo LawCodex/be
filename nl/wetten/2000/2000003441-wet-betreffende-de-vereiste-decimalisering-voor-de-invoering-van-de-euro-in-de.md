@@ -12,7 +12,7 @@ entry_into_force: 2000-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/03/2000003441/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2000. - Wet betreffende de vereiste decimalisering voor de invoering van de euro in de computerprogramma's van de overheid en voor de prijsaanduiding op metrologische toestellen.

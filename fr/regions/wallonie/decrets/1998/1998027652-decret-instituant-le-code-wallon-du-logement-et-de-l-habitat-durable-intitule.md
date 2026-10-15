@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/10/29/1998027652/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 04-12-1998 et mise à jour au 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 1998. - Décret instituant le Code wallon du logement [et de l'habitat durable]. &lt;Intitulé modifié par DRW 2012-02-09/05 , art. 1, 005; En vigueur : 20-04-2012 (voir ARW 2012-03-23/07 , art. 12)&gt;

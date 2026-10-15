@@ -13,7 +13,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/13/2023045374/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2023. - Décret conjoint de la Communauté française et de la Région wallonne relativement au service de médiation commun à la Communauté française et à la Région wallonne

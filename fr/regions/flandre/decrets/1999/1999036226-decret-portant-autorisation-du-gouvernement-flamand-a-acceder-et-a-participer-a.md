@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/13/1999036226/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-09-1999 et mise à jour au 11-03-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1999. - Décret portant autorisation du Gouvernement flamand à accéder et à participer à la création de l'association sans but lucratif "Vlaams Audiovisueel Fonds" (Fonds audiovisuel flamand). (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 2008-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/13/2007036255/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2007. - Décret réglant la politique de maintien dans le secteur des hébergements touristiques (TRADUCTION).

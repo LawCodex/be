@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/18/2020010149/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-01-2020 en tekstbijwerking tot 01-02-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2019. - Programmadecreet houdende diverse maatregelen met betrekking tot Schoolgebouwen, Begrotingsfondsen, Gezondheid, Hoger Onderwijs, Onderzoek, Sport, Universitaire Ziekenhuizen, Onderwijspersoneel, Onderwijs en WBE

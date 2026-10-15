@@ -10,7 +10,7 @@ date: 2013-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/31/2013007185/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2013. - Wet tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen van het actief kader van de Krijgsmacht en tot wijziging van sommige bepalingen betreffende het statuut van het militair personeel

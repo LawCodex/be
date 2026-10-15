@@ -13,7 +13,7 @@ entry_into_force: 1990-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/02/07/1990029335/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 1990. - Décret portant approbation de la Convention Benelux sur la coopération transfrontalière des collectivités ou autorités territoriales, faite à Bruxelles, le 12 septembre 1986.

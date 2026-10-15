@@ -11,7 +11,7 @@ published: 1948-03-20
 entry_into_force: 1948-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1948/03/01/1948030101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1948. - WET houdende afschaffing van het diploma van drogist.

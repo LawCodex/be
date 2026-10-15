@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/21/2021031630/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-07-2021 et mise à jour au 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2021. - Décret portant l'autorisation des participants flamands et réglant les modalités de participation aux cellules de sécurité intégrale locales en matière de radicalisme, d'extrémisme et de terrorisme

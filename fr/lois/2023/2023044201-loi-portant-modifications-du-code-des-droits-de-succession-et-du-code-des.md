@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/31/2023044201/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2023 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2023. - Loi portant modifications du Code des droits de succession et du Code des droits d'enregistrement, d'hypothèque et de greffe relatives à la délivrance de renseignements par les fonctionnaires de l'Administration générale de la documentation patrimoniale

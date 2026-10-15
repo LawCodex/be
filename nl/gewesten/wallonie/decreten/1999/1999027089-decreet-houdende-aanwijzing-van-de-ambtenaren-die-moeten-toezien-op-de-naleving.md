@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/04/1999027089/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-02-1999 en tekstbijwerking tot 07-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1999. - Decreet houdende aanwijzing van de ambtenaren die moeten toezien op de naleving van de reglementering op het personenvervoer in het Waalse Gewest (VERTALING)

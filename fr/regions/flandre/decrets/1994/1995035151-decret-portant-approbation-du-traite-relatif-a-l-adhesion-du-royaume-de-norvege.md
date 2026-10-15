@@ -13,7 +13,7 @@ entry_into_force: 1995-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/21/1995035151/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1994. - DECRET portant approbation du Traité relatif à l'adhésion du Royaume de Norvège, de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, du Traité relatif aux conditions d'adhésion et de l'adaptation des Traités, ainsi que des Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII et XIX, des Protocoles 1, 2, 3, 4, 5, 6, 7, 8, 9 et 10 et des Déclarations communes 1, 2, 3, 4, 5, 6, 7, 8 et 9

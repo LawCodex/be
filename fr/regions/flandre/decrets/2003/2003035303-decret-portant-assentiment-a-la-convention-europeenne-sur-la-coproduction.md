@@ -13,7 +13,7 @@ entry_into_force: 2003-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/28/2003035303/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2003. - Décret portant assentiment à la Convention européenne sur la coproduction cinématographique et aux Annexes I et II, faites à Strasbourg, le 2 octobre 1992 (TRADUCTION).

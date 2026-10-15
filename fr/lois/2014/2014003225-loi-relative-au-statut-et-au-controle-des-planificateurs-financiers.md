@@ -16,7 +16,7 @@ department: "Finances"
 justel_notes:
   - "Les modifications apportées par les articles 178 et 179 de L 2014-04-25/09 n'ont pas pu être effectuées"
   - "Consultation des versions antérieures à partir du 27-05-2014 et mise à jour au 09-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Loi relative au statut et au contrôle des planificateurs financiers indépendants et à la fourniture de consultations en planification par des entreprises réglementées et modifiant le Code des sociétés et la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers

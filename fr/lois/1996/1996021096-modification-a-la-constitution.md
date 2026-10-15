@@ -12,7 +12,7 @@ entry_into_force: 1996-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/03/25/1996021096/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1996. - Modification à la Constitution.

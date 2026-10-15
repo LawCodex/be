@@ -12,7 +12,7 @@ entry_into_force: 1995-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/06/1997015050/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1994. - Wet houdende goedkeuring van het Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidene werking te hebben, en Protocollen I, II en III, gedaan te Genève op 10 oktober 1980.

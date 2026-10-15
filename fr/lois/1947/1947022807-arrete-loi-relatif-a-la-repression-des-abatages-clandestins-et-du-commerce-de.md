@@ -13,7 +13,7 @@ last_amended: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/02/28/1947022807/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-07-2018 et mise à jour au 20-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1947. - Arrêté-loi relatif à la répression des abatages clandestins et du commerce de la viande et de la graisse provenant de ces abatages

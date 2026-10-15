@@ -12,7 +12,7 @@ entry_into_force: 2002-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/29/2002015022/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2002. - Loi portant assentiment au Protocole additionnel à la Convention européenne d'entraide judiciaire en matière pénale, fait à Strasbourg le 17 mars 1978.

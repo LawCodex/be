@@ -13,7 +13,7 @@ entry_into_force: 2003-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/14/2003035690/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2003. - Décret contenant le règlement définitif du budget de la Communauté flamande et des organismes d'intérêt public pour l'année budgétaire 1999. (Traduction).

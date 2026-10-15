@@ -12,7 +12,7 @@ entry_into_force: 2023-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/26/2023042613/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2023. - Wet tot wijziging van de wet van 21 december 1998 betreffende de productnormen ter bevordering van duurzame productie- en consimptiepatronen en ter bescherming van het leefmilieu, de volksgezondheid en de werknemers

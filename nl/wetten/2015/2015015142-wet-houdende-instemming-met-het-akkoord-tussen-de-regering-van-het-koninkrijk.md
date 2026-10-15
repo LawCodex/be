@@ -11,7 +11,7 @@ published: 2015-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/30/2015015142/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2015. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de samenwerking inzake luchtverdediging tegen niet-militaire luchtdreigingen, gesloten te Tours op 6 juli 2005

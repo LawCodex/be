@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/20/2014201868/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2014. - Decreet houdende wijziging van het Waals Wetboek van Sociale Actie en Gezondheid met het oog op de harmonisering en de vereenvoudiging van de procedure voor de controle en de toekenning van de subsidies en de activiteitenverslagen

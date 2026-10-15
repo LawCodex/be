@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/01/14/2010029093/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2010. - Decreet tot wijziging van het op 26 maart 2009 gecoördineerde decreet betreffende de audiovisuele mediadiensten

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/03/17/1997029178/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-05-1997 en tekstbijwerking tot 04-09-2006."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1997. - Decreet tot vaststelling van het statuut van de commissarissen bij de hogescholen (VERTALING). -

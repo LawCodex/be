@@ -13,7 +13,7 @@ entry_into_force: 2007-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007029145/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2007. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté française et la Région wallonne relatif à la gestion administrative et financière des coordinations provinciales pour l'égalité entre les femmes et les hommes.

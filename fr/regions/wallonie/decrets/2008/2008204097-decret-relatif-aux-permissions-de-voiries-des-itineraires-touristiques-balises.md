@@ -13,7 +13,7 @@ entry_into_force: 2008-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/10/23/2008204097/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2008. - Décret relatif aux permissions de voiries des itinéraires touristiques balisés et modifiant le décret du 19 décembre 2002 instituant une centralisation financière des trésoreries des organismes d'intérêt public wallon.

@@ -12,7 +12,7 @@ entry_into_force: 2012-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/01/16/2013022059/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2013. - Wet tot wijziging van het koninklijk besluit van 18 november 1996 houdende invoering van een sociale verzekering ten gunste van zelfstandigen, in geval van faillissement, en van gelijkgestelde personen, met toepassing van de artikelen 29 en 49 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels en van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen

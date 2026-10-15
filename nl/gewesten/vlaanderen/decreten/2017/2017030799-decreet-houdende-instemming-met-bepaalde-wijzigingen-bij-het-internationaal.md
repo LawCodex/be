@@ -13,7 +13,7 @@ entry_into_force: 2017-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017030799/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende instemming met bepaalde wijzigingen bij het Internationaal Verdrag van 1973 ter voorkoming van verontreiniging door schepen, opgemaakt te Londen op 2 november 1973 (MARPOL), aangenomen op basis van artikel 16 van dit verdrag

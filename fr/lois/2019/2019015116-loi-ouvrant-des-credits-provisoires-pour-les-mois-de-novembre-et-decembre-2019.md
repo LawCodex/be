@@ -12,7 +12,7 @@ entry_into_force: 2019-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/10/31/2019015116/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OCTOBRE 2019. - Loi ouvrant des crédits provisoires pour les mois de novembre et décembre 2019

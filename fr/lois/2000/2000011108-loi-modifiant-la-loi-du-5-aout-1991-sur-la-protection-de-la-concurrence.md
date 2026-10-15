@@ -12,7 +12,7 @@ entry_into_force: 1999-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/15/2000011108/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2000. - Loi modifiant la loi du 5 août 1991 sur la protection de la concurrence économique.

@@ -13,7 +13,7 @@ entry_into_force: 2019-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/01/31/2019030134/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2019. - Ordonnance portant assentiment à : l'Accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et l'Australie, d'autre part, fait à Manille le 7 août 2017

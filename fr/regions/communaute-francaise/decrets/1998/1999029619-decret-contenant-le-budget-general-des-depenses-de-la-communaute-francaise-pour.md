@@ -13,7 +13,7 @@ entry_into_force: 2000-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/17/1999029619/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1998. - Décret contenant le budget général des dépenses de la Communauté française pour l'année budgétaire 1999.

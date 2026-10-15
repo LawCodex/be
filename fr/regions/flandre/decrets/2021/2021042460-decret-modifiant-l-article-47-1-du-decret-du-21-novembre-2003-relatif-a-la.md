@@ -13,7 +13,7 @@ entry_into_force: 2021-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/25/2021042460/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2021. - Décret modifiant l'article 47/1 du décret du 21 novembre 2003 relatif à la politique de santé préventive dans le cadre du COVID-19 à l'été de 2021

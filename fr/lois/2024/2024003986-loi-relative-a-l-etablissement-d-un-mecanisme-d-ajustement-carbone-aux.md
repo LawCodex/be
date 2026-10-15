@@ -12,7 +12,7 @@ entry_into_force: 2024-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/14/2024003986/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2024. - Loi relative à l'établissement d'un mécanisme d'ajustement carbone aux frontières

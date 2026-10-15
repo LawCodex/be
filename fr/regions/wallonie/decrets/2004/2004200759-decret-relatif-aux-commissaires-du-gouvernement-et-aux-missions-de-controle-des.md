@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200759/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 23-03-2004 et mise à jour au 05-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2004. - [Décret relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public pour les matières réglées en vertu de l'article 138 de la Constitution.] &lt;DRW 2009-04-30/38 , art. 2, 002; En vigueur : 06-06-2009&gt;

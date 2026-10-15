@@ -12,7 +12,7 @@ entry_into_force: 2017-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/24/2017011805/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2016. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van Montenegro betreffende de politiesamenwerking, opgesteld te Brussel op 9 december 2010

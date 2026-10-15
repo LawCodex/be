@@ -13,7 +13,7 @@ entry_into_force: 2012-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/20/2012029124/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2011. - Decreet houdende instemming met de statuten van het Internationaal Agentschap voor hernieuwbare energie (IRENA), gedaan te Bonn op 26 januari 2009

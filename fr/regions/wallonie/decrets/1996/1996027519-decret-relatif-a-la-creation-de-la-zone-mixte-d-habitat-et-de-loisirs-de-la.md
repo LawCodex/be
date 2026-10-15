@@ -13,7 +13,7 @@ entry_into_force: 1996-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996027519/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret relatif à la création de la zone mixte d'habitat et de loisirs de la Plate Taille.

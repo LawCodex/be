@@ -11,7 +11,7 @@ published: 2007-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/10/2007009689/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2007. - Wet houdende diverse maatregelen inzake de heling en inbeslagneming.

@@ -12,7 +12,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/30/2018011728/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2018. - Loi portant modification, en ce qui concerne l'extension de l'action en réparation collective aux P.M.E., du Code de droit économique

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/18/2008027024/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 09-04-2009 et mise à jour au 17-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2008. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 2009

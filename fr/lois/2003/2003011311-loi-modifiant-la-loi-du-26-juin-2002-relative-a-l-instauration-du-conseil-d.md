@@ -11,7 +11,7 @@ published: 2003-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/11/2003011311/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2003. - Loi modifiant la loi du 26 juin 2002 relative à l'instauration du Conseil d'Etablissement.

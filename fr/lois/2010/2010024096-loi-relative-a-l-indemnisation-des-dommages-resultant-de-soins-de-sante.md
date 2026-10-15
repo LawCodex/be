@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/31/2010024096/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 02-04-2010 et mise à jour au 23-02-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2010. - Loi relative à l'indemnisation des dommages résultant de soins de santé

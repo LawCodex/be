@@ -11,7 +11,7 @@ published: 1940-03-24
 entry_into_force: 1940-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1940/03/22/1940032250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1940. - Wet betreffende de verdediging van de nationale instellingen.

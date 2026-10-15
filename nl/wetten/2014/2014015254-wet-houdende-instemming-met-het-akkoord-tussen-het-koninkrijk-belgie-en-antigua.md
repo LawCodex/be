@@ -11,7 +11,7 @@ entry_into_force: 2017-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/28/2014015254/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en Antigua en Barbuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 7 december 2009

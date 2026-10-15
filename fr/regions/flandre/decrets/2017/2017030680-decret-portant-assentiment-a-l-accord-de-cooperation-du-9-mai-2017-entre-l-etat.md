@@ -13,7 +13,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/16/2017030680/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2017. - Décret portant assentiment à l'accord de coopération du 9 mai 2017 entre l'Etat fédéral et la Région flamande relatif à la régularisation des montants non scindés

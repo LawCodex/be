@@ -11,7 +11,7 @@ published: 2018-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018040553/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Domaniale wet

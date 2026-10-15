@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036019/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-08-2002 et mise à jour au 28-05-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret portant approbation de l'accord de coopération entre l'Etat fédéral, la Communauté germanophone, la Communauté française et la Communauté flamande relatif au centre fermé pour le placement provisoire de mineurs ayant commis un fait qualifié infraction (TRADUCTION). -

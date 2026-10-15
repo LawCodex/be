@@ -12,7 +12,7 @@ entry_into_force: 2007-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/01/2007003185/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2007. - Loi modifiant l'article 220 de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers, l'article 121, § 1er, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, ainsi que l'article 584 du Code judiciaire, et insérant l'article 41 dans la loi du 1er avril 2007 relative aux offres publiques d'acquisition.

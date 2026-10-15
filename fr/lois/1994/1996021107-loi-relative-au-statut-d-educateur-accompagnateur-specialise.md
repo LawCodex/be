@@ -12,7 +12,7 @@ entry_into_force: 1996-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/29/1996021107/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1994. - Loi relative au statut d'éducateur-accompagnateur spécialisé.

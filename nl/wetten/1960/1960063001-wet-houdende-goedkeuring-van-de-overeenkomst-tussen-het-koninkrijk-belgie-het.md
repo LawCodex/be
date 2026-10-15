@@ -11,7 +11,7 @@ published: 1960-08-11
 entry_into_force: 1960-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/06/30/1960063001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1960. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België, het Groot-Hertogdom Luxemburg en het Koninkrijk der Nederlanden, inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied, ondertekend op 11 april 1960, te Brussel.

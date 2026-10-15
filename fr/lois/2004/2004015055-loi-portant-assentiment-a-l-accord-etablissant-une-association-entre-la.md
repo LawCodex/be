@@ -12,7 +12,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/29/2004015055/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2004. - Loi portant assentiment à l'Accord établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part, aux Annexes I à XVII, et à l'Acte final, faits à Bruxelles le 18 novembre 2002.

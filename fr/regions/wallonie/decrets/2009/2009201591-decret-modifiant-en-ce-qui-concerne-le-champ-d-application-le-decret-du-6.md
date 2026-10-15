@@ -13,7 +13,7 @@ entry_into_force: 2009-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/19/2009201591/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2009. - Décret modifiant, en ce qui concerne le champ d'application, le décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination, en ce compris la discrimination entre les femmes et les hommes, en matière d'économie, d'emploi et de formation professionnelle

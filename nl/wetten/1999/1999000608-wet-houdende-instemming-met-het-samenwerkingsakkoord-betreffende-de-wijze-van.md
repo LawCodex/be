@@ -11,7 +11,7 @@ published: 1999-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/23/1999000608/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1999. - Wet houdende instemming met het samenwerkingsakkoord betreffende de wijze van omslag van de kosten van de gewestelijke ontvangers en de wijze van de inhouding van de bijdrage in die kosten door de besturen, gesloten te Brussel op 9 december 1997 tussen de Staat, de Vlaamse Gemeenschap, het Waalse Gewest en de Duitstalige Gemeenschap.

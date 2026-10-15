@@ -13,7 +13,7 @@ entry_into_force: 2021-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/18/2022203070/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2022. - Décret modifiant le décret du 11 mars 1999 relatif au permis d'environnement

@@ -12,7 +12,7 @@ entry_into_force: 2012-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/15/2012011089/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2012. - Wet tot wijziging van de wet van 9 juli 2001 houdende vaststelling van bepaalde regels in verband met het juridisch kader voor elektronische handtekeningen en certificatiediensten

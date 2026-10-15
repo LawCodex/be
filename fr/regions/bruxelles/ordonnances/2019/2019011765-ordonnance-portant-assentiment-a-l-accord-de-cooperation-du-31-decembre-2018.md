@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011765/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Ordonnance portant assentiment à l'accord de coopération du 31 décembre 2018 entre la Communauté flamande, la Commission communautaire française et la Commission communautaire commune relatif au guichet unique pour les aides à la mobilité dans la région bilingue de Bruxelles-Capitale

@@ -12,7 +12,7 @@ entry_into_force: 1997-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/06/1996012871/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1996. - Wet tot wijziging van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventie vrijwaring van het concurrentievermogen, tot wijziging van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's Lands concurrentievermogen en tot wijziging van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers.

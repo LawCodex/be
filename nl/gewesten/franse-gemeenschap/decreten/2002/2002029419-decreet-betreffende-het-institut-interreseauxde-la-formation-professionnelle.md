@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/11/2002029419/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-2002 en tekstbijwerking tot 12-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2002. - Decreet betreffende het Institut interréseauxde la Formation professionnelle continue (IFPC)(VERTALING) (Opschrift vervangen door DFG 2021-06-17/28 , art. 3, 019; Inwerkingtreding : 01-09-2022)

@@ -12,7 +12,7 @@ entry_into_force: 2004-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/01/2004000551/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 2004. - Loi modifiant l'article 71 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers

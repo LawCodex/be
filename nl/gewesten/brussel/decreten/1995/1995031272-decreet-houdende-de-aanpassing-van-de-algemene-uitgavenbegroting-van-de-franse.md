@@ -13,7 +13,7 @@ entry_into_force: 1995-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/27/1995031272/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1995. - Decreet houdende de aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1995.(VERTALING)

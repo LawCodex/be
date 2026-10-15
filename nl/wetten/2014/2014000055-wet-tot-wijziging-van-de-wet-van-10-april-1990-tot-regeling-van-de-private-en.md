@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/13/2014000055/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 23-01-2014 en tekstbijwerking tot 19-08-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2014. - Wet tot wijziging van de wet van 10 april 1990 tot regeling van de private en bijzondere veiligheid

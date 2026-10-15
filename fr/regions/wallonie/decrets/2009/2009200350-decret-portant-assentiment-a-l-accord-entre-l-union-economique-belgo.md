@@ -13,7 +13,7 @@ entry_into_force: 2009-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/15/2009200350/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2009. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République du Botswana, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles, le 7 juin 2006.

@@ -12,7 +12,7 @@ entry_into_force: 2003-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003003255/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet tot wijziging van de artikelen 1752 en 1762 van het Wetboek der met het zegel gelijkgestelde taksen betreffende het wegvervoer en de zee- en binnenvaartverzekeringen.

@@ -12,7 +12,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023202456/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi modifiant la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes, la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie, la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination, et la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, pour ce qui concerne la protection contre les mesures préjudiciables

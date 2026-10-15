@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/03/17/1997014079/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 02-04-1997 en tekstbijwerking tot 20-10-2004."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1997. - Wet betreffende de financiering van het HST-project. -

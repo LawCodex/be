@@ -13,7 +13,7 @@ entry_into_force: 2018-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/04/19/2018011726/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Ordonnance portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant sur la coordination des politiques d'octroi des autorisations de travail et d'octroi du permis de séjour, ainsi que les normes relatives à l'emploi et au séjour des travailleurs étrangers

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/12/28/1992003810/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1993 et mise à jour au 28-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1992. - Loi portant des dispositions fiscales, financières et diverses.

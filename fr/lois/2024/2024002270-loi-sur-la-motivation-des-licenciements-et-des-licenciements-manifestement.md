@@ -12,7 +12,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/13/2024002270/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2024. - Loi sur la motivation des licenciements et des licenciements manifestement déraisonnables des travailleurs contractuels du secteur public

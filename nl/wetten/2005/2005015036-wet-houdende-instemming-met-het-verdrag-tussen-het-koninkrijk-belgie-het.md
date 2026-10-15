@@ -12,7 +12,7 @@ entry_into_force: 2005-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/13/2005015036/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2005. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake grensoverschrijdend politieel optreden, en met de Bijlagen, gedaan te Luxemburg op 8 juni 2004.

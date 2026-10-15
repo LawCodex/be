@@ -13,7 +13,7 @@ entry_into_force: 2015-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/25/2015029315/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2015. - Décret portant assentiment au Protocole sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation relatif à la Convention sur la diversité biologique, signé à Nagoya le 29 octobre 2010, ainsi qu'à son annexe

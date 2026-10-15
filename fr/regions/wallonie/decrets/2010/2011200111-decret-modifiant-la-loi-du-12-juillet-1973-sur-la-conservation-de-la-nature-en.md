@@ -13,7 +13,7 @@ entry_into_force: 2011-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/22/2011200111/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2010. - Décret modifiant la loi du 12 juillet 1973 sur la conservation de la nature en ce qui concerne la mise en oeuvre du régime Natura 2000

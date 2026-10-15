@@ -12,7 +12,7 @@ entry_into_force: 2004-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/03/2002015062/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2000. - Loi portant assentiment au Protocole additionnel, fait à Bruxelles le 27 septembre 1999, à l'Accord maritime entre l'Union économique belgo-luxembourgeoise et la République togolaise, signé à Bruxelles le 19 octobre 1984.

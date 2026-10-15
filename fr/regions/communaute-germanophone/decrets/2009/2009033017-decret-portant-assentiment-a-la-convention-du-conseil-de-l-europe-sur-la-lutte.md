@@ -13,7 +13,7 @@ entry_into_force: 2009-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/16/2009033017/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2009. - Décret portant assentiment à la convention du Conseil de l'Europe sur la lutte contre la traite des êtres humains, faite à Varsovie le 16 mai 2005

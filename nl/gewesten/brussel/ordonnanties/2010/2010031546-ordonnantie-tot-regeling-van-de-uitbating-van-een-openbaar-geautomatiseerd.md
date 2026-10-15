@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/11/25/2010031546/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2010. - Ordonnantie tot regeling van de uitbating van een openbaar geautomatiseerd fietsverhuursysteem

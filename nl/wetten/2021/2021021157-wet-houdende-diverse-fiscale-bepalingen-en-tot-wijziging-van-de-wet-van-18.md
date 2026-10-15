@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/27/2021021157/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-2021 en tekstbijwerking tot 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2021. - Wet houdende diverse fiscale bepalingen en tot wijziging van de wet van 18 september 2017 tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten

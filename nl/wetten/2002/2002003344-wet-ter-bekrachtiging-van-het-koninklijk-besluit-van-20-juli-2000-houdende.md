@@ -12,7 +12,7 @@ entry_into_force: 2002-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/26/2002003344/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2002. - Wet ter bekrachtiging van het koninklijk besluit van 20 juli 2000 houdende uitvoering betreffende gerechtszaken van de wet van 30 juni 2000 betreffende de invoering van de euro in de wetgeving die betrekking heeft op aangelegenheden als bedoeld in artikel 77 van de Grondwet.

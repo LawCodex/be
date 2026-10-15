@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/10/2017040792/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 14-11-2017 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2017. - Decreet inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische-communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten

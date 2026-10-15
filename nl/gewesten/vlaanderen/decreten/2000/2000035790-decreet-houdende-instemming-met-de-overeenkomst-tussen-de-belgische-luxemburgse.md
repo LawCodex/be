@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035790/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet houdende instemming met de overeenkomst tussen de Belgische-Luxemburgse Economische Unie en de regering van Hong Kong inzake de bevordering en bescherming van investeringen, ondertekend te Brussel op 7 oktober 1996.

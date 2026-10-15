@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/29/2019040875/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-2019 en tekstbijwerking tot 15-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Wet tot uitbreiding van de taxshelter naar de gaming-industrie

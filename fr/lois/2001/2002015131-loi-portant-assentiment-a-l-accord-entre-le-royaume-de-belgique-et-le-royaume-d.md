@@ -12,7 +12,7 @@ entry_into_force: 2002-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/24/2002015131/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AOUT 2001. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume d'Arabie Saoudite portant sur des exemptions réciproques en matière d'impôts sur le revenu et sur les bénéfices, de droits d'importation et de sécurité sociale dans le cadre de l'exercice du transport aérien en trafic international et annexe A, signés à Riyadh le 22 février 1997.

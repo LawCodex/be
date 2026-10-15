@@ -12,7 +12,7 @@ entry_into_force: 2007-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/23/2007003302/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2007. - Wet tot wijziging van een aantal wetten betreffende de dotaties aan het Rekenhof, de federale Ombudsmannen, de Benoemingscommissies voor het notariaat en de Commissie voor de bescherming van de persoonlijke levenssfeer.

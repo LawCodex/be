@@ -13,7 +13,7 @@ entry_into_force: 2003-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/14/2003035690/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2003. - Decreet houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 1999.

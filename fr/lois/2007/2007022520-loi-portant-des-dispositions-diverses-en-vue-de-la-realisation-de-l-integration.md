@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/26/2007022520/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 27-04-2007 et mise à jour au 31-12-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2007. - Loi portant des dispositions diverses en vue de la réalisation de l'intégration des petits risques dans l'assurance obligatoire soins de santé pour les travailleurs indépendants.

@@ -13,7 +13,7 @@ entry_into_force: 2015-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/11/2016031169/justel"
 department: "Brussels Hoofdstedelijk Gewest - Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2015. - Decreet houdende de aanpassing van de algemene uitgavenbegroting van de Franstalige Gemeenschapscommissie voor het begrotingsjaar 2015

@@ -12,7 +12,7 @@ entry_into_force: 2005-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/03/14/2005015052/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2005. - Loi portant assentiment aux Actes internationaux suivants : 1° Convention pour la répression d'actes illicites contre la sécurité de la navigation maritime; 2° Protocole pour la répression d'actes illicites contre la sécurité des plate-formes fixes situées sur le plateau continental faits à Rome le 10 mars 1988.

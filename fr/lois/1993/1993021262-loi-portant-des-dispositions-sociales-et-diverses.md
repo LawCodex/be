@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1993021262/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 31-03-1994 et mise à jour au 17-02-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi portant des dispositions sociales et diverses.

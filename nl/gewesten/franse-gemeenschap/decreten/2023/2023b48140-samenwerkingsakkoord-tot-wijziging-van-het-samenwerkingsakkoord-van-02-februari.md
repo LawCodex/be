@@ -12,7 +12,7 @@ published: 2024-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/20/2023B48140/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2023. - Samenwerkingsakkoord tot wijziging van het samenwerkingsakkoord van 02 februari 2005 betreffende de ontwikkeling van een overlegd beleid inzake alfabetisering van volwassenen, gesloten tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest

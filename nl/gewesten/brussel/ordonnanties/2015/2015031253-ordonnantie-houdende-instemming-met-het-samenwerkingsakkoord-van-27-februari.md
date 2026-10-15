@@ -13,7 +13,7 @@ entry_into_force: 2015-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/04/23/2015031253/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2015. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 27 februari 2014 tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de oprichting van een vergunningscoördinerend en -faciliterend comité voor trans-Europese energie-infrastructuurprojecten, ter uitvoering van verordening (EU) nr. 347/2013

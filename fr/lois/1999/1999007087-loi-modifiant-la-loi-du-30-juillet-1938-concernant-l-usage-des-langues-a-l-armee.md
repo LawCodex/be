@@ -12,7 +12,7 @@ entry_into_force: 1999-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/26/1999007087/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1999. - Loi modifiant la loi du 30 juillet 1938 concernant l'usage des langues à l'armée.

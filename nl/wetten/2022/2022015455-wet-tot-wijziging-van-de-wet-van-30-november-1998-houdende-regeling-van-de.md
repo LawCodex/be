@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/14/2022015455/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 05-08-2022 en tekstbijwerking tot 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2022. - Wet tot wijziging van de wet van 30 november 1998 houdende regeling van de inlichtingen- en veiligheidsdiensten

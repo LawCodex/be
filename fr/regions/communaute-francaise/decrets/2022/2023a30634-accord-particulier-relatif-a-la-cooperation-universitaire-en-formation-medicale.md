@@ -13,7 +13,7 @@ entry_into_force: 2023-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/04/2023A30634/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANVIER 2022. - Accord particulier relatif à la coopération universitaire en formation médicale entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la Communauté française, fait à Luxembourg le 4 janvier 2022

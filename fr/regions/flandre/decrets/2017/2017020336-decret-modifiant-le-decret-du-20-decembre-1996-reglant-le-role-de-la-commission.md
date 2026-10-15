@@ -13,7 +13,7 @@ entry_into_force: 2019-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/10/2017020336/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2017. - Décret modifiant le décret du 20 décembre 1996 réglant le rôle de la commission consultative locale dans le cadre de la livraison minimale d'électricité, de gaz et d'eau et le décret sur l'Energie du 8 mai 2009, en ce qui concerne l'introduction d'un cadre régulateur pour les réseaux de chaleur ou de froid

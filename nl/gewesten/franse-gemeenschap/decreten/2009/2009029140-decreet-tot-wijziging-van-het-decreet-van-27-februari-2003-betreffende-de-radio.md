@@ -13,7 +13,7 @@ entry_into_force: 2009-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/05/2009029140/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2009. - Decreet tot wijziging van het decreet van 27 februari 2003 betreffende de radio-omroep en van het decreet van 9 januari 2003 betreffende de doorzichtigheid, de autonomie en de controle in verband met de overheidsinstellingen, de maatschappijen voor schoolgebouwen en de maatschappijen voor vermogensbeheer die onder de Franse Gemeenschap ressorteren

@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/21/2025002723/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2025. - Décret relatif aux objectifs finaux de remplacement dans le premier degré de l'enseignement secondaire, en ce qui concerne les compétences clés " compétences en mathématiques, sciences exactes et technologie " et " compétences en matière de conscience historique ", à l'initiative de la Federatie Steinerscholen Vlaanderen vzw

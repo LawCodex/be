@@ -13,7 +13,7 @@ entry_into_force: 2002-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/05/2002036022/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2002. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2002 (TRADUCTION).

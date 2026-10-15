@@ -13,7 +13,7 @@ entry_into_force: 1994-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/01/1994035811/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1994. - Decreet houdende goedkeuring van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt te Parijs op 16 november 1972.

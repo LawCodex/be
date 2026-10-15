@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/01/2013009534/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-12-2013 et mise à jour au 25-04-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2013. - Loi portant réforme des arrondissements judiciaires et modifiant le Code judiciaire en vue de renforcer la mobilité des membres de l'ordre judiciaire

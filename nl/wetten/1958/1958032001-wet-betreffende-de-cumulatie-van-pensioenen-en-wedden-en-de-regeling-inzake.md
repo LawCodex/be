@@ -10,7 +10,7 @@ date: 1958-03-20
 published: 1958-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/03/20/1958032001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 1958. - Wet betreffende de cumulatie van pensioenen en wedden, en de regeling inzake rustpensioenen voor verschillende ambten.

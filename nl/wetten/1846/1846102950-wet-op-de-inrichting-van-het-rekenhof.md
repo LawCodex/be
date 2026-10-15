@@ -11,7 +11,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1846/10/29/1846102950/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 11-08-2001 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 1846. - Wet op de inrichting van het rekenhof.

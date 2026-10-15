@@ -13,7 +13,7 @@ entry_into_force: 2027-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/27/2026001751/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2026. - Décret modifiant le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle), en ce qui concerne le contrôle de la disponibilité des demandeurs d'emploi inscrits obligatoirement, la sanction et la défense

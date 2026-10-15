@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/12/18/1991121850/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-06-1994 et mise à jour au 17-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1991. - Décrets relatifs aux structures destinées aux [seniors] âgées, coordonnés le 18 décembre 1991. (Intitulé modifié par DCFL 2007-07-13/60 , art. 2, 006; En vigueur : 01-12-2008) (Traduction)

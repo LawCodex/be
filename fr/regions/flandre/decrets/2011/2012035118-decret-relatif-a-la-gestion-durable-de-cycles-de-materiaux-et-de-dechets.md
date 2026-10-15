@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/23/2012035118/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2012 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2011. - Décret relatif à la gestion durable de cycles de matériaux et de déchets

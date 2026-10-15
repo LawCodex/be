@@ -13,7 +13,7 @@ entry_into_force: 2011-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/04/28/2011029292/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2011. - Décret portant assentiment au Traité portant révision du Traité instituant l'Union économique Benelux, signé le 3 février 1958, au Protocole relatif aux Privilèges et Immunités de l'Union Benelux et à la Déclaration, signés à La Haye le 17 juin 2008

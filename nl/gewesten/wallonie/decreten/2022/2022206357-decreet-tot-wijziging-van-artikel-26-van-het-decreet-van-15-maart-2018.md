@@ -11,7 +11,7 @@ date: 2022-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/19/2022206357/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2022. - Decreet tot wijziging van artikel 26 van het decreet van 15 maart 2018 betreffende de woninghuurovereenkomst en tot beperking van de indexering van huurprijzen volgens het energieprestatiecertificaat van de gebouwen

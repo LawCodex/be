@@ -12,7 +12,7 @@ entry_into_force: 2023-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/25/2023042154/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2023. - Loi modifiant le Code des sociétés et des associations, la loi du 16 juillet 2004 portant le Code de droit international privé et le Code judiciaire, notamment à la suite de la transposition de la directive (UE) 2019/2121 du Parlement européen et du Conseil du 27 novembre 2019 modifiant la directive (UE) 2017/1132 en ce qui concerne les transformations, fusions et scissions transfrontalières

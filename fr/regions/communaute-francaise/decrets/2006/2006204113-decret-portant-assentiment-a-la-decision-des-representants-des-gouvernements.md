@@ -13,7 +13,7 @@ entry_into_force: 2007-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/17/2006204113/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2006. - Décret portant assentiment à la décision des représentants des Gouvernements des Etats membres (Traité international), réunis au sein du Conseil, concernant les privilèges et immunités accordés à l'Agence européenne de Défense et à son personnel, faite à Bruxelles.

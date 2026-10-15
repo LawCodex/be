@@ -13,7 +13,7 @@ entry_into_force: 2023-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/04/13/2023041680/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2023. - Ordonnance portant assentiment à l'accord de coopération du 24 décembre 2021 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la collaboration entre les entités fédérées en matière de prestations familiales

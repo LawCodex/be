@@ -13,7 +13,7 @@ entry_into_force: 1993-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/31/1994029209/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 1994. - Decreet tot wijziging van het decreet van 5 juni 1985 betreffende de deelneming van jongeren van minder dan 21 jaar aan de training en aan de wielerwedstrijden op of buiten de openbare weg. (Vertaling).

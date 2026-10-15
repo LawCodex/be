@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/01/2021033457/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-10-2021 et mise à jour au 08-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 2021. - Décret portant assentiment à l'accord de coopération du [ 1 27 septembre 2021] 1 visant à la modification de l'accord de coopération du 14 juillet 2021 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement des données liées au certificat COVID numérique de l'UE et au COVID Safe Ticket, le PLF et le traitement des données à caractère personnel des travailleurs salariés et des travailleurs indépendants vivant ou résidant à l'étranger qui effectuent des activités en Belgique ( 1 )&lt;DCFL 2024-03-29/04 , art. 2, 002; En vigueur : 01-10-2021&gt;

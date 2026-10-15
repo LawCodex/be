@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031830/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie houdende instemming met : de Overeenkomst tot oprichting van het Internationaal Instituut voor Democratie en Verkiezingsondersteuning, en de Slotakte, gedaan te Stockholm op 27 februari 1995, zoals gewijzigd door de Raad van het Internationaal Instituut op 24 januari 2006

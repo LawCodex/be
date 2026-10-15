@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1993015167/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 16-03-1999 et mise à jour au 01-08-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - [Loi portant approbation et exécution de la Convention internationale portant création d'un fonds international d'indemnisation pour les dommages dus à la pollution par les hydrocarbures, faite à Bruxelles le 18 décembre 1971, et portant exécution des Protocoles à cette Convention, faits à Londres le 27 novembre 1992 et le 16 mai 2003.] &lt;L 2005-10-06/35, art. 3, 003; En vigueur : 14-06-2006&gt; -

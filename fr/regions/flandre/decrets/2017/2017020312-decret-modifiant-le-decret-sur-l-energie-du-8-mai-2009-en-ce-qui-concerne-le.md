@@ -13,7 +13,7 @@ entry_into_force: 2017-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/10/2017020312/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2017. - Décret modifiant le décret sur l'Energie du 8 mai 2009, en ce qui concerne le raccordement à un réseau de distribution de gaz naturel et portant confirmation de la continuité de la prise de sanctions de la réglementation de la performance énergétique

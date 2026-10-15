@@ -12,7 +12,7 @@ entry_into_force: 2021-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/04/28/2021041188/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2021. - Loi contenant le premier ajustement du Budget général des dépenses pour l'année budgétaire 2021

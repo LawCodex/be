@@ -13,7 +13,7 @@ entry_into_force: 2002-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/01/2002035442/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2002. - Decreet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake het vervoer van aardgas door middel van een pijpleiding tussen het Koninkrijk België en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, ondertekend in Brussel op 10 december 1997.

@@ -13,7 +13,7 @@ entry_into_force: 1997-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/05/1997027002/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 1996. - Décret portant assentiment à l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et l'Ukraine, d'autre part, aux annexes I, II, III, IV et V, à l'appendice, au protocole et à l'acte final, signés à Luxembourg le 14 juin 1994.

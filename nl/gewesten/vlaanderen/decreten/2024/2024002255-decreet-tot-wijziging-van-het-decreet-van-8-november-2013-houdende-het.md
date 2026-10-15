@@ -12,7 +12,7 @@ published: 2024-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/23/2024002255/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2024. - Decreet tot wijziging van het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector

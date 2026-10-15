@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/10/2021031757/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2021 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2021. - Décret relatif à la pérennisation des emplois créés dans le cadre du dispositif des aides à la promotion de l'emploi (APE) et à la création d'emplois répondant à des besoins sociétaux prioritaires

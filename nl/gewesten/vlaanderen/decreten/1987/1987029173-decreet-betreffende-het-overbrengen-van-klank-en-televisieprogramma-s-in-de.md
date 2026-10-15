@@ -13,7 +13,7 @@ entry_into_force: 1987-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1987/01/28/1987029173/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 1987. - Decreet betreffende het overbrengen van klank- en televisieprogramma's in de radiodistributie- en teledistributienetten en betreffende de erkenning van niet-openbare televisieverenigingen.

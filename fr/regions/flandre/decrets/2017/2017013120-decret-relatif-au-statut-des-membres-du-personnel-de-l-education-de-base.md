@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017013120/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-09-2017 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret relatif au statut des membres du personnel de l'éducation de base

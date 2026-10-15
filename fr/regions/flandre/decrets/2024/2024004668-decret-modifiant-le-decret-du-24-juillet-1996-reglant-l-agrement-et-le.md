@@ -13,7 +13,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024004668/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le décret du 24 juillet 1996 réglant l'agrément et le subventionnement des institutions de médiation de dettes, en ce qui concerne le traitement des données à caractère personnel

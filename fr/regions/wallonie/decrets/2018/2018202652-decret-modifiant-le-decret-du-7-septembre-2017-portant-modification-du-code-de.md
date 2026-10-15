@@ -13,7 +13,7 @@ entry_into_force: 2018-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/11/2018202652/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2018. - Décret modifiant le décret du 7 septembre 2017 portant modification du Code de la démocratie locale et de la décentralisation afin de garantir une présence équilibrée de femmes et d'hommes au sein des collèges communaux et provinciaux de Wallonie

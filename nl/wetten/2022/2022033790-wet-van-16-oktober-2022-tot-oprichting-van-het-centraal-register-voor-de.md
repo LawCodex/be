@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/16/2022033790/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-10-2022 en tekstbijwerking tot 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2022. - [Wet van 16 oktober 2022 tot oprichting van het Centraal register voor de beslissingen van de rechterlijke orde en betreffende de bekendmaking van de vonnissen, houdende tijdelijke versoepelingen betreffende de elektronische ondertekening door leden of entiteiten van de rechterlijke orde en tot wijziging van de assisenprocedure betreffende de wraking van de gezworenen] &lt;W 2023-07-31/02 , art. 37, 002; Inwerkingtreding : 01-09-2023&gt;

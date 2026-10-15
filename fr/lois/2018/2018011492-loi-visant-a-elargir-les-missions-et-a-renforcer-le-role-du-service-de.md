@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/29/2018011492/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 13-04-2018 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Loi visant à élargir les missions et à renforcer le rôle du service de conciliation fiscale

@@ -13,7 +13,7 @@ entry_into_force: 2002-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/04/25/2002029237/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2002. - Décret portant assentiment à la Convention n° 182 de l'Organisation internationale du Travail concernant l'interdiction des pires formes de travail des enfants et l'action immédiate en vue de leur élimination, adoptée à Genève le 17 juin 1999.

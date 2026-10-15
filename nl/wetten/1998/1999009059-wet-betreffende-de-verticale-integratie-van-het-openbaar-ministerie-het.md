@@ -12,7 +12,7 @@ entry_into_force: 2000-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/22/1999009059/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1998. - Wet betreffende de verticale integratie van het openbaar ministerie, het federaal parket en de raad van de procureurs des Konings.

@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/26/2017020156/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2017. - Decreet houdende instemming met de Aanpassings- en aanvullingsovereenkomst met betrekking tot de Overeenkomst ondertekend te Brussel op 12 mei 1967 tussen het Koninkrijk België en het Algemeen Hoofdkwartier van de Geallieerde Strijdkrachten in Europa inzake de bijzondere voorwaarden voor de vestiging en het functioneren van dit Hoofdkwartier op het grondgebied van het Koninkrijk België, gedaan te Brussel op 10 september 2013

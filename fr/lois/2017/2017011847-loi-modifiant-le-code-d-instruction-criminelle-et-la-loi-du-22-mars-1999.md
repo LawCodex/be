@@ -12,7 +12,7 @@ entry_into_force: 2017-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/09/2017011847/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2017. - Loi modifiant le Code d'instruction criminelle et la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale (ERR. M. 10-05-2017, p. 55768)

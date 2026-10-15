@@ -12,7 +12,7 @@ entry_into_force: 2015-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015098/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 2011. - Loi portant assentiment à l'Accord, fait à Bruxelles le 23 octobre 2009, entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Principauté d'Andorre en vue de l'échange de renseignements en matière fiscale

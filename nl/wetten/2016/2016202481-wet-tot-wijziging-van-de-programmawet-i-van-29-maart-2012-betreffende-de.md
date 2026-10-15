@@ -12,7 +12,7 @@ entry_into_force: 2016-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/13/2016202481/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2016. - Wet tot wijziging van de programmawet (I) van 29 maart 2012 betreffende de controle op het misbruik van fictieve adressen door de gerechtigden van sociale prestaties, met het oog op de invoering van het systematisch doorzenden naar de KSZ van bepaalde verbruiksgegevens van nutsbedrijven en distributienetbeheerders tot verbetering van de datamining en de datamatching in de strijd tegen de sociale fraude

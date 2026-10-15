@@ -13,7 +13,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024005004/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 en verschillende andere decreten, wat betreft de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens

@@ -12,7 +12,7 @@ entry_into_force: 1984-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/04/27/1984015219/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1984. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République socialiste de Roumanie sur la reconnaissance des décisions relatives au divorce.

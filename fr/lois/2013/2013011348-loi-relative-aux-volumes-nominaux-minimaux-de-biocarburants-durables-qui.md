@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/17/2013011348/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2015 et mise à jour au 15-09-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - Loi relative aux volumes nominaux minimaux de biocarburants durables qui doivent être incorporés dans les volumes de carburants fossiles mis annuellement à la consommation

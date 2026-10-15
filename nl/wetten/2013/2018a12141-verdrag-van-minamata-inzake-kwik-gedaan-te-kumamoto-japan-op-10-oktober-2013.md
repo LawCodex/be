@@ -11,7 +11,7 @@ entry_into_force: 2018-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/10/10/2018A12141/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 2013. - Verdrag van Minamata inzake kwik, gedaan te Kumamoto (Japan) op 10 oktober 2013

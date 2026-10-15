@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/18/2015022579/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Wet betreffende de assimilatie van een periode van non-activiteit van bepaalde leden van de geïntegreerde politie voor de loopbaanvoorwaarde om met vervroegd pensioen te vertrekken, betreffende de cumulatie met een pensioen van de publieke sector, betreffende het gewaarborgd inkomen voor bejaarden en betreffende de pensioenen van het vliegend personeel van de burgerlijke luchtvaart

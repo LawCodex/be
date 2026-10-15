@@ -13,7 +13,7 @@ entry_into_force: 2009-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/13/2009035269/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Décret relatif aux dettes de la Région flamande et la Communauté flamande, incorporées ou non dans des titres

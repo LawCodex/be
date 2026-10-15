@@ -12,7 +12,7 @@ entry_into_force: 2000-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/03/2000014174/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2000. - Wet tot wijziging van de wet van 30 juli 1979 betreffende de radioberichtgeving en de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven.

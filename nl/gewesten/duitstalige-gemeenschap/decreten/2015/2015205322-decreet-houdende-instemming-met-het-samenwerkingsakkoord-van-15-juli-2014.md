@@ -11,7 +11,7 @@ date: 2015-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/02/2015205322/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBER 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 15 juli 2014 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad en de Franse Gemeenschapscommissie betreffende de nadere regels voor de werking van het Interfederaal Instituut voor de statistiek, van de raad van bestuur en de Wetenschappelijke Comités van het Instituut voor de nationale rekeningen

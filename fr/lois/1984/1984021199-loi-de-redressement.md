@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/07/31/1984021199/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1984 et mise à jour au 19-03-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 1984. - Loi de redressement.

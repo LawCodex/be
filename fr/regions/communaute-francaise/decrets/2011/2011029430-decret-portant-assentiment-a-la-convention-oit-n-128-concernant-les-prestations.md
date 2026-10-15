@@ -13,7 +13,7 @@ entry_into_force: 2011-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/19/2011029430/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2011. - Décret portant assentiment à la Convention OIT n° 128 concernant les prestations d'invalidité, de vieillesse et de survivants, adoptée à Genève le 29 juin 1967

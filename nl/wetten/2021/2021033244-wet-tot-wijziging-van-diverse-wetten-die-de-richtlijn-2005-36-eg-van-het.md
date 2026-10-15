@@ -11,7 +11,7 @@ entry_into_force: 2021-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/08/29/2021033244/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AUGUSTUS 2021. - Wet tot wijziging van diverse wetten die de richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties gedeeltelijk omzetten

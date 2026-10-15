@@ -13,7 +13,7 @@ entry_into_force: 1996-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/13/1996035785/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1996. - Decreet tot wijziging van het decreet van 7 november 1990 houdende vaststelling van het wapen, de vlag, het volkslied en de feestdag van de Vlaamse Gemeenschap.

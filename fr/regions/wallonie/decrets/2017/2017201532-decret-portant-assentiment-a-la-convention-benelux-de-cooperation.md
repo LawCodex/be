@@ -13,7 +13,7 @@ entry_into_force: 2017-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201532/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret portant assentiment à la Convention Benelux de coopération transfrontalière et interterritoriale, faite à La Haye, le 20 février 2014

@@ -12,7 +12,7 @@ entry_into_force: 2016-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/04/2016009223/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2016. - Loi modifiant la loi du 28 octobre 1996 relative à la restitution de biens culturels ayant quitté illicitement le territoire de certains Etats étrangers

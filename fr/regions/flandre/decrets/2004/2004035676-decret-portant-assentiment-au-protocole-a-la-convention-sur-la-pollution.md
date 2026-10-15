@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/26/2004035676/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-05-2004 et mise à jour au 24-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2004. - Décret portant assentiment au protocole à la convention sur la pollution atmosphérique transfrontière à longue distance, relatif aux polluants organiques persistants, et aux annexes, signés à Aarhus le 24 juin 1998 (TRADUCTION)

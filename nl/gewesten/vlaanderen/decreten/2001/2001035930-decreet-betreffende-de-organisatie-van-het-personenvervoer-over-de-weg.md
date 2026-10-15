@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "deze tekst werd gewijzigd bij DVR 2004-04-30/42 , art. 25 tot 26, 004; Inwerkingtreding : onbepaald ; zie B.S. 08-06-2004, p. 43414"
   - "Raadpleging van vroegere versies vanaf 21-08-2001 en tekstbijwerking tot 24-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2001. - Decreet betreffende de organisatie van het personenvervoer over de weg [...]. &lt;Opschrift gewijzigd door DVR 2006-07-07/65 , art. 18, 005; Inwerkingtreding : 01-10-2006&gt;

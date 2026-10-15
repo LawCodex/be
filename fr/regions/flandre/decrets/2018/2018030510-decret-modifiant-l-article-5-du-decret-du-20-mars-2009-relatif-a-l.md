@@ -13,7 +13,7 @@ entry_into_force: 2018-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/02/2018030510/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2018. - Décret modifiant l'article 5 du décret du 20 mars 2009 relatif à l'accessibilité aux personnes accompagnées de chiens d'assistance des lieux publics

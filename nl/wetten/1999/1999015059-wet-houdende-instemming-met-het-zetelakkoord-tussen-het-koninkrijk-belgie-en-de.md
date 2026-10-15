@@ -12,7 +12,7 @@ entry_into_force: 1993-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/22/1999015059/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 1999. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Cooperation Council of the Arab States of the Gulf, ondertekend te Brussel op 11 mei 1993.

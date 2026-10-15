@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/20/2020042398/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 24-07-2020 et mise à jour au 09-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2020. - Loi portant octroi d'une garantie de l'Etat pour certains crédits aux PME dans la lutte contre les conséquences du coronavirus et modifiant la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse

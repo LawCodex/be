@@ -12,7 +12,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/19/2005015126/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2005. - Loi modifiant l'article 8 de la loi du 25 mai 1999 relative à la coopération internationale belge, en ce qui concerne l'attention aux droits de l'enfant.

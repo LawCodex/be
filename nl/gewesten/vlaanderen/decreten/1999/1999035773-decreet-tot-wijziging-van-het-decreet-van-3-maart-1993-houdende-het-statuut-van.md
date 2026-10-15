@@ -13,7 +13,7 @@ entry_into_force: 1999-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/13/1999035773/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1999. - Decreet tot wijziging van het decreet van 3 maart 1993 houdende het statuut van de terreinen voor openluchtrecreatieve verblijven.

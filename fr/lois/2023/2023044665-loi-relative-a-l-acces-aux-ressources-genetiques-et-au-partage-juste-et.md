@@ -12,7 +12,7 @@ entry_into_force: 2023-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/22/2023044665/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2023. - Loi relative à l'accès aux ressources génétiques et au partage juste et équitable des avantages découlant de leur utilisation et modifiant la loi organique du 27 décembre 1990 créant des fonds budgétaires

@@ -13,7 +13,7 @@ entry_into_force: 2026-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/10/20/2026000529/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2025. - Décret portant assentiment aux accords internationaux suivants : 1° l'Accord-cadre global de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et le Royaume de Thaïlande, d'autre part, fait à Bruxelles le 14 décembre 2022; 2° l'Accord-cadre de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et le gouvernement de la Malaisie, d'autre part, fait à Bruxelles le 14 décembre 2022

@@ -12,7 +12,7 @@ entry_into_force: 2006-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/18/2006009678/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2006. - Loi tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés et réglementant l'exécution forcée en matière d'hébergement d'enfant.

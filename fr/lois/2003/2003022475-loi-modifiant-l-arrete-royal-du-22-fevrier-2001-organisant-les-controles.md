@@ -12,7 +12,7 @@ entry_into_force: 2003-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/28/2003022475/justel"
 department: "Agence Fédérale pour la Sécurité de la Chaine Alimentaire"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2003. - Loi modifiant l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales.

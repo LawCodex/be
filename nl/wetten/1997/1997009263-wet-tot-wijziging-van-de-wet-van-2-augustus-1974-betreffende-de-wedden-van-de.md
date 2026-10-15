@@ -12,7 +12,7 @@ entry_into_force: 1997-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/17/1997009263/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1997. - Wet tot wijziging van de wet van 2 augustus 1974 betreffende de wedden van de titularissen van sommige openbare ambten en van de bedienaars van de erediensten.

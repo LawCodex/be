@@ -13,7 +13,7 @@ entry_into_force: 2026-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/23/2026003216/justel"
 department: "Budget"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2026. - Décret contenant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2026

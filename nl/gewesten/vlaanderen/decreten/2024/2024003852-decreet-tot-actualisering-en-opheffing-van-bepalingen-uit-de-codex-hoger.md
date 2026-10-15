@@ -13,7 +13,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/22/2024003852/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2024. - Decreet tot actualisering en opheffing van bepalingen uit de Codex Hoger Onderwijs

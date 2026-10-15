@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016206612/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment à la Convention n° 170 de l'Organisation internationale du Travail concernant la sécurité dans l'utilisation des produits chimiques au travail, adoptée à Genève le 25 juin 1990

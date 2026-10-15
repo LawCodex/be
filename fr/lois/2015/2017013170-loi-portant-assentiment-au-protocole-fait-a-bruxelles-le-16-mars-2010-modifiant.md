@@ -12,7 +12,7 @@ entry_into_force: 2017-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/11/2017013170/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 2015. - Loi portant assentiment au Protocole, fait à Bruxelles le 16 mars 2010, modifiant la Convention entre le Royaume de Belgique et la République hellénique tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Athènes le 25 mai 2004

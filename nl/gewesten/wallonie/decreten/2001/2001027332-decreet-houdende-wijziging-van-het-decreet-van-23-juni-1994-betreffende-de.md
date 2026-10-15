@@ -13,7 +13,7 @@ entry_into_force: 2001-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/08/2001027332/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2001. - Decreet houdende wijziging van het decreet van 23 juni 1994 betreffende de oprichting en de uitbating van de onder het Waalse Gewest ressorterende luchthavens en vliegvelden (VERTALING).

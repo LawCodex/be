@@ -13,7 +13,7 @@ entry_into_force: 2019-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/21/2019040744/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2019. - Décret relatif au recouvrement des créances de la Communauté française

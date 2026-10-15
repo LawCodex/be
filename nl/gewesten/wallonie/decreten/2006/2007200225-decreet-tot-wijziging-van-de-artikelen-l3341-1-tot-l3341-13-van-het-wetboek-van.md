@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/21/2007200225/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2006. - Decreet tot wijziging van de artikelen L3341-1 tot L3341-13 van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de subsidies voor sommige investeringen van openbaar nut (VERTALING).

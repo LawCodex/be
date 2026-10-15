@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/23/2013207358/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2013. - Decreet tot wijziging van het decreet van 15 december 2011 houdende organisatie van de begroting en van de boekhouding van de diensten van de Waalse Regering

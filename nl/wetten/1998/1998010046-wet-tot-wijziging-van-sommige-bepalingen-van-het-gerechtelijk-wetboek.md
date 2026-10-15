@@ -12,7 +12,7 @@ entry_into_force: 1999-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/30/1998010046/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Wet tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek betreffende de rechtspleging inzake huur van goederen en van de wet van 30 december 1975 betreffende de goederen, buiten particuliere eigendommen gevonden of op de openbare weg geplaatst ter uitvoering van vonnissen van uitzetting.

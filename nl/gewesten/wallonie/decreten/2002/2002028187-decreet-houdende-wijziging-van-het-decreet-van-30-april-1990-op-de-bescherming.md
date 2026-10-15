@@ -13,7 +13,7 @@ entry_into_force: 2002-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/12/2002028187/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2002. - Decreet houdende wijziging van het decreet van 30 april 1990 op de bescherming en de exploitatie van grondwater en van tot drinkwater verwerkbaar water (VERTALING).

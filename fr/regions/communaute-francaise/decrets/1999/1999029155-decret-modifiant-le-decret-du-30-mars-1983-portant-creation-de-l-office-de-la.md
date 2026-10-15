@@ -13,7 +13,7 @@ entry_into_force: 1999-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/08/1999029155/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 1999. - Décret modifiant le décret du 30 mars 1983 portant création de l'Office de la Naissance et de l'Enfance, tel que modifié par les décrets des 22 décembre 1983, 12 mars 1990, 26 juin 1992 et 6 avril 1998.

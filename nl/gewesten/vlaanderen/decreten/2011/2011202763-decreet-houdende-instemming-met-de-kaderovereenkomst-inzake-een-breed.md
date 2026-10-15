@@ -13,7 +13,7 @@ entry_into_force: 2011-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/06/2011202763/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2011. - Decreet houdende instemming met de kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Indonesië, anderzijds, en de slotakte, ondertekend in Jakarta op 9 november 2009

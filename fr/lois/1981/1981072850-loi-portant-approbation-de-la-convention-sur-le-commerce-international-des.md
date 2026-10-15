@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/07/28/1981072850/justel"
 department: "Affaires étrangères"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2003 et mise à jour au 03-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 1981. - LOI portant approbation de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, et des Annexes, faites à Washington le 3 mars 1973, ainsi que l'Amendement à la Convention, adopté à Bonn le 22 juin 1979

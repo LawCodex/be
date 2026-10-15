@@ -12,7 +12,7 @@ published: 2018-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/06/2018013313/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2018. - Decreet tot wijziging van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs van 17 december 2010, wat betreft maatregelen voor leerlingen met specifieke onderwijsbehoeften

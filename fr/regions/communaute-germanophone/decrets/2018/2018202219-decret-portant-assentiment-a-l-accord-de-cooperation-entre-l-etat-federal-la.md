@@ -13,7 +13,7 @@ entry_into_force: 2018-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/23/2018202219/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2018. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant sur la coordination des politiques d'octroi d'autorisations de travail et d'octroi du permis de séjour, ainsi que les normes relatives à l'emploi et au séjour des travailleurs étrangers, fait à Bruxelles le 2 février 2018

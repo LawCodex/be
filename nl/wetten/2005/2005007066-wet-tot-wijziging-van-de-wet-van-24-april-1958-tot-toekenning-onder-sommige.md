@@ -12,7 +12,7 @@ entry_into_force: 2005-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/23/2005007066/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2005. - Wet tot wijziging van de wet van 24 april 1958 tot toekenning, onder sommige voorwaarden, van een pensioen aan de weduwen die na het schadelijk feit in het huwelijk zijn getreden met een gerechtigde van de wetten op de vergoedingspensioenen, tot het instellen van een strijdersrente en een gevangenschapsrente ten voordele van de strijder, de politieke gevangenen en de krijgsgevangenen van 1940-1945 en ter verwezenlijking van sommige aanpassingen inzake frontstrepen.

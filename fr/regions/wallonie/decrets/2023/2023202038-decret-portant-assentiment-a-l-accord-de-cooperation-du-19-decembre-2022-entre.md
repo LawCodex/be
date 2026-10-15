@@ -13,7 +13,7 @@ entry_into_force: 2023-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/09/2023202038/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2023. - Décret portant assentiment à l'accord de coopération du 19 décembre 2022 entre l'Etat fédéral, la Communauté flamande, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté française et la Communauté germanophone relatif à l'utilisation de la facilité pour la reprise et la résilience

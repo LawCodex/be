@@ -12,7 +12,7 @@ entry_into_force: 2020-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/29/2020030392/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Loi modifiant les articles 2 et 9ter de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'action sociale

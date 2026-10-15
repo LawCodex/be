@@ -11,7 +11,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/09/04/2002009854/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2002. - Wet tot wijziging van de faillissementswet van 8 augustus 1997, het Gerechtelijk Wetboek en het Wetboek van vennootschappen.

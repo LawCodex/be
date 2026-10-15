@@ -11,7 +11,7 @@ published: 2018-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/23/2018014209/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2018. - Wet houdende diverse bepalingen inzake het leefmilieu

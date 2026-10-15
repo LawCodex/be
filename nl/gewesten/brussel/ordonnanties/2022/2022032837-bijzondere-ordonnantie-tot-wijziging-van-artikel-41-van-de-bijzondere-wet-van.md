@@ -12,7 +12,7 @@ published: 2022-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/20/2022032837/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Bijzondere ordonnantie tot wijziging van artikel 41 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen teneinde een evenwichtige aanwezigheid van vrouwen en mannen te waarborgen onder de gewestelijke ministers en staatssecretarissen

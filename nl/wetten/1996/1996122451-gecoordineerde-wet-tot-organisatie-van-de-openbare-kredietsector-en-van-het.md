@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/24/1996122451/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1996 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1996. - [Gecoördineerde wet tot organisatie van de openbare kredietsector en van het bezit van de deelnemingen van de openbare sector in bepaalde privaatrechtelijke financiële vennootschappen]. (Opschrift vervangen door KB 29-09-1993, art. 1)

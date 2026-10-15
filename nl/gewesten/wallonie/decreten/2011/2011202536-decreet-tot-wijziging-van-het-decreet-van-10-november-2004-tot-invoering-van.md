@@ -13,7 +13,7 @@ entry_into_force: 2011-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/19/2011202536/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2011. - Decreet tot wijziging van het decreet van 10 november 2004 tot invoering van een regeling voor de handel in broeikasgasemissierechten, tot oprichting van een "Fonds wallon Kyoto" (Waals Kyotofonds) en betreffende de flexibiliteitsmechanismen van het Protocol van Kyoto

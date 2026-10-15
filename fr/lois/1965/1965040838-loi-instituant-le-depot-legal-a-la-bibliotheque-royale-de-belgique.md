@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/08/1965040838/justel"
 justel_notes:
   - "art. 1, 2 modifiés avec effet à une date indéterminée par L 2018-07-08/09 , art. 2-3, 005; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 27-07-1994 et mise à jour au 20-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 1965. - Loi instituant le dépôt légal à la Bibliothèque royale de Belgique.

@@ -11,7 +11,7 @@ date: 2002-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/05/2002036020/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2002. - Decreet houdende eerste aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2002.

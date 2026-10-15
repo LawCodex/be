@@ -13,7 +13,7 @@ entry_into_force: 1994-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/14/1994027439/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1994. - Décret modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.

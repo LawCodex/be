@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/08/02/1974080250/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 07-08-2008 et mise à jour au 24-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 1974. - Loi relative aux traitements des titulaires de certaines fonctions publiques, [...] des ministres des cultes reconnus [et des délégués du Conseil central laïque] &lt;L 2002-06-21/34, art.61&gt;.

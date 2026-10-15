@@ -13,7 +13,7 @@ entry_into_force: 2009-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/15/2009200240/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2009. - Décret visant à prolonger la durée de l'agrément régional des agences immobilières sociales.

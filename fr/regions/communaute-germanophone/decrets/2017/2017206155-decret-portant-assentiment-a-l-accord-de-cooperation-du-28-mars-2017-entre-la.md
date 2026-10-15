@@ -13,7 +13,7 @@ entry_into_force: 2018-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/23/2017206155/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2017. - Décret portant assentiment à l'Accord de coopération du 28 mars 2017 entre la Communauté flamande, la Région flamande et la Communauté germanophone visant à promouvoir la coopération générale

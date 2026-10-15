@@ -13,7 +13,7 @@ entry_into_force: 2019-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/01/2019011157/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Decreet tot bekrachtiging van het reglement van 8 oktober 2018 tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming door de Nederlands-Vlaamse Accreditatieorganisatie inzake het hoger onderwijs in de Vlaamse Gemeenschap

@@ -12,7 +12,7 @@ entry_into_force: 2020-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/12/20/2020200026/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2019. - Wet houdende instemming met het Samenwerkingsakkoord van 28 december 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de samenwerking tussen inspectiediensten in het kader van bevoegdheden inzake gezinsbijslagen

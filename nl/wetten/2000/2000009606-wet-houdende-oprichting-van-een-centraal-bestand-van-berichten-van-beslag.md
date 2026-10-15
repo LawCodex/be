@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/29/2000009606/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 09-08-2000 en tekstbijwerking tot 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2000. - Wet houdende oprichting van een centraal bestand van berichten van beslag, delegatie, overdracht en collectieve schuldenregeling, alsook tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek.

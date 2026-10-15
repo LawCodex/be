@@ -13,7 +13,7 @@ entry_into_force: 1997-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/11/1998031019/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1997. - Decreet houdende de tweede aanpassing van de Middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1997 (VERTALING).

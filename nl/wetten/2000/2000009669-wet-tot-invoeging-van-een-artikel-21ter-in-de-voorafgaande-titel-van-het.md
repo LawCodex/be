@@ -12,7 +12,7 @@ entry_into_force: 2000-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/30/2000009669/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2000. - Wet tot invoeging van een artikel 21ter in de voorafgaande titel van het Wetboek van strafvordering.

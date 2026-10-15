@@ -13,7 +13,7 @@ entry_into_force: 1999-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027154/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1999. - Décret portant assentiment par le Conseil régional wallon à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de l'Inde concernant l'encouragement et la protection réciproques des investissements, fait à New-Delhi le 31 octobre 1997.

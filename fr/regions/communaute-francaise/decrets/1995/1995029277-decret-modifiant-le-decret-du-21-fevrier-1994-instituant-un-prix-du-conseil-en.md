@@ -13,7 +13,7 @@ entry_into_force: 1995-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/27/1995029277/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1995. - Décret modifiant le décret du 21 février 1994 instituant un prix du Conseil en vue de récompenser une oeuvre originale d'un jeune artiste de la Communauté française dans le domaine des arts plastiques.

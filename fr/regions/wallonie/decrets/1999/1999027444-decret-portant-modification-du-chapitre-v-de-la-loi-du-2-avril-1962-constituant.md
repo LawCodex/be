@@ -13,7 +13,7 @@ entry_into_force: 1999-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027444/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret portant modification du Chapitre V de la loi du 2 avril 1962 constituant une Société nationale d'Investissement et des sociétés régionales d'investissement.

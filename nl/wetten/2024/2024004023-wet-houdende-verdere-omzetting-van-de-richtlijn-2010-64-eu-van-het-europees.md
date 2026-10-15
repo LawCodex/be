@@ -12,7 +12,7 @@ entry_into_force: 2024-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/25/2024004023/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Wet houdende verdere omzetting van de richtlijn 2010/64/EU van het Europees Parlement en de Raad van 20 oktober 2010 betreffende het recht op vertolking en vertaling in strafprocedures, van de richtlijn 2012/13/EU van het Europees Parlement en de Raad van 22 mei 2012 betreffende het recht op informatie in strafprocedures en van de richtlijn 2013/48/EU van het Europees Parlement en de Raad van 22 oktober 2013 betreffende het recht op toegang tot een advocaat in strafprocedures en in procedures ter uitvoering van een Europees aanhoudingsbevel en het recht om een derde op de hoogte te laten brengen vanaf de vrijheidsbeneming en om met derden en consulaire autoriteiten te communiceren tijdens de vrijheidsbeneming

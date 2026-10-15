@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/10/2001003295/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2001. - Loi modifiant les articles 4, 8, 9, 12 et 13 de la loi du 27 décembre 1994 portant assentiment de l'accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994, entre les Gouvernements de la République fédérale d'Allemagne, du Royaume de Belgique, du Royaume du Danemark, du Grand Duché de Luxembourg et du Royaume des Pays-Bas et instaurant une eurovignette, conformément à la directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993.

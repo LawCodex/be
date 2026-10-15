@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017031005/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-08-2017 en tekstbijwerking tot 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 19 april 2017 tot bepaling van de eindtermen inzake opvoeding tot filosofie en burgerzin en houdende bepaling van een procedure tot afwijking van het referentiesysteem

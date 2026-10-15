@@ -13,7 +13,7 @@ entry_into_force: 2001-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/05/31/2001027313/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2001. - Decreet houdende wijziging van het decreet van 30 april 1990 tot instelling van een belasting op het lozen van industrieel en huishoudelijk afvalwater (VERTALING).

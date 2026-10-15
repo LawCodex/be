@@ -12,7 +12,7 @@ entry_into_force: 2021-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/30/2021206004/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2021. - Loi prolongeant la période pendant laquelle une prime temporaire est octroyée aux bénéficiaires de certaines allocations d'assistance sociale, dans le cadre des mesures dans la lutte contre la propagation du coronavirus COVID-19

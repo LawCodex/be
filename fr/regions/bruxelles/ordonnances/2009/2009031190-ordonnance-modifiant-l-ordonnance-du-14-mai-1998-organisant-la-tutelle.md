@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/26/2009031190/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Ordonnance modifiant l'ordonnance du 14 mai 1998 organisant la tutelle administrative sur les communes de la Région de Bruxelles-Capitale

@@ -12,7 +12,7 @@ entry_into_force: 2019-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/10/2019010124/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2018. - Loi portant assentiment à l'Accord du Cap de 2012 sur la mise en oeuvre des dispositions du Protocole de 1993 relatif à la Convention internationale de Torremolinos de 1977 sur la sécurité des navires de pêche, fait au Cap le 11 octobre 2014

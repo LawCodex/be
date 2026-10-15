@@ -13,7 +13,7 @@ entry_into_force: 1996-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996035093/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Décret portant approbation de la Convention entre la Région flamande et le Royaume des Pays-Bas, en matière d'évacuation des eaux de la Meuse, et des annexes, A, B et C signées à Anvers le 17 janvier 1995 (TRADUCTION).

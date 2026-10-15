@@ -13,7 +13,7 @@ entry_into_force: 2022-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/29/2022032045/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2022. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat de toegang tot en het gebruik van EAN-codes door de syndicus betreft

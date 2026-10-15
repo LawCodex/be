@@ -13,7 +13,7 @@ last_amended: 2026-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/01/24/1977012405/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 26-10-1989 en tekstbijwerking tot 07-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 1977. - Wet betreffende de bescherming van de gezondheid van de verbruikers op het stuk van de voedingsmiddelen en andere produkten.

@@ -11,7 +11,7 @@ date: 2007-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/13/2007036491/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2007. - Decreet houdende instemming met het Internationaal Verdrag inzake plantgenetische hulpbronnen voor voeding en landbouw, ondertekend in Rome op 6 juni 2002.

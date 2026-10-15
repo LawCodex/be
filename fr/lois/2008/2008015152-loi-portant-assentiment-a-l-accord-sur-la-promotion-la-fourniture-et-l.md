@@ -12,7 +12,7 @@ entry_into_force: 2008-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/09/18/2008015152/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2008. - Loi portant assentiment à l'Accord sur la promotion, la fourniture et l'utilisation des systèmes de navigation par satellites de GALILEO et du GPS et les applications associées, et à l'Annexe, faits à Dromoland Castle, Co. Clare (Irlande) le 26 juin 2004.

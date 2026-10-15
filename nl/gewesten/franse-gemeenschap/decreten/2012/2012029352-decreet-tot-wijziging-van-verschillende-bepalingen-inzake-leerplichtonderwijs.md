@@ -12,7 +12,7 @@ published: 2012-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/12/2012029352/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Decreet tot wijziging van verschillende bepalingen inzake leerplichtonderwijs

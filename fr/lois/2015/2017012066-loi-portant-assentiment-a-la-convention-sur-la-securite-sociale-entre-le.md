@@ -12,7 +12,7 @@ entry_into_force: 2017-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/09/2017012066/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBRE 2015. - Loi portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et la République tunisienne, faite à Tunis le 28 mars 2013

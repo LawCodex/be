@@ -13,7 +13,7 @@ entry_into_force: 2026-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/11/2026004929/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2026. - Besluit tot wijziging en coördinatie van diverse bepalingen inzake de begroting, de boekhouding en de controle die van toepassing zijn op de diensten van de Regering en op de entiteiten die onder haar bevoegdheid vallen, en tot gedeeltelijke omzetting van Richtlijn (EU) 2024/1265 van de Raad van 29 april 2024 tot wijziging van Richtlijn 2011/85/EU betreffende voorschriften voor de begrotingskaders van de lidstaten

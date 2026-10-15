@@ -13,7 +13,7 @@ entry_into_force: 1997-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997036163/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - Decreet tot goedkeuring van het Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband en van de aanhangsels I, II, III, IV, V, VI en VII, ondertekend te Espoo op 25 februari 1991.

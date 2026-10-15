@@ -12,7 +12,7 @@ entry_into_force: 2020-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/09/2020042219/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2020. - Loi portant modification de la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances en vue de supprimer la condition de revenus pour l'octroi d'avances sur les pensions alimentaires dues aux enfants et de rendre applicables certaines dispositions du Code du recouvrement amiable et forcé des créances fiscales et non fiscales et portant modification de l'article 11 de la loi du 29 mars 2018 visant à élargir les missions et à renforcer le rôle du service de conciliation fiscale

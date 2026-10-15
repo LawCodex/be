@@ -13,7 +13,7 @@ entry_into_force: 2024-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/18/2024001094/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2024. - Decreet houdende instemming met het Protocol tot wijziging van het protocol inzake voorrechten en immuniteiten van de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), gedaan te Brussel op 6 december 2022

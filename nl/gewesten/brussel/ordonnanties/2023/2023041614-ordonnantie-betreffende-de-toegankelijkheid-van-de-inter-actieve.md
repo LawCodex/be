@@ -13,7 +13,7 @@ entry_into_force: 2025-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/03/30/2023041614/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2023. - Ordonnantie betreffende de toegankelijkheid van de inter-actieve zelfbedieningsterminals van het stads- en streekvervoer

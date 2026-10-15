@@ -12,7 +12,7 @@ entry_into_force: 1996-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/03/07/1996003196/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 1996. - Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat.

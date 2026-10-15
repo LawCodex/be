@@ -12,7 +12,7 @@ entry_into_force: 2003-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/16/2003007031/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2003. - Loi modifiant la loi du 11 juillet 1978 organisant les relations entre les autorités publiques et les syndicats du personnel militaire des forces terrestre, aérienne et navale et du service médical.

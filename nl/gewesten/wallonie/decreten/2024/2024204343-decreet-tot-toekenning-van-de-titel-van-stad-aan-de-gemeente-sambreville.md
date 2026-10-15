@@ -13,7 +13,7 @@ entry_into_force: 2024-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/28/2024204343/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2024. - Decreet tot toekenning van de titel van stad aan de gemeente Sambreville

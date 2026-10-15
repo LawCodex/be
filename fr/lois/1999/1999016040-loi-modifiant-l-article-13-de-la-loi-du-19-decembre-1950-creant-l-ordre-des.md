@@ -12,7 +12,7 @@ entry_into_force: 1999-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/26/1999016040/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1999. - Loi modifiant l'article 13 de la loi du 19 décembre 1950 créant l'Ordre des Médecins-vétérinaires.

@@ -13,7 +13,7 @@ entry_into_force: 2019-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/10/14/2019204908/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2019. - Décret portant assentiment à l'accord de coopération du 21 décembre 2018 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant l'implication de l'Etat fédéral dans la signature des accords de coopération du 6 septembre 2017 et du 30 mai 2018

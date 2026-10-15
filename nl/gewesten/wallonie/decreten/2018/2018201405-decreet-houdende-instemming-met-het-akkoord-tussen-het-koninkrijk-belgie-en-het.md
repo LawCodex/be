@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/15/2018201405/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2018. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en het Europees Ruimteagentschap betreffende het Centrum van het Europees Ruimtevaartagentschap in Redu, gedaan te Brussel op 24 mei 2017

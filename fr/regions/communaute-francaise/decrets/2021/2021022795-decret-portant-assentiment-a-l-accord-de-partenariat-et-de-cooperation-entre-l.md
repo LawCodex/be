@@ -13,7 +13,7 @@ entry_into_force: 2022-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/15/2021022795/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2021. - Décret portant assentiment à l'Accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, signe à Bruxelles, le 19 octobre 2018

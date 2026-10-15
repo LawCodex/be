@@ -13,7 +13,7 @@ entry_into_force: 1995-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/05/1995029017/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 1994. - DECREET houdende goedkeuring van : de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Roemenië, anderzijds, Protocollen 1 tot 7, Bijlagen I tot en met XIX, en de Slotakte, gedaan te Brussel op 1 februari 1993, en de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Bulgarije, anderzijds, Protocollen 1 tot 8, Bijlagen I tot en met XVI, en Slotakte, gedaan te Brussel op 8 maart 1993

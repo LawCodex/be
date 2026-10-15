@@ -13,7 +13,7 @@ entry_into_force: 2023-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/02/09/2023040579/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2023. - Decreet houdende integratie van de algemene boekhouding van de administratieve diensten met boekhoudkundige autonomie in deze van de diensten van algemeen bestuur en ministeriële kabinetten van de Franse Gemeenschap

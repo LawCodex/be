@@ -13,7 +13,7 @@ entry_into_force: 2004-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/31/2004029168/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2004. - Decreet tot wijziging van de decreten van 27 februari 2003 tot vaststelling van de academische graden uitgereikt door de hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap en tot vaststelling van de minimale uurregelingen en van 9 september 1996 betreffende de financiering van de door de Franse Gemeenschap ingerichte of gesubsidieerde Hogescholen (VERTALING).HI:??2,Zitting 2003-2004. Stukken van de Raad. - Ontwerp van decreet, nr. 502-1. - Commissieamendementen, nr. 502-2. - Verslag, nr. 502-3 Integraal verslag. - Bespreking en aanneming. Vergadering van 23 maart 2004.

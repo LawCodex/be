@@ -13,7 +13,7 @@ entry_into_force: 2007-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200801/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2007. - Décret modifiant le décret du 31 mai 1999 portant confirmation des profils de formation du technicien en horticulture, de l'ébéniste, de l'équipier polyvalent en restauration, du technicien en boucherie charcuterie, de l'ouvrier-coiffeur qualifié, de l'assistant pharmaceutico-technique tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.

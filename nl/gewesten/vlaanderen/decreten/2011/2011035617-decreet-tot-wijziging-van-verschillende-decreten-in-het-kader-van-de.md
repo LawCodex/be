@@ -13,7 +13,7 @@ entry_into_force: 2011-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/08/2011035617/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2011. - Decreet tot wijziging van verschillende decreten in het kader van de herstructurering van het agentschap Toerisme Vlaanderen

@@ -13,7 +13,7 @@ entry_into_force: 2008-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/12/2008031434/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2008. - Décret portant assentiment à l'Accord de coopération entre la Communauté française, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale créant une entité commune pour les Relations internationales de Wallonie-Bruxelles.

@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011204002/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming met het Aanvullend Protocol bij het Europees Handvest inzake de lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten, ondertekend in Utrecht, op 16 november 2009

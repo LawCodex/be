@@ -12,7 +12,7 @@ entry_into_force: 2014-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/15/2014014045/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2013. - Loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière en ce qui concerne la durée de la déchéance subsidiaire du droit de conduire

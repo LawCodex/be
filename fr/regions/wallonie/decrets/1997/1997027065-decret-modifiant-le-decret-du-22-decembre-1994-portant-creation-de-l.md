@@ -13,7 +13,7 @@ entry_into_force: 1997-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/02/06/1997027065/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 1997. - Décret modifiant le décret du 22 décembre 1994 portant création de l'institution de Médiateur de la Région wallonne.

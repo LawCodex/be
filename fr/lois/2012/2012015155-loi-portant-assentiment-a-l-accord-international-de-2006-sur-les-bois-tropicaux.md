@@ -12,7 +12,7 @@ entry_into_force: 2016-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/15/2012015155/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AOUT 2012. - Loi portant assentiment à l'Accord international de 2006 sur les bois tropicaux, fait à Genève le 27 janvier 2006

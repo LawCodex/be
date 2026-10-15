@@ -12,7 +12,7 @@ entry_into_force: 2023-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/09/13/2023046788/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2023. - Loi modifiant la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox

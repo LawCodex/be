@@ -12,7 +12,7 @@ entry_into_force: 2022-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/20/2022A20289/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Overeenkomst tussen het Koninkrijk België en de Republiek Finland inzake de wederzijdse bescherming van geclassificeerde informatie, gedaan te Helsinki op 20 juli 2016

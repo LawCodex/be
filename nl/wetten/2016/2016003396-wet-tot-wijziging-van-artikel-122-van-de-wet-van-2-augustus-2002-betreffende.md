@@ -10,7 +10,7 @@ date: 2016-11-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/11/21/2016003396/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2016. - Wet tot wijziging van artikel 122 van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten teneinde het beroep te regelen dat kan worden ingesteld tegen bepaalde beslissingen van de FSMA, genomen krachtens de wet van 25 oktober 2016 betreffende de toegang tot het beleggingsdienstenbedrijf en betreffende het statuut van en het toezicht op de vennootschappen voor vermogensbeheer en beleggingsadvies

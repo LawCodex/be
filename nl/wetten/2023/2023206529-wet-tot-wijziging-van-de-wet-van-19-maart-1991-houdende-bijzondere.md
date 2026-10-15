@@ -12,7 +12,7 @@ entry_into_force: 2025-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/03/2023206529/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2023. - Wet tot wijziging van de wet van 19 maart 1991 houdende bijzondere ontslagregeling voor de personeelsafgevaardigden in de ondernemingsraden en in de comités voor veiligheid, gezondheid en verfraaiing van de werkplaatsen alsmede voor de kandidaat-personeelsafgevaardigden

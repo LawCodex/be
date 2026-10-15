@@ -13,7 +13,7 @@ entry_into_force: 2022-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/20/2022200576/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2022. - Décret modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité en vue de la régularisation des réductions de surcharge certificats verts

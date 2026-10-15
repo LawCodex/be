@@ -13,7 +13,7 @@ entry_into_force: 2004-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035856/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van het Elektriciteitsdecreet van 17 juli 2000, wat betreft het groenestroomcertificatensysteem, en tot interpretatie van artikel 37, § 2, van ditzelfde decreet.

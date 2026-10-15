@@ -12,7 +12,7 @@ entry_into_force: 2007-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/07/2007015106/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2007. - Wet houdende instemming met Resolutie 997, aangenomen door de Raad van de IOM tijdens zijn 421e vergadering op 24 november 1998, tot wijziging van het Statuut van de Internationale Organisatie voor Migratie (IOM).

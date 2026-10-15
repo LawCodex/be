@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/09/2021032223/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-08-2021 et mise à jour au 30-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2021. - Décret-programme de l'ajustement du budget 2021

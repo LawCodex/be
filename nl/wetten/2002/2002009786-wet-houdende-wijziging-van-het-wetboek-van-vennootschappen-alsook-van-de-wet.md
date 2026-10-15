@@ -11,7 +11,7 @@ published: 2002-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002009786/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet houdende wijziging van het Wetboek van vennootschappen alsook van de wet van 2 maart 1989 op de openbaarmaking van belangrijke deelnemingen in ter beurze genoteerde vennootschappen en tot reglementering van de openbare overnameaanbiedingen.

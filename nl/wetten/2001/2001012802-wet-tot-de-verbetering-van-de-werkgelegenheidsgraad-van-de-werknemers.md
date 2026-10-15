@@ -15,7 +15,7 @@ justel_notes:
   - "art. 15 gewijzigd in de toekomst voor de Duitstalige Gemeenschap door DDG 2016-04-25/10 , art. 64, ; Inwerkingtreding : onbepaald "
   - "art. 10 ; 10/1 ; 18 - 18/4 gewijzigd met ingang op een onbepaalde datum bij W 2022-12-26/01 , art. 164-165; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 15-09-2001 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2001. - Wet tot de verbetering van de werkgelegenheidsgraad van de werknemers.

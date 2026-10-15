@@ -13,7 +13,7 @@ entry_into_force: 2013-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/09/19/2013205237/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2013. - Decreet tot wijziging van artikel 327, 1°, van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende de integratie van de gehandicapte personen

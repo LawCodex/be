@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/24/2017011133/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-03-2017 et mise à jour au 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2017. - Décret instaurant un environnement pilote pour des formes d'habitat expérimentales et autorisant une coordination de la réglementation concernant la législation relative à la location d'habitations

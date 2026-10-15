@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/04/2023042164/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-06-2023 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2023. - Loi relative au Registre central des interdictions de gérer

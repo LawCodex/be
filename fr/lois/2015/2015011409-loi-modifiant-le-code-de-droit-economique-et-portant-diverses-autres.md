@@ -12,7 +12,7 @@ entry_into_force: 2015-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/10/26/2015011409/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 2015. - Loi modifiant le Code de droit économique et portant diverses autres dispositions modificatives

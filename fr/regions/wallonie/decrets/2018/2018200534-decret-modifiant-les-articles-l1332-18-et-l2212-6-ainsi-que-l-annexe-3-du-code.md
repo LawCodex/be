@@ -13,7 +13,7 @@ entry_into_force: 2018-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/25/2018200534/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2018. - Décret modifiant les articles L1332-18 et L2212-6 ainsi que l'annexe 3 du Code de la démocratie locale et de la décentralisation

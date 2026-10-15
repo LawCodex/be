@@ -12,7 +12,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/22/2006015064/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2006. - Loi portant assentiment à l'Accord entre les Gouvernements des Etats du Benelux (le Royaume de Belgique, le Royaume des Pays-Bas, le grand-duché de Luxembourg) et le Gouvernement de la République de Lettonie relatif à la réadmission des personnes en séjour irrégulier (Accord de réadmission), à l'Annexe, et au Protocole d'application, faits à Bruxelles le 9 juin 1999.

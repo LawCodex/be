@@ -12,7 +12,7 @@ entry_into_force: 2012-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/15/2012009093/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2012. - Wet tot wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, en van het Sociaal Strafwetboek

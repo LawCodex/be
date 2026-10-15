@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/08/2014031461/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Ordonnantie tot wijziging van de ordonnantie van 25 maart 1999 betreffende de opsporing, de vaststelling, de vervolging en de bestraffing van misdrijven inzake leefmilieu alsook andere wetgevingen inzake milieu, en tot instelling van een Wetboek van inspectie, preventie, vaststelling en bestraffing van milieumisdrijven, en milieuaansprakelijkheid

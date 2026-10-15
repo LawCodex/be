@@ -12,7 +12,7 @@ entry_into_force: 2006-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/20/2006003084/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2005. - Loi modifiant la loi du 5 septembre 2001 portant garantie d'une réduction continue de la dette publique et création d'un Fonds de vieillissement.

@@ -18,7 +18,7 @@ justel_notes:
   - "Bij arrest van 26-05-1988 (B.St. 18-06-1988), heeft het Arbitragehof artikel 65, eerste lid, 1 vernietigd"
   - "Bij arrest van 11-05-1989 (B.St. 31-05-1989), heeft het Arbitragehof verschillende artikelen vernietigd (zie art. 55, §1, 1; 55, § 2; 57; 58; 60; 62; 63"
   - "Raadpleging van vroegere versies vanaf 30-12-1986 en tekstbijwerking tot 28-02-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 1981. - Decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen. (DVR 1994-04-20/31, art. 2, 010; Inwerkingtreding : 07-05-1994)

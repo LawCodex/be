@@ -12,7 +12,7 @@ entry_into_force: 2011-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/07/2011003370/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2011. - Loi portant des dispositions fiscales et diverses

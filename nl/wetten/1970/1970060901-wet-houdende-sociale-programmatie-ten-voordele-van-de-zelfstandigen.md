@@ -11,7 +11,7 @@ published: 1970-06-17
 entry_into_force: 1970-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/06/09/1970060901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1970. - Wet houdende sociale programmatie ten voordele van de zelfstandigen.

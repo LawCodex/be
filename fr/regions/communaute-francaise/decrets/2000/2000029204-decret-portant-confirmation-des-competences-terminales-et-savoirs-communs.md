@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/30/2000029204/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-05-2000 et mise à jour au 19-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2000. - Décret portant confirmation des compétences terminales et savoirs communs requis à l'issue de la section de qualification, les compétences terminales et savoirs requis en éducation physique à l'issue de la section de qualification et les compétences minimales en matière de communication dans une langue moderne autre que le français à l'issue de la section de qualification, lorsque l'apprentissage d'une langue moderne figure au programme d'études

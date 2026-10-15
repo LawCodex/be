@@ -16,7 +16,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/17/2026001277/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-03-2026 en tekstbijwerking tot 17-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2025. - Decreet houdende aanpassing van de uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2026

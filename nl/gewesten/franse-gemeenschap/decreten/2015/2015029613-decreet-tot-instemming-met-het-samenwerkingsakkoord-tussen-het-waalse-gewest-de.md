@@ -13,7 +13,7 @@ entry_into_force: 2015-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/13/2015029613/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2015. - Decreet tot instemming met het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie betreffende de kosteloze detachering naar ministeriële kabinetten

@@ -12,7 +12,7 @@ entry_into_force: 1990-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/26/1990009888/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1990. - Loi abrogeant l'arrêté-loi du 26 mai 1944 relatif à la compétence et à la procédure en matière de crimes et délits contre la sûreté de l'Etat.

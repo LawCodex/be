@@ -12,7 +12,7 @@ entry_into_force: 2012-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/25/2012011343/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AOUT 2012. - Loi portant des dispositions diverses en matière d'énergie

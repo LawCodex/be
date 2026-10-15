@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029715/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-11-2009 en tekstbijwerking tot 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet betreffende de omkadering en de subsidiëring van de federaties voor amateuristische kunstbeoefening, van de Federaties die Centra voor expressie en creativiteit vertegenwoordigen en van de centra voor expressie en creativiteit

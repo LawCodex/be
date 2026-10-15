@@ -13,7 +13,7 @@ entry_into_force: 2020-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/15/2020041349/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2020. - Decreet tot wijziging van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen, wat betreft de COVID-19-waarborg

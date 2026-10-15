@@ -13,7 +13,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1973/07/12/1973B71207/justel"
 justel_notes:
   - "Deze versie, geldig voor het Vlaamse Gewest, werd gecreërd ter gelegenheid van de wijziging bij DVR 2002-01-18/36 , gepubliceerd op 13-02-2002. Voor de vorige versies, zie de federale vorm W 1973-07-12/30 en de archieven ervan."
   - "Raadpleging van vroegere versies vanaf 07-06-2006 en tekstbijwerking tot 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1973. - Wet op het natuurbehoud : Vlaamse Gewest

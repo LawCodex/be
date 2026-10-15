@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201929/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret portant assentiment à 1° la Convention entre le Royaume de Belgique et la République des Seychelles tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Bruxelles le 27 avril 2006 et 2° au Protocole, signé à Bruxelles le 14 juillet 2009, modifiant la Convention entre le Royaume de Belgique et la République des Seychelles tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Bruxelles le 27 avril 2006

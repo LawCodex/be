@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/23/2017031698/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 11-12-2017 et mise à jour au 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2017. - Loi portant modification du nom de la Coopération technique belge et définition des missions et du fonctionnement de Enabel, Agence belge de Développement

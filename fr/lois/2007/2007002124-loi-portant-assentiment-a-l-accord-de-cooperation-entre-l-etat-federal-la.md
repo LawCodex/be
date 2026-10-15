@@ -12,7 +12,7 @@ entry_into_force: 2007-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/27/2007002124/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté française et la Région wallonne relatif à la gestion administrative et financière des coordinations provinciales pour l'égalité entre les femmes et les hommes.

@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/12/2018032071/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2018. - Décret déterminant le congé de formation flamand et diverses dispositions relatives au domaine politique de l'Emploi et de l'Economie sociale

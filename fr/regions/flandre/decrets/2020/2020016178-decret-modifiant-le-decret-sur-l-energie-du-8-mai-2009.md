@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/30/2020016178/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 25-11-2020 et mise à jour au 30-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2020. - Décret modifiant le décret sur l'Energie du 8 mai 2009

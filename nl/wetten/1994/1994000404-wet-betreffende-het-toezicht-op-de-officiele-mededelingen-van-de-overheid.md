@@ -12,7 +12,7 @@ entry_into_force: 1994-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/12/1994000404/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1994. - Wet betreffende het toezicht op de officiële mededelingen van de overheid.

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/14/2023030720/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2023. - Loi modifiant la loi-programme (i) du 27 decembre 2006

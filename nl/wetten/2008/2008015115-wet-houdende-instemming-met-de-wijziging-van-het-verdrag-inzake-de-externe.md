@@ -12,7 +12,7 @@ entry_into_force: 2013-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/15/2008015115/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2008. - Wet houdende instemming met de Wijziging van het Verdrag inzake de externe beveiliging van kernmateriaal, aangenomen te Wenen op 8 juli 2005 door de Conferentie van de Staten die partij zijn bij het Verdrag

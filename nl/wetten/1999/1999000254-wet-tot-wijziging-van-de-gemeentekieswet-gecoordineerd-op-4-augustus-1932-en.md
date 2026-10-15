@@ -12,7 +12,7 @@ entry_into_force: 1999-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/22/1999000254/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1999. - Wet tot wijziging van de gemeentekieswet, gecoördineerd op 4 augustus 1932 en van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.

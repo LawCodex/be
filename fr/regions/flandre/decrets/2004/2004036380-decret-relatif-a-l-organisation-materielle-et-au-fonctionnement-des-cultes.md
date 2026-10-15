@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036380/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-09-2004 et mise à jour au 19-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret relatif à l'organisation matérielle et au fonctionnement des cultes reconnus (TRADUCTION).

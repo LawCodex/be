@@ -13,7 +13,7 @@ entry_into_force: 2014-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031473/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance modifiant l'article 159 du Code des droits d'enregistrement

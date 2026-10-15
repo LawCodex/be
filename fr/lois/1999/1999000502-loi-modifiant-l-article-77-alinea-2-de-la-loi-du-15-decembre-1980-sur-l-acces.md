@@ -12,7 +12,7 @@ entry_into_force: 1999-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/29/1999000502/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1999. - Loi modifiant l'article 77, alinéa 2, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

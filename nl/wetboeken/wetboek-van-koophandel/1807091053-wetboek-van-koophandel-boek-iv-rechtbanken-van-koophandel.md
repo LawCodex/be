@@ -9,7 +9,7 @@ language: nl
 date: 1807-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1807/09/10/1807091053/justel"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBER 1807. - WETBOEK VAN KOOPHANDEL : BOEK IV. - Rechtbanken van koophandel.

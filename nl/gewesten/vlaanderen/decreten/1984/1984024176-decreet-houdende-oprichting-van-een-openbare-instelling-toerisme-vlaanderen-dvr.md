@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1984/05/29/1984024176/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 30-12-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 1984. - Decreet houdende oprichting van een [openbare instelling Toerisme Vlaanderen]. &lt;DVR 1995-12-22/41, art. 4, 1°, 003; Inwerkingtreding : 01-01-1996&gt;

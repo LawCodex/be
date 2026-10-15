@@ -13,7 +13,7 @@ entry_into_force: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024005594/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le décret du 21 novembre 2003 relatif à la politique de santé préventive, en ce qui concerne les administrations locales, les initiatives relatives aux facteurs biotiques, les initiatives relatives aux facteurs physiques et chimiques, les initiatives relatives à l'impact sur la santé du changement climatique et le traitement de données à caractère personnel

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/11/2000011352/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2000. - Loi modifiant la loi du 22 juillet 1985 sur la responsabilité civile dans le domaine de l'énergie nucléaire.

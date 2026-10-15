@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/08/1965040806/justel"
 justel_notes:
   - "Pour la conversion en euro voir L 2000-06-26/42 "
   - "Consultation des versions antérieures à partir du 30-01-1990 et mise à jour au 14-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 1965. - [Loi relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait]. (Intitulé remplacé par L 2006-06-13/40 , art. 2, 023; En vigueur : 16-10-2006)

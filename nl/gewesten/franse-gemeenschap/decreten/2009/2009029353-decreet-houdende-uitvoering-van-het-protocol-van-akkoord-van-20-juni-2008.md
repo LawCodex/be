@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029353/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-2009 en tekstbijwerking tot 28-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende uitvoering van het Protocol van akkoord van 20 juni 2008 gesloten voor de periode 2009-2010 met de representatieve vakverenigingen van de onderwijssector

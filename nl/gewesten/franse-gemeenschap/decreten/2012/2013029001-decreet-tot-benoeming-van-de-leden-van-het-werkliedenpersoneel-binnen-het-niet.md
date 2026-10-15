@@ -12,7 +12,7 @@ published: 2013-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/13/2013029001/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2012. - Decreet tot benoeming van de leden van het werkliedenpersoneel binnen het niet-universitair hoger onderwijs georganiseerd door de Franse Gemeenschap

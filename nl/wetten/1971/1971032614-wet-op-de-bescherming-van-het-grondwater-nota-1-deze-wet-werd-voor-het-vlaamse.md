@@ -13,7 +13,7 @@ last_amended: 2014-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/03/26/1971032614/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-1990 en tekstbijwerking tot 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1971. - Wet op de bescherming van het grondwater (NOTA 1 : Deze wet werd voor het Vlaamse Gewest opgeheven bij DVR 1984-01-24/32 ,art. 31,§1, B.St. 05-06-1984, p. 8156) (NOTA 2 : opgeheven voor het Waalse Gewest bij DWG 1990-04-30/30 , art. 24, 3°, 002; Inwerkingtreding : 30-06-1990)

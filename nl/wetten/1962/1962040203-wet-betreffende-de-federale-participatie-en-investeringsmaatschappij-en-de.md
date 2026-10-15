@@ -13,7 +13,7 @@ last_amended: 2024-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/04/02/1962040203/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 05-01-1989 en tekstbijwerking tot 15-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1962. - [Wet betreffende de Federale Participatie- en Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen] &lt;Opschrift vervangen door W 2006-08-26/30 , art. 6, 009; Inwerkingtreding : 01-11-2006&gt;

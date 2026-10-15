@@ -12,7 +12,7 @@ entry_into_force: 2021-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/21/2021031561/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2021. - Loi portant approbation de la souscription de la Belgique à l'augmentation générale du capital de la Société financière internationale et portant approbation de l'amendement des statuts de la Société financière internationale

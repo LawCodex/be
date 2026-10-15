@@ -13,7 +13,7 @@ entry_into_force: 2018-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/04/19/2018011725/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2018. - Ordonnantie tot wijziging van de Brusselse Huisvestingscode ter versterking van goed bestuur in de openbare huisvestingssector

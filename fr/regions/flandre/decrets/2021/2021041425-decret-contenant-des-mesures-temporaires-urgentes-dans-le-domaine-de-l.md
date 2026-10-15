@@ -13,7 +13,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/30/2021041425/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2021. - Décret contenant des mesures temporaires urgentes dans le domaine de l'enseignement suite à la crise du coronavirus (VII)

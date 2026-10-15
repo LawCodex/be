@@ -12,7 +12,7 @@ entry_into_force: 1995-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/15/1995011395/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1994. - Loi portant dissolution du Fonds national de Garantie pour la Réparation des Dégâts houillers.

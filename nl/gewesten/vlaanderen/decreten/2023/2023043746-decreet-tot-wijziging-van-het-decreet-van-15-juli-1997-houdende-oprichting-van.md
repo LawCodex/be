@@ -13,7 +13,7 @@ entry_into_force: 2023-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/07/2023043746/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2023. - Decreet tot wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren, wat de maandcommissarissen en het toepassingsgebied van de Commissie van Toezicht voor Jeugdinstellingen betreft

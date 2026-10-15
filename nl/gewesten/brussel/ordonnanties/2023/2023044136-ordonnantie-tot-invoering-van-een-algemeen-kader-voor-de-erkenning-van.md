@@ -11,7 +11,7 @@ date: 2023-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/07/20/2023044136/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Ordonnantie tot invoering van een algemeen kader voor de erkenning van beroepskwalificaties

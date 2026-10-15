@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995027015/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 23-02-1995 en tekstbijwerking tot 15-09-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - DECREET tot instelling van een ombudsman van het Waalse Gewest.

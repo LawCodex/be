@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/08/2009202688/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2009. - Decreet houdende wijziging van het decreet van 21 december 1988 houdende de oprichting van de Vlaamse Landmaatschappij en van het decreet van 16 juni 2006 houdende oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen, wat het principe van uitstel van betaling betreft

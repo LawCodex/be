@@ -12,7 +12,7 @@ entry_into_force: 2009-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/01/16/2009009031/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2009. - Loi modifiant les articles 189ter, 235ter, 335bis et 416 du Code d'instruction criminelle.

@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1971/03/26/1971B32613/justel"
 justel_notes:
   - "pour les versions antérieures à la mise à jour du 31-12-2003, voir la forme fédérale 1971-03-26/02 , versions archivées 032 et 033 et antérieures."
   - "Consultation des versions antérieures à partir du 20-02-2004 et mise à jour au 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1971. - Loi sur la protection des eaux de surface contre la pollution - REGION FLAMANDE.

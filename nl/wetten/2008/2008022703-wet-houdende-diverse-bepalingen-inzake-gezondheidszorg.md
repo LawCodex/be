@@ -12,7 +12,7 @@ entry_into_force: 2009-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/19/2008022703/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Wet houdende diverse bepalingen inzake gezondheidszorg

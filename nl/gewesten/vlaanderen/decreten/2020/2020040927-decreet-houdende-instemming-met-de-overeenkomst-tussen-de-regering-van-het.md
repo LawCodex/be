@@ -13,7 +13,7 @@ entry_into_force: 2020-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/03/20/2020040927/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2020. - Decreet houdende instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Federale Republiek Brazilië betreffende luchtdiensten, gedaan te Brussel op 4 oktober 2009

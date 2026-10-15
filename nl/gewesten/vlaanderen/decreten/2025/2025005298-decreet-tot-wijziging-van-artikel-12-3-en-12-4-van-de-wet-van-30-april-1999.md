@@ -13,7 +13,7 @@ entry_into_force: 2025-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/27/2025005298/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2025. - Decreet tot wijziging van artikel 12/3 en 12/4 van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en artikel 13/6 van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004

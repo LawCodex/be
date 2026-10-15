@@ -11,7 +11,7 @@ published: 1976-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/08/04/1976080404/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1976. - Wet houdende goedkeuring van het Algemeen Verdrag betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek Tunesië, en van het Protocol, ondertekend te Tunis op 29 januari 1975.

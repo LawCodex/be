@@ -12,7 +12,7 @@ published: 2022-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/19/2022206318/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2022. - Decreet tot wijziging van artikel L1314-1 van het Wetboek van de plaatselijke democratie en de decentralisatie inzake begrotingstekort en gebruik van de gewone reservefondsen

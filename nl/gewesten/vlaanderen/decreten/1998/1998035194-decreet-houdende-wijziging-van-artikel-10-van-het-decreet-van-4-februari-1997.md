@@ -13,7 +13,7 @@ entry_into_force: 1998-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/03/1998035194/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 1998. - Decreet houdende wijziging van artikel 10 van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers.

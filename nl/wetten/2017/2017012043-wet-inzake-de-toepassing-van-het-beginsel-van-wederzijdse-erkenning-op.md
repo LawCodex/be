@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/23/2017012043/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-05-2017 en tekstbijwerking tot 29-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2017. - Wet inzake de toepassing van het beginsel van wederzijdse erkenning op beslissingen inzake toezichtmaatregelen uitgesproken als alternatief voor voorlopige hechtenis

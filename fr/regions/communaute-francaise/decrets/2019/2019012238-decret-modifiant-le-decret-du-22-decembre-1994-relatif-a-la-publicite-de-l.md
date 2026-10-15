@@ -13,7 +13,7 @@ entry_into_force: 2019-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019012238/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret modifiant le décret du 22 décembre 1994 relatif à la publicité de l'Administration afin de renforcer le rôle de la Commission d'accès aux documents administratifs de la Communauté française

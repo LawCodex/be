@@ -12,7 +12,7 @@ entry_into_force: 2000-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/12/2000010089/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2000. - Wet tot wijziging van de wet van 25 februari 1991 betreffende de aansprakelijkheid voor producten met gebreken.

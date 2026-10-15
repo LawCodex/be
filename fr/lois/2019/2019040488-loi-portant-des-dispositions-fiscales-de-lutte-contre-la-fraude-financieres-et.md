@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/11/2019040488/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 22-03-2019 et mise à jour au 30-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2019. - Loi portant des dispositions fiscales, de lutte contre la fraude, financières et diverses

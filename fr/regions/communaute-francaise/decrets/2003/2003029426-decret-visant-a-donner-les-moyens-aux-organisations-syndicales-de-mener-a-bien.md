@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029426/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 20-08-2003 et mise à jour au 07-06-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret visant à donner les moyens aux organisations syndicales de mener à bien leurs missions dans le secteur de l'enseignement

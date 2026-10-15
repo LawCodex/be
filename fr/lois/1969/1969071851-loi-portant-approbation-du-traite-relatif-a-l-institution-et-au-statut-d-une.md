@@ -11,7 +11,7 @@ published: 1973-12-11
 entry_into_force: 1973-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/07/18/1969071851/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1969. - Loi portant approbation du Traité relatif à l'institution et au statut d'une Cour de justice Benelux, signé à Bruxelles le 31 mars 1965, et du Protocole additionnel à ce traité, signé à Bruxelles le 25 octobre 1966.

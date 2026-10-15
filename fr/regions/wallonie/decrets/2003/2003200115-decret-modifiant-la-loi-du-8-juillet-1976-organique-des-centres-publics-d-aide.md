@@ -13,7 +13,7 @@ entry_into_force: 2003-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/06/2003200115/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2003. - Décret modifiant la loi du 8 juillet 1976 organique des Centres publics d'Aide sociale.

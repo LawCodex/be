@@ -10,7 +10,7 @@ date: 1983-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/04/25/1986015237/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 1983. - Wet houdende goedkeuring van het protocol met bijlagen bij de overeenkomst van 22 november 1950 inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard, opgemaakt te New York op 1 maart 1977.

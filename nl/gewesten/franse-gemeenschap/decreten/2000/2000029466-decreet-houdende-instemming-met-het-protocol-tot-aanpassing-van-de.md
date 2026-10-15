@@ -13,7 +13,7 @@ entry_into_force: 2001-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/12/2000029466/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2000. - Decreet houdende instemming met het Protocol tot aanpassing van de institutionele aspecten van het Europees Akkoord houdende de associatie tussen de Europese Gemeenschappen en haar Lidstaten, enerzijds, en de Republiek Hongarije, anderzijds, om rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, en zijn bijlagen, gemaakt te Brussel op 28 juni 1999 (VERTALING).

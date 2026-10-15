@@ -13,7 +13,7 @@ entry_into_force: 2026-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/22/2026004022/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2026. - Decreet tot wijziging van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid en het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut, wat betreft de gedeeltelijke omzetting van de Europese richtlijnen met betrekking tot organen voor gelijke behandeling en loontransparantie

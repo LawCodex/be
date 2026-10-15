@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/22/2021042608/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 10-08-2021 et mise à jour au 11-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2021. - Ordonnance relative à l'agrément et au subventionnement des services actifs en matière de réduction des risques liés aux usages de drogues

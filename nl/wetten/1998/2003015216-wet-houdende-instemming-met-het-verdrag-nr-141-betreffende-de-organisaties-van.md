@@ -12,7 +12,7 @@ entry_into_force: 2004-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/01/2003015216/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1998. - Wet houdende instemming met het Verdrag nr. 141 betreffende de organisaties van personen die in de landbouw werkzaam zijn en hun rol in de sociaal-economische ontwikkeling, aangenomen te Genève op 23 juni 1975 door de Internationale Arbeidsconferentie tijdens haar zestigste zitting.

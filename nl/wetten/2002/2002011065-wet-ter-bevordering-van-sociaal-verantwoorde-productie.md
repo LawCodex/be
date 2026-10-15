@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/27/2002011065/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2002 en tekstbijwerking tot 28-12-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2002. - Wet ter bevordering van sociaal verantwoorde productie.

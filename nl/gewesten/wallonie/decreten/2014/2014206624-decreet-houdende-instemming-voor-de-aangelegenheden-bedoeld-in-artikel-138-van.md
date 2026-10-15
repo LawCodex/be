@@ -12,7 +12,7 @@ published: 2014-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/10/23/2014206624/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2014. - Decreet houdende instemming, voor de aangelegenheden bedoeld in artikel 138 van de Grondwet, met het samenwerkingsakkoord van 17 juli 2013 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie betreffende de implementatie van de Richtlijn 2006/123/CE3/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende de diensten op de interne markt

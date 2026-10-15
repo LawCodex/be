@@ -12,7 +12,7 @@ entry_into_force: 2015-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/03/24/2015003117/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2015. - Loi visant l'adaptation du titre 3 de la loi du 15 mai 2014 portant exécution du pacte de compétitivité, d'emploi et de relance et des articles 275 8 et 275 9 du Code des impôts sur les revenus 1992 au Règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du Traité

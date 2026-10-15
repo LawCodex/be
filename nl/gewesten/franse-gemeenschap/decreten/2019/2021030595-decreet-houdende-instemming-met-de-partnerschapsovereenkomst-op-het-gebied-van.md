@@ -13,7 +13,7 @@ entry_into_force: 2021-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/09/2021030595/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Decreet houdende instemming met de Partnerschapsovereenkomst op het gebied van betrekkingen en samenwerking tussen de Europese Unie en haar Lidstaten, enerzijds, en Nieuw-Zeeland, anderzijds, gedaan te Brussel op 5 oktober 2016

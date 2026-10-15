@@ -12,7 +12,7 @@ entry_into_force: 2019-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/12/2019030048/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2018. - Loi modifiant la loi du 5 juillet 1994 relative au sang et aux dérivés du sang d'origine humaine et la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994

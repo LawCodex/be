@@ -13,7 +13,7 @@ entry_into_force: 2022-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/24/2022031153/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2022. - Decreet houdende wijziging en aanpassing van sommige bepalingen inzake leerplichtonderwijs en niet-verplicht onderwijs

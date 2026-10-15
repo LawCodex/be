@@ -12,7 +12,7 @@ entry_into_force: 1998-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/10/01/1998029503/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OKTOBER 1998. - Decreet tot wijziging van de wet van 27 juli 1971 op de financiering en de controle van de universitaire instellingen (VERTALING).

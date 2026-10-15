@@ -12,7 +12,7 @@ entry_into_force: 2019-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/13/2020201242/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2020. - Wet tot wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994, wat betreft de oprichting van een commissie voor terugbetaling van farmaceutische producten en verstrekkingen

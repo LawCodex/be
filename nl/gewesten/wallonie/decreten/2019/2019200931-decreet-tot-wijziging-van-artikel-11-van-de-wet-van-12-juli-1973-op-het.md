@@ -13,7 +13,7 @@ entry_into_force: 2019-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/14/2019200931/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2019. - Decreet tot wijziging van artikel 11 van de wet van 12 juli 1973 op het natuurbehoud met het oog op het opleggen van een vliegverbod voor drones boven natuurreservaten

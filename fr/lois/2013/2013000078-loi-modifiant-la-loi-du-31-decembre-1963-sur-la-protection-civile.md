@@ -12,7 +12,7 @@ entry_into_force: 2013-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/14/2013000078/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2013. - Loi modifiant la loi du 31 décembre 1963 sur la protection civile

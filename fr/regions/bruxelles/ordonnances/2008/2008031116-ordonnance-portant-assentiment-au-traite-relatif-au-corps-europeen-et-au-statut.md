@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/03/06/2008031116/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2008. - Ordonnance portant assentiment au Traité relatif au Corps européen et au statut de son Quartier général entre la République française, la République fédérale d'Allemagne, le Royaume de Belgique, le Royaume d'Espagne et le grand-duché de Luxembourg, fait à Bruxelles le 22 novembre 2004.

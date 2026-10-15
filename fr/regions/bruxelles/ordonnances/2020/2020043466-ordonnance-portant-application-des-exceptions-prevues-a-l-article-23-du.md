@@ -13,7 +13,7 @@ entry_into_force: 2020-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/10/29/2020043466/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2020. - Ordonnance portant application des exceptions prévues à l'article 23 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données)

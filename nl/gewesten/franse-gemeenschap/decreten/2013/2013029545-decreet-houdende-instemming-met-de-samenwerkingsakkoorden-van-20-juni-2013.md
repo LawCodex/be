@@ -12,7 +12,7 @@ published: 2013-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/17/2013029545/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Decreet houdende instemming met de samenwerkingsakkoorden van 20 juni 2013 tussen het Waalse Gewest en de Franse Gemeenschap en betreffende de toetreding van de Franse Gemeenschap tot verscheidene bij wijze van overheidsopdracht georganiseerde aankoopcentrales geactiveerd door het Waalse Gewest

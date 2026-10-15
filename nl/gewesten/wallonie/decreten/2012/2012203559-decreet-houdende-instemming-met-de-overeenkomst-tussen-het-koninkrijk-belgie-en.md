@@ -13,7 +13,7 @@ entry_into_force: 2012-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/21/2012203559/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Albanië, Bosnië en Herzegovina, de Republiek Kroatië, de voormalige Joegoslavische Republiek Macedonië, de Republiek Moldavië, de Republiek Montenegro, de Republiek Servië en de "United Nations Interim Administration Mission in Kosovo" namens Kosovo in overeenstemming met Resolutie 1244 van de VN-Veiligheidsraad betreffende de voorrechten en immuniteiten van het Secretariaat van het "Central European Free Trade Agreement", ondertekend te Brussel op 26 juni 2008

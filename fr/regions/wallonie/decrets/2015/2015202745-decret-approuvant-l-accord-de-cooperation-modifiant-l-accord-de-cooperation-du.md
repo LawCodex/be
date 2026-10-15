@@ -13,7 +13,7 @@ entry_into_force: 2015-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/04/2015202745/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2015. - Décret approuvant l'accord de coopération modifiant l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages

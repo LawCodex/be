@@ -12,7 +12,7 @@ entry_into_force: 2019-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/03/2019010576/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2019. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen wat de bevoegdheden van de commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders betreft inzake de hulp aan de slachtoffers van zogenaamde "cold cases" en tot nadere bepaling van haar onderzoeksbevoegdheid

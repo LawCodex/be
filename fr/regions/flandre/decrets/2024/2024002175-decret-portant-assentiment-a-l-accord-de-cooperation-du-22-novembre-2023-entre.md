@@ -13,7 +13,7 @@ entry_into_force: 2024-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/01/2024002175/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2024. - Décret portant assentiment à l'accord de coopération du 22 novembre 2023 entre l'Etat fédéral, la Communauté française, la Communauté flamande, la Commission communautaire française et la Commission communautaire commune en matière d'assistance aux victimes pour la région bilingue de Bruxelles-Capitale

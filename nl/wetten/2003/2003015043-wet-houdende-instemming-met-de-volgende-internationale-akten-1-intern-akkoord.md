@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/21/2003015043/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2003. - Wet houdende instemming met de volgende internationale akten : 1° Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lid-Staten, in het kader van de Raad bijeen, betreffende de financiering en het beheer van de steun van de Gemeenschap in het kader van het financieel protocol bij de partnerschapsovereenkomst tussen de Staten in Afrika, het Caribisch Gebied en de Stille Oceaan en de Europese Gemeenschap en haar lid-Staten, ondertekend te Cotonou (Benin) op 23 juni 2000, en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van het vierde deel van het EG-Verdrag van toepassing zijn, en Bijlage; 2° Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lid-Staten, in het kader van de Raad bijeen, inzake maatregelen en procedures voor de tenuitvoerlegging van de ACS-EG-Partnerschapsovereenkomst, en Bijlage, gedaan te Brussel op 18 september 2002.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/12/2020043690/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-12-2020 et mise à jour au 18-01-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2020. - Décret portant diverses dispositions en matière d'enseignement supérieur et d'enseignement de la promotion sociale

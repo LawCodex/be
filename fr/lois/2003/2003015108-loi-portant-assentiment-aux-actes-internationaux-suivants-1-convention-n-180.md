@@ -12,7 +12,7 @@ entry_into_force: 2003-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015108/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment aux Actes internationaux suivants : 1. Convention n° 180 concernant la durée du travail des gens de mer et les effectifs des navires, adoptée par la Conférence internationale du travail à sa quatre-vingt-quatrième session tenue à Genève le 22 octobre 1996; 2. Protocole de 1996 relatif à la Convention sur la marine marchande (normes minima) de 1976, adopté par la Conférence internationale du travail à sa quatre-vingt-quatrième session tenue à Genève le 22 octobre 1996.

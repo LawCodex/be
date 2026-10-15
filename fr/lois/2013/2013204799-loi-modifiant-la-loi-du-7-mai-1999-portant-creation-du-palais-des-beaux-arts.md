@@ -12,7 +12,7 @@ entry_into_force: 2013-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013204799/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2013. - Loi modifiant la loi du 7 mai 1999 portant création du Palais des Beaux-Arts sous la forme d'une société anonyme de droit public à finalité sociale et modifiant la loi du 30 mars 1995 concernant les réseaux de distribution d'émissions de radiodiffusion et l'exercice d'activités de radiodiffusion dans la région bilingue de Bruxelles-Capitale

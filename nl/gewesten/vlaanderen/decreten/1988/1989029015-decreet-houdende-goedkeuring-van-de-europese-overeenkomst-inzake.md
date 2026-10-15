@@ -13,7 +13,7 @@ entry_into_force: 1989-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/11/30/1989029015/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1988. - Decreet houdende goedkeuring van de Europese Overeenkomst inzake gewelddadigheden gepleegd door en wangedrag van toeschouwers rond sportevenementen en in het bijzonder rond voetbalwedstrijden, ondertekend te Straatsburg op 19 augustus 1985.

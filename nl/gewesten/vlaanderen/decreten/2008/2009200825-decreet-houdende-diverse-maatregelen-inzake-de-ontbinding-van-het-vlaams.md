@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/19/2009200825/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 06-03-2009 en tekstbijwerking tot 08-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Decreet houdende diverse maatregelen inzake de ontbinding van het Vlaams Agentschap Ondernemen en houdende de inrichting van een Comité voor Preventief Bedrijfsbeleid

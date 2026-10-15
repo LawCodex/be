@@ -13,7 +13,7 @@ last_amended: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/06/07/1969060701/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 06-02-1998 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 1969. - Wet tot vaststelling van de tijd gedurende welke geen [opsporing ten huize, huiszoeking of vrijheidsbeneming] mag worden verricht. &lt;W 2016-04-27/07 , art. 2, 003; Inwerkingtreding : 19-05-2016&gt; - &lt;Opschrift wijziging bij W 2017-10-31/06 , art. 2, 004; Inwerkingtreding : 29-11-2017&gt;

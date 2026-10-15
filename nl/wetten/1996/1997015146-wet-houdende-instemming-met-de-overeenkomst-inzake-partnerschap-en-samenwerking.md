@@ -12,7 +12,7 @@ entry_into_force: 1997-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/20/1997015146/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 1996. - Wet houdende instemming met de Overeenkomst inzake partnerschap en samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, de Bijlagen 1 tot 10, de Protocollen 1 en 2 en de Slotakte, gedaan te Korfoe op 24 juni 1994.

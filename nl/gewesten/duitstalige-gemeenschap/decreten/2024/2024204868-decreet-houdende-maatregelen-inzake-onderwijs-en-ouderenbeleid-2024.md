@@ -12,7 +12,7 @@ published: 2024-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/08/2024204868/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2024. - Decreet houdende maatregelen inzake onderwijs en ouderenbeleid - 2024

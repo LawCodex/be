@@ -13,7 +13,7 @@ entry_into_force: 2023-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/07/2023043880/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2023. - Décret modifiant l'article 99 du décret du 25 avril 2014 relatif au permis d'environnement et du décret du 15 juillet 2016 relatif à la politique d'implantation commerciale intégrale

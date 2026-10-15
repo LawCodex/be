@@ -13,7 +13,7 @@ entry_into_force: 2023-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/04/27/2023042123/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Ordonnance portant assentiment à l'accord de coopération du 29 août 2022 entre la Région wallonne, la Commission communautaire commune et la Communauté germanophone relatif à l'organe interrégional pour les prestations familiales

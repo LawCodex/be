@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/28/2002009590/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-06-2002 et mise à jour au 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2002. - Loi relative à l'euthanasie.

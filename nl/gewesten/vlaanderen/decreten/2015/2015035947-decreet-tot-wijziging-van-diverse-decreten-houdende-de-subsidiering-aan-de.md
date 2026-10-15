@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/03/2015035947/justel"
 department: "Vlaamse Overheid"
 justel_note: "bij arrest nr 59/2017 van 18 mei 2017 (B.St. 03-07-2017, p. 69535) heeft het Grondwettelijk hof dit decreet vernietigd en handhaaft de gevolgen van de vernietigde bepalingen tot de aanneming, door de decreetgever, van een nieuw decreet en uiterlijk tot het einde van het begrotingsjaar 2018."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2015. - Decreet tot wijziging van diverse decreten houdende de subsidiëring aan de lokale besturen en tot wijziging van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds

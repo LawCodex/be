@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/01/30/2014031134/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Ordonnance portant assentiment à : l'Accord de Partenariat économique entre les Etats du Cariforum, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, et à l'Acte final, faits à Bridgetown, Barbade, le 15 octobre 2008

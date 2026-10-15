@@ -12,7 +12,7 @@ entry_into_force: 2023-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014203464/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi modifiant la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, en ce qui concerne les travailleurs domestiques et le personnel de maison

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020015239/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Ordonnance modifiant l'ordonnance du 20 juillet 2016 relative au droit d'être entendu dans le cadre d'une pétition adressée au Parlement

@@ -12,7 +12,7 @@ entry_into_force: 2014-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/14/2014003084/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2014. - Loi domaniale

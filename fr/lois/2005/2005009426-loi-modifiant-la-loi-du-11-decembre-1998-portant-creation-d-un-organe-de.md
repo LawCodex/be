@@ -12,7 +12,7 @@ entry_into_force: 2005-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/03/2005009426/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2005. - Loi modifiant la loi du 11 décembre 1998 portant création d'un organe de recours en matière d'habilitations de sécurité

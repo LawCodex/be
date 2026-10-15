@@ -12,7 +12,7 @@ entry_into_force: 2015-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/06/12/2015011240/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2015. - Loi portant confirmation de certains articles de l'arrêté royal du 4 avril 2014 modifiant l'arrêté royal du 16 juillet 2002 relatif à l'établissement de mécanismes visant la promotion de l'électricité produite à partir des sources d'énergie renouvelables et de l'arrêté royal du 19 septembre 2014 fixant, pour l'année budgétaire 2015, les modalités particulières pour le calcul de la redevance de médiation pour le financement du service de médiation de l'énergie

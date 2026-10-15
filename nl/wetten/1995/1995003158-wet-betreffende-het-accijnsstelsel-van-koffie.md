@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/02/13/1995003158/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-08-2000 en tekstbijwerking tot 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 1995. - Wet betreffende het accijnsstelsel van koffie.

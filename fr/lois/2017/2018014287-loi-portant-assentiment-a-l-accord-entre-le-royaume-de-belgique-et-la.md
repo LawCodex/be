@@ -12,7 +12,7 @@ entry_into_force: 2019-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/03/2018014287/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2017. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République d'Afrique du Sud sur l'exercice d'activités à but lucratif par les conjoints de membres du personnel diplomatique et consulaire, fait à Pretoria le 14 janvier 2016

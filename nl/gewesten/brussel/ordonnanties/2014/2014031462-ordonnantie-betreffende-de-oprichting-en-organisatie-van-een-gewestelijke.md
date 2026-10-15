@@ -13,7 +13,7 @@ entry_into_force: 2014-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/08/2014031462/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Ordonnantie betreffende de oprichting en organisatie van een gewestelijke dienstenintegrator

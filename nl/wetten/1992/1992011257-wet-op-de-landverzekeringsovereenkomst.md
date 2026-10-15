@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/06/25/1992011257/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-1994 en tekstbijwerking tot 23-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1992. - Wet op de landverzekeringsovereenkomst.

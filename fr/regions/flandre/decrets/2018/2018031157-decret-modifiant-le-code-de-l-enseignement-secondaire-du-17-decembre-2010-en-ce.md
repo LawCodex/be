@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/20/2018031157/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2018. - Décret modifiant le Code de l'Enseignement secondaire du 17 décembre 2010, en ce qui concerne la modernisation de la structure et de l'organisation de l'enseignement secondaire

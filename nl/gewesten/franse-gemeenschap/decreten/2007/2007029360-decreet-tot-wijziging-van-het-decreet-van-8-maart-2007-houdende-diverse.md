@@ -12,7 +12,7 @@ entry_into_force: 2007-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/19/2007029360/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2007. - Decreet tot wijziging van het decreet van 8 maart 2007 houdende diverse maatregelen met het oog op de regularisatie van de inschrijvingen en van de veranderingen van school in het leerplichtonderwijs (VERTALING).

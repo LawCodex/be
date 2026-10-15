@@ -12,7 +12,7 @@ entry_into_force: 2026-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/12/2026004640/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2026. - Wet tot opheffing van de artikelen 18ter, 18quater, 21ter en 21quater van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus en van artikel 16, eerste lid, 6°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, betreffende de beroepen inzake de geldigheid van de verkiezing en het ontslag van de leden van de politieraad

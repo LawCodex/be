@@ -13,7 +13,7 @@ last_amended: 2018-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1930/06/23/1930062350/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-08-2018 et mise à jour au 10-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1930. - Loi concernant la création, autour des aérodromes utilisés par une ou des escadrilles de l'armée d'une zone de sécurité frappée de servitudes aéronautiques

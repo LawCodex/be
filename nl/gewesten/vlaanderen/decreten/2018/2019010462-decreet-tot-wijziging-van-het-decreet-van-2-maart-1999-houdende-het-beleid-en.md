@@ -13,7 +13,7 @@ entry_into_force: 2019-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/21/2019010462/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Decreet tot wijziging van het decreet van 2 maart 1999 houdende het beleid en het beheer van zeehavens, het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen en het decreet van 7 juli 2006 houdende de oprichting van de Mobiliteitsraad van Vlaanderen

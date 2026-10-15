@@ -11,7 +11,7 @@ published: 1978-09-26
 entry_into_force: 1978-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/03/08/1978030807/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 1978. - Loi portant approbation de la Convention consulaire entre le Royaume de Belgique et la République socialiste tchécoslovaque, signée à Bruxelles le 15 juin 1976.

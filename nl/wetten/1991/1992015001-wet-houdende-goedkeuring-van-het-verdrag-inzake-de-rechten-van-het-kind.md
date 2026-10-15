@@ -12,7 +12,7 @@ entry_into_force: 1992-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/11/25/1992015001/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 1991. - Wet houdende goedkeuring van het Verdrag inzake de rechten van het kind aangenomen te New York op 20 November 1989.

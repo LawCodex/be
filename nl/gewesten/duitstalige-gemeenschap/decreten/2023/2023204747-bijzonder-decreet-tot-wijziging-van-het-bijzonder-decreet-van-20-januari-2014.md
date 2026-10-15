@@ -11,7 +11,7 @@ date: 2023-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/26/2023204747/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2023. - Bijzonder decreet tot wijziging van het bijzonder decreet van 20 januari 2014 tot oprichting van een centrum voor de gezonde ontwikkeling van kinderen en jongeren

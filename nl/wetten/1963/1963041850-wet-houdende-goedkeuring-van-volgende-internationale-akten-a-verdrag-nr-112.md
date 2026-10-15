@@ -10,7 +10,7 @@ date: 1963-04-18
 entry_into_force: 1963-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/04/18/1963041850/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1963. - Wet houdende goedkeuring van volgende internationale akten : a) Verdrag (nr. 112) betreffende de minimumleeftijd voor toelating tot de tewerkstelling als visser : b) Verdrag (nr. 113) betreffende het geneeskundig onderzoek van vissers; c) Verdrag (nr. 114) betreffende arbeidsovereenkomsten voor vissers, aangenomen op 19 juni 1959, te Genève, door de Internationale Arbeidsconferentie, tijdens haar 43e zitting.

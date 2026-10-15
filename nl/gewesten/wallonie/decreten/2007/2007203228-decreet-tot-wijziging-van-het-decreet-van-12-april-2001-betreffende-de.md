@@ -12,7 +12,7 @@ published: 2007-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/04/2007203228/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OKTOBER 2007. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de gewestelijke elektriciteitsmarkt (VERTALING)

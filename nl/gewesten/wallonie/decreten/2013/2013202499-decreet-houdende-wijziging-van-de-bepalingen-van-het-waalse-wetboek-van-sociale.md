@@ -13,7 +13,7 @@ entry_into_force: 2013-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/04/18/2013202499/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2013. - Decreet houdende wijziging van de bepalingen van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende het gewestelijk psychiatrisch centrum " Les Marronniers "

@@ -13,7 +13,7 @@ entry_into_force: 1994-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/10/1996033059/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1996. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, les Communautés et les Régions, relatif aux modalités de conclusion des traités mixtes, signé à Bruxelles le 8 mars 1994 (TRADUCTION).

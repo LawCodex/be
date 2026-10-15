@@ -13,7 +13,7 @@ entry_into_force: 2005-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/21/2005029117/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2004. - Decreet tot wijziging van het decreet van 20 juni 2002 betreffende het toezicht op de mededelingen van de Regeringsleden, met het oog op de uitbreiding van het toezicht tot de mededelingen van de voorzitter van het Parlement van de Franse Gemeenschap (VERTALING).

@@ -12,7 +12,7 @@ last_amended: 2021-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1939/08/31/1939083150/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 05-01-1989 en tekstbijwerking tot 09-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 AUGUSTUS 1939. - [Wet betreffende Delcredere] &lt;Opschrift vervangen door W 2017-04-18/03 , art. 69, 006; Inwerkingtreding : 04-05-2017&gt;

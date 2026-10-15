@@ -12,7 +12,7 @@ entry_into_force: 2020-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020041876/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2020. - Loi modifiant, en ce qui concerne l'interdiction de fumer en voiture, la loi du 22 décembre 2009 instaurant une réglementation relative à la protection de la population contre la fumée du tabac, et la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits

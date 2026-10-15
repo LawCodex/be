@@ -10,7 +10,7 @@ date: 2011-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/10/06/2011011376/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2011. - Wet tot wijziging van de wet van 15 mei 2007 tot erkenning en bescherming van het beroep van auto-expert en tot oprichting van een instituut van de auto-experts

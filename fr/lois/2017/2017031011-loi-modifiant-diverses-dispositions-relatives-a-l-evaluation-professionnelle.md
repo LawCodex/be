@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017031011/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2017 et mise à jour au 17-06-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi modifiant diverses dispositions relatives à l'évaluation professionnelle des militaires

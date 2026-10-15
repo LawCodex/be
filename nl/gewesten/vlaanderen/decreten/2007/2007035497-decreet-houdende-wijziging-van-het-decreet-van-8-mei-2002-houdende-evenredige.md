@@ -13,7 +13,7 @@ entry_into_force: 2007-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/09/2007035497/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2007. - Decreet houdende wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht.

@@ -12,7 +12,7 @@ entry_into_force: 2011-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/23/2008015127/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2008. - Loi portant assentiment au Protocole d'amendement (amendements à la Convention portant création du Centre européen pour les prévisions météorologiques à moyen terme, ainsi qu'au Protocole sur les privilèges et immunités du Centre européen pour les prévisions météorologiques à moyen terme, signés à Bruxelles le 11 octobre 1973), adopté le 22 avril 2005

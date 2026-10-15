@@ -12,7 +12,7 @@ entry_into_force: 1997-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/14/1997000360/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 1997. - Wet tot wijziging van artikel 67 van de nieuwe gemeentewet.

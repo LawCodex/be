@@ -13,7 +13,7 @@ entry_into_force: 2013-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/10/2013205787/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 2013. - Décret portant assentiment aux accords de coopération entre la Région wallonne et la Communauté française et portant sur l'adhésion de la Communauté française à diverses centrales de marchés mises en oeuvre par la Région wallonne

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/31/2023042860/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-2023 en tekstbijwerking tot 29-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2023. - Wet van 31 mei 2023 tot invoering van een tijdelijk crisiskader overbruggingsrecht in geval van noodsituaties en tot wijziging van de programmawet van 26 december 2022 (Opschrift vervangen door W 2025-07-18/06 , art. 244, 002; Inwerkingtreding : 01-10-2025)

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/04/2019202617/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Decreet houdende instemming met het Zetelakkoord, met uitwisseling van brieven, tussen het Koninkrijk België en de Internationale Organisatie voor Criminele Politie - INTERPOL (O.I.P.C. - INTERPOL), gedaan te Lyon op 14 oktober 2014 en te Brussel op 24 oktober 2014

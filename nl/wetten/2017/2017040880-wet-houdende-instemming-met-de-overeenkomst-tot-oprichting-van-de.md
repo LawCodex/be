@@ -10,7 +10,7 @@ date: 2017-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/19/2017040880/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2017. - Wet houdende instemming met de Overeenkomst tot oprichting van de internationale EU-LAC Stichting, gedaan te Santo Domingo op 25 oktober 2016

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/26/2001021025/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2000. - Loi exécutant l'article 62 de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions.

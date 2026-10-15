@@ -12,7 +12,7 @@ entry_into_force: 2014-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014009414/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi modifiant la loi du 9 décembre 2004 sur l'entraide judiciaire internationale en matière pénale et modifiant l'article 90ter du code d'instruction criminelle [et modifiant la Loi du 5 août 1992 sur la fonction de police]

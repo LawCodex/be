@@ -13,7 +13,7 @@ entry_into_force: 1996-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/20/1996035205/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1995. - Decreet houdende machtiging van de intercommunales voor kabeldistributie tot deelname aan vennootschappen die het kabelnetwerk in Vlaanderen tot een interactief communicatie-netwerk uitbouwen en/of exploiteren.

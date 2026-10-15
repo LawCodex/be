@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/31/2004029129/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2004 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2004. - Décret relatif à l'adoption.

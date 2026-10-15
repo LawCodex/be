@@ -16,7 +16,7 @@ department: "Justice"
 justel_notes:
   - "art. 2, 6°, b, modifié avec date d'entrée en vigueur fixée au 01-09-2014 par L 2013-01-21/12 , art. 3, abrogé lui-même par L 2013-12-15/05 , art. 34, 002; En vigueur : 01-01-2014"
   - "Consultation des versions antérieures à partir du 15-06-2006 et mise à jour au 05-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2006. - Loi relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine.

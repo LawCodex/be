@@ -12,7 +12,7 @@ entry_into_force: 2015-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/27/2016003227/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2016. - Loi modifiant la loi-programme du 27 décembre 2004 et la loi du 7 janvier 1998 concernant la structure et les taux des droits d'accise sur l'alcool et les boissons alcoolisées et abrogeant l'arrêté royal du 26 octobre 2015 modifiant provisoirement la loi-programme du 27 décembre 2004 et l'arrêté royal du 26 octobre 2015 modifiant provisoirement la loi du 7 janvier 1998 concernant la structure et les taux des droits d'accises sur l'alcool et les boissons alcoolisées

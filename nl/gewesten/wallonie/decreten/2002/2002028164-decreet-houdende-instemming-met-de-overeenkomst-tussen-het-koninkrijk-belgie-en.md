@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028164/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot regeling van het scheepvaartverkeer en van de recreatie op de gemeenschappelijke Maas, ondertekend te Brussel op 6 januari 1993 (VERTALING).

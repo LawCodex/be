@@ -12,7 +12,7 @@ entry_into_force: 1994-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/28/1995000849/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1994. - Wet tot wijziging van artikel 3 van de wet van 23 december 1986 betreffende de invordering en de geschillen ter zake van provinciale en plaatselijke heffingen.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1968/03/14/1968031405/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-02-2017 en tekstbijwerking tot 23-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 1968. - WET tot opheffing van de wetten betreffende de verblijfbelasting voor vreemdelingen, gecoördineerd op 12 oktober 1953

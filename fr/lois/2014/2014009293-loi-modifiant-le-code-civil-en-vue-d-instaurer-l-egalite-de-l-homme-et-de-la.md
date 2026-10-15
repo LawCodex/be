@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/08/2014009293/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-05-2014 et mise à jour au 02-07-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Loi modifiant le Code civil en vue d'instaurer l'égalité de l'homme et de la femme dans le mode de transmission du nom à l'enfant et à l'adopté

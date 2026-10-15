@@ -12,7 +12,7 @@ entry_into_force: 2005-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/03/2005003846/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2005. - Loi portant des dispositions fiscales diverses en vue de l'application de l'Accord entre le Belgian Office, Taipei et le Taipei Representative Office in Belgium tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et du Protocole, signés à Bruxelles, le 13 octobre 2004.

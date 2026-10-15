@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/25/1999033087/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 29-09-1999 et mise à jour au 27-01-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 1999. - Décret réglant l'agréation et le subventionnement d'ensembles de musique de chambre (TRADUCTION).

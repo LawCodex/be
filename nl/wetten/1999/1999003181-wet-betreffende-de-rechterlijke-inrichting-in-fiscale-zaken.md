@@ -12,7 +12,7 @@ entry_into_force: 1999-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/23/1999003181/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1999. - Wet betreffende de rechterlijke inrichting in fiscale zaken.

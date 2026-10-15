@@ -11,7 +11,7 @@ published: 2003-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/17/2003003173/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2003. - Wet houdende wijziging van de artikelen 628 en 1395 van het Gerechtelijk Wetboek naar aanleiding van de wet van 21 februari 2003 tot oprichting van een Dienst voor alimentatievorderingen bij de FOD Financiën.

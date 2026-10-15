@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/15/2003015103/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2002. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de regering van de Socialistische Republiek Vietnam inzake luchtvervoer, en met de Bijlage, ondertekend te Brussel op 21 oktober 1992.

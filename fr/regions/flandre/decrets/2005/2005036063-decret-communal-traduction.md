@@ -18,7 +18,7 @@ justel_notes:
   - "articles 169,170,172,173,175,178,240, 265,266 modifiés avec date d'entrée en vigueur indéterminée par DCFL 2009-01-23/32 "
   - "chapitre II, comprenant l'article 103 modifié avec effet à une date indéterminée par DCFL 2016-06-03/04 , art. 12, 016; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 31-08-2005 et mise à jour au 15-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Décret communal (TRADUCTION)

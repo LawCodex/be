@@ -13,7 +13,7 @@ entry_into_force: 2012-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/11/2012035590/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2012. - Decreet houdende wijziging van diverse bepalingen van de Vlaamse Codex Ruimtelijke Ordening en wijziging van de regelgeving wat de opheffing van het agentschap Ruimtelijke Ordening betreft

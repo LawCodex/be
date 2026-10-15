@@ -12,7 +12,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/13/2014207016/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2014. - Decreet houdende instemming met het Akkoord, gedaan te Brussel op 7 december 2009, tussen het Koninkrijk België en Antigua en Barbuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden

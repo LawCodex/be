@@ -12,7 +12,7 @@ entry_into_force: 2023-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/26/2022043218/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2022. - Wet betreffende de vermelding van de rechtsmiddelen en houdende diverse bepalingen in gerechtelijke zaken

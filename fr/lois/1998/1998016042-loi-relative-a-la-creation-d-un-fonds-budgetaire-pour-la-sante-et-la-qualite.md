@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/23/1998016042/justel"
 department: "Classes Moyennes - Agriculture"
 justel_note: "Consultation des versions antérieures à partir du 30-04-1998 et mise à jour au 28-03-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1998. - Loi relative à la création d'un Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux.

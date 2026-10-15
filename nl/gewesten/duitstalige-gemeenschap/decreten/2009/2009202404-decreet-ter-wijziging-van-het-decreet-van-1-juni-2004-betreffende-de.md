@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/27/2009202404/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2009. - Decreet ter wijziging van het decreet van 1 juni 2004 betreffende de uitoefening van bepaalde bevoegdheden van het Waalse Gewest in het domein van de ondergeschikte besturen door de Duitstalige Gemeenschap

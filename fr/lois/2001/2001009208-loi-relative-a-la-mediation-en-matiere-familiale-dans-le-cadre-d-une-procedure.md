@@ -12,7 +12,7 @@ entry_into_force: 2001-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/19/2001009208/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2001. - Loi relative à la médiation en matière familiale dans le cadre d'une procédure judiciaire.

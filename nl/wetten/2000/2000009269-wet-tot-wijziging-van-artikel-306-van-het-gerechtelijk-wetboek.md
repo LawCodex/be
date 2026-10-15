@@ -12,7 +12,7 @@ entry_into_force: 2000-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/01/2000009269/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2000. - Wet tot wijziging van artikel 306 van het Gerechtelijk Wetboek.

@@ -13,7 +13,7 @@ entry_into_force: 2015-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/11/20/2015031805/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2015. - Ordonnance portant assentiment à : l'Accord entre le Royaume de Belgique et le Royaume du Maroc concernant les transports routiers internationaux de voyageurs et de marchandises, ainsi qu'au protocole conclu en vertu de l'article 22 de l'Accord, signé à Rabat le 14 juillet 1997

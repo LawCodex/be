@@ -13,7 +13,7 @@ entry_into_force: 2015-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/04/2014029810/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2014. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Ijsland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen en het Protocol, beide ondertekend te Brussel op 23 mei 2000, en het Wijzigingsprotocol ervan, gedaan te Brussel op 15 september 2009

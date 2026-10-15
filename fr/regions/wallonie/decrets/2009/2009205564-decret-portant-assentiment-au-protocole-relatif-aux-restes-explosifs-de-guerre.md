@@ -13,7 +13,7 @@ entry_into_force: 2009-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/11/26/2009205564/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2009. - Décret portant assentiment au Protocole relatif aux restes explosifs de guerre à la Convention sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination (Protocole V), fait à Genève, le 28 novembre 2003

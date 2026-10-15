@@ -12,7 +12,7 @@ published: 2009-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/23/2009035074/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2009. - Décret modifiant le Décret communal (TRADUCTION)

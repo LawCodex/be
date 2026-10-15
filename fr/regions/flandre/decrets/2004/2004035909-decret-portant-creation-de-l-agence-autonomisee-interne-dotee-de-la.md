@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035909/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-06-2004 et mise à jour au 14-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant création de l'agence autonomisée interne dotée de la personnalité juridique " Vlaams Agentschap voor Personen met een Handicap " (Agence flamande pour les Personnes handicapées) (TRADUCTION).

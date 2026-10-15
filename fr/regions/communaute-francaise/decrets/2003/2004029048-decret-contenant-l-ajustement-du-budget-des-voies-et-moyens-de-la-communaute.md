@@ -13,7 +13,7 @@ entry_into_force: 2004-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/17/2004029048/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2003. - Décret contenant l'ajustement du budget des voies et moyens de la Communauté française pour l'année budgétaire 2003.

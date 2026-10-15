@@ -12,7 +12,7 @@ entry_into_force: 2024-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/06/2024001222/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2024. - Loi portant modification de la loi du 13 juin 2005 relative aux communications électroniques en vue de transposer partiellement la directive (UE) 2022/2380 du Parlement européen et du Conseil du 23 novembre 2022 modifiant la directive 2014/53/UE relative à l'harmonisation des législations des Etats membres concernant la mise à disposition sur le marché d'équipements radioélectriques

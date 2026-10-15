@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029356/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-07-2009 et mise à jour au 18-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret du 30 avril 2009 relatif aux actions en matière d'alphabétisation et d'insertion dans l'Enseignement pour Adultes (Intitulé remplacé par ACF 2025-07-18/42 , art. 28, 003; En vigueur : 25-08-2025)

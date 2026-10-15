@@ -13,7 +13,7 @@ entry_into_force: 2015-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/29/2015031505/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 2015. - Ordonnantie houdende wijziging van de ordonnantie van 21 juni 2012 betreffende de promotie van de gezondheid bij de sportbeoefening, het dopingverbod en de preventie ervan

@@ -12,7 +12,7 @@ entry_into_force: 2007-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/10/2007009696/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2007. - Wet tot wijziging van het Burgerlijk Wetboek ter bevordering van de erfrechtelijke bescherming van buitenhuwelijkse kinderen.

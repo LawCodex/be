@@ -12,7 +12,7 @@ entry_into_force: 2008-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/22/2008021116/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2008. - Wijziging aan de Grondwet.

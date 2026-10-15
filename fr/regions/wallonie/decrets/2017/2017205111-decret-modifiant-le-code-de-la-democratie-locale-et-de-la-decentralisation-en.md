@@ -13,7 +13,7 @@ entry_into_force: 2018-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017205111/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2017. - Décret modifiant le Code de la démocratie locale et de la décentralisation en ce qui concerne les déclarations d'apparentement et de regroupement

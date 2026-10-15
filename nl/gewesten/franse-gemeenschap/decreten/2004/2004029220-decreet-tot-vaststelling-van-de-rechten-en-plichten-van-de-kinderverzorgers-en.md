@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029220/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-06-2004 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet tot vaststelling van de rechten en plichten van de kinderverzorgers en houdende diverse bepalingen betreffende de valorisatie van de dagen gepresteerd door het niet-statutair personeel van de Franse Gemeenschap (VERTALING).

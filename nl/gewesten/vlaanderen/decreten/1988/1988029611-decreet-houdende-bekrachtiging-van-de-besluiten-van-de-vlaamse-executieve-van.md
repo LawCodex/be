@@ -13,7 +13,7 @@ entry_into_force: 1988-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/07/13/1988029611/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1988. - Decreet houdende bekrachtiging van de besluiten van de Vlaamse Executieve van 11 mei 1988, getroffen ter uitvoering van artikel 8, §§ 2 en 4, artikel 9, § 1 en artikel 10 van het decreet van 28 januari 1987 betreffende het overbrengen van klank- en televisieprogramma's in de radiodistributie- en teledistributienetten en betreffende de erkenning van niet-openbare televisieverenigingen.

@@ -12,7 +12,7 @@ entry_into_force: 2010-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/25/2007015038/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2007. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Mauritius inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 30 november 2005

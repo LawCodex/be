@@ -13,7 +13,7 @@ entry_into_force: 2021-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/23/2021204653/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2021. - Décret portant assentiment à l'accord de coopération du 13 juillet 2021 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale portant coordination de la politique de transfert transfrontalier des déchets

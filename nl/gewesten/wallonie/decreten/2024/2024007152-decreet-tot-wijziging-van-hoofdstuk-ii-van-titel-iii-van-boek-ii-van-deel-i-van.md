@@ -12,7 +12,7 @@ published: 2024-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/11/2024007152/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2024. - Decreet tot wijziging van hoofdstuk II van titel III van boek II van Deel I van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de begraafplaatsen en de lijkbezorging

@@ -12,7 +12,7 @@ entry_into_force: 1997-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/07/1997015046/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 1997. - Loi portant assentiment à l'Accord sur le statut des missions et des représentants d'Etats tiers auprès de l'Organisation du Traité de l'Atlantique Nord, signé à Bruxelles le 14 septembre 1994.

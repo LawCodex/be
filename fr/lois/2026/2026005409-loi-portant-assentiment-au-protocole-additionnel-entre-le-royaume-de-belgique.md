@@ -12,7 +12,7 @@ entry_into_force: 2026-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/09/2026005409/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2026. - Loi portant assentiment au Protocole additionnel entre le Royaume de Belgique et l'Organisation européenne pour la sécurité de la navigation aérienne, à l'Accord entre l'Organisation européenne pour la sécurité de la navigation aérienne et le Royaume de Belgique sur les privilèges et immunités de l'organisation complémentaire à la Convention internationale de coopération pour la sécurité de la navigation aérienne " Eurocontrol " du 13 décembre 1960, signé à Bruxelles le 17 juillet 2006, fait à Bruxelles le 23 juillet 2025

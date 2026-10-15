@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/08/1976B70810/justel"
 justel_notes:
   - "Pour les versions de ce texte antérieures au 30-08-2006, voir les archives de L 1976-07-08/01 "
   - "Consultation des versions antérieures à partir du 30-08-2006 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1976. - LOI organique des [centres publics d'action sociale] (COMMUNAUTE FLAMANDE) &lt;Intitulé modifié par L 2002-01-07/45 , art. 2&gt;

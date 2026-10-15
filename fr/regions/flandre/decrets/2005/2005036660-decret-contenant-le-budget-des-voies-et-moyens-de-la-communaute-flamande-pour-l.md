@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/23/2005036660/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2005 et mise à jour au 16-10-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2005. - Décret contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2006 (TRADUCTION).

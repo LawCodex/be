@@ -13,7 +13,7 @@ entry_into_force: 2021-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/11/2021040539/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2021. - Décret portant dérogation à l'article L1232-24, § 1er, alinéa 2, du Code de la démocratie locale et de la décentralisation relatif à la constatation de la cause du décès par un médecin

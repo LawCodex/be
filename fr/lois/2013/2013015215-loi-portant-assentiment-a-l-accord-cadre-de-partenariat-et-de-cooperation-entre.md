@@ -12,7 +12,7 @@ entry_into_force: 2014-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/06/2013015215/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2013. - Loi portant assentiment à l'Accord-cadre de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République des Philippines, d'autre part, fait à Phnom-Penh le 11 juillet 2012

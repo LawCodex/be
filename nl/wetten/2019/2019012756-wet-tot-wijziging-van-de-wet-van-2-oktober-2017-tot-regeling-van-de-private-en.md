@@ -12,7 +12,7 @@ entry_into_force: 2019-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/09/2019012756/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Wet tot wijziging van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid voor wat betreft de verwerking van gegevens

@@ -13,7 +13,7 @@ last_amended: 2016-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/03/05/1965030511/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-09-2016 en tekstbijwerking tot 23-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1965. - Wet op het schriftelijk onderwijs. (NOTA 1 : Opgeheven voor de Vlaamse Gemeenschap bij DVR 1999-03-02/50, art. 96, 1°; Inwerkingtreding : 01-09-1999). (NOTA 2 : Opgeheven voor de Franse Gemeenschap bij DFG 2016-07-13/12 , art. 8, 1°; Inwerkingtreding : 2016-10-02)

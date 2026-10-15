@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/19/2017020329/justel"
 department: "Mobilité et Transports"
 justel_note: "par son arrêt n° 175/2019 du 14 novembre 2019, M.B. du 27-12-2019, p. 118365, la Cour constitutionnelle annule la présente loi en ce qui concerne l'octroi par Belgocontrol d'une disponibilité avec traitement d'attente et d'un congé préalable à la pension avec traitement d'attente, et maintient définitivement les effets que la loi annulée a produits avant la publication du présent arrêt au Moniteur belge"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2017. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques en ce qui concerne l'octroi par Belgocontrol d'une disponibilité avec traitement d'attente et d'un congé préalable à la pension avec traitement d'attente

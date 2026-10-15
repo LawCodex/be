@@ -11,7 +11,7 @@ published: 2002-01-25
 entry_into_force: 1997-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/15/2002002003/justel"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2002. - Wet tot wijziging van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en van de wet van 1 september 1980 betreffende de toekenning en de uitbetaling van een vakbondspremie aan sommige personeelsleden van de overheidssector.

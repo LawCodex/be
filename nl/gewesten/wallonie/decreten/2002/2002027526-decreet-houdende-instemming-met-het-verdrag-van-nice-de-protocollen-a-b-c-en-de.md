@@ -13,7 +13,7 @@ entry_into_force: 2002-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/30/2002027526/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2002. - Decreet houdende instemming met het Verdrag van Nice, de Protocollen A, B, C en de Slotakte houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, opgemaakt te Nice op 26 februari 2001 (VERTALING).

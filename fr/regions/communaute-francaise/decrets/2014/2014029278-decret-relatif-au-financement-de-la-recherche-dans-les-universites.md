@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/30/2014029278/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 05-02-2015 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Décret relatif au financement de la recherche dans les universités

@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/05/1998027114/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1998. - Decreet houdende instemming van de Overeenkomst tot wijziging van de vierde ACS-EG Overeenkomst van Lomé van 15 december 1989, de Slotakte en het Protocol bij de vierde ACS-EG Overeenkomst van Lomé naar aanleiding van de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de EU, ondertekend te Mauritius op 4 november 1995 (VERTALING).

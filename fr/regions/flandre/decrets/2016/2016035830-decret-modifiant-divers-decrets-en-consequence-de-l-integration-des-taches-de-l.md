@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/04/2016035830/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2016 et mise à jour au 20-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2016. - Décret modifiant divers décrets en conséquence de l'intégration des tâches de l'agence " Inspectie RWO " (Inspection de l'Aménagement du Territoire, de la Politique du Logement et du Patrimoine Immobilier) dans le Département de l'Environnement, de la Nature et de l'Energie et dans l'agence " Wonen-Vlaanderen " (Logement - Flandre), ainsi que concernant les fonds budgétaires et d'autres adaptations techniques

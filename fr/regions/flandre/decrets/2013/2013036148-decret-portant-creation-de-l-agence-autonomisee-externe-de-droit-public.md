@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/06/2013036148/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-12-2013 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2013. - Décret portant création de l'agence autonomisée externe de droit public "Agentschap Plantentuin Meise" (Agence Jardin botanique de Meise)

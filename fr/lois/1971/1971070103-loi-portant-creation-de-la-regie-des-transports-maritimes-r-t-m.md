@@ -12,7 +12,7 @@ entry_into_force: 1971-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/01/1971070103/justel"
 justel_note: "Consultation des versions antérieur à partir du 26-02-1997 et mis à jour au 26-02-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUILLET 1971. - Loi portant création de la Régie des transports maritimes. (R.T.M.)

@@ -11,7 +11,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/21/2021033903/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2021. - Wet houdende instemming met de Overeenkomst tot wijziging van de overeenkomst betreffende de overdracht en mutualisatie van de bijdragen aan het Gemeenschappelijk Afwikkelingsfonds, gedaan te Brussel op 27 januari en 8 februari 2021

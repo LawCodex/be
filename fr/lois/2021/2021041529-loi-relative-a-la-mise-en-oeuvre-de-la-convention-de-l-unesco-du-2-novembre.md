@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/04/23/2021041529/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 25-05-2021 et mise à jour au 04-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2021. - Loi relative à la mise en oeuvre de la Convention de l'UNESCO du 2 novembre 2001 sur la protection du patrimoine culturel subaquatique et la protection d'épaves de valeur

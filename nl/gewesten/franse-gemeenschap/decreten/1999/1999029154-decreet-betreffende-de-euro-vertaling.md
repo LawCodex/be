@@ -13,7 +13,7 @@ entry_into_force: 1999-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/08/1999029154/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1999. - Decreet betreffende de Euro (VERTALING).

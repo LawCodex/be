@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/03/15/1991003248/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 26-06-2009 en tekstbijwerking tot 26-06-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 1991. - WET houdende hervorming van de algemene Rijkscomptabiliteit en van de provinciale comptabiliteit

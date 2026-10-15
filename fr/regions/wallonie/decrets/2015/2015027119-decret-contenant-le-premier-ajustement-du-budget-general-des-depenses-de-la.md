@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/16/2015027119/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 07-08-2015 et mise à jour au 09-11-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2015. - Décret contenant le premier ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 2015

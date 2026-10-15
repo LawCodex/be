@@ -11,7 +11,7 @@ date: 1997-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/30/1997033074/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1997. - Decreet houdende goedkeuring van de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, titel I tot IX, bijlagen I tot VII, protocolen 1 tot 5 en de slotakte, ondertekend op 20 november 1995 (VERTALING).

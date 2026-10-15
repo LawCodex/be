@@ -12,7 +12,7 @@ entry_into_force: 2006-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/04/19/2006009384/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2006. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune relatif à la mise en oeuvre de la loi du 24 avril 2003 reformant l'adoption.

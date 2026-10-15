@@ -13,7 +13,7 @@ entry_into_force: 2022-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/06/2022206871/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2022. - Décret modifiant l'article 3 du décret du 12 février 2004 relatif au statut de l'administrateur public, l'article 3 du décret du 12 février 2004 relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public et les articles 43, § 3, 45, § 2ter, 45bis et 45quater du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité

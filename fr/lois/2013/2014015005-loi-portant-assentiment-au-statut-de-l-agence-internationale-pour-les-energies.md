@@ -12,7 +12,7 @@ entry_into_force: 2014-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/08/2014015005/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2013. - Loi portant assentiment au Statut de l'Agence internationale pour les énergies renouvelables (IRENA), fait à Bonn le 26 janvier 2009

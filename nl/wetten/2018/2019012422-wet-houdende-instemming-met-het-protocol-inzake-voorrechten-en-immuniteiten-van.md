@@ -12,7 +12,7 @@ entry_into_force: 2021-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/28/2019012422/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2018. - Wet houdende instemming met het Protocol inzake voorrechten en immuniteiten van het eengemaakt octrooigerecht, gedaan te Brussel op 29 juni 2016

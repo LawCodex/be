@@ -12,7 +12,7 @@ entry_into_force: 2016-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2014015256/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Wet houdende instemming met het Protocol, gedaan te Brussel op 8 maart 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Korea tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Brussel op 29 augustus 1977, zoals gewijzigd door de aanvullende Overeenkomst, ondertekend te Brussel op 20 april 1994

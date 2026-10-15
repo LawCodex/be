@@ -12,7 +12,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/14/2015015194/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2015. - Wet houdende instemming met het Besluit van de Raad van de Europese Unie van 26 mei 2014 betreffende het stelsel van eigen middelen van de Europese Unie (2014/335/EU, Euratom)

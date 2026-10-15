@@ -12,7 +12,7 @@ entry_into_force: 1997-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/19/1997000080/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1996. - Wet tot wijziging van de gemeentegrenzen tussen Braives en Villers-le-Bouillet.

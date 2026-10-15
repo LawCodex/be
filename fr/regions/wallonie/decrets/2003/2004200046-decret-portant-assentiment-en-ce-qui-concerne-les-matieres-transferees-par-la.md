@@ -13,7 +13,7 @@ entry_into_force: 2004-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2004200046/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, au Protocole n° 12 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, fait à Rome le 4 novembre 2000.

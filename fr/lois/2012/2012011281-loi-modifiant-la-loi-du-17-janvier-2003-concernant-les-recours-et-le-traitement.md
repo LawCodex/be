@@ -12,7 +12,7 @@ entry_into_force: 2012-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/10/2012011281/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2012. - Loi modifiant la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges

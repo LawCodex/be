@@ -13,7 +13,7 @@ entry_into_force: 2012-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/12/2012029326/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Programmadecreet houdende diverse maatregelen betreffende de begrotingsfondsen vermeld in de algemene uitgavenbegroting van de Franse Gemeenschap, het leerplichtonderwijs en het onderwijs voor sociale promotie, het Agentschap voor de evaluatie van de kwaliteit van het door de Franse Gemeenschap georganiseerde of gesubsidieerde onderwijs, de financiering van het universitair en niet-universitair hoger onderwijs, de schoolgebouwen en het onderzoek

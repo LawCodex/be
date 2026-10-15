@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/23/1995031053/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 18-02-1995 et mise à jour au 20-06-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1994. - Décret contenant le budget général des Dépenses de la Commission communautaire française pour l'année budgétaire 1995.

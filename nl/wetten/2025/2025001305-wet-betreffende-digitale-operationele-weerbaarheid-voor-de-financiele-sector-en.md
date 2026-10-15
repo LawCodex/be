@@ -12,7 +12,7 @@ entry_into_force: 2025-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/03/25/2025001305/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2025. - Wet betreffende digitale operationele weerbaarheid voor de financiële sector en houdende diverse bepalingen

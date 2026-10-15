@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/04/2018012104/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-06-2018 en tekstbijwerking tot 15-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2018. - Decreet betreffende de vrijwillige samenvoeging van de gemeenten Kruishoutem en Zingem en tot wijziging van de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds en de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011

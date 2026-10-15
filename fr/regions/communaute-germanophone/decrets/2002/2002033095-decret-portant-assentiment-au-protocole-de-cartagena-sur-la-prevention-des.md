@@ -13,7 +13,7 @@ entry_into_force: 2002-11-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/07/2002033095/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2002. - Décret portant assentiment au Protocole de Cartagena sur la prévention des risques biotechnologiques, relatif à la Convention sur la diversité biologique, ainsi que ses Annexes I, II et III, adoptés à Montréal le 29 janvier 2000 (TRADUCTION).

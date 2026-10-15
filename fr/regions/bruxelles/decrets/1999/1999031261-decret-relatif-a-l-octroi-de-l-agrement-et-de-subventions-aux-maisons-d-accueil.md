@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/27/1999031261/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 18-06-1999 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 1999. - Décret relatif à l'octroi de l'agrément et de subventions aux maisons d'accueil.

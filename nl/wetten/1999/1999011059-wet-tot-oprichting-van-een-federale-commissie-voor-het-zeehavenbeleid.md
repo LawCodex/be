@@ -12,7 +12,7 @@ entry_into_force: 1999-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/31/1999011059/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 1999. - Wet tot oprichting van een Federale Commissie voor het zeehavenbeleid.

@@ -13,7 +13,7 @@ entry_into_force: 2007-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/16/2007202052/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2007. - Décret portant assentiment à l'échange de notes diplomatiques du 23 mai 2005, constitutif de l'Accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du grand-duché de Luxembourg, relatif à la coopération dans les régions frontalières.

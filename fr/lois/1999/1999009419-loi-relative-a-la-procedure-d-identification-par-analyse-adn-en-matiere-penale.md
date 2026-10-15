@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/22/1999009419/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 20-05-1999 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1999. - Loi relative à la procédure d'identification par analyse ADN en matière pénale

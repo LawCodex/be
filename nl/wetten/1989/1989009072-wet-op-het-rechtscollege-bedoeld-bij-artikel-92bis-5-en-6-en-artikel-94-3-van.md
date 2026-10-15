@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/01/23/1989009072/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-1993 en tekstbijwerking tot 26-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 1989. - Wet op het rechtscollege bedoeld bij artikel 92bis, § 5 en § 6, en artikel 94, § 3, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

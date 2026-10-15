@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022015539/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-09-2022 et mise à jour au 23-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret réglant l'octroi d'un bonus emploi plus aux indépendants débutants

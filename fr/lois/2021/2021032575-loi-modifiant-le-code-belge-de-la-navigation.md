@@ -12,7 +12,7 @@ entry_into_force: 2021-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/16/2021032575/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2021. - Loi modifiant le Code belge de la Navigation

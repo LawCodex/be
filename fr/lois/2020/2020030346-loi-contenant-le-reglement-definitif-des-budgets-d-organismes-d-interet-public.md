@@ -12,7 +12,7 @@ entry_into_force: 2020-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/15/2020030346/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2020. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2015

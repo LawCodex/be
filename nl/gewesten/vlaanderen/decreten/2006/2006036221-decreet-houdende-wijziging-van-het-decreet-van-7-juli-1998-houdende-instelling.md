@@ -12,7 +12,7 @@ entry_into_force: 2006-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/23/2006036221/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2006. - Decreet houdende wijziging van het decreet van 7 juli 1998 houdende instelling van de Vlaamse Ombudsdienst.

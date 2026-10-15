@@ -13,7 +13,7 @@ entry_into_force: 2004-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004202465/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet houdende goedkeuring van de Samenwerkingsovereenkomst tussen de Franse Gemeenschap en het Waalse Gewest betreffende de ontwikkeling van overlegde beleidslijnen inzake de alfabetisering van volwassenen en de financiering 2003 en 2004 van de samenwerking in het kader van de gekruiste beleidsvoeringen, gedaan te Namen op 19 december 2003 (VERTALING).

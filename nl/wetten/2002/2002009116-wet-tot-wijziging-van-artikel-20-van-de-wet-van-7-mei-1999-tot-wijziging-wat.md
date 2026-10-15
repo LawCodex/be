@@ -12,7 +12,7 @@ entry_into_force: 2002-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/12/2002009116/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2002. - Wet tot wijziging van artikel 20 van de wet van 7 mei 1999 tot wijziging, wat het tuchtrecht voor de leden van de Rechterlijke Orde betreft, van het Gerechtelijk Wetboek.

@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1973/07/12/1973C71207/justel"
 justel_notes:
   - "Pour les versions antérieures, voir archives de la version fédérale L 1973-07-12/30 "
   - "Consultation des versions antérieures à partir du 16-03-2012 et mise à jour au 21-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1973. - Loi sur la conservation de la nature - Région de Bruxelles-Capitale

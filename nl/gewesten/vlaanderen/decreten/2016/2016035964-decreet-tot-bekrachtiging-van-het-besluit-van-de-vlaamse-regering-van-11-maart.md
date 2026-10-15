@@ -13,7 +13,7 @@ entry_into_force: 2016-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/03/2016035964/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2016. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 11 maart 2016 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking van de eindtermen van de derde graad van het algemeen secundair onderwijs, wat natuurwetenschappen of fysica en/of chemie en/of biologie betreft

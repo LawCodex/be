@@ -12,7 +12,7 @@ entry_into_force: 2013-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/17/2013204494/justel"
 department: "Santé Publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AOUT 2013. - Loi relative à la modernisation du droit du travail et portant des dispositions diverses

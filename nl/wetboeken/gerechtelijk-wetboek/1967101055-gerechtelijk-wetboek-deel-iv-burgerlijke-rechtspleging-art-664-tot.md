@@ -15,7 +15,7 @@ justel_notes:
   - "artikelen 1231.38 ; 1231.39 gewijzigd met ingang op een onbepaalde datum door W 2018-06-18/03 , art. 159-160, 167; Inwerkingtreding : onbepaald "
   - "art. 1235ter/4 gewijzigd met ingang op een onbepaalde datum bij W 2018-07-30/54 , art. 4; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 12-06-1985 en tekstbijwerking tot 12-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - GERECHTELIJK WETBOEK - Deel IV : BURGERLIJKE RECHTSPLEGING. (art. 664 tot 1385octiesdecies)

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/09/2023047569/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2023. - Decreet houdende diverse bepalingen betreffende het bestuur en het toezicht in de jeugdsector

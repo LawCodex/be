@@ -13,7 +13,7 @@ entry_into_force: 2007-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/15/2007200613/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Décret portant assentiment à l'accord de coopération modifiant l'article 3 de l'accord de coopération du 29 avril 2004 entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret du 25 avril 2002 relatif aux aides visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand.

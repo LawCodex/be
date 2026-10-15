@@ -13,7 +13,7 @@ entry_into_force: 2023-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/21/2023200678/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2022. - Décret portant assentiment à l'Annexe VI du Protocole au Traité sur l'Antarctique relatif à la protection de l'environnement, faite à Stockholm le 17 juin 2005

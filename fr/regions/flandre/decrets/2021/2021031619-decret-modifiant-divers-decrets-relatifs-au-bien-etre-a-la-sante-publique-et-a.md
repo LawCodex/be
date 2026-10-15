@@ -13,7 +13,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/21/2021031619/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2021. - Décret modifiant divers décrets relatifs au bien-être, à la santé publique et à la famille

@@ -12,7 +12,7 @@ entry_into_force: 2001-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/04/2001000862/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2001. - Loi modifiant la loi du 10 mars 1980 relative à l'octroi du titre honorifique de leurs fonctions aux bourgmestres, aux échevins et aux présidents des conseils des centres publics d'aide sociale ou des anciennes commissions d'assistance publique.

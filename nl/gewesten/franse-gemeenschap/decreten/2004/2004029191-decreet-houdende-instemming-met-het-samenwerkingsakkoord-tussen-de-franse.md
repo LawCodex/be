@@ -13,7 +13,7 @@ entry_into_force: 2004-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029191/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschap en het Waalse Gewest met betrekking tot het ontwikkelen van in overleg bepaalde beleidskeuzen inzake volwassenenalfabetisering en de financiering in 2003 en 2004 van de samenwerking in het raam van gekruiste beleidskeuzen, gedaan te Namen op 19 december 2003 (VERTALING).

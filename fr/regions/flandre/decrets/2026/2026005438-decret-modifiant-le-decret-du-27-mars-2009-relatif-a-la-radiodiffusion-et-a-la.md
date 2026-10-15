@@ -13,7 +13,7 @@ entry_into_force: 2026-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/10/2026005438/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2026. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne les organismes de radiodiffusion sonore

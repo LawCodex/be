@@ -13,7 +13,7 @@ entry_into_force: 2000-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/16/2000029130/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2000. - Décret modifiant le décret du 12 juin 1981 fixant la procédure d'enquête.

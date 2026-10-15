@@ -12,7 +12,7 @@ entry_into_force: 1998-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/04/16/1998011107/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1998. - Wet houdende tiende aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 1997 - Sectie 32 - Ministerie van Economische Zaken.

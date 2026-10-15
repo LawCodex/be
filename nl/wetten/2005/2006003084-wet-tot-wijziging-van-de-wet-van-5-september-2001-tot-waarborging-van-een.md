@@ -12,7 +12,7 @@ entry_into_force: 2006-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/20/2006003084/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2005. - Wet tot wijziging van de wet van 5 september 2001 tot waarborging van een voortdurende vermindering van de overheidsschuld en tot oprichting van een Zilverfonds.

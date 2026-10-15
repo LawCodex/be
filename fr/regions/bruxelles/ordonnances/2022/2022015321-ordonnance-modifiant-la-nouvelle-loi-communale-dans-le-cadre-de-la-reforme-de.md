@@ -13,7 +13,7 @@ entry_into_force: 2024-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/06/2022015321/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2022. - Ordonnance modifiant la Nouvelle loi communale dans le cadre de la réforme de la gouvernance locale

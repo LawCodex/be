@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/15/2024005606/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2024. - Loi modifiant le Code de la nationalité belge, en vue de permettre aux époux des agents diplomatiques ou consulaires belges d'accéder à la nationalité belge

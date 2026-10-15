@@ -12,7 +12,7 @@ entry_into_force: 2022-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/12/2021043648/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2021. - Wet tot wijziging van de wet van 15 september 2013 betreffende de melding van een veronderstelde integriteitsschending in de federale administratieve overheden door haar personeelsleden, teneinde het Vast Comité P bevoegd te maken voor alle meldingen door personeelsleden van de geïntegreerde politie

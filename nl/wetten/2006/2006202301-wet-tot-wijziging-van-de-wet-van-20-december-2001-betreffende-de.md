@@ -12,7 +12,7 @@ entry_into_force: 2006-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/20/2006202301/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2006. - Wet tot wijziging van de wet van 20 december 2001 betreffende de schadeloosstelling van de leden van de Joodse Gemeenschap van België voor hun goederen die werden geplunderd of achtergelaten tijdens de oorlog 1940-1945.

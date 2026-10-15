@@ -12,7 +12,7 @@ entry_into_force: 2013-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/27/2012022488/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2012. - Wet houdende diverse bepalingen inzake de toegankelijkheid van de gezondheidzorg

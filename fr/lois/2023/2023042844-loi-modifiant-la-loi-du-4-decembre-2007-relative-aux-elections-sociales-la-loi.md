@@ -12,7 +12,7 @@ entry_into_force: 2023-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/05/2023042844/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2023. - Loi modifiant la loi du 4 décembre 2007 relative aux élections sociales, la loi du 20 septembre 1948 portant organisation de l'économie et la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/06/2008202338/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 18-07-2008 en tekstbijwerking tot 14-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2008. - Decreet houdende het instellen van een rookverbod in [ 1 onderwijsinstellingen, onderwijsinternaten en centra voor leerlingenbegeleiding] 1 ( 1 )&lt;DVR 2023-06-16/12 , art.105 , 004; Inwerkingtreding : 01-09-2023&gt;

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014009234/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-06-2014 et mise à jour au 19-02-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi insérant la probation comme peine autonome dans le Code pénal, et modifiant le Code d'instruction criminelle, et la loi du 29 juin 1964 concernant la suspension, le sursis et la probation

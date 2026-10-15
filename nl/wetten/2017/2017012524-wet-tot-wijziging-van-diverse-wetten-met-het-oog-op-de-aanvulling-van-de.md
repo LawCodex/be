@@ -12,7 +12,7 @@ entry_into_force: 2017-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/05/17/2017012524/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2017. - Wet tot wijziging van diverse wetten met het oog op de aanvulling van de gerechterlijke ontbindingsprocedure van vennootschappen

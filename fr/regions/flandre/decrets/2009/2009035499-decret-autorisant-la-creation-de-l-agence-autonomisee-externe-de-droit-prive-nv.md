@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035499/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2009 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret autorisant la création de l'agence autonomisée externe de droit privé "NV Vlaamse Havens" (SA Ports flamands) et modifiant le décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes

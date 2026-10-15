@@ -12,7 +12,7 @@ entry_into_force: 2002-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/14/2000015122/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2000. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van het Koninkrijk Marokko inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Rabat op 13 april 1999.

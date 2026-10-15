@@ -13,7 +13,7 @@ entry_into_force: 2023-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/14/2023048159/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2023. - Ordonnantie tot wijziging van de ordonnantie van 27 februari 2014 betreffende de vennootschap NEO

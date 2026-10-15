@@ -13,7 +13,7 @@ entry_into_force: 2008-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/21/2008035094/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Decreet houdende wijziging van artikel 2, 17°, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

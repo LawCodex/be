@@ -12,7 +12,7 @@ entry_into_force: 2012-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/09/2012003060/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2012. - Loi portant sur la Résolution 612 intitulée " Augmentation sélective du capital social autorisé 2010 pour renforcer le droit de vote et la participation des pays en développement et en transition " et sur la Résolution 613 intitulée " Augmentation générale du capital 2010 " du Conseil des Gouverneurs de la Banque internationale pour la Reconstruction et le Développement relatives à la souscription de la Belgique à l'augmentation sélective et générale du capital de la Banque internationale pour la Reconstruction et le Développement

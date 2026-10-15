@@ -13,7 +13,7 @@ entry_into_force: 2017-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/10/2017011030/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2017. - Décret portant assentiment au deuxième protocole, signé à Londres le 13 mars 2014, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capital, signée à Bruxelles le 1er juin 1987, telle que modifiée par le protocole, signé à Paris le 24 juin 2009

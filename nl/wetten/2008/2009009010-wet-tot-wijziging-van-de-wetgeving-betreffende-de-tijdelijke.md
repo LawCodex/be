@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/22/2009009010/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2008. - Wet tot wijziging van de wetgeving betreffende de tijdelijke personeelsformaties bij de hoven van beroep en van de parketten-generaal.

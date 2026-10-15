@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2003029007/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-01-2003 en tekstbijwerking tot 08-04-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet betreffende het opmaken, door de Regering, va n een jaarverslag over de evaluatie van het regeringsbeleid inzake gelijkheid tu ssen vrouwen en mannen (VERTALING). &lt;Opschrift vervangen door DFG 2005-01-28/37, art. 2, 002; Inwerkingtreding : 18-04-2005&gt;

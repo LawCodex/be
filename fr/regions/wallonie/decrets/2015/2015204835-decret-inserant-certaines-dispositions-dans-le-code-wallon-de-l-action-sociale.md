@@ -13,7 +13,7 @@ entry_into_force: 2016-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204835/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret insérant certaines dispositions dans le Code wallon de l'Action sociale et de la Santé, relatives à la reconnaissance d'une plate-forme d'échange électronique des données de santé

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004202463/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-2004 en tekstbijwerking tot 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet tot invoering van een belasting op de afgedankte bedrijfsruimten (VERTALING)

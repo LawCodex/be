@@ -12,7 +12,7 @@ entry_into_force: 1999-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015099/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment à la Convention sur les aspects civils de l'enlèvement international d'enfants, faite à La Haye le 25 octobre 1980, abrogeant les articles 2 et 3 de la loi du 1er août 1985 portant approbation de la Convention européenne sur la reconnaissance et l'exécution des décisions en matière de garde des enfants et le rétablissement de la garde des enfants, faite à Luxembourg le 20 mai 1980 et modifiant le Code judiciaire.

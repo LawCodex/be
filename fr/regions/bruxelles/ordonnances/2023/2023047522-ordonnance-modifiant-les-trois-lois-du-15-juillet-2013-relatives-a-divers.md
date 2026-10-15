@@ -13,7 +13,7 @@ entry_into_force: 2023-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/11/23/2023047522/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Ordonnance modifiant les trois lois du 15 juillet 2013 relatives à divers aspects du transport par route

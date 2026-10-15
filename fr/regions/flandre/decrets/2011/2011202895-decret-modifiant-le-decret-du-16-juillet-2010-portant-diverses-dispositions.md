@@ -13,7 +13,7 @@ entry_into_force: 2011-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/20/2011202895/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2011. - Décret modifiant le décret du 16 juillet 2010 portant diverses dispositions relatives au domaine politique de l'Emploi et de l'Economie sociale

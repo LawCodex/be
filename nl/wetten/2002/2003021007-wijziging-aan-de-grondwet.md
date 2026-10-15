@@ -12,7 +12,7 @@ entry_into_force: 2003-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/17/2003021007/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2002. - Wijziging aan de Grondwet.

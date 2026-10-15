@@ -11,7 +11,7 @@ entry_into_force: 2014-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015102/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Tweede Protocol, gedaan te Parijs op 24 juni 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Canberra op 13 oktober 1977, zoals gewijzigd door het Protocol, ondertekend te Canberra op 20 maart 1984, en tot aanpassing van de Belgische belastingwetgeving aan sommige bepalingen van voormeld Tweede Protocol

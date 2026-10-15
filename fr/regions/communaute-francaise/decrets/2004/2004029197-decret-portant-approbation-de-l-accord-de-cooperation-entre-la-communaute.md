@@ -13,7 +13,7 @@ entry_into_force: 2004-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/19/2004029197/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2004. - Décret portant approbation de l'Accord de coopération entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret wallon du 25 avril 2002 relatif aux aides visant à favoriser l'engagement des demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand.

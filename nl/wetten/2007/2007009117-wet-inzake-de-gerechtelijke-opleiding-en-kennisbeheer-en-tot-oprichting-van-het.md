@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/31/2007009117/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-02-2007 en tekstbijwerking tot 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2007. - [Wet inzake de gerechtelijke opleiding en kennisbeheer en tot oprichting van het Instituut voor gerechtelijke opleiding] (W 2017-07-06/24 , art. 271, 011; Inwerkingtreding : 03-08-2017)

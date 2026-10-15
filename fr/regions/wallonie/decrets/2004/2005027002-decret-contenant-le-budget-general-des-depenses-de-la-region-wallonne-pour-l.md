@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/22/2005027002/justel"
 department: "Région Wallonne"
 justel_note: "premier ajustement par DRW 2005-07-14/52"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2004. - Décret contenant le Budget général des dépenses de la Région wallonne pour l'année budgétaire 2005.

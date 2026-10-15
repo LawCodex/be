@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/12/2017012207/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-05-2017 et mise à jour au 17-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2017. - Décret portant diverses dispositions dans les domaines politiques de la culture et de la jeunesse

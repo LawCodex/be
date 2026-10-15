@@ -13,7 +13,7 @@ entry_into_force: 2021-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/06/03/2021031591/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2021. - Ordonnantie houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Singapore, anderzijds, gedaan te Brussel op 19 oktober 2018

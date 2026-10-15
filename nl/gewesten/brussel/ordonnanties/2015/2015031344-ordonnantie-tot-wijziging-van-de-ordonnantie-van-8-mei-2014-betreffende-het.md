@@ -13,7 +13,7 @@ entry_into_force: 2015-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/05/28/2015031344/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2015. - Ordonnantie tot wijziging van de ordonnantie van 8 mei 2014 betreffende het toeristische logies

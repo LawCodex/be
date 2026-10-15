@@ -13,7 +13,7 @@ entry_into_force: 2015-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/26/2015035917/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2015. - Décret portant assentiment à l'Accord établissant l'Institut International pour la Démocratie et l'Assistance électorale, et l'acte final, faits à Stockholm le 27 février 1995, tels que modifiés le 24 janvier 2006

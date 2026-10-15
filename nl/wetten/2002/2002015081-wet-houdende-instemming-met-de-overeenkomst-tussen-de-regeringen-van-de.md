@@ -12,7 +12,7 @@ entry_into_force: 2002-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/17/2002015081/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2002. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van de Beneluxstaten (het Koninkrijk België, het Koninkrijk der Nederlanden, het Groothertogdom Luxemburg) en de Regering van de Republiek Bulgarije betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst), en met het Uitvoeringsprotocol, ondertekend te Brussel op 7 oktober 1998.

@@ -12,7 +12,7 @@ entry_into_force: 1999-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/19/1999015141/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 1996. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République du Venezuela tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et Protocole, signé à Bruxelles le 22 avril 1993.

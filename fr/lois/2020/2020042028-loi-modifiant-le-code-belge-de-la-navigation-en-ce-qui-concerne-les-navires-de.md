@@ -12,7 +12,7 @@ entry_into_force: 2020-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/18/2020042028/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2020. - Loi modifiant le Code belge de la Navigation en ce qui concerne les navires de souveraineté belge

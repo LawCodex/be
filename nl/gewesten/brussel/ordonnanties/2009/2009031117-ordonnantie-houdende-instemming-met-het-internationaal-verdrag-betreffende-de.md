@@ -13,7 +13,7 @@ entry_into_force: 2009-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/05/2009031117/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2009. - Ordonnantie houdende instemming met het Internationaal Verdrag betreffende de controle op schadelijke aangroeiwerende systemen op schepen, opgemaakt te Londen op 5 oktober 2001.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/25/2009203925/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 08-09-2009 et mise à jour au 09-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2009. - Décret portant sur des mesures en matière d'enseignement et de formation pour 2009

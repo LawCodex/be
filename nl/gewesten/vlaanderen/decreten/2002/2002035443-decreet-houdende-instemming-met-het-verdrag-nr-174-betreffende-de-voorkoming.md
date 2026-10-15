@@ -13,7 +13,7 @@ entry_into_force: 2002-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/01/2002035443/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2002. - Decreet houdende instemming met het Verdrag nr. 174 betreffende de voorkoming van zware industriële ongevallen, aangenomen door de algemene vergadering van de Internationale Arbeidsorganisatie in Genève op 22 juni 1993.

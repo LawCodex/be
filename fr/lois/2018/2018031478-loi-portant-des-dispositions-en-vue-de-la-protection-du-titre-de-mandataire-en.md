@@ -11,7 +11,7 @@ published: 2018-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/08/2018031478/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2018. - Loi portant des dispositions en vue de la protection du titre de mandataire en brevets

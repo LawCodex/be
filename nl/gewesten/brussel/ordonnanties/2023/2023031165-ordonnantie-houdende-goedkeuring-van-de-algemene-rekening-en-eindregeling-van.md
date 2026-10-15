@@ -13,7 +13,7 @@ entry_into_force: 2023-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/06/01/2023031165/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2023. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van het gewestelijk Agentschap voor netheid voor het jaar 2021

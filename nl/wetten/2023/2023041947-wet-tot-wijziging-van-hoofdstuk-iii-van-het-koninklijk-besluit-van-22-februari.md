@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023041947/justel"
 department: "Federaal Agentschap voor de Veiligheid van de Voedselketen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet tot wijziging van hoofdstuk III van het koninklijk besluit van 22 februari 2001 houdende organisatie van de controles die worden verricht door het Federaal Agentschap voor de Veiligheid van de Voedselketen en tot wijziging van diverse wettelijke bepalingen

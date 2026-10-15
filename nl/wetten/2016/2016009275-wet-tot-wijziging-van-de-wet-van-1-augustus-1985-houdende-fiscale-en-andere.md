@@ -12,7 +12,7 @@ entry_into_force: 2016-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/31/2016009275/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2016. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen, wat de hulp aan slachtoffers van opzettelijke gewelddaden betreft

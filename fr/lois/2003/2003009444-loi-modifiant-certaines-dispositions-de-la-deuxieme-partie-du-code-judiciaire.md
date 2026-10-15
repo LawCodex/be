@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003009444/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2003 et mise à jour au 26-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi modifiant certaines dispositions de la deuxième partie du Code judiciaire.

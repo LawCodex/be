@@ -13,7 +13,7 @@ entry_into_force: 2007-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/17/2006204112/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2006. - Décret portant assentiment à l'Instrument portant amendement à la Constitution de l'Organisation internationale du Travail, adopté par la Conférence internationale du Travail à sa quatre-vingt-cinquième session à Genève, le 19 juin 1997.

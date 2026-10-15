@@ -13,7 +13,7 @@ entry_into_force: 2021-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/25/2021021189/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2021. - Decreet 2019/1693 houdende de eindregeling van de begroting van de Franse Gemeenschapscommissie voor het jaar 2009

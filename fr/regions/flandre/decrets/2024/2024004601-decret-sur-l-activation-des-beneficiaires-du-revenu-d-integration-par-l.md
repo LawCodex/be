@@ -13,7 +13,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004601/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret sur l'activation des bénéficiaires du revenu d'intégration par l'inscription obligatoire auprès de l'Office flamand de l'Emploi et de la Formation professionnelle (" Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding ")

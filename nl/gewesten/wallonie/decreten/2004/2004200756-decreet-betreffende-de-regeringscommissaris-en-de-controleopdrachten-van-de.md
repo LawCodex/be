@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/02/12/2004200756/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 22-03-2004 en tekstbijwerking tot 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2004. - [Decreet betreffende de Regeringscommissaris en de controleopdrachten van de revisoren binnen de instellingen van openbaar nut] (VERTALING). &lt;DWG 2009-04-30/26 , art. 1 , 003; Inwerkingtreding : 05-06-2009&gt;

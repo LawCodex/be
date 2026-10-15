@@ -13,7 +13,7 @@ entry_into_force: 2004-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/28/2004029051/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2004. - Decreet houdende de opstelling van een verslag over de toepassing van de principes van het Internationaal verdrag inzake de rechten van het kind (VERTALING).

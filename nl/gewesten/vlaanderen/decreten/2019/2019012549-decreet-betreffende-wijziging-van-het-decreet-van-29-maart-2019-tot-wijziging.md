@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019012549/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet betreffende wijziging van het decreet van 29 maart 2019 tot wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en de Vlaamse Codex Fiscaliteit van 13 december 2013

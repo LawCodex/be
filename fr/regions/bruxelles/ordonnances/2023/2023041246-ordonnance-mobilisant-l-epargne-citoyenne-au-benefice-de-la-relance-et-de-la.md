@@ -13,7 +13,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/03/17/2023041246/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2023. - Ordonnance mobilisant l'épargne citoyenne au bénéfice de la relance et de la transition économique

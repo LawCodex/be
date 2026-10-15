@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/26/2016205146/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 17-10-2016 et mise à jour au 21-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Décret relatif à la réparation de certains dommages causés par des calamités naturelles publiques

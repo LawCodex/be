@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1999015016/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. Wet houdende Instemming met de Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel, Bijlage, Proces-Verbaal van ondertekening, en Gezamenlijke Verklaringen, gedaan te Florence op 21 juni 1996.

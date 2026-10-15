@@ -13,7 +13,7 @@ entry_into_force: 2006-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/02/2006029096/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Decreet houdende instemming met het Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen, aangenomen op 20 oktober 2005 en opgemaakt te Parijs op 9 december 2005. (Vertaling).

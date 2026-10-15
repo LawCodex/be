@@ -12,7 +12,7 @@ entry_into_force: 2009-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/24/2009003289/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 2009. - Loi modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, en ce qui concerne la crise financière

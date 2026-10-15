@@ -13,7 +13,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/24/2017032022/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2017. - Décret portant diverses dispositions relatives à l'enseignement

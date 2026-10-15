@@ -12,7 +12,7 @@ entry_into_force: 2004-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/29/2004015049/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2004. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Kroatië tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 31 oktober 2001.

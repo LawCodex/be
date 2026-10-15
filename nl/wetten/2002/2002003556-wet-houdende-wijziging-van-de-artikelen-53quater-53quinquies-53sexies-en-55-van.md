@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/20/2002003556/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2002. - Wet houdende wijziging van de artikelen 53quater , 53quinquies , 53sexies en 55 van het Wetboek van de belasting over de toegevoegde waarde.

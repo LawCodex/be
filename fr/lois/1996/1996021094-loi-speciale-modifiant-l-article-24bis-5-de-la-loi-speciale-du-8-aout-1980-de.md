@@ -12,7 +12,7 @@ entry_into_force: 1996-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/03/25/1996021094/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1996. - Loi spéciale modifiant l'article 24bis, § 5, de la loi spéciale du 8 août 1980 de réformes institutionnelles.

@@ -13,7 +13,7 @@ entry_into_force: 2013-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203086/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret spécial portant modification du règlement relatif aux commissions de recours dans les instituts supérieurs de droit public et du règlement relatif à l'élection de certains membres du collège administratif de la " Universiteit Gent "

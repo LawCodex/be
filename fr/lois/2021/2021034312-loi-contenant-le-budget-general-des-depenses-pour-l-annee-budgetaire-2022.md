@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/23/2021034312/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2021 et mise à jour au 12-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Loi contenant le budget général des dépenses pour l'année budgétaire 2022

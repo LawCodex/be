@@ -11,7 +11,7 @@ published: 1973-06-30
 entry_into_force: 1973-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/06/07/1973060702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 1973. - Wet betreffende de instelling, in het raam van de Europese Gemeenschappen, van een mechanisme voor financiële bijstand op middellange termijn en tot wijziging van de besluitwet nr. 5 van 1 mei 1944.

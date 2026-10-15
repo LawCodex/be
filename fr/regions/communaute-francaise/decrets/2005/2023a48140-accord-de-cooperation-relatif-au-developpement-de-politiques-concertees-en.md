@@ -12,7 +12,7 @@ published: 2024-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/02/02/2023A48140/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2005. - Accord de coopération relatif au développement de politiques concertées en matière dalphabétisation des adultes, conclu entre la Communauté française, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale

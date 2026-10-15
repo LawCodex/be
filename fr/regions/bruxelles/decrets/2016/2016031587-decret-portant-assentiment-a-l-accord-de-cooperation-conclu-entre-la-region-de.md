@@ -13,7 +13,7 @@ entry_into_force: 2016-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016031587/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Décret portant assentiment à l'accord de coopération conclu entre la Région de Bruxelles-Capitale, de la Communauté française et la Commission communautaire française, relatif à l'équipement mis à disposition dans le cadre de la refondation de l'enseignement qualifiant et à la collaboration entre les Centres de technologies avancées et les Centres de référence professionnelle

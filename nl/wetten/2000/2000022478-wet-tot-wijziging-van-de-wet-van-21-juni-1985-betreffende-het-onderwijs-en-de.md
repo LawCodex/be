@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/14/2000022478/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2000. - Wet tot wijziging van de wet van 21 juni 1985 betreffende het onderwijs en de wet van 4 augustus 1986 tot regeling van de oppensioenstelling van de leden van het onderwijzend personeel van het universitair onderwijs en tot wijziging van andere bepalingen van de onderwijswetgeving.

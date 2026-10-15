@@ -12,7 +12,7 @@ published: 2009-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029365/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende wijziging van het decreet van 17 mei 1999 betreffende de vakantiecentra

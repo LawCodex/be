@@ -12,7 +12,7 @@ entry_into_force: 2021-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/22/2021022355/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2021. - Decreet tot wijziging van artikel 10/2, tweede lid, van het decreet van 16 mei 2008 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens

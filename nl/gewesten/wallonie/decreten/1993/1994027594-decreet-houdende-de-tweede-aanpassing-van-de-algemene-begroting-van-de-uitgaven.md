@@ -13,7 +13,7 @@ entry_into_force: 1994-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/09/1994027594/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1993. - Decreet houdende de tweede aanpassing van de algemene begroting van de uitgaven van het Waalse Gewest voor het begrotingsjaar 1993 (VERTALING).

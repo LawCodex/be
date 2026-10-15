@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/11/23/2023047523/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Ordonnance portant transformation, réorganisation et changement de dénomination de l'Agence bruxelloise pour l'Accompagnement de l'Entreprise en Agence bruxelloise pour l'Entrepreneuriat

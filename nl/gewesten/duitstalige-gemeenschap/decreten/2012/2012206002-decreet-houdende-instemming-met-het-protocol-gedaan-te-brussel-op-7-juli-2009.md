@@ -12,7 +12,7 @@ published: 2012-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/09/24/2012206002/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBER 2012. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 7 juli 2009, tot wijziging van de Overeenkomst tussen België en Denemarken tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 16 oktober 1969, zoals gewijzigd en aangevuld door het op 27 september 1999 te Kopenhagen ondertekende Protocol

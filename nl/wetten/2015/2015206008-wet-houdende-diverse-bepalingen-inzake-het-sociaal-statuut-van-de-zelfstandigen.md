@@ -12,7 +12,7 @@ entry_into_force: 2016-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/16/2015206008/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2015. - Wet houdende diverse bepalingen inzake het sociaal statuut van de zelfstandigen

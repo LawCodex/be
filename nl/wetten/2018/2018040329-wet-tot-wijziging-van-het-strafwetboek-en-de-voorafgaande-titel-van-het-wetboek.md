@@ -12,7 +12,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/11/2018040329/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Wet tot wijziging van het Strafwetboek en de voorafgaande titel van het Wetboek van Strafvordering wat de strafrechtelijke verantwoordelijkheid van rechtspersonen betreft

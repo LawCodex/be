@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/11/2003007144/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 13-05-2003 en tekstbijwerking tot 12-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2003. - Wet tot instelling van een vrijwillige dienst van collectief nut.

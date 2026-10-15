@@ -11,7 +11,7 @@ date: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/09/2007011400/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2007. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 9 februari 2007 tot wijziging van het samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van de bodemsanering van tankstations en houdende wijziging van de ordonnantie van 5 juni 1997 betreffende milieuvergunningen.

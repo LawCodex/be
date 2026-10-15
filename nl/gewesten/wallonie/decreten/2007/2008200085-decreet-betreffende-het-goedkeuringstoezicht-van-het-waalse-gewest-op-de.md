@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/19/2008200085/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 14-01-2008 en tekstbijwerking tot 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2007. - Decreet betreffende het goedkeuringstoezicht van het Waalse Gewest op de aanvullende reglementen op de openbare wegen en op het verkeer van de gemeenschappelijke vervoermiddelen (VERTALING)

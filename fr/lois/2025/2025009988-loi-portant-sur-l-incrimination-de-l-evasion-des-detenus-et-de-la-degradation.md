@@ -12,7 +12,7 @@ entry_into_force: 2026-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025009988/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi portant sur l'incrimination de l'évasion des détenus et de la dégradation ou du détournement du matériel de surveillance électronique et relatif à la réalisation de tests de drogues en prison et la révocation de la surveillance électronique dans le cadre de l'exécution de la peine

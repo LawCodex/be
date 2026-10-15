@@ -13,7 +13,7 @@ entry_into_force: 2011-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/26/2013031708/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 2013. - Ordonnance portant assentiment à l'Accord de coopération du 15 juillet 2011 entre la Région de Bruxelles-Capitale, la Région flamande et la Communauté flamande concernant la collaboration en matière de politique du marché de l'emploi, de formation et de promotion de la mobilité des demandeurs d'emploi

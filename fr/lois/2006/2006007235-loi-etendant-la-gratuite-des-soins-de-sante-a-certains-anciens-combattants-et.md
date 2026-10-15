@@ -12,7 +12,7 @@ entry_into_force: 2006-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/07/2006007235/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AOUT 2006. - Loi étendant la gratuité des soins de santé à certains anciens combattants et victimes de guerre, à l'intervention de l'Institut des Vétérans - Institut national des Invalides de Guerre, Anciens Combattants et Victimes de Guerre

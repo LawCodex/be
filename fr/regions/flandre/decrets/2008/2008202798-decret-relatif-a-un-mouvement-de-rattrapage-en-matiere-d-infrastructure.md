@@ -13,7 +13,7 @@ entry_into_force: 2008-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/23/2008202798/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2008. - Décret relatif à un mouvement de rattrapage en matière d'infrastructure sportive par le biais du financement alternatif (TRADUCTION).

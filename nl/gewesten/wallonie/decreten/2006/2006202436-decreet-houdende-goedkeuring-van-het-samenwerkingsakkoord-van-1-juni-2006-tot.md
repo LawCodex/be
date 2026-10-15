@@ -13,7 +13,7 @@ entry_into_force: 2006-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006202436/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 1 juni 2006 tot wijziging van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren voor zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (VERTALING).

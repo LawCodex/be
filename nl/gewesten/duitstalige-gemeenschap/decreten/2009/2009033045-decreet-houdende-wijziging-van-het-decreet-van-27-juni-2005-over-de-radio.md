@@ -13,7 +13,7 @@ entry_into_force: 2009-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/03/2009033045/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2009. - Decreet houdende wijziging van het decreet van 27 juni 2005 over de radio-omroep en de filmvoorstellingen (Tekst gepubliceerd bij ADDENDEUM, zie B.St. 16-02-2010, p.9460-9473)

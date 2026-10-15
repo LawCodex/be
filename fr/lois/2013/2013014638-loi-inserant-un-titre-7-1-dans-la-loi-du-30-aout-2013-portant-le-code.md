@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/30/2013014638/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2013. - Loi insérant un titre 7/1 dans la loi du 30 août 2013 portant le Code ferroviaire, en ce qui concerne les matières visées à l'article 77 de la Constitution

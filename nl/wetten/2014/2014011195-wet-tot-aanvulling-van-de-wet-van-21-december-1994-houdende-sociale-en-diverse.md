@@ -12,7 +12,7 @@ entry_into_force: 2014-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/14/2014011195/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Wet tot aanvulling van de wet van 21 december 1994 houdende sociale en diverse bepalingen met een set aanvullende indicatoren voor het meten van levenskwaliteit, menselijke ontwikkeling, de sociale vooruitgang en de duurzaamheid van onze economie

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/05/1995009428/justel"
 department: "Justitie"
 justel_note: "raadpleging van vroegere versies vanaf 10-05-1995 en tekstbijwerking tot 05-07-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Wet tot heropening van de termijnen voor de indiening van de aanvragen met het oog op de toekenning van een statuut van nationale erkentelijkheid ten gunste van de werkweigeraars en de weggevoerden voor de verplichte tewerkstelling van de oorlog 1940-1945.

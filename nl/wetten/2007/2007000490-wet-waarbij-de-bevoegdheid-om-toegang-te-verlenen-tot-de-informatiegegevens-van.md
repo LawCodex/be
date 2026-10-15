@@ -12,7 +12,7 @@ entry_into_force: 2007-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007000490/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet waarbij de bevoegdheid om toegang te verlenen tot de informatiegegevens van het wachtregister en van het register van de identiteitskaarten toevertrouwd wordt aan het sectoraal comité van het Rijksregister.

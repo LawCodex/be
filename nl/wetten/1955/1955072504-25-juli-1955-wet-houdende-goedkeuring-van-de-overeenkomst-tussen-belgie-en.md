@@ -11,7 +11,7 @@ published: 1955-10-06
 entry_into_force: 1955-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/07/25/1955072504/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1955. \_ Wet houdende goedkeuring van de Overeenkomst tussen België en Noorwegen, betreffende de instelling van een Belgisch geneeskundig bureau te Oslo en van een Noorweegs geneeskundig bureau te Antwerpen, ondertekend op 24 Maart 1954, te Brussel.

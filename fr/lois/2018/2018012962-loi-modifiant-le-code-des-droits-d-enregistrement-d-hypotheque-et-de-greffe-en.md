@@ -11,7 +11,7 @@ published: 2018-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/14/2018012962/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2018. - Loi modifiant le Code des droits d'enregistrement, d'hypothèque et de greffe en vue de réformer les droits de greffe

@@ -13,7 +13,7 @@ entry_into_force: 2018-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/04/2018205187/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OCTOBRE 2018. - Décret modifiant le Code de la démocratie locale et de la décentralisation en vue de réformer la tutelle sur les pouvoirs locaux

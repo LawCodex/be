@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/03/2005022674/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2005 et mise à jour au 31-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2005. - Loi relative aux droits des volontaires.

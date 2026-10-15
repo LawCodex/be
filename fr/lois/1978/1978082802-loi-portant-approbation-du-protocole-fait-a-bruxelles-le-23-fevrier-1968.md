@@ -11,7 +11,7 @@ published: 1978-11-23
 entry_into_force: 1978-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/08/28/1978082802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AOUT 1978. - Loi portant approbation du Protocole, fait à Bruxelles le 23 février 1968, portant modification de la Convention internationale pour l'unification de certaines règles en matière de connaissement, signée à Bruxelles le 25 août 1924.

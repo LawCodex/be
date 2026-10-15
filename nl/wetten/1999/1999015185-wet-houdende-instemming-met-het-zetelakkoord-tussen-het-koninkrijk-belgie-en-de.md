@@ -10,7 +10,7 @@ date: 1999-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/1999015185/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Liga van de Arabische Staten, ondertekend te Brussel op 16 november 1995.

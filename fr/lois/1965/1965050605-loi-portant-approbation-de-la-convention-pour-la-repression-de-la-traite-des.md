@@ -11,7 +11,7 @@ published: 1965-08-13
 entry_into_force: 1965-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/05/06/1965050605/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1965. - Loi portant approbation de la Convention pour la répression de la traite des êtres humains et de l'exploitation de la prostitution d'autrui, et le Protocole de clôture, signés à New York, le 21 mars 1950.

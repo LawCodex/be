@@ -13,7 +13,7 @@ entry_into_force: 2011-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/17/2011203441/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2011. - Decreet houdende wijziging van het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen

@@ -11,7 +11,7 @@ published: 1873-08-21
 entry_into_force: 1873-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1873/08/17/1873081750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AUGUSTUS 1873. - WET houdende de verjaring in fiscale of tuchtzaken (Officieuze vertaling).

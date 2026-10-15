@@ -13,7 +13,7 @@ entry_into_force: 2012-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/01/2012031109/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2012. - Ordonnance modifiant la loi du 22 décembre 1986 relative aux intercommunales et l'ordonnance du 19 juillet 2001 organisant la tutelle administrative sur les intercommunales de la Région de Bruxelles-Capitale

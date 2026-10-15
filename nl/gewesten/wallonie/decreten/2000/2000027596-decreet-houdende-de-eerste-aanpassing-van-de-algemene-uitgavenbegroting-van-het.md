@@ -13,7 +13,7 @@ entry_into_force: 2001-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/08/2000027596/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2000. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2000 (VERTALING).

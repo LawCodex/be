@@ -13,7 +13,7 @@ entry_into_force: 2016-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016035963/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret portant assentiment à l'accord entre le Royaume de Belgique et les Bermudes en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 11 avril 2013 et à Hamilton le 23 mai 2013

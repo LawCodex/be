@@ -13,7 +13,7 @@ entry_into_force: 2005-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/01/2005202280/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUILLET 2005. - Décret de la Communauté française modifiant le décret du 31 mars 2004 relatif à l'adoption.

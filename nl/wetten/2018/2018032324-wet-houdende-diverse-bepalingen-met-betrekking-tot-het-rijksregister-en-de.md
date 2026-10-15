@@ -12,7 +12,7 @@ entry_into_force: 2018-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/25/2018032324/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2018. - Wet houdende diverse bepalingen met betrekking tot het Rijksregister en de bevolkingsregisters

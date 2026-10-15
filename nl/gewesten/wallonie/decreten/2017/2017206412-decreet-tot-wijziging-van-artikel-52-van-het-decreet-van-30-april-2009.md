@@ -13,7 +13,7 @@ entry_into_force: 2017-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/30/2017206412/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2017. - Decreet tot wijziging van artikel 52 van het decreet van 30 april 2009 betreffende de informatie, de coördinatie en de organisatie van de werven onder, op of boven de wegen of waterlopen

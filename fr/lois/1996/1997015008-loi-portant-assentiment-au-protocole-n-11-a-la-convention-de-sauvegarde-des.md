@@ -12,7 +12,7 @@ entry_into_force: 1997-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/27/1997015008/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1996. - Loi portant assentiment au Protocole n° 11 à la Convention de sauvegarde des Droits de l'Hommes et des Libertés fondamentales, portant restructuration du mécanisme de contrôle établi par la Convention, et Annexe, fait à Strasbourg le 11 mai 1994.

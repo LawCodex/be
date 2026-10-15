@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/27/2023042296/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2023 et mise à jour au 24-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Décret relatif au plan d'investissement exceptionnel dans les bâtiments scolaires

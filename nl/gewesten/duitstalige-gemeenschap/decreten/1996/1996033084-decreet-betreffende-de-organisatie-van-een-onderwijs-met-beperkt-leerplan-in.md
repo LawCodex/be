@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/25/1996033084/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-10-1996 en tekstbijwerking tot 30-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1996. - Decreet betreffende de organisatie van een onderwijs met beperkt leerplan in het gewoon beroepssecundair onderwijs. (VERTALING).

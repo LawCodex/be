@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/03/05/1985024243/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-04-1985 en tekstbijwerking tot 29-04-2004). (NOTA 2 : opgeheven door DVR 2004-03-19/58, art. 16; Inwerkingtreding : 29-04-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1985. - Decreet houdende oprichting van een Vlaamse Adviesraad voor toerisme.

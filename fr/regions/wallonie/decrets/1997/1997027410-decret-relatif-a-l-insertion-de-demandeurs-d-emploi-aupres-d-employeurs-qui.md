@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/18/1997027410/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 17-07-2002 et mise à jour au 15-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1997. - Décret relatif à l'insertion de demandeurs d'emploi auprès d'employeurs qui organisent une formation permettant d'occuper un poste vacant.

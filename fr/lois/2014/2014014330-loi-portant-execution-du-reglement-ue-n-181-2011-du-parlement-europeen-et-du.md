@@ -12,7 +12,7 @@ entry_into_force: 2014-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/10/2014014330/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2014. - Loi portant exécution du Règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le Règlement (CE) n° 2006/2004

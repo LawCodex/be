@@ -12,7 +12,7 @@ entry_into_force: 2005-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/13/2005009982/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2005. - Wet tot wijziging van de artikelen 81, 104, 569, 578, 580, 583, 1395 van het Gerechtelijk Wetboek.

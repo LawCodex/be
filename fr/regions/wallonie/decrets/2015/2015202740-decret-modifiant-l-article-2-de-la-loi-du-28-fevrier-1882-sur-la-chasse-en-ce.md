@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/04/2015202740/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2015. - Décret modifiant l'article 2 de la loi du 28 février 1882 sur la chasse en ce qui concerne les heures durant lesquelles la chasse est autorisée

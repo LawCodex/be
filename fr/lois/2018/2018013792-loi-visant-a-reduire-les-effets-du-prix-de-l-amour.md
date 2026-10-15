@@ -12,7 +12,7 @@ entry_into_force: 2018-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/02/2018013792/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 2018. - Loi visant à réduire les effets du "prix de l'amour"

@@ -13,7 +13,7 @@ entry_into_force: 2016-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016035964/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret sanctionnant l'arrêté du Gouvernement flamand du 11 mars 2016 régissant la recevabilité et l'équivalence d'une demande de dérogation aux objectifs finaux du troisième degré de l'enseignement secondaire général pour ce qui est des sciences naturelles ou de la physique et/ou de la chimie et/ou de la biologie

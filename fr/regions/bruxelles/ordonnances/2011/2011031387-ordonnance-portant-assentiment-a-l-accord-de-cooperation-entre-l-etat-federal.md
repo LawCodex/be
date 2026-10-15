@@ -13,7 +13,7 @@ entry_into_force: 2011-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/07/20/2011031387/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Ordonnance portant assentiment à l'Accord de coopération entre l'Etat fédéral et les Régions concernant la mise en oeuvre de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, signée à Strasbourg le 9 septembre 1996

@@ -12,7 +12,7 @@ published: 1995-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/14/1995029189/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 1995. - Decreet tot wijziging van het koninklijk besluit nr. 63 van 20 juli 1982 tot wijziging van de bepalingen van de bezoldigingsregeling voor het onderwijzend en gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan. (VERTALING)

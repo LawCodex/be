@@ -13,7 +13,7 @@ entry_into_force: 2002-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/18/2002036616/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2002. - Décret portant assentiment à l'Accord de coopération entre le pouvoir fédéral et les Régions relatif à la création d'une Agence du Commerce extérieur (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/07/1995003374/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1995. - Wet betreffende het fiscaal statuut van de leden van de Kamer van volksvertegenwoordigers, de Senaat, de Gemeenschaps- en Gewestraden en het Europees Parlement.

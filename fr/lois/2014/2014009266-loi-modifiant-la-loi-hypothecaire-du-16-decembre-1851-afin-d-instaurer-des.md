@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/21/2014009266/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2014. - Loi modifiant la loi hypothécaire du 16 décembre 1851 afin d'instaurer des privilèges en faveur des victimes d'infractions pénales

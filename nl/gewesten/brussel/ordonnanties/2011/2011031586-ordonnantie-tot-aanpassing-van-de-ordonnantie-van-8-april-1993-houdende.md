@@ -13,7 +13,7 @@ entry_into_force: 2011-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/11/24/2011031586/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2011. - Ordonnantie tot aanpassing van de ordonnantie van 8 april 1993 houdende oprichting van het Brussels Gewestelijk Herfinancieringsfonds van de Gemeentelijke Thesaurieën

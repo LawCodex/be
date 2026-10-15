@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/30/2013009420/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-09-2013 en tekstbijwerking tot 20-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2013. - Wet betreffende de invoering van een familie- en jeugdrechtbank

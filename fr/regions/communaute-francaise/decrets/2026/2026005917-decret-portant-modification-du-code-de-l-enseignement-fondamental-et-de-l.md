@@ -13,7 +13,7 @@ entry_into_force: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026005917/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret portant modification du Code de l'enseignement fondamental et de l'enseignement secondaire tel que modifié par le décret du 16 mai 2024 portant sur les exclusions définitives et instituant des chambres inter-réseaux compétentes pour connaitre des recours à l'égard des décisions d'exclusion définitive

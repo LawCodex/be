@@ -13,7 +13,7 @@ entry_into_force: 2024-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/06/20/2024006506/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2024. - Décret portant assentiment à l'accord de coopération du 8 janvier 2024 entre la Région de Bruxelles-Capitale et la Commission Communautaire française portant sur la désignation d'un intégrateur de services commun pour l'échange électronique de données

@@ -12,7 +12,7 @@ entry_into_force: 2017-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2017040465/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet tot wijziging van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten, met het oog op de tenuitvoerlegging van Verordening (EU) nr. 596/2014 betreffende marktmisbruik en de omzetting van Richtlijn 2014/57/EU betreffende strafrechtelijke sancties voor marktmisbruik en Uitvoeringsrichtlijn (EU) 2015/2392 met betrekking tot de melding van inbreuken, en houdende diverse bepalingen

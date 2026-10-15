@@ -13,7 +13,7 @@ entry_into_force: 2002-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/28/2002028159/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2002. - Decreet houdende goedkeuring van het Samenwerkingsakkoord van 7 december 2001 tussen de Federale Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de ontwikkeling van buurtdiensten en -banen (VERTALING).

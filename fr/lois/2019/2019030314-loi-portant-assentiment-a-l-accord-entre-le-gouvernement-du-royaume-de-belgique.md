@@ -12,7 +12,7 @@ entry_into_force: 2025-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/01/2019030314/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Australie relatif aux services aériens, et à son annexe, faits à Canberra le 23 novembre 2012

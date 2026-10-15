@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/28/2013206949/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2013. - Decreet tot wijziging van het decreet van 25 maart 2004 betreffende de erkenning en de toekenning van subsidies aan de plaatselijke ontwikkelingsagentschappen

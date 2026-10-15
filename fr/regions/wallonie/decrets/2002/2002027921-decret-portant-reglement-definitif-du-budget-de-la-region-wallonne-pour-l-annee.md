@@ -13,7 +13,7 @@ entry_into_force: 2002-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/08/2002027921/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2002. - Décret portant règlement définitif du budget de la Région wallonne pour l'année 1986.

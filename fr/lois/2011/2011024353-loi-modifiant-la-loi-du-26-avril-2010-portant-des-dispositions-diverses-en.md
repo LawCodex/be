@@ -12,7 +12,7 @@ entry_into_force: 2011-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/26/2011024353/justel"
 department: "Finances - Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2011. - Loi modifiant la loi du 26 avril 2010 portant des dispositions diverses en matière de l'organisation de l'assurance maladie complémentaire

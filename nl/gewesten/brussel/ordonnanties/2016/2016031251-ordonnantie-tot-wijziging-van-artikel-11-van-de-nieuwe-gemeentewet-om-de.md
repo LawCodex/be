@@ -13,7 +13,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/03/24/2016031251/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2016. - Ordonnantie tot wijziging van artikel 11 van de Nieuwe Gemeentewet om de mogelijkheden van verlof wegens verhindering van een gemeenteraadslid uit te breiden

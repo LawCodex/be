@@ -13,7 +13,7 @@ entry_into_force: 2020-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/08/2020031533/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OCTOBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 21 du 11 juin 2020 portant le budget ajusté du Centre du Cinéma et de l'Audiovisuel en vue de soutenir le redéploiement du cinéma dans le cadre de la crise du COVID-19

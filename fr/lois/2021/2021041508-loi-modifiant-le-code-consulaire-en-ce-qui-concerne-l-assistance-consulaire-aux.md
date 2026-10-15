@@ -12,7 +12,7 @@ entry_into_force: 2021-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/25/2021041508/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2021. - Loi modifiant le Code consulaire en ce qui concerne l'assistance consulaire aux personnes bénéficiant d'un statut de réfugié ou apatride attribué par la Belgique et aux personnes avec plusieurs nationalités

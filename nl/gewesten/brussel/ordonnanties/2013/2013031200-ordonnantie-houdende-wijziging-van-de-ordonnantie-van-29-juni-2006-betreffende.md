@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/03/21/2013031200/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2013. - Ordonnantie houdende wijziging van de ordonnantie van 29 juni 2006 betreffende de inrichting en de werking van de islamitische eredienst

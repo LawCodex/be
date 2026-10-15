@@ -12,7 +12,7 @@ published: 2003-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/16/2003033011/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2002. - Decreet houdende dringende maatregelen inzake onderwijs (VERTALING).

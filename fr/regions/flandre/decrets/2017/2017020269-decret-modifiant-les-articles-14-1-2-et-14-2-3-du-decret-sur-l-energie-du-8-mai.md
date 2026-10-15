@@ -13,7 +13,7 @@ entry_into_force: 2017-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/03/2017020269/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2017. - Décret modifiant les articles 14.1.2 et 14.2.3 du Décret sur l'Energie du 8 mai 2009

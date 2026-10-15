@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2004/04/09/2004A31182/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 26-05-2004 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2004. - Brussels Wetboek van Ruimtelijke Ordening (BWRO)

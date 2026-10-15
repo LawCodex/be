@@ -10,7 +10,7 @@ date: 2015-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/27/2016015135/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 SEPTEMBER 2015. - Wet houdende instemming met het Verdrag nr. 184 (IAO) inzake de veiligheid en de gezondheid in de landbouw, aangenomen door de Conferentie tijdens haar 89e zitting, Genève, 21 juni 2001

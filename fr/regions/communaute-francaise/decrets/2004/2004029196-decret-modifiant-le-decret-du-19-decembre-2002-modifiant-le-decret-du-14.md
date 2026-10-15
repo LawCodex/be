@@ -13,7 +13,7 @@ entry_into_force: 2002-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/19/2004029196/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2004. - Décret modifiant le décret du 19 décembre 2002 modifiant le décret du 14 juillet 1997 portant statut de la RTBF.

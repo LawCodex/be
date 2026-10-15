@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/23/2022043237/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Décret portant octroi de prêts d'urgence et d'aides d'urgence au secteur du sport organisé face à l'augmentation des dépenses énergétiques

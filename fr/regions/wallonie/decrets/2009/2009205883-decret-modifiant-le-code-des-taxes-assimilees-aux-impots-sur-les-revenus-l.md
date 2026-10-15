@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/10/2009205883/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2009. - Décret modifiant le Code des taxes assimilées aux impôts sur les revenus, l'arrêté royal du 3 avril 1953 coordonnant les dispositions légales concernant les débits de boissons fermentées, la loi du 13 juillet 1987 relative aux redevances radio et télévision et le décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes

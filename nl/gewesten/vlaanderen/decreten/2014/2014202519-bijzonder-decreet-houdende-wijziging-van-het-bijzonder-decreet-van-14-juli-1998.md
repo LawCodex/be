@@ -12,7 +12,7 @@ published: 2014-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/04/2014202519/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Bijzonder decreet houdende wijziging van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, wat betreft de schoolraad

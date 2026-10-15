@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/14/2003035354/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-04-2003 et mise à jour au 31-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2003. - Décret portant réglementation du congé politique pour les membres du personnel des provinces, communes, agglomérations de communes et centres public d'aide sociale, ainsi que des organismes publics et associations de droit public soumis à leur pouvoir de contrôle ou de tutelle (TRADUCTION).

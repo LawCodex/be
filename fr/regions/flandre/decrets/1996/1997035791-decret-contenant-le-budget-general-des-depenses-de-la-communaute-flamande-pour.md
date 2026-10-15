@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997035791/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-09-1997 et mise à jour au 15-07-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 1997 (TRADUCTION)

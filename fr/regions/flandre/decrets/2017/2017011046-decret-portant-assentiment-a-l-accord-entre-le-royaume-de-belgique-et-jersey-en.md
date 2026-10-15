@@ -13,7 +13,7 @@ entry_into_force: 2017-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/10/2017011046/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2017. - Décret portant assentiment à l'accord entre le Royaume de Belgique et Jersey en vue de l'échange de renseignements en matière fiscale, signé à Londres à le 13 mars 2014

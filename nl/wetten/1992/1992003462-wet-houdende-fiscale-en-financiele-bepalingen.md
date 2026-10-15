@@ -16,7 +16,7 @@ department: "Financiën"
 justel_notes:
   - "Hoofdstuk VI (art. 73-82) wordt opgeheven op 1 juli 2022 door W 2014-01-06/65 , art. 14"
   - "Raadpleging van vroegere versies vanaf 31-12-1992 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 1992. - Wet houdende fiscale en financiële bepalingen.

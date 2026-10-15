@@ -12,7 +12,7 @@ entry_into_force: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/08/2018040424/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2018. - Wet houdende machtiging tot oprichting van een internationale vereninging zonder winstoogmerk voor het beheer van de Zuidpoolbasis "Princess Elisabeth" en tot opheffing van hoofdstuk I van titel V van de wet van 24 juli 2008 houdende diverse bepalingen

@@ -12,7 +12,7 @@ entry_into_force: 2001-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/31/2000015182/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 AOUT 1998. - Loi portant assentiment au traité d'entente et de coopération entre le Royaume de Belgique, la Communauté française de Belgique, la Communauté flamande de Belgique, la Communauté germanophone de Belgique, la Région wallonne de Belgique, la Région flamande de Belgique, la Région de Bruxelles-Capitale de Belgique et l'Ukraine, signé à Bruxelles le 23 avril 1997.

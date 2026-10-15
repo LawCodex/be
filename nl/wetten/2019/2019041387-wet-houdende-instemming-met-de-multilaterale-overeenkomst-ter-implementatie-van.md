@@ -12,7 +12,7 @@ entry_into_force: 2019-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019041387/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet houdende instemming met de Multilaterale overeenkomst ter implementatie van aan belastingverdragen gerelateerde maatregelen ter voorkoming van grondslaguitholling en winstverschuiving en met de verklarende Nota, gedaan te Parijs op 24 november 2016

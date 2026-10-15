@@ -12,7 +12,7 @@ entry_into_force: 2006-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/01/2006009558/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2006. - Wet tot wijziging van de wet van 29 maart 2004 betreffende de samenwerking met het Internationaal Strafgerechtshof en de internationale straftribunalen, en tot invoeging in deze wet van een nieuwe Titel V betreffende het Speciaal Tribunaal voor Sierra Leone.

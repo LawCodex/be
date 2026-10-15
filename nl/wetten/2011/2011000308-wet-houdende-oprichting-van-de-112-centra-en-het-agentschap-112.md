@@ -12,7 +12,7 @@ entry_into_force: 2011-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/29/2011000308/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2011. - Wet houdende oprichting van de 112-centra en het agentschap 112

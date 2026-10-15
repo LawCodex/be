@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/04/2017202450/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2017. - Decreet tot wijziging van het decreet van 28 november 2013 houdende oprichting van het "Agence pour l'Entreprise et l'Innovation" (Agentschap Ondernemen en Innoveren), afgekort A.E.I., houdende diverse bepalingen en tot opheffing van de wet van 28 december 405 betreffende de uitkering van een inkomenscompensatievergoeding aan zelfstandigen die het slachtoffer zijn van hinder ten gevolge van werken op het openbaar domein

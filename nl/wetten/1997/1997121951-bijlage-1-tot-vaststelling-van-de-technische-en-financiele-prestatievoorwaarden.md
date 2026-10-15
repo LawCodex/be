@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/19/1997121951/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1997 en tekstbijwerking tot 31-12-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Bijlage 1. - Tot vaststelling van de technische en financiële prestatievoorwaarden betreffende de diensten die worden aangeboden bij wijze van universele dienstverlening bedoeld in [artikel 84, § 3], van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven. (W 2002-12-24/31, art. 482, 006; Inwerkingtreding : 10-01-2003)

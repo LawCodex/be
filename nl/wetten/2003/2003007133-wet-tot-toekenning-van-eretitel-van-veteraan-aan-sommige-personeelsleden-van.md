@@ -12,7 +12,7 @@ entry_into_force: 2003-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/10/2003007133/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Wet tot toekenning van eretitel van veteraan aan sommige personeelsleden van het departement van Landsverdediging.

@@ -12,7 +12,7 @@ entry_into_force: 2011-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/30/2005015144/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 2005. - Wet houdende instemming met het Tweede Protocol inzake het Verdrag van 's-Gravenhage van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict, gedaan te 's-Gravenhage op 26 maart 1999

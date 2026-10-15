@@ -12,7 +12,7 @@ entry_into_force: 2019-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/07/08/2019041761/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2019. - Wet tot wijziging van de wet van 22 december 2009 betreffende een algemene regeling voor rookvrije gesloten plaatsen toegankelijk voor het publiek en ter bescherming van werknemers tegen tabaksrook, teneinde een rookverbod in te voeren in gesloten personenvoertuigen in de aanwezigheid van kinderen jonger dan 16 jaar

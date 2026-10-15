@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/27/2007035930/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2007 et mise à jour au 24-05-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - [décret sanctionnant la suppression et l'adaptation des objectifs finaux de la discipline 'algemene vorming' (formation générale), à l'exception de la formation 'Aanvullende Algemene Vorming' (formation générale complémentaire) de l'enseignement secondaire des adultes] &lt;Intitulé remplacé par DCFL 2012-04-20/20 , art. 3, 002; En vigueur : 01-09-2012&gt; (TRADUCTION)

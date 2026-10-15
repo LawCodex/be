@@ -13,7 +13,7 @@ entry_into_force: 2014-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/07/2014035217/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2014. - Decreet tot instemming met het zetelakkoord tussen het Koninkrijk België en de Wereldorganisatie voor Diergezondheid, ondertekend te Brussel op 14 maart 2013

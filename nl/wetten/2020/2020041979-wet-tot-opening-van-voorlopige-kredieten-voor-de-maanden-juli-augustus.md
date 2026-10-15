@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/30/2020041979/justel"
 department: "Beleid en Ondersteuning"
 justel_note: "Raadpleging van vroegere versies vanaf 06-07-2020 en tekstbijwerking tot 31-07-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2020. - Wet tot opening van voorlopige kredieten voor de maanden juli, augustus, september en oktober 2020

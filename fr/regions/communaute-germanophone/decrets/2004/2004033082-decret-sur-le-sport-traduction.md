@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/19/2004033082/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 24-11-2004 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2004. - Décret sur le sport (TRADUCTION).

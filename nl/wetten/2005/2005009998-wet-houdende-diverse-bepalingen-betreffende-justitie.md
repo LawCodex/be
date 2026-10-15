@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/20/2005009998/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-2005 en tekstbijwerking tot 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2005. - Wet houdende diverse bepalingen betreffende justitie.

@@ -11,7 +11,7 @@ date: 2008-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/06/2008204173/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2008. - Decreet tot goedkeuring van de eenmalige vergunning afgegeven met het oog op de tenuitvoerlegging van de antenne van Gosselies van de lichte metro van Charleroi, overeenkomstig het decreet van 17 juli 2008 betreffende enkele vergunningen waarvoor er dringende redenen van algemeen belang bestaan

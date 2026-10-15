@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/07/16/1993021257/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 11-04-2006 en tekstbijwerking tot 28-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1993. - Bijzondere wet tot vervollediging van de federale staatsstructuur.

@@ -10,7 +10,7 @@ date: 2006-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/18/2006009678/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2006. - Wet tot het bevoorrechten van een gelijkmatig verdeelde huisvesting van het kind van wie de ouders gescheiden zijn en tot regeling van de gedwongen tenuitvoerlegging inzake huisvesting van het kind.

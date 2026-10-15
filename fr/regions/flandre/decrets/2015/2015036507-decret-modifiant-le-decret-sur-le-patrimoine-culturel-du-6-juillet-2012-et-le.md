@@ -13,7 +13,7 @@ entry_into_force: 2015-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/20/2015036507/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2015. - Décret modifiant le Décret sur le Patrimoine culturel du 6 juillet 2012 et le décret du 20 décembre 2013 relatif aux Prix de la Culture de la Communauté flamande

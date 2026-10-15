@@ -12,7 +12,7 @@ entry_into_force: 2007-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007000384/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant les lois électorales en ce qui concerne l'indication des partis politiques au-dessus des listes de candidats sur les bulletins de vote pour les élections des Chambres législatives fédérales, du Parlement flamand, du Parlement wallon, du Parlement de la Région de Bruxelles-Capitale et du Parlement de la Communauté germanophone.

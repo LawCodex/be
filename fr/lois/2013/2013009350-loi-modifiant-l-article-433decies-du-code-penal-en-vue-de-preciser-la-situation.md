@@ -12,7 +12,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/29/2013009350/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2013. - Loi modifiant l'article 433decies du Code pénal en vue de préciser la situation particulièrement vulnérable de la victime d'un marchand de sommeil

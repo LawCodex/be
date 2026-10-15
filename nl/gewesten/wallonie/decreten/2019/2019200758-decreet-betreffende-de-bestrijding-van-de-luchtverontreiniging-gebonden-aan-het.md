@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/17/2019200758/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2019 en tekstbijwerking tot 16-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2019. - Decreet betreffende de bestrijding van de luchtverontreiniging gebonden aan het verkeer van de voertuigen

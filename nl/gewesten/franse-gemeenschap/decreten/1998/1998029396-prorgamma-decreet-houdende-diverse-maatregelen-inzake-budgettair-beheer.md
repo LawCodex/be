@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/17/1998029396/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-11-1998 en tekstbijwerking tot 25-01-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1998. - Prorgamma-decreet houdende diverse maatregelen inzake budgettair beheer, begrotingsfondsen, schoolgebouwen, onderwijs en gezondheidspromotie. (Vertaling)

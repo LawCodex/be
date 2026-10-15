@@ -12,7 +12,7 @@ entry_into_force: 2005-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/17/2005011401/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2005. - Wet tot wijziging wat de verzekering tegen natuurrampen betreft, van de wet van 25 juni 1992 op de landverzekeringsovereenkomst en de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen.

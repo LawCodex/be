@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/09/22/2005202585/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBRE 2005. - Décret portant assentiment à l'avenant du 12 février 2004 à l'Accord de coopération du 4 juillet 2000 conclu entre l'Etat fédéral, les Régions et la Communauté germanophone relatif à l'économie sociale.

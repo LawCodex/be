@@ -12,7 +12,7 @@ entry_into_force: 2013-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/01/2012015180/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 2012. - Loi portant assentiment à la Convention n° 177 de l'Organisation internationale du Travail concernant le travail à domicile, adoptée à Genève le 20 juin 1996

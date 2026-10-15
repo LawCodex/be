@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/11/27/2008031617/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 15-12-2008 et mise à jour au 23-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2008. - Ordonnance relative au soutien des missions locales pour l'emploi et des " lokale werkwinkels "

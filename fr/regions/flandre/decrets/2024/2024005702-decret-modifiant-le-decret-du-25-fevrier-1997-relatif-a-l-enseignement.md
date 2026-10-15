@@ -13,7 +13,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024005702/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, en ce qui concerne la section de régime linguistique néerlandais-langue des signes flamande

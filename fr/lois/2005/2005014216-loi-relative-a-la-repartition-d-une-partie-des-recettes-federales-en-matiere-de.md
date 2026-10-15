@@ -16,7 +16,7 @@ department: "Mobilité et Transports"
 justel_notes:
   - "Intitulé remplacé par L 2016-12-25/01 , art. 61, 006; En vigueur : 01-01-2016"
   - "Consultation des versions antérieures à partir du 21-12-2005 et mise à jour au 10-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2005. - Loi relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière.

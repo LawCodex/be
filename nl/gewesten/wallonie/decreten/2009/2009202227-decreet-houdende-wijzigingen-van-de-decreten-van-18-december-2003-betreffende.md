@@ -13,7 +13,7 @@ entry_into_force: 2009-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202227/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende wijzigingen van de decreten van 18 december 2003 betreffende de toeristische logiesverstrekkende inrichtingen en van 1 april 2004 betreffende de toeristische bezienswaardigheden

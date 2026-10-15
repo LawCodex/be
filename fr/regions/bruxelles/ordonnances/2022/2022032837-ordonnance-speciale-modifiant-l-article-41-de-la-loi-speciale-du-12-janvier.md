@@ -12,7 +12,7 @@ published: 2022-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/20/2022032837/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Ordonnance spéciale modifiant l'article 41 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises en vue de garantir une présence équilibrée de femmes et d'hommes parmi les ministres et les secrétaires d'Etat régionaux

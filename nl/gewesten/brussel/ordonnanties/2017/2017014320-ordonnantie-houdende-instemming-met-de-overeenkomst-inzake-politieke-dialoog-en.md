@@ -13,7 +13,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/07/2017014320/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Ordonnantie houdende instemming met : de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Cuba, anderzijds, gedaan te Brussel op 12 december 2016

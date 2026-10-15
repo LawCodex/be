@@ -13,7 +13,7 @@ entry_into_force: 2024-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/21/2024003771/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Decreet houdende instemming met het samenwerkingsovereenkomst van 16 februari 2024 tot wijziging van het samenwerkingsakkoord van 21 december 2018 tussen de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de aanwending van digitale frequenties voor DAB+ op elkaars grondgebied

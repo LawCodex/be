@@ -12,7 +12,7 @@ entry_into_force: 2016-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/21/2016002018/justel"
 department: "Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2016. - Loi portant modification des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966

@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/27/2009202404/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2009. - Décret portant modification du décret du 1er juin 2004 relatif à l'exercice, par la Communauté germanophone, de certaines compétences de la Région wallonne en matière de pouvoirs subordonnés

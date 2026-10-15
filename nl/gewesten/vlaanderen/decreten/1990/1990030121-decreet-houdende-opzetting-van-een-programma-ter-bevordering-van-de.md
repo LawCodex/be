@@ -12,7 +12,7 @@ entry_into_force: 1990-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/07/12/1990030121/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1990. - Decreet houdende opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector in het Vlaamse Gewest.

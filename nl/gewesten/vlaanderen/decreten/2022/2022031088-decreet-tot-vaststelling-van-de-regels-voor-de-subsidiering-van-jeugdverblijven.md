@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/11/2022031088/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 11-03-2022 en tekstbijwerking tot 29-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2022. - Decreet tot vaststelling van de regels voor de subsidiëring van jeugdverblijven, hostels, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme

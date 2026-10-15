@@ -12,7 +12,7 @@ entry_into_force: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/27/2014011220/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Wet houdende invoeging van Boek XVIII "Maatregelen voor crisis beheer" in het Wetboek van economisch recht en houdende invoeging van de rechtshandhavingsbepalingen eigen aan boek XVIII, in boek XV van het Wetboek van economisch recht

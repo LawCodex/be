@@ -13,7 +13,7 @@ entry_into_force: 1999-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/13/1999035578/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1999. - Décret modifiant le décret du 22 février 1995 portant réglementation de la tutelle administrative des provinces en Région flamande (TRADUCTION).

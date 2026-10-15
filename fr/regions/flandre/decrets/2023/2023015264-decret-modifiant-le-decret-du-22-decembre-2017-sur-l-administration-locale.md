@@ -13,7 +13,7 @@ entry_into_force: 2023-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/17/2023015264/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2023. - Décret modifiant le décret du 22 décembre 2017 sur l'administration locale

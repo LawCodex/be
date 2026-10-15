@@ -11,7 +11,7 @@ entry_into_force: 2005-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/06/2002015181/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2002. - Wet houdende instemming met de Bijlage V en met het Aanhangsel 3 bij het Verdrag inzake de bescherming van het marien milieu van de Noord-Oostelijke Atlantische Oceaan (Parijs, 1992), gedaan te Sintra op 23 juli 1998.HI:??2,Zitting 2000-2001. Senaat. Documenten. Ontwerp van wet ingediend op 20 augustus 2001, nr. 2-888/1. Verslag, nr. 2-888/2. Parlementaire Handelingen. Bespreking, vergadering van 29 november 2001. Stemming, vergadering van 29 november 2001. Kamer. Documenten. Tekst overgezonden door de Senaat, nr. 50-1540/1. Tekst aangenomen in plenaire vergadering en aan de Koning ter bekrachtiging voorgelegd, nr. 50-1540/2. Parlementaire Handelingen. Bespreking, vergadering van 18 december 2001. Stemming, vergadering van 20 december 2001.

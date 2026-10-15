@@ -13,7 +13,7 @@ entry_into_force: 2008-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/29/2008029189/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2008. - Décret relatif à l'organisation des épreuves d'évaluation sommative dans l'enseignement secondaire ordinaire de plein exercice.

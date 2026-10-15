@@ -12,7 +12,7 @@ entry_into_force: 1999-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/27/1999009619/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1999. - Wet tot invoeging van een artikel 80bis in het Burgerlijk Wetboek en tot opheffing van het decreet van 4 juli 1806 aangaande de manier van opstelling van de akte waarbij de ambtenaar van de burgerlijke stand constateert dat hem een levenloos kind werd vertoond.

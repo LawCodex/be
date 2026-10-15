@@ -12,7 +12,7 @@ entry_into_force: 2001-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/04/04/2001011190/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2001. - Loi modifiant certaines dispositions relatives à la sécurité et à la santé des consommateurs.

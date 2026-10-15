@@ -13,7 +13,7 @@ entry_into_force: 1995-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027279/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret portant intégration dans les Services du Gouvernement des agents nommés à titre définitif de la Régie des Voies aériennes et du Fonds des Routes transférés à la Région wallonne.

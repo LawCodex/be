@@ -13,7 +13,7 @@ entry_into_force: 2022-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/09/29/2022042276/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBRE 2022. - Décret portant diverses dispositions relatives aux sports, à l'aide à la jeunesse et à la jeunesse

@@ -10,7 +10,7 @@ date: 2005-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/08/10/2005009651/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2005. - Wet tot verruiming van de strafrechtelijke bescherming van de minderjarigen.

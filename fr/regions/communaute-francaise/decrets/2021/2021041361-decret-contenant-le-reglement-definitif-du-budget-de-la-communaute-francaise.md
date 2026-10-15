@@ -13,7 +13,7 @@ entry_into_force: 2021-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/05/2021041361/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2021. - Décret contenant le règlement définitif du budget de la Communauté française pour l'année budgétaire 2019

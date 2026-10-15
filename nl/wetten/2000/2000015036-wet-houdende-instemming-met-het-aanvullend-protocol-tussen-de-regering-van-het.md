@@ -12,7 +12,7 @@ entry_into_force: 2000-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/01/2000015036/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2000. - Wet houdende instemming met het Aanvullend Protocol tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China, ondertekend te Beijing op 27 november 1996, tot wijziging van de Overeenkomst tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belastingen inzake belastingen naar het inkomen en het Protocol, ondertekend te Beijing op 18 april 1985.

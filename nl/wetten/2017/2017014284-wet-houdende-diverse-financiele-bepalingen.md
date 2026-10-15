@@ -12,7 +12,7 @@ entry_into_force: 2017-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/05/2017014284/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2017. - Wet houdende diverse financiële bepalingen

@@ -13,7 +13,7 @@ entry_into_force: 2001-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/18/2001033001/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2000. - Decreet houdende goedkeuring van de Overeenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrij verkeer van personen, en de bijlagen I, II en III, en de Slotakte, gedaan te Luxemburg op 21 juni 1999 (VERTALING).

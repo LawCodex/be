@@ -13,7 +13,7 @@ entry_into_force: 2004-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035632/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet houdende instemming met het verdrag nr. 142 betreffende de rol van beroepskeuzevoorlichting en beroepsopleiding bij de ontwikkeling van menselijke hulpbronnen, aangenomen door de Internationale Arbeidsconferentie tijdens haar zestigste zitting in Genève op 23 juni 1975.

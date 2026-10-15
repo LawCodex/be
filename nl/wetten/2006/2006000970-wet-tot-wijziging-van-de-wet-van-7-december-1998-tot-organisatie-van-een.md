@@ -12,7 +12,7 @@ entry_into_force: 2006-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/03/2006000970/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2006. - Wet tot wijziging van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus.

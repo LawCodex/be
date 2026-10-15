@@ -13,7 +13,7 @@ entry_into_force: 2023-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/04/27/2023042121/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Ordonnance portant assentiment à la Convention n° 190 sur la violence et le harcèlement dans le monde du travail, adoptée par l'Organisation internationale du Travail lors de sa 108e session le 21 juin 2019.

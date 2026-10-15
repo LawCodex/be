@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/02/09/1981000342/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-1981 en tekstbijwerking tot 10-05-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1981. - Wet houdende de voorwaarden voor export van kernmaterialen en kernuitrustingen, alsmede van technologische gegevens

@@ -13,7 +13,7 @@ entry_into_force: 2024-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/20/2024004781/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2023. - Decreet houdende aanpassing van de uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2023

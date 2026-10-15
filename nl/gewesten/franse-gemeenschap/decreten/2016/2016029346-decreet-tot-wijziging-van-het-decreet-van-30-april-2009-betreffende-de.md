@@ -11,7 +11,7 @@ date: 2016-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/13/2016029346/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2016. - Decreet tot wijziging van het decreet van 30 april 2009 betreffende de omkadering en de subsidiëring van de federaties voor amateuristische kunstbeoefening, van de Federaties die Centra voor expressie en creativiteit vertegenwoordigen en van de centra voor expressie en creativiteit

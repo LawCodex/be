@@ -12,7 +12,7 @@ entry_into_force: 2000-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/30/2000009669/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2000. - Loi insérant un article 21ter dans le titre préliminaire du Code de procédure pénale.

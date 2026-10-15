@@ -12,7 +12,7 @@ entry_into_force: 2000-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/24/2000009377/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2000. - Loi modifiant les articles 1409, 1409bis, 1410 et 1411 du Code judiciaire, en vue d'adapter la quotité non cessible ou non saisissable de la rémunération.

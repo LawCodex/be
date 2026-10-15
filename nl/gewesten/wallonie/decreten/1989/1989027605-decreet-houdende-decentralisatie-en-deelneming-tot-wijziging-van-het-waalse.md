@@ -13,7 +13,7 @@ entry_into_force: 1989-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1989/04/27/1989027605/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1989. - Decreet houdende decentralisatie en deelneming tot wijziging van het Waalse Wetboek van Ruimtelijke Ordening en Stedebouw.

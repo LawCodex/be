@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/12/2015201379/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2015. - Décret portant assentiment au Protocole entre le Royaume de Belgique et la République d'Autriche et au Protocole additionnel, faits à Bruxelles le 10 septembre 2009, modifiant la Convention en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne, le 29 décembre 1971

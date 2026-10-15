@@ -13,7 +13,7 @@ entry_into_force: 2009-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/11/2009202753/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2009. - Decreet houdende instemming met de conventie betreffende de rechten van personen met een handicap en het Facultatief Protocol daarbij, opgemaakt in New York op 13 december 2006

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/17/2006204113/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2006. - Decreet houdende instemming met het besluit van de vertegenwoordigers van de Regeringen van de lidstaten (Internationaal Verdrag), in het kader van de Raad bijeen, betreffende de voorrechten en immuniteiten die aan het Europees Defensieagentschap en zijn personeel worden verleend, gedaan te Brussel (VERTALING).

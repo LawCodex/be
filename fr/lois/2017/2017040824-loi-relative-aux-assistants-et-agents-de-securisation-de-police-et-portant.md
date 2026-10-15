@@ -11,7 +11,7 @@ published: 2017-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/12/2017040824/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2017. - Loi relative aux assistants et agents de sécurisation de police et portant modification de certaines dispositions concernant la police

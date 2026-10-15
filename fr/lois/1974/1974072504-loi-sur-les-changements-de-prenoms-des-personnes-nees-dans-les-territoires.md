@@ -11,7 +11,7 @@ published: 1974-08-22
 entry_into_force: 1974-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/07/25/1974072504/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1974. - Loi sur les changements de prénoms des personnes nées dans les territoires annexés par l'Allemagne en 1940.

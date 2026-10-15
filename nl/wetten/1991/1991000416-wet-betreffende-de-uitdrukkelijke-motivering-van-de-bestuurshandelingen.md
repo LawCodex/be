@@ -11,7 +11,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/29/1991000416/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 1991. - Wet betreffende de uitdrukkelijke motivering van de bestuurshandelingen.

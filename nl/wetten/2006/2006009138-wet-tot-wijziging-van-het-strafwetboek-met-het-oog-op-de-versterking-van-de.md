@@ -12,7 +12,7 @@ entry_into_force: 2006-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/09/2006009138/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2006. - Wet tot wijziging van het Strafwetboek met het oog op de versterking van de strijd tegen de praktijken van huisjesmelkers.

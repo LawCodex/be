@@ -13,7 +13,7 @@ entry_into_force: 2013-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/24/2013029171/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2013. - Décret portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, et le Protocole, signé à Bruxelles le 7 octobre 2009, ainsi que l'échange de lettres des 30 mai 2011 et 11 juillet 2011

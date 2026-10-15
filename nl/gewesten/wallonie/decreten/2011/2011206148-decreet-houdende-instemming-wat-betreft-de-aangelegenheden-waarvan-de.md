@@ -13,7 +13,7 @@ entry_into_force: 2011-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/01/2011206148/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2011. - Decreet houdende instemming, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met het IAO-verdrag nr. 130 betreffende de geneeskundige verzorging en de uitkeringen bij ziekte, aangenomen te Genève op 25 juni 1969

@@ -13,7 +13,7 @@ entry_into_force: 2024-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/29/2024009682/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2024. - Décret modifiant les articles 1er, 2, 32, 83 et 92 du décret du 11 mars 1999 relatif au permis d'environnement et insérant un article 86bis

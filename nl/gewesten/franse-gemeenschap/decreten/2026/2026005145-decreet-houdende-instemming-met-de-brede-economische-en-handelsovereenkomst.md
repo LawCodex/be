@@ -13,7 +13,7 @@ entry_into_force: 2026-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/25/2026005145/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2026. - Decreet houdende instemming met de Brede Economische en Handelsovereenkomst tussen Canada, enerzijds, en de Europese Unie en haar lidstaten, anderzijds, gedaan te Brussel op 30 oktober 2016 en met het gezamenlijk interpretatief instrument

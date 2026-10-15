@@ -13,7 +13,7 @@ entry_into_force: 1996-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/08/1996035892/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1996. - Decreet houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning.

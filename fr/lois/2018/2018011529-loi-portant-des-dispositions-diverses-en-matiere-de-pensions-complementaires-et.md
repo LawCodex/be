@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/18/2018011529/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 30-03-2018 et mise à jour au 29-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2018. - Loi portant des dispositions diverses en matière de pensions complémentaires et instaurant une pension complémentaire pour les travailleurs indépendants personnes physiques, pour les conjoints aidants et pour les aidants indépendants

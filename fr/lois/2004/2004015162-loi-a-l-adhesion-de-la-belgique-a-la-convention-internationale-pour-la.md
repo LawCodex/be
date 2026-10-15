@@ -12,7 +12,7 @@ entry_into_force: 2004-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/09/2004015162/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2004. - Loi à l'adhésion de la Belgique : - à la Convention internationale pour la réglementation de la chasse à la baleine, et Règlement fait à Washington le 2 décembre 1946; - au Protocole, fait à Washington le 19 novembre 1956, à la Convention internationale pour la réglementation de la chasse à la baleine, faite à Washington le 2 décembre 1946

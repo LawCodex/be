@@ -13,7 +13,7 @@ entry_into_force: 2007-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031333/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance modifiant l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement, en vue de permettre aux agences immobilières sociales de prendre en gestion des logements inclus dans un bail commercial ou faisant l'objet du droit de gestion publique.

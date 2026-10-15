@@ -12,7 +12,7 @@ entry_into_force: 1998-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/03/1998022245/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 1998. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral et les Régions relatif à la coordination administrative et scientifique en matière de biosécurité.

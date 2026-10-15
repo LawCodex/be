@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/09/2016203145/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2016. - Decreet houdende instemming met de Overeenkomst betreffende de deelname van de Republiek Kroatië aan de Europese Economische Ruimte, de Slotakte en drie daarmee verband houdende overeenkomsten, ondertekend te Brussel op 11 april 2014 en op 5 november 2014

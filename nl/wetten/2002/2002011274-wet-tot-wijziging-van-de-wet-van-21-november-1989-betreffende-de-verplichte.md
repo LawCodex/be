@@ -11,7 +11,7 @@ published: 2002-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002011274/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet tot wijziging van de wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen en tot wijziging van de artikelen 29 en 31 van de wet van 25 juni 1992 op de landverzekeringsovereenkomst.

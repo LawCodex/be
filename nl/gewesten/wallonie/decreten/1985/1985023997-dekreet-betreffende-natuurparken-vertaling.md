@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/07/16/1985023997/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 06-03-1999 en tekstbijwerking tot 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1985. - Dekreet betreffende natuurparken. &lt;Vertaling&gt;

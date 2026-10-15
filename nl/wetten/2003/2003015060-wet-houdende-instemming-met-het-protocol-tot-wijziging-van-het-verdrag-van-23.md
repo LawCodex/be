@@ -12,7 +12,7 @@ entry_into_force: 2003-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/27/2003015060/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Wet houdende instemming met het Protocol tot wijziging van het Verdrag van 23 juli 1990 ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen, gedaan te Brussel op 25 mei 1999.

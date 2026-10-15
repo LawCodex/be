@@ -13,7 +13,7 @@ entry_into_force: 2020-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/09/24/2020043223/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBER 2020. - Decreet houdende bekrachtiging van het besluit van bijzondere machten nr. 39 van de Regering van de Franse Gemeenschap van 20 juni 2020 dat ernaar streeft filmopnames te hervatten door de risico's in verband met de COVID-19-crisis te garanderen

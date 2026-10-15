@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/15/2017020108/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 01-03-2019 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2016. - Décret portant intégration de la dimension du handicap dans les lignes politiques de la Commission communautaire française

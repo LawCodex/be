@@ -13,7 +13,7 @@ entry_into_force: 2018-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/19/2018204412/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Décret intégrant le renforcement des synergies dans la loi organique du 8 juillet 1976 des centres publics d'action sociale

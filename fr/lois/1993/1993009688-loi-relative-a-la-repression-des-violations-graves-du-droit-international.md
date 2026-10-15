@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/06/16/1993009688/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 05-08-1993 et mise à jour au 07-08-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1993. - [Loi relative à la répression des violations graves du droit international humanitaire.] (L 1999-02-10/40, art. 2, 002; En vigueur : 02-04-1999)

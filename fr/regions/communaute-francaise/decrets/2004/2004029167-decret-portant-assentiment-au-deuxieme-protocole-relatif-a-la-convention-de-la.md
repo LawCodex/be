@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029167/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant assentiment au deuxième Protocole relatif à la Convention de La Haye de 1954 pour la protection des biens culturels en cas de conflit armé, fait à La Haye, le 26 mars 1999.

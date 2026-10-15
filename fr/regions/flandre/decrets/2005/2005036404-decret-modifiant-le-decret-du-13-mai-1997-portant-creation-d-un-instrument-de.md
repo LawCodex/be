@@ -13,7 +13,7 @@ entry_into_force: 2005-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/10/21/2005036404/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2005. - Décret modifiant le décret du 13 mai 1997 portant création d'un Instrument de financement destiné au secteur flamand de la pêche et de l'aquiculture (TRADUCTION).

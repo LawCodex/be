@@ -11,7 +11,7 @@ published: 1962-04-06
 entry_into_force: 1962-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/03/1962040301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1962. - Loi relative à la pension de retraite et de survie des ouvriers et des employés

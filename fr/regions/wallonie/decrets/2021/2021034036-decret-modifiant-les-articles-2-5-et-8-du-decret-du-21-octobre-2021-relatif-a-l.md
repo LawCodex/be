@@ -13,7 +13,7 @@ entry_into_force: 2021-11-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/24/2021034036/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2021. - Décret modifiant les articles 2, 5 et 8 du décret du 21 octobre 2021 relatif à l'usage du COVID Safe Ticket et à l'obligation du port du masque et y insérant un article 10/1

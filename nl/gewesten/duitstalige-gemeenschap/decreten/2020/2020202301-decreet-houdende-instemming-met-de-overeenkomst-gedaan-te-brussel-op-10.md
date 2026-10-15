@@ -11,7 +11,7 @@ date: 2020-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/04/27/2020202301/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2020. - Decreet houdende instemming met de Overeenkomst, gedaan te Brussel op 10 september 2013, tot wijziging en aanvulling van de Overeenkomst, ondertekend te Brussel op 12 mei 1967, tussen het Koninkrijk België en het Algemeen Hoofdkwartier van de Geallieerde Strijdkrachten in Europa inzake de bijzondere voorwaarden voor de vestiging en het functioneren van dit hoofdkwartier op het grondgebied van het Koninkrijk België

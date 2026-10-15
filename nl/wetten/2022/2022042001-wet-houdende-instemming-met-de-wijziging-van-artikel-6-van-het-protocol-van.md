@@ -11,7 +11,7 @@ entry_into_force: 2022-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/01/29/2022042001/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2022. - Wet houdende instemming met de Wijziging van artikel 6 van het Protocol van Londen van 1996 bij het Verdrag van 1972 inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen, aangenomen te Londen op 30 oktober 2009

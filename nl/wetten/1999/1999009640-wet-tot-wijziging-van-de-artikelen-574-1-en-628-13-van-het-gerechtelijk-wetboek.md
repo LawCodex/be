@@ -11,7 +11,7 @@ published: 1999-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999009640/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet tot wijziging van de artikelen 574, 1°, en 628, 13°, van het Gerechtelijk Wetboek.

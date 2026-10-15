@@ -12,7 +12,7 @@ entry_into_force: 2019-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/06/2019012599/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 2018. - Loi portant assentiment à l'Accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et l'Australie, d'autre part, fait à Manille le 7 août 2017

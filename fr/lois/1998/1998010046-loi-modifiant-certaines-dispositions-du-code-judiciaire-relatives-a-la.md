@@ -12,7 +12,7 @@ entry_into_force: 1999-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/11/30/1998010046/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1998. - Loi modifiant certaines dispositions du Code judiciaire relatives à la procédure en matière de louage de choses et de la loi du 30 décembre 1975 concernant les biens trouvés en dehors des propriétés privées ou mis sur la voie publique en exécution de jugements d'expulsion.

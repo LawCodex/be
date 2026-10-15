@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/09/2004009876/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-12-2004 et mise à jour au 26-01-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2004. - [Loi sur la transmission policière internationale de données à caractère personnel et d'informations à finalité judiciaire, l'entraide judiciaire internationale en matière pénale et modifiant l'article 90ter du Code d'instruction criminelle] &lt;L 2014-05-15/69 , art. 2, 003; En vigueur : 17-08-2014&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2019-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2019013129/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi portant assentiment à la Convention n° 175 concernant le travail à temps partiel, adoptée à Genève le 24 juin 1994 par la Conférence internationale du Travail à sa quatre-vingt-unième session

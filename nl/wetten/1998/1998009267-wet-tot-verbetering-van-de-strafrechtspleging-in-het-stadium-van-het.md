@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/12/1998009267/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-04-1998 en tekstbijwerking tot 26-02-1999"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 1998. - Wet tot verbetering van de strafrechtspleging in het stadium van het opsporingsonderzoek en het gerechtelijk onderzoek.

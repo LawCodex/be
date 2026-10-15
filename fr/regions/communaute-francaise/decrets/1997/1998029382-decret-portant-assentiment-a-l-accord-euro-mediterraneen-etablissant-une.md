@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1998029382/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant assentiment à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République tunisienne, d'autre part, aux annexes 1, 2, 3, 4, 5, 6 et 7, aux protocoles 1, 2, 3, 4 et 5 et à l'Acte final, faits à Bruxelles le 17 juillet 1995.

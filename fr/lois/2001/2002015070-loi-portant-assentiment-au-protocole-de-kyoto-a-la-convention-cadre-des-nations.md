@@ -12,7 +12,7 @@ entry_into_force: 2002-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/26/2002015070/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 2001. - Loi portant assentiment au Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques, et les Annexes A et B, faits à Kyoto le 11 décembre 1997.

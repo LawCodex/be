@@ -12,7 +12,7 @@ last_amended: 2019-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/11/04/1969110401/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 08-11-2019 en tekstbijwerking tot 08-11-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBER 1969. - Wet tot wijziging van de pachtwetgeving en van de wetgeving betreffende het recht van voorkoop ten gunste van huurders van landeigendommen

@@ -12,7 +12,7 @@ entry_into_force: 2023-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/16/2023030015/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2022. - Wet tot wijziging van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden teneinde strafverzwaring in te voeren voor het aanzetten tot geweldpleging tegen voetbalstewards, veiligheidsverantwoordelijken of hulpdiensten

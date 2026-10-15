@@ -13,7 +13,7 @@ entry_into_force: 2017-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017204926/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2017. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention de sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, signée le 18 février 2014 à Bruxelles

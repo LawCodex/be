@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203757/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Democratische Republiek Congo tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het protocol, beide ondertekend te Brussel op 23 mei 2007, zoals gewijzigd door het protocol van 16 juli 2010; 2° het protocol tot wijziging van de onder 1° vermelde overeenkomst, ondertekend te Kinshasa op 16 juli 2010

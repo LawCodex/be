@@ -12,7 +12,7 @@ entry_into_force: 2020-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/23/2020015054/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2020. - Wet tot bekrachtiging van enkele artikelen van het koninklijk besluit van 30 september 2005 tot aanwijzing van de overtredingen per graad van de algemene reglementen genomen ter uitvoering van de wet betreffende de politie over het wegverkeer

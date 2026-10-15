@@ -13,7 +13,7 @@ entry_into_force: 1996-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996029292/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret contenant l'ajustement du budget général des dépenses de la Communauté française pour l'année 1996.

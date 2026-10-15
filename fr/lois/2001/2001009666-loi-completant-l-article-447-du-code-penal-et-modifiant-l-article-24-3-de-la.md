@@ -12,7 +12,7 @@ entry_into_force: 2001-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/04/2001009666/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2001. - Loi complétant l'article 447 du Code pénal et modifiant l'article 24, 3°, de la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale.

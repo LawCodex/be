@@ -12,7 +12,7 @@ published: 2024-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024005130/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot wijziging van de Codex Secundair Onderwijs van 17 december 2010 en het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, wat de opleiding Basisverpleegkunde betreft

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/31/2019200570/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2019. - Decreet houdende oprichting binnen het "Agence wallonne de la santé, de la protection sociale, du handicap et des familles" (Waals Agentschap voor Gezondheid, Sociale Bescherming, Handicap en Gezinnen) van een technische commissie "Revalidatie" die voor de branche "Welzijn en Gezondheid" en de branche "Handicap" gemeenschappelijk is

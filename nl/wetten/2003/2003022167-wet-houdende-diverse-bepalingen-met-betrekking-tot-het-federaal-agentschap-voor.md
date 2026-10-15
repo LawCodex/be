@@ -12,7 +12,7 @@ entry_into_force: 2003-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/07/2003022167/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2003. - Wet houdende diverse bepalingen met betrekking tot het Federaal Agentschap voor de Veiligheid van de Voedselketen.

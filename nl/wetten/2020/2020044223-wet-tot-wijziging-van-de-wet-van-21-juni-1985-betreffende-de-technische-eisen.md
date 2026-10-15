@@ -12,7 +12,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/31/2020044223/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2020. - Wet tot wijziging van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen en tot wijziging van het koninklijk besluit van 23 december 1994 tot vaststelling van de erkenningsvoorwaarden en de regeling van de administratieve controle van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen

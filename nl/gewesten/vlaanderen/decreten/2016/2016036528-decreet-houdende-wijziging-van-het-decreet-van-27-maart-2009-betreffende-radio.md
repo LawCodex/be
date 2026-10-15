@@ -13,7 +13,7 @@ entry_into_force: 2016-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/14/2016036528/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2016. - Decreet houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie en het decreet van 25 april 2014 betreffende de rust-pensioenen, toegekend aan de vastbenoemde personeelsleden van de Vlaamse Radio- en Televisieomroeporganisatie en betreffende de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden

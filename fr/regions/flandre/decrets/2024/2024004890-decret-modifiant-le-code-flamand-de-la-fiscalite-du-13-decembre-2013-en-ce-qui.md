@@ -13,7 +13,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024004890/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne l'adaptation de la procédure de vente des véhicules saisis et l'interruption de la prescription

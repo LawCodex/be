@@ -12,7 +12,7 @@ entry_into_force: 2018-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/29/2017040982/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2017. - Wet betreffende de continuïteit van de dienstverlening inzake personenvervoer per spoor in geval van staking

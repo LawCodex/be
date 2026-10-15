@@ -13,7 +13,7 @@ entry_into_force: 2015-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/22/2015200346/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2015. - Decreet tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren teneinde het bezit van dieren uitsluitend of voornamelijk voor de productie van pels te verbieden

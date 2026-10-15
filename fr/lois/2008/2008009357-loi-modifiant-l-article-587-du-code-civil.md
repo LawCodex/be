@@ -12,7 +12,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/04/23/2008009357/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2008. - Loi modifiant l'article 587 du Code civil.

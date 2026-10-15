@@ -12,7 +12,7 @@ entry_into_force: 2015-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/23/2015009566/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2015. - Loi relative à l'entrée en vigueur de dispositions diverses en matière de justice

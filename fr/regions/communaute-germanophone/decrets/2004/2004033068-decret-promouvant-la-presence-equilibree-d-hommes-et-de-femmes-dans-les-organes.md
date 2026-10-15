@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/03/2004033068/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 20-09-2004 et mise à jour au 31-03-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2004. - Décret promouvant la présence équilibrée d'hommes et de femmes dans les organes consultatifs (TRADUCTION)

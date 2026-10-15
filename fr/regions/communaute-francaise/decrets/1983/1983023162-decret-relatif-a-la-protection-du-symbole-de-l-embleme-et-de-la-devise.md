@@ -13,7 +13,7 @@ entry_into_force: 1983-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/03/30/1983023162/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1983. - Décret relatif à la protection du symbole, de l'emblème et de la devise olympiques.

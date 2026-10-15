@@ -12,7 +12,7 @@ entry_into_force: 1999-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/18/1999015029/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 1999. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Ukraine tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Kiev le 20 mai 1996.

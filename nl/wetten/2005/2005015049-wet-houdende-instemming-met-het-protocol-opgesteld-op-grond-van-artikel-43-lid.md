@@ -12,7 +12,7 @@ entry_into_force: 2005-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/03/03/2005015049/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2005. - Wet houdende instemming met het Protocol opgesteld op grond van artikel 43, lid 1, van de Overeenkomst tot oprichting van een Europese Politiedienst (Europol-Overeenkomst), tot wijziging van artikel 2 en de bijlage bij die Overeenkomst, gedaan te Brussel op 30 november 2000.

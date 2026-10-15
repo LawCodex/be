@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/15/2018201403/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2018. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met de Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds, ondertekend te München op 18 februari 2017

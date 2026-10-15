@@ -13,7 +13,7 @@ entry_into_force: 2018-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/01/25/2018030297/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2018. - Ordonnance modifiant l'ordonnance du 26 juillet 2013 instituant un cadre en matière de planification de la mobilité et modifiant diverses dispositions ayant un impact en matière de mobilité

@@ -13,7 +13,7 @@ entry_into_force: 2006-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/15/2005203413/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2005. - Décret modifiant le décret du 25 mars 2004 relatif à l'agrément et à l'octroi de subventions aux agences de développement local

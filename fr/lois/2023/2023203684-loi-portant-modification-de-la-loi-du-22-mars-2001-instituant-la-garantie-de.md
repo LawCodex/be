@@ -12,7 +12,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/04/2023203684/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2023. - Loi portant modification de la loi du 22 mars 2001 instituant la garantie de revenus aux personnes âgées

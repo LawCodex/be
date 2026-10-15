@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/12/19/2009031017/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "art. 16, alinéa 3 et art. 57 modifiés par <ORD 2009-12-14/31 , art. 7 et 17, 002; En vigueur : 11-12-2009; voir M.B. 08-02-2010, p. 6268-7650>"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Ordonnance contenant le budget général des dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2009.

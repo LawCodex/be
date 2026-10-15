@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/02/2024011683/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2024 et mise à jour au 31-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2024. - Loi relatif à la publication, par certaines sociétés et groupes, d'informations en matière de durabilité et à l'assurance de l'information en matière de durabilité et portant dispositions diverses

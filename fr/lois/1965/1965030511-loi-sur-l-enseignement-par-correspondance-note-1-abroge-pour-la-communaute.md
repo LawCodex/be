@@ -13,7 +13,7 @@ last_amended: 2016-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/03/05/1965030511/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-09-2016 et mise à jour au 23-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1965. - Loi sur l'enseignement par correspondance. (NOTE 1 : Abrogé pour la Communauté flamande par DCFL 1999-03-02/50, art. 96, 1°; En vigueur : 01-09-1999). (NOTE 2 : Abrogé pour la Communauté française par DCFR 2016-07-13/12 , art. 8; En vigueur : 2016-10-02)

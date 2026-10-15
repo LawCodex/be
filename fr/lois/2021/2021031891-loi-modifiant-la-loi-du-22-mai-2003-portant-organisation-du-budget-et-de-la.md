@@ -12,7 +12,7 @@ entry_into_force: 2021-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/09/12/2021031891/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBRE 2021. - Loi modifiant la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral

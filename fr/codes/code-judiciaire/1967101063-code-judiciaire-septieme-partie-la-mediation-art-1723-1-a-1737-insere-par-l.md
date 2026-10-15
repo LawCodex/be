@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101063/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-03-2005 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE. - Septième partie : LA MEDIATION (art. 1723/1 à 1737) &lt;Inséré par L 2005-02-21/36, art. 8 à 21; En vigueur : 30-09-2005, sauf art. 11; En vigueur : 22-03-2005&gt;.

@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 16.1.1. en 16.4.19 gewijzigd met ingang op een onbepaalde datum bij DVR 2016-07-15/08 , art. 28 en 29; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 03-06-1995 en tekstbijwerking tot 04-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Decreet houdende algemene bepalingen inzake milieubeleid. (Aangehaald als : DABM)

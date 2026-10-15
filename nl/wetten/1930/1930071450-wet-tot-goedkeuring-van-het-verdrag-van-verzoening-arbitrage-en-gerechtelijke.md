@@ -10,7 +10,7 @@ date: 1930-07-14
 published: 1930-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1930/07/14/1930071450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1930. - Wet tot goedkeuring van het Verdrag van verzoening, arbitrage en gerechtelijke regeling, gesloten den 23n April 1928 tusschen België en de Tsjechoslowaksche Republiek.

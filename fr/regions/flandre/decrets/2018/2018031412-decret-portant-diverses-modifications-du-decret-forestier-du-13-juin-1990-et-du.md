@@ -13,7 +13,7 @@ entry_into_force: 2018-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/22/2018031412/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2018. - Décret portant diverses modifications du Décret forestier du 13 juin 1990 et du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel

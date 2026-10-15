@@ -10,7 +10,7 @@ date: 2004-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/07/2004015164/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2004. - Wet houdende instemming met de wijziging van het Protocol van Montreal betreffende stoffen die de ozonlaag afbreken, aangenomen te Montreal op 17 september 1997.

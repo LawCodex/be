@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014011298/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 12-06-2014 en tekstbijwerking tot 30-10-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet houdende invoeging van boek XI, "Intellectuele eigendom" in het Wetboek van economisch recht, en houdende invoeging van bepalingen eigen aan boek XI in de boeken I, XV en XVII van hetzelfde Wetboek

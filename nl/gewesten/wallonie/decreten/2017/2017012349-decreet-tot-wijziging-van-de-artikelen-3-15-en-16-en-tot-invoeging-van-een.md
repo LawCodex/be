@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/18/2017012349/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2017. - Decreet tot wijziging van de artikelen 3, 15 en 16 en tot invoeging van een artikel 45ter in de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren

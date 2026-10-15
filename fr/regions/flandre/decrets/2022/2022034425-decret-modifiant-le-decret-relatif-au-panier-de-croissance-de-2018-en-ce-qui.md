@@ -13,7 +13,7 @@ entry_into_force: 2022-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/25/2022034425/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2022. - Décret modifiant le Décret relatif au Panier de croissance de 2018, en ce qui concerne l'introduction d'un supplément unique de 100 euros pour les personnes bénéficiant d'un supplément social en novembre 2022

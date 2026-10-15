@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/06/01/2004033073/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 19-10-2004 et mise à jour au 28-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2004. - Décret relatif à l'exercice, par la Communauté germanophone, de certaines compétences de la Région wallonne en matière de pouvoirs subordonnés (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 2010-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/11/22/2010206071/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2010. - Décret portant assentiment à la Convention n° 130 concernant les soins médicaux et les indemnités de maladie, adoptée à Genève le 25 juin 1969 par la Conférence générale de l'Organisation internationale du travail

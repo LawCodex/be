@@ -12,7 +12,7 @@ entry_into_force: 2016-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/01/29/2016009066/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2016. - Wet tot wijziging van de wet van 30 november 1998 houdende regeling van de inlichtingen- en veiligheidsdienst, aangaande het toezicht op de activiteiten van de buitenlandse inlichtingendiensten in België

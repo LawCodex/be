@@ -12,7 +12,7 @@ entry_into_force: 2003-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/11/2003011319/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2003. - Wet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het opstellen, het uitvoeren en het opvolgen van een Nationaal Klimaatplan, alsook het rapporteren, in het kader van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering en het Protocol van Kyoto, afgesloten te Brussel op 14 november 2002.

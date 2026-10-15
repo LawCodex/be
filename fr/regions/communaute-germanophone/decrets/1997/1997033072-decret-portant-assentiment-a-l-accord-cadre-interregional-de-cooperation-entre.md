@@ -13,7 +13,7 @@ entry_into_force: 1997-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/30/1997033072/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1997. - Décret portant assentiment à l'accord-cadre interrégional de coopération entre la Communauté européenne et ses Etats membres, d'une part, et le Marché commun du Sud et ses Etats parties, d'autre part, la déclaration commune, l'échange de lettres et le procès-verbal de signature, faits à Madrid le 15 décembre 1995 (TRADUCTION).

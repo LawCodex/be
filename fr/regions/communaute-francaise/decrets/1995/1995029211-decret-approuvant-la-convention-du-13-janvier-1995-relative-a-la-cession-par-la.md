@@ -13,7 +13,7 @@ entry_into_force: 1995-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029211/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret approuvant la convention du 13 janvier 1995 relative à la cession par la Communauté française de ses droits dans le Domaine Solvay à La Hulpe à la Région wallonne.

@@ -12,7 +12,7 @@ entry_into_force: 2003-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/01/14/2003015062/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 1994. - Wet houdende goedkeuring van het Protocol, aangenomen te Darmstadt op 5 juni 1991 door de Raad van EUMETSAT, tot wijziging van het Verdrag tot oprichting van een Europese Organisatie voor de exploitatie van meteorologische satellieten (EUMETSAT) van 24 mei 1983.

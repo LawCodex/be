@@ -13,7 +13,7 @@ entry_into_force: 2024-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005279/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République d'Albanie relatif au transport aérien, signé à Bruxelles le 30 novembre 2006

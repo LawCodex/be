@@ -11,7 +11,7 @@ published: 1959-06-06
 entry_into_force: 1959-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1959/05/24/1959052401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 1959. - Wet tot verruiming van de mogelijkheden inzake de beroeps- en ambachtskredietverlening aan de middenstand.

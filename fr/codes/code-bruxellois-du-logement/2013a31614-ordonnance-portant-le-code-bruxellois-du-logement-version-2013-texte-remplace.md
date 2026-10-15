@@ -17,7 +17,7 @@ justel_notes:
   - "tableau de concordance entre version 2003 et 2013 en Annexe"
   - "art. 191,§1,L1,L2,§2,§5 modifié avec effet à une date indéterminée par ORD 2019-03-06/02 , art. 2, 016; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 18-07-2013 et mise à jour au 26-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Ordonnance portant le Code bruxellois du Logement (version 2013 - texte remplacé par erratum publié aux pages 47151-47212 du M.B. du 26-07-2013)

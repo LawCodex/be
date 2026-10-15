@@ -13,7 +13,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/03/04/1991029179/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1991. - Décret portant approbation de l'accord de coopération relatif à l'exercice conjoint de compétences par la Communauté francaise et la Région wallonne, conclu à Namur le 17 novembre 1990.

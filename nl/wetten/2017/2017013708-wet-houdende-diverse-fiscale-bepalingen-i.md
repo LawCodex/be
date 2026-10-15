@@ -10,7 +10,7 @@ date: 2017-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/10/22/2017013708/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2017. - Wet houdende diverse fiscale bepalingen I

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/26/1996021236/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 01-08-1996 et mise à jour au 15-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1996. - Loi relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité.

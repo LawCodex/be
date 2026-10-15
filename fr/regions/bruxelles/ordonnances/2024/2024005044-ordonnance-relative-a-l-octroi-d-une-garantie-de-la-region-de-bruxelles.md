@@ -13,7 +13,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005044/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance relative à l'octroi d'une garantie de la Région de Bruxelles-Capitale au Service d'Incendie et d'Aide Médicale Urgente de la Région de Bruxelles-Capitale (SIAMU), sous la forme d'un cautionnement, dans le contexte du contrat DBFM pour la construction de la nouvelle caserne état-major à Bruxelles

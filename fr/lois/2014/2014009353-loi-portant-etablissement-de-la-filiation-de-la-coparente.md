@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009353/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-07-2014 et mise à jour au 23-12-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi portant établissement de la filiation de la coparente

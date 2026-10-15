@@ -11,7 +11,7 @@ published: 1947-02-03
 entry_into_force: 1947-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1947/01/30/1947013001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 1947. - Besluitwet betreffende de reglementering van de verdeling der voedingswaren en producten van eerste noodwendigheid.

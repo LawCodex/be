@@ -12,7 +12,7 @@ entry_into_force: 2002-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/03/2000015148/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2000. - Wet houdende instemming met het Aanvullend Protocol gedaan te Bamako op 7 oktober 1998, bij het Akkoord tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Mali inzake de handelsscheepvaart, ondertekend te Bamako op 7 augustus 1984.

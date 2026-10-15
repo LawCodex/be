@@ -13,7 +13,7 @@ entry_into_force: 2007-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/11/2007036012/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Décret modifiant les articles 31 et 60 des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995, en ce qui concerne les services de radio et les services télévisés (TRADUCTION).

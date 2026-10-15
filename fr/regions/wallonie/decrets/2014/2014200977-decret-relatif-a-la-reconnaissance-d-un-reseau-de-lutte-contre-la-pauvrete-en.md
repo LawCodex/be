@@ -13,7 +13,7 @@ entry_into_force: 2014-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/23/2014200977/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2014. - Décret relatif à la reconnaissance d'un réseau de lutte contre la pauvreté en Wallonie

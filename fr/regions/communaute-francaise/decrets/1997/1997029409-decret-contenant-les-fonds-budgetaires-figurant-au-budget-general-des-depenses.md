@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/27/1997029409/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-01-1998 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 1997. - Décret contenant les fonds budgétaires figurant au budget général des dépenses de la Communauté française

@@ -11,7 +11,7 @@ date: 2015-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/29/2015203953/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2015. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap (ONE), de Gemeenschappelijke Gemeenschapscommissie van het Brusselse Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de aankoop van vaccins bestemd om kinderen, zwangere vrouwen en adolescenten te beschermen, gedaan te Brussel op 18 februari 2015

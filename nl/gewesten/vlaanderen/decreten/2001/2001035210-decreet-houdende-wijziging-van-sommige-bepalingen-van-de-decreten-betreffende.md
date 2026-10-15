@@ -13,7 +13,7 @@ entry_into_force: 2001-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/02/02/2001035210/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2001. - Decreet houdende wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

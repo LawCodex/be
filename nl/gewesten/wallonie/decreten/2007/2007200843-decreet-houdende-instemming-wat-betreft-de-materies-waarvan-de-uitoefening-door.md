@@ -13,7 +13,7 @@ entry_into_force: 2007-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/09/2007200843/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2007. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap is overgedragen, met de uitwisseling van diplomatieke nota's van 23 mei 2005, die de grondslag vormt voor het akkoord tussen de Regering van het Koninkrijk België met het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Groothertogdom Luxemburg over de samenwerking in de grensgebieden (VERTALING).

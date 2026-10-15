@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/07/2018011027/justel"
 department: "Finances"
 justel_note: "Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la présente loi et maintient les effets des dispositions annulées pour la taxe qui est due pour les périodes de référence se terminant avant le 30 septembre 2019 ou à cette date."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2018. - Loi instaurant une taxe sur les comptes-titres.

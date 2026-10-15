@@ -12,7 +12,7 @@ entry_into_force: 2023-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/02/2023040898/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Wet tot wijziging van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen

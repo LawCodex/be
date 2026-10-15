@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/02/2013031352/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par les Avenants faits à Bruxelles le 11 décembre 2002 et le 16 juillet 2009; 2° à l'Avenant, fait à Bruxelles le 16 juillet 2009, modifiant la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par l'Avenant fait à Bruxelles le 11 décembre 2002; 3° à l'échange de lettres du 9 février et du 8 mars 2011

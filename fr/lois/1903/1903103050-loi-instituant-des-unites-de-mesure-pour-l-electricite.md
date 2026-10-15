@@ -11,7 +11,7 @@ published: 1903-12-17
 entry_into_force: 1903-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1903/10/30/1903103050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 1903. - Loi instituant des unités de mesure pour l'électricité.

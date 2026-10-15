@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/14/1998035979/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1998. - Décret modifiant le décret du 4 février 1997 portant les normes de qualité et de sécurité pour chambres et chambres d'étudiants (TRADUCTION).

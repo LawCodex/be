@@ -13,7 +13,7 @@ entry_into_force: 2023-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/24/2022A43191/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2022. - Samenwerkingsakkoord afgesloten op 24 maart 2022 tussen het Waalse Gewest en de Franse Gemeenschap betreffende de opheffing van de gezamenlijke decreten van 12 juli 2017 en 19 juli 2017 betreffende het hergebruik van informatie van de publieke sector en tot vaststelling van een open gegevensbeleid

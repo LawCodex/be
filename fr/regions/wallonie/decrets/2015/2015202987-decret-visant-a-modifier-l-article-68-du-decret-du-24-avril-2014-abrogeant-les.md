@@ -13,7 +13,7 @@ entry_into_force: 2015-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/19/2015202987/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2015. - Décret visant à modifier l'article 68 du décret du 24 avril 2014 abrogeant les articles 1er à 128 et 129quater à 184 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie et formant le Code du Développement territorial, modifié par le décret du 11 décembre 2014 contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 2015 et par le décret-programme du 12 décembre 2014 portant des mesures diverses liées au budget, en matière de calamité naturelle, de sécurité routière, de travaux publics, d'énergie, de logement, d'environnement, d'aménagement du territoire, de bien-être animal, d'agriculture et de fiscalité

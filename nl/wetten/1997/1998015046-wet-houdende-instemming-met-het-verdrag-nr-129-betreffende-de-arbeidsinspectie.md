@@ -12,7 +12,7 @@ entry_into_force: 1998-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/06/1998015046/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1997. - Wet houdende instemming met het Verdrag nr. 129 betreffende de arbeidsinspectie in de landbouw, aangenomen te Genève op 25 juni 1969 door de Internationale Arbeidsconferentie tijdens haar drieënvijftigste zitting.

@@ -12,7 +12,7 @@ entry_into_force: 2014-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/29/2014015217/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2014. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Ecuador inzake het verrichten van betaalde werkzaamheden door gezinsleden van het diplomatiek en consulair personeel, gedaan te Brussel op 29 juni 2012

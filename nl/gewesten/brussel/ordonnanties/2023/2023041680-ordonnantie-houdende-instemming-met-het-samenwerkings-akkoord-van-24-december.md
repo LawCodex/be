@@ -13,7 +13,7 @@ entry_into_force: 2023-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/04/13/2023041680/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2023. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 24 december 2021 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeen-schappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de samenwerking tussen de deelentiteiten met betrekking tot de gezinsbijslagen

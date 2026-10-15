@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/13/2003000003/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 10-01-2003 et mise à jour au 06-06-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2002. - Loi modifiant le Code électoral ainsi que son annexe.

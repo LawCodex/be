@@ -13,7 +13,7 @@ entry_into_force: 2014-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/28/2013207123/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2013. - Decreet tot wijziging van het decreet van 30 april 2009 betreffende de informatie, de coördinatie en de organisatie van de werven onder, op of boven de wegen of waterlopen

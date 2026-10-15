@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/02/2019012261/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 24-05-2019 et mise à jour au 29-05-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Loi portant modifications du livre Ier " Définitions ", du livre XV " Application de la loi " et remplacement du livre IV " Protection de la concurrence " du Code de droit économique

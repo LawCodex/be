@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/07/16/1985023997/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 06-03-1999 et mise à jour au 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1985. - Décret relatif aux parcs naturels.

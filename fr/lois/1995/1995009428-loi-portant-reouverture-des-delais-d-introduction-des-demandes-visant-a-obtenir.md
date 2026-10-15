@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/05/1995009428/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-05-1995 et mise à jour au 05-07-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Loi portant réouverture des délais d'introduction des demandes visant à obtenir les statuts de reconnaissance nationale en faveur des réfractaires et des déportés pour le travail obligatoire de la guerre 1940-1945.

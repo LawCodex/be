@@ -13,7 +13,7 @@ entry_into_force: 2001-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/02/02/2001035232/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2001. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Regering van de Republiek Moldova, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Chisinau op 21 mei 1996.

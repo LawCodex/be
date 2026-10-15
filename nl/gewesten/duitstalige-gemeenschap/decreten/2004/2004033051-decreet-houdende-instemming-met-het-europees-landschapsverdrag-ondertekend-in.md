@@ -13,7 +13,7 @@ entry_into_force: 2004-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/17/2004033051/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2004. - Decreet houdende instemming met het Europees Landschapsverdrag, ondertekend in Firenze op 20 oktober 2000 (VERTALING).

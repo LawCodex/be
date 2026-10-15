@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/20/2001A12803/justel"
 department: "Sociale Zaken - Tewerkstelling en Arbeid - Financiën - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 11-08-2001 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2001. - Wet tot bevordering van buurtdiensten en -banen (VLAAMS GEWEST)

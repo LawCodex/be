@@ -13,7 +13,7 @@ entry_into_force: 2017-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/02/2017012776/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2017. - Decreet houdende instemming met het samenwerkingsakkoord van 14 juli 2016 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aan de kinderbijslagregelgeving aan te brengen wijzigingen

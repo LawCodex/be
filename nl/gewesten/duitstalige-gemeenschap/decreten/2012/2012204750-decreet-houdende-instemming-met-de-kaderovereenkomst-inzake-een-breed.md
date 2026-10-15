@@ -11,7 +11,7 @@ date: 2012-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/25/2012204750/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2012. - Decreet houdende instemming met de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Indonesië, anderzijds, en met de Slotakte, gedaan te Jakarta op 9 november 2009

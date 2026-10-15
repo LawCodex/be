@@ -12,7 +12,7 @@ entry_into_force: 1997-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/18/1997000619/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1997. - Wet tot wijziging van de wet van 10 april 1990 op de bewakingsondernemingen, de beveiligingsondernemingen en de interne bewakingsdiensten, de wet van 19 juli 1991 tot regeling van het beroep van privé-detective en de wet van 3 januari 1933 op de vervaardiging van, de handel in en het dragen van wapens en op den handel in munitie.

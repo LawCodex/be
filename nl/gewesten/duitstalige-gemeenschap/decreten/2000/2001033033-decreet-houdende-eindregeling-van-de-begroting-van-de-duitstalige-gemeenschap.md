@@ -13,7 +13,7 @@ entry_into_force: 2001-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/23/2001033033/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2000. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1999 (VERTALING).

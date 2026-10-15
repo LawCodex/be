@@ -12,7 +12,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/08/2017012702/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2017. - Wet betreffende de coördinatie van het deskundigenonderzoek en de versnelling van de procedure in verband met bepaalde vormen van foutloze aansprakelijkheid

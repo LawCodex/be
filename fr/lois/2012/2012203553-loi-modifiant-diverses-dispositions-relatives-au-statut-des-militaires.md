@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/06/20/2012203553/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2012 et mise à jour au 14-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2012. - Loi modifiant diverses dispositions relatives au statut des militaires

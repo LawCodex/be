@@ -13,7 +13,7 @@ last_amended: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1936/05/05/1936050551/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-11-1997 et mise à jour au 10-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1936. - Loi sur l'affrètement fluvial.

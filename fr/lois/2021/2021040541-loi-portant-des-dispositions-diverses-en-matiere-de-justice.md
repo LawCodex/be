@@ -12,7 +12,7 @@ entry_into_force: 2021-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/17/2021040541/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2021. - Loi portant des dispositions diverses en matière de justice

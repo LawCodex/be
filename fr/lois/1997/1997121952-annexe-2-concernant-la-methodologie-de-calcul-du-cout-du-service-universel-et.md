@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1997121952/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1997 et mise à jour au 30-08-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Annexe 2. - Concernant la méthodologie de calcul du coût du service universel et les modalités de contribution au Fonds pour le Service universel des télécommunications et d'intervention du fonds. -

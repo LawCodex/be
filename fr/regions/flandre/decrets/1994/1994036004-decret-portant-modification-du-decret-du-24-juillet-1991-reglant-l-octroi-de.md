@@ -13,7 +13,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/13/1994036004/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1994. - Décret portant modification du décret du 24 juillet 1991 réglant l'octroi de subventions aux organisations de pratique des arts en amateur dans le cadre de la formation et de l'animation socio-culturelle néerlandophone. &lt;Traduction&gt;

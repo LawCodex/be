@@ -13,7 +13,7 @@ entry_into_force: 2018-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/13/2018014217/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2018. - Decreet tot bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 6 juni 2018 tot bepaling van de competenties en kennis die vereist zijn op het einde van de tweede graad van de doorstromingsafdeling en de eindcompetenties en kennis die vereist zijn op het einde van de doorstromingsafdeling voor de "Arts du cirque" en de "Arts circassiens"

@@ -11,7 +11,7 @@ published: 1965-05-06
 entry_into_force: 1965-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/03/1965040303/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1965. \_ Wet tot wijziging van de wet van 27 juni 1956 betreffende het Speciaal Onderstandsfonds.

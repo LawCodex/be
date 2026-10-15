@@ -12,7 +12,7 @@ entry_into_force: 2012-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/11/27/2012003355/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2012. - Loi modifiant la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique

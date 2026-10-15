@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013011649/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi portant insertion du titre VI " Pratiques du marché et protection du consommateur " dans le Code de droit économique et portant insertion des définitions propres au livre VI, et des dispositions d'application de la loi propres au livre VI, dans les Livres Ier et XV du Code de droit économique

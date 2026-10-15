@@ -13,7 +13,7 @@ entry_into_force: 2012-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202732/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de Overeenkomst tot tweede wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van Staten in Afrika, het Caribische Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend in Cotonou op 23 juni 2000, en eerst gewijzigd te Luxemburg op 25 juni 2005, en de Slotakte, opgemaakt te Ouagadougou op 22 juni 2010

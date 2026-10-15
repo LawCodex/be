@@ -12,7 +12,7 @@ published: 1997-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/23/1997027568/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 1997. - Decreet houdende instemming van de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-staten, enerzijds, en de Republiek Moldavië, anderzijds, de Bijlagen I, II, III, IV, V, het Protocol en de Slotakte, opgemaakt te Brussel op 28 november 1994 (VERTALING).

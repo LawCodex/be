@@ -12,7 +12,7 @@ published: 1972-06-29
 entry_into_force: 1972-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1972/06/21/1972062101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 1972. - Décret relatif aux conséquences d'un renouvellement du Conseil culturel de la Communauté culturelle néerlandaise sur les projets et propositions de décret pendant devant ce Conseil culturel.

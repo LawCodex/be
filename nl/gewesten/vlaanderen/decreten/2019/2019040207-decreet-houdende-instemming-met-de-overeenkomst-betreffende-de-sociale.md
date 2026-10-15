@@ -13,7 +13,7 @@ entry_into_force: 2019-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/25/2019040207/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2019. - Decreet houdende instemming met de overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en het Koninkrijk Marokko, ondertekend te Brussel op 18 februari 2014

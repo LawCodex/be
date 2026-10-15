@@ -13,7 +13,7 @@ entry_into_force: 2004-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/28/2004029056/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2004. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Région wallonne relatif à l'éducation à l'environnement.

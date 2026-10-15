@@ -13,7 +13,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035544/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret portant confirmation de l'arrêté du Gouvernement flamand du 12 décembre 2003 portant fixation définitive d'une révision du schéma de structure d'aménagement de la Flandre, en ce qui concerne les modifications aux dispositions obligatoires (TRADUCTION).

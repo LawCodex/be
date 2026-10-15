@@ -13,7 +13,7 @@ entry_into_force: 2015-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/02/2015205322/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBRE 2015. - Décret portant assentiment à l'accord de coopération du 15 juillet 2014 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune de la Région de Bruxelles-Capitale et la Commission communautaire française concernant les modalités de fonctionnement de l'Institut interfédéral de statistique, du conseil d'administration et des Comités scientifiques de l'Institut des comptes nationaux

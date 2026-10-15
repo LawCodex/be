@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/17/2004029036/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-01-2004 et mise à jour au 17-01-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2003. - Décret-programme portant diverses mesures concernant les fonds budgétaires, le recouvrement des créances, la RTBF, les experts et les commissaires aux comptes du Gouvernement, l'Ecole d'administration publique de la Communauté française, l'ETNIC, l'aliénation des immeubles domaniaux appartemant à la Communauté française, les institutions universitaires, les statuts des personnels de l'enseignement, l'enseignement, les centres psycho-médico-sociaux, les centres de vacances, le sport, l'éducation permanente et les infrastructures culturelles.

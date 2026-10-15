@@ -13,7 +13,7 @@ entry_into_force: 2024-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/10/2024201043/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2024. - Decreet houdende instemming met het samenwerkingsakkoord van 26 april 2023 tussen de Federale Staat, het Waalse Gewest, het Vlaamse Gewest en het Brusselse Hoofdstedelijke Gewest tot oprichting van het Centraal fietsregister

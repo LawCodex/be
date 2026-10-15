@@ -12,7 +12,7 @@ entry_into_force: 2013-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/10/2013009001/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2012. - Wet tot wijziging van artikel 124 van de wet van 25 juni 1992 op de landverzekeringsovereenkomst betreffende de inkorting van het kapitaal van een levensverzekering in geval van erfopvolging

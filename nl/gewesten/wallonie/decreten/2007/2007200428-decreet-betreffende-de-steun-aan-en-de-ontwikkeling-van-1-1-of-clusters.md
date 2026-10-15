@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/18/2007200428/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 09-02-2007 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2007. - Decreet betreffende de steun aan en de ontwikkeling van [ 1 ...] 1 of clusters (VERTALING) &lt;DWG 2024-04-11/08 , art. 1, 003; Inwerkingtreding : 01-07-2024&gt; ( 1 )&lt;DWG 2024-04-11/08 , art. 1, 003; Inwerkingtreding : 01-07-2024&gt;

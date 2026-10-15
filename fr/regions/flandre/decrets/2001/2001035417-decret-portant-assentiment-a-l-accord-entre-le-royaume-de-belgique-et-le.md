@@ -13,7 +13,7 @@ entry_into_force: 2001-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/23/2001035417/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2001. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas réglant le trafic fluvial et la récréation sur la Meuse commune, signé à Bruxelles le 6 janvier 1993, et au Règlement de navigation " Meuse commune " et aux les annexes Ire, II et III. (TRADUCTION).

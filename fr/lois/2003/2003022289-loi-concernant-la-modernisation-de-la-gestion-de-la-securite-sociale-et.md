@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/24/2003022289/justel"
 department: "Sécurité sociale - Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 02-04-2003 et mise à jour au 10-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2003. - Loi concernant la modernisation de la gestion de la sécurité sociale [et concernant la communication électronique entre des entreprises et l'autorité fédérale]. &lt;L 2003-12-22/42, art. 250, 002; En vigueur : 10-01-2004&gt;

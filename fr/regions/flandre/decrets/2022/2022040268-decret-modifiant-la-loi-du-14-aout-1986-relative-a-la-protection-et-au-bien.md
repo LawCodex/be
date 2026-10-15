@@ -13,7 +13,7 @@ entry_into_force: 2022-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/04/2022040268/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2022. - Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux, en ce qui concerne la mise à disposition d'une aggravation de la sanction

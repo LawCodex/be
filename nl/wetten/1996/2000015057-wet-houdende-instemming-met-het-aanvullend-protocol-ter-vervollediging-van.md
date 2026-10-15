@@ -10,7 +10,7 @@ date: 1996-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/11/10/2000015057/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 1996. - Wet houdende instemming met het aanvullend Protocol ter vervollediging van artikel 3 van Belgisch-Frans-Luxemburgse Overeenkomst van 17 april 1946 inzake de Exploitatie spoorwegnet, ondertekend te Luxemburg op 2 december 1993.

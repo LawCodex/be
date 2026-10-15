@@ -13,7 +13,7 @@ entry_into_force: 2023-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/01/2022034602/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2022. - Decreet tot goedkeuring van de algemene rekeningvan de Franse Gemeenschap voor het jaar 2021

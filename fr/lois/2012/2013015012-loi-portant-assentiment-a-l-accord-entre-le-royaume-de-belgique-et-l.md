@@ -12,7 +12,7 @@ entry_into_force: 2006-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/07/2013015012/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2012. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation européenne pour la sécurité de la navigation aérienne sur les privilèges et immunités de l'Organisation complémentaire à la Convention internationale de coopération pour la sécurité de la navigation aérienne " Eurocontrol " du 13 décembre 1960, et sa Déclaration commune, faits à Bruxelles le 17 juillet 2006

@@ -13,7 +13,7 @@ last_amended: 2025-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/07/30/1963073006/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2009 et mise à jour au 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1963. - Loi concernant le régime linguistique dans l'enseignement. (Abrogée pour la Communauté germanophone par DCG 2004-04-19/36, art. 50, En vigueur : 01-09-2004)

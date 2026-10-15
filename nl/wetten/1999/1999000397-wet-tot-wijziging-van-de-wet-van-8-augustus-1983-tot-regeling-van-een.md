@@ -12,7 +12,7 @@ entry_into_force: 1999-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/27/1999000397/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1999. - Wet tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen.

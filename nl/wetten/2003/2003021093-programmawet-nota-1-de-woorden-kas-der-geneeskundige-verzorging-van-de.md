@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/08/2003021093/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "artikelen 90 tot en met 99 opgeheven met uitwerking op een onbepaalde datum door <W 2008-06-08/30 , art. 80; Inwerkingtreding : onbepaald >(NOTA : Raadpleging van vroegere versies vanaf 17-04-2003 en tekstbijwerking tot 20-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 2003. - Programmawet. (NOTA 1 : De woorden " Kas der geneeskundige verzorging van de Nationale Maatschappij der Belgische Spoorwegen " worden vervangen door de woorden " Kas der geneeskundige verzorging van N.M.B.S. Holding " ; zie KB 2004-10-18/32, art. 38 ; Inwerkingtreding : 01-01-2005)

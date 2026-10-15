@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/04/2002027635/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2002. - Décret portant confirmation de l'arrêté du Gouvernement wallon du 13 décembre 2001 portant exécution du décret du 18 juillet 2001 relatif à l'introduction de l'euro dans les matières transférées à la Région wallonne en vertu de l'article 138 de la Constitution, et portant modification, en vue de l'introduction de l'euro, des décrets en matière de tourisme.

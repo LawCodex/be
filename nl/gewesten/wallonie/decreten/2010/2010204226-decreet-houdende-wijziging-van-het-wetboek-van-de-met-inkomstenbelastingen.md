@@ -13,7 +13,7 @@ entry_into_force: 2010-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/22/2010204226/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2010. - Decreet houdende wijziging van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen

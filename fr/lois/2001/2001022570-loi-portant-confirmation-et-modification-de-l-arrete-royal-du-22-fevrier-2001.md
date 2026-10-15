@@ -12,7 +12,7 @@ entry_into_force: 2001-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/19/2001022570/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2001. - Loi portant confirmation et modification de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales et portant confirmation de l'arrêté royal du 22 février 2001 relatif au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.

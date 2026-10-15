@@ -12,7 +12,7 @@ entry_into_force: 2021-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/30/2021041367/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2021. - Loi portant confirmation de trois arrêtés royaux en matière de jeux de hasard

@@ -12,7 +12,7 @@ entry_into_force: 2020-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/27/2020040944/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2020. - Loi donnant habilitation au roi d'octroyer une garantie d'Etat pour certains crédits dans la lutte contre les conséquences du coronavirus et modifiant la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédits et des sociétés de bourse

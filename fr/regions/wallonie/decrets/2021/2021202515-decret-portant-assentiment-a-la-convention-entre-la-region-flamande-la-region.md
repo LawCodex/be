@@ -13,7 +13,7 @@ entry_into_force: 2021-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/14/2021202515/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2021. - Décret portant assentiment à la Convention entre la Région flamande, la Région wallonne, et le Gouvernement de la République française, relative à l'aménagement de la Lys mitoyenne entre Deûlémont en France et Menin en Belgique signée à Bruxelles le 19 novembre 2018

@@ -13,7 +13,7 @@ entry_into_force: 1999-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/25/1999027154/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1999. - Decreet houdende instemming van de Waalse Gewestraad met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek India inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te New-Delhi op 31 oktober 1997 (VERTALING).

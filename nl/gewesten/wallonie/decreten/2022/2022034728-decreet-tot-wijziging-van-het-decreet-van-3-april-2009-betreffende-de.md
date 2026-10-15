@@ -13,7 +13,7 @@ entry_into_force: 2022-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/08/2022034728/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2022. - Decreet tot wijziging van het decreet van 3 april 2009 betreffende de bescherming tegen de eventuele schadelijke effecten en de hinder van de niet-ioniserende stralingen die door stationaire zendantennes gegenereerd worden

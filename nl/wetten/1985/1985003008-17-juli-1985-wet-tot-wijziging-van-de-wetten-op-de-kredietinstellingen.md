@@ -12,7 +12,7 @@ entry_into_force: 1985-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/07/17/1985003008/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1985. \_ Wet tot wijziging van de wetten op de kredietinstellingen, voornamelijk ter aanpassing aan het recht van de Europese Gemeenschappen.

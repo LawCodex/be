@@ -12,7 +12,7 @@ entry_into_force: 2019-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/01/2019201795/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Loi modifiant la loi du 3 juillet 2005 relative aux droits des volontaires et d'autres dispositions légales en matière de volontariat

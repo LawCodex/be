@@ -13,7 +13,7 @@ entry_into_force: 2025-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/11/21/2024011419/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2024. - Décret relatif à la simplification administrative et aux communications par voie électronique entre les usagers et les autorités publiques wallonnes

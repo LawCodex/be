@@ -13,7 +13,7 @@ entry_into_force: 2011-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/04/28/2011029292/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2011. - Decreet houdende instemming met het Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie, het Protocol inzake de voorrechten en immuniteiten van de Benelux Unie en de Verklaring, ondertekend in 's-Gravenhage op 17 juni 2008

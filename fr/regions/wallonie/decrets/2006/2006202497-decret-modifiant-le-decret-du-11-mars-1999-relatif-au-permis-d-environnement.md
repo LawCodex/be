@@ -13,7 +13,7 @@ entry_into_force: 2007-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006202497/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret modifiant le décret du 11 mars 1999 relatif au permis d'environnement.

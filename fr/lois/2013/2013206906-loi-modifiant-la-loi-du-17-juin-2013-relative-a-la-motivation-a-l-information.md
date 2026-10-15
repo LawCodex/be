@@ -12,7 +12,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/04/2013206906/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2013. - Loi modifiant la loi du 17 juin 2013 relative à la motivation, à l'information et aux voies de recours en matière de marchés publics et de certains marchés de travaux, de fournitures et de services et portant confirmation des dispositions concernant la protection juridictionnelle de deux arrêtés royaux pris en application de l'article 80, alinéas 3 à 5, de la loi du 15 juin 2006 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services

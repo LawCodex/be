@@ -11,7 +11,7 @@ date: 2009-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/07/24/2009035855/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2009. - Decreet houdende wijziging van het decreet van 27 maart 2009 betreffende de radio-omroep en televisie

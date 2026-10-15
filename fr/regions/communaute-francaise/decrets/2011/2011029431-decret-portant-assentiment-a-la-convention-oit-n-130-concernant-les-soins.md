@@ -13,7 +13,7 @@ entry_into_force: 2011-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/19/2011029431/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2011. - Décret portant assentiment à la Convention OIT n° 130 concernant les soins médicaux et les indemnités de maladie, adoptée à Genève le 25 juin 1969

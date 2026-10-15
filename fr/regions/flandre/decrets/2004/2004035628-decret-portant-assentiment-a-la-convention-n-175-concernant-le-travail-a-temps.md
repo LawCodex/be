@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035628/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret portant assentiment à la convention n° 175 concernant le travail à temps partiel, adoptée à Genève le 24 juin 1994 par la Conférence internationale du Travail lors de sa quatre-vingt-unième session (TRADUCTION).

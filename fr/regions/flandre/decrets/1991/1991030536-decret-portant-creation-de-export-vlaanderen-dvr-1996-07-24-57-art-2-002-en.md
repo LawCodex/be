@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/01/23/1991030536/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-02-1991 et mise à jour au 04-06-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 1991. - [Décret portant création de "Export Vlaanderen".] (DVR 1996-07-24/57, art. 2, 002; En vigueur : 1996-10-15) - (Traduction) [Abrogé par DCFL 2004-05-07/47, art. 20, 003; En vigueur : indéterminée ) -

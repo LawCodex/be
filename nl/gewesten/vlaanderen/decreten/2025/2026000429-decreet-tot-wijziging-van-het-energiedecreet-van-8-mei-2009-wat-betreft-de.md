@@ -13,7 +13,7 @@ entry_into_force: 2026-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/12/2026000429/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2025. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de invoering van een regelgevend kader voor flexibele aansluitingsovereenkomsten

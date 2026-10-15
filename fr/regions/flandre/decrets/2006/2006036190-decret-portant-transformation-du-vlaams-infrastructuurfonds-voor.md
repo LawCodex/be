@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006036190/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2006 et mise à jour au 16-05-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Décret portant transformation du " Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden " en agence autonomisée interne dotée de la personnalité juridique, et modifiant le décret du 23 février 1994 relatif à l'infrastructure affectée aux matières personnalisables (TRADUCTION)

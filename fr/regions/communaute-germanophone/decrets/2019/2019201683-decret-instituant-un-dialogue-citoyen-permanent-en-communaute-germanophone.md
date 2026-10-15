@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/25/2019201683/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 12-04-2019 et mise à jour au 28-11-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2019. - Décret instituant un dialogue citoyen permanent en Communauté germanophone

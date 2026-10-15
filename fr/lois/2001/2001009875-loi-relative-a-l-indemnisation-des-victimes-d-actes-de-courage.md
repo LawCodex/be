@@ -12,7 +12,7 @@ entry_into_force: 2001-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/24/2001009875/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AOUT 2001. - Loi relative à l'indemnisation des victimes d'actes de courage.

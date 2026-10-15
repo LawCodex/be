@@ -12,7 +12,7 @@ entry_into_force: 2001-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/10/2001000715/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2001. - Loi modifiant la loi du 10 avril 1990 sur les entreprises de gardiennage, sur les entreprises de sécurité et sur les services internes de gardiennage.

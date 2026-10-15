@@ -13,7 +13,7 @@ entry_into_force: 2011-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/17/2011029195/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2011. - Decreet tot wijziging van de procedures voor de verkiezing van de directeur-voorzitter en categoriedirecteur binnen de hogescholen georganiseerd of gesubsidieerd door de Franse Gemeenschap

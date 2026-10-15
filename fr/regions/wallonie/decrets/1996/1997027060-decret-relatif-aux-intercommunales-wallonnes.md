@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/05/1997027060/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 16-02-1999 et mise à jour au 23-08-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 1996. - Décret relatif aux intercommunales wallonnes. -

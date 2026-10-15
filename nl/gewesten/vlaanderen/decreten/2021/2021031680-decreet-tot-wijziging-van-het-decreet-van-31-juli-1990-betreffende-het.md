@@ -13,7 +13,7 @@ entry_into_force: 2021-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/28/2021031680/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2021. - Decreet tot wijziging van het decreet van 31 juli 1990 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De Lijn, wat betreft de continuïteit van de dienstverlening van de Vlaamse Vervoermaatschappij - De Lijn in geval van staking

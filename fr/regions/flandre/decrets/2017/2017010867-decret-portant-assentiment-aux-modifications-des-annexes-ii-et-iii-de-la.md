@@ -13,7 +13,7 @@ entry_into_force: 2017-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/10/2017010867/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2017. - Décret portant assentiment aux modifications des Annexes II et III de la Convention de Paris du 22 septembre 1992 pour la protection du milieu marin de l'Atlantique du Nord-Est, adopté à Ostende le 29 juin 2007

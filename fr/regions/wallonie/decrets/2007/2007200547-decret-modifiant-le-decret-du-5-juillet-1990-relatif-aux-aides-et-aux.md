@@ -13,7 +13,7 @@ entry_into_force: 2007-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/08/2007200547/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2007. - Décret modifiant le décret du 5 juillet 1990 relatif aux aides et aux interventions de la Région wallonne pour la recherche et les technologies.

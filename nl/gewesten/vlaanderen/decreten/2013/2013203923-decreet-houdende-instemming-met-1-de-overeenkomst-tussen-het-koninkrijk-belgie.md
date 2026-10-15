@@ -13,7 +13,7 @@ entry_into_force: 2013-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203923/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en het protocol, beide ondertekend te Brussel op 28 juni 1974, zoals gewijzigd door de aanvullende overeenkomst van 23 juni 1993 en het protocol van 19 januari 2010; 2° de aanvullende overeenkomst tot wijziging van de overeenkomst vermeld onder 1°, ondertekend te Brussel op 23 juni 1993; 3° het protocol, ondertekend te Brussel op 19 januari 2010, tot wijziging van de overeenkomst, vermeld onder 1°, zoals gewijzigd door de aanvullende overeenkomst, vermeld onder 2°

@@ -12,7 +12,7 @@ entry_into_force: 2012-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012009326/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot wijziging van de wet van 17 mei 2006 houdende oprichting van strafuitvoeringsrechtbanken en van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten, wat de inwerkingtreding betreft

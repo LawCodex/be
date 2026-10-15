@@ -12,7 +12,7 @@ published: 2014-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014035561/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet houdende instemming met het akkoord over het internationaal wegvervoer tussen de Regering van het Koninkrijk België en de Regering van de Republiek Servië, ondertekend in Brussel op 5 maart 2010

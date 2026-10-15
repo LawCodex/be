@@ -12,7 +12,7 @@ entry_into_force: 2017-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/20/2016206258/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2016. - Loi portant dispositions diverses en droit du travail liées à l'incapacité de travail

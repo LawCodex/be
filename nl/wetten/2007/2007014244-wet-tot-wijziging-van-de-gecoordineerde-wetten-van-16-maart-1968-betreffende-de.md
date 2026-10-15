@@ -11,7 +11,7 @@ published: 2007-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007014244/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot wijziging van de gecoördineerde wetten van 16 maart 1968 betreffende de politie over het wegverkeer.

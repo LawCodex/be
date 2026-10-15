@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/18/1996027491/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 04-09-1996 en tekstbijwerking tot 12-09-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1996. - Decreet tot wijziging van het Boswetboek voor wat betreft de openbare veiling en de onderhandse verkoop van kappingen in bossen onder bosregeling (VERTALING).

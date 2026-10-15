@@ -13,7 +13,7 @@ entry_into_force: 2022-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/01/14/2022020041/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2022. - Ordonnantie tot verlenging van het temporele toepassingsgebied van de ordonnantie van 14 oktober 2021 betreffende de uitbreiding van het COVID Safe Ticket in geval van noodzakelijkheid voortvloeiend uit een specifieke epidemiologische situatie

@@ -12,7 +12,7 @@ entry_into_force: 2004-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/11/05/2003015211/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBER 2002. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Wit-Rusland inzake luchtvervoer, en de Bijlage, ondertekend te Brussel op 26 maart 1996.

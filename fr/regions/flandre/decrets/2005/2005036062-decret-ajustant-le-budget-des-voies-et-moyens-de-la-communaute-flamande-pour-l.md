@@ -13,7 +13,7 @@ entry_into_force: 2005-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/24/2005036062/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2005. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2005 (TRADUCTION).

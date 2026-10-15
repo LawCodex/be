@@ -13,7 +13,7 @@ entry_into_force: 1990-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/10/27/1989027460/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 1989. - Decreet op de groeven. (Vertaling)

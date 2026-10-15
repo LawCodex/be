@@ -12,7 +12,7 @@ entry_into_force: 2007-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/18/2005015064/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2005. - Wet houdende instemming met het Internationaal Verdrag inzake Plantgenetische Hulpbronnen voor Voeding en Landbouw, en met de Bijlagen I en II, gedaan te Rome op 6 juni 2002.

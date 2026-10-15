@@ -12,7 +12,7 @@ entry_into_force: 2003-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/26/2000015127/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2000. - Wet houdende instemming met het Aanvullend Protocol bij het Europees Sociaal Handvest ter invoering van een systeem van collectieve klachten, gedaan te Straatsburg op 9 november 1995.

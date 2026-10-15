@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/13/2013200768/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 06-03-2013 et mise à jour au 28-01-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2012. - Décret fixant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2013

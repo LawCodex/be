@@ -13,7 +13,7 @@ entry_into_force: 2008-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/14/2008201062/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2008. - Decreet houdende wijziging van het gemeentedecreet wat betreft de bevoegdheid van een gemeentelijk beslissingsorgaan om in rechte op te treden.

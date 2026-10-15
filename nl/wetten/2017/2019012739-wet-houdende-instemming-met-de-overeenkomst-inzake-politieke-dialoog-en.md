@@ -12,7 +12,7 @@ entry_into_force: 2019-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2019012739/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet houdende instemming met de Overeenkomst inzake Politieke Dialoog en Samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Cuba, anderzijds, gedaan te Brussel op 12 december 2016

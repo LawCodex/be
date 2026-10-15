@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036108/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met het Protocol betreffende water en gezondheid, gedaan te Londen op 17 juni 1999, bij het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, gedaan te Helsinki op 17 maart 1992.

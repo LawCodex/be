@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/02/2007035457/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-03-2007 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2007. - Décret relatif à l'association sans but lucratif " Sociale Dienst voor het Vlaams Overheidspersoneel " (Service social pour le Personnel des Services publics flamands) (TRADUCTION)

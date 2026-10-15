@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/30/2000009755/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 17-03-2001 et mise à jour au 17-03-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2000. - Loi modifiant le Code d'instruction criminelle, l'article 27 de la loi du 20 juillet 1990 relative à la détention préventive et l'article 837 du Code judiciaire, en vue de rationaliser la procédure devant la cour d'assises.

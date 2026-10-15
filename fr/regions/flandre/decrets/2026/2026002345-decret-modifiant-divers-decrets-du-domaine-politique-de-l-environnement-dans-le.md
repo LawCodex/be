@@ -13,7 +13,7 @@ entry_into_force: 2026-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/03/06/2026002345/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2026. - Décret modifiant divers décrets du domaine politique de l'Environnement dans le cadre de l'implémentation de la réglementation européenne concernant l'énergie renouvelable, les matières premières critiques et la technologie " zéro net "

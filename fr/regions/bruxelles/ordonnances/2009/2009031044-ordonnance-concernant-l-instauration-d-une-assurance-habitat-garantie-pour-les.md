@@ -13,7 +13,7 @@ entry_into_force: 2009-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/01/22/2009031044/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2009. - Ordonnance concernant l'instauration d'une assurance habitat garantie pour les nouveaux propriétaires.

@@ -10,7 +10,7 @@ date: 1998-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/25/1998A00520/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1998. - Wet tot wijziging van de wet van 11 april 1994 betreffende de openbaarheid van bestuur en de wet van 12 november 1997 betreffende de openbaarheid van bestuur in de provincies en gemeenten.

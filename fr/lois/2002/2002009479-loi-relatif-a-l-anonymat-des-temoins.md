@@ -11,7 +11,7 @@ published: 2002-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/08/2002009479/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 2002. - Loi relatif à l'anonymat des témoins.

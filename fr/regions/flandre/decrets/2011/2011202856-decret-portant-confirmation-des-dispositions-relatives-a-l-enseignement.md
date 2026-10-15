@@ -13,7 +13,7 @@ entry_into_force: 2011-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/27/2011202856/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2011. - Décret portant confirmation des dispositions relatives à l'enseignement secondaire, codifié le 17 décembre 2010

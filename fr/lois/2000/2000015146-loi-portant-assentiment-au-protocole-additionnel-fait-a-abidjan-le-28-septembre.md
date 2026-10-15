@@ -12,7 +12,7 @@ entry_into_force: 2002-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/03/2000015146/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2000. - Loi portant assentiment au Protocole additionnel, fait à Abidjan le 28 septembre 1999, à l'Accord maritime entre l'Union économique belgo-luxembourgeoise et la République de Côte d'Ivoire, signé à Abidjan le 25 novembre 1977.

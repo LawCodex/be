@@ -15,7 +15,7 @@ department: "Défense Nationale"
 justel_notes:
   - "art. 90, §1er et 99bis abrogés par L 2007-02-28/35 , art. 229, 007: En vigueur : 31-12-2013 (voir art. 272)"
   - "Consultation des versions antérieures à partir du 07-04-2001 et mise à jour au 14-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1994. - [Loi relative aux statuts du personnel de la Défense]. &lt;L 2006-03-05/57, art. 2, 004; En vigueur : 15-04-2006&gt;

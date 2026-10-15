@@ -12,7 +12,7 @@ entry_into_force: 2020-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/16/2020044448/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2020. - Wet betreffende de begunstigden van het akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie

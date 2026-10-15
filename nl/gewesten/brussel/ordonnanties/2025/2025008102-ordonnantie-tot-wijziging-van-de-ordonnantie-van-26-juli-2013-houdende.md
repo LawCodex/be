@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/10/24/2025008102/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2025. - Ordonnantie tot wijziging van de ordonnantie van 26 juli 2013 houdende omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van belastingen en tot intrekking van richtlijn 77/799/EEG, met het oog op de gedeeltelijke omzetting van de richtlijn 2023/2226/EU van de Raad van 17 oktober 2023 tot wijziging van richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen

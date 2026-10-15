@@ -12,7 +12,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007022987/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot wijziging, wat de vaststelling van de graad van blijvende arbeidsongeschiktheid na de leeftijd van 65 jaar betreft, van de wetten betreffende de schadeloosstelling voor beroepsziekten, gecoördineerd op 3 juni 1970.

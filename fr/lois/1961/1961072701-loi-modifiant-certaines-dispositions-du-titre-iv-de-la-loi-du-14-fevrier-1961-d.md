@@ -11,7 +11,7 @@ published: 1961-07-29
 entry_into_force: 1961-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/07/27/1961072701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 1961. - Loi modifiant certaines dispositions du Titre IV de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier et rapportant la loi du 28 février 1961 complétant l'article 75 de la loi communale.

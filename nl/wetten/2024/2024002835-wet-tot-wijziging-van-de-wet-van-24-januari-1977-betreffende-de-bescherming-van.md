@@ -12,7 +12,7 @@ entry_into_force: 2024-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/21/2024002835/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Wet tot wijziging van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de gebruikers op het stuk van de voedingsmiddelen en andere producten.

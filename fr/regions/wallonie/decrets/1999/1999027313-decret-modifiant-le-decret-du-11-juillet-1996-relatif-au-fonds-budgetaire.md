@@ -13,7 +13,7 @@ entry_into_force: 1999-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027313/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1999. - Décret modifiant le décret du 11 juillet 1996 relatif au Fonds budgétaire interdépartemental de promotion de l'emploi dans le secteur non marchand.

@@ -12,7 +12,7 @@ published: 2006-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/18/2006035036/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2005. - Decreet houdende diverse bepalingen inzake onderwijs.HI:??2,Zitting 2005-2006. Stukken. - Ontwerp van decreet 492, nr. 1. - Amendementen 492, nr. 2. - Verslag 492, nr. 3. - Tekst aangenomen door de plenaire vergadering 492, nr. 4. Handelingen. - Bespreking en aanneming : Vergadering van 9 november 2005.

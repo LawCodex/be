@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/28/2021201597/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 09-04-2021 et mise à jour au 12-01-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2021. - Loi accordant un droit au petit chômage aux travailleurs afin de recevoir un vaccin contre le coronavirus COVID-19

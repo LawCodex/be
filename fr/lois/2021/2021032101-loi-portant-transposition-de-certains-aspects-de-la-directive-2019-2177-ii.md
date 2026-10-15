@@ -12,7 +12,7 @@ entry_into_force: 2021-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/21/2021032101/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2021. - Loi portant transposition de certains aspects de la directive 2019/2177 (II)

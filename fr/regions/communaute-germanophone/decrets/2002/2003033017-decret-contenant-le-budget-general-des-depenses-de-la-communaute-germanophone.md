@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/02/2003033017/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 21-05-2003 et mise à jour au 04-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2002. - Décret contenant le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2003 (TRADUCTION).

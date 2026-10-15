@@ -13,7 +13,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/27/2002029229/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2002. - Decreet tot wijziging van sommige bepalingen van het koninklijk besluit van 20 juni 1975 betreffende de voldoend geachte bekwaamheidsbewijzen in het kleuter- en lager onderwijs (VERTALING).

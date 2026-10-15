@@ -12,7 +12,7 @@ entry_into_force: 2009-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/10/2009022002/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2008. - Wet tot wijziging van het koninklijk besluit van 21 april 1983 tot vaststelling van de nadere regelen voor erkenning van geneesheren-specialisten en van huisartsen, teneinde criteria in te voeren waaraan een tegensprekelijk debat tussen de kamers van de erkenningscommissies van geneesheren-specialisten en de Hoge Raad van geneesheren-specialisten en huisartsen moet voldoen.

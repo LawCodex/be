@@ -13,7 +13,7 @@ entry_into_force: 2021-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/26/2021040765/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2021. - Décret portant octroi de prêts d'urgence dans le secteur sportif aux fédérations sportives, clubs sportifs et personnes morales liées aux sports suite à la crise du coronavirus

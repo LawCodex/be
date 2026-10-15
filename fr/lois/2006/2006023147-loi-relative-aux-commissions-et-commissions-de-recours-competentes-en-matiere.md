@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/13/2006023147/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2006 et mise à jour au 10-05-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2006. - Loi relative aux commissions et commissions de recours compétentes en matière de port du titre professionnel d'une profession intellectuelle prestataire de services.

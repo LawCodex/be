@@ -13,7 +13,7 @@ entry_into_force: 2014-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014035590/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet tot instemming met het VN-verdrag inzake handel in conventionele wapens, opgemaakt in New York op 2 april 2013 en ondertekend in New York op 3 juni 2013

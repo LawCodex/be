@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/02/1998029331/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-1998 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1998. - Decreet houdende organisatie van het secundair kunstonderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap. (VERTALING)

@@ -13,7 +13,7 @@ entry_into_force: 2007-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/22/2007035134/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2006. - Decreet houdende wijziging van het decreet van 7 mei 2004 houdende de toekenning van dienstencheques voor kinderopvang.

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/24/2013204089/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2013. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en Anguilla inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 11 mei 2010 en in The Valley (Anguilla) op 24 september 2010

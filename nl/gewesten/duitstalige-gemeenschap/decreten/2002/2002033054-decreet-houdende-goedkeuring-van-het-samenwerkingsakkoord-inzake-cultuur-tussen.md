@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/04/15/2002033054/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2002. - Decreet houdende goedkeuring van het Samenwerkingsakkoord inzake cultuur tussen de Regering van de Franse Republiek en de Regering van de Duitstalige Gemeenschap van België, gedaan te Eupen op 5 december 2000 (VERTALING).

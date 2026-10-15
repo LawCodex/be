@@ -12,7 +12,7 @@ entry_into_force: 1994-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/03/1994003384/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1994. - Wet tot wijziging van de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur.

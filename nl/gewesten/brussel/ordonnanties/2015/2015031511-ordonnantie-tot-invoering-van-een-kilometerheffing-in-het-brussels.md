@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/29/2015031511/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 12-08-2015 en tekstbijwerking tot 11-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 2015. - Ordonnantie tot invoering van een kilometerheffing in het Brussels Hoofdstedelijk Gewest voor zware voertuigen bedoeld of gebruikt voor het vervoer van goederen over de weg, ter vervanging van het Eurovignet

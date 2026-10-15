@@ -13,7 +13,7 @@ last_amended: 1995-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1934/01/03/1934010350/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 24-01-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JANUARI 1934. - WET betreffende het aanleggen van onder- of bovengrondsche telefoon- en telegraafverbindingen voor 's Lands defensieve organisatie.

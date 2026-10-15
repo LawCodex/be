@@ -12,7 +12,7 @@ entry_into_force: 2026-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/11/2025009586/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2025. - Loi mettant en oeuvre le règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, et modifiant les règlements (UE) 1093/2010 et (UE) 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937, et le règlement (UE) 2023/1113 du Parlement européen et du Conseil du 31 mai 2023 sur les informations accompagnant les transferts de fonds et de certains crypto-actifs, et modifiant la directive (UE) 2015/849 et portant des dispositions financières diverses

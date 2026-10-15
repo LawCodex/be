@@ -12,7 +12,7 @@ entry_into_force: 2005-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/01/10/2005009024/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2005. - Wet betreffende de aanvaarding van het beginsel van herhaling inzake valsemunterij.

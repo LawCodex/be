@@ -17,7 +17,7 @@ justel_notes:
   - "Modifiée par L 2007-02-28/35, art. 238, 004; En vigueur : 31-12-2013. Voir art. 272"
   - "L'article 238 de la L 28/02/2007 qui prévoyait à l'origine des modifications de la L 06/02/2003 a été remplacé, avant son entrée en vigueur, par l'article 350 de la loi du 31 juillet 2013 ( 2013-07-31/04 ) modifiant la loi du 28 février 2007 fixant le statut des militaires du cadre actif des Forces armées et modifiant certaines dispositions relatives au statut du personnel militaire. Cet article remplace l'article 238 de la L 28/02/2007 par une nouvelle disposition qui modifient les articles 2-6, 7, 8, 9, 10-12, 13 et 22-23 de la loi du 06/02/2003. Cela étant, la volonté d'abroger cette dernière loi que le législateur avait initialement exprimée. En d'autres mots, l'article 238 de la L 28/02/2007, tel qu'il existait avant son remplacement par la loi précitée du 31/07/2013, n'entrera jamais en vigueur."
   - "Consultation des versions antérieures à partir du 27-02-2003 et mise à jour au 15-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2003. - [Loi portant des dispositions sociales pour des militaires qui retournent à la vie civile] &lt;L 2013-07-31/04 , art. 349, 006; En vigueur : 30-09-2013&gt;

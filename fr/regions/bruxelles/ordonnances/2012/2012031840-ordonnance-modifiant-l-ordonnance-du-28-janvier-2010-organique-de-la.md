@@ -13,7 +13,7 @@ entry_into_force: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/12/06/2012031840/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2012. - Ordonnance modifiant l'ordonnance du 28 janvier 2010 organique de la revitalisation urbaine et le Code bruxellois du Logement et relative à la réglementation des logements construits ou rénovés dans le cadre des contrats de quartier

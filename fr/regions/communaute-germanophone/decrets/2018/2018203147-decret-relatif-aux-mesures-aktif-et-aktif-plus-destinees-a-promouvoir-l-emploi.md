@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/28/2018203147/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 10-07-2018 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2018. - Décret relatif aux mesures AktiF et AktiF PLUS destinées à promouvoir l'emploi

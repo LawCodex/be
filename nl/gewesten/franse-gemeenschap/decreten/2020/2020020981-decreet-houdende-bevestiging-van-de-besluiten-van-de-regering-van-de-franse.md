@@ -13,7 +13,7 @@ entry_into_force: 2020-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/14/2020020981/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2020. - Decreet houdende bevestiging van de besluiten van de Regering van de Franse Gemeenschap van 15 mei 2019 en 4 september 2019 tot wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de ambten, bekwaamheidsbewijzen en barema's tot uitvoering van de artikelen 7, 16, 50 en 263 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde of gesubsidieerde basis- en secundair onderwijs en van het besluit van de Regering van de Franse Gemeenschap van 4 september 2019 tot wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de verbindingen cursus/ambt genomen ter uitvoering van artikel 10 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde en gesubsidieerde basis- en secundair onderwijs

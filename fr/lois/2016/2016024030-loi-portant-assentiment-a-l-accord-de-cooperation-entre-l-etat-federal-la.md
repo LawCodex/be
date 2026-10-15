@@ -12,7 +12,7 @@ entry_into_force: 2016-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/01/26/2016024030/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2016. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale, relatif au transfert d'unités de quantité attribuée aux régions pour la période 2008-2012

@@ -13,7 +13,7 @@ entry_into_force: 1997-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/11/12/1997036429/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 1997. - Décret réglant la procédure d'appel contre les décisions prises par le " Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap " (Fonds flamand pour l'Intégration sociale des personnes handicapées) (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2018-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/19/2018031489/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Loi portant modification et insertion de dispositions en matière de services de paiement dans différents livres du Code de droit économique

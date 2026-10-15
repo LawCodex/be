@@ -13,7 +13,7 @@ entry_into_force: 1998-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/19/1998035049/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Décret portant approbation des actes internationaux suivants : 1° le Traité sur la Charte de l'énergie, les annexes EM, NI, TRM, N, VC, ID, IA, P, G, TFU, D, B, PA et T et les décisions, signés à Lisbonne le 17 décembre 1994; 2° le Protocole sur l'efficacité énergétique et les aspects environnementaux connexes, signé à Lisbonne le 17 décembre 1994 (TRADUCTION).

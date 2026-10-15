@@ -16,7 +16,7 @@ department: "Agriculture"
 justel_notes:
   - "par arrêt du 31 janvier 1989, M.B. du 03-03-1989, p. 3860, la Cour d'arbitrage a annulé pour les Régions wallonne et flamande, les articles 8, al. 1er, 1° à 4°, 10, 11, al. 1 et 2, 14 et 17"
   - "Consultation des versions antérieures à partir du 09-01-1991 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1987. - Loi relative à la santé des animaux

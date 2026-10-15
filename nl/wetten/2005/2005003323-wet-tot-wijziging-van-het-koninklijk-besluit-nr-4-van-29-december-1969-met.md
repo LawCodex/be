@@ -12,7 +12,7 @@ entry_into_force: 2005-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/07/2005003323/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2005. - Wet tot wijziging van het koninklijk besluit nr. 4 van 29 december 1969 met betrekking tot de teruggaven inzake belasting over de toegevoegde waarde, de faillissementswet van 8 augustus 1997 en het Wetboek van de inkomstenbelastingen 1992, strekkende tot een rechtvaardiger fiscale behandeling van de schuldeisers in het kader van een gerechtelijk akkoord of faillissement.

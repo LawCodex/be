@@ -11,7 +11,7 @@ entry_into_force: 1984-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/09/19/1984015342/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 1984. - Wet houdende goedkeuring van het Protocol tot wijziging van artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof ondertekend te Brussel op 10 juni 1981.

@@ -12,7 +12,7 @@ published: 2012-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/31/2012203581/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2012. - Decreet houdende instemming met de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, opgemaakt in Brussel op 6 oktober 2010

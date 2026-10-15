@@ -12,7 +12,7 @@ entry_into_force: 2026-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/30/2026004187/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2026. - Loi instaurant diverses mesures en matière d'énergie

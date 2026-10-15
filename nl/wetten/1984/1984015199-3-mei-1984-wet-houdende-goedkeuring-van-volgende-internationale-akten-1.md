@@ -12,7 +12,7 @@ entry_into_force: 1984-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/05/03/1984015199/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 1984. \_ Wet houdende goedkeuring van volgende internationale Akten : 1) Overeenkomst over de sociale zekerheid tussen het Koninkrijk België en de Verenigde Staten van Amerika, en Slotprotocol, ondertekend te Washington op 19 februari 1982; 2) Aanvullend Protocol, ondertekend te Brussel op 23 november 1982.

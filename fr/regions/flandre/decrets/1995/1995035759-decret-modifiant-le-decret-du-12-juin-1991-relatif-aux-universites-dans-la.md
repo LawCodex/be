@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035759/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-07-1995 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Décret modifiant le décret du 12 juin 1991 relatif aux universités dans la Communauté flamande, portant sur l'organisation d'une formation spécifique en médecine générale et sur d'autres dispositions relatives aux universités (TRADUCTION)

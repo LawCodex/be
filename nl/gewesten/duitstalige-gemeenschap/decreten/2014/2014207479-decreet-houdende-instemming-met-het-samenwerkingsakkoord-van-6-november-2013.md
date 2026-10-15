@@ -13,7 +13,7 @@ entry_into_force: 2015-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/24/2014207479/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 6 november 2013 tussen de federale Staat, de Gewesten en de Gemeenschappen betreffende de actieve begeleiding en opvolging van werklozen

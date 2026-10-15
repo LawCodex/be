@@ -12,7 +12,7 @@ published: 2015-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/14/2015029355/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2015. - Decreet houdende diverse dringende bepalingen inzake onderwijs

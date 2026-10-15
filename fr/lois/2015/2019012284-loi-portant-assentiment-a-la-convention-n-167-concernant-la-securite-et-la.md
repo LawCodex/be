@@ -12,7 +12,7 @@ entry_into_force: 2019-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2019012284/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi portant assentiment à la Convention n° 167 concernant la sécurité et la santé dans la construction, adoptée à Genève le 20 juin 1988 par la Conférence internationale du Travail à sa soixante-quinzième session

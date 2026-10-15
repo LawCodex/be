@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/19/1999021177/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 13-05-1999 en tekstbijwerking tot 06-01-2001."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1999. - Wet tot wijziging van het Wetboek van strafvordering, het Veldwetboek, de provinciewet, de nieuwe gemeentewet, de wet op het politieambt, de wet van 10 april 1990 op de bewakingsondernemingen, de beveiligingsondernemingen en de interne bewakingsdiensten, de wet op de riviervisserij, de jachtwet en de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus. -

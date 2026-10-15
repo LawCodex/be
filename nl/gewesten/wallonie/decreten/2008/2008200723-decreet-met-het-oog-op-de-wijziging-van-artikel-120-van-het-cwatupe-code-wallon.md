@@ -13,7 +13,7 @@ entry_into_force: 2008-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/01/31/2008200723/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2008. - Decreet met het oog op de wijziging van artikel 120 van het CWATUPE "(Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie)" Waals Wetboek van Ruimtelijke Ordening, Stedenbouw, Patrimonium en Energie (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 2000-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/12/2000010089/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2000. - Loi modifiant la loi du 25 février 1991 relative à la responsabilité du fait des produits défectueux.

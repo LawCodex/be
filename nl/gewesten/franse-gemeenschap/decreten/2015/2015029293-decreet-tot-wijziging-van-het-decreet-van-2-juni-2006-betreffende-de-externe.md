@@ -12,7 +12,7 @@ published: 2015-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/19/2015029293/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2015. - Decreet tot wijziging van het decreet van 2 juni 2006 betreffende de externe evaluatie van de verworven kennis van leerlingen van het leerplichtonderwijs en het getuigschrift van basisonderwijs na het lager onderwijs

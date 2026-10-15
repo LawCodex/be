@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014035687/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-2014 en tekstbijwerking tot 01-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet betreffende de rustpensioenen, toegekend aan de vastbenoemde personeelsleden van de Vlaamse Radio- en Televisieomroeporganisatie en betreffende de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden

@@ -12,7 +12,7 @@ entry_into_force: 2007-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/01/2007011221/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2007. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.

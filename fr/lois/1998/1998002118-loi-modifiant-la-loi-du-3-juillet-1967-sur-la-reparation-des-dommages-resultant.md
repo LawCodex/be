@@ -12,7 +12,7 @@ entry_into_force: 1995-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/10/19/1998002118/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 1998. - Loi modifiant la loi du 3 juillet 1967 sur la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public.

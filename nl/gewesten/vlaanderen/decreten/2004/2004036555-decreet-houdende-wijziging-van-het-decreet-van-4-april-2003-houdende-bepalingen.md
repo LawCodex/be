@@ -13,7 +13,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036555/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van het decreet van 4 april 2003 houdende bepalingen tot de oprichting van een Universiteit Antwerpen en tot wijziging van het decreet van 22 december 1995 houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen, wat het Universitair Ziekenhuis Antwerpen betreft.

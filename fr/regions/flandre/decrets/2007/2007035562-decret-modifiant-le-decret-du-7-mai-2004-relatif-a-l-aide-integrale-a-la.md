@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007035562/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2007. - Décret modifiant le décret du 7 mai 2004 relatif à l'aide intégrale à la jeunesse et du décret du 7 mai 2004 relatif au statut du mineur dans l'aide intégrale à la jeunesse, en ce qui concerne la politique administrative, et sanctionnant de certaines dispositions de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département de l'Aide sociale, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique Aide sociale, Santé publique et Famille et modifiant la réglementation concernant ce domaine politique (TRADUCTION).

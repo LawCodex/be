@@ -12,7 +12,7 @@ entry_into_force: 2015-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/08/2015011286/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2015. - Loi modifiant la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations

@@ -13,7 +13,7 @@ entry_into_force: 2007-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031330/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance modifiant l'ordonnance du 22 décembre 2006 contenant le budget général des dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2007.

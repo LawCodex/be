@@ -12,7 +12,7 @@ entry_into_force: 2005-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/22/2005015080/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2005. - Wet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek der Filippijnen, ondertekend te Manilla op 7 december 2001.

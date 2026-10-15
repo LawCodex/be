@@ -12,7 +12,7 @@ entry_into_force: 2001-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/15/2000015038/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2000. - Wet houdende instemming met de Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en haar Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Bijlagen I, II, III, IV, V, VI en VII, Protocollen 1, 2, 3, 4 en 5, en Slotakte, gedaan te Brussel op 20 november 1995.

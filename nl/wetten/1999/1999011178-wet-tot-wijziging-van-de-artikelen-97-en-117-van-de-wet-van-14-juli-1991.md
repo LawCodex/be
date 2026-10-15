@@ -12,7 +12,7 @@ entry_into_force: 1999-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/25/1999011178/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1999. - Wet tot wijziging van de artikelen 97 en 117 van de wet van 14 juli 1991 betreffende de handelspraktijken en de voorlichting en bescherming van de consument.

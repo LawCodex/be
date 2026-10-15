@@ -13,7 +13,7 @@ last_amended: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/04/03/1953040302/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 06-08-1985 en tekstbijwerking tot 23-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1953. - WET BETREFFENDE DE RECHTERLIJKE INRICHTING.

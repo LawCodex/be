@@ -13,7 +13,7 @@ entry_into_force: 2018-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/02/2018010886/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2018. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République d'Argentine relatif à l'exécution d'activités payées par les membres de famille à charge du personnel des missions diplomatiques et postes consulaires, signée à Bruxelles le 20 avril 2017

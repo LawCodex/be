@@ -12,7 +12,7 @@ entry_into_force: 2001-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/21/2001003023/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2001. - Loi portant sur la modification de l'Accord portant création de la Banque africaine de Développement.

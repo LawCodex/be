@@ -13,7 +13,7 @@ entry_into_force: 2023-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/09/2023047707/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2023. - Décret portant diverses mesures relatives à l'enseignement supérieur et à la formation initiale des enseignants

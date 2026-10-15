@@ -13,7 +13,7 @@ entry_into_force: 2022-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/02/2021034177/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2021. - Ordonnance relative aux mesures concernant le respect par les utilisateurs des règles en matière d'accès aux ressources génétiques et de partage juste et équitable des avantages découlant de leur utilisation

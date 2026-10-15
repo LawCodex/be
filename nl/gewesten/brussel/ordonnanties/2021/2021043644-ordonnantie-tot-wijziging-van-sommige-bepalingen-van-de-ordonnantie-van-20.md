@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/24/2021043644/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2021. - Ordonnantie tot wijziging van sommige bepalingen van de ordonnantie van 20 oktober 2006 tot opstelling van een kader voor het waterbeleid en de ordonnantie van 8 september 1994 tot regeling van de drinkwatervoorziening via het waterleidingnet in het Brussels Hoofdstedelijk Gewest om sociale maatregelen op te nemen

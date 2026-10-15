@@ -11,7 +11,7 @@ entry_into_force: 1968-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/11/10/1967111082/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 1967. - [Wet houdende oprichting van het Belgisch Interventie- en Restitutiebureau.] (Opschrift gewijzigd bij W 1993-08-06/30, art. 75, 002; Inwerkingtreding : 01-01-1994)

@@ -12,7 +12,7 @@ entry_into_force: 2010-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/02/21/2010200324/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2010. - Loi spéciale visant à adapter diverses dispositions à la dénomination "Cour constitutionnelle"

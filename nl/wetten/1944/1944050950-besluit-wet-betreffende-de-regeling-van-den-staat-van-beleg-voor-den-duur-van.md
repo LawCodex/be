@@ -9,7 +9,7 @@ language: nl
 date: 1944-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1944/05/09/1944050950/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 1944. - BESLUIT-WET betreffende de regeling van den staat van beleg voor den duur van den huidigen oorlogstijd.

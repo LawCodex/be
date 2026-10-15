@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/15/2012009077/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2012. - Wet tot wijziging van het Gerechtelijk Wetboek wat betreft het oprichten van een bijzondere rol voor de collectieve schuldenregeling

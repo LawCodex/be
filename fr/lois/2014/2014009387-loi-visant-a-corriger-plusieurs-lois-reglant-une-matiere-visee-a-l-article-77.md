@@ -12,7 +12,7 @@ entry_into_force: 2014-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009387/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi visant à corriger plusieurs lois réglant une matière visée à l'article 77 de la Constitution

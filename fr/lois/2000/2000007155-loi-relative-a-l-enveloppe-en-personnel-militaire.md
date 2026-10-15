@@ -16,7 +16,7 @@ department: "Défense Nationale"
 justel_notes:
   - "Art. 2 et 5 sont modifiés avec effet à une date indéterminée par <L 2006-03-05/58 , art. 35 et 36, 005; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 29-06-2000 et mise à jour au 12-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2000. - Loi relative à l'enveloppe en personnel militaire.

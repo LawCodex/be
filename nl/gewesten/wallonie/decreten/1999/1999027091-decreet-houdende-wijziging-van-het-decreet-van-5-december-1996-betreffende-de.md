@@ -13,7 +13,7 @@ entry_into_force: 1998-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/04/1999027091/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1999. - Decreet houdende wijziging van het decreet van 5 december 1996 betreffende de Waalse intercommunales (VERTALING).

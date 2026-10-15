@@ -12,7 +12,7 @@ entry_into_force: 2023-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/02/08/2023040689/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2023. - Wet tot wijziging van het oud Burgerlijk Wetboek met het oog op de afschaffing van de beëindiging van de wettelijke samenwoning door het huwelijk met een derde

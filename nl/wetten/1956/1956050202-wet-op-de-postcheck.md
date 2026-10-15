@@ -13,7 +13,7 @@ last_amended: 2026-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1956/05/02/1956050202/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 14-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 1956. - Wet op de postcheck.

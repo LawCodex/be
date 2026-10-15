@@ -12,7 +12,7 @@ entry_into_force: 2019-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/21/2018206244/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Wet houdende diverse bepalingen inzake sociale zaken

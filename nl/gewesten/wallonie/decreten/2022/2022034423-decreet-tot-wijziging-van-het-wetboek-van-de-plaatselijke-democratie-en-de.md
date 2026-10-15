@@ -13,7 +13,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/06/2022034423/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2022. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie met het oog op de vereenvoudiging van de bepalingen inzake overheidsopdrachten en concessies van diensten en werken

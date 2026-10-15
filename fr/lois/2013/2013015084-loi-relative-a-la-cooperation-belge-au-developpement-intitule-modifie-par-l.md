@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/19/2013015084/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 12-04-2013 et mise à jour au 29-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2013. - Loi relative à la Coopération [belge] au Développement &lt;Intitulé modifié par L 2014-01-09/18 , art. 2, 003; En vigueur : 09-02-2014&gt;

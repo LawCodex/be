@@ -12,7 +12,7 @@ entry_into_force: 1999-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/19/1999000241/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 1999. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles.

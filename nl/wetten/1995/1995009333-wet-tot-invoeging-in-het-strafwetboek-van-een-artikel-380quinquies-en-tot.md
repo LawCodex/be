@@ -12,7 +12,7 @@ entry_into_force: 1995-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/27/1995009333/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1995. - Wet tot invoeging in het Strafwetboek van een artikel 380quinquies en tot opheffing van het artikel 380quater, tweede lid, van hetzelfde Wetboek.

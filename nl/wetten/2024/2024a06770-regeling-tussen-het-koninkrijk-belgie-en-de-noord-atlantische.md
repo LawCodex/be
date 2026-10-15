@@ -11,7 +11,7 @@ published: 2025-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/02/2024A06770/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2024. - Regeling tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de rechtspositie van tijdelijk personeel dat wordt aangeworven door en tewerkgesteld in een orgaan van de NAVO dat op het grondgebied van het Koninkrijk België gevestigd is, gedaan te Brussel op 7 februari 2022

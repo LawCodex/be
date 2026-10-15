@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/12/04/2007012768/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 07-12-2007 en tekstbijwerking tot 30-06-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2007. - Wet betreffende de sociale verkiezingen [...] &lt;W 2011-07-28/13 , art. 2, 003; Inwerkingtreding : 12-09-2011&gt;

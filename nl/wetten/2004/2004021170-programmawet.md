@@ -15,7 +15,7 @@ department: "Kanselarij van de Eerste Minister"
 justel_notes:
   - "art. 419 gewijzigd in de toekomst bij W 2014-05-12/17 , art. 344 ; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 31-12-2004 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2004. - Programmawet.

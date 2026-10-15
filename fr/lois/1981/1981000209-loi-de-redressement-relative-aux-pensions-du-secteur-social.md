@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/02/10/1981000209/justel"
 department: "Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2005 et mise à jour au 16-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1981. - Loi de redressement relative aux pensions du secteur social.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029467/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-10-2014 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française

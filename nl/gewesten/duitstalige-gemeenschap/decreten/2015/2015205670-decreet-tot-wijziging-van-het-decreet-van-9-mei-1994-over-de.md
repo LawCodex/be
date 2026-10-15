@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/23/2015205670/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2015. - Decreet tot wijziging van het decreet van 9 mei 1994 over de logiesverstrekkende inrichtingen en hotelinrichtingen

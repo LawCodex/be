@@ -12,7 +12,7 @@ entry_into_force: 1997-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/1997003182/justel"
 department: "Financiën - Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet betreffende de deelneming van België aan de eerste algemene verhoging van het kapitaal van de Europese Bank voor Wederopbouw en Ontwikkeling.

@@ -13,7 +13,7 @@ entry_into_force: 2018-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/13/2018040509/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2018. - Decreet houdende wijziging van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector en van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid

@@ -11,7 +11,7 @@ date: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029469/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet houdende instemming met het aanhangsel tot wijziging van het samenwerkingsakkoord, gesloten op 20 februari 1995 door de Franse Gemeenschapscommissie, de Franse Gemeenschap en het Waalse Gewest, betreffende de Permanente Vorming van de Middenstand en de kleine en middelgrote ondernemingen en het toezicht op het Instituut voor Permanente Vorming van de Middenstand en de kleine en middelgrote ondernemingen (VERTALING).

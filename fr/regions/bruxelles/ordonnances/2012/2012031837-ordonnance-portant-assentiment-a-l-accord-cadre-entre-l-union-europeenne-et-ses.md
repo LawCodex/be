@@ -13,7 +13,7 @@ entry_into_force: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/11/29/2012031837/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2012. - Ordonnance portant assentiment à : l'Accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, signé à Bruxelles le 10 mai 2010

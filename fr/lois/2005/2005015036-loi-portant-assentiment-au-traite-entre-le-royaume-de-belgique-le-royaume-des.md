@@ -12,7 +12,7 @@ entry_into_force: 2005-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/13/2005015036/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2005. - Loi portant assentiment au Traité entre le Royaume de Belgique, le Royaume des Pays-Bas et le grand-duché de Luxembourg en matière d'intervention policière transfrontalière, et aux Annexes, faits à Luxembourg le 8 juin 2004.

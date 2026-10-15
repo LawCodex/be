@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035622/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet houdende instemming met het Aanvullend Protocol tussen het Koninkrijk België en de Toezichthoudende Autoriteit van de Europese Vrijhandelsassociatie, ondertekend in Brussel op 6 juli 2001.

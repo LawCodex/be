@@ -12,7 +12,7 @@ entry_into_force: 2007-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/08/2007003047/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2007. - Loi domaniale.

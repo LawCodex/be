@@ -12,7 +12,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/16/2026005128/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2026. - Loi modifiant la loi du 4 avril 2014 relative aux assurances en vue d'interdire l'exclusion de la tentative de suicide ou du suicide dans les assurances voyage

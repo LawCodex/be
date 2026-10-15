@@ -12,7 +12,7 @@ entry_into_force: 2009-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/01/2009003145/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2009. - Wet houdende eindregeling van de begrotingen van de instellingen van openbaar nut van het jaar 2001 en sommige voorgaande jaren

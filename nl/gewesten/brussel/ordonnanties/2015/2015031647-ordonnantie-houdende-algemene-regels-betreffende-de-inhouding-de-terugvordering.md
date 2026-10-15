@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/10/08/2015031647/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 13-10-2015 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OKTOBER 2015. - Ordonnantie houdende algemene regels betreffende de inhouding, de terugvordering en de niet-vereffening van subsidies op het vlak van werkgelegenheid en economie

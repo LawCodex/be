@@ -13,7 +13,7 @@ entry_into_force: 2014-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/31/2014201119/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2014. - Décret portant assentiment à la Convention entre le Gouvernement belge et le Gouvernement macédonien tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune et à prévenir la fraude fiscale, signée à Bruxelles le 6 juillet 2010

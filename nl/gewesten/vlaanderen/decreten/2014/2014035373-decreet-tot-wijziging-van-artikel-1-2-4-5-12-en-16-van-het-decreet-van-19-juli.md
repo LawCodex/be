@@ -13,7 +13,7 @@ entry_into_force: 2014-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/14/2014035373/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Decreet tot wijziging van artikel 1, 2, 4, 5, 12 en 16 van het decreet van 19 juli 1973 tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers, alsmede van de door de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen

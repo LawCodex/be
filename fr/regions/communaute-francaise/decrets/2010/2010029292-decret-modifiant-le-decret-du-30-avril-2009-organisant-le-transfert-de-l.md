@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/04/29/2010029292/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2010. - Décret modifiant le décret du 30 avril 2009 organisant le transfert de l'enseignement supérieur de l'architecture à l'université

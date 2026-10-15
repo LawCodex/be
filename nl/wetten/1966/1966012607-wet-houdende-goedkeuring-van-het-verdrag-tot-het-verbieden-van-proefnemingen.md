@@ -12,7 +12,7 @@ entry_into_force: 1966-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/01/26/1966012607/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1966. - Wet houdende goedkeuring van het verdrag tot het verbieden van proefnemingen met kernwapens in de dampkring, in de kosmische ruimte en onder water, opgemaakt op 5 augustus 1963, te Moskou.

@@ -12,7 +12,7 @@ entry_into_force: 2021-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/20/2021031985/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2021. - Wet houdende uitbreiding van het toepassingsgebied van de wet van 24 december 2020 betreffende het verenigingswerk

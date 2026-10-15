@@ -12,7 +12,7 @@ entry_into_force: 2016-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/26/2016003181/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2016. - Wet tot wijziging van artikel 194ter van het Wetboek van de inkomstenbelastingen 1992 betreffende het Tax Shelter stelsel ten gunste van audiovisuele werken

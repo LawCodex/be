@@ -13,7 +13,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/07/2017014321/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Ordonnance portant assentiment à : l'Accord de partenariat sur les relations et la coopération entre l'Union européenne et ses Etats membres, d'une part, et la Nouvelle-Zélande, d'autre part, fait à Bruxelles, le 5 octobre 2016

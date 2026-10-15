@@ -12,7 +12,7 @@ entry_into_force: 2011-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/26/2011003405/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2011. - Loi modifiant la loi du 11 janvier 1993 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux et du financement du terrorisme

@@ -13,7 +13,7 @@ entry_into_force: 2021-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/14/2021021544/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 10 juni 2021 tussen de Franse Gemeenschap en het Waalse Gewest betreffende het gebruik van de vaccinatiestelsels tegen COVID-19 voor personen jonger dan 18 jaar

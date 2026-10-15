@@ -11,7 +11,7 @@ published: 1975-03-08
 entry_into_force: 1975-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/08/14/1974081401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AOUT 1974. - Loi portant approbation de la Convention entre la Belgique et le Maroc, tendant à éviter les doubles impositions et â régler certaines autres questions en matière d'impôts sur le revenu, et du Protocole final, signés à Rabat le 4 mai 1972.

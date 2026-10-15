@@ -12,7 +12,7 @@ entry_into_force: 1983-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/07/01/1983003779/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUILLET 1983. \_ Loi portant confirmation des arrêtés royaux pris en exécution de l'article 2 de la loi du 2 février 1982 attribuant certains pouvoirs spéciaux au Roi.

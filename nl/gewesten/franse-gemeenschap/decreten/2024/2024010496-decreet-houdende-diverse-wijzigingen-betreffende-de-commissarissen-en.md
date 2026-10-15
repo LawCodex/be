@@ -12,7 +12,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/10/24/2024010496/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2024. - Decreet houdende diverse wijzigingen betreffende de Commissarissen en Afgevaardigden bij universiteiten, hogenscholen en hogere kunstscholen

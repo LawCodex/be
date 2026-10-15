@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019041000/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2019 et mise à jour au 23-03-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Loi introduisant le Code du recouvrement amiable et forcé des créances fiscales et non fiscales

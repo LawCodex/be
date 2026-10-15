@@ -12,7 +12,7 @@ entry_into_force: 2022-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/06/16/2022032503/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2022. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van het Gewestelijk Agentschap voor Netheid voor het jaar 2017

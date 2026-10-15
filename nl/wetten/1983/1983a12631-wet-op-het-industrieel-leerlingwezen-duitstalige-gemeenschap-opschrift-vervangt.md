@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/07/19/1983A12631/justel"
 department: "Duitstalige Gemeenschap - Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 18-07-2016 en tekstbijwerking tot 24-08-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1983. - [Wet op het industrieel leerlingwezen] (DUITSTALIGE GEMEENSCHAP) &lt;Opschrift vervangt door DDG 2016-06-20/05 , art. 1 , 002; En vigueur : 2016-09-01&gt;

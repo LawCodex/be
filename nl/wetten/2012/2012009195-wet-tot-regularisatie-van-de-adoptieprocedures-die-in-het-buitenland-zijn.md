@@ -12,7 +12,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/04/11/2012009195/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2012. - Wet tot regularisatie van de adoptieprocedures die in het buitenland zijn gevoerd door personen die hun gewone verblijfplaats in België hebben

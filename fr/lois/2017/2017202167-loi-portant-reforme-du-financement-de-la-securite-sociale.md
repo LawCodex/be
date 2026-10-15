@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/18/2017202167/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 28-04-2017 et mise à jour au 07-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2017. - Loi portant réforme du financement de la sécurité sociale

@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018031809/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 14-09-2018 en tekstbijwerking tot 16-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Wet tot oprichting van lokale integrale veiligheidscellen inzake radicalisme, extremisme en terrorisme

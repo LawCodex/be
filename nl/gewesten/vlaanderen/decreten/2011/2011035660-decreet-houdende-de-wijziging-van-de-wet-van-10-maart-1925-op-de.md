@@ -17,7 +17,7 @@ department: "Vlaamse Overheid"
 justel_notes:
   - "bij arrest nr 135/2012 van 30-10-2012 (B.St. 20-11-2012, p. 68990-68993), heeft het Grondwettelijk Hof de artikelen 38 en 39, vernietigd», in zoverre de daarin opgenomen verplichtingen niet van overeenkomstige toepassing zijn op de transmissienetbeheerder"
   - "Raadpleging van vroegere versies vanaf 16-08-2011 en tekstbijwerking tot 02-04-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2011. - Decreet houdende de wijziging van de wet van 10 maart 1925 op de elektriciteitsvoorziening en het Energiedecreet van 8 mei 2009, wat betreft de omzetting van de Richtlijn 2009/72/EG en de Richtlijn 2009/73/EG

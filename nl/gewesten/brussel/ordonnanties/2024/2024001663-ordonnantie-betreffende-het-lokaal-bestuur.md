@@ -12,7 +12,7 @@ published: 2024-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/22/2024001663/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2024. - Ordonnantie betreffende het lokaal bestuur

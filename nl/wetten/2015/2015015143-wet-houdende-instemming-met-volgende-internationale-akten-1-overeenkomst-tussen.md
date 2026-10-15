@@ -11,7 +11,7 @@ entry_into_force: 2017-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/06/30/2015015143/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2015. - Wet houdende instemming met volgende internationale akten : 1° Overeenkomst tussen het Koninkrijk België en de Republiek der Seychellen tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, gedaan te Brussel op 27 april 2006; 2° Protocol, gedaan te Brussel op 14 juli 2009 tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek der Seychellen tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, gedaan te Brussel op 27 april 2006; en houdende aanpassing van de Belgische belastingwetgeving aan sommige bepalingen van voornoemde internationale akten

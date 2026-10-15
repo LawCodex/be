@@ -13,7 +13,7 @@ entry_into_force: 1994-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/09/1994027594/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1993. - Décret contenant le second feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 1993.

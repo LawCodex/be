@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/04/1995003340/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-05-1995 en tekstbijwerking tot 11-08-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 1995. - Wet houdende [fiscale] en financiële bepalingen. (Erratum, zie B.St. 01-07-1995, p. 18652) -

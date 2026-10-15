@@ -13,7 +13,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/24/2021205673/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2021. - Décret modifiant le Code de la démocratie locale et de la décentralisation en matière de déficit budgétaire, d'aide régionale et d'utilisation des fonds de réserve ordinaires

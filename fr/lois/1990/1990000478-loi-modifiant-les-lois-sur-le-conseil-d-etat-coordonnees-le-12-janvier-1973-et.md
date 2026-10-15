@@ -12,7 +12,7 @@ entry_into_force: 1990-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/10/17/1990000478/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 1990. - Loi modifiant les lois sur le Conseil d'Etat coordonnées le 12 janvier 1973, et la loi du 5 avril 1955 relative aux traitements des titulaires d'une fonction au Conseil d'Etat.

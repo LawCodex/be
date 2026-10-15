@@ -12,7 +12,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/27/2014011219/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Loi portant insertion des dispositions réglant des matières visées à l'article 77 de la Constitution dans le livre XVII " Procédures juridictionnelles particulières" du Code de droit économique et modifiant le Code judiciaire en vue d'attribuer aux cours et tribunaux de Bruxelles une compétence exclusive pour connaître de l'action en réparation collective visée au livre XVII, titre 2, du Code de droit économique

@@ -13,7 +13,7 @@ entry_into_force: 2000-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/02/2000029103/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2000. - Decreet tot wijziging van de wet van 21 juni 1985 betreffende het onderwijs en van het decreet van 14 juli 1997 houdende diverse maatregelen inzake het universitair onderwijs (VERTALING).

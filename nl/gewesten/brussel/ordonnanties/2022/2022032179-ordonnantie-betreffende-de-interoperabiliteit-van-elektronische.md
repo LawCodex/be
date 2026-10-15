@@ -13,7 +13,7 @@ entry_into_force: 2022-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/05/19/2022032179/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2022. - Ordonnantie betreffende de interoperabiliteit van elektronische tolfheffingssystemen voor het wegverkeer

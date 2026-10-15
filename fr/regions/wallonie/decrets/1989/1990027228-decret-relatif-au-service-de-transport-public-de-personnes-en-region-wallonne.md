@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1989/12/21/1990027228/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 21-11-1991 et mise à jour au 28-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1989. - Décret relatif au service de transport public de personnes en Région wallonne.

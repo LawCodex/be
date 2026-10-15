@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/27/2007035858/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2007 en tekstbijwerking tot 02-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - Decreet houdende vaststelling van het wapen en de vlag van de provincies, gemeenten en districten en de Vlaamse Gemeenschapscommissie

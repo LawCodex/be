@@ -12,7 +12,7 @@ last_amended: 2010-11-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1933/08/14/1933081450/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-2002 en tekstbijwerking tot 18-11-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AUGUSTUS 1933. - Wet betreffende de bescherming van drinkwaters. -

@@ -12,7 +12,7 @@ entry_into_force: 2022-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/05/2022032064/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Loi concernant la modification de la loi du 19 avril 2002 relative à la rationalisation du fonctionnement et de la gestion de la Loterie nationale

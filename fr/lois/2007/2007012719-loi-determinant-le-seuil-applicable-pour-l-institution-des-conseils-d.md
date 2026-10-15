@@ -12,7 +12,7 @@ entry_into_force: 2007-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/11/08/2007012719/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2007. - Loi déterminant le seuil applicable pour l'institution des conseils d'entreprise ou le renouvellement de leurs membres à l'occasion des élections sociales de l'année 2008

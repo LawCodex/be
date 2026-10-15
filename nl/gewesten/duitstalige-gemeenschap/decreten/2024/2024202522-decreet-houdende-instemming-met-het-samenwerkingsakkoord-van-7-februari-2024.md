@@ -13,7 +13,7 @@ entry_into_force: 2024-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/22/2024202522/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2024. - Decreet houdende instemming met het Samenwerkingsakkoord van 7 februari 2024 tot wijziging van het Samenwerkingsakkoord van 19 maart 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de bevoegdheden van de gemeenschappen en van de federale staat inzake het taxshelterstelsel voor audiovisuele werken en podiumwerken en tot informatie-uitwisseling

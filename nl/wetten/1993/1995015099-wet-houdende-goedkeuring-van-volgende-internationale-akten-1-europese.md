@@ -11,7 +11,7 @@ entry_into_force: 1995-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/03/18/1995015099/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1993. - Wet houdende goedkeuring van volgende internationale akten : 1. Europese Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Hongarije, anderzijds en Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII en XIII, Protocollen 1, 2, 3, 4, 5, 6 en 7, en Slotakte met veertien Gemeenschappelijke verklaringen, twee Akkoorden onder de vorm van wisseling van brieven en twee Briefwisselingen, twee Verklaringen van de Gemeenschap, vier Verklaringen van Hongarije en Brief van de Regering van Hongarije, gedaan te Brussel op 16 december 1991; 2. Europese Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Polen, anderzijds en Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII en XIII, Protocollen 1, 2, 3, 4, 5, 6 en 7 en Slotakte met vijftien Gemeenschappelijke verklaringen, twee Akkoorden onder de vorm van wisseling van brieven, twee Verklaringen van de Gemeenschap drie Verklaringen van Polen en Brief van de Regering van Polen, gedaan te Brussel op 16 december 1991.

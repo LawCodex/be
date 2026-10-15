@@ -13,7 +13,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/06/2002036612/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2002. - Décret portant assentiment : 1. à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Bolivie concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 25 avril 1990; 2. à l'Accord entre l'Union économique belgo-luxembourgeoise et la République du Paraguay concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 6 octobre 1992; 3. à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République du Venezuela concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 17 mars 1998; 4. à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République fédérative du Brésil concernant l'encouragement et la protection réciproques des investissements, fait à Brasilia le 6 janvier 1999 (TRADUCTION).

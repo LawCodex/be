@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/12/19/2003009950/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-12-2003 en tekstbijwerking tot 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2003. - Wet betreffende het Europees aanhoudingsbevel

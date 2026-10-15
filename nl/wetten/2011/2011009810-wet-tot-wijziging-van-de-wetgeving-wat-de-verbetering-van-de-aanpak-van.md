@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/30/2011009810/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 20-01-2012 en tekstbijwerking tot 30-12-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2011. - Wet tot wijziging van de wetgeving wat de verbetering van de aanpak van seksueel misbruik en feiten van pedofilie binnen een gezagsrelatie betreft

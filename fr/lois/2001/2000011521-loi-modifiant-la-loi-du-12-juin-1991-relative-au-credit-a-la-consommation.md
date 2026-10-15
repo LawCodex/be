@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/01/07/2000011521/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 25-01-2001 et mise à jour au 02-05-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2001. - Loi modifiant la loi du 12 juin 1991 relative au crédit à la consommation.

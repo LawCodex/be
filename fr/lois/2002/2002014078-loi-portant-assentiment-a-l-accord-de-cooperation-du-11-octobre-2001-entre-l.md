@@ -12,7 +12,7 @@ entry_into_force: 2002-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/22/2002014078/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2002. - Loi portant assentiment à l'accord de coopération du 11 octobre 2001 entre l'Etat fédéral, les Régions flamande, wallonne et de Bruxelles-Capitale relatif au plan d'investissement pluriannuel 2001-2012 de la S.N.C.B.

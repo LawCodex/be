@@ -12,7 +12,7 @@ entry_into_force: 2004-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/02/2004000184/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2004. - Loi spéciale portant diverses modifications en matière de législation électorale.

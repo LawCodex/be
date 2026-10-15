@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/13/2003000003/justel"
 department: "Binnenlandse Zaken"
 justel_note: "raadpleging van vroegere versies vanaf 10-01-2003 en tekstbijwerking tot 06-06-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2002. - Wet tot wijziging van het Kieswetboek evenals zijn bijlage.

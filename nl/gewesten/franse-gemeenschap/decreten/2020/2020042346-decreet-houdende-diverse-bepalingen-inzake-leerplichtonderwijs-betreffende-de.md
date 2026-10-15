@@ -12,7 +12,7 @@ published: 2020-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/09/2020042346/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2020. - Decreet houdende diverse bepalingen inzake leerplichtonderwijs betreffende de verlaging tot vijf jaar van de leeftijd voor het begin van de leerplicht

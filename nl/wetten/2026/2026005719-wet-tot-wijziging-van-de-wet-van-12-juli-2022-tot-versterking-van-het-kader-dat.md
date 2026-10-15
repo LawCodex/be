@@ -12,7 +12,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/15/2026005719/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2026. - Wet tot wijziging van de wet van 12 juli 2022 tot versterking van het kader dat van toepassing is op de voorzieningen aangelegd voor de ontmanteling van de kerncentrales, voor het beheer van verbruikte splijtstof en voor het beheer van operationeel afval en tot gedeeltelijke opheffing en wijziging van de wet van 11 april 2003 betreffende de voorzieningen aangelegd voor de ontmanteling van de kerncentrales en voor het beheer van splijtstoffen bestraald in deze kerncentrales

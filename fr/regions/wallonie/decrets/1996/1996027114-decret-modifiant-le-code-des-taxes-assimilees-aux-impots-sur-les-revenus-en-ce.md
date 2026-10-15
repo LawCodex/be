@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/06/1996027114/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 1996. - Décret modifiant le Code des taxes assimilées aux impôts sur les revenus en ce qui concerne les jeux et paris.

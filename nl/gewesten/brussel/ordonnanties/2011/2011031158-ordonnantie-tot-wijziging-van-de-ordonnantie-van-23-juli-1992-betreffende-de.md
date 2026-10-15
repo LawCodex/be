@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/03/17/2011031158/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2011. - Ordonnantie tot wijziging van de ordonnantie van 23 juli 1992 betreffende de gewestbelasting ten laste van bezetters van bebouwde eigendommen en houders van een zakelijk recht op sommige onroerende goederen

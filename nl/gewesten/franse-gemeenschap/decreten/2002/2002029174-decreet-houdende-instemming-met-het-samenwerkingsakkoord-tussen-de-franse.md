@@ -13,7 +13,7 @@ entry_into_force: 2002-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/27/2002029174/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschapsregering van België en de Waalse Gewestregering, enerzijds, en de Regering van de Republiek Slowakije, anderzijds, en met de bijlagen I en II opgemaakt te Bratislava op 30 maart 2001 (VERTALING).

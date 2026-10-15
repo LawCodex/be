@@ -12,7 +12,7 @@ entry_into_force: 2014-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/03/2014015119/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2014. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek der Filipijnen inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel

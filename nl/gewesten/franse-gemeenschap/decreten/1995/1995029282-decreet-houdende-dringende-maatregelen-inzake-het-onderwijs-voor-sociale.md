@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029282/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-1995 en tekstbijwerking tot 06-04-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet houdende dringende maatregelen inzake het onderwijs voor sociale promotie. (VERTALING). -

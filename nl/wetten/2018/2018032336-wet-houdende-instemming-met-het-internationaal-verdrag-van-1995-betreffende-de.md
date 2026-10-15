@@ -12,7 +12,7 @@ entry_into_force: 2019-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/02/10/2018032336/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2018. - Wet houdende instemming met het Internationaal verdrag van 1995 betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen, gedaan te Londen op 7 juli 1995

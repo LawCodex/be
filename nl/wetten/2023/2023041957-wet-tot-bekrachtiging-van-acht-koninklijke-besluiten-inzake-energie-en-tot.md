@@ -12,7 +12,7 @@ entry_into_force: 2023-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023041957/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet tot bekrachtiging van acht koninklijke besluiten inzake energie en tot wijziging van het koninklijk besluit van 26 oktober 2022 tot instelling van een mechanisme van staatswaarborg voor bepaalde kredieten afgesloten door leveranciers en tussenpersonen van aardgas en elektriciteit ten gevolge van de energiecrisis

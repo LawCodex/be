@@ -13,7 +13,7 @@ last_amended: 2018-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/04/01/1971040101/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2002 et mise à jour au 31-05-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1971. - Loi portant création d'une Régie des Bâtiments.

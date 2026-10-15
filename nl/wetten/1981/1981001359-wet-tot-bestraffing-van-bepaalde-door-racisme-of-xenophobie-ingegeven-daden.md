@@ -16,7 +16,7 @@ department: "Justitie"
 justel_notes:
   - "De oude artikelen 1 tot en met 6 zijn opgeheven bij <W 2007-05-10/38 , art. 2, 006; Inwerkingtreding : 09-06-2007> en nieuwe artikelen 1 tot en met 34 zijn ingevoegd bij <W 2007-05-10/38 , art. 3, 006; Inwerkingtreding : 09-06-2007>"
   - "Raadpleging van vroegere versies vanaf 19-02-1993 en tekstbijwerking tot 13-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1981. - Wet tot bestraffing van bepaalde door racisme of xenophobie ingegeven daden.

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014202433/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Décret visant à modifier l'article L1122-6 du Code de la démocratie locale et de la décentralisation afin d'élargir les hypothèses d'un congé pour empêchement pour un conseiller communal

@@ -11,7 +11,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/08/16/2016000536/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AUGUSTUS 2016. - Wet tot wijziging van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, met het oog op de bekendmaking van de adviezen van de afdeling wetgeving

@@ -11,7 +11,7 @@ published: 1946-07-04
 entry_into_force: 1946-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1946/06/29/1946062902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 1946. - Arrêté-Loi concernant l'intervention injustifiée d'intermédiaires dans la distribution des produits, matières, etc., et modifiant l'arrêté-loi du 22 janvier 1945 concernant la répression des infractions à la réglementation relative à l'approvisionnement du pays

@@ -13,7 +13,7 @@ entry_into_force: 2012-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/09/2012201031/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2012. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de opvoeding inzake milieu, natuur en duurzame ontwikkeling

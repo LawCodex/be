@@ -13,7 +13,7 @@ entry_into_force: 2011-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/18/2011035276/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2011. - Decreet tot wijziging van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten

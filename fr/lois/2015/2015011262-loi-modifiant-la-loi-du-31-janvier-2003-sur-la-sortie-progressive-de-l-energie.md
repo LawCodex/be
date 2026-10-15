@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/06/28/2015011262/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "par son arrêt n° 34/2020 du 5 mars 2020 (pas encore publié au moniteur belge) la Cour constitutionnelle annule la loi et maintient les effets de la loi annulée jusquà ladoption, par le législateur, dune nouvelle loi précédée dune évaluation de ses incidences sur lenvironnement et dune évaluation appropriée requises, comprenant une participation du public et une consultation transfrontalière, et au plus tard jusquau 31 décembre 2022 inclus."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2015. - Loi modifiant la loi du 31 janvier 2003 sur la sortie progressive de l'énergie nucléaire à des fins de production industrielle d'électricité afin de garantir la sécurité d'approvisionnement sur le plan énergétique

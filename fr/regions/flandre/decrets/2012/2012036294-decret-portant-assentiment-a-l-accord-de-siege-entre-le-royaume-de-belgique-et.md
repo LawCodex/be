@@ -13,7 +13,7 @@ entry_into_force: 2013-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/30/2012036294/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2012. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et la Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge, signé à Bruxelles le 29 juin 2012 et à Genève le 9 juillet 2012

@@ -11,7 +11,7 @@ published: 1961-02-03
 entry_into_force: 1960-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/05/12/1960051201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 1960. \_ Loi portant approbation de l'Accord entre la Belgique et le Grand-Duché de Luxembourg, sur la sécurité sociale des employés coloniaux, signé à Bruxelles, le 10 juin 1958.

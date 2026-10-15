@@ -13,7 +13,7 @@ entry_into_force: 2020-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/02/2020042078/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2020. - Ordonnantie houdende instemming met het Verdrag van de Raad van Europa ter voorkoming van terrorisme, gedaan te Warschau op 16 mei 2005

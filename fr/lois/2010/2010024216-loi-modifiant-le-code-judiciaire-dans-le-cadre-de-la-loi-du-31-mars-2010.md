@@ -12,7 +12,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010024216/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2010. - Loi modifiant le Code judiciaire dans le cadre de la loi du 31 mars 2010 relative à l'indemnisation des dommages résultant de soins de santé

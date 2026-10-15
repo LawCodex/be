@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/23/2023048688/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-01-2024 et mise à jour au 18-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Décret sur la politique de la jeunesse et des droits de l'enfant et le soutien de l'animation des jeunes

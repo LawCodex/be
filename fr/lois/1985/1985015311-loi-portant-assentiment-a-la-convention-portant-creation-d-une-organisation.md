@@ -12,7 +12,7 @@ entry_into_force: 1985-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/09/02/1985015311/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 1985. - Loi portant assentiment à la Convention portant création d'une organisation européenne pour l'exploitation de satellites météorologiques (EUMETSAT) et des Annexes, faites à Genève le 24 mai 1983.

@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2025009846/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret modifiant le décret du 19 avril 2024 relatif à l'opérationnalisation d'un Régulateur flamand des services d'utilité publique et le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018, en ce qui concerne les tâches en matière d'eau

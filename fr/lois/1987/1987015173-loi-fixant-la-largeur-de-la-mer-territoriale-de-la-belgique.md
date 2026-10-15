@@ -12,7 +12,7 @@ entry_into_force: 1987-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/10/06/1987015173/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 1987. - Loi fixant la largeur de la mer territoriale de la Belgique.

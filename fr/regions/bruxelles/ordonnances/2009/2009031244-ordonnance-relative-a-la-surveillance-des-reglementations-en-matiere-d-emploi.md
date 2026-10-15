@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/04/30/2009031244/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2009 et mise à jour au 29-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Ordonnance relative à la surveillance des réglementations en matière d'emploi qui relèvent de la compétence de la Région de Bruxelles-Capitale et à l'instauration d'amendes administratives applicables en cas d'infraction à ces réglementations

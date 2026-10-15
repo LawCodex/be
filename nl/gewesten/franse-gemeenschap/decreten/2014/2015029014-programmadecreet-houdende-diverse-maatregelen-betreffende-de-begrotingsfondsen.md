@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/18/2015029014/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2014. - Programmadecreet houdende diverse maatregelen betreffende de begrotingsfondsen opgenomen in de algemene uitgavenbegroting van de Franse Gemeenschap, de dotaties en subsidies toegekend aan sommige instellingen met een beheersovereenkomst, het leerplichtonderwijs en het onderwijs voor sociale promotie, de Infrastructuren, het Kleine Kind, de Cultuur, de Jeugd, de voorwaarden voor de toekenning van de gelijkwaardigheid van diploma's en studiegetuigschriften uit het buitenland, de "Académie de Recherche et d'Enseignement supérieur (ARES)", de financiering van het universitair hoger onderwijs en het Onderzoek

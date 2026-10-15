@@ -12,7 +12,7 @@ entry_into_force: 2001-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/31/2000015109/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 1999. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Regering van de Republiek Kazachstan, anderzijds, inzake de bevordering en bescherming van investeringen, ondertekend te Almaty op 16 april 1998.

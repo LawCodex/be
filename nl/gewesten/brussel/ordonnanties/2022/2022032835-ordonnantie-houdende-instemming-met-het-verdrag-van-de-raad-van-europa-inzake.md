@@ -11,7 +11,7 @@ date: 2022-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/20/2022032835/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Ordonnantie houdende instemming met het Verdrag van de Raad van Europa inzake de toegang tot officiële documenten, opgemaakt in Tromso op 18 juni 2009

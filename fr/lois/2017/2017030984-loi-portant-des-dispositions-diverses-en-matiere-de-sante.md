@@ -12,7 +12,7 @@ entry_into_force: 2017-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/08/11/2017030984/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AOUT 2017. - Loi portant des dispositions diverses en matière de santé

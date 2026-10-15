@@ -12,7 +12,7 @@ published: 2001-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/05/28/2001033059/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2001. - Décret portant le premier ajustement du budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2001 (TRADUCTION).

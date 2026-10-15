@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/20/2005003649/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2005. - Loi portant modification de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit, de la loi du 6 avril 1995 relative au statut des entreprises d'investissement et à leur contrôle, aux intermédiaires et conseillers en placements et de la loi du 20 juillet 2004 relative à certaines formes de gestion collective de portefeuilles d'investissement, et portant d'autres dispositions diverses.

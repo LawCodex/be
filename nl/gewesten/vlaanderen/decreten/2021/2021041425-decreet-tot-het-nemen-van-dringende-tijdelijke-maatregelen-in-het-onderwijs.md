@@ -12,7 +12,7 @@ published: 2021-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/04/30/2021041425/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2021. - Decreet tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (VII)

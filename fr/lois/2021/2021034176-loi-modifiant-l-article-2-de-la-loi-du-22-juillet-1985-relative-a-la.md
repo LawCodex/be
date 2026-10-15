@@ -12,7 +12,7 @@ entry_into_force: 2021-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/07/2021034176/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2021. - Loi modifiant l'article 2 de la loi du 22 juillet 1985 relative à la responsabilité civile dans le domaine de l'énergie nucléaire

@@ -12,7 +12,7 @@ published: 2012-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/07/23/2012031651/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2012. - Ordonnantie houdende instemming met : het Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA), gedaan te Bonn op 26 januari 2009

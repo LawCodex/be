@@ -13,7 +13,7 @@ entry_into_force: 2022-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/05/2022032065/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2022. - Decreet houdende instemming met het samenwerkingsakkoord gesloten op 10 maart 2022 tussen de Franse Gemeenschapscommissie, en het Waalse Gewest tot oprichting van FORMAFORM, multipartnercentrum voor de ontwikkeling van de competenties van beroepsbeoefenaars op het gebied van oriëntatie, opleiding, sociaal-professionele inschakeling en validatie van competenties

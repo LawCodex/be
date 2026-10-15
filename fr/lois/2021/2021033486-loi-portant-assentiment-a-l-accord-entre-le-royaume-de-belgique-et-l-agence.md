@@ -12,7 +12,7 @@ entry_into_force: 2022-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/10/12/2021033486/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2021. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et l'Agence spatiale européenne concernant le centre de l'Agence spatiale européenne à Redu, fait à Bruxelles le 24 mai 2017

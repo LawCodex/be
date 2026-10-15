@@ -12,7 +12,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/01/30/1991009927/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 1991. - Loi modifiant la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce de munitions.

@@ -13,7 +13,7 @@ entry_into_force: 2012-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/20/2012029131/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2011. - Décret portant assentiment à l'Accord de coopération entre la Communauté française, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'Education, à l'Environnement, à la Nature et au Développement durable

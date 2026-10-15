@@ -12,7 +12,7 @@ entry_into_force: 2004-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/25/2004022967/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2004. - Wet tot wijziging van artikel 191, eerste lid, 15°quater, § 2, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994.

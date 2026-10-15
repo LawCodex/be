@@ -13,7 +13,7 @@ entry_into_force: 2008-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/03/2008202493/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2008. - Décret visant à évacuer le risque lié à la présence concentrée de monoxyde de carbone.

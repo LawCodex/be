@@ -12,7 +12,7 @@ entry_into_force: 2010-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/02/2010009383/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2010. - Wet tot wijziging van de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van gedetineerden

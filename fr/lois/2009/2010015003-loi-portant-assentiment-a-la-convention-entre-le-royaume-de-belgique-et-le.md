@@ -12,7 +12,7 @@ entry_into_force: 2010-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/30/2010015003/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 2009. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas sur la mise à disposition d'un établissement pénitentiaire aux Pays-Bas en vue de l'exécution de peines privatives de liberté infligées en vertu de condamnations belges, faite à Tilburg (Pays-Bas) le 31 octobre 2009

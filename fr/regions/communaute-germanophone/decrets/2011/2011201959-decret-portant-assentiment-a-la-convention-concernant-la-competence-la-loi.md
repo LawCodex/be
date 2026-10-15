@@ -13,7 +13,7 @@ entry_into_force: 2011-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/28/2011201959/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2011. - Décret portant assentiment à la Convention concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, conclue à La Haye le 19 octobre 1996

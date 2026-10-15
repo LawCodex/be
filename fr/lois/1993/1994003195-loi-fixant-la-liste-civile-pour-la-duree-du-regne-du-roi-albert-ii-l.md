@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/11/16/1994003195/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2008 et mise à jour au 30-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 1993. - Loi fixant la Liste Civile pour la durée du règne du Roi Albert II, l'attribution d'une dotation annuelle et viagère à Sa Majesté la Reine Fabiola et l'attribution d'une dotation annuelle à Son Altesse Royale le Prince Philippe.

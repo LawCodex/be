@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/01/02/1991003038/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 21-09-1991 et mise à jour au 15-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JANVIER 1991. - Loi relative au marché des titres de la dette publique et aux instruments de la politique monétaire

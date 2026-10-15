@@ -11,7 +11,7 @@ date: 2023-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/06/2023043999/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2023. - Decreet tot wijziging van het decreet van 28 maart 2019 betreffende het nieuwe beheerskader inzake cultuur

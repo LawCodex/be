@@ -11,7 +11,7 @@ published: 2023-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/10/16/2023046173/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2023. - Wet houdende diverse bepalingen inzake sociale zaken

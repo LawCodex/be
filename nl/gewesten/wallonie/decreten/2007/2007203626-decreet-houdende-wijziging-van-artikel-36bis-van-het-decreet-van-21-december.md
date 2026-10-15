@@ -13,7 +13,7 @@ entry_into_force: 2008-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/06/2007203626/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2007. - Decreet houdende wijziging van artikel 36bis van het decreet van 21 december 1989 betreffende de diensten voor het openbaar personenvervoer in het Waalse Gewest en tot invoeging van de artikelen 36ter en 36quater (VERTALING)

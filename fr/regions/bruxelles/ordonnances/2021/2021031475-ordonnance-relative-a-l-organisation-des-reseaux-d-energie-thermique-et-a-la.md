@@ -13,7 +13,7 @@ entry_into_force: 2021-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/05/06/2021031475/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2021. - Ordonnance relative à l'organisation des réseaux d'énergie thermique et à la comptabilisation de l'énergie thermique en Région de Bruxelles-Capitale

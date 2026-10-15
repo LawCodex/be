@@ -11,7 +11,7 @@ published: 1946-05-16
 entry_into_force: 1946-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1946/05/14/1946051402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 1946. - ARRETE-LOI renforcant le contrôle des prix.

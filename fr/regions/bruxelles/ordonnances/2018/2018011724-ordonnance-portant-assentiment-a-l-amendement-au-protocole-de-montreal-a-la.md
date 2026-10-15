@@ -13,7 +13,7 @@ entry_into_force: 2018-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/04/19/2018011724/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Ordonnance portant assentiment à l'Amendement au Protocole de Montréal à la Convention de Vienne sur la protection de la couche d'ozone, relatif à des substances qui appauvrissent la couche d'ozone, adopté à Kigali le 15 octobre 2016

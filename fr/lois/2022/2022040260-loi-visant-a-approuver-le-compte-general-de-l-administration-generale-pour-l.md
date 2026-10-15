@@ -12,7 +12,7 @@ entry_into_force: 2022-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/06/2022040260/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2022. - Loi visant à approuver le compte général de l'Administration générale pour l'année 2020

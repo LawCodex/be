@@ -10,7 +10,7 @@ date: 1997-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/17/1997009532/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1997. - Wet tot wijziging van de artikelen 30 en 34 van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen, inzake de hulp aan de slachtoffers van opzettelijke gewelddaden.

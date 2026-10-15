@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/21/1999003258/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1999. - Wet tot wijziging van artikel 104 van het Wetboek van de inkomstenbelastingen 1992 teneinde de giften in geld aan erkende dierenasielen fiscaal aftrekbaar te maken.

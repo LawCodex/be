@@ -12,7 +12,7 @@ entry_into_force: 2012-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/30/2012014269/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2012. - Loi réglant des matières visées à l'article 77 de la Constitution en matière de responsabilité des transporteurs de passagers par mer en cas d'accident

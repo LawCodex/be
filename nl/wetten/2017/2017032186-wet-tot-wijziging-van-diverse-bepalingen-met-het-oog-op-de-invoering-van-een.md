@@ -12,7 +12,7 @@ entry_into_force: 2018-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/21/2017032186/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2017. - Wet tot wijziging van diverse bepalingen met het oog op de invoering van een beveiligingsperiode en tot wijziging van de wet van 20 juli 1990 betreffende de voorlopige hechtenis voor wat de onmiddellijke aanhouding betreft

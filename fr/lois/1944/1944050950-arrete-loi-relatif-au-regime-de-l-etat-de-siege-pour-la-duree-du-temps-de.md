@@ -11,7 +11,7 @@ published: 1944-09-02
 entry_into_force: 1944-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1944/05/09/1944050950/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 1944. - ARRETE-LOI relatif au régime de l'état de siège pour la durée du temps de guerre actuel.

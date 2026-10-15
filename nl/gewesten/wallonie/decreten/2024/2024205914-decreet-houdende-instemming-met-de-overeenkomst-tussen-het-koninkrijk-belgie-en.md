@@ -13,7 +13,7 @@ entry_into_force: 2024-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/11/07/2024205914/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2024. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, gedaan te Brussel op 10 november 2023

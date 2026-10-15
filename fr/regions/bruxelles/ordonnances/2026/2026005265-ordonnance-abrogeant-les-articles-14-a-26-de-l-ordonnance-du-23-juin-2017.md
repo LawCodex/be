@@ -13,7 +13,7 @@ entry_into_force: 2026-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/07/09/2026005265/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2026. - Ordonnance abrogeant les articles 14 à 26 de l'ordonnance du 23 juin 2017 relative aux aides à l'emploi accessibles en Région de Bruxelles-Capitale et les articles 3 à 17 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 14 septembre 2017 relatif aux mesures d'activation des demandeurs d'emploi

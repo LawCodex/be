@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/17/1998029396/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 05-11-1998 et mise à jour au 25-01-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1998. - Décret-programme portant diverses mesures concernant la gestion budgétaire, les fonds budgétaires, les bâtiments scolaires, l'enseignement et la promotion de la santé.

@@ -12,7 +12,7 @@ entry_into_force: 1994-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/27/1994021218/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1994. - Loi spéciale modifiant la loi spéciale du 6 janvier 1989 sur la Cour d'arbitrage.

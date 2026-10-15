@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/28/1999003141/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1999. - Wet tot wijziging van de wet van 28 december 1983 betreffende het verstrekken van sterke drank en betreffende het vergunningsrecht met het oog op de instelling van een college van arbiters.

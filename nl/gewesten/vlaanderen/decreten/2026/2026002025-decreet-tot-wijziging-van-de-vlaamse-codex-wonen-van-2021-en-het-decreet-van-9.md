@@ -13,7 +13,7 @@ entry_into_force: 2026-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/27/2026002025/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2026. - Decreet tot wijziging van de Vlaamse Codex Wonen van 2021 en het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen

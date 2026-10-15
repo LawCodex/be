@@ -13,7 +13,7 @@ entry_into_force: 2019-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2018015440/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2018. - Décret portant assentiment à l'accord entre le Royaume de Belgique et les Iles Cook en vue de l'échange de renseignements en matière fiscale, signé à Bruxelles le 21 août 2015 et à Rarotonga le 8 septembre 2015

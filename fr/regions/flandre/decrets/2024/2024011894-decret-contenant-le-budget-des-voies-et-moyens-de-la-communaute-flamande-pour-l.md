@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/20/2024011894/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2024 et mise à jour au 24-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Décret contenant le budget des voies et moyens de la Communauté flamande pour l'année budgétaire 2025

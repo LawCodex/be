@@ -13,7 +13,7 @@ entry_into_force: 2010-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/22/2010204226/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2010. - Décret modifiant le Code des taxes assimilées aux impôts sur les revenus

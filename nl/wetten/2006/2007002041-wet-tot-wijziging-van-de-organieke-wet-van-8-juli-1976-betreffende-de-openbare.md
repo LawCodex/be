@@ -12,7 +12,7 @@ entry_into_force: 2007-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/10/26/2007002041/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2006. - Wet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn wat betreft bejaarde hulpgenieters die hun patrimonium verminderen.

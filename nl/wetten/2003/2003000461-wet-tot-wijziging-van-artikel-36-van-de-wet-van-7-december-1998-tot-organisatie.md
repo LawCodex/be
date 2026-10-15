@@ -12,7 +12,7 @@ entry_into_force: 2003-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/10/2003000461/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Wet tot wijziging van artikel 36 van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus.

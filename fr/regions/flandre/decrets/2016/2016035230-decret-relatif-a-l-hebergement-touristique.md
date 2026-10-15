@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/02/05/2016035230/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-03-2016 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2016. - Décret relatif à l'hébergement touristique

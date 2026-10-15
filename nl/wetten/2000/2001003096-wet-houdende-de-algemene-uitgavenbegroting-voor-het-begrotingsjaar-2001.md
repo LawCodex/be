@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/22/2001003096/justel"
 department: "Financiën"
 justel_note: "raadpleging van vroegere versies vanaf 22-03-2001 en tekstbijwerking tot 14-05-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2000. - Wet houdende de algemene uitgavenbegroting voor het begrotingsjaar 2001.

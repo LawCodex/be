@@ -12,7 +12,7 @@ entry_into_force: 2017-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/19/2017013433/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2017. - Loi relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces en ce qui concerne certaines procédures de recours accélérées auprès du Conseil d'Etat

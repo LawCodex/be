@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/02/21/1986011034/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 21-03-2024 et mise à jour au 21-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 1986. - Loi sanctionnant les infractions aux règlements de la Communauté économique européenne en matière de marché viti-vinicole

@@ -12,7 +12,7 @@ published: 2019-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013574/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet tot uitvoering van het protocol van sectoraal akkoord 2017-2018 tussen de Regering van de Franse Gemeenschap en de vakverenigingen en de vertegenwoordigings- en coördinatieorganen van de inrichtende machten

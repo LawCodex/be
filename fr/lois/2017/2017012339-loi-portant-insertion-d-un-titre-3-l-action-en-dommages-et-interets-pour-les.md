@@ -12,7 +12,7 @@ entry_into_force: 2017-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/06/2017012339/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2017. - Loi portant insertion d'un Titre 3 " L'action en dommages et intérêts pour les infractions au droit de la concurrence " dans le Livre XVII du Code de droit économique, portant insertion des définitions propres au Livre XVII, Titre 3 dans le Livre Ier et portant diverses modifications au Code de droit économique

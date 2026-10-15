@@ -12,7 +12,7 @@ published: 2026-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/16/2026006289/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2026. - Decreet tot invoeging van een Boek VI in het Eerste Deel van het Wetboek van de Plaatselijke Democratie en Decentralisatie tot organisatie van de deelname van de diensten, organisaties en structuren die onder de bevoegdheden of het toezicht van het Waalse Gewest vallen aan de lokale integrale veiligheidscellen inzake radicalisme, extremisme en terrorisme

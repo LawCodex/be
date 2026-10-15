@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/07/1999012230/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 20-04-1999 et mise à jour au 30-03-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1999. - Loi relative au contrat de travail ALE.

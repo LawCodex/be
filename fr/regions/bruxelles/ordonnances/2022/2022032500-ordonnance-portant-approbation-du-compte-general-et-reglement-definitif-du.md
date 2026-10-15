@@ -13,7 +13,7 @@ entry_into_force: 2022-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/06/16/2022032500/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2022. - Ordonnance portant approbation du compte général et règlement définitif du budget de l'Agence régionale pour la Propreté pour l'année 2020

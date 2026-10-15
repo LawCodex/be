@@ -13,7 +13,7 @@ entry_into_force: 2017-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/09/2017014082/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2017. - Décret spécial modifiant l'article 32, § 1er, alinéa 1er de la Loi spéciale du 8 août 1980 de réformes institutionnelles, afin d'avancer la rentrée du Parlement de la Communauté française

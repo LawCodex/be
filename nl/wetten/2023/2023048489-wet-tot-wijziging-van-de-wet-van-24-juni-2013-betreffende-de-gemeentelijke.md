@@ -12,7 +12,7 @@ entry_into_force: 2024-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/11/2023048489/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2023. - Wet tot wijziging van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties, van de Nieuwe Gemeentewet en van de wet van 15 mei 2007 tot instelling van de functie van gemeenschapswacht, tot instelling van de dienst gemeenschapswachten en tot wijziging van artikel 119bis van de Nieuwe Gemeentewet

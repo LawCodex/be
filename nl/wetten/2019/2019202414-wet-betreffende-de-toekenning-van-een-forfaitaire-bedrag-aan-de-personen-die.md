@@ -12,7 +12,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/05/2019202414/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2019. - Wet betreffende de toekenning van een forfaitaire bedrag aan de personen die lijden aan aangeboren misvormingen die het gevolg zijn van het innemen van geneesmiddelen met thalidomide door de moeder tijdens de zwangerschap

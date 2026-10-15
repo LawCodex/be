@@ -12,7 +12,7 @@ last_amended: 1997-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/01/1971070103/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 26-02-1997 en tekstbijwerking tot 26-02-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 1971. - Wet houdende oprichting van de Regie voor maritiem transport. (R.M.T.)

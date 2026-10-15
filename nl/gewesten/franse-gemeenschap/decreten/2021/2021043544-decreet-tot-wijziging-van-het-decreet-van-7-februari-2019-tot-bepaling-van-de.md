@@ -12,7 +12,7 @@ published: 2022-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/02/2021043544/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Decreet tot wijziging van het decreet van 7 februari 2019 tot bepaling van de initiële opleiding van de leerkrachten

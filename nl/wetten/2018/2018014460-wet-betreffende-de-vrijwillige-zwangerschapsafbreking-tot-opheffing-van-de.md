@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/15/2018014460/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-10-2018 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2018. - Wet betreffende de vrijwillige zwangerschapsafbreking, tot opheffing van de artikelen 350 en 351 van het Strafwetboek, tot wijziging van de artikelen 352 en 383 van hetzelfde Wetboek en tot wijziging van diverse wetsbepalingen

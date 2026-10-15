@@ -13,7 +13,7 @@ entry_into_force: 2021-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/20/2021204540/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2021. - Décret portant assentiment à la convention du Conseil de l'Europe sur la coproduction cinématographique (révisée), faite à Rotterdam le 30 janvier 2017

@@ -13,7 +13,7 @@ entry_into_force: 2022-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/25/2022020564/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2022. - Decreet tot wijziging van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens, het decreet van 22 december 2017 over het lokaal bestuur en het decreet van 3 mei 2019 houdende de havenkapiteinsdienst

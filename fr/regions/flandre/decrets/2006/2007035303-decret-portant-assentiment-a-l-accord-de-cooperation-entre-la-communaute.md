@@ -13,7 +13,7 @@ entry_into_force: 2007-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2007035303/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret portant assentiment à l'accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, visant à lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, et à l'acte final, signés à Luxembourg le 26 octobre 2004 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 1988-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/07/13/1988029603/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1988. - Décret portant création de la Société flamande d'épuration des eaux.

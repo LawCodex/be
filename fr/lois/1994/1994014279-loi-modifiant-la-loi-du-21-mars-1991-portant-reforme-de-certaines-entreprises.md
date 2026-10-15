@@ -12,7 +12,7 @@ entry_into_force: 1994-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/12/1994014279/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 1994. - LOI modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques et la loi du 17 juin 1991 portant organisation du secteur public du crédit et de la détention des participations du secteur public dans certaines sociétés financières de droit privé

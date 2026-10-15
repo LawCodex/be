@@ -12,7 +12,7 @@ entry_into_force: 2002-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/14/2002009631/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2002. - Loi de mise en conformité du droit belge avec la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, adoptée à New York le 10 décembre 1984.

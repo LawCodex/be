@@ -13,7 +13,7 @@ entry_into_force: 2018-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/04/2018206025/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OKTOBER 2018. - Decreet tot wijziging van verschillende teksten, wat betreft de waterlopen

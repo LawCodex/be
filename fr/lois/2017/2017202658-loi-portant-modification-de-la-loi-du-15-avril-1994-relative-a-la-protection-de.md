@@ -12,7 +12,7 @@ entry_into_force: 2018-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/07/2017202658/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2017. - Loi portant modification de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers resultant des rayonnements ionisants et relative à l'agence fédérale de Contrôle Nucléaire, concernant l'organisation du contrôle physique

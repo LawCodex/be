@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/27/2005033068/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2005 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2005. - Décret portant création d'une haute école autonome (TRADUCTION).

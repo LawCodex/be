@@ -10,7 +10,7 @@ date: 2004-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/06/2004015053/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2004. - Wet houdende instemming met de Overeenkomst betreffende de deelname van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek aan de Europese Economische Ruimte, en met de Slotakte, gedaan te Luxemburg op 14 oktober 2003.

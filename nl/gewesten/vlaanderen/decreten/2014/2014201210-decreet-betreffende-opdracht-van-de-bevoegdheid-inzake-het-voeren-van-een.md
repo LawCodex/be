@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/31/2014201210/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-02-2014 en tekstbijwerking tot 12-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2014. - [Decreet betreffende opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid voor Vlaams-Brabant aan de Provincie Vlaams-Brabant] &lt;Opschrift vervangen door DVR 2017-12-22/44 , art. 2, 002; Inwerkingtreding : 01-01-2018&gt;

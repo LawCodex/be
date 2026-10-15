@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/25/2012035749/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 12-07-2012 en tekstbijwerking tot 03-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2012. - Decreet betreffende de preventie en bestrijding van doping in de sport (aangehaald als : het Antidopingdecreet van 25 mei 2012)

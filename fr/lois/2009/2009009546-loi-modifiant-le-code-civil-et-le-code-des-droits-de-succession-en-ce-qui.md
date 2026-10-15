@@ -12,7 +12,7 @@ entry_into_force: 2009-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/28/2009009546/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2009. - Loi modifiant le Code civil et le Code des droits de succession en ce qui concerne le paiement libératoire effectué dans le cadre d'une succession et la mise d'un certain montant à la disposition du conjoint ou cohabitant légal survivant

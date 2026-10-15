@@ -12,7 +12,7 @@ entry_into_force: 2026-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/11/2026002310/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2026. - Wet tot uitvoering van Verordening (EU) 2024/1309 van het Europees Parlement en de Raad van 29 april 2024 inzake maatregelen om de kosten van de uitrol van elektronischecommunicatienetwerken met gigabitsnelheden te verlagen, tot wijziging van Verordening (EU) 2015/2120 en tot intrekking van Richtlijn 2014/61/EU (gigabitinfrastructuurverordening)

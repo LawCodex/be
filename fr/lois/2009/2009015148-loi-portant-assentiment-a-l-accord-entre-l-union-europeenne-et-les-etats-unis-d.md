@@ -12,7 +12,7 @@ entry_into_force: 2010-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/11/30/2009015148/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2009. - Loi portant assentiment à l'Accord entre l'Union européenne et les Etats-Unis d'Amérique sur le traitement et le transfert de données des dossiers passagers (données PNR) par les transporteurs aériens au Ministère américain de la Sécurité intérieure (DHS) (Accord PNR 2007), fait à Bruxelles le 23 juillet 2007 et à Washington le 26 juillet 2007

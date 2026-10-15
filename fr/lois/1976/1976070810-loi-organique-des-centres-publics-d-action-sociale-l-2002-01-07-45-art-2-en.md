@@ -18,7 +18,7 @@ justel_notes:
   - "pour la version applicable en Communauté flamande, voir : 1976-07-08/35 "
   - "pour la version applicable en Communauté germanophone, voir : 1976-07-08/36 "
   - "Consultation des versions antérieures à partir du 25-01-1984 et mise à jour au 25-11-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1976. - Loi organique des [centres publics d'action sociale]. &lt;L 2002-01-07/45, art. 2; En vigueur : 01-02-2004&gt;

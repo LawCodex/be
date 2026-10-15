@@ -13,7 +13,7 @@ entry_into_force: 1983-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/01/25/1983023072/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 1983. \_ Décret portant approbation du Pacte international relatif aux droits économiques, sociaux et culturels, fait à New York le 19 décembre 1966.

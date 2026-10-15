@@ -12,7 +12,7 @@ entry_into_force: 1999-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999009662/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi complétant la loi du 25 ventôse an XI, contenant organisation du notariat, par les articles 38, § 5, 76, 1°, 78 à 85 et 95 à 112.

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/11/2013031618/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2013. - Ordonnance portant assentiment à : 1° la Convention entre le Royaume de Belgique et le Japon tendant à éviter les doubles impositions en matière d'impôts sur le revenu, signée à Tokyo le 28 mars 1968, telle que modifiée par le Protocole signé à Bruxelles le 9 novembre 1988 et le Protocole, fait à Bruxelles le 26 janvier 2010; 2° au Protocole, fait à Bruxelles le 26 janvier 2010, modifiant la Convention entre le Royaume de Belgique et le Japon tendant à éviter les doubles impositions en matière d'impôts sur le revenu, signée à Tokyo le 28 mars 1968, telle que modifiée par le Protocole signé à Bruxelles le 9 novembre 1988

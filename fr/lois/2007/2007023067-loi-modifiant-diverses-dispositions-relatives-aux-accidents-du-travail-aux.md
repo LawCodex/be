@@ -12,7 +12,7 @@ entry_into_force: 2007-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007023067/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi modifiant diverses dispositions relatives aux accidents du travail, aux maladies professionnelles et au fonds amiante, en ce qui concerne les cohabitants légaux.

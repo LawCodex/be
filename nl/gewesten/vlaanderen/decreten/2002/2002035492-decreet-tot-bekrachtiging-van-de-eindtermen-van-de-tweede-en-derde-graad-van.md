@@ -13,7 +13,7 @@ entry_into_force: 2002-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/01/18/2002035492/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2002. - Decreet tot bekrachtiging van de eindtermen van de tweede en derde graad van het gewoon secundair onderwijs.

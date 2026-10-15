@@ -13,7 +13,7 @@ entry_into_force: 2021-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/07/2021020952/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2021. - Decreet tot wijziging van artikel 4.1.22/2 van het Energiedecreet van 8 mei 2009

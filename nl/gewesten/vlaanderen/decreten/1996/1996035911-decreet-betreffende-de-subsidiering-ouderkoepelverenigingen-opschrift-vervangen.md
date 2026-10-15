@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/20/1996035911/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-08-1996 en tekstbijwerking tot 28-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 1996. - [DECREET betreffende de subsidiëring ouderkoepelverenigingen] &lt;opschrift vervangen door DVG 2004-04-02/75, art. 98, 002; Inwerkingtreding : 01-01-2005&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2001-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/12/2000029462/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2000. - Decreet houdende instemming met het dopingverdrag en zijn bijlage, gemaakt te Straatsburg op 16 november 1989 (VERTALING).

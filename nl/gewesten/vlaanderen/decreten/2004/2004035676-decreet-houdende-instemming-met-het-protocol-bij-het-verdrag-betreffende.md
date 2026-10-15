@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/26/2004035676/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-05-2004 en tekstbijwerking tot 24-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2004. - Decreet houdende instemming met het protocol bij het verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake persistente organische stoffen, met bijlagen, ondertekend in Aarhus op 24 juni 1998

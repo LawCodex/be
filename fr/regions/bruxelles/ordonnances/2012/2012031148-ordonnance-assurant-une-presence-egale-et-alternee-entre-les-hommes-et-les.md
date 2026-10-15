@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/15/2012031148/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2012. - Ordonnance assurant une présence égale et alternée entre les hommes et les femmes sur les listes de candidatures aux élections communales organisées dans la Région de Bruxelles-Capitale

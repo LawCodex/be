@@ -12,7 +12,7 @@ entry_into_force: 2023-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/16/2022043186/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2022. - Loi modifiant la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants en vue de permettre aux Belges résidant à l'étranger de soutenir une pétition

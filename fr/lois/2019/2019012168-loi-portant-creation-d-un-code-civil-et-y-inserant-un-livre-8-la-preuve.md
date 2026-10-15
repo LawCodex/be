@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019012168/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2019 et mise à jour au 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Loi portant création d'un Code civil et y insérant un livre 8 " La preuve "

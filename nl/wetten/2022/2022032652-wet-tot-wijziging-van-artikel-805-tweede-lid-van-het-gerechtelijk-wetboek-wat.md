@@ -12,7 +12,7 @@ entry_into_force: 2022-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/17/2022032652/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2022. - Wet tot wijziging van artikel 805, tweede lid, van het Gerechtelijk Wetboek wat het verstek betreft

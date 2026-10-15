@@ -13,7 +13,7 @@ entry_into_force: 2010-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/11/25/2010206164/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2010. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République du Tadjikistan, d'autre part, concernant l'encouragement et la protection réciproques des investissements

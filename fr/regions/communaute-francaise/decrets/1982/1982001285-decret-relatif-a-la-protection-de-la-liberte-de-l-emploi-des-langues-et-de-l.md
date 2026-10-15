@@ -13,7 +13,7 @@ entry_into_force: 1982-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1982/06/30/1982001285/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1982. - Décret relatif à la protection de la liberté de l'emploi des langues et de l'usage de la langue française en matière de relations sociales entre les employeurs et leur personnel ainsi que d'actes et documents des entreprises imposés par la loi et les règlements. (note 1.: à l'article 1er du décret, les mots "ou des travailleurs d'expression française" ont été annulés par l'arrêt de la Cour d'arbitrage du 30-01-1986, publié au M.B. du 12-02-1986) (note 2. : La Cour d'arbitrage a décidé, dans son arrêt du 18-11-1986 (M.B. du 10-12-1986), que ce décret est annulé dans la mesure où son champ d'application, tel qu'il est défini à l 'article 1er, comprend les communes ou groupes de communes de la région de langue française contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés).

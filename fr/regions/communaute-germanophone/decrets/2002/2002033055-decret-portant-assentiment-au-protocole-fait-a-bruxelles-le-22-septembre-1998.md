@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/04/15/2002033055/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2002. - Décret portant assentiment au protocole, fait à Bruxelles le 22 septembre 1998, complétant la Convention Benelux concernant la coopération transfrontalière entre collectivités ou autorités territoriales avec exposé des motifs commun signée à Bruxelles le 12 septembre 1986.

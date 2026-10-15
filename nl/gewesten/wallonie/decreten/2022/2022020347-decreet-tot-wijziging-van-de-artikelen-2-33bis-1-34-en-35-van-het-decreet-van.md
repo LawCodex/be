@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/17/2022020347/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 24-02-2022 en tekstbijwerking tot 05-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2022. - Decreet tot wijziging van de artikelen 2, 33bis/1, 34 en 35 van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt en tot invoeging van de artikelen 33bis/3 en 33bis/4

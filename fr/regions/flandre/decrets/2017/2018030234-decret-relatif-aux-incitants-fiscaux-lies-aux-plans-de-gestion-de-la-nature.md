@@ -13,7 +13,7 @@ entry_into_force: 2018-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/22/2018030234/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Décret relatif aux incitants fiscaux liés aux plans de gestion de la nature

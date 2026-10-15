@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/05/2008029492/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2013 et mise à jour au 12-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2008. - Décret portant création du Conseil supérieur de l'Education aux Médias et assurant le développement d'initiatives et de moyens particuliers en la matière en Communauté française

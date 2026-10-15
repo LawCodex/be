@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/07/2019012217/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2019 et mise à jour au 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2019. - Loi portant des dispositions diverses en matière de spécialités pharmaceutiques, garde des pharmaciens et des mesures prophylactiques en matière de poliomyélite

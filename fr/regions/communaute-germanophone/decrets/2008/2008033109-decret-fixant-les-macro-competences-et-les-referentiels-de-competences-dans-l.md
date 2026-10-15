@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/16/2008033109/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 14-07-2009 et mise à jour au 06-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2008. - Décret fixant les macro-compétences et les référentiels de compétences dans l'enseignement

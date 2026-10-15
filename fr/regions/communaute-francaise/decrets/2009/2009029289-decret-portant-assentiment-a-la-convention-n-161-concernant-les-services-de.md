@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029289/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret portant assentiment à la Convention n° 161 concernant les services de santé au travail, adoptée par la Conférence générale de l'Organisation internationale du Travail en sa soixante et onzième session le 26 juin 1985 et faite à Genève le 27 juin 1985

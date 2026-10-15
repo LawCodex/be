@@ -12,7 +12,7 @@ entry_into_force: 2026-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/10/2026200237/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2026. - Loi modifiant la loi relative aux marchés publics concernant des mesures particulières applicables aux marchés publics pour des projets transfrontaliers liés au réseau transeuropéen de transport

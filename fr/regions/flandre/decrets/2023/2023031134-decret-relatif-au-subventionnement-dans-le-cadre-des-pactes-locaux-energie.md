@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/26/2023031134/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-06-2023 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2023. - Décret relatif au subventionnement dans le cadre des Pactes locaux énergie-climat

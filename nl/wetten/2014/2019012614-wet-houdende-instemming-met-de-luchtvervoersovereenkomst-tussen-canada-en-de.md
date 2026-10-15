@@ -11,7 +11,7 @@ published: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/26/2019012614/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2014. - Wet houdende instemming met de luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, gedaan te Brussel op 17 december 2009 (1). - Addendum

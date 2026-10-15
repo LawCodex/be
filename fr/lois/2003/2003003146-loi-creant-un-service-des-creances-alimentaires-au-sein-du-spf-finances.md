@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/21/2003003146/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-03-2003 et mise à jour au 28-01-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2003. - Loi créant un Service des créances alimentaires au sein du SPF Finances.

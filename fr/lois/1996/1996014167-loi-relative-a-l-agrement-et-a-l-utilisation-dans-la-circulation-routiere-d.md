@@ -12,7 +12,7 @@ entry_into_force: 1996-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996014167/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi relative à l'agrément et à l'utilisation dans la circulation routière d'appareils fonctionnant automatiquement en présence ou en l'absence d'un agent qualifié.

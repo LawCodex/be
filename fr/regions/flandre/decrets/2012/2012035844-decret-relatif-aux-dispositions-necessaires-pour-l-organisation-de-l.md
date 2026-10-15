@@ -13,7 +13,7 @@ entry_into_force: 2011-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/29/2012035844/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2012. - Décret relatif aux dispositions nécessaires pour l'organisation de l'enseignement

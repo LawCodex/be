@@ -12,7 +12,7 @@ entry_into_force: 1999-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/09/1999012064/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1999. - Wet tot wijziging van het koninklijk besluit nr. 34 van 20 juli 1967 betreffende de tewerkstelling van werknemers van vreemde nationaliteit.

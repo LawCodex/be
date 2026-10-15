@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/20/2002029333/justel"
 department: "Communauté française"
 justel_note: "Suite à l'adoption de la proposition de décret de DCFR 2004-12-21/47, l'intitulé du décret du 20 juin 2002 s'énonce dorénavant comme suit : \" Décret relatif au contrôle des communications de la présidence du Parlement et des membres du Gouvernement \"; voir DCFR 2004-12-21/47 , fin d'article 3, N.B."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2002. - Décret relatif au contrôle des communications des membres du Gouvernement.

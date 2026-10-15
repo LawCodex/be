@@ -12,7 +12,7 @@ entry_into_force: 2013-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/18/2013007178/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2013. - Loi modifiant diverses dispositions relatives au statut des militaires.

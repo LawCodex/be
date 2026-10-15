@@ -12,7 +12,7 @@ entry_into_force: 2003-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/19/2002015148/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République d'Arménie concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 7 juin 2001.

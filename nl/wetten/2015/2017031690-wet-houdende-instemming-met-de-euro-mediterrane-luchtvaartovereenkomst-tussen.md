@@ -12,7 +12,7 @@ entry_into_force: 2017-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/09/2017031690/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBER 2015. - Wet houdende instemming met de Euro-mediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds, opgesteld te Brussel op 15 december 2010

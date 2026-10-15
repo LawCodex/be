@@ -13,7 +13,7 @@ entry_into_force: 1990-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/03/28/1990029418/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 1990. - Décret modifiant le décret du 27 juin 1985 relatif à l'assistance spéciale à la jeunesse.

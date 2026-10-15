@@ -12,7 +12,7 @@ entry_into_force: 1991-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/04/04/1991022289/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 1991. - Loi réglant l'utilisation des informations du Registre national des personnes physiques par des services ministériels et par les institutions de sécurité sociale relevant du Ministère de la Prévoyance sociale.

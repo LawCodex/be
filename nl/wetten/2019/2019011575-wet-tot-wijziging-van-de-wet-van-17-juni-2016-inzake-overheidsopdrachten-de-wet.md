@@ -12,7 +12,7 @@ entry_into_force: 2019-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019011575/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet tot wijziging van de wet van 17 juni 2016 inzake overheidsopdrachten, de wet van 17 juni 2016 betreffende de concessieovereenkomsten, de wet van 13 augustus 2011 inzake overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied en tot wijziging van de wet van 4 mei 2016 inzake het hergebruik van overheidsinformatie

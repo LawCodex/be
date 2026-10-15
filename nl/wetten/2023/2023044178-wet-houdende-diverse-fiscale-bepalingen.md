@@ -11,7 +11,7 @@ published: 2023-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/31/2023044178/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2023. - Wet houdende diverse fiscale bepalingen

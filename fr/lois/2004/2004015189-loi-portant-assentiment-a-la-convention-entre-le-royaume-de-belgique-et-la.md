@@ -12,7 +12,7 @@ entry_into_force: 2004-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/13/2004015189/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2004. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la Région administrative spéciale de Hong Kong de la République populaire de Chine tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Hong Kong le 10 décembre 2003.

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/16/1998015081/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1997. - Loi portant approbation des Actes internationaux suivants : a) Accord, fait à Bonn le 18 mars 1993, modifiant l'Accord complétant la Convention du 19 juin 1951 entre les Etats Parties au Traité de l'Atlantique Nord sur le Statut de leurs Forces en ce qui concerne les Forces étrangères stationnées en République Fédérale d'Allemagne, signé le 3 août 1959 et modifié le 21 octobre 1971 et le 18 mai 1981; b) Accord, fait à Bonn le 16 mai 1994, amendant le Protocole de signature à l'Accord du 3 août 1959 modifié par les Accords du 21 octobre 1971 et du 18 mai 1981 complétant la Convention entre les Etats Parties au Traité de l'Atlantique Nord sur le Statut de leurs Forces, en ce qui concerne les Forces étrangères stationnées en République Fédérale d'Allemagne.

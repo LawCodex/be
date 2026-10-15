@@ -13,7 +13,7 @@ entry_into_force: 1995-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995027085/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret relatif à l'entrée en vigueur de la nouvelle comptabilité communale pour les Centres publics d'aide sociale.

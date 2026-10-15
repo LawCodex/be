@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002029439/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Decreet tot wijziging van het administratief en geldelijk statuut van de leden van het administratief personeel, het vak-, meesters- en dienstpersoneel van de Rijksinrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst- en normaal onderwijs (VERTALING).

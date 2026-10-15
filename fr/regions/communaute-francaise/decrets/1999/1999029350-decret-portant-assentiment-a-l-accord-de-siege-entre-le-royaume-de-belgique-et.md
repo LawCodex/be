@@ -13,7 +13,7 @@ entry_into_force: 1993-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029350/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et le Conseil de coopération des Etats arabes du Golfe, fait à Bruxelles le 11 mai 1993.

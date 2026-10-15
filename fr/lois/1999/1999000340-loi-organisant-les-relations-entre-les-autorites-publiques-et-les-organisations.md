@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/24/1999000340/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 08-05-1999 et mise à jour au 20-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1999. - Loi organisant les relations entre les autorités publiques et les organisations syndicales du personnel des services de police. -

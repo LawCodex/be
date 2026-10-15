@@ -13,7 +13,7 @@ entry_into_force: 2006-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203879/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret portant assentiment à la Décision des Représentants des Gouvernements des Etats membres (traité international), réunis au sein du Conseil du 10 novembre 2004, concernant les privilèges et immunités accordés à l'Agence européenne de défense et à son personnel, faite à Bruxelles.

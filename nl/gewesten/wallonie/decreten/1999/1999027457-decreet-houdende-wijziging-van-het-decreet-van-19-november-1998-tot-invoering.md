@@ -13,7 +13,7 @@ entry_into_force: 1999-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027457/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet houdende wijziging van het decreet van 19 november 1998 tot invoering van een belasting op de verlaten woningen in het Waalse Gewest (VERTALING).

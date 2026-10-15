@@ -16,7 +16,7 @@ department: "Premier Ministre"
 justel_notes:
   - "Par son arrêt du 13-07-1989 (M.B. 21-07-1989), la Cour d'arbitrage a suspendu : 1. l'article 17 en tant qu'il insère les dispositions de l'article 3, § 2, deuxième alinéa, et § 4, dans l'arrêté royal n° 143 du 30 décembre 1982; 2. l'article 24 en tant qu'il concerne les dispositions de l'article 3, § 2, deuxième alinéa, et § 4, de l'arrêté royal n° 143 du 30 décembre 1982"
   - "Consultation des versions antérieures à partir du 08-07-1989 et mise à jour au 10-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1988. - Loi-programme.

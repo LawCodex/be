@@ -12,7 +12,7 @@ entry_into_force: 2010-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/26/2010014021/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2010. - Loi modifiant la loi du 4 décembre 2006 relative à l'utilisation de l'infrastructure ferroviaire et la loi du 19 décembre 2006 relative à la sécurité d'exploitation ferroviaire, en ce qui concerne principalement la certification de personnel de sécurité et la maintenance des véhicules

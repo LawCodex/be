@@ -13,7 +13,7 @@ entry_into_force: 2000-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/05/2002036133/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2002. - Décret modifiant le décret du 30 novembre 1988 instituant le congé politique pour les membres du personnel des organismes d'intérêt public et des associations de droit public qui relèvent de la Communauté flamande (TRADUCTION).

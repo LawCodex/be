@@ -13,7 +13,7 @@ entry_into_force: 2014-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/06/2014204052/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2014. - Décret portant assentiment au Traité entre le Royaume de Belgique et la République française pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, fait à Paris le 17 novembre 2008

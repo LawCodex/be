@@ -13,7 +13,7 @@ last_amended: 2009-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/02/25/1964022506/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 06-08-1985 en tekstbijwerking tot 26-06-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1964. - Wet houdende inrichting van een Pool van de zeelieden ter koopvaardij.

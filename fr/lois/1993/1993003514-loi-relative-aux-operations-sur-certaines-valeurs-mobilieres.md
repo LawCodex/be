@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1993003514/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-05-1995 et mise à jour au 07-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi relative aux opérations sur certaines valeurs mobilières.

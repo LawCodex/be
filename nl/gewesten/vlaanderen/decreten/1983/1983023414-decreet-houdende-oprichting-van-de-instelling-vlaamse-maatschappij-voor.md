@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/06/28/1983023414/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-10-1998 en tekstbijwerking tot 07-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 1983. - Decreet houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening. -

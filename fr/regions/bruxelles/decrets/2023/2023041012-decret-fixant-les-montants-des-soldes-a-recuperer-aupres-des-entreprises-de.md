@@ -13,7 +13,7 @@ entry_into_force: 2023-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/01/28/2023041012/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2023. - Décret fixant les montants des soldes à récupérer auprès des entreprises de travail adapté agréées impactées financièrement par la pandémie de COVID-19 dans le cadre des soldes relatifs aux avances octroyées pour les premier et deuxième trimestres 2020 et le calcul des avances des premier et deuxième trimestres 2021

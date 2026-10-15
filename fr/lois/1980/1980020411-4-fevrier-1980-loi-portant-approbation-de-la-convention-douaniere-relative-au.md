@@ -11,7 +11,7 @@ published: 1980-10-14
 entry_into_force: 1980-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/02/04/1980020411/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1980. \_ Loi portant approbation de la Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR, et des Annexes, faites à Genève le 14 novembre 1975.

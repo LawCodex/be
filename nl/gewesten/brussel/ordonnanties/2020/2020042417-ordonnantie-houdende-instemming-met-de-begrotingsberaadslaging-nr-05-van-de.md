@@ -13,7 +13,7 @@ entry_into_force: 2020-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/17/2020042417/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Ordonnantie houdende instemming met de begrotingsberaadslaging nr. 05 van de Brusselse Hoofdstedelijke Regering houdende machtiging tot het vastleggen, vereffenen en betalen van uitgaven, aan te rekenen op de algemene uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2020

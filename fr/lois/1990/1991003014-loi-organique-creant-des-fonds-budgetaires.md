@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/12/27/1991003014/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 06-04-2012 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 1990. - LOI organique créant des fonds budgétaires.

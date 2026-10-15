@@ -13,7 +13,7 @@ entry_into_force: 2014-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/09/2014200395/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2014. - Décret portant assentiment à la Convention n° 184 concernant la santé et la sécurité dans l'agriculture, adoptée à Genève par la Conférence internationale du travail au cours de sa 89 e session qui s'est tenue du 5 juin au 21 juin 2001

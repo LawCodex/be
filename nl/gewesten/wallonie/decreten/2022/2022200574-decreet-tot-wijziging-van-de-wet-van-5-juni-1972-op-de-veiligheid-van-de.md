@@ -13,7 +13,7 @@ entry_into_force: 2022-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/20/2022200574/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2022. - Decreet tot wijziging van de wet van 5 juni 1972 op de veiligheid van de vaartuigen

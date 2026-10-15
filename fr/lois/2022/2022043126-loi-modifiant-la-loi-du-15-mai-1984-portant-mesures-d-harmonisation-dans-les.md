@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/27/2022043126/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2022. - Loi modifiant la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions en ce qui concerne la pension minimum des conjoints aidants

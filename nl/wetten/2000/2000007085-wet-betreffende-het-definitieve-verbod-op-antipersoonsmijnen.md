@@ -12,7 +12,7 @@ entry_into_force: 2000-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/30/2000007085/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2000. - Wet betreffende het definitieve verbod op antipersoonsmijnen.

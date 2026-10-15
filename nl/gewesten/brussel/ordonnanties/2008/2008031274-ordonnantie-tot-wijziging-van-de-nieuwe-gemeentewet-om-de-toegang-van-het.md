@@ -13,7 +13,7 @@ entry_into_force: 2009-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/05/29/2008031274/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2008. - Ordonnantie tot wijziging van de nieuwe gemeentewet om de toegang van het publiek tot de gemeentelijke reglementen tot invoering van belastingen te vergemakkelijken.

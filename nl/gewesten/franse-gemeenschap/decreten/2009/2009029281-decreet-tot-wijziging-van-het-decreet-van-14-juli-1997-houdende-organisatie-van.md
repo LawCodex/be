@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/26/2009029281/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-05-2009 en tekstbijwerking tot 16-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Decreet tot wijziging van het decreet van 14 juli 1997 houdende organisatie van de gezondheidspromotie in de Franse Gemeenschap

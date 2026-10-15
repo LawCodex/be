@@ -13,7 +13,7 @@ entry_into_force: 1999-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/17/1998027718/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1998. - Décret portant assentiment au Protocole à la Convention sur la pollution atmosphérique à longue distance de 1979 relatif à la lutte contre les émissions d'oxydes d'azote ou leurs flux transfrontières et à l'annexe technique, faits à Sofia le 31 octobre 1988.

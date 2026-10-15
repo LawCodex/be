@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/20/2009201461/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-04-2009 et mise à jour au 30-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2009. - Décret relatif à la "Hogere Zeevaartschool"

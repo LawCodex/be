@@ -12,7 +12,7 @@ published: 2022-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/25/2022034425/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2022. - Decreet tot wijziging van het Groeipakketdecreet van 2018, wat betreft de invoering van een eenmalige toeslag van 100 euro voor wie in november 2022 een sociale toeslag ontvangt

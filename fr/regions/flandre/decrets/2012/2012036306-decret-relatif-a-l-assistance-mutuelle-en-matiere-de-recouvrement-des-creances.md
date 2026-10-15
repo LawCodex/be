@@ -13,7 +13,7 @@ entry_into_force: 2012-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/21/2012036306/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Décret relatif à l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures

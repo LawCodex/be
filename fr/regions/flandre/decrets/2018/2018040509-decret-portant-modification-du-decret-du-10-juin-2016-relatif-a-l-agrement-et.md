@@ -13,7 +13,7 @@ entry_into_force: 2018-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/13/2018040509/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2018. - Décret portant modification du décret du 10 juin 2016 relatif à l'agrément et au subventionnement du secteur du sport organisé et du décret du 20 janvier 2012 relatif à une politique rénovée des droits de l'enfant et de la jeunesse

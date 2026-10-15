@@ -12,7 +12,7 @@ entry_into_force: 1995-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/06/2002015019/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1994. - Wet houdende instemming met het Protocol inzake toetreding van de Helleense Republiek tot de Westeuropese Unie, en Bijlage, gedaan te Rome op 20 november 1992.

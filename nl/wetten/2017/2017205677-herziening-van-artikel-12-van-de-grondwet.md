@@ -10,7 +10,7 @@ date: 2017-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/10/24/2017205677/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2017. - Herziening van artikel 12 van de Grondwet

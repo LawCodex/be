@@ -17,7 +17,7 @@ department: "Duitstalige Gemeenschap"
 justel_notes:
   - "gewijzigd met uitwerking op een onbepaalde datum bij DDG 2006-12-18/43 , art. 25 tot 29"
   - "Raadpleging van vroegere versies vanaf 24-03-2000 en tekstbijwerking tot 07-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2000. - Decreet tot oprichting van een dienst voor arbeidsbemiddeling in de Duitstalige Gemeenschap (VERTALING).

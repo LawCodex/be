@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/06/26/1990021134/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 05-09-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1990. - Loi relative à certains organismes publics ou d'utilité publique et autres services de l'Etat

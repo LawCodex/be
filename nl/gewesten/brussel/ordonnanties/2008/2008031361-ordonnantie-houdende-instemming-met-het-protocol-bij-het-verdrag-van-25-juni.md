@@ -13,7 +13,7 @@ entry_into_force: 2008-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/07/03/2008031361/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2008. - Ordonnantie houdende instemming met het protocol bij het Verdrag van 25 juni 1998 betreffende toegang tot informatie, inspraak van het publiek bij de besluitvorming en toegang tot de rechtspraak inzake milieuaangelegenheden, betreffende de registers inzake de uitstoot en overbrenging van verontreinigende stoffen, ondertekend te Kiev op 21 mei 2003.

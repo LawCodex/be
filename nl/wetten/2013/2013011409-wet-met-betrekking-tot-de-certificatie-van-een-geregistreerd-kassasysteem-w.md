@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/30/2013011409/justel"
 department: "Financiën - Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2013 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2013. - Wet met betrekking tot de certificatie van een geregistreerd kassasysteem [...] &lt;W 2023-12-28/01 , art. 101, 003; Inwerkingtreding : 01-01-2024&gt;

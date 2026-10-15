@@ -12,7 +12,7 @@ entry_into_force: 1986-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/08/08/1986015213/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1986. - Loi portant approbation du Protocole, signé à Bruxelles le 10 novembre 1983, portant modification de la loi uniforme Bénélux annexée à la Convention Bénélux en matière de marques de produits du 19 mars 1962.

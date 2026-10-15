@@ -12,7 +12,7 @@ entry_into_force: 2005-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/22/2005003577/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2005. - Loi instaurant une déduction fiscale pour capital à risque.

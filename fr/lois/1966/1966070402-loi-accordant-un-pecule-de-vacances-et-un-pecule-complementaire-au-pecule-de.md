@@ -13,7 +13,7 @@ last_amended: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/07/04/1966070402/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-10-2004 et mise à jour au 16-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 1966. - Loi accordant un pécule de vacances [et un pécule complémentaire au pécule de vacances] aux pensionnés des services publics. &lt;Intitulé modifié par L 1999-12-24/36, art. 105, En vigueur : 01-01-2000&gt;

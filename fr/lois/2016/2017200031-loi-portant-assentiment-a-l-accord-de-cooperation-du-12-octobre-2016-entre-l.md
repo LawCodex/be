@@ -12,7 +12,7 @@ entry_into_force: 2017-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017200031/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi portant assentiment à l'accord de coopération du 12 octobre 2016 entre l'Etat fédéral et la Communauté française concernant les modalités de financement et de fonctionnement de la section internationale de l'Ecole internationale du SHAPE

@@ -12,7 +12,7 @@ entry_into_force: 2022-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/29/2022034396/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2022. - Loi portant des dispositions diverses en matière de santé

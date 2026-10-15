@@ -12,7 +12,7 @@ entry_into_force: 2005-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/16/2005022154/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2004. - Wet tot wijziging van de regelgeving betreffende de bestrijding van de uitwassen van de promotie van geneesmiddelen.

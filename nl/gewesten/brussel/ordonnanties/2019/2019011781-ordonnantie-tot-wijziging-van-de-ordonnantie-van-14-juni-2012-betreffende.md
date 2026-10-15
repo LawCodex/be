@@ -13,7 +13,7 @@ entry_into_force: 2019-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019011781/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie tot wijziging van de ordonnantie van 14 juni 2012 betreffende afvalstoffen

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/14/2000002133/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Wet tot wijziging benaming van het Vast Wervingssecretariaat.

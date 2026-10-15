@@ -12,7 +12,7 @@ published: 2024-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/01/25/2024000829/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2024. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 26 april 2023 tussen de federale Staat, het Waals Gewest, het Vlaams Gewest en het Brussels Hoofdstedelijk Gewest tot oprichting van een Centraal fietsregister

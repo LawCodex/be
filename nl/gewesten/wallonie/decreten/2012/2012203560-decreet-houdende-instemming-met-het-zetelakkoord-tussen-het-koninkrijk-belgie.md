@@ -13,7 +13,7 @@ entry_into_force: 2012-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/21/2012203560/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Secretariaat van de "Regional Cooperation Council", ondertekend te Brussel op 29 augustus 2008

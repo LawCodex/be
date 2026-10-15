@@ -13,7 +13,7 @@ entry_into_force: 2021-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/10/28/2021043032/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Ordonnantie houdende instemming met het Verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM), ondertekend te Brussel op 2 februari 2012 en de Overeenkomst tot wijziging van het Verdrag tot instelling van het Europees Stabiliteitsmechanisme, ondertekend te Brussel op 27 januari en 8 februari 2021

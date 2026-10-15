@@ -12,7 +12,7 @@ entry_into_force: 2013-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015097/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Avenant en de Uitwisseling van brieven, gedaan te Brussel op 16 juli 2009, bij de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, en het desbetreffende Slotprotocol, ondertekend te Luxemburg op 17 september 1970, zoals gewijzigd door het Avenant, ondertekend te Brussel op 11 december 2002

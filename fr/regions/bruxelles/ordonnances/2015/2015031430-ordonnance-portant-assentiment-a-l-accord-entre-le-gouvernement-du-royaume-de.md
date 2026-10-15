@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/02/2015031430/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Ordonnance portant assentiment à : l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, fait à Paris le 17 novembre 2008

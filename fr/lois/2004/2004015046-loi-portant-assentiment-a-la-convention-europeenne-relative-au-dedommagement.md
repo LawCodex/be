@@ -12,7 +12,7 @@ entry_into_force: 2004-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/19/2004015046/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2004. - Loi portant assentiment à la Convention européenne relative au dédommagement des victimes d'infractions violentes, faite à Strasbourg le 24 novembre 1983.

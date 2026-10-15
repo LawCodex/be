@@ -13,7 +13,7 @@ entry_into_force: 2020-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/13/2019042930/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2019. - Décret-programme de l'ajustement du budget 2019

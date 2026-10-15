@@ -12,7 +12,7 @@ entry_into_force: 2004-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/07/2002003050/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2002. - Loi modifiant la loi du 8 juillet 1976 organique des centres publics d'aide sociale en vue de modifier la dénomination des centres publics d'aide sociale.

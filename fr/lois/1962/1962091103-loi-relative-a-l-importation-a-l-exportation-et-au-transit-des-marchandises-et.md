@@ -11,7 +11,7 @@ published: 1962-10-27
 entry_into_force: 1962-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/09/11/1962091103/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 1962. - [Loi relative à l'importation, à l'exportation et au transit des marchandises et de la technologie y afférente.] &lt;L 1992-08-03/30, art. 1, 003; En vigueur : indéterminée &gt;

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012546/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret modifiant le décret du 18 mai 2018 relatif à la protection sociale flamande et le décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs, en ce qui concerne le règlement des amendes administratives

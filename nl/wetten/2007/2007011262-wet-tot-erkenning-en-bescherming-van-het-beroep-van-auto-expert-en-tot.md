@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007011262/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-06-2008 en tekstbijwerking tot 19-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot erkenning en bescherming van het beroep van auto-expert en tot oprichting van een Instituut van de auto-experts

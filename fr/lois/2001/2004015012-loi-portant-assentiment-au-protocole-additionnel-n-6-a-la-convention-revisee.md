@@ -12,7 +12,7 @@ entry_into_force: 2004-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2004015012/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi portant assentiment au Protocole additionnel n° 6 à la Convention révisée pour la Navigation du Rhin, fait à Strasbourg le 21 octobre 1999.

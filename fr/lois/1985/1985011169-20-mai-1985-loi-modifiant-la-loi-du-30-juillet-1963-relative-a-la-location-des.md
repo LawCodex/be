@@ -12,7 +12,7 @@ entry_into_force: 1985-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/05/20/1985011169/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1985. \_ Loi modifiant la loi du 30 juillet 1963 relative à la location des films destinés à la projection commerciale.

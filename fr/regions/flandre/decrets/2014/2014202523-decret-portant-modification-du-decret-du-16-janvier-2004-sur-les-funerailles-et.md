@@ -13,7 +13,7 @@ entry_into_force: 2014-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014202523/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret portant modification du décret du 16 janvier 2004 sur les funérailles et sépultures, en ce qui concerne l'acte de dernières volontés et l'inhumation ou la crémation des enfants mort-nés

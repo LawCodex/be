@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/07/1998035917/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-08-1998 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1998. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 1998 (TRADUCTION).

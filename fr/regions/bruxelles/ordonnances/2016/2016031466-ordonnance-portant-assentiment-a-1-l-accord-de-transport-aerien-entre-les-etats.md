@@ -13,7 +13,7 @@ entry_into_force: 2016-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/06/23/2016031466/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2016. - Ordonnance portant assentiment à : 1° l'Accord de transport aérien entre les Etats-Unis d'Amérique, premièrement, l'Union européenne et ses Etats membres, deuxièmement, l'Islande, troisièmement, et le Royaume de Norvège, quatrièmement, signé au Luxembourg le 16 juin 2011 et à Oslo le 21 juin 2011; et 2° l'Accord annexe entre l'Union européenne et ses Etats membres, premièrement, l'Islande, deuxièmement, et le Royaume de Norvège, troisièmement, concernant l'application de l'accord mentionné sous 1°, signé au Luxembourg le 16 juin 2011 et à Oslo le 21 juin 2011

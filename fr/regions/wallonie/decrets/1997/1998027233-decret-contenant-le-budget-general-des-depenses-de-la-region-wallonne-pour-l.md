@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998027233/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 25-06-1998 et mise à jour au 15-12-1999."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Decrét contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 1998. -

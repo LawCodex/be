@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/18/2024011000/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 06-12-2024 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2024. - Loi réglementant la recherche privée

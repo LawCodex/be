@@ -12,7 +12,7 @@ entry_into_force: 2011-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/14/2011009550/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2011. - Wet tot wijziging van de wet van 7 juli 2002 houdende een regeling voor de bescherming van bedreigde getuigen en andere bepalingen

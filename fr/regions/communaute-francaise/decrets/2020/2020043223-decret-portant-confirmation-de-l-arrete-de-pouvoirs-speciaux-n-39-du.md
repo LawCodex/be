@@ -13,7 +13,7 @@ entry_into_force: 2020-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/24/2020043223/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2020. - Décret portant confirmation de l'arrêté de pouvoirs spéciaux n° 39 du Gouvernement de la Communauté française du 20 juin 2020 visant à relancer les tournages en garantissant les risques liés à la crise du COVID-19

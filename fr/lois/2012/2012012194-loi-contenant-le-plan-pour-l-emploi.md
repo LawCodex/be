@@ -12,7 +12,7 @@ entry_into_force: 2012-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/27/2012012194/justel"
 department: "Sécurité sociale - Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2012. - Loi contenant le plan pour l'emploi

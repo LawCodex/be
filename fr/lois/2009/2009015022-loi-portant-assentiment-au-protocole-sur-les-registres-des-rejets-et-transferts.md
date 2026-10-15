@@ -12,7 +12,7 @@ entry_into_force: 2009-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/16/2009015022/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2009. - Loi portant assentiment au Protocole sur les registres des rejets et transferts de polluants, fait à Kiev le 21 mai 2003

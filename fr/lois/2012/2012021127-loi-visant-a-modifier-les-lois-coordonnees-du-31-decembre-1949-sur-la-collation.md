@@ -12,7 +12,7 @@ entry_into_force: 2012-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012021127/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi visant à modifier les lois coordonnées du 31 décembre 1949 sur la collation des grades académiques et le programme des examens universitaires et la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur

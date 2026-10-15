@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2003029052/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-02-2003 en tekstbijwerking tot 04-05-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2003 (VERTALING). -

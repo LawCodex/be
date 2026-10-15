@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/15/2022034750/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2022. - Wet betreffende de toegang tot het Rijksregister van de natuurlijke personen en het gebruik van het identificatienummer van het Rijksregister voor het uitvoeren van de personeels- en loonadministratie van openbare overheden en instellingen

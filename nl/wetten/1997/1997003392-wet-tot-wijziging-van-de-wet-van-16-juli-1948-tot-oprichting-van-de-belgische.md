@@ -12,7 +12,7 @@ entry_into_force: 1997-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/24/1997003392/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1997. - Wet tot wijziging van de wet van 16 juli 1948 tot oprichting van de Belgische Dienst voor de Buitenlandse Handel.

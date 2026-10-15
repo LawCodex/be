@@ -12,7 +12,7 @@ entry_into_force: 2001-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/30/2001000337/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2001. - Modification à la Constitution.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/01/23/1989009072/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 08-05-1993 et mise à jour au 26-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 1989. - Loi sur la juridiction visée aux articles 92bis, § 5 et § 6, et 94, § 3, de la loi spéciale du 8 août 1980 de réformes institutionnelles.

@@ -13,7 +13,7 @@ entry_into_force: 2000-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/23/2000029007/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1999. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement du Burkina Faso et le Gouvernement de la Communauté française de Belgique, signé à Ouagadougou le 7 décembre 1994, et à l'Accord de coopération entre le Gouvernement de la Communauté française de Belgique et le Gouvernement wallon, et le Gouvernement du Burkina Faso, signé à Ouagadougou le 4 février 1998.

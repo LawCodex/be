@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/11/28/2019042688/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2019. - Ordonnance modifiant le Code des taxes assimilées aux impôts sur les revenus dans le cadre de la reprise du service de la taxe de circulation sur les véhicules automobiles et de la taxe de mise en circulation par la Région de Bruxelles-Capitale

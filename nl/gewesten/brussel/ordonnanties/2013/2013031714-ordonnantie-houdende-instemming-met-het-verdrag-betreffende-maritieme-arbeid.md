@@ -11,7 +11,7 @@ date: 2013-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031714/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie houdende instemming met : het Verdrag betreffende Maritieme Arbeid, goedgekeurd te Genève op 23 februari 2006 door de Internationale Arbeidsconferentie tijdens haar vierennegentigste (maritieme) zitting

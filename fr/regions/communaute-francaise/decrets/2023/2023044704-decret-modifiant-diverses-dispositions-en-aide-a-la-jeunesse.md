@@ -13,7 +13,7 @@ entry_into_force: 2024-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/20/2023044704/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Décret modifiant diverses dispositions en aide à la jeunesse

@@ -12,7 +12,7 @@ entry_into_force: 2008-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/17/2008009675/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2008. - Wet tot wijziging van artikel 1597 van het Burgerlijk Wetboek.

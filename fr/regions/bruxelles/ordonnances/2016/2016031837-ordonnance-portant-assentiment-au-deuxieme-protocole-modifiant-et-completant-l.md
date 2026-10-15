@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031837/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant assentiment au : Deuxième Protocole modifiant et complétant l'Accord, conclu à Strasbourg le 3 décembre 1974 entre le Royaume de Belgique et le Conseil de l'Europe complémentaire à l'Accord général sur les privilèges et immunités du Conseil de l'Europe, signé à Paris le 2 septembre 1949, fait à Bruxelles le 15 avril 2016

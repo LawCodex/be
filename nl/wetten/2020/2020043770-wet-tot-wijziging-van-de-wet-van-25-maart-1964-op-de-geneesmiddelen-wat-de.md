@@ -12,7 +12,7 @@ entry_into_force: 2020-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/11/22/2020043770/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2020. - Wet tot wijziging van de wet van 25 maart 1964 op de geneesmiddelen wat de programma's voor gebruik in schrijnende gevallen en medische noodgevallen betreft

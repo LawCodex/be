@@ -12,7 +12,7 @@ entry_into_force: 2003-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/07/2002015143/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2002. - Wet houdende instemming met het Verdrag van Nice houdende wijziging van het Verdrag betreffende de Europese Unie, de verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, Protocollen 1, 2 en 3 en met de Slotakte, gedaan te Nice op 26 februari 2001.

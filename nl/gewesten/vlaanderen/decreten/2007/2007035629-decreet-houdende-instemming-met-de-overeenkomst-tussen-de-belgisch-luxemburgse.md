@@ -13,7 +13,7 @@ entry_into_force: 2007-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/20/2007035629/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2007. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de republiek Mauritius inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 30 november 2005.

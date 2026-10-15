@@ -17,7 +17,7 @@ justel_notes:
   - "Pour la Région flamande, voir version séparée de cette loi, L 1973-07-12/35 "
   - "Pour la Région de Bruxelles-Capitale, voir version séparée de cette loi, L 1973-07-12/36 "
   - "Consultation des versions antérieures à partir du 17-04-1985 et mise à jour au 21-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1973. - Loi sur la conservation de la nature. - Etat fédéral

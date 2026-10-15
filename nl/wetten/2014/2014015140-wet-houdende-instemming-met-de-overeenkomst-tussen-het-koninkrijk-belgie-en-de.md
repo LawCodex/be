@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014015140/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Verenigde Staten van Amerika inzake de bevordering van de samenwerking bij het voorkomen en bestrijden van ernstige criminaliteit, gedaan te Brussel op 20 september 2011

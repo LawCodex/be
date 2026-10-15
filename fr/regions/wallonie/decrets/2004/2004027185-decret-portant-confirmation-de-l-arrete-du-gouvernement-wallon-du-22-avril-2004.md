@@ -13,7 +13,7 @@ entry_into_force: 2004-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004027185/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret portant confirmation de l'arrêté du Gouvernement wallon du 22 avril 2004 portant codification de la législation relative aux pouvoirs locaux.

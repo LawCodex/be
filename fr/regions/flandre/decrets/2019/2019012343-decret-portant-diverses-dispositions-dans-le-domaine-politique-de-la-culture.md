@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019012343/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-05-2019 et mise à jour au 29-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret portant diverses dispositions dans le domaine politique de la culture

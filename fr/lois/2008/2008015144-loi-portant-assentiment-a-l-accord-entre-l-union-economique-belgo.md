@@ -12,7 +12,7 @@ entry_into_force: 2011-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/08/30/2008015144/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2008. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Corée concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 12 décembre 2006

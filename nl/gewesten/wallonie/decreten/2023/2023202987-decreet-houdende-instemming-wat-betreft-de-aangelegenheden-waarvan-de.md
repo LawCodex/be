@@ -13,7 +13,7 @@ entry_into_force: 2023-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/19/2023202987/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2023. - Decreet houdende instemming, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Verdrag nr. 190 van de Internationale Arbeidsorganisatie betreffende de uitbanning van geweld en intimidatie in de wereld van werk, aangenomen door de Internationale Arbeidsconferentie tijdens haar honderdachtste zitting te Genève op 21 juni 2019

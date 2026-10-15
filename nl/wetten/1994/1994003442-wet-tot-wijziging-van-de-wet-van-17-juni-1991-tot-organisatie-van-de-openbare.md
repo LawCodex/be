@@ -12,7 +12,7 @@ entry_into_force: 1994-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/06/1994003442/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1994. - Wet tot wijziging van de wet van 17 juni 1991 tot organisatie van de openbare kredietsector en van het bezit van de deelnemingen van de openbare sector in bepaalde privaatrechtelijke financiële vennootschappen, alsook van de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen.

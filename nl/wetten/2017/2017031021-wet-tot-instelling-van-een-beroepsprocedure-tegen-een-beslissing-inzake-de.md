@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2017031021/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2017 en tekstbijwerking tot 30-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet tot instelling van een beroepsprocedure tegen een beslissing inzake de selectieprocedure voor de beperkte categorieën van grondafhandelingsdiensten op de luchthaven Brussel-Nationaal

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/09/2023206798/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2023. - Decreet houdende instemming met het samenwerkingsakkoord van 21 september 2023 tot wijziging van het samenwerkingsakkoord van 20 maart 2014 afgesloten tussen het Waalse Gewest en de Franse Gemeenschap betreffende de terbeschikkingstelling van voorzieningen in het kader van de herziening van het kwalificerend onderwijs en de samenwerking tussen de Centra voor gevorderde technologieën en de Kenniscentra

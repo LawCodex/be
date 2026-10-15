@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/02/12/2004200760/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 23-03-2004 en tekstbijwerking tot 01-03-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2004. - Decreet betreffende het beheerscontract en de verplichtingen tot informatieverstrekking voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet (VERTALING)

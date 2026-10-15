@@ -13,7 +13,7 @@ entry_into_force: 2025-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/02/21/2025002227/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2025. - Décret relatif à la surveillance des émissions des véhicules routiers

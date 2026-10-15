@@ -13,7 +13,7 @@ last_amended: 2010-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/12/23/1974122350/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1974. - Wet betreffende de budgettaire voorstellen 1974-1975.

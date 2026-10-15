@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/11/2009202854/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-08-2009 en tekstbijwerking tot 07-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2009. - [Decreet over het Centrum voor bevorderingspedagogiek, ter verbetering van de gespecialiseerde pedagogische ondersteuning in de gewone en gespecialiseerde scholen, evenals ter aanmoediging van de ondersteuning van leerlingen met een beperking of met aanpassings- of leermoeilijkheden in de gewone en gespecialiseerde scholen] (Opschrift vervangen door ERRATUM, zie B.St. 18-11-2011, Ed. 2, p. 68758) (Tekst vervangen door Erratum, B.St. 18-11-2011, Ed. 2, p. 68758-68795)

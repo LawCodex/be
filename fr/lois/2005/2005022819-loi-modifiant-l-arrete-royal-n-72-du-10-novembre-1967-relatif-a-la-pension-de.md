@@ -12,7 +12,7 @@ entry_into_force: 2005-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005022819/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi modifiant l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants en ce qui concerne la suspension et le recouvrement du droit à la pension de survie.

@@ -13,7 +13,7 @@ entry_into_force: 2004-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029174/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet tot wijziging van het decreet van 27 maart 2002 betreffende de leermeesters en leraars godsdienst (VERTALING).

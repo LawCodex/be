@@ -12,7 +12,7 @@ published: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/11/2017030383/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2017. - Decreet tot bevestiging van de besluiten van de Regering van de Franse Gemeenschap van 20 juli 2016 en 24 augustus 2016 tot wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de ambten, bekwaamheidsbewijzen en barema's tot uitvoering van de artikelen 7, 16, 50 en 263 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde of gesubsidieerde basis- en secundair onderwijs en van het besluit van de Regering van de Franse Gemeenschap van 24 augustus 2016 houdende wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de verbindingen cursus/ambt genomen ter uitvoering van artikel 10 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde en gesubsidieerde basis- en secundair onderwijs

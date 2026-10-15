@@ -12,7 +12,7 @@ entry_into_force: 2007-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007000383/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen en ce qui concerne l'indication des partis politiques au-dessus des listes de candidats sur les bulletins de vote.

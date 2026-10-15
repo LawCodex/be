@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002029067/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet tot wijziging van het decreet van 24 juli 1997 dat het statuut bepaalt van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap (VERTALING).

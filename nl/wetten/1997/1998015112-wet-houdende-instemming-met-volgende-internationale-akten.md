@@ -12,7 +12,7 @@ entry_into_force: 1997-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/1998015112/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet houdende instemming met volgende Internationale Akten :

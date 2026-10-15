@@ -13,7 +13,7 @@ entry_into_force: 2025-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/06/2024011951/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2024. - Decreet houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2024

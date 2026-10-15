@@ -12,7 +12,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/13/2024002270/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2024. - Wet tot motivering van ontslag en kennelijk onredelijk ontslag van contractuele werknemers in de overheidssector

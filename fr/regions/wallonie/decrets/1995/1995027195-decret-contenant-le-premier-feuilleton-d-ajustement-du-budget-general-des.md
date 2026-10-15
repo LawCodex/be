@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027195/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 06-05-1995 et mise à jour au 31-01-1996."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret contenant le premier feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 1995.

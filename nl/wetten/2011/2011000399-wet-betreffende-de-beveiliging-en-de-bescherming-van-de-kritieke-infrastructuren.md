@@ -16,7 +16,7 @@ department: "Binnenlandse Zaken"
 justel_notes:
   - "art. 13/1 ingevoegd in de toekomst door W 2023-06-11/08 , art. 2; Inwerkingtreding : 1-08-2024"
   - "Raadpleging van vroegere versies vanaf 07-05-2014 en tekstbijwerking tot 19-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2011. - Wet betreffende de beveiliging en de bescherming van de kritieke infrastructuren

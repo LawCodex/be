@@ -13,7 +13,7 @@ entry_into_force: 1999-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/17/1999029327/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 1999. - Decreet betreffende het administratief statuut van de leden van het bestuurs- en onderwijzend personeel en van het onderwijzend hulppersoneel van de inrichtingen voor het onderwijs voor sociale promotie van de Franse Gemeenschap (Vertaling).

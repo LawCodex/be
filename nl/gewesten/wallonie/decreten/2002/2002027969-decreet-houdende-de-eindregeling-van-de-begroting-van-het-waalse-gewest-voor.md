@@ -13,7 +13,7 @@ entry_into_force: 2002-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/08/2002027969/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2002. - Decreet houdende de eindregeling van de begroting van het Waalse Gewest voor het jaar 1995. (Vertaling).

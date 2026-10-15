@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/05/2002012455/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-03-2002 en tekstbijwerking tot 11-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2002. - [Wet betreffende de arbeids-, loon- en tewerkstellingsvoorwaarden in geval van detachering van werknemers in België en de naleving ervan.] &lt;W 2016-12-11/03 , art. 5, 004; Inwerkingtreding : 30-12-2016&gt;

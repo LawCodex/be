@@ -13,7 +13,7 @@ entry_into_force: 2014-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/24/2014201986/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2014. - Decreet houdende instemming met het Samenwerkingsakkoord van 13 december 2013 tussen de Federale Overheid, de Gemeenschappen, de Gewesten en de Gemeenschapscommissies betreffende de uitvoering van artikel 3, § 1, van het Verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie

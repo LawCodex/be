@@ -11,7 +11,7 @@ date: 2025-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/16/2025006516/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2025. - Decreet tot wijziging van diverse bepalingen betreffende het hoger onderwijs, het volwassenenonderwijs en het wetenschappelijk onderzoek en tot gedeeltelijke omzetting van Richtlijn (EU) 2022/2041 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende toereikende minimumlonen in de Europese Unie

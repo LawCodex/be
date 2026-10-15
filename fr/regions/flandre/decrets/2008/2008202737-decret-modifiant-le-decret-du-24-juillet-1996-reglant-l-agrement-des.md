@@ -13,7 +13,7 @@ entry_into_force: 2008-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008202737/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - Décret modifiant le décret du 24 juillet 1996 réglant l'agrément des institutions de médiation de dettes dans la Communauté flamande (TRADUCTION).

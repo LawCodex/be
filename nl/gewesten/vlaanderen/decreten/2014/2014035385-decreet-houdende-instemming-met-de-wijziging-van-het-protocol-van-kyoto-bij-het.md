@@ -13,7 +13,7 @@ entry_into_force: 2014-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/14/2014035385/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Decreet houdende instemming met de wijziging van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, aangenomen in Doha op 8 december 2012

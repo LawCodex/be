@@ -10,7 +10,7 @@ date: 1807-09-10
 published: 1807-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1807/09/10/1807091053/justel"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBRE 1807. - CODE DE COMMERCE : LIVRE IV. - De la juridiction commerciale.

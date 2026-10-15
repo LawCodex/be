@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/10/27/1994029531/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-08-1995 et mise à jour au 15-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 1994. - Décret organisant la concertation pour l'enseignement secondaire.

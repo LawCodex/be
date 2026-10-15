@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/04/2012009519/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2012. - Loi modifiant le Code de la nationalité belge afin de rendre l'acquisition de la nationalité belge neutre du point de vue de l'immigration

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/12/2023040944/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2023. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas concernant l'échange et la protection mutuelle des informations classifiées, fait à Bruxelles le 5 novembre 2019

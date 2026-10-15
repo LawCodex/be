@@ -13,7 +13,7 @@ entry_into_force: 2012-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/31/2012029275/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2012. - Decreet houdende wijziging van het decreet van 17 juli 2003 met betrekking tot de steun aan het verenigingsleven op het gebied van de permanente opvoeding

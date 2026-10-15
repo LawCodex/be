@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/17/2017206639/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2017. - Loi portant affectation de nouvelles missions de perception et intégration de certaines missions et d'une partie du personnel de la Caisse de Secours et de Prévoyance en faveur des marins à l'Office national de Sécurité sociale et à la Caisse Auxiliaire d'Assurance Maladie-Invalidité

@@ -12,7 +12,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/01/2019A12308/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2018. - Convention générale de coopération entre le Royaume de Belgique et la République du Sénégal, faite à Dakar le 1er mars 2018

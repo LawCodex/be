@@ -13,7 +13,7 @@ entry_into_force: 2001-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/08/2001029151/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2001. - Decreet tot wijziging van het decreet van 16 april 1975 tot inrichting van een letterkundige prijs van de Raad van de Franse Gemeenschap (VERTALING).

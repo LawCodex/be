@@ -12,7 +12,7 @@ entry_into_force: 2013-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/31/2013011420/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2013. - Loi visant à renforcer la protection des utilisateurs de produits et services financiers ainsi que les compétences de l'Autorité des services et marchés financiers, et portant des dispositions diverses (II)

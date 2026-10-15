@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/02/2026005432/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2026. - Decreet tot wijziging van het decreet van 15 december 2011 houdende organisatie van de begroting, de boekhouding en de verslaggeving van de Waalse openbare bestuurseenheid met het oog op de gedeeltelijke omzetting van Richtlijn (EU) 2024/1265

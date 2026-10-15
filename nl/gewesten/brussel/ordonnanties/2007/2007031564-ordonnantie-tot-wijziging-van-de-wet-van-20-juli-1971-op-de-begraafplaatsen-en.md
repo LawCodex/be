@@ -13,7 +13,7 @@ entry_into_force: 2008-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/12/13/2007031564/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2007. - Ordonnantie tot wijziging van de wet van 20 juli 1971 op de begraafplaatsen en de lijkbezorging met het oog op een waardige behandeling van het stoffelijk overschot van levenloos geboren foetussen.

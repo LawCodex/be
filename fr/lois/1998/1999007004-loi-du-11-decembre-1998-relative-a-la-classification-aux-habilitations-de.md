@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/11/1999007004/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 07-05-1999 et mise à jour au 08-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1998. - [Loi du 11 décembre 1998 relative à la classification, aux habilitations de sécurité, aux avis de sécurité et au service public réglementé] &lt;INTITULE remplacé par L 2024-06-02/09 , art. 2, 016; En vigueur : 01-02-2025&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2009-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/30/2010009011/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 2009. - Wet tot gelijkstelling van de graad van master in de rechten, master in het notariaat en master in het sociaal recht met respectievelijk een licentiaat of doctor in de rechten, een licentiaat in het notariaat en een licentiaat in het sociaal recht wat betreft de diplomavereisten voor juridische beroepen in wetten en reglementen die een aangelegenheid regelen als bedoeld in artikel 78 van de Grondwet

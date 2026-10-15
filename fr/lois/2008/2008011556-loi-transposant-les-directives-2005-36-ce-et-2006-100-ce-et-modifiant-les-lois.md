@@ -12,7 +12,7 @@ entry_into_force: 2009-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/11/21/2008011556/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2008. - Loi transposant les Directives 2005/36/CE et 2006/100/CE et modifiant les lois des 20 février 1939 sur la protection du titre et de la profession d'architecte et 26 juin 1963 créant un Ordre des Architectes.

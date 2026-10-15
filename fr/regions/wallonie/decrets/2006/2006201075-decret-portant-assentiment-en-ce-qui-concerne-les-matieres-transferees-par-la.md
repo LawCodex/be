@@ -13,7 +13,7 @@ entry_into_force: 2006-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/16/2006201075/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2006. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'Accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Républiques du Costa Rica, d'El Salvador, du Guatemala, du Honduras, du Nicaragua et du Panama, d'autre part, et Annexe, faits à Rome le 15 décembre 2003.

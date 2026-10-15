@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/07/22/1985011261/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 04-10-2000 en tekstbijwerking tot 14-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1985. - Wet betreffende de wettelijke aansprakelijkheid op het gebied van de kernenergie.

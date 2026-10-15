@@ -12,7 +12,7 @@ entry_into_force: 2021-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/30/2021041367/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2021. - Wet tot bekrachtiging van drie koninklijke besluiten inzake kansspelen

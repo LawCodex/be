@@ -13,7 +13,7 @@ entry_into_force: 2023-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/01/2023031130/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2023. - Décret spécial modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles, en vue de réduire de moitié le seuil d'accès à la répartition complémentaire des sièges pour l'élection des membres du Parlement wallon

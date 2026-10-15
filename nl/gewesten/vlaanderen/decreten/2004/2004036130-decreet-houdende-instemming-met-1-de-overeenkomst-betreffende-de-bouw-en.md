@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036130/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met : 1. de Overeenkomst betreffende de bouw en exploitatie van een Europese synchrHIotronstralingsinstallatie, de bijlagen 1 tot 4, de Slotakte en de resoluties 1 tot 5, ondertekend in Parijs op 16 december 1988; 2. de Overeenkomst tussen het Koninkrijk België en het Koninkrijk der Nederlanden betreffende de gezamenlijke deelname aan de Europese synchrotronstralingsinstallatie, alsook de wijze van uitvoering daarvan, en de briefwisseling, ondertekend in Brussel op 12 november 1990; 3. het Protocol van toetreding van het Koninkrijk der Nederlanden tot de overeenkomst van 16 december 1988 betreffende de bouw en exploitatie van een Europese installatie voor synchrotronstraling en de bijlage 1 bij het Protocol, ondertekend in Parijs op 9 december 1991; 4. het Addendum bij de Slotakte van de Conferentie van Gevolmachtigden voor de oprichting van een Europese installatie voor synchrotronstraling, ondertekend te Parijs op 16 december 1988 (1)

@@ -10,7 +10,7 @@ date: 2016-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/10/28/2016024248/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2016. - Wet tot inzake de wijze van toepassing van Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 en Verordening (EU) nr. 525/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende een bewakings- en rapportagesysteem voor de uitstoot van broeikasgassen en een rapportagemechanisme voor overige informatie op nationaal niveau en op het niveau van de unie met betrekking tot klimaatverandering, en tot intrekking van Beschikking nr. 280/2004/EG

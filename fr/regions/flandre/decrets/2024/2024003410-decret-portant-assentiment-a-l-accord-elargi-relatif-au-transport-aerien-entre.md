@@ -13,7 +13,7 @@ entry_into_force: 2024-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024003410/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - DECRET portant assentiment à l'accord élargi relatif au transport aérien entre les Etats membres de l'Association des nations de l'Asie du Sud-Est, d'une part, et l'Union européenne et ses Etats membres, d'autre part, signé à Bali, Indonésie, le 17 octobre 2022

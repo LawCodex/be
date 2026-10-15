@@ -12,7 +12,7 @@ entry_into_force: 2012-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/10/2012011281/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2012. - Wet tot wijziging van de wet van 17 januari 2003 betreffende de rechtsmiddelen en de geschillenbehandeling naar aanleiding van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector

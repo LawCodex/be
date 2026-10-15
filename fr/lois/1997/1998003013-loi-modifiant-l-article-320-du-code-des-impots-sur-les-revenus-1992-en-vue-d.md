@@ -12,7 +12,7 @@ entry_into_force: 1998-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/09/1998003013/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1997. - Loi modifiant l'article 320 du Code des impôts sur les revenus 1992, en vue d'interdire aux dispensateurs de soins de détacher la souche fiscale des attestations de soins.

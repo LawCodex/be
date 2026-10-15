@@ -12,7 +12,7 @@ entry_into_force: 1983-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/08/17/1983015316/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AOUT 1983. - Loi portant approbation des actes internationaux suivants :

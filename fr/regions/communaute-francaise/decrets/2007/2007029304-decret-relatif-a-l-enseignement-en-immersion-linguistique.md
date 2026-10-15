@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/11/2007029304/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-10-2007 et mise à jour au 27-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Décret relatif à l'enseignement en immersion linguistique

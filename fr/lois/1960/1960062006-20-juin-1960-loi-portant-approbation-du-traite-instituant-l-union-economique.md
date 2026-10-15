@@ -11,7 +11,7 @@ published: 1960-10-27
 entry_into_force: 1960-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/06/20/1960062006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1960. \_ Loi portant approbation du Traité instituant l'Union économique Benelux, de la Convention transitoire et des Listes annexes, du Protocole d'exécution, du Protocole de signature et de l'échange de lettres concernant la question des primes rhénanes, signé à La Haye, le 3 février 1958.

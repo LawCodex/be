@@ -13,7 +13,7 @@ entry_into_force: 2014-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/29/2013206975/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2013. - Décret portant approbation du Protocole de modification de la convention entre le Royaume des Pays-Bas et la Communauté flamande de Belgique concernant l'accréditation des formations au sein de l'enseignement supérieur néerlandais et flamand

@@ -13,7 +13,7 @@ entry_into_force: 1996-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996035945/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - Decreet tot bekrachtiging van de eindtermen en de ontwikkelingsdoelen van de eerste graad van het gewoon secundair onderwijs.

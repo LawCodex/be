@@ -12,7 +12,7 @@ entry_into_force: 2023-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/14/2023030720/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2023. - Wet tot wijziging van de programmawet (i) van 27 december 2006

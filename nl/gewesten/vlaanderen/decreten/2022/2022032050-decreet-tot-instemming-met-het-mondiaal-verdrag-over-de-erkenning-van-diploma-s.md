@@ -13,7 +13,7 @@ entry_into_force: 2022-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/29/2022032050/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2022. - Decreet tot instemming met het mondiaal verdrag over de erkenning van diploma's betreffende het hoger onderwijs, aangenomen te Parijs op 25 november 2019

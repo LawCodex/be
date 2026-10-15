@@ -12,7 +12,7 @@ entry_into_force: 2004-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/09/2004003314/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2004. - Loi relative à la contribution de la Belgique à la treizième reconstitution des ressources de l'Association internationale de Développement.

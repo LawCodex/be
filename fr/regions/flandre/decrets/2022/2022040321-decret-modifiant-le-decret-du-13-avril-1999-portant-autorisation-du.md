@@ -13,7 +13,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/11/2022040321/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2022. - Décret modifiant le décret du 13 avril 1999 portant autorisation du Gouvernement flamand à accéder et à participer à la création de l'association sans but lucratif " Vlaams Audiovisueel Fonds " (Fonds audiovisuel flamand), en ce qui concerne la mission du " Vlaams Audiovisueel Fonds "

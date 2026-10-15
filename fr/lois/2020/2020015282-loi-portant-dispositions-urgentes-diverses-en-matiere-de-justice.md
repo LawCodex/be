@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/31/2020015282/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-08-2020 et mise à jour au 30-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2020. - Loi portant dispositions urgentes diverses en matière de justice

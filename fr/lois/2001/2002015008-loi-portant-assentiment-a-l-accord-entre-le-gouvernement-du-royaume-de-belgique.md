@@ -12,7 +12,7 @@ entry_into_force: 2002-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/17/2002015008/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2001. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République fédérale d'Allemagne concernant la protection réciproque des informations classifiées, signée à Bruxelles le 7 novembre 1996.

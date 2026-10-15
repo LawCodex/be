@@ -11,7 +11,7 @@ published: 1973-04-21
 entry_into_force: 1973-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/04/10/1973041002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1973. - Wet waarbij aan de werknemers kredieturen worden toegekend met het oog op hun sociale promotie. .

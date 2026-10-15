@@ -13,7 +13,7 @@ entry_into_force: 2011-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024203428/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van artikel 499 van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende het statuut van de bestuurders van het Gewestelijk psychiatrisch centrum "Les Marronniers"

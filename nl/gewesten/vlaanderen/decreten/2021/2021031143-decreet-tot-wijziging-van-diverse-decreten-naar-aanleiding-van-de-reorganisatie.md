@@ -13,7 +13,7 @@ entry_into_force: 2021-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/04/02/2021031143/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2021. - Decreet tot wijziging van diverse decreten naar aanleiding van de reorganisatie van ICT binnen het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie

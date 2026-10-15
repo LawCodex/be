@@ -13,7 +13,7 @@ entry_into_force: 2019-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/10/2017020336/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2017. - Decreet houdende wijziging van het decreet van 20 december 1996 tot regeling van de rol van de lokale adviescommissie in het kader van het recht op minimumlevering van elektriciteit, gas en water en van het Energiedecreet van 8 mei 2009, wat betreft de invoering van een regulerend kader voor warmte- of koudenetten

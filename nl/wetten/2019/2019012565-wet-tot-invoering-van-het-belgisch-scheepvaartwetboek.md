@@ -11,7 +11,7 @@ published: 2019-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/08/2019012565/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2019. - Wet tot invoering van het Belgisch Scheepvaartwetboek

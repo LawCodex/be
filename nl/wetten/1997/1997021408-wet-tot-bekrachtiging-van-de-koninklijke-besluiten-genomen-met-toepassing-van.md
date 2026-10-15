@@ -12,7 +12,7 @@ entry_into_force: 1997-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/12/1997021408/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1997. - Wet tot bekrachtiging van de koninklijke besluiten genomen met toepassing van de wet van 26 juli 1996 tot modernisering van sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels, en de wet van 26 juli 1996 strekkende tot realisatie van de budgettaire voorwaarden tot deelname van België aan de Europese Economische en Monetaire Unie.

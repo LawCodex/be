@@ -12,7 +12,7 @@ entry_into_force: 2006-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/20/2006015029/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2006. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Fédération de Russie relatif à la coopération dans le domaine de l'exploration et de l'utilisation de l'espace à des fins pacifiques, et à l'Annexe, signés à Moscou le 20 décembre 2000.

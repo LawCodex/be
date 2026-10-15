@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/12/18/1991121850/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-06-1994 en tekstbijwerking tot 17-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1991. - Decreten inzake voorzieningen voor [ouderen] gecoördineerd op 18 december 1991. (Opschrift gewijzigd bij DVR 2007-07-13/60, art. 2; ED 01-12-2008)

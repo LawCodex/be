@@ -12,7 +12,7 @@ entry_into_force: 2004-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/16/2003015102/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2003. - Wet houdende instemming met de Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en de Republiek Kroatië, anderzijds, met de Bijlagen I, II, III, IV, V, VI, VII en VIII, met de Protocollen 1, 2, 3, 4, 5 en 6, en met de Slotakte, gedaan te Luxemburg op 29 oktober 2001.

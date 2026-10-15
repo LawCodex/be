@@ -12,7 +12,7 @@ entry_into_force: 2019-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/06/11/2019011958/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1987. - Loi portant approbation de la Convention n° 156 concernant l'égalité de chances et de traitement pour les travailleurs des deux sexes : travailleur ayant des responsabilités familiales, adoptée à Genève, le 23 juin 1981, par la Conférence internationale du Travail lors de sa soixante-septième Session

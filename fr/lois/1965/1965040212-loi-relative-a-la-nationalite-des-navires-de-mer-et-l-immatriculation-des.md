@@ -11,7 +11,7 @@ published: 1965-05-06
 entry_into_force: 1965-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/02/1965040212/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1965. - Loi relative à la nationalité des navires de mer et l'immatriculation des navires de mer et des bateaux d'intérieur.

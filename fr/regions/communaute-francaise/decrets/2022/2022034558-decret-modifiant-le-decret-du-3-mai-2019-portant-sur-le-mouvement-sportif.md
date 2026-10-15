@@ -13,7 +13,7 @@ entry_into_force: 2023-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/01/2022034558/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2022. - Décret modifiant le décret du 3 mai 2019 portant sur le mouvement sportif organisé en Communauté française

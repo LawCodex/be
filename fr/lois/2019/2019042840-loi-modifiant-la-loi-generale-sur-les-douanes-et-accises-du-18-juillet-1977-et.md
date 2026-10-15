@@ -12,7 +12,7 @@ entry_into_force: 2019-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/09/2019042840/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2019. - Loi modifiant la loi générale sur les douanes et accises du 18 juillet 1977 et le code de la taxe sur la valeur ajoutée transposant la directive (UE) 2017/1371

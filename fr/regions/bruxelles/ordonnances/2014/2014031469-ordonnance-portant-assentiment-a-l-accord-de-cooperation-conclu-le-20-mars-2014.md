@@ -13,7 +13,7 @@ entry_into_force: 2014-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031469/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance portant assentiment à l'Accord de coopération conclu le 20 mars 2014 entre la Communauté française, la Région wallonne, la Région de Bruxelles-Capitale, la Commission communautaire française et la Communauté germanophone organisant la mise en oeuvre d'un cadastre des parcours éducatifs et post-éducatifs

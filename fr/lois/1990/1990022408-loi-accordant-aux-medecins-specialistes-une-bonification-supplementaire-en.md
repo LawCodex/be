@@ -12,7 +12,7 @@ entry_into_force: 1990-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/18/1990022408/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1990. - Loi accordant aux médecins spécialistes une bonification supplémentaire en matière de pension.

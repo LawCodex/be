@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2008036466/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2008 et mise à jour au 29-01-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret portant assentiment à l'accord de coopération du 4 novembre 2008 entre la Région flamande, la Région wallonne et la Région Bruxelles-Capitale relatif à la prévention et à la gestion de déchets d'emballage (TRADUCTION)

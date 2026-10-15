@@ -13,7 +13,7 @@ entry_into_force: 2011-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2011200663/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret portant assentiment aux instruments d'amendement à la Constitution et à la Convention de l'Union internationale des télécommunications, telles que modifiées par la Conférence de plénipotentiaires en 1994, 1998 et 2002, adoptés à Antalya le 24 novembre 2006

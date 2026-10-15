@@ -12,7 +12,7 @@ entry_into_force: 2005-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/14/2005003626/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2005. - Loi modifiant l'Accord portant création de la Banque européenne pour la Reconstruction et le Développement.

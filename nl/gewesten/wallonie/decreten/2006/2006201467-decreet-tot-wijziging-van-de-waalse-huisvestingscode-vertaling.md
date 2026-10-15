@@ -13,7 +13,7 @@ entry_into_force: 2006-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/30/2006201467/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2006. - Decreet tot wijziging van de Waalse Huisvestingscode (VERTALING).

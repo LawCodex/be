@@ -12,7 +12,7 @@ entry_into_force: 1990-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/02/19/1990009296/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 1990. - Loi interprétative de l'article 10 de la loi hypothécaire.

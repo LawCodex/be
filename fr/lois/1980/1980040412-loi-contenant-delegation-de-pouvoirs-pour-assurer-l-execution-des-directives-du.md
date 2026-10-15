@@ -11,7 +11,7 @@ published: 1980-05-21
 entry_into_force: 1980-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/04/04/1980040412/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 1980. - Loi contenant délégation de pouvoirs pour assurer l'exécution des directives du Conseil des Communautés européennes, relatives à l'art de guérir, à l'art infirmier, aux professions paramédicales et à l'art vétérinaire.

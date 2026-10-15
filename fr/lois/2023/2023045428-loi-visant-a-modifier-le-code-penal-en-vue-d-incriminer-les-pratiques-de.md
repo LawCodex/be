@@ -12,7 +12,7 @@ entry_into_force: 2023-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/31/2023045428/justel"
 department: "Institut pour l'égalité des femmes et des hommes"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2023. - Loi visant à modifier le code pénal en vue d'incriminer les pratiques de conversion

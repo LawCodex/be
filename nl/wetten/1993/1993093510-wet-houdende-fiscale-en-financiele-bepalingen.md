@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/07/22/1993093510/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-1994 en tekstbijwerking tot 23-12-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1993. - Wet houdende fiscale en financiële bepalingen.

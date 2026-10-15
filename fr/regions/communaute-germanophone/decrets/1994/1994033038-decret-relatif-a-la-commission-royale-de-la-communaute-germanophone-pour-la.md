@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/14/1994033038/justel"
 department: "Communauté germanophone"
 justel_note: "consultation des versions antérieures à partir du 02-06-1994 et mise à jour au 14-11-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 1994. - Décret relatif à la Commission royale de la Communauté germanophone pour la protection des monuments et sites. &lt;Traduction&gt;

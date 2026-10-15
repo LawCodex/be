@@ -12,7 +12,7 @@ entry_into_force: 2024-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/07/2022034237/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2022. - Loi portant assentiment à l'Accord entre le gouvernement du Royaume de Belgique et le gouvernement de la République italienne concernant l'échange et la protection mutuelle des informations classifiées, fait à Rome le 31 janvier 2017

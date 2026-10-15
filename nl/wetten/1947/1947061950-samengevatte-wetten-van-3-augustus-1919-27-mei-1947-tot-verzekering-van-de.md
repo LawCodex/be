@@ -13,7 +13,7 @@ last_amended: 1998-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1947/06/19/1947061950/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 20-10-1998."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 1947. - Samengevatte wetten van 3 Augustus 1919-27 Mei 1947 tot verzekering van de wederopneming der gemobiliseerde Belgen in hun bediening en tot toekenning aan de oorlogsinvaliden, oudstrijders, leden van de Weerstand, politieke gevangenen, oorlogsweduwen en -wezen, gedeporteerden, arbeidsweigeraars en andere slachtoffers van de oorlogen 1914-1918 en 1940-1945, van een prioriteitsrecht voor de toegang tot de openbare betrekkingen. -

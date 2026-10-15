@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017030001/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 19-01-2017 et mise à jour au 04-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi instituant des amendes administratives applicables en cas d'infractions aux lois sur la navigation

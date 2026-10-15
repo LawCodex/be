@@ -12,7 +12,7 @@ entry_into_force: 1994-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/01/1994010028/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 1994. - LOI relative à la formation et au recrutement des magistrats

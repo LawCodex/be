@@ -12,7 +12,7 @@ entry_into_force: 2024-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/02/2024007225/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2024. - Loi portant assentiment au Protocole commun relatif à l'application de la Convention de Vienne et de la Convention de Paris, fait à Vienne le 21 septembre 1988

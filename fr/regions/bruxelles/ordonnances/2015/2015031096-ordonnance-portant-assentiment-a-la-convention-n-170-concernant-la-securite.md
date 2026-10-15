@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/02/05/2015031096/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2015. - Ordonnance portant assentiment à : la Convention n° 170 concernant la sécurité dans l'utilisation des produits chimiques au travail, adoptée à Genève le 25 juin 1990 par la Conférence internationale du Travail à sa septante-septième session

@@ -12,7 +12,7 @@ entry_into_force: 2018-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/09/2018202642/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2018. - Loi relative à l'occupation de ressortissants étrangers se trouvant dans une situation particulière de séjour

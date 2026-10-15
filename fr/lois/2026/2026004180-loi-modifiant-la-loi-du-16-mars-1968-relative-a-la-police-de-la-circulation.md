@@ -12,7 +12,7 @@ entry_into_force: 2026-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/25/2026004180/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2026. - Loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière suite à l'adoption du nouveau Code pénal et portant des dispositions diverses et modifiant la loi du 21 juin 1985 relative aux conditions techniques auxquelles doivent répondre tout véhicule de transport par terre, ses éléments ainsi que les accessoires de sécurité

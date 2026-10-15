@@ -12,7 +12,7 @@ entry_into_force: 2012-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/05/23/2011015136/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 1989. - Loi portant approbation de la Convention n° 150 concernant l'administration du travail : rôle, fonctions et organisation, adoptée à Genève le 26 juin 1978 par la Conférence internationale du Travail lors de sa soixante-quatrième session

@@ -12,7 +12,7 @@ entry_into_force: 2003-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/12/2003021180/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2003. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles.

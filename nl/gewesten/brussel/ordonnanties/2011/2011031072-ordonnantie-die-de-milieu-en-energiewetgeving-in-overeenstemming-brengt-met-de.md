@@ -13,7 +13,7 @@ entry_into_force: 2011-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/02/03/2011031072/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2011. - Ordonnantie die de milieu- en energiewetgeving in overeenstemming brengt met de regels van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt

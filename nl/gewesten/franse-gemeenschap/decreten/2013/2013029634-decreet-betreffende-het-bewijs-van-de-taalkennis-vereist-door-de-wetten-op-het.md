@@ -13,7 +13,7 @@ entry_into_force: 2014-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/07/2013029634/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2013. - Decreet betreffende het bewijs van de taalkennis vereist door de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966

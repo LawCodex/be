@@ -12,7 +12,7 @@ entry_into_force: 2025-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/26/2024004922/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2015. - Loi portant assentiment à l'Accord commercial entre l'Union européenne et ses Etats membres, d'une part, et la Colombie et le Pérou, d'autre part, fait à Bruxelles le 26 juin 2012

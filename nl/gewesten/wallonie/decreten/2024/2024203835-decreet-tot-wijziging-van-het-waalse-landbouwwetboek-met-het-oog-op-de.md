@@ -13,7 +13,7 @@ entry_into_force: 2024-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024203835/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van het Waalse landbouwwetboek met het oog op de organisatie van een gecentraliseerd beheer van de openbare landbouwkundige onroerende goederen en van een voorkeursrecht op bedoelde goederen ten gunste van het Waalse Gewest

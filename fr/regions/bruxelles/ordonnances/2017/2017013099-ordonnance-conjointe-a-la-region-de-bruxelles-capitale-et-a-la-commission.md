@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/27/2017013099/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 14-09-2017 et mise à jour au 20-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2017. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune fixant les règles de répartition de la dotation générale aux communes et aux CPAS de la Région de Bruxelles-Capitale à partir de l'année 2017

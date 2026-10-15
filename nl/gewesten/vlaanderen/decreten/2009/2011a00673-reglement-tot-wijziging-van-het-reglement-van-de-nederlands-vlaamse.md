@@ -12,7 +12,7 @@ published: 2011-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/09/14/2011A00673/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 SEPTEMBER 2009. - Reglement tot wijziging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie van 19 februari 2005 tot bepaling van bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie en toets nieuwe opleiding ten aanzien van hoger onderwijsopleidingen in de Vlaamse Gemeenschap

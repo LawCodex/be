@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/20/1998033100/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 1997. - Decreet houdende instemming met het kaderovereenkomst inzake handel en samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Korea, anderzijds, de bijlage en de verklaringen, ondertekend te Luxemburg op 28 oktober 1996 (VERTALING).

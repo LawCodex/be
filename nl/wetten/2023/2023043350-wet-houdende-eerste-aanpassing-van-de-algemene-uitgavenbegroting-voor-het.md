@@ -12,7 +12,7 @@ entry_into_force: 2023-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/09/2023043350/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2023. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2023

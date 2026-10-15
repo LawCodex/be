@@ -13,7 +13,7 @@ entry_into_force: 2025-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/22/2025004169/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2025. - Decreet houdende instemming met het Protocol, gedaan te New Delhi op 9 maart 2017, tot wijziging van de Overeenkomst en van het Protocol tussen de Regering van het Koninkrijk België en de Regering van de Republiek India tot het vermijden van Dubbele Belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, beide ondertekend te Brussel op 26 april 1993

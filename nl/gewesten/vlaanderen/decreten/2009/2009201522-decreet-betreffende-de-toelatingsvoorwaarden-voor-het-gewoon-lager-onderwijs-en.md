@@ -12,7 +12,7 @@ published: 2009-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/20/2009201522/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2009. - Decreet betreffende de toelatingsvoorwaarden voor het gewoon lager onderwijs en de engagementsverklaring tussen de school en de ouders in het basis- en secundair onderwijs

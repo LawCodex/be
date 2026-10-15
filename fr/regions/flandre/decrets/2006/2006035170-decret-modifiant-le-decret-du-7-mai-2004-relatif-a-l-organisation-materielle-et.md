@@ -13,7 +13,7 @@ entry_into_force: 2006-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/01/20/2006035170/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2006. - Décret modifiant le décret du 7 mai 2004 relatif à l'organisation matérielle et au fonctionnement des cultes reconnus, en ce qui concerne la suppression de la condition d'âge pour les membres des organes d'administration (TRADUCTION).

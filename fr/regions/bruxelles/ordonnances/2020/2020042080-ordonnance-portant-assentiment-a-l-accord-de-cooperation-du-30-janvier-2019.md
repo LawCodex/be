@@ -13,7 +13,7 @@ entry_into_force: 2020-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/02/2020042080/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2020. - Ordonnance portant assentiment à l'accord de coopération du 30 janvier 2019 entre l'Etat fédéral, les Communautés et les Régions relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes

@@ -13,7 +13,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/06/2022042710/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2022. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'action sociale en vue de simplifier les dispositions relatives aux marchés publics et aux concessions de services et de travaux

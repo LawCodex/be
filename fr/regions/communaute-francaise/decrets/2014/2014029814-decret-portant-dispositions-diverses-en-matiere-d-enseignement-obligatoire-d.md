@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/18/2014029814/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2014 et mise à jour au 23-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2014. - Décret portant dispositions diverses en matière d'enseignement obligatoire, d'enseignement supérieur et de protection de la jeunesse

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2010036014/justel"
 department: "Autorité flamande"
 justel_note: "par son arrêt n° 48/2012 du 22-03-2012 (M.B. 18-07-2012, p. 39212-39214), la Cour Constitutionnelle a annulé ce décret, en ce qu'il ne permet pas la restitution des droits d'enregistrement lors de l'acquisition d'une nouvelle habitation avec le terrain y attenant sous le régime de la TVA."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret portant modification du Code des droits d'enregistrement, d'hypothèque et de greffe, pour éviter un prélèvement simultané de T.V.A. et de droits d'enregistrement sur le même terrain

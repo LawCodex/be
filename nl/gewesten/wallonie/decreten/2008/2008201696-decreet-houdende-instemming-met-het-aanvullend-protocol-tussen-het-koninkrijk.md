@@ -13,7 +13,7 @@ entry_into_force: 2008-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/08/2008201696/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2008. - Decreet houdende instemming met het aanvullend protocol tussen het Koninkrijk België en het Europees Defensieagentschap, ondertekend te Brussel op 22 juni 2005 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2011200157/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk, wat betreft de verenigingen van migranten

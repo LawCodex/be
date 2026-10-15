@@ -13,7 +13,7 @@ entry_into_force: 2022-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/01/2022032818/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2022. - Décret modifiant le Code d'instruction criminelle, le Code rural du 7 octobre 1886, le Décret forestier du 13 juin 1990, le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel et le décret du 21 décembre 2001 contenant diverses mesures d'accompagnement du budget 2002, en ce qui concerne la protection de forêts et la gestion naturelle des terrains publics

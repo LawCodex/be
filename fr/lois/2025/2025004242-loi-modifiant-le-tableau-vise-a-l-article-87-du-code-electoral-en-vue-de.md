@@ -12,7 +12,7 @@ entry_into_force: 2025-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/06/10/2025004242/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2025. - Loi modifiant le tableau visé à l'article 87 du Code électoral en vue de modifier la composition de certains cantons électoraux dans les Régions wallonne et flamande

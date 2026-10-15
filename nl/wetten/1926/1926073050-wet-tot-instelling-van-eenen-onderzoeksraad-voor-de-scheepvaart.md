@@ -12,7 +12,7 @@ last_amended: 2022-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1926/07/30/1926073050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-09-1993 en tekstbijwerking tot 24-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1926. - Wet tot instelling van eenen onderzoeksraad voor de scheepvaart.

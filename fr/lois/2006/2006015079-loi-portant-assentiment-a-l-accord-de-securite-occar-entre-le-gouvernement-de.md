@@ -12,7 +12,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/01/2006015079/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MAI 2006. - Loi portant assentiment à l'Accord de Sécurité OCCAR entre le Gouvernement de la République française, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement du Royaume de Belgique, le Gouvernement de la République italienne et le Gouvernement du Royaume-Uni de Grande Bretagne et d'Irlande du Nord, fait à Paris le 24 septembre 2004.

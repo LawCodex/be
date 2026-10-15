@@ -12,7 +12,7 @@ published: 2016-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/20/2016205048/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Decreet betreffende de toekenning van een fiscaal voordeel voor de aankoop van de eigen woning : de "Chèque Habitat". - Errata

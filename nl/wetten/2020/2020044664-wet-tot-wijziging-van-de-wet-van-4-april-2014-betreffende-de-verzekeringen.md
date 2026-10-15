@@ -12,7 +12,7 @@ entry_into_force: 2021-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/10/2020044664/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2020. - Wet tot wijziging van de wet van 4 april 2014 betreffende de verzekeringen, teneinde in verband met de ziekteverzekering en de individuele levensverzekering beperkingen op te leggen aangaande de verwerking van persoonsgegevens inzake de levensstijl of de gezondheid die door met het internet verbonden apparaten worden verzameld

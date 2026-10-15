@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/14/2024006599/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 19-07-2024 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2024. - Décret instituant le Code de la gestion des ressources du sous-sol

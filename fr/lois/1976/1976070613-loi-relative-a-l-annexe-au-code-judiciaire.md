@@ -12,7 +12,7 @@ entry_into_force: 1976-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/06/1976070613/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1985 et mis à jour au 22-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1976. - Loi relative à l'Annexe au Code judiciaire.

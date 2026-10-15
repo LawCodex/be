@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/06/26/1992029469/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-09-1992 et mise à jour au 05-11-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1992. - Décret. - Programme.

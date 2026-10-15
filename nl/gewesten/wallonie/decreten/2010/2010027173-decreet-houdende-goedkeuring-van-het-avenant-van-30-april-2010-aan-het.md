@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/22/2010027173/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2010. - Decreet houdende goedkeuring van het avenant van 30 april 2010 aan het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie

@@ -12,7 +12,7 @@ entry_into_force: 2016-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016003473/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi modifiant la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral

@@ -12,7 +12,7 @@ entry_into_force: 2003-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/06/2003022543/justel"
 department: "Sécurité sociale - Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2003. - Loi approuvant l'avenant du 15 août 2002 à l'accord de coopération entre l'Etat, les Régions et la Communauté germanophone relatif à l'économie sociale du 4 juillet 2000, approuvé par la loi du 26 juin 2001.

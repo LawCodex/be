@@ -12,7 +12,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/27/2024001625/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2024. - Wet houdende diverse aanpassingen inzake ombudsdiensten

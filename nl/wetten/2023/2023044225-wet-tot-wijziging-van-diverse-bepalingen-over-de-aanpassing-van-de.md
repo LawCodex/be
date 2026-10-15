@@ -11,7 +11,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/20/2023044225/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Wet tot wijziging van diverse bepalingen over de aanpassing van de geslachtsregistratie

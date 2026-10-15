@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/08/14/2021021663/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 20-08-2021 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AOUT 2021. - Loi relative aux mesures de police administrative lors d'une situation d'urgence épidémique

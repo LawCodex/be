@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/23/2011036079/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2011 et mise à jour au 10-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2011. - Décret contenant diverses mesures d'accompagnement du budget 2012

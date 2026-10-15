@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/09/09/1996029338/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 15-10-1996 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBRE 1996. - Décret relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française.

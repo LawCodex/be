@@ -13,7 +13,7 @@ entry_into_force: 2026-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/10/20/2026000529/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2025. - Decreet houdende instemming met de volgende internationale overeenkomsten: 1° Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en het Koninkrijk Thailand, anderzijds, gedaan te Brussel op 14 december 2022; 2° Kaderovereenkomst inzake een partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Regering van Maleisië, anderzijds, gedaan te Brussel op 14 december 2022

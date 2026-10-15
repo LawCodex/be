@@ -12,7 +12,7 @@ published: 2019-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/21/2019030031/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Decreet tot wijziging van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten

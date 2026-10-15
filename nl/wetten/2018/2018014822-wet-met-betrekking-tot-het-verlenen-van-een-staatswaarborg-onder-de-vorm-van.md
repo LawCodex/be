@@ -10,7 +10,7 @@ date: 2018-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/07/2018014822/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2018. - Wet met betrekking tot het verlenen van een Staatswaarborg onder de vorm van een borgstelling, in de context van een DBFM overeenkomst, voor de bouw van een nieuwe penitentiaire inrichting te Antwerpen

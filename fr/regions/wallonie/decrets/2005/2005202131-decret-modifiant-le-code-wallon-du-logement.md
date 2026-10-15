@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005202131/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2005 et mise à jour au 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret modifiant le Code wallon du Logement

@@ -12,7 +12,7 @@ entry_into_force: 1998-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/20/1998003037/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 1998. - Wet tot wijziging van het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven.

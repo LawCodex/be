@@ -12,7 +12,7 @@ entry_into_force: 1985-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/01/21/1985018014/justel"
 department: "Classes Moyennes"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 1985. - Loi relative à la représentation spécifique des classes moyennes dans certains organes consultatifs.

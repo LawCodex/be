@@ -12,7 +12,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/29/2013009350/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2013. - Wet tot wijziging van artikel 433decies van het Strafwetboek ter verduidelijking van de bijzonder kwetsbare positie van een slachtoffer van huisjesmelkerij

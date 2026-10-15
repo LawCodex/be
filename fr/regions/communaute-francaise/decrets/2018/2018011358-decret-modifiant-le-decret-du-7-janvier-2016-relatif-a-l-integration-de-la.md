@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/22/2018011358/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2018. - Décret modifiant le décret du 7 janvier 2016 relatif à l'intégration de la dimension de genre dans l'ensemble des politiques de la Communauté française en vue de rendre le " test genre " accessible au Parlement

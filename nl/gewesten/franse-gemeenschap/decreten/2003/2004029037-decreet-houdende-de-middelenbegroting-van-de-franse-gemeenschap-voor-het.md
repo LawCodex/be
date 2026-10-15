@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/17/2004029037/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2003. - Decreet houdende de middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2004 (VERTALING).

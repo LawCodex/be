@@ -13,7 +13,7 @@ entry_into_force: 1995-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035688/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Décret portant approbation de l'accord de coopération entre le Gouvernement flamand et le Gouvernement de la République de Hongrie, fait à Budapest le 3 octobre 1994 (TRADUCTION)

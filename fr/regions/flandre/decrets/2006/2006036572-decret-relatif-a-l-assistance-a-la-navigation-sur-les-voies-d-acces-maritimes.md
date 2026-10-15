@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/16/2006036572/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-10-2006 et mise à jour au 26-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2006. - Décret relatif à l'assistance à la navigation sur les voies d'accès maritimes et à l'organisation du " Maritiem Reddings- en Coördinatiecentrum " (Centre de coordination et de sauvetage maritimes) (TRADUCTION).

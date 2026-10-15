@@ -13,7 +13,7 @@ entry_into_force: 2006-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/22/2006037068/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2006. - Decreet tot wijziging van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, van het gemeentedecreet van 15 juli 2005 en van het provinciedecreet van 9 december 2005.

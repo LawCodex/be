@@ -13,7 +13,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/26/2025005134/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2025. - Decreet tot wijziging van het decreet van 22 november 2018 betreffende het plan voor maatschappelijke cohesie wat betreft de aangelegenheden waarvan de uitoefening van de Franse Gemeenschap is overgedragen

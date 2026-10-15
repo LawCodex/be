@@ -10,7 +10,7 @@ date: 2014-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014015170/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet houdende instemming met het Aanvullend Protocol bij het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof inzake de rechtsbescherming van personen in dienst van de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), gedaan te Brussel op 24 oktober 2008

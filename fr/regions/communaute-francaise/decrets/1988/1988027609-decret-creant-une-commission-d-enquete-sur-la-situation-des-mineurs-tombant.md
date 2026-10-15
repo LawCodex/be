@@ -13,7 +13,7 @@ entry_into_force: 1988-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/06/17/1988027609/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 1988. - Décret créant une commission d'enquête sur la situation des mineurs tombant dans le champ d'application de la loi du 8 avril 1965 relative à la protection de la jeunesse et aux améliorations qui pourraient y être apportées.

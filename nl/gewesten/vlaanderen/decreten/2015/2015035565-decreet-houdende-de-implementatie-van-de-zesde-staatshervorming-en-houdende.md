@@ -13,7 +13,7 @@ entry_into_force: 2015-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/24/2015035565/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2015. - Decreet houdende de implementatie van de zesde staatshervorming en houdende diverse bepalingen inzake het beleidsdomein Werk en Sociale Economie

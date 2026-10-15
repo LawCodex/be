@@ -13,7 +13,7 @@ entry_into_force: 2003-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2003202259/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende instemming, wat de door de Franse Gemeenschap overgehevelde materies betreft, met het herziene Europees sociaal handvest en de Bijlage erbij, opgemaakt te Straatsburg op 3 mei 1996. (Vertaling).

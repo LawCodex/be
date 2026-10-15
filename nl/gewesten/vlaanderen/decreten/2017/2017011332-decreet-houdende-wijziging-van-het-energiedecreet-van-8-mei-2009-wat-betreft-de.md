@@ -13,7 +13,7 @@ entry_into_force: 2017-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/17/2017011332/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2017. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de energieprestaties van gebouwen

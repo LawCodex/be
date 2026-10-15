@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007022996/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2007 en tekstbijwerking tot 02-04-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet met betrekking tot de regeling van de geschillen in het kader van de wet van 15 mei 2007 betreffende de vergoeding van schade als gevolg van gezondheidszorg. .

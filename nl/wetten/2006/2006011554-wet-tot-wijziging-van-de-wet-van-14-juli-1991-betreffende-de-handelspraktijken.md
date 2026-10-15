@@ -12,7 +12,7 @@ entry_into_force: 2006-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/03/2006011554/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2006. - Wet tot wijziging van de wet van 14 juli 1991 betreffende de handelspraktijken en de voorlichting en bescherming van de consument teneinde de verkopers te verbieden telefoonoproepen naar hun naverkoopdienst aan een hogere kost aan te rekenen dan deze van een geografisch nummer.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/02/20/1991009232/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-05-1997 en tekstbijwerking tot 21-05-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1991. - Wet houdende wijziging van de bepalingen van het Burgerlijk Wetboek inzake huishuur.

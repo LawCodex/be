@@ -11,7 +11,7 @@ date: 2025-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/15/2025008695/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2025. - Decreet tot opening van voorlopige kredieten voor de maanden september, oktober, november en december van de Franse Gemeenschapscommissie voor het begrotingsjaar 2025

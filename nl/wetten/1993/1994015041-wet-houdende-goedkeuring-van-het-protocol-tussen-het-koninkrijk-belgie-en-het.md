@@ -12,7 +12,7 @@ entry_into_force: 1994-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1994015041/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet houdende goedkeuring van het Protocol tussen het Koninkrijk België en het Koninkrijk der Nederlanden inzake voorrechten en immuniteiten van de Nederlandse Taalunie, gedaan te 's-Gravenhage op 13 juli 1990.

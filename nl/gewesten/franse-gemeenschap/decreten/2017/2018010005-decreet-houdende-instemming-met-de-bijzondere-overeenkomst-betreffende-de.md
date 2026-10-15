@@ -13,7 +13,7 @@ entry_into_force: 2018-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/20/2018010005/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2017. - Decreet houdende instemming met de bijzondere overeenkomst betreffende de universitaire samenwerking inzake medische vorming tussen de Regering van de Franse Gemeenschap van België en de Regering van het Groothertogdom Luxemburg, ondertekend te Brussel op 17 juli 2017, enerzijds, en tot wijziging van diverse bepalingen inzake hoger onderwijs, anderzijds

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/09/2001016254/justel"
 department: "Classes Moyennes - Agriculture"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2001 et mise à jour au 11-08-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2001. - Loi confirmant les dispositions relatives aux cotisations obligatoires de l'arrêté royal du 15 octobre 2000 relatif aux cotisations obligatoires et contributions volontaires dues par le secteur de l'alimentation animale au Fonds pour l'indemnisation d'entreprises agricoles touchées par la crise de la dioxine. (Par son arrêt n° 100/2003 du 17 juillet 2003, M.B. 11-08-2003, p. 40634-40638, la Cour d'arbitrage a annulé la présente loi avec effet au 19 avril 2001.)

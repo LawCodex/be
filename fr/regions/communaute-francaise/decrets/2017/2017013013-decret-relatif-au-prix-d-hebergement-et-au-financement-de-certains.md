@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017013013/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2017 et mise à jour au 11-09-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret relatif au prix d'hébergement et au financement de certains appareillages des services médico-techniques lourds en hôpital universitaire

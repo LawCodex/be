@@ -11,7 +11,7 @@ published: 2023-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/18/2023203876/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2023. - Wet tot invoering van een overlegprocedure in het kader van de uitoefening van technische verstrekkingen door bekwame helpers bedoeld in artikel 124, 1°, zesde lid, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015

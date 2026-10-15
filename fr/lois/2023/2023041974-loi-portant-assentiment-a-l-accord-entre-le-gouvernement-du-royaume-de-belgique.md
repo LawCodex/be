@@ -12,7 +12,7 @@ entry_into_force: 2023-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023041974/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi portant assentiment à l'Accord entre le gouvernement du Royaume de Belgique, le gouvernement de la Communauté flamande, le gouvernement de la Communauté française, le gouvernement de la Communauté germanophone, le gouvernement de la Région flamande, le gouvernement de la Région wallonne, le gouvernement de la Région de Bruxelles-Capitale et le gouvernement de la République française en matière de transferts de corps par voie terrestre des personnes décédées, fait à Paris le 9 mars 2020

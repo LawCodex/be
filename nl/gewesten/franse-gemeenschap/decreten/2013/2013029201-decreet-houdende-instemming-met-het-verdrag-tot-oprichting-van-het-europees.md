@@ -13,7 +13,7 @@ entry_into_force: 2013-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/24/2013029201/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2013. - Decreet houdende instemming met het Verdrag tot oprichting van het Europees Bureau voor Radiocommunicatie, en de bijlagen, gedaan in Den Haag op 23 juni 1993 en de Akte van wijziging van het Verdrag tot oprichting van het Europees Bureau voor Radiocommunicatie, gedaan in Kopenhagen op 17 december 2002

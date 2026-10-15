@@ -11,7 +11,7 @@ published: 2001-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/15/2001009446/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2001. - Wet tot wijziging van artikel 357 van het Gerechtelijk Wetboek.

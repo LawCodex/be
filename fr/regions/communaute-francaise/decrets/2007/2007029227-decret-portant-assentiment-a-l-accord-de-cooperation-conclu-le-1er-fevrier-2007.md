@@ -13,7 +13,7 @@ entry_into_force: 2007-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/19/2007029227/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Décret portant assentiment à l'Accord de coopération conclu le 1er février 2007 entre la Région de Bruxelles-Capitale, la Communauté française et la Commission communautaire française relatif à l'équipement mis à disposition dans le cadre de la revalorisation de l'enseignement qualifiant et à la collaboration entre les Centres de technologies avancées et les Centres de référence professionnelle.

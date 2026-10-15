@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/23/2016031900/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 03-01-2017 et mise à jour au 14-03-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Ordonnance contenant le Budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 2017

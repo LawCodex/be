@@ -12,7 +12,7 @@ entry_into_force: 2001-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/26/2001009787/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2001. - Loi modifiant l'article 50 du Code judiciaire.

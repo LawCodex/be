@@ -11,7 +11,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1807/09/10/1807091050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 05-01-1989 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBER 1807. - WETBOEK VAN KOOPHANDEL : BOEK I. \_ Koophandel in het algemeen.

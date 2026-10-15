@@ -12,7 +12,7 @@ entry_into_force: 2002-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/15/2002015102/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2002. - Wet houdende instemming met de Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk België en de Regering van de Russische Federatie, en met de Bijlage, ondertekend te Brussel op 8 december 1993.

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/17/2025008997/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
 justel_note: "Consultation des versions antérieures à partir du 28-11-2025 et mise à jour au 21-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2025. - Loi modifiant la loi du 26 mai 2002 concernant le droit à l'intégration sociale en ce qui concerne la compensation des cpas suite à la limitation dans le temps des allocations de chômage

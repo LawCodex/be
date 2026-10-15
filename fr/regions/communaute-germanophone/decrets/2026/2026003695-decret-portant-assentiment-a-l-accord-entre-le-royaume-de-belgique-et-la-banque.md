@@ -13,7 +13,7 @@ entry_into_force: 2026-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/27/2026003695/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2026. - Décret portant assentiment à l'accord entre le Royaume de Belgique et la Banque européenne pour la reconstruction et le développement relatif à l'établissement en Belgique d'un bureau de coordination opérationnelle de cette organisation, fait à Bruxelles le 14 mars 2025

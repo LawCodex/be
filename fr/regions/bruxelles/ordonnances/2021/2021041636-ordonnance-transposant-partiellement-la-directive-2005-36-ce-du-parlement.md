@@ -13,7 +13,7 @@ entry_into_force: 2021-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/05/20/2021041636/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2021. - Ordonnance transposant partiellement la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles et transposant partiellement la directive (UE) 2018/958 du Parlement européen et du Conseil du 28 juin 2018 relative à un contrôle de proportionnalité avant l'adoption d'une nouvelle réglementation de professions

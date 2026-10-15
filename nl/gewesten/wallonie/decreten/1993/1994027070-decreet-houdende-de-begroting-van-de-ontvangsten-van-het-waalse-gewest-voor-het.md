@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/23/1994027070/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1993. - Decreet houdende de begroting van de ontvangsten van het Waalse Gewest voor het begrotingsjaar 1994 (Vertaling).

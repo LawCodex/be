@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/02/19/2009A31132/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 19-03-2009 en tekstbijwerking tot 09-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2009. - Ordonnantie betreffende de Adviesraad voor gezondheids- en welzijnszorg van de Gemeenschappelijke Gemeenschapscommissie, gecoördineerd op 19 februari 2009

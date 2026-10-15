@@ -13,7 +13,7 @@ entry_into_force: 2003-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/16/2003201549/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2003. - Décret modifiant le décret du 27 juin 1996 relatif aux déchets.

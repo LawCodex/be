@@ -10,7 +10,7 @@ date: 2014-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/18/2014015182/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2014. - Wet houdende instemming met het Protocol inzake de voorrechten en immuniteiten van de Europese Organisatie voor kernfysisch onderzoek, gedaan te Genève op 18 maart 2004

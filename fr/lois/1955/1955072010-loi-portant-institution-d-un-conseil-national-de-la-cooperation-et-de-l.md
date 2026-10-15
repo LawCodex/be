@@ -13,7 +13,7 @@ last_amended: 2024-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/07/20/1955072010/justel"
 justel_note: "Consultation des versions antérieures à partir du 24-07-2013 et mise à jour au 11-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1955. - [Loi portant institution d'un Conseil national de la coopération et de l'entreprise sociale] &lt;L 2024-05-03/39 , art. 3, 004; En vigueur : 21-06-2024&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2016-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/01/29/2016009066/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2016. - Loi modifiant la loi organique du 30 novembre 1998 des services de renseignement et de sécurité, concernant le contrôle des activités des services de renseignement étrangers en Belgique

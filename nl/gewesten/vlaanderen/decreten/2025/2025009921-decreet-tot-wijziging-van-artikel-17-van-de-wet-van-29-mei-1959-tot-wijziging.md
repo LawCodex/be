@@ -13,7 +13,7 @@ entry_into_force: 2026-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/12/2025009921/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2025. - Decreet tot wijziging van artikel 17 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving en van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat betreft de subsidiëring van de kosten om asbesthoudende en asbestverdachte materialen in gebouwen die bestemd zijn voor het gesubsidieerd onderwijs en het gemeenschapsonderwijs te verwijderen en af te voeren

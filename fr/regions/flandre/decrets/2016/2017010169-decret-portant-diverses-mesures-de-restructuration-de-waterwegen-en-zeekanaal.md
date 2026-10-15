@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017010169/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2017 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret portant diverses mesures de restructuration de Waterwegen en Zeekanaal SA de droit public et de De Scheepvaart SA de droit public

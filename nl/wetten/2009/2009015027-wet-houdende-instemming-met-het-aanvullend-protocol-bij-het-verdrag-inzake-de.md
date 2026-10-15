@@ -12,7 +12,7 @@ entry_into_force: 2009-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/16/2009015027/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2009. - Wet houdende instemming met het Aanvullend Protocol bij het Verdrag inzake de strafrechtelijke bestrijding van corruptie, gedaan te Straatsburg op 15 mei 2003

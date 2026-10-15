@@ -11,7 +11,7 @@ entry_into_force: 2022-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/08/21/2022033235/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AUGUSTUS 2022. - Wet op het statuut van en het toezicht op beursvennootschappen voor wat betreft bepaalde versnelde procedures voor beroep bij de Raad van State

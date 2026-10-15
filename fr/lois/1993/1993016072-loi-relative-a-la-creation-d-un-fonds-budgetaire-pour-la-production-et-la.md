@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/03/17/1993016072/justel"
 department: "Agriculture"
 justel_note: "Consultation des versions antérieures à partir du 19-03-1999 et mise à jour au 07-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1993. - Loi relative à la création d'un Fonds budgétaire pour la production et la protection des végétaux et des produits végétaux.

@@ -13,7 +13,7 @@ entry_into_force: 2012-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/26/2012200656/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2012. - Décret portant assentiment à l'accord de coopération conclu le 10 novembre 2011 entre la Communauté française et la Région wallonne créant une Ecole d'administration publique commune à la Communauté française et à la Région wallonne

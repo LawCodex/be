@@ -13,7 +13,7 @@ entry_into_force: 2017-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/01/2016036276/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2016. - Decreet tot wijziging van de regelgeving voor ruimtelijke uitvoeringsplannen teneinde de planmilieueffectrapportage en andere effectbeoordelingen in het planningsproces voor ruimtelijke uitvoeringsplannen te integreren door wijziging van diverse decreten

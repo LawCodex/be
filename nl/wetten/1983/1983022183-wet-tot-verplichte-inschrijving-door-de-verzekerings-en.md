@@ -12,7 +12,7 @@ entry_into_force: 1983-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/06/08/1983022183/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1983. - Wet tot verplichte inschrijving door de verzekerings- en herverzekeringsondernemingen op een lening van 5 miljard frank ten voordele van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering.

@@ -13,7 +13,7 @@ entry_into_force: 1997-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/02/04/1997035220/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1997. - Décret portant approbation du Traité d'entente et de coopération entre le Royaume de Belgique et la Fédération de la Russie, signé à Bruxelles le 8 décembre 1993 (TRADUCTION).

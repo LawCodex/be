@@ -12,7 +12,7 @@ entry_into_force: 2002-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/17/2002012829/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2002. - Loi modifiant le Code judiciaire à l'occasion de la loi du 11 juin 2002 relatif à la protection contre la violence et le harcèlement moral ou sexuel au travail.

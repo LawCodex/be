@@ -11,7 +11,7 @@ published: 2023-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/11/2023043802/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2023. - Wet tot wijziging van de wetten op de Raad van State, gecoördineerd op 12 januari 1973

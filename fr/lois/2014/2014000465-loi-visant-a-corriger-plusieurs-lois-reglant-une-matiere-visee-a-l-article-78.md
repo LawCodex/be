@@ -12,7 +12,7 @@ entry_into_force: 2014-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/25/2014000465/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Loi visant à corriger plusieurs lois réglant une matière visée à l'article 78 de la Constitution

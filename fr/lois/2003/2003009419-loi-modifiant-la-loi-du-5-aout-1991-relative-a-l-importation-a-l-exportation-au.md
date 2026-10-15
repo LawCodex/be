@@ -12,7 +12,7 @@ entry_into_force: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/26/2003009419/justel"
 department: "Economie, PME, Classes moyennes et Energie - Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2003. - Loi modifiant la loi du 5 août 1991 relative à l'importation, à l'exportation, au transit et à la lutte contre le trafic d'armes, de munitions et de matériel devant servir spécialement à un usage militaire et de la technologie y afférente.

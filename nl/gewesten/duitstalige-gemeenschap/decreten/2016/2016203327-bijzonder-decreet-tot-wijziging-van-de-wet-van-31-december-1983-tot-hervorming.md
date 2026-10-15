@@ -13,7 +13,7 @@ entry_into_force: 2016-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/30/2016203327/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2016. - Bijzonder decreet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige gemeenschap en van de wet van 6 juli 1990 tot regeling van de wijze waarop het parlement van de Duitstalige gemeenschap wordt verkozen

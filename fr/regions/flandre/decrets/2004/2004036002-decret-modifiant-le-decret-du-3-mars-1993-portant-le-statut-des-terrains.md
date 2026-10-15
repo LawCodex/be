@@ -13,7 +13,7 @@ entry_into_force: 2004-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036002/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant le décret du 3 mars 1993 portant le statut des terrains destinés aux résidences de loisirs de plein air

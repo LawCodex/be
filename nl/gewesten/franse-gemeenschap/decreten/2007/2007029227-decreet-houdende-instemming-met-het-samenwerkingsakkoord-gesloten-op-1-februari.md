@@ -11,7 +11,7 @@ date: 2007-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/19/2007029227/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Decreet houdende instemming met het Samenwerkingsakkoord gesloten op 1 februari 2007 tussen het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie betreffende de uitrusting die ter beschikking wordt gesteld in het kader van de herwaardering van het kwalificatieonderwijs en betreffende de samenwerking tussen de centra voor geavanceerde technologieën en de professionele referentiecentra (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029456/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet tot wijziging van het decreet van 14 november 2008 tot oprichting van de Jeugdraad in de Franse Gemeenschap

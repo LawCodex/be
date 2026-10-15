@@ -12,7 +12,7 @@ entry_into_force: 2025-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/11/13/2024011820/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2024. - Wet tot goedkeuring van de algemene rekening van het algemeen bestuur en van de algemene rekeningen van de administratieve openbare instellingen met ministerieel beheer en van de administratieve diensten met boekhoudkundige autonomie van het jaar 2023

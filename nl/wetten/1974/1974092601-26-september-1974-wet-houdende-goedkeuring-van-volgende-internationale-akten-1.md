@@ -11,7 +11,7 @@ published: 1975-01-29
 entry_into_force: 1975-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/09/26/1974092601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 1974. \_ Wet houdende goedkeuring van volgende internationale akten : 1. Verdrag tot oprichting van de wereldorganisatie voor de intellectuele eigendom, opgemaakt te Stockholm op 14 juli 1967; 2. Verdrag van Parijs van 20 maart 1883 tot bescherming van de industriële eigendom, herzien te Stockholm op 14 juli 1967; 3. Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, herzien te Stockholm op 14 juli 1967; 4. Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten voor de inschrijving van merken van 15 juni 1957, herzien te Stockholm op 14 juli 1967; 5. Akte van Stockholm van 14 juli 1967 ter aanvulling van de overeenkomst van 's-Gravenhage betreffende het internationale depot van tekeningen en modellen van nijverheid van 6 november 1925; 6. Verdrag van Bern van 9 september 1886 voor de bescherming van werken van letterkunde en kunst, herzien te Stockholm op 14 juli 1967.

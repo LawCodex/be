@@ -13,7 +13,7 @@ entry_into_force: 2011-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/06/2011202764/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2011. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République de Kosovo, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Pristina le 9 mars 2010

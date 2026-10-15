@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/09/15/2013002044/justel"
 department: "Personnel et Organisation"
 justel_note: "Consultation des versions antérieures à partir du 17-06-2019 et mise à jour au 23-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2013. - Loi relative à la dénonciation d'une atteinte suspectée à l'intégrité au sein d'une autorité administrative fédérale par un membre de son personnel

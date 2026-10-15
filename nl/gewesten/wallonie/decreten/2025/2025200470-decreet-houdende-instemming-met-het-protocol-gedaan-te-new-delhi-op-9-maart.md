@@ -13,7 +13,7 @@ entry_into_force: 2025-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/01/16/2025200470/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2025. - Decreet houdende instemming met het Protocol, gedaan te New Delhi op 9 maart 2017, tot wijziging van de Overeenkomst en het Protocol tussen de Regering van het Koninkrijk België en de Regering van de Republiek India tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, beide ondertekend te Brussel op 26 april 1993

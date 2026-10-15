@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025009870/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2025 et mise à jour au 06-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi exécutant une politique renforcée de retour au travail en cas d'incapacité de travail

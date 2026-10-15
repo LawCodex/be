@@ -12,7 +12,7 @@ entry_into_force: 2019-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/07/2019012566/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2019. - Wet houdende instemming met het samenwerkingsakkoord van 31 augustus 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de coördinatie van de radiofrequenties voor radio-omroep in de frequentieband 87,5-108 MHz overeenkomstig artikel 17 van de wet van 13 juni 2005 betreffende de elektronische communicatie

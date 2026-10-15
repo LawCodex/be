@@ -13,7 +13,7 @@ entry_into_force: 2017-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/12/2017205415/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2017. - Décret portant assentiment, en ce qui concerne les matières de la Communauté française dont l'exercice a été transféré à la Région wallonne, à l'Accord de Partenariat et de Coopération renforcé entre l'Union européenne et ses Etats membres, d'une part, et la République du Kazakhstan, d'autre part, signé à Astana le 21 décembre 2015

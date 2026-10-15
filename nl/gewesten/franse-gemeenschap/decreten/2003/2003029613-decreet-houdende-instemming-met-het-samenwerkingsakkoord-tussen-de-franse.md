@@ -12,7 +12,7 @@ published: 2003-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/19/2003029613/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2003. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en het Waalse Gewest inzake ondersteuning van schoolintegratie van jongeren met een handicap. (Vertaling).

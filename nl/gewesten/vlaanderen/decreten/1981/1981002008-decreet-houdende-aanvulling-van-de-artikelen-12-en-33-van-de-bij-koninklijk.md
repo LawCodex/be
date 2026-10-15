@@ -11,7 +11,7 @@ date: 1981-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1981/06/30/1981002008/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1981. - Decreet houdende aanvulling van de artikelen 12 en 33 van de bij Koninklijk Besluit van 18 juli 1966 gecoördineerde wetten op het gebruik van de talen in bestuurszaken wat betreft het gebruik van de talen in de betrekkingen tussen de bestuursdiensten van het Nederlands Taalgebied en de Particulieren.

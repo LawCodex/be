@@ -12,7 +12,7 @@ entry_into_force: 2005-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/07/2005007103/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2005. - Wet houdende tweede aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 2004 - Sectie 16 "Landsverdediging".

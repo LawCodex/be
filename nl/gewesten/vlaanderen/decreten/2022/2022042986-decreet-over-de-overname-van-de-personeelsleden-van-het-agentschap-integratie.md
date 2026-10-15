@@ -13,7 +13,7 @@ entry_into_force: 2023-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/02/2022042986/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2022. - Decreet over de overname van de personeelsleden van het Agentschap Integratie en Inburgering door het agentschap Facilitair Bedrijf

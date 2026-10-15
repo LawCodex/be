@@ -16,7 +16,7 @@ department: "Premier Ministre"
 justel_notes:
   - "loi abrogée avec effet au 01/07/2013 pour les marchés publics, les marchés et les concessions de travaux publics publiés ou qui auraient dû être publiés à partir de cette date au Journal officiel de lUnion européenne ou au Bulletin des Adjudications ainsi que pour les marchés publics, les marchés, et les concessions de travaux publics, pour lesquels, à défaut dune obligation de publication préalable, linvitation à introduire une demande de participation ou une offre est lancée à partir de cette date. <(L 2006-06-15/57, art. 78, 015 et 016; En vigueur : 01-07-2013>"
   - "Consultation des versions antérieures à partir du 26-01-1996 et mise à jour au 28-12-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1993. - Loi relative aux marchés publics et à certains marchés de travaux, de fourniture et de services.

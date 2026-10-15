@@ -10,7 +10,7 @@ date: 1973-03-28
 published: 1973-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/03/28/1973032801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 1973. \_ Loi majorant les pensions des travailleurs salarié s et instaurant un mécanisme d'adaptation du montant des pensions à l'évolution du bien-être général.

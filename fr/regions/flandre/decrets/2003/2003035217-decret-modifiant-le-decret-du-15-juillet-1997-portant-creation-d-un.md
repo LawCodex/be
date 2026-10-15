@@ -13,7 +13,7 @@ entry_into_force: 2003-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/31/2003035217/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2003. - Décret modifiant le décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant, et le décret du 7 juillet 1998 instaurant le Service de médiation flamand (TRADUCTION).

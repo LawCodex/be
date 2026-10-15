@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/09/2012036205/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-11-2012 et mise à jour au 29-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2012. - Décret portant diverses mesures relatives aux finances et au budget

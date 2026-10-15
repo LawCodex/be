@@ -12,7 +12,7 @@ entry_into_force: 2018-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/08/30/2017031611/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2017. - Wet houdende instemming met het Multilateraal Akkoord tussen bevoegde autoriteiten betreffende de automatische uitwisseling van inlichtingen inzake financiële rekeningen, ondertekend te Berlijn op 29 oktober 2014

@@ -12,7 +12,7 @@ entry_into_force: 1995-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/07/1995003326/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1995. - Loi modifiant les lois sur les sociétés commerciales, coordonnées le 30 novembre 1935 et modifiant l'arrêté royal n° 62 du 10 novembre 1967 favorisant la circulation de valeurs mobilières.

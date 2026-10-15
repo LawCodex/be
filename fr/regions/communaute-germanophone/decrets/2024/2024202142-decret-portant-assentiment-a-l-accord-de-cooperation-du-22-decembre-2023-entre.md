@@ -13,7 +13,7 @@ entry_into_force: 2024-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/25/2024202142/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2024. - Décret portant assentiment à l'Accord de coopération du 22 décembre 2023 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement de données relatives à CoBRHA+

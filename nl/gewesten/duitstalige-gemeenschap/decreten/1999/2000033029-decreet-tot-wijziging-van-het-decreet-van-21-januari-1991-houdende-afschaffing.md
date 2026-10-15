@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/20/2000033029/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 06-07-2000 en tekstbijwerking tot 13-04-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1999. - Decreet tot wijziging van het decreet van 21 januari 1991 houdende afschaffing en reorganisatie van begrotingsfondsen en tot oprichting van een " Sport-, Freizeit- und Touristikzentrum Worriken " (Sport-, Vrijetijds- en Toerismecentrum van Worriken), dienst met autonoom beheer (VERTALING). -

@@ -12,7 +12,7 @@ entry_into_force: 2020-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/17/2020042414/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Ordonnantie tot wijziging van het Wetboek van 25 maart 1999 van inspectie, preventie, vaststelling en bestraffing van milieumisdrijven, en milieuaansprakelijkheid

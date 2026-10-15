@@ -12,7 +12,7 @@ entry_into_force: 2014-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014014515/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet tot wijziging van de wet van 30 juli 1926 tot instelling van een onderzoeksraad voor de scheepvaart

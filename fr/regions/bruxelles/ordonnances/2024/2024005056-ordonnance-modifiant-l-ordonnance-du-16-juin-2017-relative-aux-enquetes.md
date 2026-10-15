@@ -13,7 +13,7 @@ entry_into_force: 2024-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005056/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance modifiant l'ordonnance du 16 juin 2017 relative aux enquêtes parlementaires de l'Assemblée réunie de la Commission communautaire commune

@@ -12,7 +12,7 @@ entry_into_force: 1988-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/06/11/1988015103/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1987. - Wet houdende goedkeuring van het Verdrag nr. 154 betreffende de bevordering van het collectief overleg, aangenomen te Genève op 19 juni 1981 door de Internationale Arbeidsconferentie tijdens haar zevenenzestigste Zitting.

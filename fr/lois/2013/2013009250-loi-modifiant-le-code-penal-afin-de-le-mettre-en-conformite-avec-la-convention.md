@@ -12,7 +12,7 @@ entry_into_force: 2013-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/23/2013009250/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2013. - Loi modifiant le Code pénal afin de le mettre en conformité avec la Convention internationale pour la répression des actes de terrorisme nucléaire, faite à New York, le 14 septembre 2005, et avec l'Amendement de la Convention sur la protection physique des matières nucléaires, adopté à Vienne le 8 juillet 2005 par la Conférence des Etats parties à la Convention

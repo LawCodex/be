@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035844/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2004 et mise à jour au 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - [Décret portant transformation de l'agence autonomisée interne dotée de la personnalité juridique "Agentschap voor Infrastructuur in het Onderwijs" en l'agence autonomisée externe de droit public "Agentschap voor Infrastructuur in het Onderwijs"] &lt;Intitulé remplacé par DCFL 2012-11-16/05 , art. 2, 002; En vigueur : 29-12-2012&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2002-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/05/2002012441/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2002. - Loi modifiant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.

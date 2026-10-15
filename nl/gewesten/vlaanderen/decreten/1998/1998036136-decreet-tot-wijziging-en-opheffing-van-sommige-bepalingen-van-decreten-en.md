@@ -13,7 +13,7 @@ entry_into_force: 1980-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/07/1998036136/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1998. - Decreet tot wijziging en opheffing van sommige bepalingen van decreten en wetten betreffende sommige Vlaamse openbare instellingen en tot opheffing van wettelijke bepalingen inzake prioritaire aanwerving bij de Vlaamse openbare instellingen.

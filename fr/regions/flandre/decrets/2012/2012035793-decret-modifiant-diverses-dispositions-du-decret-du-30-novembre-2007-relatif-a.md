@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/29/2012035793/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2012. - Décret modifiant diverses dispositions du décret du 30 novembre 2007 relatif à la politique locale d'encadrement de l'enseignement

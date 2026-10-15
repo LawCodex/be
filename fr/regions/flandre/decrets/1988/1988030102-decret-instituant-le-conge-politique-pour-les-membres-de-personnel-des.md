@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/11/30/1988030102/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-11-2006 et mise à jour au 31-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1988. - Décret [instituant le congé politique pour les membres de personnel des organismes publics et des associations de droit public qui relèvent de la Communauté flamande]. (DCFL 1990-07-31/57, art. 2)

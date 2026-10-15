@@ -12,7 +12,7 @@ published: 2015-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/02/2015205496/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBER 2015. - Decreet betreffende de authentificering van handelingen met een onroerend karakter van de Duitstalige Gemeenschap en van de openbare instellingen die onder de Duitstalige Gemeenschap ressorteren

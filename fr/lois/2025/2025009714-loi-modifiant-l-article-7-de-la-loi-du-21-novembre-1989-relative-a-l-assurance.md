@@ -12,7 +12,7 @@ entry_into_force: 2026-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/12/2025009714/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2025. - Loi modifiant l'article 7 de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs

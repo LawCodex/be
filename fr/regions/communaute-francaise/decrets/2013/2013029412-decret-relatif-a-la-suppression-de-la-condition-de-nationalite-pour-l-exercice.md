@@ -13,7 +13,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/20/2013029412/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2013. - Décret relatif à la suppression de la condition de nationalité pour l'exercice des fonctions de recrutement et de sélection dans l'enseignement organisé ou subventionné par la Communauté française

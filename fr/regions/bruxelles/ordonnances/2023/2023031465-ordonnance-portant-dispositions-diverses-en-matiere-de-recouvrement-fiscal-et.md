@@ -13,7 +13,7 @@ entry_into_force: 2023-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/07/06/2023031465/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2023. - Ordonnance portant dispositions diverses en matière de recouvrement fiscal et non fiscal réalisé par l'administration fiscale régionale

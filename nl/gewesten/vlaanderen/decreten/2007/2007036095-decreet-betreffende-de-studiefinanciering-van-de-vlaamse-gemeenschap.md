@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/08/2007036095/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 19-07-2007 en tekstbijwerking tot 26-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2007. - Decreet betreffende de studiefinanciering van de Vlaamse Gemeenschap

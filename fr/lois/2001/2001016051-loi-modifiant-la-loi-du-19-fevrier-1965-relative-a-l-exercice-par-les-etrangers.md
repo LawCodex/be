@@ -12,7 +12,7 @@ entry_into_force: 2001-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/02/2001016051/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2001. - Loi modifiant la loi du 19 février 1965 relative à l'exercice, par les étrangers, des activités professionnelles indépendantes.

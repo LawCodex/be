@@ -12,7 +12,7 @@ entry_into_force: 2010-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/05/07/2010009513/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2010. - Wet tot wijziging van het Gerechtelijk Wetboek wat de aanwijzing van tot de inruststelling toegelaten magistraten als plaatsvervangende magistraten betreft

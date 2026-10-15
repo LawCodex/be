@@ -13,7 +13,7 @@ entry_into_force: 2018-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/09/2018010885/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2018. - Décret portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République de l'Ouganda tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, et le protocole signés à Kampala le 26 juillet 2007, tels que modifiés par le protocole, signé à Kampala le 25 avril 2014 ; 2° au protocole, signé à Kampala le 25 avril 2014, modifiant la convention visée au point 1°

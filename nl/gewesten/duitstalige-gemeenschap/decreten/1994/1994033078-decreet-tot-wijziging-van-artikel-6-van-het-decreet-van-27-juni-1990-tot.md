@@ -12,7 +12,7 @@ entry_into_force: 1993-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/27/1994033078/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1994. - Decreet tot wijziging van artikel 6 van het decreet van 27 juni 1990 tot vaststelling van de wijze waarop de ambten van het personeel voor buitengewoon onderwijs worden bepaald.

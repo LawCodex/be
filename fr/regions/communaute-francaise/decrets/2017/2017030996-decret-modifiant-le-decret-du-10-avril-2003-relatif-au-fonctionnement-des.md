@@ -13,7 +13,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017030996/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret modifiant le décret du 10 avril 2003 relatif au fonctionnement des instances d'avis oeuvrant dans le secteur culturel et l'arrêté du Gouvernement de la Communauté française du 23 juin 2006 instituant les missions, la composition et les aspects essentiels du fonctionnement d'instances d'avis tombant dans le champ d'application du décret du 10 avril 2003 relatif au fonctionnement des instances d'avis oeuvrant dans le secteur culturel

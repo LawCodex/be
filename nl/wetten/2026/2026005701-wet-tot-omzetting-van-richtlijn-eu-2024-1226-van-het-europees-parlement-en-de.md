@@ -12,7 +12,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/15/2026005701/justel"
 department: "Economie, KMO, Middenstand en Energie - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking - Financiën - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2026. - Wet tot omzetting van Richtlijn (EU) 2024/1226 van het Europees Parlement en de Raad van 24 april 2024 betreffende de definitie van strafrechtelijke delicten en van sancties voor de schending van beperkende maatregelen van de Unie en tot wijziging van Richtlijn (EU) 2018/1673 en andere bepalingen

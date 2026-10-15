@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/11/19/2010206404/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2010 en tekstbijwerking tot 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2010. - Decreet tot oprichting van een Vlaams communicatiehuis in Brussel onder de vorm van het extern verzelfstandigd agentschap Muntpunt VZW

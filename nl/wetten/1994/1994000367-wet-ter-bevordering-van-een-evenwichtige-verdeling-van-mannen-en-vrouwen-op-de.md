@@ -12,7 +12,7 @@ entry_into_force: 1994-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/24/1994000367/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 1994. - Wet ter bevordering van een evenwichtige verdeling van mannen en vrouwen op de kandidatenlijsten voor de verkiezingen.

@@ -13,7 +13,7 @@ entry_into_force: 1997-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/02/20/1997027128/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1997. - Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la Fédération de Russie, d'autre part, faits à Corfou le 24 juin 1994.

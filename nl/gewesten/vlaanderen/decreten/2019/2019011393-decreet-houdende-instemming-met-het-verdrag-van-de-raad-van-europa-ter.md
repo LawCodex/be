@@ -13,7 +13,7 @@ entry_into_force: 2019-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/15/2019011393/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2019. - Decreet houdende instemming met het Verdrag van de Raad van Europa ter voorkoming van terrorisme, gedaan te Warschau op 16 mei 2005

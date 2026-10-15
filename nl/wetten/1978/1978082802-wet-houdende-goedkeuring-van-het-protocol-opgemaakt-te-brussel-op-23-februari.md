@@ -10,7 +10,7 @@ date: 1978-08-28
 entry_into_force: 1978-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/08/28/1978082802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AUGUSTUS 1978. - Wet houdende goedkeuring van het Protocol, opgemaakt te Brussel op 23 februari 1968, tot wijziging van het Internationale Verdrag voor de eenmaking van bepaalde regelen inzake cognossementen, ondertekend te Brussel op 25 augustus 1924.

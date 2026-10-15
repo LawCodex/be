@@ -13,7 +13,7 @@ entry_into_force: 2011-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/28/2011201959/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2011. - Decreet houdende instemming met het Verdrag inzake de bevoegdheid, het toepasselijk recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen, opgemaakt in Den Haag op 19 oktober 1996

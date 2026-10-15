@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/25/2014021085/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet tot wijziging van de wet van 8 april 1965 tot instelling van het wettelijk depot bij de Koninklijke Bibliotheek van België

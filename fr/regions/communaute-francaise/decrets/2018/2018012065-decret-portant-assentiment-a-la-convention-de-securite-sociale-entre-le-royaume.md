@@ -13,7 +13,7 @@ entry_into_force: 2018-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/03/2018012065/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2018. - Décret portant assentiment à la Convention de sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, signée le 18 février 2014 à Bruxelles

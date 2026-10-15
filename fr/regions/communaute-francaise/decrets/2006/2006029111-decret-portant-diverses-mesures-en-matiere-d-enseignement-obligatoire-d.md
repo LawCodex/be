@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/20/2006029111/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2006 et mise à jour au 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2006. - Décret portant diverses mesures en matière d'enseignement obligatoire, d'enseignement supérieur, de culture et d'éducation permanente.

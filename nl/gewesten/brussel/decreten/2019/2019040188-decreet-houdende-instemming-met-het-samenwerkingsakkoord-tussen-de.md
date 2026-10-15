@@ -13,7 +13,7 @@ entry_into_force: 2019-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/24/2019040188/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2019. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie betreffende de oprichting en de werking van de Permanente Overlegcommissie inzake niet-dringend ziekenvervoer

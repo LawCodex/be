@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/25/2012203997/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-07-2012 en tekstbijwerking tot 09-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2012. - [Het decreet van 25 juni 2012 over de onderwijsinspectie, het adviespunt voor schoolontwikkeling en het adviespunt voor inclusie en integratie in het onderwijs] &lt;DDG 2019-05-06/10 , art. 214, 006; Inwerkingtreding : 01-09-2019&gt;

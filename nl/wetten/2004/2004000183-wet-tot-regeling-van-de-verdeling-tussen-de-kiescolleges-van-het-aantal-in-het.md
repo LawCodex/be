@@ -12,7 +12,7 @@ entry_into_force: 2004-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/05/2004000183/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2004. - Wet tot regeling van de verdeling tussen de kiescolleges van het aantal in het Europees Parlement te verkiezen Belgische leden.

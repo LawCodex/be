@@ -11,7 +11,7 @@ entry_into_force: 2017-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/18/2017040677/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2016. - Wet houdende instemming met het Avenant tussen het Koninkrijk België en de Zwitserse Bondsstaat tot wijziging van de Overeenkomst van 28 augustus 1978 tussen het Koninkrijk België en de Zwitserse Bondsstaat tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 10 april 2014

@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014202099/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret modifiant le Code de la démocratie locale et de la décentralisation et diverses dispositions relatives à la tutelle sur les établissements chargés de la gestion du temporel des cultes reconnus

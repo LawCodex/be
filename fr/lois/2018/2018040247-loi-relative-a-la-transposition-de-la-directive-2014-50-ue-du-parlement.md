@@ -12,7 +12,7 @@ entry_into_force: 2018-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/27/2018040247/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2018. - Loi relative à la transposition de la directive 2014/50/UE du Parlement européen et du Conseil du 16 avril 2014 relative aux prescriptions minimales visant à accroître la mobilité des travailleurs entre les Etats membres en améliorant l'acquisition et la préservation des droits à pension complémentaire

@@ -12,7 +12,7 @@ entry_into_force: 2003-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/22/2003003094/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2003. - Loi portant deuxième ajustement du Budget général des dépenses pour l'année budgétaire 2002 - Section 16 " Défense nationale ".HI:??2,Chambre des Représentants Documents : Doc 50 2144/(2002/2003) : 001 : Projet transmis par le Sénat. 002 : Rapport. 003 : Texte adopté en séance plénière et soumis à la sanction royale. Annales parlementaires : Discussion et adoption. Séance du 18 et 19 décembre 2002.

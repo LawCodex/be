@@ -13,7 +13,7 @@ entry_into_force: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/03/2015031845/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Ordonnantie houdende instemming met : de Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun Lidstaten, enerzijds, en Oekraïne, anderzijds, gedaan te Brussel op 21 maart 2014 en op 27 juni 2014

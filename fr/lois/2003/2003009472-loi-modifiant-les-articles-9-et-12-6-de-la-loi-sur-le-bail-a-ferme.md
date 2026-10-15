@@ -12,7 +12,7 @@ entry_into_force: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003009472/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi modifiant les articles 9 et 12.6 de la loi sur le bail à ferme.

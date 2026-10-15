@@ -11,7 +11,7 @@ published: 1944-09-15
 entry_into_force: 1944-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1944/09/12/1944091250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBRE 1944. - ARRETE-LOI modifiant la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions.

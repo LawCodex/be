@@ -12,7 +12,7 @@ entry_into_force: 2018-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/25/2018012665/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2018. - Loi visant à approuver le compte général de l'Administration générale pour l'année 2016 et des comptes d'exécution des budgets des Services de l'Etat à gestion séparée pour des années précédentes

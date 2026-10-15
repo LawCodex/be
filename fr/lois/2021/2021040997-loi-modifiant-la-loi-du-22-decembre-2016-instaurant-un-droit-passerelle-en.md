@@ -12,7 +12,7 @@ entry_into_force: 2021-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/28/2021040997/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2021. - Loi modifiant la loi du 22 décembre 2016 instaurant un droit passerelle en faveur des travailleurs indépendants et modifiant la loi du 23 mars 2020 modifiant la loi du 22 décembre 2016 instaurant un droit passerelle en faveur des travailleurs indépendants et introduisant des mesures temporaires dans le cadre du COVID-19 en faveur des travailleurs indépendants

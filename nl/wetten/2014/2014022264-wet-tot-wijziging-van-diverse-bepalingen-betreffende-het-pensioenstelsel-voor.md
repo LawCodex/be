@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014022264/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet tot wijziging van diverse bepalingen betreffende het pensioenstelsel voor zelfstandigen rekening houdend met het beginsel van eenheid van loopbaan

@@ -12,7 +12,7 @@ entry_into_force: 2024-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/26/2024002970/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2024. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et portant confirmation de six arrêtés royaux sur l'énergie

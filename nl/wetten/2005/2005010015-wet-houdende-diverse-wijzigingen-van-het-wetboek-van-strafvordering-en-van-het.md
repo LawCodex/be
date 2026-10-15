@@ -12,7 +12,7 @@ entry_into_force: 2005-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/27/2005010015/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2005. - Wet houdende diverse wijzigingen van het Wetboek van strafvordering en van het Gerechtelijk Wetboek met het oog op de verbetering van de onderzoeksmethoden in de strijd tegen het terrorisme en de zware en georganiseerde criminaliteit.

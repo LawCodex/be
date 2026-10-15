@@ -12,7 +12,7 @@ published: 2020-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/04/27/2020202300/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2020. - Decreet houdende instemming met het Besluit van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, van 28 april 2004 betreffende de voorrechten en immuniteiten die aan ATHENA worden verleend (2004/582/EG)

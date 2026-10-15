@@ -11,7 +11,7 @@ published: 1977-02-04
 entry_into_force: 1977-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/01/24/1977012402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 1977. - Loi portant diminution temporaire des cotisations patronales de sécurité sociale en vue de la promotion de l'emploi.

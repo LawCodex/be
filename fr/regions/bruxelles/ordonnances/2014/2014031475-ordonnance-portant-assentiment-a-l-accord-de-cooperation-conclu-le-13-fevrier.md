@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031475/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance portant assentiment à l'Accord de coopération conclu le 13 février 2014 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif aux intercommunales interrégionales

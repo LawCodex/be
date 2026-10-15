@@ -12,7 +12,7 @@ entry_into_force: 1999-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/04/1999003130/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1999. - Loi modifiant la loi du 12 juin 1930 portant création d'un Fonds monétaire et la loi du 4 avril 1995 portant des dispositions fiscales et financières.

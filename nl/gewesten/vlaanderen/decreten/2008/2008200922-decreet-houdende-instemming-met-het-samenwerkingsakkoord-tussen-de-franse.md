@@ -13,7 +13,7 @@ entry_into_force: 2008-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/07/2008200922/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2008. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake hulpverlening aan jongeren, gesloten te Brussel op 11 mei 2007.

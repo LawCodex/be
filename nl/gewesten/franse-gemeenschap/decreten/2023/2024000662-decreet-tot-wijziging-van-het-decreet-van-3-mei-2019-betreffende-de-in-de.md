@@ -13,7 +13,7 @@ entry_into_force: 2024-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/20/2024000662/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2023. - Decreet tot wijziging van het decreet van 3 mei 2019 betreffende de in de Franse Gemeenschap georganiseerde sportbeweging

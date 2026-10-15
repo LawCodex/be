@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1998027032/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 27-01-1998 en tekstbijwerking tot 20-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Programmadecreet houdende verschillende maatregelen inzake belastingen, taksen en retributies, huisvesting, onderzoek, milieu, plaatselijke besturen en vervoer (VERTALING).

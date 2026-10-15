@@ -13,7 +13,7 @@ entry_into_force: 2017-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201658/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret portant dissolution de l'Office wallon des déchets et modifiant le décret du 27 juin 1996 relatif aux déchets, le décret du 19 décembre 2002 instituant une centralisation financière des trésoreries des organismes d'intérêt public wallons, le Livre Ier du Code de l'Environnement et le décret fiscal du 22 mars 2007 favorisant la prévention et la valorisation des déchets en Région wallonne et portant modification du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales directes

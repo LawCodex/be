@@ -13,7 +13,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/04/26/2012031223/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Ordonnantie houdende instemming met : het samenwerkingsakkoord tussen de Franse Gemeenschap, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende milieu-, natuur- en duurzame ontwikkelingseducatie

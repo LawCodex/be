@@ -13,7 +13,7 @@ last_amended: 2014-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1870/03/04/1870B30450/justel"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2014 et mise à jour au 25-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1870. - Loi sur le temporel des cultes (COMMUNAUTE GERMANOPHONE)

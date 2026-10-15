@@ -12,7 +12,7 @@ published: 2019-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/11/29/2019042774/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2019. - Ordonnantie houdende aanpassing van de algemene Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2019

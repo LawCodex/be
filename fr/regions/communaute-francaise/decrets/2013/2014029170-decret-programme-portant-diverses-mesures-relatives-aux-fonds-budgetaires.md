@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/18/2014029170/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-03-2014 et mise à jour au 01-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2013. - Décret-programme portant diverses mesures relatives aux Fonds budgétaires figurant au Budget général des dépenses de la Communauté française, à la Culture, à l'Enseignement obligatoire et de promotion sociale, à l'Agence d'évaluation de la qualité de l'Enseignement supérieur organisé ou subventionné par la Communauté française, aux Bâtiments scolaires et à la Recherche

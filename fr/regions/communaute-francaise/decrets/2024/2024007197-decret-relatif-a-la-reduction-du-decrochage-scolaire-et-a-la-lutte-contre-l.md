@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024007197/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-09-2024 et mise à jour au 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Décret relatif à la réduction du décrochage scolaire et à la lutte contre l'absentéisme des élèves

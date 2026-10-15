@@ -13,7 +13,7 @@ entry_into_force: 2023-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/22/2024002319/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Décret ajustant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2023

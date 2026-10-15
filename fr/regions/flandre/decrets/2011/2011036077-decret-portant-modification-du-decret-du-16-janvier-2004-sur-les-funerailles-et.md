@@ -13,7 +13,7 @@ entry_into_force: 2012-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/09/2011036077/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2011. - Décret portant modification du décret du 16 janvier 2004 sur les funérailles et sépultures, pour ce qui concerne la destination de l'urne cinéraire

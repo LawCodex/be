@@ -13,7 +13,7 @@ entry_into_force: 1998-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/05/1998027365/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 1997. - Décret portant approbation de l'accord de coopération entre l'Etat fédéral et les Régions relatif à la coordination administrative et scientifique en matière de biosécurité.

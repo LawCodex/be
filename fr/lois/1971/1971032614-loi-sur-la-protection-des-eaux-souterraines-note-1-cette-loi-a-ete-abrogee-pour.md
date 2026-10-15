@@ -13,7 +13,7 @@ last_amended: 2014-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/03/26/1971032614/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-06-1990 et mise à jour au 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1971. - Loi sur la protection des eaux souterraines (NOTE 1 : Cette loi a été abrogée pour la Région flamande par DCFL 1984-01-24/32 ,art. 31,§1, M.B. 05-06-1984, p. 8156) (NOTE 2 : abrogée pour la Région wallonne par DRW 1990-04-30/30 , art. 24, 3°, 002; En vigueur : 30-06-1990)
